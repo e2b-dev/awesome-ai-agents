@@ -10,8 +10,10 @@
     <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
   </a>
 
-<details><summary>AgentGPT</summary>
 
+## [AgentGPT](https://agentgpt.reworkd.ai/)
+Here is a short summary
+<details>
 [Website](https://agentgpt.reworkd.ai/)
 [GitHub](https://github.com/reworkd/AgentGPT)
 
@@ -21,6 +23,8 @@ Stack:
 	- DB: MySQL through docker with the option of running SQLite locally
 -  [GitHub](https://github.com/reworkd/AgentGPT)
 </details>
+
+
 
 ## [AI Legion](https://gpt3demo.com/apps/ai-legion)
 Here is a short summary
