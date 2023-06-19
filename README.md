@@ -88,7 +88,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI. BabyCatAGI is a
 </details>
 
 
-## [:camel: Camel](https://github.com/camel-ai/camel)
+## [Camel](https://github.com/camel-ai/camel)
 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 
 <details>
@@ -103,117 +103,163 @@ Description: web based version of AutoGPT/babyAGI
 - Author: Sully Omarr
 - Twitter: https://twitter.com/SullyOmarr
 
-
 </details>
 
  
-- [**Databerry**](https://www.databerry.ai/)
+## [Databerry](https://www.databerry.ai/)
+
+
+<details>
 </details>
-<details><summary>Factory</summary>
+
+
  
-- [**Factory**](https://www.factory.ai/)
+## [Factory](https://www.factory.ai/)
+
+<details>
 </details>
-<details><summary>Fixie</summary>
- 
-- [**Fixie**](https://www.fixie.ai/)
+
+## [Fixie](https://www.fixie.ai/)
+
+<details>
 </details>
-<details><summary>Generative Agents</summary>
  
-- [**Generative Agents**](https://arxiv.org/abs/2304.03442) - "Paper presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents"
+## [Generative Agents](https://arxiv.org/abs/2304.03442)
+
+- "Paper presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents"
+
+<details>
 </details>
-<details><summary>GitWit</summary>
+
  
-- [**GitWit**](https://www.gitwit.dev/)
+## [GitWit](https://www.gitwit.dev/)
+
+<details>
 </details>
-<details><summary>Grit</summary>
+
  
-- [**Grit**](https://www.grit.io/)
+## [Grit](https://www.grit.io/)
+
+<details>
 </details>
-<details><summary>HayStack Agent</summary>
+
  
-- [**HayStack Agent**](https://docs.haystack.deepset.ai/docs/agent)
+## [HayStack Agent](https://docs.haystack.deepset.ai/docs/agent)
+
+<details>
 </details>
-<details><summary>Hex Magic</summary>
+
  
-- [**Hex Magic**](https://hex.tech/product/magic-ai/)
+## [Hex Magic](https://hex.tech/product/magic-ai/)
+
+<details>
 </details>
-<details><summary>Heymoon.ai</summary>
+
  
-- [**Heymoon.ai**](https://heymoon.ai/) - Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
+## [Heymoon.ai](https://heymoon.ai/)
+Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
+
+<details>
 </details>
-<details><summary>Hyperwrite</summary>
+
  
-- [**Hyperwrite**](https://www.hyperwriteai.com/) - Your personal AI writing assistant
+## [Hyperwrite](https://www.hyperwriteai.com/)
+Your personal AI writing assistant
+
+<details>
 </details>
-<details><summary>Jarvis</summary>
+
  
-- [**Jarvis**]()
+## [Jarvis]()
+
+<details>
 </details>
-<details><summary>LangChain</summary>
+
  
-- [**LangChain - Agents Round**](https://blog.langchain.dev/agents-round/)
+## [LangChain - Agents Round](https://blog.langchain.dev/agents-round/)
+
+<details>
 </details>
-<details><summary>LastMile AI</summary>
+
  
-- [**LastMile AI**](https://lastmileai.dev/)
+## [LastMile AI](https://lastmileai.dev/)
+
+<details>
 </details>
-<details><summary>Loop GPT</summary>
+
  
-- [**Loop GPT**](https://github.com/farizrahman4u/loopgpt/tree/main)
- 	- Languages: Python
- 	- Default model: GPT-3.5-turbo (also possible with GPT-4)
- 	- Modular Auto-GPT Framework
- 	- Plug N Play" API - Extensible and modular "Pythonic" framework, not just a command line tool
- 	- Easy to add new features, integrations and custom agent capabilities, all from python code, no nasty config files!
- 	- Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens.
- 	- Human in the Loop - Ability to "course correct" agents who go astray via human feedback.
- 	- Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!
+## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
+ 
+ <details>
+- Languages: Python
+- Default model: GPT-3.5-turbo (also possible with GPT-4)
+- Modular Auto-GPT Framework
+- Plug N Play" API - Extensible and modular "Pythonic" framework, not just a command line tool
+- Easy to add new features, integrations and custom agent capabilities, all from python code, no nasty config files!
+- Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens.
+- Human in the Loop - Ability to "course correct" agents who go astray via human feedback.
+- Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!
 	</details>
-<details><summary>Minion AI</summary>
  
-- [**Minion AI**](https://minion.ai/)
-</details>
-<details><summary>MultiOn</summary>
- 
-- [**MultiOn**](https://multion.ai/)
-</details>
-<details><summary>Naut ai</summary>
- 
-- [**Naut ai**](https://www.naut.ai/)
-</details>
-<details><summary>Pezzo</summary>
- 
-- [**Pezzo**](https://www.pezzo.ai/)
-</details>
-<details><summary>Saga</summary>
- 
-- [**Saga**](https://saga.so/)
-</details>
-<details><summary>Second</summary>
- 
-- [**Second**](https://www.second.dev/)
-</details>
-<details><summary>Smol developer</summary>
- 
-- [**Smol developer**](https://github.com/smol-ai/developer)
-</details>
-<details><summary>Superagent</summary>
- 
-- [**Superagent**](https://www.superagent.sh/)</details>
-<details><summary>Sweep</summary>
- 
-- [**Sweep**](https://sweep.dev/)
-</details>
-<details><summary>Task-driven Autonomous Agent</summary>
- 
-- [**Twitter - Introducing "🤖 Task-driven Autonomous Agent"**](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
-</details>
-<details><summary>AgentGPT</summary>
- 
+## [Minion AI](https://minion.ai/)
 
-- [Yourgoal]
-yourgoal
+<details>
+</details>
+
+ 
+## [MultiOn](https://multion.ai/)
+
+<details>
+</details>
+
+ 
+## [Naut ai](https://www.naut.ai/)
+
+<details>
+</details>
+
+ 
+## [Pezzo](https://www.pezzo.ai/)
+
+<details>
+</details>
+
+ 
+## [Saga](https://saga.so/)
+
+<details>
+</details>
+
+ 
+## [Second](https://www.second.dev/)
+
+<details>
+</details>
+
+ 
+## [Smol developer](https://github.com/smol-ai/developer)
+
+<details>
+</details>
+
+## [Superagent](https://www.superagent.sh/)</details>
+
+<details>
+</details>
+
+ 
+## [Sweep](https://sweep.dev/)
+
+<details>
+</details>
+
+
+
+## [Yourgoal]()
 
 Description: Swift implementation of BabyAGI.
+
+<details>
 Author: PJ Gray
 Twitter: https://twitter.com/pj4533
+</details>
