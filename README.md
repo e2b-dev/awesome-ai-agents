@@ -46,13 +46,40 @@ Similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
 </details>
 
 ## [AIrplane](https://www.airplane.dev/) 
-Developer infrastructure for internal tools
+Turning APIs, SQL queries, and scripts into apps for the entire team
+
 
 <details>
+
+### How it works
+- A developer-centric approach to building internal UIs and workflows
+
+### Features
+- Airplane lets you turn SQL queries, JavaScript/Python code, HTTP requests, etc into tasks
+- Allows to run tasks through a no-code dashboard
+- Tasks for customer support, on-call runbooks, and scheduled tasks
+
+### Links
+- [Documentation](https://docs.airplane.dev/)
+- [Twitter](https://twitter.com/AirplaneDev)
+
+
 </details>
 
-## [Aomni](Aomni.com)
+## [Aomni](https://www.aomni.com/)
+An AI agent specifically designed for research
 <details>
+
+### How it works
+- Breaks down a high level research question into a step-by-step plan, and executes it
+- Diverse tools, including a full web browser
+- Can access internet information without the need for an API
+- "We don't generate content using AI, as it can be unreliable. Instead, we extract relevant information from trusted sources, cluster and process it into a user-friendly format."
+- AI-powered query planner intelligently routes and executes requests, ensuring correctness and diverse source selection
+
+### Links
+-[Discord](https://discord.com/invite/a367ncqEsm)
+
 </details>
 
 
@@ -100,7 +127,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI. BabyCatAGI is a
 
 
 ## [Camel](https://github.com/camel-ai/camel)
-CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 
 <details>
 </details>
@@ -135,6 +162,24 @@ Web based version of AutoGPT/babyAGI
 
 <details>
 </details>
+
+## [Friday](https://github.com/amirrezasalimi/friday/)
+A developer assistant able to make whole nodejs project with unlimited prompts
+<details>
+
+### How it works
+- Provides a core prompt for building the foundation of your application
+- Allows you to add unlimited sections, each of which is a prompt representing a specific part of your app
+
+### Features
+- Friday utilizes GPT-4 for AI assistance, but it has been tested and optimized with GPT-4-32k for improved speed and better results.
+- It requires 2 small requests for your app's base and 1 request per section you provide.
+- Friday employs esbuild behind the scenes for every app created by it.
+
+### Links
+- **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
+
+</details>
  
  
 ## [GitWit](https://www.gitwit.dev/)
@@ -162,9 +207,14 @@ Web based version of AutoGPT/babyAGI
 
  
 ## [Heymoon.ai](https://heymoon.ai/)
-Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
+Personal assistant for life: to keep you on top of your calendar, tasks and information
 
 <details>
+
+### Features
+- Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
+
+
 </details>
 
  
@@ -257,6 +307,32 @@ Your personal AI writing assistant
 
 <details>
 </details>
+
+## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
+
+
+<details>
+
+### How it works
+- Model: GPT-4
+- Language: Python
+- Uses OpenAI and Pinecone to give memory to an AI agent and also allows it to "think" before making an action (outputting text)
+- Also, just by shutting down the AI, it doesn't forget its memories since it lives on Pinecone and its memory_counter saves the index that it's on
+
+**Here is what happens every time the AI is queried by the user:**
+
+- AI vectorizes the query and stores it in a Pinecone Vector Database
+- AI looks inside its memory and finds memories and past queries that are relevant to the current query
+- AI thinks about what action to take
+- AI stores the thought from Step 3
+- Based on the thought from Step 3 and relevant memories from Step 2, AI generates an output
+- AI stores the current query and its answer in its Pinecone vector database memory
+
+- Created by [@sean_pixel](https://twitter.com/sean_pixel)
+! 
+
+</details>
+
 
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 Westworld is a multi-agent simulation library, its goal to simulate and optimize systems and environments with multiple agents interacting.
