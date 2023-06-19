@@ -14,8 +14,9 @@
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Here is a short summary
 <details>
-[Website](https://agentgpt.reworkd.ai/)
-[GitHub](https://github.com/reworkd/AgentGPT)
+
+- [Website](https://agentgpt.reworkd.ai/)
+- [GitHub](https://github.com/reworkd/AgentGPT)
 
 Stack:
 - Frontend: NextJS + Typescript
@@ -27,54 +28,84 @@ Stack:
 
 
 ## [AI Legion](https://gpt3demo.com/apps/ai-legion)
-Here is a short summary
+Similar in spirit to AutoGPT and Baby AGI, but written in the superior language that is TypeScript (Author's Description)
 <details>
-- [**AI Legion**](https://gpt3demo.com/apps/ai-legion)
+
+- Author: eumemic
+- [Website](https://gpt3demo.com/apps/ai-legion)
 - [GitHub](https://github.com/eumemic/ai-legion)
+- [Twitter](https://twitter.com/dysmemic)
 </details>
 
-## AIrplane
-- [**AIrplane**](https://www.airplane.dev/) - Developer infrastructure for internal tools
+## [AIrplane](https://www.airplane.dev/) 
+Developer infrastructure for internal tools
 
-<details><summary>Aomni</summary>
-- [**Aomni**](Aomni.com)
+<details>
 </details>
-<details><summary>AutoGPT</summary>
 
-- [**AutoGPT**](https://autogpt.net/) [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
+## [Aomni](Aomni.com)
+<details>
 </details>
-<details><summary>BabyAGI</summary>
+
+
+
+## [AutoGPT](https://autogpt.net/) 
+
+<details>
+- [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
+</details>
  
-- [**BabyAGI**](https://github.com/yoheinakajima/babyagi)
- 	- Default model is OpenAI GPT3-turbo
- 	- Paper: [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
-</details>
-<details><summary>BabyCatAGI</summary>
+## [BabyAGI](https://github.com/yoheinakajima/babyagi)
+<details>
 
-- [**BabyCatAGI**](https://replit.com/@YoheiNakajima/BabyCatAGI)
-	- BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI. BabyCatAGI is at 300 lines of code.
-</details>
-<details><summary>BitBuilder</summary>
+- Default model is OpenAI GPT3-turbo
+- Paper: [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+- The main idea behind this system is that it creates tasks based on the result of previous tasks and a predefined objective. 
+- The script then uses OpenAI's NLP capabilities to create new tasks based on the objective
 
-[**BitBuilder**](BitBuilder)
 </details>
-<details><summary>Bloop</summary>
 
-[**Bloop**](https://bloop.ai/)
-</details>
-<details><summary>Butternut AI</summary>
 
-[**Butternut AI**](Butternut.ai)
-</details>
-<details><summary>Camel</summary>
+## [BabyCatAGI](https://replit.com/@YoheiNakajima/BabyCatAGI)
+BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI. BabyCatAGI is at 300 lines of code.
+<details>
 
-- [**Camel**](https://github.com/camel-ai/camel) - 🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
 </details>
-<details><summary>Cognosys</summary>
+
+## [BitBuilder](BitBuilder)
+
+<details>
+</details>
+
+## [Bloop](https://bloop.ai/)
+
+<details>
+</details>
+
+## [Butternut AI](Butternut.ai)
+
+<details>
+</details>
+
+
+## [:camel: Camel](https://github.com/camel-ai/camel)
+CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+
+<details>
+</details>
+
  
-- [**Cognosys**](https://cognosys.ai) - Friendly UI for building AI agents
+## [Cognosys](https://cognosys.ai) - Friendly UI for building AI agents
+Description: web based version of AutoGPT/babyAGI
+
+<details>
+
+- Author: Sully Omarr
+- Twitter: https://twitter.com/SullyOmarr
+
+
 </details>
-<details><summary>Databerry</summary>
+
  
 - [**Databerry**](https://www.databerry.ai/)
 </details>
@@ -179,3 +210,10 @@ Here is a short summary
 </details>
 <details><summary>AgentGPT</summary>
  
+
+- [Yourgoal]
+yourgoal
+
+Description: Swift implementation of BabyAGI.
+Author: PJ Gray
+Twitter: https://twitter.com/pj4533
