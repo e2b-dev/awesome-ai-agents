@@ -1,34 +1,42 @@
 # 🔮 AI Agents
 
-*Welcome to our list of AI autonomous agents. Your favorite one is missing? Add them via pull request. :heart:*
+*Welcome to our list of AI autonomous agents. Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:* 
 
 [![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
-  <a href="https://github.com/tizkovatereza/AI/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
-  </a>
-  <a href="https://twitter.com/e2b_dev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
-  </a>
-
+ <a href="https://github.com/tizkovatereza/AI/pulls">    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+</a>  <a href="https://twitter.com/e2b_dev" target="_blank">
+<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
-Here is a short summary
+A browser-based implementation of AutoGPT, accessible via a no-code platform
 <details>
 
+### How it works
+- A no-code platform
+- Assigning a goal to the agent, witnessing its thinking process, and formulation of an execution plan and taking actions accordingly
+
+### Features
+- Uses OpenAI **functions**
+- Supports gpt-3.5-16k, pinecone and pg_vector databases
+
+### Links
 - [Website](https://agentgpt.reworkd.ai/)
 - [GitHub](https://github.com/reworkd/AgentGPT)
 
-Stack:
+### Stack
 - Frontend: NextJS + Typescript
 - Backend: FastAPI + Python
 	- DB: MySQL through docker with the option of running SQLite locally
+
+### Links
+- [Documentation](https://docs.reworkd.ai/)
 -  [GitHub](https://github.com/reworkd/AgentGPT)
 </details>
 
 
 
 ## [AI Legion](https://gpt3demo.com/apps/ai-legion)
-Similar in spirit to AutoGPT and Baby AGI, but written in the superior language that is TypeScript (Author's Description)
+Similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
 <details>
 
 - Author: eumemic
@@ -128,13 +136,6 @@ Web based version of AutoGPT/babyAGI
 <details>
 </details>
  
-## [Generative Agents](https://arxiv.org/abs/2304.03442)
-
-- "Paper presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents"
-
-<details>
-</details>
-
  
 ## [GitWit](https://www.gitwit.dev/)
 
@@ -265,6 +266,14 @@ Westworld is a multi-agent simulation library, its goal to simulate and optimize
 - They walk in the park, join for coffee at a cafe, and share news with colleagues. They demonstrated surprisingly good social
 - Westworld's inspiration is drawn from Unity software and Unity ML Agents, adapted in Python
 
+
+[Underlying paper - Generative Agents](https://arxiv.org/abs/2304.03442)
+- A paper simulating interactions between tens of agents
+- Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
+
+</details>
+
+
 ### Links
 - [GitHub](https://github.com/TheoLvs/westworld)
 - [Documentation](https://theolvs.github.io/westworld/ )
@@ -272,7 +281,7 @@ Westworld is a multi-agent simulation library, its goal to simulate and optimize
 ### Languages
 - The library is available on PyPi via
 pip install westworld
-- A javascript version is being developed at https://github.com/TheoLvs/westworldjs
+- [Javascript version (being developed)](https://github.com/TheoLvs/westworldjs)
 
 ### Current features
 
@@ -300,3 +309,21 @@ Swift implementation of BabyAGI.
 Author: PJ Gray
 Twitter: https://twitter.com/pj4533
 </details>
+
+<br>
+
+## :wave: Wanna discuss AI agents and more?
+
+- [Hit us up on discord](https://discord.gg/5GmKg5Uz)
+- [Pick a date for call in our calendar](https://calendly.com/tereza-tizkova/30min)
+- Write us at hello@e2b.dev
+
+<br>
+
+# 💪 Contributors 💪 
+
+<a href="https://github.com/tizkovatereza/AI/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=tizkovatereza/AI" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
