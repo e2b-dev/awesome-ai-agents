@@ -52,6 +52,9 @@ Developer infrastructure for internal tools
 ## [AutoGPT](https://autogpt.net/) 
 
 <details>
+
+- A lot like BabyAGI combined with LangChain tools.
+- Can execute many commands such as Google Search, browse websites, write to files, and execute Python files
 - [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
 </details>
  
@@ -95,11 +98,12 @@ CAMEL: Communicative Agents for “Mind” Exploration of Large Scale Language M
 </details>
 
  
-## [Cognosys](https://cognosys.ai) - Friendly UI for building AI agents
-Description: web based version of AutoGPT/babyAGI
+## [Cognosys](https://cognosys.ai)
+Web based version of AutoGPT/babyAGI
 
 <details>
 
+- Friendly UI for building AI agents
 - Author: Sully Omarr
 - Twitter: https://twitter.com/SullyOmarr
 
@@ -253,11 +257,44 @@ Your personal AI writing assistant
 <details>
 </details>
 
+## [“Westworld” simulation](https://theolvs.github.io/westworld/)
+Westworld is a multi-agent simulation library, its goal to simulate and optimize systems and environments with multiple agents interacting.
+<details>
+
+- Researchers from Stanford and Google created an interactive sandbox env with 25 Gen AI agents can simulate human behavior
+- They walk in the park, join for coffee at a cafe, and share news with colleagues. They demonstrated surprisingly good social
+- Westworld's inspiration is drawn from Unity software and Unity ML Agents, adapted in Python
+
+### Links
+- [GitHub](https://github.com/TheoLvs/westworld)
+- [Documentation](https://theolvs.github.io/westworld/ )
+
+### Languages
+- The library is available on PyPi via
+pip install westworld
+- A javascript version is being developed at https://github.com/TheoLvs/westworldjs
+
+### Current features
+
+- Easy creation of Grid and non-grid environments
+- Objects (Agents, Obstacles, Collectibles, Triggers)
+- Subclassing of different objects to create custom objects
+- Spawner to generate objects randomly in the environment
+- Basic rigid body system for all objects
+- Simple agent behaviors (pathfinding, wandering, random walk, fleeing, vision range)
+- Automatic maze generation
+- Layer integration to convert image to obstacle and snap it to a grid
+- Sample simulations and sample agents for classic simulations
+- Simulation visualization, replay and export (gif or video)
+
+</details>
+
+
 
 
 ## [Yourgoal]()
 
-Description: Swift implementation of BabyAGI.
+Swift implementation of BabyAGI.
 
 <details>
 Author: PJ Gray
