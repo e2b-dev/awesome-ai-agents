@@ -170,15 +170,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 - Addressing comments
 - Answering questions
 
-<<<<<<< HEAD
-
-Virtual interns for developers.
-
-Task them with writing code, reviewing changes, addressing comments, answering questions, and more.
 You gotta check our
-=======
-You gotta check our 
->>>>>>> ec08b882a6d06f90e4500ca2a1afa7e3d400fdba
 @bitbuilder_ai
 , it raises pull requests against your repository. In fact the backend is built with
 @tiangolo
