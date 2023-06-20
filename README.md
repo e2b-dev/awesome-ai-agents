@@ -156,21 +156,29 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 ## [BitBuilder](https://github.com/marketplace/document-guardian)
 > Closed source. Link to their website, not GitHub marketplace - https://www.bitbuilder.ai/.
 
-Raises pull requests against your repository.
+"Virtual intern for developers", generates code via PRs raised against your repository
 <details>
 
 ### How it works
-- Working with BitBuilder is just like working with a remote colleague. Please see our full documentation for more information.
+- Create an Issue
+- Approve the Implementation Plan
+- Review the Pull Request
 
-Create an Issue
-Approve the Implementation Plan
-Review the Pull Request
+### Features
+- Writing code
+- Reviewing changes
+- Addressing comments
+- Answering questions
 
+<<<<<<< HEAD
 
 Virtual interns for developers.
 
 Task them with writing code, reviewing changes, addressing comments, answering questions, and more.
 You gotta check our
+=======
+You gotta check our 
+>>>>>>> ec08b882a6d06f90e4500ca2a1afa7e3d400fdba
 @bitbuilder_ai
 , it raises pull requests against your repository. In fact the backend is built with
 @tiangolo
@@ -179,6 +187,9 @@ You gotta check our
 We’ve made more than a pretty demo.
 @bitbuilder_ai
  will create Pull Requests from Issues. And review your code.
+
+
+
 
  ### BitBuilder Junior
 - BitBuilder Junior is an intern-level code generation tool that lives in your GitHub repository. It follows instructions to implement unamibigous code changes by changing multiple files, writing tests for generated code, and matching the style, framework, and libraries you're already using.
@@ -191,6 +202,7 @@ use BitBuilder, including private and organization repos
 
 ### Links
 - [Slack](https://bitbuilder-ai.slack.com/join/shared_invite/zt-1tlrds3n4-rpmgIGM6XrB5W97005IA1Q#/shared-invite/email)
+- [Installation(https://docs.bitbuilder.ai/install)]
 
 
 
