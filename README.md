@@ -1,6 +1,6 @@
 # 🔮 AI Agents
 
-*Welcome to our list of popular AI autonomous agents. Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:* 
+*Welcome to our list of popular AI autonomous agents. Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:*
 
 
 [![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
@@ -48,7 +48,9 @@ Similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
-## [AIrplane](https://www.airplane.dev/) 
+## [AIrplane](https://www.airplane.dev/)
+> Note: Airplane isn't AI agent. It's a company with a product for building internal tools. They're building an AI assistant here https://www.airplane.dev/autopilot. This is the link I'd be using. It's closed source.
+
 Turning APIs, SQL queries, and scripts into apps for the entire team
 
 
@@ -70,6 +72,8 @@ Turning APIs, SQL queries, and scripts into apps for the entire team
 </details>
 
 ## [Aomni](https://www.aomni.com/)
+> Note: Closed source.
+
 An AI agent specifically designed for research
 <details>
 
@@ -87,7 +91,7 @@ An AI agent specifically designed for research
 
 
 
-## [AutoGPT](https://autogpt.net/) 
+## [AutoGPT](https://autogpt.net/)
 
 <details>
 
@@ -95,13 +99,13 @@ An AI agent specifically designed for research
 - Can execute many commands such as Google Search, browse websites, write to files, and execute Python files
 - [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
 </details>
- 
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 <details>
 
 
 ### How it works
-- Creates tasks based on the result of previous tasks and a predefined objective. 
+- Creates tasks based on the result of previous tasks and a predefined objective.
 - The script then uses OpenAI's NLP capabilities to create new tasks based on the objective
 - Leverages OpenAI's GPT-4, pinecone vector search, and LangChainAI framework
 - Default model is OpenAI GPT3-turbo
@@ -150,6 +154,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 
 
 ## [BitBuilder](https://github.com/marketplace/document-guardian)
+> Closed source. Link to their website, not GitHub marketplace - https://www.bitbuilder.ai/.
 
 Raises pull requests against your repository.
 <details>
@@ -162,16 +167,16 @@ Approve the Implementation Plan
 Review the Pull Request
 
 
-Virtual interns for developers. 
+Virtual interns for developers.
 
-Task them with writing code, reviewing changes, addressing comments, answering questions, and more. 
-You gotta check our 
+Task them with writing code, reviewing changes, addressing comments, answering questions, and more.
+You gotta check our
 @bitbuilder_ai
-, it raises pull requests against your repository. In fact the backend is built with 
+, it raises pull requests against your repository. In fact the backend is built with
 @tiangolo
-’s FastAPI so I can personally attest to its ability to create routers, endpoints, and wire it all together. 
+’s FastAPI so I can personally attest to its ability to create routers, endpoints, and wire it all together.
 
-We’ve made more than a pretty demo. 
+We’ve made more than a pretty demo.
 @bitbuilder_ai
  will create Pull Requests from Issues. And review your code.
 
@@ -192,11 +197,13 @@ use BitBuilder, including private and organization repos
 </details>
 
 ## [Bloop](https://bloop.ai/)
+> Just make sure to communicate that it's a code search engine that uses an AI agent.
 
 <details>
 </details>
 
 ## [Butternut AI](Butternut.ai)
+> Closed source.
 
 <details>
 </details>
@@ -204,6 +211,7 @@ use BitBuilder, including private and organization repos
 
 ## [Camel](https://github.com/camel-ai/camel)
 Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
+> It's more like an agent architecture than an agent itself. Just make sure you communicate this.
 
 <details>
 
@@ -221,8 +229,11 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
- 
+
 ## [Cognosys](https://cognosys.ai)
+> Closed source.
+
+
 Web based version of AutoGPT/babyAGI
 
 <details>
@@ -233,7 +244,7 @@ Web based version of AutoGPT/babyAGI
 
 </details>
 
- 
+
 ## [Databerry](https://www.databerry.ai/)
 
 
@@ -241,19 +252,23 @@ Web based version of AutoGPT/babyAGI
 </details>
 
 
- 
+
 ## [Factory](https://www.factory.ai/)
+> Closed source.
 
 <details>
 </details>
 
 ## [Fixie](https://www.fixie.ai/)
+> Closed source.
 
 <details>
 - Not open source
 </details>
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
+> Closed source.
+
 A developer assistant able to make whole nodejs project with unlimited prompts
 <details>
 
@@ -270,8 +285,8 @@ A developer assistant able to make whole nodejs project with unlimited prompts
 - **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
 
 </details>
- 
- 
+
+
 ## [GitWit](https://www.gitwit.dev/)
 
 <details>
@@ -301,20 +316,23 @@ Each step in steps.py will have its communication history with GPT4 stored in th
 
 </details>
 
- 
+
 ## [Grit](https://www.grit.io/)
+> Closed source.
 
 <details>
 </details>
 
- 
+
 ## [HayStack Agent](https://docs.haystack.deepset.ai/docs/agent)
+> This is not an agent but SDK for creating agents. Like LangChain or LlamaIndex.
 
 <details>
 </details>
 
- 
+
 ## [Heymoon.ai](https://heymoon.ai/)
+> Closed source
 Personal assistant for life: to keep you on top of your calendar, tasks and information
 
 <details>
@@ -325,29 +343,31 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 </details>
 
- 
+
 ## [Hyperwrite](https://www.hyperwriteai.com/)
+> Closed source. Not sure if agent-like. Probably more like generative AI.
+
 Your personal AI writing assistant
 
 <details>
 </details>
 
- 
+
 ## [Jarvis]()
 
 <details>
 </details>
 
- 
-## [LastMile AI](https://lastmileai.dev/)
 
+## [LastMile AI](https://lastmileai.dev/)
+> I spoke with them, they're building an SDK that should be something like "Langchain for enterprises". Not an agent
 <details>
 - Not an open-source project
 </details>
 
- 
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
- 
+
  <details>
 - Languages: Python
 - Default model: GPT-3.5-turbo (also possible with GPT-4)
@@ -378,56 +398,57 @@ Inspired by privateGPT
 ### Links
 - [YouTube - LocalGPT: OFFLINE CHAT FOR YOUR FILES [Installation & Code Walkthrough]](https://www.youtube.com/watch?v=MlyoObdIHyo&ab_channel=PromptEngineering)
 </details>
- 
+
 ## [Minion AI](https://minion.ai/)
-
+> Closed source. Made by creator GitHub Copilot.
 <details>
 </details>
 
- 
+
 ## [MultiOn](https://multion.ai/)
-
+> Closed source.
 <details>
 </details>
 
- 
+
 ## [Naut ai](https://www.naut.ai/)
-
+> Closed source. I'll be talking to a founder next Thursday.
 <details>
 </details>
 
- 
+
 ## [Pezzo](https://www.pezzo.ai/)
-
+>
 <details>
 </details>
 
- 
+
 ## [Saga](https://saga.so/)
-
+> Maybe link directly to their AI product? https://saga.so/ai
+> It's not an agent yet though, I think. They're moving in the agent direction.
 <details>
 </details>
 
- 
+
 ## [Second](https://www.second.dev/)
-
+> Closed source.
 <details>
 </details>
 
- 
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 
 <details>
 </details>
 
 ## [Superagent](https://www.superagent.sh/)</details>
-
+> Not a single agent. You can create agents without coding with this tool.
 <details>
 </details>
 
- 
-## [Sweep](https://sweep.dev/)
 
+## [Sweep](https://sweep.dev/)
+> Closed source.
 <details>
 </details>
 
@@ -453,7 +474,7 @@ Can recall infinite memory, THINKS before it speaks, and doesn't lose memory aft
 
 ### Links
 - Created by [@sean_pixel](https://twitter.com/sean_pixel)
-! 
+!
 
 </details>
 
@@ -500,6 +521,7 @@ pip install westworld
 
 
 ## [Yourgoal]()
+> Open source
 
 Swift implementation of BabyAGI.
 
@@ -526,7 +548,7 @@ Twitter: https://twitter.com/pj4533
 
 <br>
 
-# 💪 Contributors 💪 
+# 💪 Contributors 💪
 
 <a href="https://github.com/tizkovatereza/AI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=tizkovatereza/AI" />
