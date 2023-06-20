@@ -1,11 +1,14 @@
 # 🔮 AI Agents
 
-*Welcome to our list of AI autonomous agents. Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:* 
+*Welcome to our list of popular AI autonomous agents. Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:* 
+
 
 [![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
  <a href="https://github.com/tizkovatereza/AI/pulls">    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
+
+# Open Source Projects
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
@@ -110,6 +113,12 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI. BabyCatAGI is a
 
 </details>
 
+## [BabyDeer]
+
+<details>
+
+</details>
+
 ## [BitBuilder](BitBuilder)
 
 <details>
@@ -161,6 +170,7 @@ Web based version of AutoGPT/babyAGI
 ## [Fixie](https://www.fixie.ai/)
 
 <details>
+- Not open source
 </details>
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
@@ -231,15 +241,10 @@ Your personal AI writing assistant
 </details>
 
  
-## [LangChain - Agents Round](https://blog.langchain.dev/agents-round/)
-
-<details>
-</details>
-
- 
 ## [LastMile AI](https://lastmileai.dev/)
 
 <details>
+- Not an open-source project
 </details>
 
  
@@ -385,6 +390,10 @@ Swift implementation of BabyAGI.
 Author: PJ Gray
 Twitter: https://twitter.com/pj4533
 </details>
+
+# Companies building agents
+
+
 
 <br>
 
