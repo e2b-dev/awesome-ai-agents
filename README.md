@@ -10,7 +10,7 @@ We structured the list into two parts:
 - [Closed-source projects and companies building agents](#lock-closed-source-projects-and-companies-building-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
-Discussion and feedback appreciated, don't hesitate to [schedule a call](), write us us at hello@e2b.dev or [join our twitter community](https://twitter.com/i/communities/1670204079619055616) focused on AI agents.
+Discussion and feedback appreciated, don't hesitate to [schedule a call](https://calendly.com/tereza-tizkova/30min), write us us at hello@e2b.dev or [join our twitter community](https://twitter.com/i/communities/1670204079619055616) focused on AI agents.
 :heart:
 
 ## Have anything to add?
