@@ -10,13 +10,22 @@ We structured the list into two parts:
 - [Closed-source projects and companies building agents](#lock-closed-source-projects-and-companies-building-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
-Discussion and feedback appreciated, don't hesitate to [schedule a call](), write us us at hello@e2b.dev or [join our twitter community](https://twitter.com/i/communities/1670204079619055616) focused on AI agents.
+Discussion and feedback appreciated!
 :heart:
 
 ## Have anything to add?
 You have something to add or improve about our list? Do it via pull request.
 
+## Who's behind this?
+This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 
+## Join the community for AI agents
+- Follow us on [Twitter](https://twitter.com/e2b_dev)
+- [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
+- [Join our Discord](https://discord.gg/U7KEcGErtQ)
+- Want to discuss anything about AI agents? [Schedule a call with us]()
+
+Feel free to reach out to us at [hello@e2b.dev](hello@e2b.dev).
 
 # :open_hands: Open Source Projects
 
