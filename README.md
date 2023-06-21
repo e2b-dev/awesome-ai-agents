@@ -1,15 +1,16 @@
 # 🔮 AI Agents
-
-*Welcome to our list of popular AI autonomous agents. 
-We structured the list into 
-Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:*
-
-
-[![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
+[![Discord](https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
  <a href="https://github.com/tizkovatereza/AI/pulls">    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
 
+Welcome to our list of popular AI autonomous agents. 
+We structured the list into two parts:
+- [Open source projects](#open_hands-open-source-projects)
+- [Companies building agents and closed-source projects](#lock-companies-building-agents-and-closed-source-projects).
+
+The list is done according to our best knowledge, although definitely not comprehensive.
+You have something to add or improve about our list? Do it via pull request. Discussion and feedback appreciated :heart:
 
 # :open_hands: Open Source Projects
 
@@ -219,7 +220,22 @@ A super-easy no-code platform for creating AI chatbots trained on your own data
 
 ## [GitWit](https://www.gitwit.dev/)
 
+A tool automating code generation, in beta version, created for full-stack developers
 <details>
+
+### How it works
+- GitWit uses a GPT-based agent to generate code and git to track changes made to files
+- GitWit ties together large language models and modern developer tools
+- It can spawn and modify codebases using just a single prompt
+- GitWit is primarily aimed at full-stack developers, and is particularly loved by those with a learning mindset—such as those learning a new stack or technology
+- It is in early beta and may require some experimentation with the prompts you enter
+- You are offered to choose from code bases:
+	- React + NextJS
+	- Python using pip
+	- A Chrome extension written in JavaScript
+	- An AngularJS using npm.
+	- Custom stack
+
 </details>
 
 
@@ -243,12 +259,6 @@ An AI agent that generates an entire codebase based on a prompt
 - [Twitter review by @Attack](https://twitter.com/Attack/status/1671165869064609792)
 
 </details>
-
-## [Jarvis]()
-
-<details>
-</details>
-
 
 ## [Lindy](https://www.lindy.ai/)
 An AI assistant that can help with daily tasks, e.g., calendar management, email drafting, and contract sending
@@ -344,13 +354,42 @@ A development toolkit designed to streamline prompt design, version management, 
 
 
 ## [Smol developer](https://github.com/smol-ai/developer)
-
+:hatching_chick: Your own junior developer
 <details>
+
+### Features
+- Human-centric, coherent whole program synthesis
+- Your own junior developer
+- Allows to develop, debug, and decompile
+- 200 LOC, half english
+
+### Insights
+- 100k context can summarize both content and codebases
+- Markdown is the best prompting DSL
+- Copy and paste your errors as prompts
+- Copy and paste curl output as prompts
+- Write CSS animation by describing what u want
+- GPT4 >>> GPT3.5/Anthropic Claude for codegen
+
+
+- ### Links
+- Author: [Swyx](https://twitter.com/swyx)
+- [Demo](https://www.youtube.com/watch?v=UCo7YeTy-aE)
+- [Twitter](https://twitter.com/SmolModels)
+- [Meme](https://smol.ai/)
+
+
 </details>
 
 ## [Superagent](https://www.superagent.sh/)</details>
 Not a single agent, but a tool that allows creating agents without coding
 <details>
+
+### Links
+- [GitHub](https://github.com/homanp/superagent)
+- [Documentation](https://docs.superagent.sh/introduction)
+- [Discord](https://discord.com/invite/mhmJUTjW4b)
+
 </details>
 
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
@@ -568,16 +607,27 @@ AI-powered design tools for everything from copywriting to generating unique ico
 </details>
 
 ## [Factory](https://www.factory.ai/)
-
+Building autonomous coding Droids
 
 <details>
+In aplha stage
 </details>
 
 ## [Fixie](https://www.fixie.ai/)
-
-
+A platform for creating conversatial AI
 <details>
-- Not open source
+
+### How it works
+- Building and managing LLM powered applications
+- A cloud-based platform-as-a-service that allows developers to build smart agents that couple LLMs with back-end logic to interface to data, systems, and tools
+
+
+### Links
+- [GitHub](https://github.com/fixie-ai)
+- [Fixie Developer Portal](https://docs.fixie.ai/)
+- [AI.JSX](https://docs.ai-jsx.com/)
+- [Twitter](https://twitter.com/fixieai)
+- [Discord](https://discord.com/invite/MsKAeKF8kU)
 </details>
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
@@ -617,8 +667,19 @@ A beta version of a tool for fixing technical gap automatically, putting code mi
 
 
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
+Hex AI-powered tools for humans doing amazing things with data
 
 <details>
+
+### How it works
+- "A suite of powerful AI features meant to augment data people"
+- Hex can explain and document your code
+- Hex Magic features know about database schemas, past operations, and the project’s execution graph, so they can make deeper, more insightful recommendations
+
+You can see more – and sign up for the waitlist – over here.
+
+### Links
+- [Launch post](https://hex.tech/blog/magic-private-beta/)
 </details>
 
 ## [Heymoon.ai](https://heymoon.ai/)
@@ -633,19 +694,51 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 </details>
 
 ## [Minion AI](https://minion.ai/)
-Made by creator of GitHub Copilot
+Made by creator of GitHub Copilot, so far in a waitlist stage
 <details>
+
+### Links
+- [Twitter](https://twitter.com/ai_minion)
+- Author: [Alex Graveley](https://twitter.com/alexgraveley)
 </details>
 
 
 ## [MultiOn](https://multion.ai/)
-
+AI personal agent, holding the record for the first AI flight booking, food order (a burger) & workplace cert
 <details>
+
+### How it works
+- The agent runs and controls the local Google Chrome, which allows it to interact with the world/services/web apps, just like people interact with the world/services/web apps using Google Chrome
+- The agent itself probably also runs locally and currently, it needs the local Google Chrome to function
+- Our understanding from the demo video is that they use local code and a custom plugin in ChatGPT to control a web browser (e.g., Google Chrome). This setup enables MultiOn to perform tasks like ordering plane tickets as if a human were interacting with the browser directly
+
+### Features
+- A lot of cool real use cases, e.g.,
+	-Sending an email fully autonomously 
+	-Posting a tweet
+	-Sending a tweet reply to a specific person with a specific message
+	-Sending a Facebook message to a friend
+	-Searching for vacation rentals and check pricing for an upcoming trip
+	-Searching for a wedding venue and starting the wedding planning process
+	-Scheduling a car wash 
+- After introducing the GPT function calling, MultiOn can call itself recursively to spawn more sub-agents
+- Instead of calling multiple functions or APIs you just need one Universal Function that can interact with all services and have it call itself to accomplish more complex tasks in parallel
+
+### Links
+- [Twitter](https://twitter.com/MultiON_AI)
+- Author: [Div Garg](https://twitter.com/DivGarg9)
 </details>
 
 
 ## [Naut ai](https://www.naut.ai/)
+Still in an early stage, with waitlist fir early access
 <details>
+
+"Build your team of AI agents that work for you.  Early access now live. Join waitlist."
+
+
+### Links
+- [Twitter](https://twitter.com/naut_ai)
 </details>
 
 ## [Saga](https://saga.so/ai)
