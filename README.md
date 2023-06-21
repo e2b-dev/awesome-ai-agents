@@ -10,8 +10,7 @@ We structured the list into two parts:
 - [Closed-source projects and companies building agents](#lock-closed-source-projects-and-companies-building-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
-Discussion and feedback appreciated!
-:heart:
+Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
 You have something to add or improve about our list? Do it via pull request.
@@ -23,7 +22,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 - Follow us on [Twitter](https://twitter.com/e2b_dev)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
-- Want to discuss anything about AI agents? [Schedule a call with us]()
+- Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
 
 Feel free to reach out to us at [hello@e2b.dev](hello@e2b.dev).
 
@@ -116,6 +115,10 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 ### Links
 - [Twitter](https://twitter.com/Auto_GPT)
 - [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Facebook](https://www.facebook.com/groups/1330282574368178)
+- [Linkedin](https://www.linkedin.com/company/autogpt/)
+- [Discord](https://discord.gg/autogpt)
+- Author: [Matt Pogla](https://twitter.com/AutoGpt)
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
@@ -346,6 +349,7 @@ An AI assistant that can help with daily tasks, e.g., calendar management, email
 
 
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
+A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
 
  <details>
 
