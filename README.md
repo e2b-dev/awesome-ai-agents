@@ -7,7 +7,7 @@
 Welcome to our list of popular AI autonomous agents. 
 We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
-- [Closed-source projects, and companies building agents
+- [Closed-source projects and companies building agents
 ](#lock-companies-building-agents-and-closed-source-projects).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
@@ -484,7 +484,7 @@ Swift implementation of BabyAGI.
 - Author: [PJ Gray](https://twitter.com/pj4533)
 </details>
 
-# :lock: Closed-source projects, and companies building agents
+# :lock: Closed-source projects and companies building agents
 
 
 ## [AIrplane](https://www.airplane.dev/autopilot)
