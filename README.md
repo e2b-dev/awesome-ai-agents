@@ -1,4 +1,4 @@
-# 🔮 AI Agents
+# 🔮 Awesome AI Agents
 [![Discord](https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
  <a href="https://github.com/tizkovatereza/AI/pulls">    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
