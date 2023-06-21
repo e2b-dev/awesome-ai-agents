@@ -3,10 +3,11 @@
 *Welcome to our list of popular AI autonomous agents. Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:*
 
 
-[![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/5GmKg5Uz)
+[![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
  <a href="https://github.com/tizkovatereza/AI/pulls">    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
+
 
 # Open Source Projects
 
@@ -660,6 +661,7 @@ A Github assistant the helps fix small bugs and implement small features
 - [Hit us up on discord](https://discord.gg/5GmKg5Uz)
 - [Pick a date for call in our calendar](https://calendly.com/tereza-tizkova/30min)
 - Write us at hello@e2b.dev
+- And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
 
 <br>
 
