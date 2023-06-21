@@ -48,47 +48,6 @@ Similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
-## [AIrplane](https://www.airplane.dev/)
-> Note: Airplane isn't AI agent. It's a company with a product for building internal tools. They're building an AI assistant here https://www.airplane.dev/autopilot. This is the link I'd be using. It's closed source.
-
-Turning APIs, SQL queries, and scripts into apps for the entire team
-
-
-<details>
-
-### How it works
-- A developer-centric approach to building internal UIs and workflows
-
-### Features
-- Airplane lets you turn SQL queries, JavaScript/Python code, HTTP requests, etc into tasks
-- Allows to run tasks through a no-code dashboard
-- Tasks for customer support, on-call runbooks, and scheduled tasks
-
-### Links
-- [Documentation](https://docs.airplane.dev/)
-- [Twitter](https://twitter.com/AirplaneDev)
-
-
-</details>
-
-## [Aomni](https://www.aomni.com/)
-> Note: Closed source.
-
-An AI agent specifically designed for research
-<details>
-
-### How it works
-- Breaks down a high level research question into a step-by-step plan, and executes it
-- Diverse tools, including a full web browser
-- Can access internet information without the need for an API
-- "We don't generate content using AI, as it can be unreliable. Instead, we extract relevant information from trusted sources, cluster and process it into a user-friendly format."
-- AI-powered query planner intelligently routes and executes requests, ensuring correctness and diverse source selection
-
-### Links
--[Discord](https://discord.com/invite/a367ncqEsm)
-
-</details>
-
 
 
 ## [AutoGPT](https://autogpt.net/)
@@ -152,53 +111,6 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 
 </details>
 
-
-## [BitBuilder](https://github.com/marketplace/document-guardian)
-> Closed source. Link to their website, not GitHub marketplace - https://www.bitbuilder.ai/.
-
-"Virtual intern for developers", generates code via PRs raised against your repository
-<details>
-
-### How it works
-- Create an Issue
-- Approve the Implementation Plan
-- Review the Pull Request
-
-### Features
-- Writing code
-- Reviewing changes
-- Addressing comments
-- Answering questions
-
-You gotta check our
-@bitbuilder_ai
-, it raises pull requests against your repository. In fact the backend is built with
-@tiangolo
-’s FastAPI so I can personally attest to its ability to create routers, endpoints, and wire it all together.
-
-We’ve made more than a pretty demo.
-@bitbuilder_ai
- will create Pull Requests from Issues. And review your code.
-
-
-
-
- ### BitBuilder Junior
-- BitBuilder Junior is an intern-level code generation tool that lives in your GitHub repository. It follows instructions to implement unamibigous code changes by changing multiple files, writing tests for generated code, and matching the style, framework, and libraries you're already using.
-
-
-### Statistics
-- 990+
-REPOSITORIES
-use BitBuilder, including private and organization repos
-
-### Links
-- [Slack](https://bitbuilder-ai.slack.com/join/shared_invite/zt-1tlrds3n4-rpmgIGM6XrB5W97005IA1Q#/shared-invite/email)
-- [Installation(https://docs.bitbuilder.ai/install)]
-
-
-
-</details>
 
 ## [Bloop](https://bloop.ai/)
 > Just make sure to communicate that it's a code search engine that uses an AI agent.
@@ -363,10 +275,25 @@ Your personal AI writing assistant
 </details>
 
 
-## [LastMile AI](https://lastmileai.dev/)
-> I spoke with them, they're building an SDK that should be something like "Langchain for enterprises". Not an agent
+## [Lindy](https://www.lindy.ai/)
+- Lindy is an AI assistant that can help with all your tasks, from calendar management and email drafting to contract sending and beyond.
+
 <details>
-- Not an open-source project
+
+### How it works
+- Lindy is still in a beta version
+
+### Features
+- Lindy triages your email
+- She learns from your inbox and automatically surfaces the highest-priority emails for you
+- Automatic conflict handling
+- Daily briefing
+- Contract management
+- Meeting note taking
+- Summarization
+
+
+
 </details>
 
 
@@ -403,21 +330,13 @@ Inspired by privateGPT
 - [YouTube - LocalGPT: OFFLINE CHAT FOR YOUR FILES [Installation & Code Walkthrough]](https://www.youtube.com/watch?v=MlyoObdIHyo&ab_channel=PromptEngineering)
 </details>
 
-## [Minion AI](https://minion.ai/)
-> Closed source. Made by creator GitHub Copilot.
+
+## [Mini AGI](https://github.com/muellerberndt/mini-agi)
+
 <details>
-</details>
 
-
-## [MultiOn](https://multion.ai/)
-> Closed source.
-<details>
-</details>
-
-
-## [Naut ai](https://www.naut.ai/)
-> Closed source. I'll be talking to a founder next Thursday.
-<details>
+- MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4. Can analyze stock prices, perform network security tests, create art, and order pizza
+- MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4. It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization. It is also capable of inner monologue and self-criticism.
 </details>
 
 
@@ -536,10 +455,114 @@ Twitter: https://twitter.com/pj4533
 
 # Companies building agents
 
+
+## [AIrplane](https://www.airplane.dev/)
+> Note: Airplane isn't AI agent. It's a company with a product for building internal tools. They're building an AI assistant here https://www.airplane.dev/autopilot. This is the link I'd be using. It's closed source.
+
+Turning APIs, SQL queries, and scripts into apps for the entire team
+
+
+<details>
+
+### How it works
+- A developer-centric approach to building internal UIs and workflows
+
+### Features
+- Airplane lets you turn SQL queries, JavaScript/Python code, HTTP requests, etc into tasks
+- Allows to run tasks through a no-code dashboard
+- Tasks for customer support, on-call runbooks, and scheduled tasks
+
+### Links
+- [Documentation](https://docs.airplane.dev/)
+- [Twitter](https://twitter.com/AirplaneDev)
+
+
+</details>
+
+
+## [Aomni](https://www.aomni.com/)
+> Note: Closed source.
+
+An AI agent specifically designed for research
+<details>
+
+### How it works
+- Breaks down a high level research question into a step-by-step plan, and executes it
+- Diverse tools, including a full web browser
+- Can access internet information without the need for an API
+- "We don't generate content using AI, as it can be unreliable. Instead, we extract relevant information from trusted sources, cluster and process it into a user-friendly format."
+- AI-powered query planner intelligently routes and executes requests, ensuring correctness and diverse source selection
+
+### Links
+-[Discord](https://discord.com/invite/a367ncqEsm)
+
+</details>
+
+
+## [BitBuilder](https://www.bitbuilder.ai/)
+
+
+"Virtual intern for developers", generates code via PRs raised against your repository
+<details>
+
+### How it works
+- Create an Issue
+- Approve the Implementation Plan
+- Review the Pull Request
+
+### Features
+- Writing code
+- Reviewing changes
+- Addressing comments
+- Answering questions
+
+ ### BitBuilder Junior
+- BitBuilder Junior is an intern-level code generation tool that lives in your GitHub repository. It follows instructions to implement unamibigous code changes by changing multiple files, writing tests for generated code, and matching the style, framework, and libraries you're already using.
+
+### Links
+- [GitHub Marketplace](https://github.com/marketplace/document-guardian)
+- [Slack](https://bitbuilder-ai.slack.com/join/shared_invite/zt-1tlrds3n4-rpmgIGM6XrB5W97005IA1Q#/shared-invite/email)
+- [Installation(https://docs.bitbuilder.ai/install)]
+
+
+
+</details>
+
+
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 
 <details>
 </details>
+
+
+## [LastMile AI](https://lastmileai.dev/)
+> I spoke with them, they're building an SDK that should be something like "Langchain for enterprises". Not an agent
+<details>
+- Not an open-source project
+</details>
+
+
+## [Minion AI](https://minion.ai/)
+> Closed source. Made by creator GitHub Copilot.
+<details>
+</details>
+
+
+## [MultiOn](https://multion.ai/)
+> Closed source.
+<details>
+</details>
+
+
+## [Naut ai](https://www.naut.ai/)
+> Closed source. I'll be talking to a founder next Thursday.
+<details>
+</details>
+
+
+
+
 
 
 <br>
