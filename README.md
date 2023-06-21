@@ -24,7 +24,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 - Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
 
-Feel free to reach out to us at [hello@e2b.dev](hello@e2b.dev).
+Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
 # :open_hands: Open Source Projects
 
