@@ -7,8 +7,7 @@
 Welcome to our list of popular AI autonomous agents. 
 We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
-- [Closed-source projects and companies building agents
-](#lock-companies-building-agents-and-closed-source-projects).
+- [Closed-source projects and companies building agents](#lock-closed-source-projects-and-companies-building-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
 You have something to add or improve about our list? Do it via pull request. Discussion and feedback appreciated :heart:
@@ -806,7 +805,7 @@ A Github assistant the helps fix small bugs and implement small features
 
 ## :wave: Wanna discuss AI agents and more?
 
-- [Hit us up on discord](https://discord.gg/5GmKg5Uz)
+- [Hit us up on discord](https://discord.gg/BRymvqUS)
 - [Pick a date for call in our calendar](https://calendly.com/tereza-tizkova/30min)
 - Write us at hello@e2b.dev
 - And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
