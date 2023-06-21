@@ -113,21 +113,29 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 
 
 ## [Bloop](https://bloop.ai/)
-> Just make sure to communicate that it's a code search engine that uses an AI agent.
+A GPT-4 powered semantic code search engine that uses an AI agent
 
 <details>
-</details>
+Bloop is a new semantic code search tool that helps you understand your codebase lightning fast!
 
-## [Butternut AI](Butternut.ai)
-> Closed source.
+Bloop AI
+For programmers: Find Code. On Rust and Typescript. 
 
-<details>
+• Code Discovery
+• Human Exploration
+• Stage changes
+• A blazing fast code search and regex matching engine written in Rust
+
+• An intelligent AI agent, powered by GPT-4 and semantic code search
+
+• Precise code navigation, built on stack graphs and scope queries
+
+
 </details>
 
 
 ## [Camel](https://github.com/camel-ai/camel)
-Communicative Agents for “Mind” Exploration of Large Scale Language Model Society
-> It's more like an agent architecture than an agent itself. Just make sure you communicate this.
+An agent architecture for “Mind” Exploration of Large Scale Language Model Society
 
 <details>
 
@@ -146,61 +154,12 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 </details>
 
 
-## [Cognosys](https://cognosys.ai)
-> Closed source.
-
-
-Web based version of AutoGPT/babyAGI
-
-<details>
-
-- Friendly UI for building AI agents
-- Author: Sully Omarr
-- Twitter: https://twitter.com/SullyOmarr
-
-</details>
-
-
 ## [Databerry](https://www.databerry.ai/)
 
 
 <details>
 </details>
 
-
-
-## [Factory](https://www.factory.ai/)
-> Closed source.
-
-<details>
-</details>
-
-## [Fixie](https://www.fixie.ai/)
-> Closed source.
-
-<details>
-- Not open source
-</details>
-
-## [Friday](https://github.com/amirrezasalimi/friday/)
-> Closed source.
-
-A developer assistant able to make whole nodejs project with unlimited prompts
-<details>
-
-### How it works
-- Provides a core prompt for building the foundation of your application
-- Allows you to add unlimited sections, each of which is a prompt representing a specific part of your app
-
-### Features
-- Friday utilizes GPT-4 for AI assistance, but it has been tested and optimized with GPT-4-32k for improved speed and better results.
-- It requires 2 small requests for your app's base and 1 request per section you provide.
-- Friday employs esbuild behind the scenes for every app created by it.
-
-### Links
-- **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
-
-</details>
 
 
 ## [GitWit](https://www.gitwit.dev/)
@@ -210,64 +169,25 @@ A developer assistant able to make whole nodejs project with unlimited prompts
 
 
 ## [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
-Specify your project, and the AI agent constructs the entire code base.
+An AI agent that generates an entire codebase based on a prompt
 
-
-GPT Engineer is made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt.
 <details>
 
-Model: GPT 4
-Specify what you want it to build, the AI asks for clarification, and then builds it.
+### How it works
+- Model: GPT 4
+- Specify your project, and the AI agent acks for clarification, and then constructs the entire code base
 
 ### Features
-- You can specify the "identity" of the AI agent by editing the files in the identity folder.
-
-Editing the identity, and evolving the main_prompt, is currently how you make the agent remember things between projects.
-
-Each step in steps.py will have its communication history with GPT4 stored in the logs folder, and can be rerun with scripts/rerun_edited_message_logs.py.
+- Made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
+- You can specify the "identity" of the AI agent by editing the files in the identity folder
+- Editing the identity, and evolving the main_prompt, is currently how you make the agent remember things between projects
+- Each step in steps.py will have its communication history with GPT4 stored in the logs folder, and can be rerun with scripts/rerun_edited_message_logs.py
 
 ### Links
 - Author: [Anton Osika](https://twitter.com/antonosika)
 - [Twitter review by @Attack](https://twitter.com/Attack/status/1671165869064609792)
 
 </details>
-
-
-## [Grit](https://www.grit.io/)
-> Closed source.
-
-<details>
-</details>
-
-
-## [HayStack Agent](https://docs.haystack.deepset.ai/docs/agent)
-> This is not an agent but SDK for creating agents. Like LangChain or LlamaIndex.
-
-<details>
-</details>
-
-
-## [Heymoon.ai](https://heymoon.ai/)
-> Closed source
-Personal assistant for life: to keep you on top of your calendar, tasks and information
-
-<details>
-
-### Features
-- Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
-
-
-</details>
-
-
-## [Hyperwrite](https://www.hyperwriteai.com/)
-> Closed source. Not sure if agent-like. Probably more like generative AI.
-
-Your personal AI writing assistant
-
-<details>
-</details>
-
 
 ## [Jarvis]()
 
@@ -276,7 +196,7 @@ Your personal AI writing assistant
 
 
 ## [Lindy](https://www.lindy.ai/)
-- Lindy is an AI assistant that can help with all your tasks, from calendar management and email drafting to contract sending and beyond.
+An AI assistant that can help with daily tasks, e.g., calendar management, email drafting, and contract sending
 
 <details>
 
@@ -300,14 +220,18 @@ Your personal AI writing assistant
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 
  <details>
+
+ ### How it works
 - Languages: Python
 - Default model: GPT-3.5-turbo (also possible with GPT-4)
 - Modular Auto-GPT Framework
 - Plug N Play" API - Extensible and modular "Pythonic" framework, not just a command line tool
-- Easy to add new features, integrations and custom agent capabilities, all from python code, no nasty config files!
-- Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens.
-- Human in the Loop - Ability to "course correct" agents who go astray via human feedback.
-- Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!
+
+### Features
+- "Easy to add new features, integrations and custom agent capabilities, all from python code, no nasty config files!"
+- "Minimal prompt overhead - Every token counts. We are continuously working on getting the best results with the least possible number of tokens."
+- "Human in the Loop - Ability to "course correct" agents who go astray via human feedback."
+- "Full state serialization - can save the complete state of an agent, including memory and the states of its tools to a file or python object. No external databases or vector stores required (but they are still supported)!"
 	</details>
 
 ## [LocalGPT](https://github.com/PromtEngineer/localGPT)
@@ -425,7 +349,7 @@ Westworld is a multi-agent simulation library, its goal to simulate and optimize
 pip install westworld
 - [Javascript version (being developed)](https://github.com/TheoLvs/westworldjs)
 
-### Current features
+### Features
 
 - Easy creation of Grid and non-grid environments
 - Objects (Agents, Obstacles, Collectibles, Triggers)
@@ -440,6 +364,17 @@ pip install westworld
 
 </details>
 
+## [WorkGPT]()
+
+<details>
+
+### Features
+- WorkGPT now has OpenAI's new function invocation feature baked into it
+	- While chaining together APIs was possible before (see AutoGPT), it was slow, expensive, and error prone
+	- [The tweet announcing this feature](https://twitter.com/maccaw/status/1669367224694607875)
+
+
+</details>
 
 
 
@@ -453,7 +388,7 @@ Author: PJ Gray
 Twitter: https://twitter.com/pj4533
 </details>
 
-# Companies building agents
+# Companies building agents and closed-source projects
 
 
 ## [AIrplane](https://www.airplane.dev/)
@@ -530,10 +465,116 @@ An AI agent specifically designed for research
 
 
 
+## [Butternut AI](https://butternut.ai/)
+A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
+
+<details>
+
+### Fetaures
+- No coding required thanks to user-friendly interface
+- Full SEO optimization
+- Picture Upload: Users can conveniently upload and regenerate their own pictures for unlimited customization of their profiles
+- Profile Customization: Users have the flexibility to customize their profiles by hiding sections, adding social media links, and sharing contact details, allowing them to showcase their unique personality and brand
+- Instant Preview: Users can instantly visualize their profile changes through a conveniently placed preview button, ensuring a quick assessment of the desired appearance
+- 30% Faster Speed: The app achieves an impressive 30% increase in website generation speed, providing users with a fast and efficient website building experience.
+</details>
+
+
+## [Cognosys](https://cognosys.ai)
+
+
+Web based version of AutoGPT/babyAGI
+
+<details>
+
+- Friendly UI for building AI agents
+- Author: Sully Omarr
+- [Twitter](https://twitter.com/SullyOmarr)
+
+</details>
+
+
+
+## [Diagram](https://diagram.com/)
+AI-powered design tools for everything from copywriting to generating unique icons from text
+
+<details>
+
+### Features
+- Magic Copy writes, edits, and rewrites Figma text layers so you can design with real copy
+- Generating images in Figma while designing
+- Magic Rename intelligently names your layers so you can spend more time designing
+- Magician works right inside your favorite design tool (e.g., Figma)
+- Possible to get all the latest AI design advancements + future spells in one convenient plugin
+
+
+</details>
+
+## [Factory](https://www.factory.ai/)
+
+
+<details>
+</details>
+
+## [Fixie](https://www.fixie.ai/)
+
+
+<details>
+- Not open source
+</details>
+
+## [Friday](https://github.com/amirrezasalimi/friday/)
+
+
+A developer assistant able to make whole nodejs project with unlimited prompts
+<details>
+
+### How it works
+- Provides a core prompt for building the foundation of your application
+- Allows you to add unlimited sections, each of which is a prompt representing a specific part of your app
+
+### Features
+- Friday utilizes GPT-4 for AI assistance, but it has been tested and optimized with GPT-4-32k for improved speed and better results.
+- It requires 2 small requests for your app's base and 1 request per section you provide.
+- Friday employs esbuild behind the scenes for every app created by it.
+
+### Links
+- **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
+
+</details>
+
+## [Grit](https://www.grit.io/)
+A beta version of a tool for fixing technical gap automatically, putting code migrations and dependency upgrades on autopilot
+
+<details>
+
+### How it works
+- Grit uses machine learning and static analysis to auto-generate pull requests for cleaning up technical debt
+- Users can declare how they want their code to be structured and let Grit rewrite it for them
+
+### Links
+- [Linkedin](https://www.linkedin.com/company/getgrit/0)
+- [Twitter](https://twitter.com/gritdotio)
+
+</details>
+
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 
 <details>
 </details>
+
+## [Heymoon.ai](https://heymoon.ai/)
+Personal assistant for life: to keep you on top of your calendar, tasks and information
+
+<details>
+
+### Features
+- Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
+
+
+</details>
+
 
 
 ## [LastMile AI](https://lastmileai.dev/)
