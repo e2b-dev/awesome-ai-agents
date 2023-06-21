@@ -104,6 +104,10 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 ### Links
 - [Twitter](https://twitter.com/Auto_GPT)
 - [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
+- [Facebook](https://www.facebook.com/groups/1330282574368178)
+- [Linkedin](https://www.linkedin.com/company/autogpt/)
+- [Discord](https://discord.gg/autogpt)
+- Author: [Matt Pogla](https://twitter.com/AutoGpt)
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
@@ -334,6 +338,7 @@ An AI assistant that can help with daily tasks, e.g., calendar management, email
 
 
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
+A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
 
  <details>
 
