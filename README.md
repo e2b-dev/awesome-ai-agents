@@ -265,21 +265,26 @@ Inspired by privateGPT
 
 
 ## [Pezzo](https://www.pezzo.ai/)
->
+A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
 <details>
-</details>
+
+- "Whether you are a technical person or a stakeholder, you can use Pezzo effectively. We don't believe that AI prompts should be designed in a developer's code editor. Aside from teh technical issues with this approach, it blocks productivity."
+
+### Features
+
+- Centralized Prompt Management: Manage all AI prompts in one place for maximum visibility and efficiency.
+- Streamlined Prompt Design, Publishing & Versioning: Create, edit, test and publish prompts with ease.
+- Observability: Access detailed prompt execution history, stats and metrics (duration, prompt cost, completion cost, etc.) for better insights.
+- Troubleshooting: Effortlessly resolve issues with your prompts. Time travel to retroactively fine-tune failed prompts and commit the fix instantly.
+- Cost Transparency: Gain comprehensive cost transparency across all prompts and AI models.
+- Simplified Integration: Reduce code overhead by 90% by consuming your AI prompts using the Pezzo Client, regardless of the model provider.
+
+### 
+- [Documentation](https://docs.pezzo.ai/docs/intro.html)
+- [GitHub](https://github.com/pezzolabs/pezzo)
 
 
-## [Saga](https://saga.so/)
-> Maybe link directly to their AI product? https://saga.so/ai
-> It's not an agent yet though, I think. They're moving in the agent direction.
-<details>
-</details>
 
-
-## [Second](https://www.second.dev/)
-> Closed source.
-<details>
 </details>
 
 
@@ -289,13 +294,7 @@ Inspired by privateGPT
 </details>
 
 ## [Superagent](https://www.superagent.sh/)</details>
-> Not a single agent. You can create agents without coding with this tool.
-<details>
-</details>
-
-
-## [Sweep](https://sweep.dev/)
-> Closed source.
+Not a single agent, but a tool that allows creating agents without coding
 <details>
 </details>
 
@@ -378,29 +377,31 @@ pip install westworld
 
 
 
-## [Yourgoal]()
-> Open source
+## [Yourgoal](https://github.com/pj4533/yourgoal)
 
 Swift implementation of BabyAGI.
 
 <details>
-Author: PJ Gray
-Twitter: https://twitter.com/pj4533
+
+- "This is a Swift port of BabyAGI, an example of an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks. The main idea behind this system is that it creates tasks based on the result of previous tasks and a predefined objective."
+
+### Links
+- Author: [PJ Gray](https://twitter.com/pj4533)
 </details>
 
 # Companies building agents and closed-source projects
 
 
-## [AIrplane](https://www.airplane.dev/)
-> Note: Airplane isn't AI agent. It's a company with a product for building internal tools. They're building an AI assistant here https://www.airplane.dev/autopilot. This is the link I'd be using. It's closed source.
-
-Turning APIs, SQL queries, and scripts into apps for the entire team
+## [AIrplane](https://www.airplane.dev/autopilot)
+A company with a product for building internal tools, currently building an AI assistant
 
 
 <details>
 
 ### How it works
+
 - A developer-centric approach to building internal UIs and workflows
+- Turning APIs, SQL queries, and scripts into apps for the entire team
 
 ### Features
 - Airplane lets you turn SQL queries, JavaScript/Python code, HTTP requests, etc into tasks
@@ -408,15 +409,16 @@ Turning APIs, SQL queries, and scripts into apps for the entire team
 - Tasks for customer support, on-call runbooks, and scheduled tasks
 
 ### Links
+- [Profile of the company](https://www.airplane.dev/)
 - [Documentation](https://docs.airplane.dev/)
 - [Twitter](https://twitter.com/AirplaneDev)
+- [They're building an AI assistant here[(https://www.airplane.dev/autopilot)
 
 
 </details>
 
 
 ## [Aomni](https://www.aomni.com/)
-> Note: Closed source.
 
 An AI agent specifically designed for research
 <details>
@@ -575,34 +577,79 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 </details>
 
-
-
-## [LastMile AI](https://lastmileai.dev/)
-> I spoke with them, they're building an SDK that should be something like "Langchain for enterprises". Not an agent
-<details>
-- Not an open-source project
-</details>
-
-
 ## [Minion AI](https://minion.ai/)
-> Closed source. Made by creator GitHub Copilot.
+Made by creator of GitHub Copilot
 <details>
 </details>
 
 
 ## [MultiOn](https://multion.ai/)
-> Closed source.
+
 <details>
 </details>
 
 
 ## [Naut ai](https://www.naut.ai/)
-> Closed source. I'll be talking to a founder next Thursday.
 <details>
 </details>
 
+## [Saga](https://saga.so/ai)
+
+A digital AI assistant, an AI-powered workspace integrating notes, tasks, and tools
+<details>
+
+### Fetatures
+- Generating content
+- Brainstorming ideas
+- Translation
+- Grammer check
+- [Roadmap](https://sagahq.canny.io/)
+
+### Links
+- [Twitter](https://twitter.com/saga_hq)
+- [Slack](https://sagacommunity.slack.com/join/shared_invite/zt-13m3lrrdt-1x6~l6sLuR8CX~4c3fWwHA#/shared-invite/email)
+- [Discord](https://discord.com/invite/cgz2mUEq7P)
 
 
+</details>
+
+
+## [Second](https://www.second.dev/)
+Automated migrations and upgrades for every codebase
+<details>
+
+### Features
+- Migrate frameworks such as Angular to React, libraries such as Redux to React Context, or languages such as JavaScript to TypeScript
+- erform major version upgrades on any number of applications, of any size
+- Upgrade frameworks such as Next.js 12 to 13, libraries such as MUI 4 to 5, or languages such as Python 2 to 3
+- [Roadmap](https://second.canny.io/)
+
+### Links
+- [YCombinator](https://www.ycombinator.com/companies/second)
+- [Twitter](https://twitter.com/SecondDevHQ)
+- [Linkedin](https://www.linkedin.com/company/secondhq/)¨
+- [Discord](https://discord.com/invite/ZhYUEjsW3Z)
+- Founder: [Eric Rowell](https://twitter.com/ericdrowell)
+
+
+</details>
+
+## [Sweep](https://sweep.dev/)
+A Github assistant the helps fix small bugs and implement small features
+<details>
+
+### How it works
+- To install, click the install button
+- Then add the repository you want, make a quick ticket (e.g. writing tests)
+- Prepend the ticket with "Sweep:" and let Sweep handle the rest
+
+### Links
+- [GitHub](https://github.com/sweepai)
+- [Discord](https://discord.com/invite/sweep-ai)
+- [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
+
+
+</details>
 
 
 
