@@ -4,14 +4,17 @@
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
 
-Welcome to our list of popular AI autonomous agents. 
+Welcome to our list of popular AI autonomous agents.
 We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
 - [Closed-source projects and companies building agents](#lock-closed-source-projects-and-companies-building-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
-You have something to add or improve about our list? Do it via pull request. Discussion and feedback appreciated, don't hesitate to [schedule a call](), write us us at hello@e2b.dev or [join our twitter community](https://twitter.com/i/communities/1670204079619055616) focused on AI agents.
+Discussion and feedback appreciated, don't hesitate to [schedule a call](), write us us at hello@e2b.dev or [join our twitter community](https://twitter.com/i/communities/1670204079619055616) focused on AI agents.
 :heart:
+
+## Have anything to add?
+You have something to add or improve about our list? Do it via pull request.
 
 
 
@@ -362,7 +365,7 @@ A re-implementation of the popular Auto-GPT project as a proper python package, 
 
 -->
 </details>
-	
+
 
 ## [LocalGPT](https://github.com/PromtEngineer/localGPT)
 Inspired by privateGPT
@@ -530,7 +533,6 @@ A GPT agent framework for invoking APIs
 </details>
 
 
-
 ## [Yourgoal](https://github.com/pj4533/yourgoal)
 
 Swift implementation of BabyAGI
@@ -547,8 +549,8 @@ Swift implementation of BabyAGI
 # :lock: Closed-source projects and companies building agents
 
 
-## [AIrplane](https://www.airplane.dev/autopilot)
-A company with a product for building internal tools, currently building an AI assistant
+## [Airplane Autopilot](https://www.airplane.dev/autopilot)
+Airplane is a company for building internal tools, they're building their autopilot AI assistant.
 
 
 <details>
@@ -676,14 +678,14 @@ Working on autonomous coding Droids for building software end-to-end
 - In aplha stage
 - It’s not supposed to be just another coding copilots like GitHub Copilot or Codeium, but autohomous agents capable of autonomously building software from end to end
 
-### Links 
+### Links
 - [CEO](https://twitter.com/matangrinberg)
 
 
 </details>
 
 ## [Fixie](https://www.fixie.ai/)
-A platform for creating conversatial AI
+A platform for creating LLM-powered apps like AI agents
 <details>
 
 ### Description
@@ -781,13 +783,13 @@ AI personal agent, holding the record for the first AI flight booking, food orde
 - Our understanding from the demo video is that they use local code and a custom plugin in ChatGPT to control a web browser (e.g., Google Chrome). This setup enables MultiOn to perform tasks like ordering plane tickets as if a human were interacting with the browser directly
 - Use cases
 	- A lot of cool real use cases, e.g.,
-	-Sending an email fully autonomously 
+	-Sending an email fully autonomously
 	-Posting a tweet
 	-Sending a tweet reply to a specific person with a specific message
 	-Sending a Facebook message to a friend
 	-Searching for vacation rentals and check pricing for an upcoming trip
 	-Searching for a wedding venue and starting the wedding planning process
-	-Scheduling a car wash 
+	-Scheduling a car wash
 - After introducing the GPT function calling, MultiOn can call itself recursively to spawn more sub-agents
 - Instead of calling multiple functions or APIs you just need one Universal Function that can interact with all services and have it call itself to accomplish more complex tasks in parallel
 
@@ -797,7 +799,7 @@ AI personal agent, holding the record for the first AI flight booking, food orde
 </details>
 
 
-## [Naut ai](https://www.naut.ai/)
+## [Naut](https://www.naut.ai/)
 Still in an early stage, with waitlist fir early access
 <details>
 
