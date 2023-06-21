@@ -1,6 +1,8 @@
 # 🔮 AI Agents
 
-*Welcome to our list of popular AI autonomous agents. Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:*
+*Welcome to our list of popular AI autonomous agents. 
+We structured the list into 
+Your favorite one is missing? Add them via pull request. Discussion and feedback appreciated :heart:*
 
 
 [![Discord](https://img.shields.io/static/v1?label=Join&message=our%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
@@ -9,7 +11,7 @@
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
 
 
-# Open Source Projects
+# :open_hands: Open Source Projects
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
@@ -39,11 +41,17 @@ A browser-based implementation of AutoGPT, accessible via a no-code platform
 
 
 
-## [AI Legion](https://gpt3demo.com/apps/ai-legion)
-Similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
+## [AI Legion](https://github.com/eumemic/ai-legion)
+A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
 <details>
 
-- Author: eumemic
+### How it works
+- An LLM-powered autonomous agent platform
+- A framework for autonomous agents who can work together to accomplish tasks
+- Interaction with agents done via console direct messages
+- To install, you will need at least Node 10, and to enable the Google Custom Search API for your Google Cloud account
+
+- Author: [eumemic](https://github.com/eumemic)
 - [Website](https://gpt3demo.com/apps/ai-legion)
 - [GitHub](https://github.com/eumemic/ai-legion)
 - [Twitter](https://twitter.com/dysmemic)
@@ -53,10 +61,28 @@ Similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
 
 ## [AutoGPT](https://autogpt.net/)
 
+An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
+
 <details>
 
-- A lot like BabyAGI combined with LangChain tools.
-- Can execute many commands such as Google Search, browse websites, write to files, and execute Python files
+### How it works
+- Chains together LLM "thoughts", to autonomously achieve whatever goal you set
+- Internet access for searches and information gathering
+- Long-term and short-term memory management
+- Can execute many commands such as Google Search, browse websites, write to files, and execute Python files and much more
+- GPT-4 instances for text generation
+- Access to popular websites and platforms
+- File storage and summarization with GPT-3.5
+- Extensibility with Plugins
+- "A lot like BabyAGI combined with LangChain tools"
+
+### Features added in release 0.4.0
+- File reading
+- Commands customization
+- Enhanced testing
+
+### Links
+- [Twitter](https://twitter.com/Auto_GPT)
 - [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
 </details>
 
@@ -156,9 +182,37 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 
 ## [Databerry](https://www.databerry.ai/)
-
+A super-easy no-code platform for creating AI chatbots trained on your own data
 
 <details>
+
+### How it works
+- One of the easiest and fastest no-code platform I have encountered
+- After creating new agent, picking a model, data and other settings, they are ready to be deployed to website, Slack, Crisp, or Zapier
+- Limit of agent in the free version
+
+### Stack
+- Next.js
+- Joy UI
+- LangchainJS
+- PostgreSQL
+- Prisma
+- Qdrant
+
+
+### Features
+- Streamline customer support, onboard new team members, and more
+- Load data from anywhere
+- No-code: User-friendly interface to manage your datastores and chat with your data
+- Securized API endpoint for querying your data
+- Auto sync data sources (coming soon)
+- Auto generates a ChatGPT Plugin for each datastore
+
+### Links
+- [Documentation](https://docs.databerry.ai/introduction)
+- [Discord](https://discord.com/invite/FSWKj49ckX)
+- [GitHub](https://github.com/gmpetrov/databerry)
+
 </details>
 
 
@@ -390,7 +444,7 @@ Swift implementation of BabyAGI.
 - Author: [PJ Gray](https://twitter.com/pj4533)
 </details>
 
-# Companies building agents and closed-source projects
+# :lock: Companies building agents and closed-source projects
 
 
 ## [AIrplane](https://www.airplane.dev/autopilot)
@@ -665,10 +719,3 @@ A Github assistant the helps fix small bugs and implement small features
 
 <br>
 
-# 💪 Contributors 💪
-
-<a href="https://github.com/tizkovatereza/AI/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tizkovatereza/AI" />
-</a>
-
-Made with [contrib.rocks](https://contrib.rocks).
