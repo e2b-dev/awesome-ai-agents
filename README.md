@@ -210,6 +210,13 @@ A GPT-4 powered semantic code search engine that uses an AI agent
 - Fast code search and regex matching engine written in Rust
 - Allows to find Code on Rust and Typescript
 - Allows to stage changes
+- The agent searches both your local and remote repositories with natural language, regex and filtered queries
+- Bloop can be run via app (easy to download via GitHub)
+
+### Links
+- [GitHub](https://github.com/BloopAI/bloop)
+- ["Getting started" guide](https://bloop.ai/docs/getting-started)
+- [Bloop apps](https://github.com/BloopAI/bloop/releases)
 
 </details>
 
@@ -485,19 +492,19 @@ An open-source autonomous AI framework to enable development and deployment auto
 - Open source, but infrastructure is closed-source
 - Features
 	- Provision, Spawn & Deploy Autonomous AI Agents
-- Extend Agent Capabilities with Tools
-- Run Concurrent Agents Seamlessly
-- Graphical User Interface
-- Action Console
-- Multiple Vector DBs
-- Multi-Modal Agents
-- Agent Trajectory Fine-Tuning
-- Performance Telemetry
-- Optimized Token Usage
-- Agent Memory Storage
-- Looping Detection Heuristics
-- Concurrent Agents
-- Resource Manager
+	- Extend Agent Capabilities with Tools
+	- Run Concurrent Agents Seamlessly
+	- Graphical User Interface
+	- Action Console
+	- Multiple Vector DBs
+	- Multi-Modal Agents
+	- Agent Trajectory Fine-Tuning
+	- Performance Telemetry
+	- Optimized Token Usage
+	- Agent Memory Storage
+	- Looping Detection Heuristics
+	- Concurrent Agents
+	- Resource Manager
 
 
 ### Links
@@ -511,7 +518,7 @@ An open-source autonomous AI framework to enable development and deployment auto
 
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 
-Can recall infinite memory, THINKS before it speaks, and doesn't lose memory after being shutting down
+A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making action, and doesn't lose memory after being shutting down
 <details>
 
 ### Description
@@ -519,7 +526,7 @@ Can recall infinite memory, THINKS before it speaks, and doesn't lose memory aft
 - Language: Python
 - Uses OpenAI and Pinecone to give memory to an AI agent and also allows it to "think" before making an action (outputting text)
 - Also, just by shutting down the AI, it doesn't forget its memories since it lives on Pinecone and its memory_counter saves the index that it's on
-- A process that happens every time the AI is queried by the user:**
+- A process that happens every time the AI is queried by the user:
 	- AI vectorizes the query and stores it in a Pinecone Vector Database
 	- AI looks inside its memory and finds memories and past queries that are relevant to the current query
 	- AI thinks about what action to take
@@ -529,7 +536,7 @@ Can recall infinite memory, THINKS before it speaks, and doesn't lose memory aft
 
 ### Links
 - Created by [@sean_pixel](https://twitter.com/sean_pixel)
-!
+- Inspired by paper ["Generative Agents: Interactive Simulacra of Human Behavior"](https://arxiv.org/abs/2304.03442)
 
 </details>
 
@@ -566,6 +573,29 @@ A multi-agent simulation library, with a goal to simulate and optimize systems a
 - A paper simulating interactions between tens of agents
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
+
+## [Voyager](https://voyager.minedojo.org/)
+A LLM-powered embodied lifelong learning agent in Minecraft
+<details>
+
+### Description
+- A LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
+- Voyager consists of three key components:
+	- 1) an automatic curriculum that maximizes exploration
+	- 2) an ever-growing skill library of executable code for storing and retrieving complex behaviors
+	- 3) a new iterative prompting mechanism that incorporates environment feedback, execution errors, and self-verification for program improvement
+- Voyager interacts with GPT-4 via blackbox queries, which bypasses the need for model parameter fine-tuning
+
+
+### Links
+- [GitHub](https://github.com/MineDojo/Voyager)
+- [Paper - Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
+- [YouTube video](https://www.youtube.com/watch?v=uTg39rNMojo)
+- [Tweet](https://twitter.com/DrJimFan/status/1662115266933972993)
+
+</details>
+
+
 
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 A GPT agent framework for invoking APIs
