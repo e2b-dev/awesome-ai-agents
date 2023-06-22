@@ -1,6 +1,5 @@
 # 🔮 AI Agents
 [![Discord](https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
- <a href="https://github.com/tizkovatereza/AI/pulls">    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
 
@@ -124,8 +123,10 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 <details>
 
+A simple framework for managing tasks using AI
 
 ### Description
+- A pared-down version of the original [Task-Driven Autonomous Agent](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
 - Creates tasks based on the result of previous tasks and a predefined objective.
 - The script then uses OpenAI's NLP capabilities to create new tasks based on the objective
 - Leverages OpenAI's GPT-4, pinecone vector search, and LangChainAI framework
@@ -136,9 +137,29 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 
 ### Links
 - Paper: [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+- [Discord](https://discord.com/invite/TMUw26XUcg)
 - [Founder's twitter](https://twitter.com/yoheinakajima)
 - [Twitter thread describing the system](https://twitter.com/yoheinakajima/status/1640934493489070080)
 
+
+</details>
+
+
+## [BabyBeeAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)
+A task management and functionality expansion on top of BabyAGI
+
+<details>
+
+### Description
+- A more advanced version of the original BabyAGI code
+- - Improves upon the original framework, by introducing a more complex task management prompt, allowing for more comprehensive analysis and synthesis of information
+- Designed to handle multiple functions within one task management prompt
+- Built on top of the GPT-4 architecture, resulting in slower processing speeds and occasional errors
+- Provides a framework that can be further built upon and improved, paving the way for more sophisticated AI applications
+- One of the significant differences between BabyAGI and BabyBeeAGI is the complexity of the task management prompt 
+
+### Links
+- [Replit](https://replit.com/@YoheiNakajima/BabyBeeAGI?v=1)
 
 </details>
 
@@ -398,7 +419,7 @@ Inspired by privateGPT
 
 
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
-
+A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
 <details>
 
 ### Description
@@ -463,6 +484,21 @@ Not a single agent, but a tool that allows creating agents without coding
 - [GitHub](https://github.com/homanp/superagent)
 - [Documentation](https://docs.superagent.sh/introduction)
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
+- Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
+
+</details>
+
+## [SuperAGI](https://superagi.com/)
+An open-source autonomous AI framework to enable development and deployment autonomous agents
+<details>
+- Open source, but infrastructure is closed-source
+
+### Links
+- [YouTube](https://www.youtube.com/@_superagi)
+- [Discord](https://discord.com/invite/dXbRe5BHJC)
+- [Subreddit](https://www.reddit.com/r/Super_AGI/)
+- [Twitter0(https://twitter.com/_superAGI)]
+- Author: [Ishaan Bhola](https://twitter.com/ishaanbhola)
 
 </details>
 
@@ -663,7 +699,7 @@ Web based version of AutoGPT/babyAGI
 
 
 ## [Diagram](https://diagram.com/)
-AI-powered design tools for everything from copywriting to generating unique icons from text
+AI-powered design tools for everything from copywriting to generating unique icons from text, recently acquired by Figma
 
 <details>
 
@@ -690,6 +726,31 @@ Working on autonomous coding Droids for building software end-to-end
 - [CEO](https://twitter.com/matangrinberg)
 
 
+</details>
+
+
+### [Fine Tuner](https://fine-tuner.ai/)
+
+Platform for no-code building of AI agents
+
+<details>
+
+- With Fine-Tuner, you can build sophisticated, tailored AI agents at scale without any need for technical skills or coding. Just bring your data and ideas, and we'll provide the toolset you need to transform them into powerful AI solutions, capable of handling vast amounts of data and users. Take advantage of our scalable platform to meet your growing needs with ease and efficiency
+- Connecting Your Chatbot to Your App
+
+- FineTuner.ai is a no-code AI platform that enables users to create and deploy custom AI agents and components without any coding. 
+With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI development, allowing users to focus on their unique use cases and ideas.
+
+4.1. Access the API tab for an overview of the required tokens and parameters to connect your chatbot to your app using REST API endpoints.
+- The Fine-Tuner REST API provides API endpoints for Fine-Tuner data types that allow to interact with your AI models remotely by sending and receiving JSON
+- Authentication to the Fine-Tuner API is performed via HTTP Bearer Authentication
+- Front end: Bubble
+
+
+### Links
+- [Twitter](https://twitter.com/finetuner_ai)
+- [Step-by-step guide](https://fine-tuner.ai/resources?res=1682544317646x963647349155168300)
+- [Author](https://twitter.com/0xAlbert_S3)
 </details>
 
 ## [Fixie](https://www.fixie.ai/)
@@ -890,7 +951,6 @@ A Github assistant the helps fix small bugs and implement small features
 
 
 [![Discord](https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
- <a href="https://github.com/tizkovatereza/AI/pulls">    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
 
