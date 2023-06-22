@@ -421,6 +421,18 @@ A development toolkit designed to streamline prompt design, version management, 
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Private GPT](https://www.privategpt.io/)
+A tool for private interaction with documents, without a need for internet connection
+<details>
+
+### Description
+- Built with LangChain, GPT4All, LlamaCpp, Chroma and SentenceTransformers
+- A test project to validate the feasibility of a fully private solution for question answering using LLMs and Vector embeddings, not production ready
+
+### Links
+- [GitHub](https://github.com/imartinez/privateGPT)
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 :hatching_chick: Your own junior developer
 <details>
