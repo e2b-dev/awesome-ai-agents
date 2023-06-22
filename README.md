@@ -939,7 +939,7 @@ AI personal agent, holding the record for the first AI flight booking, food orde
 
 
 ## [Naut](https://www.naut.ai/)
-Still in an early stage, with waitlist fir early access
+Still in an early stage, with waitlist for early access
 <details>
 
 ### Description
