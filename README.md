@@ -337,37 +337,6 @@ An AI agent that generates an entire codebase based on a prompt
 
 </details>
 
-## [Lindy](https://www.lindy.ai/)
-An AI assistant that can help with daily tasks, e.g., calendar management, email drafting, and contract sending
-
-<details>
-
-### Description
-- Lindy is still in a beta version
-- Features
-	- Lindy triages your email
-	- She learns from your inbox and automatically surfaces the highest-priority emails for you
-	- Automatic conflict handling
-	- Daily briefing
-	- Contract management
-	- Meeting note taking
-	- Summarization
-
-
-<!--
-### Features
-- Lindy triages your email
-- She learns from your inbox and automatically surfaces the highest-priority emails for you
-- Automatic conflict handling
-- Daily briefing
-- Contract management
-- Meeting note taking
-- Summarization
--->
-
-
-</details>
-
 
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
@@ -466,8 +435,7 @@ A development toolkit designed to streamline prompt design, version management, 
 - Write CSS animation by describing what u want
 - GPT4 >>> GPT3.5/Anthropic Claude for codegen
 
-
-- ### Links
+### Links
 - Author: [Swyx](https://twitter.com/swyx)
 - [Demo](https://www.youtube.com/watch?v=UCo7YeTy-aE)
 - [Twitter](https://twitter.com/SmolModels)
@@ -612,7 +580,7 @@ Airplane is a company for building internal tools, they're building their autopi
 - [Profile of the company](https://www.airplane.dev/)
 - [Documentation](https://docs.airplane.dev/)
 - [Twitter](https://twitter.com/AirplaneDev)
-- [They're building an AI assistant here[(https://www.airplane.dev/autopilot)
+- [They're building an AI assistant here](https://www.airplane.dev/autopilot)
 
 
 </details>
@@ -631,7 +599,7 @@ An AI agent specifically designed for research
 - AI-powered query planner intelligently routes and executes requests, ensuring correctness and diverse source selection
 
 ### Links
--[Discord](https://discord.com/invite/a367ncqEsm)
+- [Discord](https://discord.com/invite/a367ncqEsm)
 
 </details>
 
@@ -831,6 +799,39 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 
 </details>
+
+## [Lindy](https://www.lindy.ai/)
+An AI assistant that can help with daily tasks, e.g., calendar management, email drafting, and contract sending
+
+<details>
+
+### Description
+- Lindy is still in a beta version
+- Features
+	- Lindy triages your email
+	- She learns from your inbox and automatically surfaces the highest-priority emails for you
+	- Automatic conflict handling
+	- Daily briefing
+	- Contract management
+	- Meeting note taking
+	- Summarization
+
+### Links
+- Author: [Flo Crivello](https://twitter.com/Altimor)
+
+<!--
+### Features
+- Lindy triages your email
+- She learns from your inbox and automatically surfaces the highest-priority emails for you
+- Automatic conflict handling
+- Daily briefing
+- Contract management
+- Meeting note taking
+- Summarization
+-->
+
+</details>
+
 
 ## [Minion AI](https://minion.ai/)
 Made by creator of GitHub Copilot, so far in a waitlist stage
