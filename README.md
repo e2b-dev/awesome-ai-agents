@@ -1,4 +1,4 @@
-# 🔮 AI Agents
+# 🔮 Awesome AI Agents
 [![Discord](https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue)](https://discord.gg/BRymvqUS)
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
@@ -23,7 +23,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 - Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
 
-Feel free to reach out to us at [hello@e2b.dev](hello@e2b.dev).
+Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
 # :open_hands: Open Source Projects
 
