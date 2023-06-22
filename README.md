@@ -462,6 +462,12 @@ A tool for private interaction with documents, without a need for internet conne
 Not a single agent, but a tool that allows creating agents without coding
 <details>
 
+### Description
+- Simplifies the configuration and deployment of LLM Agents to production
+- "One of the core principals of Superagent is to build with any third-party dependencies to proprietary tech"
+- It provides a range of features and functionalities to make it easier for developers to build, manage and deploy AI agents to production including features such as built in memory and document retrieval via vector dbs, powerful tools, webhooks, cron jobs etc.
+- There are two main types of agents: action agents and plan-and-execute agents
+
 ### Links
 - [GitHub](https://github.com/homanp/superagent)
 - [Documentation](https://docs.superagent.sh/introduction)
@@ -473,13 +479,32 @@ Not a single agent, but a tool that allows creating agents without coding
 ## [SuperAGI](https://superagi.com/)
 An open-source autonomous AI framework to enable development and deployment autonomous agents
 <details>
+
+### Description
+- An AI agent framework
 - Open source, but infrastructure is closed-source
+- Features
+	- Provision, Spawn & Deploy Autonomous AI Agents
+- Extend Agent Capabilities with Tools
+- Run Concurrent Agents Seamlessly
+- Graphical User Interface
+- Action Console
+- Multiple Vector DBs
+- Multi-Modal Agents
+- Agent Trajectory Fine-Tuning
+- Performance Telemetry
+- Optimized Token Usage
+- Agent Memory Storage
+- Looping Detection Heuristics
+- Concurrent Agents
+- Resource Manager
+
 
 ### Links
 - [YouTube](https://www.youtube.com/@_superagi)
 - [Discord](https://discord.com/invite/dXbRe5BHJC)
 - [Subreddit](https://www.reddit.com/r/Super_AGI/)
-- [Twitter0(https://twitter.com/_superAGI)]
+- [Twitter](https://twitter.com/_superAGI)]
 - Author: [Ishaan Bhola](https://twitter.com/ishaanbhola)
 
 </details>
