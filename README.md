@@ -6,7 +6,7 @@
 Welcome to our list of popular AI autonomous agents.
 We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
-- [Closed-source projects and companies building agents](#lock-closed-source-projects-and-companies-building-agents).
+- [Closed-source projects and companies](#lock-closed-source-projects-and-companies-building-agents).
 
 The list is done according to our best knowledge, although definitely not comprehensive.
 Discussion and feedback appreciated! :heart:
@@ -25,7 +25,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
-# :open_hands: Open Source Projects
+# :open_hands: Open-source projects
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
@@ -121,9 +121,11 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
-<details>
 
 A simple framework for managing tasks using AI
+<details>
+
+
 
 ### Description
 - A pared-down version of the original [Task-Driven Autonomous Agent](https://twitter.com/yoheinakajima/status/1640934493489070080?s=20)
@@ -697,7 +699,7 @@ Working on autonomous coding Droids for building software end-to-end
 </details>
 
 
-### [Fine Tuner](https://fine-tuner.ai/)
+## [Fine Tuner](https://fine-tuner.ai/)
 
 Platform for no-code building of AI agents
 
@@ -921,6 +923,27 @@ Automated migrations and upgrades for every codebase
 
 
 </details>
+
+## [Spell](https://spell.so/)
+
+AutoGPT agents with plugins
+<details>
+
+### Description
+- "Delegate your tasks to autonomous AI agents. Transform your daily work with revolutionary and intuitive AI tools powered by GPT4"
+- Access APIs like Zapier, Wolfram etc
+- Open links
+- Manipulate files
+- Search web
+
+
+
+### Links
+- [Author's Twitter](https://twitter.com/rafal_makes)
+
+
+</details>
+
 
 ## [Sweep](https://sweep.dev/)
 A Github assistant the helps fix small bugs and implement small features
