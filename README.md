@@ -715,7 +715,7 @@ An AI agent specifically designed for research
 ### Links
 - [GitHub Marketplace](https://github.com/marketplace/document-guardian)
 - [Slack](https://bitbuilder-ai.slack.com/join/shared_invite/zt-1tlrds3n4-rpmgIGM6XrB5W97005IA1Q#/shared-invite/email)
-- [Installation(https://docs.bitbuilder.ai/install)]
+- [Installation](https://docs.bitbuilder.ai/install)
 
 
 
