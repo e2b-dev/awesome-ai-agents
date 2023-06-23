@@ -140,7 +140,7 @@ A simple framework for managing tasks using AI
 ### Links
 - Paper: [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 - [Discord](https://discord.com/invite/TMUw26XUcg)
-- [Founder's twitter](https://twitter.com/yoheinakajima)
+- [Founder's Twitter](https://twitter.com/yoheinakajima)
 - [Twitter thread describing the system](https://twitter.com/yoheinakajima/status/1640934493489070080)
 
 
@@ -177,10 +177,10 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 	- Task Creation Agent runs once
 	- Execution Agent loops through tasks
 	- Task dependencies for pulling relevant results
-	- Two tools: search_tool and text_completion
+	- Two tools: search tool and text completion
 	- “Mini-agent” as tool
 	- Search tool combines search, scrape, chunking, and extraction.
-	- Results combined to create summary_report
+	- Results combined to create summary report
 
 
 <!--
@@ -262,7 +262,7 @@ A super-easy no-code platform for creating AI chatbots trained on your own data
 	- Streamline customer support, onboard new team members, and more
 	- Load data from anywhere
 	- No-code: User-friendly interface to manage your datastores and chat with your data
-	- Securized API endpoint for querying your data
+	- Secured API endpoint for querying your data
 	- Auto sync data sources (coming soon)
 	- Auto generates a ChatGPT Plugin for each datastore
 
@@ -280,7 +280,7 @@ A super-easy no-code platform for creating AI chatbots trained on your own data
 - Streamline customer support, onboard new team members, and more
 - Load data from anywhere
 - No-code: User-friendly interface to manage your datastores and chat with your data
-- Securized API endpoint for querying your data
+- Secured API endpoint for querying your data
 - Auto sync data sources (coming soon)
 - Auto generates a ChatGPT Plugin for each datastore
 
@@ -344,11 +344,11 @@ An AI agent that generates an entire codebase based on a prompt
 
 ### Description
 - Model: GPT 4
-- Specify your project, and the AI agent acks for clarification, and then constructs the entire code base
+- Specify your project, and the AI agent asks for clarification, and then constructs the entire code base
 - Features
 	- Made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
 	- You can specify the "identity" of the AI agent by editing the files in the identity folder
-	- Editing the identity, and evolving the main_prompt, is currently how you make the agent remember things between projects
+	- Editing the identity and evolving the main prompt is currently how you make the agent remember things between projects
 	- Each step in steps.py will have its communication history with GPT4 stored in the logs folder, and can be rerun with scripts/rerun_edited_message_logs.py
 
 <!--
@@ -356,7 +356,7 @@ An AI agent that generates an entire codebase based on a prompt
 ### Features
 - Made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
 - You can specify the "identity" of the AI agent by editing the files in the identity folder
-- Editing the identity, and evolving the main_prompt, is currently how you make the agent remember things between projects
+- Editing the identity, and evolving the main prompt, is currently how you make the agent remember things between projects
 - Each step in steps.py will have its communication history with GPT4 stored in the logs folder, and can be rerun with scripts/rerun_edited_message_logs.py
 
 -->
@@ -454,7 +454,7 @@ A development toolkit designed to streamline prompt design, version management, 
 
 
 ### Description
-- "Whether you are a technical person or a stakeholder, you can use Pezzo effectively. We don't believe that AI prompts should be designed in a developer's code editor. Aside from teh technical issues with this approach, it blocks productivity."
+- "Whether you are a technical person or a stakeholder, you can use Pezzo effectively. We don't believe that AI prompts should be designed in a developer's code editor. Aside from the technical issues with this approach, it blocks productivity."
 - Features
 	- Centralized Prompt Management: Manage all AI prompts in one place for maximum visibility and efficiency.
 	- Streamlined Prompt Design, Publishing & Versioning: Create, edit, test and publish prompts with ease.
@@ -511,7 +511,7 @@ Not a single agent, but a tool that allows creating agents without coding
 
 ### Description
 - Simplifies the configuration and deployment of LLM Agents to production
-- "One of the core principals of Superagent is to build with any third-party dependencies to proprietary tech"
+- "One of the core principals of SuperAgent is to build with any third-party dependencies to proprietary tech"
 - It provides a range of features and functionalities to make it easier for developers to build, manage and deploy AI agents to production including features such as built in memory and document retrieval via vector dbs, powerful tools, webhooks, cron jobs etc.
 - There are two main types of agents: action agents and plan-and-execute agents
 
@@ -565,7 +565,7 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 - Model: GPT-4
 - Language: Python
 - Uses OpenAI and Pinecone to give memory to an AI agent and also allows it to "think" before making an action (outputting text)
-- Also, just by shutting down the AI, it doesn't forget its memories since it lives on Pinecone and its memory_counter saves the index that it's on
+- Also, just by shutting down the AI, it doesn't forget its memories since it lives on Pinecone and its memory counter saves the index that it's on
 - A process that happens every time the AI is queried by the user:
 	- AI vectorizes the query and stores it in a Pinecone Vector Database
 	- AI looks inside its memory and finds memories and past queries that are relevant to the current query
@@ -754,7 +754,7 @@ An AI agent specifically designed for research
 	- Addressing comments
 	- Answering questions
 - BitBuilder Junior
-	- BitBuilder Junior is an intern-level code generation tool that lives in your GitHub repository. It follows instructions to implement unamibigous code changes by changing multiple files, writing tests for generated code, and matching the style, framework, and libraries you're already using.
+	- BitBuilder Junior is an intern-level code generation tool that lives in your GitHub repository. It follows instructions to implement unambiguous code changes by changing multiple files, writing tests for generated code, and matching the style, framework, and libraries you're already using.
 
 ### Links
 - [GitHub Marketplace](https://github.com/marketplace/document-guardian)
@@ -822,7 +822,7 @@ Working on autonomous coding Droids for building software end-to-end
 
 ### Description
 - In aplha stage
-- It’s not supposed to be just another coding copilots like GitHub Copilot or Codeium, but autohomous agents capable of autonomously building software from end to end
+- It’s not supposed to be just another coding copilots like GitHub Copilot or Codeium, but autonomous agents capable of autonomously building software from end to end
 
 ### Links
 - [CEO](https://twitter.com/matangrinberg)
@@ -1103,7 +1103,7 @@ AutoGPT agents with plugins
 
 ### Description
 - "Delegate your tasks to autonomous AI agents. Transform your daily work with revolutionary and intuitive AI tools powered by GPT4"
-- Access APIs like Zapier, Wolfram etc
+- Access APIs like Zapier, Wolfram, etc.
 - Open links
 - Manipulate files
 - Search web
