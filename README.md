@@ -315,6 +315,27 @@ A tool automating code generation, in beta version, created for full-stack devel
 
 </details>
 
+## [Godmode](https://godmode.space/)
+A project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
+
+<details>
+
+## Description
+- A web platform inspired by AutoGPT and BabyAGI
+- What it can do:
+	- Order your coffee at Starbucks
+	- Perform market analysis
+	- Find and negotiate a lease
+- Supports GPT-3.5 & GPT-4
+
+
+## Links
+- [GitHub](https://github.com/FOLLGAD/Godmode-GPT)
+- Authors: [Emil Ahlbäck](https://twitter.com/emilahlback), [Lonis](https://twitter.com/_Lonis_)
+- [Discord](https://discord.com/invite/vSzCcDDwz3)
+- [Tweet](https://twitter.com/_Lonis_/status/1646641412182536196)
+
+</details>
 
 ## [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
 An AI agent that generates an entire codebase based on a prompt
@@ -884,7 +905,8 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 <details>
 
 ### Description
-- Personal assistant for life: to keep you on top of your calendar, tasks and information. Was at Llama event demo
+- Personal assistant for life: to keep you on top of your calendar, tasks and information
+- Currently in a beta version
 
 
 </details>
@@ -997,14 +1019,15 @@ Automated migrations and upgrades for every codebase
 
 ### Description
 - Migrate frameworks such as Angular to React, libraries such as Redux to React Context, or languages such as JavaScript to TypeScript
-- erform major version upgrades on any number of applications, of any size
+- Perform major version upgrades on any number of applications, of any size
 - Upgrade frameworks such as Next.js 12 to 13, libraries such as MUI 4 to 5, or languages such as Python 2 to 3
+- Target users: enterprise codebases
 - [Roadmap](https://second.canny.io/)
 
 ### Links
 - [YCombinator](https://www.ycombinator.com/companies/second)
 - [Twitter](https://twitter.com/SecondDevHQ)
-- [Linkedin](https://www.linkedin.com/company/secondhq/)¨
+- [Linkedin](https://www.linkedin.com/company/secondhq/)
 - [Discord](https://discord.com/invite/ZhYUEjsW3Z)
 - Founder: [Eric Rowell](https://twitter.com/ericdrowell)
 
