@@ -428,6 +428,31 @@ A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
 - It is also capable of inner monologue and self-criticism
 </details>
 
+
+## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
+An experimental open-source attempt to make GPT-4 fully autonomous
+<details>
+
+### Description
+- An experimental multi-agent system
+- Multiple "expertGPTs" collaborate to perform a task
+- Each with their own short and long-term memory and the ability to communicate with each other
+- Features
+	- Set a task and watch the experts get to work.
+	- Internet access for searches and information gathering
+	- Long-Term and Short-Term memory management
+	- GPT-4 instances for text generation
+	- Access to popular websites and platforms
+	- File storage and summarization with GPT-3.5
+
+### Links
+- [Demo](https://www.loom.com/share/b6bec93065794eb8a47e2109697afa39)
+- Authors: [Max Rumpf](https://twitter.com/md_rumpf) and [Significant Gravitas](https://twitter.com/SigGravitas)
+
+
+</details>
+
+
 ## [OpenAGI](https://github.com/agiresearch/OpenAGI)
 An open-source AGI R&D platform that enables agents for both benchmark tasks and open-ended tasks
 
@@ -476,8 +501,41 @@ A tool for private interaction with documents, without a need for internet conne
 - Built with LangChain, GPT4All, LlamaCpp, Chroma and SentenceTransformers
 - A test project to validate the feasibility of a fully private solution for question answering using LLMs and Vector embeddings, not production ready
 
+
 ### Links
 - [GitHub](https://github.com/imartinez/privateGPT)
+
+</details>
+
+## [React Agent](https://reactagent.io/)
+An open-source React.js Autonomous LLM Agent
+<details>
+
+## Description
+- An experimental autonomous agent
+- Model: GPT-4
+- Purpose: Gnerate and compose React components from user stories
+- Stack
+	- React
+	- TailwindCSS
+	- Typescript
+	- Radix UI
+	- Shandcn UI
+	- OpenAI API
+- The agent is taking a user story text and generating and composing multiple react components to generate the relevant screens, based on atomic design principles
+- Features
+	- Generate React Components from user stories
+	- Compose React Components from existing components
+	- Use a local design system to generate React Components
+	- Use React, TailwindCSS, Typescript, Radix UI, Shandcn UI
+	- Built with Atomic Design Principles
+- It is still experimental but very interesting results, It is completely open-sourced, looking for contributors!
+
+## Links
+- [GitHub](https://github.com/eylonmiz/react-agent)
+- [Documentation](https://docs.reactagent.io/)
+- Authors: [Eylon Miz and](https://twitter.com/EylonMiz) and [Lee Twito](https://twitter.com/LeeTwito)
+
 </details>
 
 ## [Smol developer](https://github.com/smol-ai/developer)
