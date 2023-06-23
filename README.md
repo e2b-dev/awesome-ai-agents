@@ -428,6 +428,25 @@ A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
 - It is also capable of inner monologue and self-criticism
 </details>
 
+## [OpenAGI](https://github.com/agiresearch/OpenAGI)
+An open-source AGI R&D platform that enables agents for both benchmark tasks and open-ended tasks
+
+<details>
+
+### Description
+- Powered by various language models such as GPT-4, Vicuna, LLaMA, and Flan-T5
+- Supports multi-modality tool learning and task solving such as text, image, video and audio
+- Supports task decomposition into both linear task-solving plans and non-linear task-solving plans
+- Allows both benchmark task solving and open-ended task solving
+- Provides easy-to-use evaluation protocols to evaluate task-solving ability
+- Provide Reinforcement Learning from Task Feedback (RLTF) to allow continuously self-improving agent
+
+### Links
+- [GitHub](https://github.com/agiresearch/OpenAGI)
+- [Paper](https://arxiv.org/abs/2304.04370)
+- [Demo](https://www.youtube.com/watch?v=7RaXPPXi0-Y)
+
+</details>
 
 ## [Pezzo](https://www.pezzo.ai/)
 A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
