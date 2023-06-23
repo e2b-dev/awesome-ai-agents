@@ -635,6 +635,31 @@ A GPT agent framework for invoking APIs
 </details>
 
 
+## [yAgents](https://github.com/yeagerai/yeagerai-agent)
+
+yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding and debugging its own tools.
+
+<details>
+	
+### Description
+- Designed to help build, prototype, and deploy AI-powered tools and agents easily and efficiently.
+- Built on the LangChain framework, allowing users of any technical background to create, improve, and deploy AI agents.
+- Equipped with an interactive command line interface for real-time feedback and ease of navigation.
+- Features session persistent memory to ensure data preservation across multiple sessions
+- Quick and easy installation via pip.
+- Contributions to expand and improve yAgents are highly encouraged.
+
+### Warnings
+- Requires GPT-4 API access.
+- Not tested for Windows systems.
+
+### Links
+- [GitHub Repository](https://github.com/yeagerai/yeagerai-agent)
+- [Discord](https://discord.com/invite/wKds24jdAX)
+- [License: MIT](https://github.com/yeagerai/yeagerai-agent/blob/main/LICENSE)
+
+</details>
+
 ## [Yourgoal](https://github.com/pj4533/yourgoal)
 
 Swift implementation of BabyAGI
