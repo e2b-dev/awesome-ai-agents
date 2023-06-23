@@ -551,7 +551,7 @@ An open-source autonomous AI framework to enable development and deployment auto
 - [YouTube](https://www.youtube.com/@_superagi)
 - [Discord](https://discord.com/invite/dXbRe5BHJC)
 - [Subreddit](https://www.reddit.com/r/Super_AGI/)
-- [Twitter](https://twitter.com/_superAGI)]
+- [Twitter](https://twitter.com/_superAGI)
 - Author: [Ishaan Bhola](https://twitter.com/ishaanbhola)
 
 </details>
