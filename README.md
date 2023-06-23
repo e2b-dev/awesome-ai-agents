@@ -807,6 +807,25 @@ A platform for creating LLM-powered apps like AI agents
 - [Discord](https://discord.com/invite/MsKAeKF8kU)
 </details>
 
+
+## [Floode](https://floodehq.com/)
+
+An AI communication agent, currently in closed beta version
+
+<details>
+
+- An AI executive assistant for augmented communication
+- Automation of communication - from generating answers to extracting tasks or scheduling meetings
+- Keeping all conversations in the same place
+- Automatically sorted, labelled and summed up 
+- AI assisted writing
+- Tasks & meetings scheduled in autopilot, ready at any time
+
+### Links
+- Author: [Sarah Allali](https://twitter.com/SarahAllali7)
+
+</details>
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 
 
