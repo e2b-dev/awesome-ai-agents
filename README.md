@@ -814,6 +814,7 @@ An AI communication agent, currently in closed beta version
 
 <details>
 
+### Description
 - An AI executive assistant for augmented communication
 - Automation of communication - from generating answers to extracting tasks or scheduling meetings
 - Keeping all conversations in the same place
