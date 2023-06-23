@@ -6,7 +6,7 @@
 Welcome to our list of popular AI autonomous agents.
 We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
-- [Closed-source projects and companies](#lock-closed-source-projects-and-companies).
+- [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
 
 The list is done according to our best knowledge, although definitely not comprehensive.
 Discussion and feedback appreciated! :heart:
