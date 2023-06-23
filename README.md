@@ -994,13 +994,13 @@ Still in an early stage, with waitlist for early access
 
 ## [Proficient AI](https://proficientai.com)
 
-Interaction APIs and SDKs that allow developers to build, deploy and operate conversational AI agents in their apps.
+Interaction APIs and SDKs that allow developers to build, deploy and operate conversational AI agents in their apps
 <details>
 
 ### Description
 - an end-to-end solution, with which it takes 3 minutes not weeks to get a user-facing agent up and running in your app (currently 3 SDKs including React)
-- minimizes or eliminates the need for custom backend infrastructure so you can focus on implementing the business logic
 - powerful tools built into the admin dashboard and Admin API including analytics, monitoring, rate-limiting, content moderation, etc.
+- minimizes or eliminates the need for custom backend infrastructure so you can focus on implementing the business logic
 - technology-agnostic solution that supports multiple LLM providers (currently 7 models from OpenAI and Anthropic) allowing you to easily switch between models with 1 click
 - ready-to-use, highly customizable and beautiful UI components rendering complex interaction trees with support for advanced features like streaming
 
