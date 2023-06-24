@@ -199,6 +199,26 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 </details>
 
 
+## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
+
+An AI agent designed to test what happens when you combine CLI and LLM, which are more traditional interfaces than GUI (created by @saten-private)
+
+<details>
+
+### Description
+- An AI agent based on @yoheinakajima's [BabyAGI](https://github.com/yoheinakajima/babyagi) which executes shell commands
+- Successfully installed a Flutter environment on Linux in a container, created the default Flutter app, and launched it. The procedure can be found [here](https://twitter.com/saten_work/status/1667126272072491009).
+- Aside from setting up the environment, it seems to be able to handle a bit of general tasks such as [Generating text, like poems, code, scripts, musical pieces, email, and letters, translating languages](https://anyaitools.com/babycommandagi/?utm_source=SocialAutoPoster&utm_medium=Social&utm_campaign=Twitter)
+- There is a risk of breaking the environment. Please run in a virtual environment such as Docker.
+- GPT-4 or higher is recommended
+
+### Links
+- [Founder's Twitter](https://twitter.com/saten_work)
+- [Twitter thread describing the system](https://twitter.com/saten_work/status/1654571194111393793)
+
+</details>
+
+
 ## [Bloop](https://bloop.ai/)
 A GPT-4 powered semantic code search engine that uses an AI agent
 
