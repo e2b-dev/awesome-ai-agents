@@ -198,6 +198,16 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 
 </details>
 
+## [BabyDeerAGI]()
+
+<details>
+
+### Description
+
+### Links
+
+</details>
+
 
 ## [Bloop](https://bloop.ai/)
 A GPT-4 powered semantic code search engine that uses an AI agent
@@ -293,6 +303,43 @@ A super-easy no-code platform for creating AI chatbots trained on your own data
 
 </details>
 
+## [Deepnote AI Copilot](https://deepnote.com/blog/introducing-deepnote-ai)
+An AI code copilot that instantly suggests code and works with the whole notebook context
+<details>
+
+## Description
+- Deepnote's AI Copilot, with its efficient and contextual code suggestions, is paving the way for a future of AI-powered data exploration in notebooks
+- AI Copilot
+- Cut back on repetition and increase efficiency for data scientists
+- Code suggestions
+- Understanding the full scope of your notebook
+- The more text and code you write as context, the more relevant code suggestions you will see
+- "We are soon introducing conversational AI features that will aid in generating, editing, debugging, and understanding both code and SQL. Beyond this, we are working on more ambitious projects designed to harness the unique attributes of notebooks as a computational medium."
+
+## Links
+- [Twitter](https://twitter.com/DeepnoteHQ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+</details>
+
+
+
+## [Friday](https://github.com/amirrezasalimi/friday/)
+
+A developer assistant able to make whole nodejs project with unlimited prompts
+<details>
+
+### Description
+- Provides a core prompt for building the foundation of your application
+- Allows you to add unlimited sections, each of which is a prompt representing a specific part of your app
+- Features
+	- Friday utilizes GPT-4 for AI assistance, but it has been tested and optimized with GPT-4-32k for improved speed and better results.
+	- It requires 2 small requests for your app's base and 1 request per section you provide.
+	- Friday employs esbuild behind the scenes for every app created by it.
+
+### Links
+- **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
+
+</details>
 
 
 ## [GitWit](https://www.gitwit.dev/)
@@ -725,10 +772,9 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 - Features session persistent memory to ensure data preservation across multiple sessions
 - Quick and easy installation via pip.
 - Contributions to expand and improve yAgents are highly encouraged.
-
-### Warnings
-- Requires GPT-4 API access.
-- Not tested for Windows systems.
+-  Warnings
+	- Requires GPT-4 API access.
+	- Not tested for Windows systems
 
 ### Links
 - [GitHub Repository](https://github.com/yeagerai/yeagerai-agent)
@@ -950,24 +996,6 @@ An AI communication agent, currently in closed beta version
 
 </details>
 
-## [Friday](https://github.com/amirrezasalimi/friday/)
-
-
-A developer assistant able to make whole nodejs project with unlimited prompts
-<details>
-
-### Description
-- Provides a core prompt for building the foundation of your application
-- Allows you to add unlimited sections, each of which is a prompt representing a specific part of your app
-- Features
-	- Friday utilizes GPT-4 for AI assistance, but it has been tested and optimized with GPT-4-32k for improved speed and better results.
-	- It requires 2 small requests for your app's base and 1 request per section you provide.
-	- Friday employs esbuild behind the scenes for every app created by it.
-
-### Links
-- **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
-
-</details>
 
 ## [Grit](https://www.grit.io/)
 A beta version of a tool for fixing technical gap automatically, putting code migrations and dependency upgrades on autopilot
