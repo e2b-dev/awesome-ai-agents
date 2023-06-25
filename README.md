@@ -198,13 +198,21 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 
 </details>
 
-## [BabyDeerAGI]()
-
+## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
+Newest mod of BabyAGI, at ~350 lines of code
 <details>
 
 ### Description
+- Features
+	- Parallel tasks (making it faster)
+	- 3.5-turbo only (GPT-4 not required)
+	- User input tool
+	- Query rewrite in web search tool
+	- Saves results
+	
 
 ### Links
+- [Tweet announcing the agent](https://twitter.com/miiura/status/1667223065447776256)
 
 </details>
 
