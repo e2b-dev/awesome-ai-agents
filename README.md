@@ -161,7 +161,10 @@ A task management and functionality expansion on top of BabyAGI
 - One of the significant differences between BabyAGI and BabyBeeAGI is the complexity of the task management prompt 
 
 ### Links
+- [Tweet](https://twitter.com/yoheinakajima/status/1652732735344246784)
+- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyBeeAGI.py)
 - [Replit](https://replit.com/@YoheiNakajima/BabyBeeAGI?v=1)
+- Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
 
@@ -192,9 +195,10 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 -->
 
 ### Links
-- [Twitter](http://twitter.com/babyAGI)
-- [GitHub](https://github.com/yoheinakajima/babyagi)
-- Author: @yoheinakajima (Twitter)
+- [Tweet](https://twitter.com/yoheinakajima/status/1657448504112091136)
+- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyCatAGI.py)
+- [Replit](https://replit.com/@YoheiNakajima/BabyCatAGI)
+- Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
 
@@ -212,7 +216,10 @@ Newest mod of BabyAGI, at ~350 lines of code
 	
 
 ### Links
-- [Tweet announcing the agent](https://twitter.com/miiura/status/1667223065447776256)
+- [Tweet](https://twitter.com/yoheinakajima/status/1666313838868992001)
+- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyDeerAGI.py)
+- [Replit](https://replit.com/@YoheiNakajima/BabyDeerAGI)
+- Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
 
