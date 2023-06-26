@@ -216,6 +216,31 @@ Newest mod of BabyAGI, at ~350 lines of code
 
 </details>
 
+## [BabyAGI-UI](https://github.com/miurla/babyagi-ui)
+BabyAGI UI is designed to make it easier to run and develop with BabyAGI in a web app, like a ChatGPT.
+<details>
+
+### Description
+- Features
+	- Executable without coding
+  - All mods are executable (BabyAGI, BabyBeeAGI, BabyCatAGI, BabyDeerAGI)
+  - Supports gpt-4-0613, gpt-3.5-turbo-0613, text-davinci-003
+  - Saves results locally
+- Stack
+  - [Next.js](https://nextjs.org/)
+  - [Pinecone](https://www.pinecone.io/)
+  - [LangChainJS](https://github.com/hwchase17/langchainjs)
+  - [Tailwind CSS](https://tailwindcss.com/)
+  - [RadixUI](https://www.radix-ui.com/)
+
+### Links
+- [Demo](https://babyagi-ui.vercel.app/)
+- [GitHub](https://github.com/miurla/babyagi-ui)
+- [Discord](https://discord.gg/ARgccNfB5)
+- Author: [Yoshiki Miura](https://twitter.com/miiura)
+
+</details>
+
 
 ## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
 
