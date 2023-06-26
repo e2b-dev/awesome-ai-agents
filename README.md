@@ -1012,6 +1012,7 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 
 ## [Fixie](https://www.fixie.ai/)
 A platform for creating LLM-powered apps like AI agents
+
 <details>
 
 ### Description
@@ -1025,27 +1026,30 @@ A platform for creating LLM-powered apps like AI agents
 - [AI.JSX](https://docs.ai-jsx.com/)
 - [Twitter](https://twitter.com/fixieai)
 - [Discord](https://discord.com/invite/MsKAeKF8kU)
-</details>
 
+</details>
 
 ## [Floode](https://floodehq.com/)
 
-An AI communication agent, currently in closed beta version
+An AI executive assistant that automates communication busywork.
 
 <details>
 
 ### Description
-- An AI executive assistant for augmented communication
-- Automation of communication - from generating answers to extracting tasks or scheduling meetings
-- Keeping all conversations in the same place
-- Automatically sorted, labelled and summed up
-- AI assisted writing
-- Tasks & meetings scheduled in autopilot, ready at any time
+- Works across all your communication and work tools: emails, social media DMs, calendar, Notion, etc.
+- Adapted to your work habits.
+- Ask your assistant to:
+  - Craft messages
+  - Auto-sort
+  - Auto-schedule
+  - Summarize, extract tasks and information
 
 ### Links
-- Author: [Sarah Allali](https://twitter.com/SarahAllali7)
-
+- Authors: [Sarah Allali](https://twitter.com/SarahAllali7) and [Nicolas Cabrignac](https://twitter.com/Nicowcbg)
+- [Twitter](https://twitter.com/floodehq)
+  
 </details>
+
 
 ## [GitWit](https://www.gitwit.dev/)
 
