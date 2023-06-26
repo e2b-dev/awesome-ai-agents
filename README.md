@@ -1298,7 +1298,7 @@ A Github assistant the helps fix small bugs and implement small features
 
 - [Hit us up on discord](https://discord.gg/BRymvqUS)
 - [Pick a date for a call in our calendar](https://calendly.com/tereza-tizkova/30min)
-- Write us at hello@e2b.dev
+- Email us at hello@e2b.dev
 - And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
 
 
