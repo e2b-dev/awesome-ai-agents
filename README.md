@@ -83,7 +83,7 @@ A platform for agents to work together, similar in spirit to AutoGPT and Baby AG
 
 
 
-## [AutoGPT](https://autogpt.net/)
+## [AutoGPT](https://agpt.co/)
 
 An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
 
@@ -117,7 +117,7 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 - [Facebook](https://www.facebook.com/groups/1330282574368178)
 - [Linkedin](https://www.linkedin.com/company/autogpt/)
 - [Discord](https://discord.gg/autogpt)
-- Author: [Matt Pogla](https://twitter.com/AutoGpt)
+- Author: [Significant Gravitas](https://twitter.com/SigGravitas)
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
