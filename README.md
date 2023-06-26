@@ -875,7 +875,7 @@ Airplane is a company for building internal tools, they're building their autopi
 </details>
 
 
-## [Aomni](https://www.aomni.com/)
+## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 
 An AI agent specifically designed for research
 <details>
@@ -888,12 +888,12 @@ An AI agent specifically designed for research
 - AI-powered query planner intelligently routes and executes requests, ensuring correctness and diverse source selection
 
 ### Links
-- [Discord](https://discord.com/invite/a367ncqEsm)
+- [Discord](https://discord.com/invite/a367ncqEsm/?utm_source=awesome-ai-agents)
 
 </details>
 
 
-## [BitBuilder](https://www.bitbuilder.ai/)
+## [BitBuilder](https://www.bitbuilder.ai/?utm_source=awesome-ai-agents)
 
 
 "Virtual intern for developers", generates code via PRs raised against your repository
