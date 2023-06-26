@@ -437,6 +437,7 @@ An AI agent that generates an entire codebase based on a prompt
 -->
 
 ### Links
+- [Discord](https://discord.com/invite/8tcDQ89Ej2)
 - Author: [Anton Osika](https://twitter.com/antonosika)
 - [Twitter review by @Attack](https://twitter.com/Attack/status/1671165869064609792)
 
@@ -471,7 +472,7 @@ A re-implementation of the popular Auto-GPT project as a proper python package, 
 
 
 ## [LocalGPT](https://github.com/PromtEngineer/localGPT)
-Inspired by privateGPT
+Inspired by privateGPT, allows using your own documents as an information source
 
  <details>
 
@@ -499,8 +500,9 @@ A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
 ### Description
 - MiniAGI is a minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
 - Can analyze stock prices, perform network security tests, create art, and order pizza
-- MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4. It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization
-- It is also capable of inner monologue and self-criticism
+- MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4
+- It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization
+- Capable of inner monologue and self-criticism
 </details>
 
 
@@ -742,7 +744,7 @@ A multi-agent simulation library, with a goal to simulate and optimize systems a
 ### Links
 - [GitHub](https://github.com/TheoLvs/westworld)
 - [Documentation](https://theolvs.github.io/westworld/ )
-[Underlying paper - Generative Agents](https://arxiv.org/abs/2304.03442)
+- [Underlying paper - Generative Agents](https://arxiv.org/abs/2304.03442)
 - A paper simulating interactions between tens of agents
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
@@ -1266,3 +1268,23 @@ A Github assistant the helps fix small bugs and implement small features
 
 <br>
 
+<!-- More agents to add in the future
+
+- GPTeam https://twitter.com/itstimconnors/status/1672278464362336256
+- https://github.com/101dotxyz/GPTeam
+
+- Neurite https://github.com/satellitecomponent/Neurite
+
+- AutoGPT.js https://github.com/zabirauf/AutoGPT.js
+
+- Street Fighter https://github.com/linyiLYi/street-fighter-ai
+
+- GPT RPG https://github.com/dzoba/gptrpg
+
+- Autopilot https://github.com/fjrdomingues/autopilot
+
+- WinGPT - AI assistant for Windows https://news.ycombinator.com/item?id=36472854
+
+
+
+-->
