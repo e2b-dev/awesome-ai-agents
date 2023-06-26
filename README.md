@@ -158,7 +158,7 @@ A task management and functionality expansion on top of BabyAGI
 - Designed to handle multiple functions within one task management prompt
 - Built on top of the GPT-4 architecture, resulting in slower processing speeds and occasional errors
 - Provides a framework that can be further built upon and improved, paving the way for more sophisticated AI applications
-- One of the significant differences between BabyAGI and BabyBeeAGI is the complexity of the task management prompt 
+- One of the significant differences between BabyAGI and BabyBeeAGI is the complexity of the task management prompt
 
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1652732735344246784)
@@ -213,7 +213,7 @@ Newest mod of BabyAGI, at ~350 lines of code
 	- User input tool
 	- Query rewrite in web search tool
 	- Saves results
-	
+
 
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1666313838868992001)
@@ -256,8 +256,8 @@ The BambooAI library is a user-friendly semi-autonomous AI agent designed to mak
 - Maintains the memory of previous conversations.
 - Builds the prompts dynamically utilising relevant context from Pinecone vector DB.
 - Offers a narrative or asks follow up questions if required.
-- For codified responses, the task is broken down into a list of steps and a pseudo-code algorithm is built. 
-- Based on the algorithm, it devises the python code for dataset analysis, modeling or plotting. 
+- For codified responses, the task is broken down into a list of steps and a pseudo-code algorithm is built.
+- Based on the algorithm, it devises the python code for dataset analysis, modeling or plotting.
 - Debugs the code which then executes, auto-corrects if needs to, and displays the output to user.
 - Ranks the final answers, and asks user for feedback.
 - Builds a vector DB knowledge-base, based on the rank and the user feedback.
@@ -398,27 +398,6 @@ A developer assistant able to make whole nodejs project with unlimited prompts
 
 ### Links
 - **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
-
-</details>
-
-
-## [GitWit](https://www.gitwit.dev/)
-
-A tool automating code generation, in beta version, created for full-stack developers
-<details>
-
-### Description
-- GitWit uses a GPT-based agent to generate code and git to track changes made to files
-- GitWit ties together large language models and modern developer tools
-- It can spawn and modify codebases using just a single prompt
-- GitWit is primarily aimed at full-stack developers, and is particularly loved by those with a learning mindset—such as those learning a new stack or technology
-- It is in early beta and may require some experimentation with the prompts you enter
-- You are offered to choose from code bases:
-	- React + NextJS
-	- Python using pip
-	- A Chrome extension written in JavaScript
-	- An AngularJS using npm.
-	- Custom stack
 
 </details>
 
@@ -826,7 +805,7 @@ A GPT agent framework for invoking APIs
 yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding and debugging its own tools.
 
 <details>
-	
+
 ### Description
 - Designed to help build, prototype, and deploy AI-powered tools and agents easily and efficiently.
 - Built on the LangChain framework, allowing users of any technical background to create, improve, and deploy AI agents.
@@ -1006,7 +985,7 @@ Platform for no-code building of AI agents
 - With Fine-Tuner, you can build sophisticated, tailored AI agents at scale without any need for technical skills or coding. Just bring your data and ideas, and we'll provide the toolset you need to transform them into powerful AI solutions, capable of handling vast amounts of data and users. Take advantage of our scalable platform to meet your growing needs with ease and efficiency
 - Connecting Your Chatbot to Your App
 
-- FineTuner.ai is a no-code AI platform that enables users to create and deploy custom AI agents and components without any coding. 
+- FineTuner.ai is a no-code AI platform that enables users to create and deploy custom AI agents and components without any coding.
 With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI development, allowing users to focus on their unique use cases and ideas.
 
 4.1. Access the API tab for an overview of the required tokens and parameters to connect your chatbot to your app using REST API endpoints.
@@ -1049,7 +1028,7 @@ An AI communication agent, currently in closed beta version
 - An AI executive assistant for augmented communication
 - Automation of communication - from generating answers to extracting tasks or scheduling meetings
 - Keeping all conversations in the same place
-- Automatically sorted, labelled and summed up 
+- Automatically sorted, labelled and summed up
 - AI assisted writing
 - Tasks & meetings scheduled in autopilot, ready at any time
 
@@ -1058,6 +1037,25 @@ An AI communication agent, currently in closed beta version
 
 </details>
 
+## [GitWit](https://www.gitwit.dev/)
+
+A tool automating code generation, in beta version, created for full-stack developers
+<details>
+
+### Description
+- GitWit uses a GPT-based agent to generate code and git to track changes made to files
+- GitWit ties together large language models and modern developer tools
+- It can spawn and modify codebases using just a single prompt
+- GitWit is primarily aimed at full-stack developers, and is particularly loved by those with a learning mindset—such as those learning a new stack or technology
+- It is in early beta and may require some experimentation with the prompts you enter
+- You are offered to choose from code bases:
+	- React + NextJS
+	- Python using pip
+	- A Chrome extension written in JavaScript
+	- An AngularJS using npm.
+	- Custom stack
+
+</details>
 
 ## [Grit](https://www.grit.io/)
 A beta version of a tool for fixing technical gap automatically, putting code migrations and dependency upgrades on autopilot
