@@ -1,12 +1,15 @@
-# 🔮 Awesome AI Agents
-<p align="center">
-<a href="https://discord.gg/BRymvqUS" target="_blank">
-	<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
-</a>
-<a href="https://twitter.com/e2b_dev" target="_blank">
-	<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
-</a>
-</p>
+<h1 align="center">
+	Awesome AI Agents
+	<p align="center">
+		<a href="https://discord.gg/BRymvqUS" target="_blank">
+			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
+		</a>
+		<a href="https://twitter.com/e2b_dev" target="_blank">
+			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
+		</a>
+	</p>
+</h1>
+
 
 <img src="/assets/landscape.png" width="100%" alt="Graphical Landscape of AI Agents" />
 
