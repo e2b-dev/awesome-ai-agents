@@ -3,7 +3,9 @@
 </a>  <a href="https://twitter.com/e2b_dev" target="_blank">
 <img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">  </a>
 
-Welcome to our list of popular AI autonomous agents.
+<img src="/assets/landscape.png" width="100%" alt="Graphical Landscape of AI Agents" />
+
+Welcome to our list of AI agents.
 We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
 - [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
