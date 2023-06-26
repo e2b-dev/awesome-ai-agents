@@ -237,6 +237,31 @@ An AI agent designed to test what happens when you combine CLI and LLM, which ar
 </details>
 
 
+## [BambooAI](https://github.com/pgalko/BambooAI)
+
+The BambooAI library is a user-friendly semi-autonomous AI agent designed to make data exploration and analysis more accessible to non-programmers.
+
+<details>
+
+### Description
+- BambooAI runs in a loop (until user decides to end it).
+- Allows mixing of different models with different capabilities, token costs and context windows for different tasks.
+- Maintains the memory of previous conversations.
+- Builds the prompts dynamically utilising relevant context from Pinecone vector DB.
+- Offers a narrative or asks follow up questions if required.
+- For codified responses, the task is broken down into a list of steps and a pseudo-code algorithm is built. 
+- Based on the algorithm, it devises the python code for dataset analysis, modeling or plotting. 
+- Debugs the code which then executes, auto-corrects if needs to, and displays the output to user.
+- Ranks the final answers, and asks user for feedback.
+- Builds a vector DB knowledge-base, based on the rank and the user feedback.
+
+### Links
+- [GitHub](https://github.com/pgalko/BambooAI)
+- [Creators's Twitter](https://twitter.com/pgalko)
+
+</details>
+
+
 ## [Bloop](https://bloop.ai/)
 A GPT-4 powered semantic code search engine that uses an AI agent
 
