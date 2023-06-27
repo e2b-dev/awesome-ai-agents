@@ -321,6 +321,17 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [Cody](https://docs.sourcegraph.com/cody)
+
+An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
+
+<details>
+
+### Links
+- [Source code]([https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyBeeAGI.py](https://sourcegraph.com/github.com/sourcegraph/sourcegraph/-/tree/client/cody))
+- Author: [@sourcegraph](https://twitter.com/sourcegraph) (Twitter)
+
+</details>
 
 ## [Databerry](https://www.databerry.ai/)
 A super-easy no-code platform for creating AI chatbots trained on your own data
