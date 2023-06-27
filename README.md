@@ -696,7 +696,7 @@ An open-source autonomous AI framework to enable development and deployment auto
 
 ### Description
 - An AI agent framework
-- Open source, but infrastructure is -source
+- Open source, but infrastructure is closed-source
 - Features
 	- Provision, Spawn & Deploy Autonomous AI Agents
 	- Extend Agent Capabilities with Tools
