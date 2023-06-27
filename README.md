@@ -616,6 +616,20 @@ A tool for private interaction with documents, without a need for internet conne
 
 </details>
 
+## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
+
+Personalized AI assistant that helps with nutrition and other goals
+
+<details>
+
+### Description
+- "Personalized AI assistant that decomposes problems, offers solutions and lets you use actions to automate your flows"
+
+### Links
+- Author: [PJ Gray](https://twitter.com/tricalt)
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 An open-source React.js Autonomous LLM Agent
 <details>
@@ -858,18 +872,6 @@ Swift implementation of BabyAGI
 - Author: [PJ Gray](https://twitter.com/pj4533)
 </details>
 
-## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
-
-Personalized AI assistant that helps with nutrition and other goals
-
-<details>
-
-### Description
-- "Personalized AI assistant that decomposes problems, offers solutions and lets you use actions to automate your flows"
-
-### Links
-- Author: [PJ Gray](https://twitter.com/tricalt)
-</details>
 
 # :lock: Closed-source projects and companies
 
