@@ -623,10 +623,22 @@ Personalized AI assistant that helps with nutrition and other goals
 <details>
 
 ### Description
-- "Personalized AI assistant that decomposes problems, offers solutions and lets you use actions to automate your flows"
+- "Personalized AI assistant that decomposes problems, offers solutions, and lets you use Agent actions to automate your flows"
+- Features
+  	- Helps users reach a solution by decomposing their requests into categories with a set of options (cuisine -> European)
+  	- Has a dynamic UX/UI that helps avoid prompting
+  	- Voice input supported
+  	- Provides users with results of their queries and automates actions around them
+  	- Remembers your past preferences and uses them to optimize your choices
+- Tech
+	- Powered by Langchain, decomposable async prompts + vector DB + Redis cache
+ 	- App built with Flutter + Dart
+    	- Connected to Zapier NLP
 
 ### Links
-- Author: [PJ Gray](https://twitter.com/tricalt)
+- [GitHub](https://github.com/topoteretes/)
+- [Website](https://prometh.ai)
+- Author: [Vasilije M](https://twitter.com/tricalt)
 </details>
 
 
