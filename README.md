@@ -328,7 +328,7 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 <details>
 
 ### Links
-- [Source code]([https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyBeeAGI.py](https://sourcegraph.com/github.com/sourcegraph/sourcegraph/-/tree/client/cody))
+- [GitHub](https://github.com/sourcegraph/sourcegraph/tree/main/client/cody)
 - Author: [@sourcegraph](https://twitter.com/sourcegraph) (Twitter)
 
 </details>
