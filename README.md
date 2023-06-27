@@ -638,7 +638,7 @@ Personalized AI assistant that helps with nutrition and other goals
 ### Links
 - [GitHub](https://github.com/topoteretes/)
 - [Website](https://prometh.ai)
-- Author: [PJ Gray](https://twitter.com/tricalt)
+- Author: [Vasilije M](https://twitter.com/tricalt)
 </details>
 
 
