@@ -1139,6 +1139,7 @@ You can see more – and sign up for the waitlist – over here.
 
 ### Links
 - [Launch post](https://hex.tech/blog/magic-private-beta/)
+
 </details>
 
 ## [Heymoon.ai](https://heymoon.ai/)
@@ -1150,8 +1151,27 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 - Personal assistant for life: to keep you on top of your calendar, tasks and information
 - Currently in a beta version
 
+</details>
+
+## [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
+Your AI assistant for everyday tasks.
+
+<details>
+
+### Description
+- Designed to handle tasks from booking flights to conducting in-depth research, and everything in between.
+- Examples of usage:
+	- Organize Gmail inbox
+	- Booking a flight
+	- Ordering online
+	- Finding hire candidates
+
+### Links
+- [Launch announcement](https://twitter.com/mattshumer_/status/1673730806865358848)
+- [Google Chrome Extension](https://chrome.google.com/webstore/detail/hyperwrite-ai-writing-com/kljjoeapehcmaphfcjkmbhkinoaopdnd)
 
 </details>
+
 
 ## [Lindy](https://www.lindy.ai/)
 An AI assistant that can help with daily tasks, e.g., calendar management, email drafting, and contract sending
