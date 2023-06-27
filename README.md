@@ -696,7 +696,7 @@ An open-source autonomous AI framework to enable development and deployment auto
 
 ### Description
 - An AI agent framework
-- Open source, but infrastructure is closed-source
+- Open source, but infrastructure is -source
 - Features
 	- Provision, Spawn & Deploy Autonomous AI Agents
 	- Extend Agent Capabilities with Tools
@@ -856,6 +856,19 @@ Swift implementation of BabyAGI
 
 ### Links
 - Author: [PJ Gray](https://twitter.com/pj4533)
+</details>
+
+## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
+
+Personalized AI assistant that helps with nutrition and other goals
+
+<details>
+
+### Description
+- "Personalized AI assistant that decomposes problems, offers solutions and lets you use actions to automate your flows"
+
+### Links
+- Author: [PJ Gray](https://twitter.com/tricalt)
 </details>
 
 # :lock: Closed-source projects and companies
