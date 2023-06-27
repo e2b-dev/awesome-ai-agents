@@ -11,7 +11,7 @@
 </h1>
 
 
-<img src="/assets/landscape.png" width="100%" alt="Graphical Landscape of AI Agents" />
+<img src="/assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
 Welcome to our list of AI agents.
 We structured the list into two parts:
@@ -1071,7 +1071,7 @@ An AI executive assistant that automates communication busywork.
 ### Links
 - Authors: [Sarah Allali](https://twitter.com/SarahAllali7) and [Nicolas Cabrignac](https://twitter.com/Nicowcbg)
 - [Twitter](https://twitter.com/floodehq)
-  
+
 </details>
 
 
