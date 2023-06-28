@@ -1192,6 +1192,28 @@ Your AI assistant for everyday tasks.
 
 </details>
 
+## [Kadoa](https://www.kadoa.com/)
+Web Scraping on Autopilot with AI
+
+<details>
+
+### Description
+- Using LLMs to generate web scrapers and data processing steps on the fly that adapt to website changes.
+- Features
+	- No coding or browser extension required.
+	- The autonomous crawling agent efficiently locates the desired information on websites.
+	- Adaptability to website changes makes it maintenance-free
+	- Transforms data from multiple sources into the same structure
+	- Handles all clicking and scrolling automatically
+	- Handles proxies
+	- Powerful integrations
+
+### Links
+- [Playground](https://www.kadoa.com/playground)
+- Author: [Adrian Krebs](https://twitter.com/krebs_adrian)
+  
+</details>
+
 
 ## [Lindy](https://www.lindy.ai/)
 An AI assistant that can help with daily tasks, e.g., calendar management, email drafting, and contract sending
