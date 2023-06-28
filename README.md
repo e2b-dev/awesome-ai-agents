@@ -1,7 +1,7 @@
 <h1 align="center">
 	🔮 Awesome AI Agents
 	<p align="center">
-		<a href="https://discord.gg/BRymvqUS" target="_blank">
+		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 		</a>
 		<a href="https://twitter.com/e2b_dev" target="_blank">
@@ -1364,7 +1364,7 @@ A Github assistant the helps fix small bugs and implement small features
 - And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
 
 
-<a href="https://discord.gg/BRymvqUS" target="_blank">
+<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 	<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 </a>
 <a href="https://twitter.com/e2b_dev" target="_blank">
