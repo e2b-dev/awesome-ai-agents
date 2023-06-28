@@ -148,6 +148,7 @@ A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3
 - Medium: [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 - [GitHub](https://github.com/stepanogil/autonomous-hr-chatbot)
 - Author: [Stephen Bonifacio](https://twitter.com/Stepanogil)
+- Video Demo: [Youtube Link](https://www.youtube.com/watch?v=id7XRcEIBvg&ab_channel=StephenBonifacio)
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
