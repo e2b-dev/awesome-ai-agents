@@ -130,6 +130,26 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 - Author: [Significant Gravitas](https://twitter.com/SigGravitas)
 </details>
 
+## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
+
+A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3.5.
+
+<details>
+
+### Description
+- An agent that can answer HR related queries autonomously using the tools it has on hand.
+- Powered by GPT-3.5
+- Current tools assigned to the agent (with more on the way):
+	- Timekeeping Policy
+	- Employee Data
+	- Calculator
+
+### Links
+- Medium: [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
+- [GitHub](https://github.com/stepanogil/autonomous-hr-chatbot)
+- Author: [Stephen Bonifacio](https://twitter.com/Stepanogil)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 
 A simple framework for managing tasks using AI
