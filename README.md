@@ -761,7 +761,7 @@ An open-source React.js Autonomous LLM Agent
 </details>
 
 ## [Smol developer](https://github.com/smol-ai/developer)
-:hatching_chick: Your own junior developer
+:hatching_chick: Your own junior developer. [Deployed in few seconds via e2b](https://app.e2b.dev/agent/smol-developer/?utm_source=awesome-ai-agents)
 <details>
 
 ### Description
