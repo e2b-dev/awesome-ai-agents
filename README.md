@@ -1079,7 +1079,7 @@ A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 - 30% Faster Speed: The app achieves an impressive 30% increase in website generation speed, providing users with a fast and efficient website building experience.
 </details>
 
-## [Codium AI]()
+## [Codium AI](https://www.codium.ai/)
 AI-powered interactive code integrity dev tool enabling developers to ship software faster and with fewer bugs
 
 <details>
