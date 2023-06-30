@@ -94,7 +94,7 @@ A platform for agents to work together, similar in spirit to AutoGPT and Baby AG
 
 
 
-## [AutoGPT](https://agpt.co/)
+## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
 
 An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
 
@@ -123,12 +123,29 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 -->
 
 ### Links
-- [Twitter](https://twitter.com/Auto_GPT)
-- [GitHub](https://github.com/Significant-Gravitas/Auto-GPT)
-- [Facebook](https://www.facebook.com/groups/1330282574368178)
-- [Linkedin](https://www.linkedin.com/company/autogpt/)
-- [Discord](https://discord.gg/autogpt)
-- Author: [Significant Gravitas](https://twitter.com/SigGravitas)
+- [Twitter](https://twitter.com/Auto_GPT/?utm_source=awesome-ai-agents)
+- [GitHub](https://github.com/Significant-Gravitas/Auto-GPT/?utm_source=awesome-ai-agents)
+- [Facebook](https://www.facebook.com/groups/1330282574368178/?utm_source=awesome-ai-agents)
+- [Linkedin](https://www.linkedin.com/company/autogpt/?utm_source=awesome-ai-agents)
+- [Discord](https://discord.gg/autogpt/?utm_source=awesome-ai-agents)
+- Author: [Significant Gravitas](https://twitter.com/SigGravitas/?utm_source=awesome-ai-agents)
+</details>
+
+
+## [AutoPR](https://github.com/irgolic/AutoPR)
+AI-generated pull requests to fix issues, powered by ChatGPT
+<details>
+
+### Description
+- Triggered by adding a label containing AutoPR to an issue, AutoPR will:
+	- Plan a fix
+	- Write the code
+	- Push a branch
+	- Open a pull request
+
+### Links
+- [Discord](https://discord.com/invite/ykk7Znt3K6)
+
 </details>
 
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
@@ -343,6 +360,27 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [ChemCrow]()
+A chemistry agent that performs tasks across synthesis, drug discovery, and materials design
+
+<details>
+
+### Decsription
+- ChemCrow is an open source package for the accurate solution of reasoning-intensive chemical tasks
+- It integrates 13 expert-design tools to augment LLM performance in chemistry and demonstrate effectiveness in automating chemical tasks
+- Built with Langchain
+- The LLM is provided with a list of tool names, descriptions of their utility, and details about the expected input/output. It is then instructed to answer a user-given prompt using the tools provided when necessary. The instruction suggests the model to follow the ReAct format - Thought, Action, Action Input, Observation. One interesting observation is that while the LLM-based evaluation concluded that GPT-4 and ChemCrow perform nearly equivalently, human evaluations with experts oriented towards the completion and chemical correctness of the solutions showed that ChemCrow outperforms GPT-4 by a large margin. This indicates a potential problem with using LLM to evaluate its own performance on domains that requires deep expertise. The lack of expertise may cause LLMs not knowing its flaws and thus cannot well judge the correctness of task results. (Source: [Weng, Lilian. (Jun 2023). LLM-powered Autonomous Agents". Lil’Log. https://lilianweng.github.io/posts/2023-06-23-agent/.](https://lilianweng.github.io/posts/2023-06-23-agent/))
+
+
+
+
+### Links
+- [Paper](https://arxiv.org/abs/2304.05376)
+- [GitHub](https://github.com/ur-whitelab/chemcrow-public)
+- [HackerNews Discussion](https://news.ycombinator.com/item?id=35607616)
+
+</details>
+
 ## [Cody](https://docs.sourcegraph.com/cody)
 
 An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
@@ -424,7 +462,34 @@ An AI code copilot that instantly suggests code and works with the whole noteboo
 
 </details>
 
+## [DevGPT](https://github.com/jina-ai/dev-gpt)
+Team of virtual developers
 
+<details>
+
+### Description
+- "Tell your AI team what microservice you want to build, and they will do it for you. Your imagination is the limit!!
+- Welcome to Dev-GPT, where we bring your ideas to life with the power of advanced artificial intelligence! Our automated development team is designed to create microservices tailored to your specific needs, making your software development process seamless and efficient. Comprised of a virtual Product Manager, Developer, and DevOps, our AI team ensures that every aspect of your project is covered, from concept to deployment.
+
+### Links
+- [Discord](https://discord.com/invite/AWXCCC6G2P)
+
+</details>
+
+## [English Compiler](https://github.com/uilicious/english-compiler)
+POC AI based Compiler, for converting english based markdown specs, into functional code
+<details>
+
+
+### Description
+- "We know that all great™ projects start with awesome™ detailed functional specifications. Which is typically written in English, or its many other spoken language alternatives.
+- So what if, instead of writing code from functional specs, we simply compile it directly to code?
+- Into a future, where we replace nearly everything, with just written text."
+
+### Links
+- [Creator's Twitter](https://twitter.com/picocreator)
+
+</details>
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 
@@ -887,13 +952,13 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 	- Not tested for Windows systems
 
 ### Links
-- [GitHub Repository](https://github.com/yeagerai/yeagerai-agent)
-- [Discord](https://discord.com/invite/wKds24jdAX)
-- [License: MIT](https://github.com/yeagerai/yeagerai-agent/blob/main/LICENSE)
+- [GitHub Repository](https://github.com/yeagerai/yeagerai-agent/?utm_source=awesome-ai-agents)
+- [Discord](https://discord.com/invite/wKds24jdAX/?utm_source=awesome-ai-agents)
+- [License: MIT](https://github.com/yeagerai/yeagerai-agent/blob/main/LICENSE/?utm_source=awesome-ai-agents)
 
 </details>
 
-## [Yourgoal](https://github.com/pj4533/yourgoal)
+## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
 
 Swift implementation of BabyAGI
 
@@ -903,14 +968,32 @@ Swift implementation of BabyAGI
 - "This is a Swift port of BabyAGI, an example of an AI-powered task management system that uses OpenAI and Pinecone APIs to create, prioritize, and execute tasks. The main idea behind this system is that it creates tasks based on the result of previous tasks and a predefined objective."
 
 ### Links
-- Author: [PJ Gray](https://twitter.com/pj4533)
+- Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
 
 # :lock: Closed-source projects and companies
 
+## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
+A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
 
-## [Airplane Autopilot](https://www.airplane.dev/autopilot)
+
+<details>
+
+### Description
+- An AI teammate for everyone
+- "Adept is building an entirely new way to get things done. It takes your goals, in plain language, and turns them into actions on the software you use every day."
+- In early stage
+- "We’re building a machine learning model that can interact with everything on your computer."
+
+
+### Links
+- [Twitter](https://www.adept.ai/?utm_source=awesome-ai-agents)
+- [Linkedin](https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents)
+
+</details>
+
+## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
 Airplane is a company for building internal tools, they're building their autopilot AI assistant.
 
 
@@ -926,10 +1009,10 @@ Airplane is a company for building internal tools, they're building their autopi
 	- Tasks for customer support, on-call runbooks, and scheduled tasks
 
 ### Links
-- [Profile of the company](https://www.airplane.dev/)
-- [Documentation](https://docs.airplane.dev/)
-- [Twitter](https://twitter.com/AirplaneDev)
-- [They're building an AI assistant here](https://www.airplane.dev/autopilot)
+- [Profile of the company](https://www.airplane.dev/?utm_source=awesome-ai-agents)
+- [Documentation](https://docs.airplane.dev/?utm_source=awesome-ai-agents)
+- [Twitter](https://twitter.com/AirplaneDev/?utm_source=awesome-ai-agents)
+- [They're building an AI assistant here](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents)
 
 
 </details>
@@ -994,6 +1077,33 @@ A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 - Profile Customization: Users have the flexibility to customize their profiles by hiding sections, adding social media links, and sharing contact details, allowing them to showcase their unique personality and brand
 - Instant Preview: Users can instantly visualize their profile changes through a conveniently placed preview button, ensuring a quick assessment of the desired appearance
 - 30% Faster Speed: The app achieves an impressive 30% increase in website generation speed, providing users with a fast and efficient website building experience.
+</details>
+
+## [Codium AI]()
+AI-powered interactive code integrity dev tool enabling developers to ship software faster and with fewer bugs
+
+<details>
+
+### Description
+
+- Generating meaningful tests for busy devs
+- Exploring and analyzing your code, docstrings, comments, and by interacting with you
+- Non-trivial tests (and trivial, too!) suggested right inside your IDE
+	- Generates tests
+	- Covers edge cases
+	- Best practice, readability code suggestions
+	-  Gives you the code explanation
+- It is free
+
+
+### Links
+- [Twitter](https://twitter.com/CodiumAI)
+- [LinkedIn](https://www.linkedin.com/company/codiumai)
+- [YouTube](https://www.youtube.com/@Codium-AI)
+- [Discord](https://discord.com/invite/SgSxuQ65GF)
+- [GitHub](https://github.com/Codium-ai)
+
+
 </details>
 
 
@@ -1110,8 +1220,25 @@ An AI executive assistant that automates communication busywork.
 
 </details>
 
-       eeee
+## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
+AI-powered software developer
 
+<details>
+
+### Description
+- AI pair programmer
+- Chat and terminal interfaces
+- Support for pull requests
+- Early adoption of OpenAI’s GPT-4
+
+### Links
+- [Community](https://github.com/orgs/community/discussions/)
+- [Documentation](https://docs.github.com/en)
+- [Twitter](https://twitter.com/GitHubCopilot)
+
+
+
+</details>
 
 ## [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
  A suite of AI capabilities for every step of the software development lifecycle
@@ -1304,6 +1431,26 @@ AI personal agent, holding the record for the first AI flight booking, food orde
 ### Links
 - [Twitter](https://twitter.com/MultiON_AI)
 - Author: [Div Garg](https://twitter.com/DivGarg9)
+</details>
+
+## [Mutable AI](AI Accelerated Software Development)
+AI Accelerated Software Development
+
+
+<details>
+
+### Description
+- Features
+	- AI Autocomplete
+	- Production Quality Code with One Click
+	- Prompt driven development
+	- Test Generation (coming soon)
+
+### Links
+- [Discord](https://discord.com/invite/zAwadbmuVk)
+- [Twitter](https://twitter.com/mutableai)
+- [GitHub](https://github.com/mutableai/)
+
 </details>
 
 
