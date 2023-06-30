@@ -79,6 +79,7 @@ A browser-based implementation of AutoGPT, accessible via a no-code platform
 A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
 <details>
 
+
 ### Description
 - An LLM-powered autonomous agent platform
 - A framework for autonomous agents who can work together to accomplish tasks
@@ -1109,6 +1110,25 @@ An AI executive assistant that automates communication busywork.
 
 </details>
 
+
+## [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
+ A suite of AI capabilities for every step of the software development lifecycle
+<details>
+
+### Description
+- A suite of AI-powered capabilities for #DevSecOps workflows
+- A toolbox of features integrated into the DevSecOps Platform to help teams across the entire software development environment become more efficient
+- Examples of what GitLab Duo can do:
+	- Planning refinement
+	- Security risk resolution
+	- CI/CD pipeline health
+	- Analytics charting. 
+
+### Links
+- [Twitter](https://twitter.com/gitlab)
+
+
+</details>
 
 ## [GitWit](https://www.gitwit.dev/)
 
