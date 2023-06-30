@@ -1433,7 +1433,7 @@ AI personal agent, holding the record for the first AI flight booking, food orde
 - Author: [Div Garg](https://twitter.com/DivGarg9)
 </details>
 
-## [Mutable AI](AI Accelerated Software Development)
+## [Mutable AI](https://mutable.ai/)
 AI Accelerated Software Development
 
 
