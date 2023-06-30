@@ -1577,7 +1577,7 @@ A Github assistant the helps fix small bugs and implement small features
 
 
 <a href="https://discord.gg/U7KEcGErtQ" target="_blank">
-	<img src="https://img.shields.io/static/v3?label=Join&message=%20discord!&color=mediumslateblue">
+	<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 </a>
 <a href="https://twitter.com/e2b_dev" target="_blank">
 	<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
