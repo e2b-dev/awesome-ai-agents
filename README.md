@@ -1325,7 +1325,7 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 </details>
 
 ## [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
-Your AI assistant for everyday tasks.
+Your AI assistant for everyday tasks, can operate a web browser to complete nearly any task
 
 <details>
 
