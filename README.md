@@ -463,6 +463,27 @@ An AI code copilot that instantly suggests code and works with the whole noteboo
 
 </details>
 
+## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
+An AI that enables quick demo generation for LLM-based applications using just prompts
+<details>
+
+## Description
+- DemoGPT leverages the power of Language Models (LLMs) to provide fast and effective demo creation for applications.
+- Automates the prototyping process, making it more efficient and saving valuable time.
+- Understands and processes the given prompts to generate relevant applications.
+- Integrated with LangChain for generating application code through iterative parsing of LangChain's documentation with a "Tree of Transformations" (ToT) approach.
+- The roadmap for DemoGPT includes constant updates and improvements based on user feedback and real-world application, working towards refining the technology and solving the hallucination problem.
+- "We are planning to introduce features that will further enhance the application generation process, making it more user-friendly and efficient."
+
+## Links
+- [Github](https://github.com/melih-unsal/DemoGPT)
+- [Website](https://www.demogpt.io/)
+- [Twitter](https://twitter.com/demo_gpt)
+- [Streamlit App](https://demogpt.streamlit.app/)
+- [Huggingface Space](https://huggingface.co/spaces/melihunsal/demogpt)
+
+</details>
+
 ## [DevGPT](https://github.com/jina-ai/dev-gpt)
 Team of virtual developers
 
