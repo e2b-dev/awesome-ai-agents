@@ -445,6 +445,38 @@ A super-easy no-code platform for creating AI chatbots trained on your own data
 
 </details>
 
+## [Data-Driven-Characters](https://github.com/mbchang/data-driven-characters)
+A repo built on [LangChain](https://docs.langchain.com/docs/) for creating, debugging, and interacting your own chatbots conditioned on your own story corpora.
+
+<details>
+	
+### Description
+Generate character chatbots grounded in existing corpora:
+1. Upload a corpus
+2. Name a character
+3. Enjoy
+
+### Features
+This repo provides three ways to interact with your data-driven characters:
+1. [Export to character.ai](https://github.com/mbchang/data-driven-characters/tree/main#export-to-characterai)
+2. [Debug locally in the command line or with a Streamlit interface](https://github.com/mbchang/data-driven-characters/tree/main#debug-locally)
+3. [Host a self-contained Streamlit app in the browser](https://github.com/mbchang/data-driven-characters/tree/main#host-on-streamlit)
+
+Example chatbot architectures provided in this repo include:
+1. character summary
+2. retrieval over corpus
+3. retrieval over summarized corpus
+4. character summary + retrieval over corpus
+5. character summary + retrieval over summarized corpus
+
+### Links
+- [Repo](https://github.com/mbchang/data-driven-characters)
+- [Blog](https://blog.langchain.dev/data-driven-characters/)
+- [Twitter](https://twitter.com/mmmbchang/status/1670777857683881985)
+- [App](https://mbchang-data-driven-characters-app-273bzg.streamlit.app/)
+	
+</details>
+
 ## [Deepnote AI Copilot](https://deepnote.com/blog/introducing-deepnote-ai)
 An AI code copilot that instantly suggests code and works with the whole notebook context
 <details>
