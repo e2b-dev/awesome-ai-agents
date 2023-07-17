@@ -1336,6 +1336,24 @@ A beta version of a tool for fixing technical gap automatically, putting code mi
 
 </details>
 
+## [Heights Platform](https://www.heightsplatform.com/)
+Your AI Coach and and AI Copilot for course creators, community builders, and coaches. Built into an all-in-one course creation and community software.
+
+<details>
+
+### Description
+- Heights AI Chat can make edits to your digital products, answer support questions, and provide advice on growing your business. 
+- Heights AI Coach is your personal autonomous coach, helping you accomplish your unique goals
+    - Your AI coach will ask you questions and analyze the products you create to provide you with new tasks and recommendations every week.
+    - Information you share with your AI Coach will never be shared with another creator's AI Coach.
+    - Any information submitted will never be used for AI language model training data.
+
+### Links
+- [AI Features](https://www.heightsplatform.com/features/ai)
+- [Twitter](https://twitter.com/HeightsPlatform)
+
+</details>
+
 
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 Hex AI-powered tools for humans doing amazing things with data
