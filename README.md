@@ -631,6 +631,26 @@ Easily migrate your codebase from one framework or language to another
 
 </details>
 
+## [GPT Runner](https://github.com/nicepkg/gpt-runner)
+Conversations with your files which selected! Manage and run your AI presets!
+
+<details>
+
+### Description
+- Conversation with your files which selected by you, no embedding, no vector database!
+- It's also a AI Prompt Storybook. You can use it to manage some AI preset with your team. It support any IDE and language developer. We provide cli to run web and VSCode extension, Jetbrains plugin is coming soon.
+- Private first, all data is local.
+- We support both OpenAI and Anthropic (Claude-2)
+- It support support for multiple languages.
+
+![image](https://repository-images.githubusercontent.com/640476297/30741f73-caac-48bc-b500-1b7d6efde4c4)
+
+### Links
+- [Website](https://github.com/nicepkg/gpt-runner)
+- Author: [Jinming Yang](https://github.com/2214962083)
+
+
+</details>
 
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
