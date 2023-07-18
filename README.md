@@ -1263,6 +1263,19 @@ Working on autonomous coding Droids for building software end-to-end
 </details>
 
 
+## [Fine](https://www.fine.dev/)
+
+AI software architect that analyzes your code and helps you solve tasks
+
+<details>
+
+
+### Links
+- [Twitter](https://twitter.com/thisisfinedev)
+- Author: [Dan Leshem](https://twitter.com/leshemco)
+</details>
+
+
 ## [Fine Tuner](https://fine-tuner.ai/)
 
 Platform for no-code building of AI agents
