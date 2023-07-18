@@ -631,6 +631,25 @@ Easily migrate your codebase from one framework or language to another
 
 </details>
 
+
+## [GPT Researcher](https://github.com/assafelovic/gpt-researcher)
+GPT based autonomous agent that does online comprehensive research on any given topic
+
+<details>
+
+### Description
+- Can produce detailed, factual and unbiased research reports
+- Offers customization options for focusing on relevant resources, outlines, and lessons
+- Addresses issues of speed and determinism, offering a more stable performance and increased speed through parallelized agent work, as opposed to synchronous operation
+- Inspired by AutoGPT and the Plan-and-Solve paper
+- The main idea is to run "planner" and "execution" agents, whereas the planner generates questions to research, and the execution agents seek the most related information based on each generated research question
+
+### Links
+- [Website](https://tavily.com/)
+
+
+</details>
+
 ## [GPT Runner](https://github.com/nicepkg/gpt-runner)
 Conversations with your files which selected! Manage and run your AI presets!
 
@@ -898,7 +917,7 @@ An open-source autonomous AI framework to enable development and deployment auto
 
 ### Description
 - An AI agent framework
-- Open source, but infrastructure is closed-source
+- Open source, but infrastructure is -source
 - Features
 	- Provision, Spawn & Deploy Autonomous AI Agents
 	- Extend Agent Capabilities with Tools
