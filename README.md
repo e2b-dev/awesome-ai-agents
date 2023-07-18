@@ -1175,6 +1175,24 @@ AI-powered interactive code integrity dev tool enabling developers to ship softw
 
 </details>
 
+## [Commit](https://commit.dev)
+
+
+Career Copilot and AI Agent for Software Developers
+
+<details>
+
+### Description
+- Comprehensive job search
+- Accurate job recommendations based on your skills, experience, and preferences
+- AI-powered auto-applications
+
+### Links
+- CEO: [Greg Gunn](https://www.linkedin.com/in/gunnr)
+- CTO: [Beier Cai](https://www.linkedin.com/in/beiercai)
+
+</details>
+
 
 ## [Cognosys](https://cognosys.ai)
 
