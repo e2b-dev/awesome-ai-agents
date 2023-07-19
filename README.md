@@ -403,7 +403,7 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
-## [ChemCrow]()
+## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
 A chemistry agent that performs tasks across synthesis, drug discovery, and materials design
 
 <details>
