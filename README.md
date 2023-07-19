@@ -350,6 +350,7 @@ The BambooAI library is a user-friendly semi-autonomous AI agent designed to mak
 An Autonomous AI Assistant designed to perform a wide range of practical tasks autonomously
 
 <details>
+	
 ### Description
 - "BeeBot is currently a work in progress and should be treated as an early stage research project. Its focus is not on production usage at this time."
 
