@@ -791,23 +791,7 @@ An open-source AGI R&D platform that enables agents for both benchmark tasks and
 
 </details>
 
-## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
-An AI browsing agent
 
-<details>
-
-### Description
-- AI agent that can use a web browser like a human
-- "Just describe what you want it to do, and it will automatically operate Chrome to achieve your task."
-- Examples of use cases: Booking flights, ordering food, researching complex topics, managing your email
-
-
-### Links
-- [Tweet](https://twitter.com/mattshumer_/status/1646234077798727686)
-- [Article](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/)
-
-
-</details>
 
 ## [Pezzo](https://www.pezzo.ai/)
 A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
@@ -1495,12 +1479,16 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 </details>
 
-## [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
-Your AI assistant for everyday tasks, can operate a web browser to complete nearly any task
+## [Otherwise's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
+An AI browsing assistant for everyday tasks, can operate a web browser to complete nearly any task
 
 <details>
 
+
 ### Description
+- AI agent that can use a web browser like a human
+- "Just describe what you want it to do, and it will automatically operate Chrome to achieve your task."
+- Examples of use cases: Booking flights, ordering food, researching complex topics, managing your email
 - Designed to handle tasks from booking flights to conducting in-depth research, and everything in between.
 - Examples of usage:
 	- Organize Gmail inbox
@@ -1511,6 +1499,7 @@ Your AI assistant for everyday tasks, can operate a web browser to complete near
 ### Links
 - [Launch announcement](https://twitter.com/mattshumer_/status/1673730806865358848)
 - [Google Chrome Extension](https://chrome.google.com/webstore/detail/hyperwrite-ai-writing-com/kljjoeapehcmaphfcjkmbhkinoaopdnd)
+- [Article](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/)
 
 </details>
 
