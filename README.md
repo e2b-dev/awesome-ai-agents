@@ -346,6 +346,20 @@ The BambooAI library is a user-friendly semi-autonomous AI agent designed to mak
 </details>
 
 
+## [BeeBot](https://github.com/AutoPackAI/beebot)
+An Autonomous AI Assistant designed to perform a wide range of practical tasks autonomously
+
+<details>
+### Description
+- "BeeBot is currently a work in progress and should be treated as an early stage research project. Its focus is not on production usage at this time."
+
+	
+### Links
+- [GitHub](https://github.com/AutoPackAI/beebot)
+- [Tweet](https://twitter.com/Douglas_Schon/status/1681094815021187072?s=20)
+</details>
+
+
 ## [Bloop](https://bloop.ai/)
 A GPT-4 powered semantic code search engine that uses an AI agent
 
@@ -777,6 +791,24 @@ An open-source AGI R&D platform that enables agents for both benchmark tasks and
 
 </details>
 
+## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
+An AI browsing agent
+
+<details>
+
+### Description
+- AI agent that can use a web browser like a human
+- "Just describe what you want it to do, and it will automatically operate Chrome to achieve your task."
+- Examples of use cases: Booking flights, ordering food, researching complex topics, managing your email
+
+
+### Links
+- [Tweet](https://twitter.com/mattshumer_/status/1646234077798727686)
+- [Article](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/)
+
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
 <details>
@@ -1100,6 +1132,7 @@ A ML research and product lab building general intelligence by enabling humans a
 - [Linkedin](https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents)
 
 </details>
+
 
 ## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
 Airplane is a company for building internal tools, they're building their autopilot AI assistant.
@@ -1535,7 +1568,6 @@ An AI assistant that can help with daily tasks, e.g., calendar management, email
 -->
 
 </details>
-
 
 ## [Minion AI](https://minion.ai/)
 Made by creator of GitHub Copilot, so far in a waitlist stage
