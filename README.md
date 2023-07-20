@@ -1497,29 +1497,6 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 </details>
 
-## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
-An AI browsing assistant for everyday tasks, can operate a web browser to complete nearly any task
-
-<details>
-
-
-### Description
-- AI agent that can use a web browser like a human
-- "Just describe what you want it to do, and it will automatically operate Chrome to achieve your task."
-- Examples of use cases: Booking flights, ordering food, researching complex topics, managing your email
-- Designed to handle tasks from booking flights to conducting in-depth research, and everything in between.
-- Examples of usage:
-	- Organize Gmail inbox
-	- Booking a flight
-	- Ordering online
-	- Finding hire candidates
-
-### Links
-- [Launch announcement](https://twitter.com/mattshumer_/status/1673730806865358848)
-- [Google Chrome Extension](https://chrome.google.com/webstore/detail/hyperwrite-ai-writing-com/kljjoeapehcmaphfcjkmbhkinoaopdnd)
-- [Article](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/)
-
-</details>
 
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
@@ -1642,6 +1619,31 @@ Still in an early stage, with waitlist for early access
 
 ### Links
 - [Twitter](https://twitter.com/naut_ai)
+</details>
+
+
+## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
+An AI browsing assistant for everyday tasks, can operate a web browser to complete nearly any task
+
+<details>
+
+
+### Description
+- AI agent that can use a web browser like a human
+- "Just describe what you want it to do, and it will automatically operate Chrome to achieve your task."
+- Examples of use cases: Booking flights, ordering food, researching complex topics, managing your email
+- Designed to handle tasks from booking flights to conducting in-depth research, and everything in between.
+- Examples of usage:
+	- Organize Gmail inbox
+	- Booking a flight
+	- Ordering online
+	- Finding hire candidates
+
+### Links
+- [Launch announcement](https://twitter.com/mattshumer_/status/1673730806865358848)
+- [Google Chrome Extension](https://chrome.google.com/webstore/detail/hyperwrite-ai-writing-com/kljjoeapehcmaphfcjkmbhkinoaopdnd)
+- [Article](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/)
+
 </details>
 
 ## [Proficient AI](https://proficientai.com)
