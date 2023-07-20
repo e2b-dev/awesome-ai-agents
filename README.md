@@ -961,6 +961,23 @@ An open-source autonomous AI framework to enable development and deployment auto
 
 </details>
 
+## [Sweep](https://sweep.dev/)
+A Github assistant the helps fix small bugs and implement small features
+<details>
+
+### Description
+- To install, click the install button
+- Then add the repository you want, make a quick ticket (e.g. writing tests)
+- Prepend the ticket with "Sweep:" and let Sweep handle the rest
+
+### Links
+- [GitHub](https://github.com/sweepai)
+- [Discord](https://discord.com/invite/sweep-ai)
+- [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
+
+
+</details>
+
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 
 A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making action, and doesn't lose memory after being shutting down
@@ -1480,7 +1497,7 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 </details>
 
-## [Otherwise's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
+## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
 An AI browsing assistant for everyday tasks, can operate a web browser to complete nearly any task
 
 <details>
@@ -1708,22 +1725,7 @@ AutoGPT agents with plugins
 </details>
 
 
-## [Sweep](https://sweep.dev/)
-A Github assistant the helps fix small bugs and implement small features
-<details>
 
-### Description
-- To install, click the install button
-- Then add the repository you want, make a quick ticket (e.g. writing tests)
-- Prepend the ticket with "Sweep:" and let Sweep handle the rest
-
-### Links
-- [GitHub](https://github.com/sweepai)
-- [Discord](https://discord.com/invite/sweep-ai)
-- [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
-
-
-</details>
 
 
 
