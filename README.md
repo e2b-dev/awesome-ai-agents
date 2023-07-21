@@ -664,6 +664,8 @@ GPT based autonomous agent that does online comprehensive research on any given 
 
 ### Links
 - [Website](https://tavily.com/)
+- [Discord](https://discord.com/invite/2pFkc83fRq)
+- Author: [Assaf Elovic](https://twitter.com/assaf_elovic)
 
 
 </details>
