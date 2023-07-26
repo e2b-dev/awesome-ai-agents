@@ -1168,7 +1168,7 @@ Airplane is a company for building internal tools, they're building their autopi
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 
-An AI agent specifically designed for research
+An AI agent specifically designed for business intelligence
 <details>
 
 ### Description
