@@ -427,6 +427,18 @@ A chemistry agent that performs tasks across synthesis, drug discovery, and mate
 
 </details>
 
+## [Clippy](https://github.com/ennucore/clippy/)
+
+The purpose of Clippy is to develop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/ennucore/clippy/)
+- Author: [Lev Chizhov](http://lev.la/) 
+
+</details>
+
 ## [Cody](https://docs.sourcegraph.com/cody)
 
 An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
