@@ -1777,6 +1777,27 @@ AutoGPT agents with plugins
 ### Links
 - [Author's Twitter](https://twitter.com/rafal_makes)
 
+</details>
+
+
+## [Superluminal](https://superluminal.dev)
+Add an AI copilot to your product's data dashboard with just a few lines of code.
+
+
+<details>
+
+### Description
+- Get set up in minutes with the Superluminal React component, or use the API directly for custom solutions.
+- Writes Python code to answer questions and perform tasks, similar to ChatGPT + CodeInterpreter.
+- Fully managed compute infrastructure for the secure execution of generated code.
+- Customize the look and feel to fit your product.
+- Full support for graphs, pivots and filters in addition to textual answers.
+- Enable your customers to extract more value from the data already on their dashboard with meaningful answers to high-level questions.
+
+
+### Links
+- [Twitter](https://twitter.com/getluminal/)
+- [Linkedin](https://www.linkedin.com/company/74930600/)
 
 </details>
 
