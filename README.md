@@ -132,6 +132,36 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 </details>
 
 
+
+## [Automata](https://github.com/emrgnt-cmplxty)
+Crafting a sophisticated system that autonomously generates its own code based on the context of your project.
+
+<details>
+
+### Description
+- Model: GPT 4
+- Automata takes your project as a context, receives tasks, and executes the instructions seamlessly.
+- Features
+	- Automata aims to evolve into a fully autonomous, self-programming Artificial Intelligence system.
+	- It's designed for seamless integration with all available agent platforms and LLM providers.
+	- Utilizes the novel code search algorithm, SymbolRank, and associated tools to build superior coding intelligence.
+	- Modular, fully configurable design with minimal reliance on external dependencies
+
+### Links
+
+- Author: [Owen Colegrove](https://twitter.com/ocolegro)
+<!--
+
+### Features
+- Automata aims to evolve into a fully autonomous, self-programming Artificial Intelligence system.
+- It's designed for seamless integration with all available agent platforms and LLM providers.
+- Utilizes the novel code search algorithm, SymbolRank, and associated tools to build superior coding intelligence.
+- Modular, fully configurable design with minimal reliance on external dependencies.
+
+-->
+
+</details>
+
 ## [AutoPR](https://github.com/irgolic/AutoPR)
 AI-generated pull requests to fix issues, powered by ChatGPT
 <details>
@@ -319,6 +349,21 @@ The BambooAI library is a user-friendly semi-autonomous AI agent designed to mak
 </details>
 
 
+## [BeeBot](https://github.com/AutoPackAI/beebot)
+An Autonomous AI Assistant designed to perform a wide range of practical tasks autonomously
+
+<details>
+	
+### Description
+- "BeeBot is currently a work in progress and should be treated as an early stage research project. Its focus is not on production usage at this time."
+
+	
+### Links
+- [GitHub](https://github.com/AutoPackAI/beebot)
+- [Tweet](https://twitter.com/Douglas_Schon/status/1681094815021187072?s=20)
+</details>
+
+
 ## [Bloop](https://bloop.ai/)
 A GPT-4 powered semantic code search engine that uses an AI agent
 
@@ -361,7 +406,7 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
-## [ChemCrow]()
+## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
 A chemistry agent that performs tasks across synthesis, drug discovery, and materials design
 
 <details>
@@ -379,6 +424,18 @@ A chemistry agent that performs tasks across synthesis, drug discovery, and mate
 - [Paper](https://arxiv.org/abs/2304.05376)
 - [GitHub](https://github.com/ur-whitelab/chemcrow-public)
 - [HackerNews Discussion](https://news.ycombinator.com/item?id=35607616)
+
+</details>
+
+## [Clippy](https://github.com/ennucore/clippy/)
+
+The purpose of Clippy is to develop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/ennucore/clippy/)
+- Author: [Lev Chizhov](http://lev.la/) 
 
 </details>
 
@@ -605,6 +662,47 @@ Easily migrate your codebase from one framework or language to another
 </details>
 
 
+## [GPT Researcher](https://github.com/assafelovic/gpt-researcher)
+GPT based autonomous agent that does online comprehensive research on any given topic
+
+<details>
+
+### Description
+- Can produce detailed, factual and unbiased research reports
+- Offers customization options for focusing on relevant resources, outlines, and lessons
+- Addresses issues of speed and determinism, offering a more stable performance and increased speed through parallelized agent work, as opposed to synchronous operation
+- Inspired by AutoGPT and the Plan-and-Solve paper
+- The main idea is to run "planner" and "execution" agents, whereas the planner generates questions to research, and the execution agents seek the most related information based on each generated research question
+
+### Links
+- [Website](https://tavily.com/)
+- [Discord](https://discord.com/invite/2pFkc83fRq)
+- Author: [Assaf Elovic](https://twitter.com/assaf_elovic)
+
+
+</details>
+
+## [GPT Runner](https://github.com/nicepkg/gpt-runner)
+Conversations with your files which selected! Manage and run your AI presets!
+
+<details>
+
+### Description
+- Conversation with your files which selected by you, no embedding, no vector database!
+- It's also a AI Prompt Storybook. You can use it to manage some AI preset with your team. It support any IDE and language developer. We provide cli to run web and VSCode extension, Jetbrains plugin is coming soon.
+- Private first, all data is local.
+- We support both OpenAI and Anthropic (Claude-2)
+- It support support for multiple languages.
+
+![image](https://repository-images.githubusercontent.com/640476297/30741f73-caac-48bc-b500-1b7d6efde4c4)
+
+### Links
+- [Website](https://github.com/nicepkg/gpt-runner)
+- Author: [Jinming Yang](https://github.com/2214962083)
+
+
+</details>
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
 
@@ -710,6 +808,8 @@ An open-source AGI R&D platform that enables agents for both benchmark tasks and
 - [Demo](https://www.youtube.com/watch?v=7RaXPPXi0-Y)
 
 </details>
+
+
 
 ## [Pezzo](https://www.pezzo.ai/)
 A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
@@ -851,7 +951,7 @@ An open-source autonomous AI framework to enable development and deployment auto
 
 ### Description
 - An AI agent framework
-- Open source, but infrastructure is closed-source
+- Open source, but infrastructure is -source
 - Features
 	- Provision, Spawn & Deploy Autonomous AI Agents
 	- Extend Agent Capabilities with Tools
@@ -875,6 +975,23 @@ An open-source autonomous AI framework to enable development and deployment auto
 - [Subreddit](https://www.reddit.com/r/Super_AGI/)
 - [Twitter](https://twitter.com/_superAGI)
 - Author: [Ishaan Bhola](https://twitter.com/ishaanbhola)
+
+</details>
+
+## [Sweep](https://sweep.dev/)
+A Github assistant the helps fix small bugs and implement small features
+<details>
+
+### Description
+- To install, click the install button
+- Then add the repository you want, make a quick ticket (e.g. writing tests)
+- Prepend the ticket with "Sweep:" and let Sweep handle the rest
+
+### Links
+- [GitHub](https://github.com/sweepai)
+- [Discord](https://discord.com/invite/sweep-ai)
+- [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
+
 
 </details>
 
@@ -1035,6 +1152,7 @@ A ML research and product lab building general intelligence by enabling humans a
 
 </details>
 
+
 ## [Airkit.ai](https://www.airkit.ai)
 Airkit is a developer-first platform for building, testing, and deploying AI Agents.
 
@@ -1052,6 +1170,7 @@ Airkit is a developer-first platform for building, testing, and deploying AI Age
 - [Twitter](https://twitter.com/AirkitAI)
 
 </details>
+
 
 ## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
 Airplane is a company for building internal tools, they're building their autopilot AI assistant.
@@ -1080,7 +1199,7 @@ Airplane is a company for building internal tools, they're building their autopi
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 
-An AI agent specifically designed for research
+An AI agent specifically designed for business intelligence
 <details>
 
 ### Description
@@ -1166,6 +1285,24 @@ AI-powered interactive code integrity dev tool enabling developers to ship softw
 
 </details>
 
+## [Commit](https://commit.dev)
+
+
+Career Copilot and AI Agent for Software Developers
+
+<details>
+
+### Description
+- Comprehensive job search
+- Accurate job recommendations based on your skills, experience, and preferences
+- AI-powered auto-applications
+
+### Links
+- CEO: [Greg Gunn](https://www.linkedin.com/in/gunnr)
+- CTO: [Beier Cai](https://www.linkedin.com/in/beiercai)
+
+</details>
+
 
 ## [Cognosys](https://cognosys.ai)
 
@@ -1213,6 +1350,19 @@ Working on autonomous coding Droids for building software end-to-end
 - [CEO](https://twitter.com/matangrinberg)
 
 
+</details>
+
+
+## [Fine](https://www.fine.dev/)
+
+AI software architect that analyzes your code and helps you solve tasks
+
+<details>
+
+
+### Links
+- [Twitter](https://twitter.com/thisisfinedev)
+- Author: [Dan Leshem](https://twitter.com/leshemco)
 </details>
 
 
@@ -1354,6 +1504,24 @@ A beta version of a tool for fixing technical gap automatically, putting code mi
 
 </details>
 
+## [Heights Platform](https://www.heightsplatform.com/)
+Your AI Coach and and AI Copilot for course creators, community builders, and coaches. Built into an all-in-one course creation and community software.
+
+<details>
+
+### Description
+- Heights AI Chat can make edits to your digital products, answer support questions, and provide advice on growing your business. 
+- Heights AI Coach is your personal autonomous coach, helping you accomplish your unique goals
+    - Your AI coach will ask you questions and analyze the products you create to provide you with new tasks and recommendations every week.
+    - Information you share with your AI Coach will never be shared with another creator's AI Coach.
+    - Any information submitted will never be used for AI language model training data.
+
+### Links
+- [AI Features](https://www.heightsplatform.com/features/ai)
+- [Twitter](https://twitter.com/HeightsPlatform)
+
+</details>
+
 
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 Hex AI-powered tools for humans doing amazing things with data
@@ -1383,24 +1551,6 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 </details>
 
-## [HyperWrite Personal Assistant](https://www.hyperwriteai.com/personal-assistant)
-Your AI assistant for everyday tasks, can operate a web browser to complete nearly any task
-
-<details>
-
-### Description
-- Designed to handle tasks from booking flights to conducting in-depth research, and everything in between.
-- Examples of usage:
-	- Organize Gmail inbox
-	- Booking a flight
-	- Ordering online
-	- Finding hire candidates
-
-### Links
-- [Launch announcement](https://twitter.com/mattshumer_/status/1673730806865358848)
-- [Google Chrome Extension](https://chrome.google.com/webstore/detail/hyperwrite-ai-writing-com/kljjoeapehcmaphfcjkmbhkinoaopdnd)
-
-</details>
 
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
@@ -1456,7 +1606,6 @@ An AI assistant that can help with daily tasks, e.g., calendar management, email
 -->
 
 </details>
-
 
 ## [Minion AI](https://minion.ai/)
 Made by creator of GitHub Copilot, so far in a waitlist stage
@@ -1524,6 +1673,31 @@ Still in an early stage, with waitlist for early access
 
 ### Links
 - [Twitter](https://twitter.com/naut_ai)
+</details>
+
+
+## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
+An AI browsing assistant for everyday tasks, can operate a web browser to complete nearly any task
+
+<details>
+
+
+### Description
+- AI agent that can use a web browser like a human
+- "Just describe what you want it to do, and it will automatically operate Chrome to achieve your task."
+- Examples of use cases: Booking flights, ordering food, researching complex topics, managing your email
+- Designed to handle tasks from booking flights to conducting in-depth research, and everything in between.
+- Examples of usage:
+	- Organize Gmail inbox
+	- Booking a flight
+	- Ordering online
+	- Finding hire candidates
+
+### Links
+- [Launch announcement](https://twitter.com/mattshumer_/status/1673730806865358848)
+- [Google Chrome Extension](https://chrome.google.com/webstore/detail/hyperwrite-ai-writing-com/kljjoeapehcmaphfcjkmbhkinoaopdnd)
+- [Article](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/)
+
 </details>
 
 ## [Proficient AI](https://proficientai.com)
@@ -1607,22 +1781,7 @@ AutoGPT agents with plugins
 </details>
 
 
-## [Sweep](https://sweep.dev/)
-A Github assistant the helps fix small bugs and implement small features
-<details>
 
-### Description
-- To install, click the install button
-- Then add the repository you want, make a quick ticket (e.g. writing tests)
-- Prepend the ticket with "Sweep:" and let Sweep handle the rest
-
-### Links
-- [GitHub](https://github.com/sweepai)
-- [Discord](https://discord.com/invite/sweep-ai)
-- [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
-
-
-</details>
 
 
 
