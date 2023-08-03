@@ -1153,6 +1153,25 @@ A ML research and product lab building general intelligence by enabling humans a
 </details>
 
 
+## [Airkit.ai](https://www.airkit.ai)
+Airkit is a developer-first platform for building, testing, and deploying AI Agents.
+
+
+<details>
+
+### Description
+
+- A browser based studio for managing prompts, building tools, and testing your agents.
+- Built in short-term and long-term memory management
+- 1 click deployment. Embed anywhere with our Web SDK. 
+
+### Links
+- [Profile of the company](https://www.airkit.ai)
+- [Twitter](https://twitter.com/AirkitAI)
+
+</details>
+
+
 ## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
 Airplane is a company for building internal tools, they're building their autopilot AI assistant.
 
