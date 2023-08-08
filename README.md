@@ -1802,7 +1802,15 @@ Add an AI copilot to your product's data dashboard with just a few lines of code
 </details>
 
 
+## [encode](https://encode.software)
+A fully autonomous software engineer
 
+<details>
+
+### Description
+- in alpha
+- encode works with you and your team to get work done
+</details>
 
 
 
