@@ -1153,6 +1153,25 @@ A ML research and product lab building general intelligence by enabling humans a
 </details>
 
 
+## [Airkit.ai](https://www.airkit.ai)
+Airkit is a developer-first platform for building, testing, and deploying AI Agents.
+
+
+<details>
+
+### Description
+
+- A browser based studio for managing prompts, building tools, and testing your agents.
+- Built in short-term and long-term memory management
+- 1 click deployment. Embed anywhere with our Web SDK. 
+
+### Links
+- [Profile of the company](https://www.airkit.ai)
+- [Twitter](https://twitter.com/AirkitAI)
+
+</details>
+
+
 ## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
 Airplane is a company for building internal tools, they're building their autopilot AI assistant.
 
@@ -1180,7 +1199,7 @@ Airplane is a company for building internal tools, they're building their autopi
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 
-An AI agent specifically designed for research
+An AI agent specifically designed for business intelligence
 <details>
 
 ### Description
@@ -1485,6 +1504,24 @@ A beta version of a tool for fixing technical gap automatically, putting code mi
 
 </details>
 
+## [Heights Platform](https://www.heightsplatform.com/)
+Your AI Coach and and AI Copilot for course creators, community builders, and coaches. Built into an all-in-one course creation and community software.
+
+<details>
+
+### Description
+- Heights AI Chat can make edits to your digital products, answer support questions, and provide advice on growing your business. 
+- Heights AI Coach is your personal autonomous coach, helping you accomplish your unique goals
+    - Your AI coach will ask you questions and analyze the products you create to provide you with new tasks and recommendations every week.
+    - Information you share with your AI Coach will never be shared with another creator's AI Coach.
+    - Any information submitted will never be used for AI language model training data.
+
+### Links
+- [AI Features](https://www.heightsplatform.com/features/ai)
+- [Twitter](https://twitter.com/HeightsPlatform)
+
+</details>
+
 
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 Hex AI-powered tools for humans doing amazing things with data
@@ -1740,6 +1777,27 @@ AutoGPT agents with plugins
 ### Links
 - [Author's Twitter](https://twitter.com/rafal_makes)
 
+</details>
+
+
+## [Superluminal](https://superluminal.dev)
+Add an AI copilot to your product's data dashboard with just a few lines of code.
+
+
+<details>
+
+### Description
+- Get set up in minutes with the Superluminal React component, or use the API directly for custom solutions.
+- Writes Python code to answer questions and perform tasks, similar to ChatGPT + CodeInterpreter.
+- Fully managed compute infrastructure for the secure execution of generated code.
+- Customize the look and feel to fit your product.
+- Full support for graphs, pivots and filters in addition to textual answers.
+- Enable your customers to extract more value from the data already on their dashboard with meaningful answers to high-level questions.
+
+
+### Links
+- [Twitter](https://twitter.com/getluminal/)
+- [Linkedin](https://www.linkedin.com/company/74930600/)
 
 </details>
 
