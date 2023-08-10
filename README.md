@@ -1810,6 +1810,7 @@ A fully autonomous software engineer
 ### Description
 - in alpha
 - encode works with you and your team to get work done
+- demo: https://encode.software/demo
 </details>
 
 
