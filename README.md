@@ -450,7 +450,7 @@ The purpose of Clippy is to develop code for or with the user. It can plan, writ
 
 </details>
 
-## [Cody of ajhous44](https://github.com/ajhous44/cody)
+## [Cody by ajhous44](https://github.com/ajhous44/cody)
 
 An AI assistant designed to let you interactively query your codebase using natural language. By utilizing vector embeddings, chunking, and OpenAI's language models, Cody can help you navigate through your code in an efficient and intuitive manner.
 
@@ -462,7 +462,7 @@ An AI assistant designed to let you interactively query your codebase using natu
 
 </details>
 
-## [Cody of Sourcegraph](https://docs.sourcegraph.com/cody)
+## [Cody by Sourcegraph](https://docs.sourcegraph.com/cody)
 
 An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
 
