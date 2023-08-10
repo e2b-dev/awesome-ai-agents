@@ -764,6 +764,24 @@ Inspired by privateGPT, allows using your own documents as an information source
 </details>
 
 
+## [Mentat](https://github.com/biobootloader/mentat)
+Mentat is the AI tool that assists you with any coding task, right from your command line.
+
+Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
+
+<details>
+
+### Links  
+- [Website](https://www.mentat.codes/)
+- [Youtube](https://www.youtube.com/watch?v=lODjaWclwpY)
+- Author: [Bio Bootloader](https://twitter.com/bio_bootloader) (Twitter)
+- [Discord Invite](https://discord.com/invite/zbvd9qx9Pb)
+
+
+</details>
+
+
+
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
 <details>
