@@ -92,7 +92,18 @@ A platform for agents to work together, similar in spirit to AutoGPT and Baby AG
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [Aider](https://github.com/paul-gauthier/aider)
 
+Aider is a command line tool that lets you pair program with GPT-3.5/GPT-4, to edit code stored in your local git repository. You can start a new project or work with an existing repo. And you can fluidly switch back and forth between the aider chat where you ask GPT to edit the code and your own editor to make changes yourself. Aider makes sure edits from you and GPT are committed to git with sensible commit messages. Aider is unique in that it works well with pre-existing, larger codebases.
+
+<details>
+
+### Links  
+- [Website](https://aider.chat/)
+- Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
+- [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
+
+</details>
 
 ## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
 
