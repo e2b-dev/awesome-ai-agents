@@ -703,6 +703,28 @@ Conversations with your files which selected! Manage and run your AI presets!
 
 </details>
 
+## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
+
+Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
+
+<details>
+
+### Description
+
+- A standalone supervised Plan and Solve Agent specialized on performing read and write operations on various tools like GitHub, HubSpot or Airtable _(ACL 2023 Paper "[Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091)")_
+- **Separation of tasks and human-in-the-loop interactions**: Lemon Agent is currently holding a Planner Agent and a Solver Agent to keep the agents focussed and increase accuracy. We are planning on adding additional agents real soon. In addition, Lemon Agent will ask for approval at relevant workflow steps to make sure the intended actions are executed.
+- **Unlimited configuration options**: Lemon Agent gives you unlimited configuration options (see example here) when defining your workflow. For instance, you can tell Lemon Agent to ask for permission before executing a workflow step or to drop a 🧔‍♀️ dad joke every time the model executes a workflow step.
+- **UI flexibility**: Build any UI on top or engage with Lemon Agent via the built-in CLI.
+- **[Soon] Model & framework agnostic operations**: Lemon Agent is a standalone agent, but can easily be integrated into frameworks like LangChain and be used with any model.
+- **Bonus**: Identify weak spots in your agent’s decision-making capabilities and move to a more deterministic behavior by further configuring your Lemon Agent workflows. **(.html file that can be run without any additional installation)**
+
+### Links
+
+- [Discord](https://discord.gg/fWU4rDYSxw)
+- [Author's Twitter](https://twitter.com/felixbrockm)
+
+</details>
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
 
