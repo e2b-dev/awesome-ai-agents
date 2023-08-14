@@ -133,7 +133,7 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 
 
 
-## [Automata](https://github.com/emrgnt-cmplxty)
+## [Automata](https://github.com/emrgnt-cmplxty/automata)
 Crafting a sophisticated system that autonomously generates its own code based on the context of your project.
 
 <details>
