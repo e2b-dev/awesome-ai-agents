@@ -92,7 +92,18 @@ A platform for agents to work together, similar in spirit to AutoGPT and Baby AG
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [Aider](https://github.com/paul-gauthier/aider)
 
+Aider is a command line tool that lets you pair program with GPT-3.5/GPT-4, to edit code stored in your local git repository. You can start a new project or work with an existing repo. And you can fluidly switch back and forth between the aider chat where you ask GPT to edit the code and your own editor to make changes yourself. Aider makes sure edits from you and GPT are committed to git with sensible commit messages. Aider is unique in that it works well with pre-existing, larger codebases.
+
+<details>
+
+### Links  
+- [Website](https://aider.chat/)
+- Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
+- [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
+
+</details>
 
 ## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
 
@@ -439,7 +450,19 @@ The purpose of Clippy is to develop code for or with the user. It can plan, writ
 
 </details>
 
-## [Cody](https://docs.sourcegraph.com/cody)
+## [Cody by ajhous44](https://github.com/ajhous44/cody)
+
+An AI assistant designed to let you interactively query your codebase using natural language. By utilizing vector embeddings, chunking, and OpenAI's language models, Cody can help you navigate through your code in an efficient and intuitive manner.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/ajhous44/cody)
+- Author: [@ajhous44](https://github.com/ajhous44/) (Github)
+
+</details>
+
+## [Cody by Sourcegraph](https://docs.sourcegraph.com/cody)
 
 An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
 
@@ -772,6 +795,24 @@ Inspired by privateGPT, allows using your own documents as an information source
 ### Links
 - [YouTube - LocalGPT: OFFLINE CHAT FOR YOUR FILES [Installation & Code Walkthrough]](https://www.youtube.com/watch?v=MlyoObdIHyo&ab_channel=PromptEngineering)
 </details>
+
+
+## [Mentat](https://github.com/biobootloader/mentat)
+Mentat is the AI tool that assists you with any coding task, right from your command line.
+
+Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
+
+<details>
+
+### Links  
+- [Website](https://www.mentat.codes/)
+- [Youtube](https://www.youtube.com/watch?v=lODjaWclwpY)
+- Author: [Bio Bootloader](https://twitter.com/bio_bootloader) (Twitter)
+- [Discord Invite](https://discord.com/invite/zbvd9qx9Pb)
+
+
+</details>
+
 
 
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
