@@ -1265,6 +1265,27 @@ An AI agent specifically designed for business intelligence
 </details>
 
 
+## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
+
+
+AI no-code copilot that allows users to build AI apps.
+<details>
+
+### Description
+- broadn is a no-code platform that helps non-technical people build AI products in minutes. We're faster and more flexible than traditional no-code tools through an LLM powered conversational interface and an agent architecture that automates complex backend/workflow operations
+- Features
+	- Conversational interface
+	- LLM/AI model connectors (text, image models, etc)
+	- Create bespoke chatbots
+	- Render UI components
+	- Connect to external data via APIs
+
+### Links
+- Authors: [Calin Drimbau](https://twitter.com/calindrimbau) and [Victor Paraschiv](https://twitter.com/vicpara)
+- [Twitter](https://twitter.com/getbroadn)
+
+</details>
+
 
 ## [Butternut AI](https://butternut.ai/)
 A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
