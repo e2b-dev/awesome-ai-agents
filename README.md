@@ -1421,6 +1421,18 @@ AI-powered design tools for everything from copywriting to generating unique ico
 
 </details>
 
+## [encode](https://encode.software)
+A fully autonomous software engineer
+
+<details>
+
+### Description
+- in alpha
+- encode works with you and your team to get work done
+- demo: https://encode.software/demo
+</details>
+
+
 ## [Factory](https://www.factory.ai/)
 Working on autonomous coding Droids for building software end-to-end
 
@@ -1883,18 +1895,6 @@ Add an AI copilot to your product's data dashboard with just a few lines of code
 - [Twitter](https://twitter.com/getluminal/)
 - [Linkedin](https://www.linkedin.com/company/74930600/)
 
-</details>
-
-
-## [encode](https://encode.software)
-A fully autonomous software engineer
-
-<details>
-
-### Description
-- in alpha
-- encode works with you and your team to get work done
-- demo: https://encode.software/demo
 </details>
 
 
