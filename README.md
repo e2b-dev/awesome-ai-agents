@@ -1842,6 +1842,23 @@ Interaction APIs and SDKs that allow developers to build, deploy and operate con
 - [Discord](https://discord.gg/DVbwTM8erb)
 </details>
 
+## [Rift](https://github.com/morph-labs/rift)
+
+Rift is open-source infrastructure for AI-native development environments. Rift makes your IDE agentic. Software will soon be written mostly by AI software engineers that work alongside you. Codebases will soon be living, spatial artifacts that maintain context, listen to, anticipate, react to, and execute your every intent. The Rift Code Engine implements an AI-native extension of the language server protocol. The Rift VSCode extension implements an client and end-user interface which is the first step into that future.
+
+<details>
+
+### Description
+Existing code generation tooling is presently mostly code-agnostic, operating at the level of tokens in / tokens out of code LMs. The language server protocol (LSP) defines a standard for language servers, objects which index a codebase and provide structure- and runtime-aware interfaces to external development tools like IDEs.
+
+The Rift Code Engine is an AI-native language server which will expose interfaces for code transformations and code understanding in a uniform, model- and language-agnostic way --- e.g. rift.summarize_callsites or rift.launch_ai_swe_async should work on a Python codebase with StarCoder as well as it works on a Rust codebase using CodeGen. Within the language server, models will have full programmatic access to language-specific tooling like compilers, unit and integration test frameworks, and static analyzers to produce correct code with minimal user intervention. We will develop UX idioms as needed to support this functionality in the Rift IDE extensions.
+
+
+### Links
+- [Discord](https://discord.com/invite/wa5sgWMfqv)
+- [Website](https://morph.so/)
+</details>
+
 ## [Saga](https://saga.so/ai)
 
 A digital AI assistant, an AI-powered workspace integrating notes, tasks, and tools
