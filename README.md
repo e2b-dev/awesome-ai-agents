@@ -479,6 +479,19 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [Cursor](https://www.cursor.so/)
+
+The AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.
+
+<details>
+
+### Links
+- [Website](https://www.cursor.so/)
+- [GitHub (Issue Only)](https://github.com/getcursor/cursor)
+- [Discord](https://discord.com/invite/PJEgRywgRy)
+
+</details>
+
 ## [Databerry](https://www.databerry.ai/)
 A super-easy no-code platform for creating AI chatbots trained on your own data
 
