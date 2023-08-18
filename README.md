@@ -8,6 +8,7 @@
 			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 		</a>
 	</p>
+	<h3 align="center">🆕 Check out <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">Awesome List of SDKs for AI Agents</a> 🆕</h3>
 </h1>
 
 
