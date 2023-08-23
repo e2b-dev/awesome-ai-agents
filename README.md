@@ -601,6 +601,24 @@ POC AI based Compiler, for converting english based markdown specs, into functio
 
 </details>
 
+## [Fine](https://www.fine.dev/)
+
+Build Software with AI Agents. Leverage AI to the maximum and x10 your dev velocity.
+<details>
+
+### Description
+- Deploy, manage, and run AI agents that serve as your virtual teammates.
+- Built for teams, with organizational memory and collaboration in mind.
+- Privacy oriented, we don't store your code, everything runs locally.
+- Multiagent platform: Build your own custom agents.
+
+### Links
+- [Twitter](https://twitter.com/leshemco)
+- [Discord](https://discord.gg/nxW8sA5yqe)
+- [YouTube](https://www.youtube.com/@thisisfinedev)
+
+</details>
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 
 A developer assistant able to make whole nodejs project with unlimited prompts
