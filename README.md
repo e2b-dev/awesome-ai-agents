@@ -301,7 +301,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 </details>
 
 ## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
-Newest mod of BabyAGI, at ~350 lines of code
+BabyDeerAGI is a mod of BabyAGI, at ~350 lines of code
 <details>
 
 ### Description
@@ -317,6 +317,26 @@ Newest mod of BabyAGI, at ~350 lines of code
 - [Tweet](https://twitter.com/yoheinakajima/status/1666313838868992001)
 - [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyDeerAGI.py)
 - [Replit](https://replit.com/@YoheiNakajima/BabyDeerAGI)
+- Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
+
+</details>
+
+## [BabyElfAGI](https://twitter.com/yoheinakajima/status/1678443482866933760)
+Newest mod of BabyDeerAGI, and the OG BabyAGI, at ~895 lines of code
+<details>
+
+### Description
+- Features
+	- Skills class allows for creation of new skills
+	- 'Dynamic task list' example with vector search
+	- Beta reflection agent
+	- Can read, write, and review its own code
+
+
+### Links
+- [Tweet](https://twitter.com/yoheinakajima/status/1678443482866933760)
+- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyElfAGI/main.py)
+- [Replit](https://replit.com/@YoheiNakajima/BabyElfAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
