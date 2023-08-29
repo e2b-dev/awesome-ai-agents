@@ -1489,7 +1489,7 @@ Build Software with AI Agents. Leverage AI to the maximum and x10 your dev veloc
 - Multiagent platform: Build your own custom agents.
 
 ### Links
-- [Twitter](https://twitter.com/leshemco)
+- [Twitter](https://twitter.com/thisisfinedev)
 - [Discord](https://discord.gg/nxW8sA5yqe)
 - [YouTube](https://www.youtube.com/@thisisfinedev)
 
