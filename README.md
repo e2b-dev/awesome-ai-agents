@@ -8,9 +8,13 @@
 			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 		</a>
 	</p>
-	<h3 align="center">🆕 Check out <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">Awesome List of SDKs for AI Agents</a> 🆕</h3>
 </h1>
 
+<h3 align="center">
+  👉 Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-agents">AI Playgrounds</a> for agents, copilots, and AI apps
+</h3>
+
+<h4 align="center">👉 Check out <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">Awesome List of SDKs for AI Agents</a></h4>
 
 <img src="/assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
