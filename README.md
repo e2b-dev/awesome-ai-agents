@@ -1,3 +1,10 @@
+<!--
+TBD:
+Add to visual:
+MetaGPT
+Dev
+	-->
+
 <h1 align="center">
 	🔮 Awesome AI Agents
 	<p align="center">
@@ -278,7 +285,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 
 ### Description
 - Just 300 lines of code
-- This was built as a continued iteration on the original BabyAGI code in a lightweight way. Differences to BabyAGI include the following:
+- This was built as a d iteration on the original BabyAGI code in a lightweight way. Differences to BabyAGI include the following:
 	- Task Creation Agent runs once
 	- Execution Agent loops through tasks
 	- Task dependencies for pulling relevant results
@@ -505,6 +512,32 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 - Author: [@sourcegraph](https://twitter.com/sourcegraph) (Twitter)
 
 </details>
+
+
+## [Continue](https://continue.dev/)
+An open-source autopilot for software development
+
+<details>
+
+### Decsription
+- An open-source autopilot for software development—bring the power of ChatGPT to VS Code
+- Features:
+	- Answer coding questions
+   	- Edit in natural language
+   	- Generate files from scratch
+
+
+### Links
+- [Website]
+- [GitHub](https://github.com/continuedev/continue)
+- [Documentation](https://continue.dev/docs/intro)
+- [Twitter](https://twitter.com/continuedev)
+
+</details>
+
+
+
+
 
 ## [Databerry](https://www.databerry.ai/)
 A super-easy no-code platform for creating AI chatbots trained on your own data
@@ -844,6 +877,28 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 
 </details>
+
+
+## [MetaGPT](https://github.com/geekan/MetaGPT)
+ The Multi-Agent Framework: given one line requirement, it returns PRD, Design, Tasks, Repo
+
+<details>
+### Description
+- MetaGPT allows to assign different roles to GPTs to form a collaborative software entity for complex tasks
+- It takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
+- Internally, MetaGPT includes product managers / architects / project managers / engineers. It provides the entire process of a software company along with carefully orchestrated SOPs.
+Code = SOP(Team) is the core philosophy
+
+
+
+### Links  
+- [GitHub](https://github.com/geekan/MetaGPT)
+- [Discord](https://discord.com/invite/4WdszVjv)
+- [Twitter](https://twitter.com/DeepWisdom2019
+
+
+</details>
+
 
 
 
