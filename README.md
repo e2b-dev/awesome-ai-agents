@@ -1483,16 +1483,21 @@ Working on autonomous coding Droids for building software end-to-end
 
 ## [Fine](https://www.fine.dev/)
 
-AI software architect that analyzes your code and helps you solve tasks
-
+Build Software with AI Agents. Leverage AI to the maximum and x10 your dev velocity.
 <details>
 
+### Description
+- Deploy, manage, and run AI agents that serve as your virtual teammates.
+- Built for teams, with organizational memory and collaboration in mind.
+- Privacy oriented, we don't store your code, everything runs locally.
+- Multiagent platform: Build your own custom agents.
 
 ### Links
 - [Twitter](https://twitter.com/thisisfinedev)
-- Author: [Dan Leshem](https://twitter.com/leshemco)
-</details>
+- [Discord](https://discord.gg/nxW8sA5yqe)
+- [YouTube](https://www.youtube.com/@thisisfinedev)
 
+</details>
 
 ## [Fine Tuner](https://fine-tuner.ai/)
 
