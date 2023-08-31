@@ -880,7 +880,7 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
- The Multi-Agent Framework: given one line requirement, it returns PRD, Design, Tasks, Repo
+ A multi-agent framework that, given one line requirement, returns PRD, Design, Tasks, or Repo
 
 <details>
 	
@@ -895,6 +895,7 @@ Code = SOP(Team) is the core philosophy
 - [GitHub](https://github.com/geekan/MetaGPT)
 - [Discord](https://discord.com/invite/4WdszVjv)
 - [Twitter](https://twitter.com/DeepWisdom2019)
+- [Paper](https://arxiv.org/abs/2308.00352)
 
 
 </details>
