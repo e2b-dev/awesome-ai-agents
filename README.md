@@ -528,7 +528,7 @@ An open-source autopilot for software development
 
 
 ### Links
-- [Website]
+- [Website](https://continue.dev/)
 - [GitHub](https://github.com/continuedev/continue)
 - [Documentation](https://continue.dev/docs/intro)
 - [Twitter](https://twitter.com/continuedev)
@@ -883,6 +883,7 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
  The Multi-Agent Framework: given one line requirement, it returns PRD, Design, Tasks, Repo
 
 <details>
+	
 ### Description
 - MetaGPT allows to assign different roles to GPTs to form a collaborative software entity for complex tasks
 - It takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
@@ -890,11 +891,10 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 Code = SOP(Team) is the core philosophy
 
 
-
 ### Links  
 - [GitHub](https://github.com/geekan/MetaGPT)
 - [Discord](https://discord.com/invite/4WdszVjv)
-- [Twitter](https://twitter.com/DeepWisdom2019
+- [Twitter](https://twitter.com/DeepWisdom2019)
 
 
 </details>
