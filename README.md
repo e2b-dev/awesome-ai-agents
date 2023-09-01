@@ -1093,6 +1093,7 @@ Not a single agent, but a tool that allows creating agents without coding
 - [Documentation](https://docs.superagent.sh/introduction)
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
 - Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
+- [Interview: Discussing agents' tracing, observability, and debugging with Ismail Pelaseyed, the founder of Superagent](https://e2b.dev/blog/discussing-agents-challenges-with-ismail-pelaseyed-the-founder-of-superagent)
 
 </details>
 
@@ -1141,6 +1142,7 @@ A Github assistant the helps fix small bugs and implement small features
 ### Links
 - [GitHub](https://github.com/sweepai)
 - [Discord](https://discord.com/invite/sweep-ai)
+- [Interview: Sweep founders share learnings from building an AI coding assistant](https://e2b.dev/blog/sweep-founders-share-learnings-from-building-an-ai-coding-assistant)
 - [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
 
 
@@ -1362,6 +1364,7 @@ An AI agent specifically designed for business intelligence
 
 ### Links
 - [Discord](https://discord.com/invite/a367ncqEsm/?utm_source=awesome-ai-agents)
+- [Interview: David Zhang from Aomni gives his view agents' reliability, debugging and orchestration](https://e2b.dev/blog/david-zhang-from-aomni-gives-his-view-on-ai-agents)
 
 </details>
 
@@ -1489,6 +1492,7 @@ Web based version of AutoGPT/babyAGI
 
 ### Links
 - Author: [Sully Omarr](https://twitter.com/SullyOmarr)
+- [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai)
 
 </details>
 
