@@ -1,9 +1,10 @@
 <!--
 TBD:
 Add to visual:
-MetaGPT
-Julius AI
-Continue.dev
+-
+-
+-
+-
 
 	-->
 
@@ -546,7 +547,7 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 </details>
 
 
-## [Continue](https://continue./)
+## [Continue](https://continue.dev/)
 An open-source autopilot for software development
 
 <details>
