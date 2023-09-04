@@ -709,6 +709,23 @@ A developer assistant able to make whole nodejs project with unlimited prompts
 
 </details>
 
+## [GeniA](https://github.com/genia-dev/GeniA)
+
+An engineering Gen AI platform engineering team member
+
+<details>
+
+### Description
+- GeniA is able to work along side you on your production enviroment, executing tasks on your behalf in your dev & cloud environments, AWS/k8s/Argo/GitHub etc.
+- Allows you to enhance the platform by integrating your own tools and APIs.
+- Slack App Bot integration.
+- Supports GPT-3.5 & GPT-4.
+
+### Links
+- Authors: [Uri Shamay](https://github.com/cmpxchg16), [Shlomi Shemesh](https://github.com/shlomsh)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 A project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
 
