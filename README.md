@@ -2,7 +2,9 @@
 TBD:
 Add to visual:
 MetaGPT
-Dev
+Julius AI
+Continue.dev
+
 	-->
 
 <h1 align="center">
@@ -35,19 +37,19 @@ Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
 You have something to add or improve about our list? Do it via pull request. Please keep the agents in an alphabetical order and in correct category. Please only add companies and projects powered by autonomous AI agents.
-For adding agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents).
+For adding agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-/awesome-sdks-for-ai-agents).
 
 ## Who's behind this?
-This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
+This list is made by the team behind [e2b](https://github.com/e2b-/e2b). E2b is building AWS for AI agents. We help elopers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 
 ## Join the community
-- Follow us on [Twitter](https://twitter.com/e2b_dev)
+- Follow us on [Twitter](https://twitter.com/e2b_)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 - Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
-- See also [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents)
+- See also [Awesome SDKs for AI Agents](https://github.com/e2b-/awesome-sdks-for-ai-agents)
 
-Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
+Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # :open_hands: Open-source projects
 
@@ -374,6 +376,36 @@ An AI agent designed to test what happens when you combine CLI and LLM, which ar
 </details>
 
 
+## [BabyFoxAGI](https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi)
+Most recent mod of BabyAGI with a new parallel UI panel
+
+
+<details>
+
+### Description
+- A mod of BabyElfAGI, in a series of mods w the naming of Baby<animal>AGI in alphabetical order
+- Self-improving task lists (FOXY method)
+   	- By storing a final reflection at the end, and pulling the most relevant reflection to guide future runs, BabyAGI slowly generates better and better tasks lists
+- Novel Chat UI w parallel tasks
+  	- You can chat w BabyAGI! It has an experimental UI where the chat is separate from the tasks/output panel, allowing you to request multiple tasks in parallel
+  	- The Chat UI can use a single skill quickly, or chain multiple skills together using a tasklist
+-  New skills
+	- 🎨 DALLE skill with prompt assist
+ 	- 🎶 Music player w Deezer
+	- 📊 Airtable search (add your own table/base ID)
+	- 🔍 Startup Analyst (example of beefy function call as a skill)
+-  It’s own README
+
+
+### Links
+- [Author's Twitter](https://twitter.com/yoheinakajima)
+- [Twitter thread describing the system]
+- [Replit](https://replit.com/@YoheiNakajima)
+
+</details>
+
+
+
 ## [BambooAI](https://github.com/pgalko/BambooAI)
 
 The BambooAI library is a user-friendly semi-autonomous AI agent designed to make data exploration and analysis more accessible to non-programmers.
@@ -387,7 +419,7 @@ The BambooAI library is a user-friendly semi-autonomous AI agent designed to mak
 - Builds the prompts dynamically utilising relevant context from Pinecone vector DB.
 - Offers a narrative or asks follow up questions if required.
 - For codified responses, the task is broken down into a list of steps and a pseudo-code algorithm is built.
-- Based on the algorithm, it devises the python code for dataset analysis, modeling or plotting.
+- Based on the algorithm, it ises the python code for dataset analysis, modeling or plotting.
 - Debugs the code which then executes, auto-corrects if needs to, and displays the output to user.
 - Ranks the final answers, and asks user for feedback.
 - Builds a vector DB knowledge-base, based on the rank and the user feedback.
@@ -479,7 +511,7 @@ A chemistry agent that performs tasks across synthesis, drug discovery, and mate
 
 ## [Clippy](https://github.com/ennucore/clippy/)
 
-The purpose of Clippy is to develop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
+The purpose of Clippy is to elop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
 
 <details>
 
@@ -514,7 +546,7 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 </details>
 
 
-## [Continue](https://continue.dev/)
+## [Continue](https://continue./)
 An open-source autopilot for software development
 
 <details>
@@ -887,15 +919,17 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 ### Description
 - MetaGPT allows to assign different roles to GPTs to form a collaborative software entity for complex tasks
 - It takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
-- Internally, MetaGPT includes product managers / architects / project managers / engineers. It provides the entire process of a software company along with carefully orchestrated SOPs.
-Code = SOP(Team) is the core philosophy
+- Internally, MetaGPT includes product managers / architects / project managers / engineers
+- It provides the entire process of a software company along with carefully orchestrated SOPs. Code = SOP(Team) is the core philosophy
+- The paper about LLM-based multi-agent work spushes forward the idea of autonomous agents collaborating with each other to do more than one can on its own.
+- MetaGPT incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration
 
 
 ### Links  
 - [GitHub](https://github.com/geekan/MetaGPT)
 - [Discord](https://discord.com/invite/4WdszVjv)
 - [Twitter](https://twitter.com/DeepWisdom2019)
-- [Paper](https://arxiv.org/abs/2308.00352)
+- [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 
 
 </details>
@@ -1741,6 +1775,28 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 ### Description
 - Personal assistant for life: to keep you on top of your calendar, tasks and information
 - Currently in a beta version
+
+</details>
+
+
+## [Julius](https://heymoon.ai/)
+Julius AI allows data processing, analysis, and visualization
+
+<details>
+
+### Description
+- Chat-powered data analytics and AI agents, all in a notebook interface
+- Allows to answer any question about users' data with a single prompt
+- An intelligent data analyst tool that interprets, analyzes, and visualizes complex data in an intuitive, user-friendly manner
+- "Jupyter Notebooks on steroids"
+
+### Description
+- [Docs](https://julius.ai/docs/chat-start-guide)
+- [Use cases](https://julius.ai/use_cases)
+- [Twitter](https://twitter.com/JuliusAI_)
+- Team Twitter profiles: [Matt Brockman](https://twitter.com/badphilosopher), [rahul](https://twitter.com/0interestrates)
+
+
 
 </details>
 
