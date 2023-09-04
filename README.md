@@ -399,7 +399,7 @@ Most recent mod of BabyAGI with a new parallel UI panel
 
 ### Links
 - [Author's Twitter](https://twitter.com/yoheinakajima)
-- [Twitter thread describing the system]
+- [Twitter thread describing the system](https://twitter.com/yoheinakajima/status/1697539193768116449)
 - [Replit](https://replit.com/@YoheiNakajima)
 
 </details>
@@ -1779,7 +1779,7 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 </details>
 
 
-## [Julius](https://heymoon.ai/)
+## [Julius](https://julius.ai/)
 Julius AI allows data processing, analysis, and visualization
 
 <details>
