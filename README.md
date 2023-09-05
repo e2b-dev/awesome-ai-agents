@@ -481,7 +481,7 @@ An open-source scheduling assistant built on Cal.com.
 - [GitHub](https://github.com/calcom/cal.com/tree/main/apps/ai)
 
 ### Links
-- Authors: [Uri Shamay](https://github.com/cmpxchg16), [Shlomi Shemesh](https://github.com/shlomsh)
+- Authors: [Cal.com core team](https://github.com/calcom/cal.com/graphs/contributors), [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
 
 </details>
 
