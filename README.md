@@ -1378,6 +1378,25 @@ Swift implementation of BabyAGI
 
 # :lock: Closed-source projects and companies
 
+## [TalktoData](https://talktodata.ai/)
+TalktoData AI allows advanced data discovery, cleaing, analysis, and visualization
+
+<details>
+
+### Description
+- AI Data Analyst that works with your CSV, Excel, Goolge Sheets and SQL Databases
+- AI Agent for all the data analytics needs
+- Allows users to generate beautiful visualizations, followup question and refine requirements
+- "ChatGPT for Data Analysis"
+- A Data Analyst the never sleeps and always available(A chat away)
+
+
+### Description
+- [Docs](https://julius.ai/docs/chat-start-guide)
+- [Use cases](https://julius.ai/use_cases)
+- [Twitter](https://twitter.com/TalktoData)
+- Team Twitter profiles: [Vinod Varma](https://twitter.com/vinodvarma24)
+
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
 
@@ -2100,6 +2119,7 @@ Add an AI copilot to your product's data dashboard with just a few lines of code
 - Customize the look and feel to fit your product.
 - Full support for graphs, pivots and filters in addition to textual answers.
 - Enable your customers to extract more value from the data already on their dashboard with meaningful answers to high-level questions.
+
 
 
 ### Links
