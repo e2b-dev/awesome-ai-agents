@@ -468,6 +468,23 @@ A GPT-4 powered semantic code search engine that uses an AI agent
 
 </details>
 
+## [Cal.ai](https://cal.ai)
+
+An open-source scheduling assistant built on Cal.com.
+
+<details>
+
+### Description
+- Cal.ai can book meetings, summarize your week, and find time with others based on natural language.
+- Responds flexibly to unseen tasks eg. "move my second-last meeting to tomorrow morning".
+- Uses GPT-4 and LangChain Agent Executor under the hood.
+- [GitHub](https://github.com/calcom/cal.com/tree/main/apps/ai)
+
+### Links
+- Authors: [Cal.com core team](https://github.com/calcom/cal.com/graphs/contributors), [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
+
+</details>
+
 
 ## [Camel](https://github.com/camel-ai/camel)
 An agent architecture for “Mind” Exploration of Large Scale Language Model Society
