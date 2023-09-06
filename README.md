@@ -676,6 +676,29 @@ Team of virtual developers
 
 </details>
 
+## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
+DevOpsGPT: AI-Driven Software Development Automation Solution
+
+<details>
+
+### Description
+Welcome to the AI Driven Software Development Automation Solution, abbreviated as DevOpsGPT. We combine LLM (Large Language Model) with DevOps tools to convert natural language requirements into working software. This innovative feature greatly improves development efficiency, shortens development cycles, and reduces communication costs, resulting in higher-quality software delivery.
+
+### Features and Benefits
+* Improved development efficiency: No need for tedious requirement document writing and explanations. Users can interact directly with DevOpsGPT to quickly convert requirements into functional software.
+* Shortened development cycles: The automated software development process significantly reduces delivery time, accelerating software deployment and iterations.
+* Reduced communication costs: By accurately understanding user requirements, DevOpsGPT minimizes the risk of communication errors and misunderstandings, enhancing collaboration efficiency between development and business teams.
+* High-quality deliverables: DevOpsGPT generates code and performs validation, ensuring the quality and reliability of the delivered software.
+* [Enterprise Edition] Existing project analysis: Through AI, automatic analysis of existing project information, accurate decomposition and development of required tasks on the basis of existing projects.
+* [Enterprise Edition] Professional model selection: Support language model services stronger than GPT in the professional field to better complete requirements development tasks, and support private deployment.
+* [Enterprise Edition] Support more DevOps platforms: can connect with more DevOps platforms to achieve the development and deployment of the whole process.
+
+### Links
+- [Creator Website](https://www.kuafuai.net/)
+- [Demo Video](https://youtu.be/IWUPbGrJQOU)
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 POC AI based Compiler, for converting english based markdown specs, into functional code
 <details>
