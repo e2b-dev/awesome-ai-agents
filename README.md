@@ -1,9 +1,9 @@
 <!--
 TBD:
 Add to visual:
--
--
--
+- Julius
+- BabyFoxAGI
+- Open Interpreter TalkToData
 -
 
 	-->
