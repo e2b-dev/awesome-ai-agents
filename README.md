@@ -3,7 +3,7 @@ TBD:
 Add to visual:
 - Julius
 - BabyFoxAGI
-- Open Interpreter TalkToData
+- Open Interpreter
 - TalkToData
 - Ability AI
 - ThinkChain AI
@@ -2161,9 +2161,9 @@ TalktoData AI allows advanced data discovery, cleaing, analysis, and visualizati
 
 
 ### Links
-- [Docs](https://julius.ai/docs/chat-start-guide)
-- [Use cases](https://julius.ai/use_cases)
+- [Web](https://talktodata.ai/)
 - [Twitter](https://twitter.com/TalktoData)
+- [Linkedin](https://www.linkedin.com/company/talktodata/)
 - Team Twitter profiles: [Vinod Varma](https://twitter.com/vinodvarma24)
 </details>
 
