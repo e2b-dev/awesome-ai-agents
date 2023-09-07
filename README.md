@@ -4,7 +4,9 @@ Add to visual:
 - Julius
 - BabyFoxAGI
 - Open Interpreter TalkToData
--
+- TalkToData
+- Ability AI
+- ThinkChain AI
 
 	-->
 
@@ -1053,6 +1055,24 @@ An open-source AGI R&D platform that enables agents for both benchmark tasks and
 </details>
 
 
+## [Open Interpreter](https://openinterpreter.com/)
+An open-source interpreter that lets LLMs run code on your computer to complete tasks
+
+<details>
+
+### Description
+- Runs locally
+- Can for example summarize PDFs, visualize datasets, control your browser
+- Works from a ChatGPT-like interface in your terminal.
+
+### Links
+- [Web](https://openinterpreter.com/)
+- [GitHub](https://github.com/KillianLucas/open-interpreter)
+- [Author's Twitter](https://twitter.com/hellokillian)
+
+</details>
+
+
 
 ## [Pezzo](https://www.pezzo.ai/)
 A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
@@ -1377,6 +1397,22 @@ Swift implementation of BabyAGI
 
 
 # :lock: Closed-source projects and companies
+
+## [Ability AI](https://ability.ai/)
+ Empowering Businesses with Secure, People-Centric Autonomous AI Agents
+
+<details>
+
+### Description
+- Empowering Businesses with Secure, People-Centric Autonomous AI Agents
+- Still in early version
+
+
+### Links
+- [Web](https://ability.ai/)
+
+</details>
+
 
 
 
@@ -2124,11 +2160,32 @@ TalktoData AI allows advanced data discovery, cleaing, analysis, and visualizati
 - A Data Analyst the never sleeps and always available(A chat away)
 
 
-### Description
+### Links
 - [Docs](https://julius.ai/docs/chat-start-guide)
 - [Use cases](https://julius.ai/use_cases)
 - [Twitter](https://twitter.com/TalktoData)
 - Team Twitter profiles: [Vinod Varma](https://twitter.com/vinodvarma24)
+</details>
+
+## [ThinkChain AI](https://www.thinkchain.ai/)
+A financial AI agent platform using your own knowledge base
+
+<details>
+
+### Description
+- ThinkChain provides a large and growing set of advanced AI agents, e.g.
+  	- Discover agent - can access search and your Knowledge base for informed answers
+  	- Chain of Thought agent - breaks questions into parts to be addressed independently
+  	- Analyst agent - creates realtime financial analysis, from DCF to LBO and everything in between
+  	- Auto Agent - can create an entire workflow from scratch
+- Currently in an early access version
+
+
+### Links
+- [Web](https://www.thinkchain.ai/)
+- Founder: [Tony Lewis](https://twitter.com/_tony_lewis)
+
+
 </details>
 
 
@@ -2137,7 +2194,7 @@ TalktoData AI allows advanced data discovery, cleaing, analysis, and visualizati
 
 ## :wave: Wanna discuss AI agents and more?
 
-- [Hit us up on discord](https://discord.gg/BRymvqUS)
+- [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - [Pick a date for a call in our calendar](https://calendly.com/tereza-tizkova/30min)
 - Email us at hello@e2b.dev
 - And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
