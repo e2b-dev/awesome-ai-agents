@@ -2195,7 +2195,6 @@ A financial AI agent platform using your own knowledge base
 ## :wave: Wanna discuss AI agents and more?
 
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
-- [Pick a date for a call in our calendar](https://calendly.com/tereza-tizkova/30min)
 - Email us at hello@e2b.dev
 - And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
 
