@@ -7,6 +7,7 @@ Add to visual:
 - TalkToData
 - Ability AI
 - ThinkChain AI
+- Phind
 
 	-->
 
@@ -2044,6 +2045,26 @@ An AI browsing assistant for everyday tasks, can operate a web browser to comple
 - [Article](https://venturebeat.com/ai/hyperwrite-unveils-breakthrough-ai-agent-that-can-surf-the-web-like-a-human/)
 
 </details>
+
+## [Phind](https://www.phind.com/)
+Personal programming and research assistant
+
+<details>
+
+### Description
+- Phind is an AI search engine and pair programmer
+
+
+### Links
+- [Web](https://www.phind.com/)
+- [Discord](https://discord.com/invite/S25yW8TebZ)
+- [X (Twitter)](https://twitter.com/phindsearch)
+- CEO's Twitter: [Michael Royzen](https://twitter.com/MichaelRoyzen)
+
+  
+</details>
+
+
 
 ## [Proficient AI](https://proficientai.com)
 
