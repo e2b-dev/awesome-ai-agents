@@ -1,13 +1,6 @@
 <!--
 TBD:
 Add to visual:
-- Julius
-- BabyFoxAGI
-- Open Interpreter
-- TalkToData
-- Ability AI
-- ThinkChain AI
-- Phind
 
 	-->
 
