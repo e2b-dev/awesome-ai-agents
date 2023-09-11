@@ -27,7 +27,7 @@ Add to visual:
   👉 Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-agents">AI Playgrounds</a> for agents, copilots, and AI apps
 </h3>
 
-<h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h4>
+<h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="/assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
