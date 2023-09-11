@@ -1,3 +1,16 @@
+<!--
+TBD:
+Add to visual:
+- Julius
+- BabyFoxAGI
+- Open Interpreter
+- TalkToData
+- Ability AI
+- ThinkChain AI
+- Phind
+
+	-->
+
 <h1 align="center">
 	🔮 Awesome AI Agents
 	<p align="center">
@@ -10,6 +23,11 @@
 	</p>
 </h1>
 
+<h4 align="center">
+  👉 Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-agents">AI Playgrounds</a> for agents, copilots, and AI apps
+</h3>
+
+<h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="/assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
@@ -18,22 +36,24 @@ We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
 - [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
 
-The list is done according to our best knowledge, although definitely not comprehensive.
+The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
-You have something to add or improve about our list? Do it via pull request.
+You have something to add or improve about our list? Do it via pull request. Please keep the agents in an alphabetical order and in correct category. Please only add companies and projects powered by autonomous AI agents.
+For adding agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-/awesome-sdks-for-ai-agents).
 
 ## Who's behind this?
-This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
+This list is made by the team behind [e2b](https://github.com/e2b-/e2b). E2b is building AWS for AI agents. We help elopers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 
 ## Join the community
-- Follow us on [Twitter](https://twitter.com/e2b_dev)
+- Follow us on [Twitter](https://twitter.com/e2b_)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 - Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
+- See also [Awesome SDKs for AI Agents](https://github.com/e2b-/awesome-sdks-for-ai-agents)
 
-Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
+Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # :open_hands: Open-source projects
 
@@ -271,7 +291,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 
 ### Description
 - Just 300 lines of code
-- This was built as a continued iteration on the original BabyAGI code in a lightweight way. Differences to BabyAGI include the following:
+- This was built as a d iteration on the original BabyAGI code in a lightweight way. Differences to BabyAGI include the following:
 	- Task Creation Agent runs once
 	- Execution Agent loops through tasks
 	- Task dependencies for pulling relevant results
@@ -298,7 +318,7 @@ BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 </details>
 
 ## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
-Newest mod of BabyAGI, at ~350 lines of code
+BabyDeerAGI is a mod of BabyAGI, at ~350 lines of code
 <details>
 
 ### Description
@@ -314,6 +334,26 @@ Newest mod of BabyAGI, at ~350 lines of code
 - [Tweet](https://twitter.com/yoheinakajima/status/1666313838868992001)
 - [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyDeerAGI.py)
 - [Replit](https://replit.com/@YoheiNakajima/BabyDeerAGI)
+- Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
+
+</details>
+
+## [BabyElfAGI](https://twitter.com/yoheinakajima/status/1678443482866933760)
+Newest mod of BabyDeerAGI, and the OG BabyAGI, at ~895 lines of code
+<details>
+
+### Description
+- Features
+	- Skills class allows for creation of new skills
+	- 'Dynamic task list' example with vector search
+	- Beta reflection agent
+	- Can read, write, and review its own code
+
+
+### Links
+- [Tweet](https://twitter.com/yoheinakajima/status/1678443482866933760)
+- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyElfAGI/main.py)
+- [Replit](https://replit.com/@YoheiNakajima/BabyElfAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
@@ -340,6 +380,36 @@ An AI agent designed to test what happens when you combine CLI and LLM, which ar
 </details>
 
 
+## [BabyFoxAGI](https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi)
+Most recent mod of BabyAGI with a new parallel UI panel
+
+
+<details>
+
+### Description
+- A mod of BabyElfAGI, in a series of mods w the naming of Baby<animal>AGI in alphabetical order
+- Self-improving task lists (FOXY method)
+   	- By storing a final reflection at the end, and pulling the most relevant reflection to guide future runs, BabyAGI slowly generates better and better tasks lists
+- Novel Chat UI w parallel tasks
+  	- You can chat w BabyAGI! It has an experimental UI where the chat is separate from the tasks/output panel, allowing you to request multiple tasks in parallel
+  	- The Chat UI can use a single skill quickly, or chain multiple skills together using a tasklist
+-  New skills
+	- 🎨 DALLE skill with prompt assist
+ 	- 🎶 Music player w Deezer
+	- 📊 Airtable search (add your own table/base ID)
+	- 🔍 Startup Analyst (example of beefy function call as a skill)
+-  It’s own README
+
+
+### Links
+- [Author's Twitter](https://twitter.com/yoheinakajima)
+- [Twitter thread describing the system](https://twitter.com/yoheinakajima/status/1697539193768116449)
+- [Replit](https://replit.com/@YoheiNakajima)
+
+</details>
+
+
+
 ## [BambooAI](https://github.com/pgalko/BambooAI)
 
 The BambooAI library is a user-friendly semi-autonomous AI agent designed to make data exploration and analysis more accessible to non-programmers.
@@ -353,7 +423,7 @@ The BambooAI library is a user-friendly semi-autonomous AI agent designed to mak
 - Builds the prompts dynamically utilising relevant context from Pinecone vector DB.
 - Offers a narrative or asks follow up questions if required.
 - For codified responses, the task is broken down into a list of steps and a pseudo-code algorithm is built.
-- Based on the algorithm, it devises the python code for dataset analysis, modeling or plotting.
+- Based on the algorithm, it ises the python code for dataset analysis, modeling or plotting.
 - Debugs the code which then executes, auto-corrects if needs to, and displays the output to user.
 - Ranks the final answers, and asks user for feedback.
 - Builds a vector DB knowledge-base, based on the rank and the user feedback.
@@ -401,6 +471,23 @@ A GPT-4 powered semantic code search engine that uses an AI agent
 
 </details>
 
+## [Cal.ai](https://cal.ai)
+
+An open-source scheduling assistant built on Cal.com.
+
+<details>
+
+### Description
+- Cal.ai can book meetings, summarize your week, and find time with others based on natural language.
+- Responds flexibly to unseen tasks eg. "move my second-last meeting to tomorrow morning".
+- Uses GPT-4 and LangChain Agent Executor under the hood.
+- [GitHub](https://github.com/calcom/cal.com/tree/main/apps/ai)
+
+### Links
+- Authors: [Cal.com core team](https://github.com/calcom/cal.com/graphs/contributors), [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
+
+</details>
+
 
 ## [Camel](https://github.com/camel-ai/camel)
 An agent architecture for “Mind” Exploration of Large Scale Language Model Society
@@ -445,7 +532,7 @@ A chemistry agent that performs tasks across synthesis, drug discovery, and mate
 
 ## [Clippy](https://github.com/ennucore/clippy/)
 
-The purpose of Clippy is to develop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
+The purpose of Clippy is to elop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
 
 <details>
 
@@ -479,6 +566,28 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [Continue](https://continue.dev/)
+An open-source autopilot for software development
+
+<details>
+
+### Decsription
+- An open-source autopilot for software development—bring the power of ChatGPT to VS Code
+- Features:
+	- Answer coding questions
+   	- Edit in natural language
+   	- Generate files from scratch
+
+
+### Links
+- [Website](https://continue.dev/)
+- [GitHub](https://github.com/continuedev/continue)
+- [Documentation](https://continue.dev/docs/intro)
+- [Twitter](https://twitter.com/continuedev)
+
+</details>
+
+
 ## [Cursor](https://www.cursor.so/)
 
 The AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.
@@ -491,6 +600,7 @@ The AI-first Code Editor. Build software faster in an editor designed for pair-p
 - [Discord](https://discord.com/invite/PJEgRywgRy)
 
 </details>
+
 
 ## [Databerry](https://www.databerry.ai/)
 A super-easy no-code platform for creating AI chatbots trained on your own data
@@ -649,6 +759,23 @@ A developer assistant able to make whole nodejs project with unlimited prompts
 
 ### Links
 - **Author:** [Amirreza Salimi](https://twitter.com/amirsalimiiii)
+
+</details>
+
+## [GeniA](https://github.com/genia-dev/GeniA)
+
+An engineering Gen AI platform engineering team member
+
+<details>
+
+### Description
+- GeniA is able to work along side you on your production enviroment, executing tasks on your behalf in your dev & cloud environments, AWS/k8s/Argo/GitHub etc.
+- Allows you to enhance the platform by integrating your own tools and APIs.
+- Slack App Bot integration.
+- Supports GPT-3.5 & GPT-4.
+
+### Links
+- Authors: [Uri Shamay](https://github.com/cmpxchg16), [Shlomi Shemesh](https://github.com/shlomsh)
 
 </details>
 
@@ -855,6 +982,31 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 </details>
 
 
+## [MetaGPT](https://github.com/geekan/MetaGPT)
+ A multi-agent framework that, given one line requirement, returns PRD, Design, Tasks, or Repo
+
+<details>
+	
+### Description
+- MetaGPT allows to assign different roles to GPTs to form a collaborative software entity for complex tasks
+- It takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
+- Internally, MetaGPT includes product managers / architects / project managers / engineers
+- It provides the entire process of a software company along with carefully orchestrated SOPs. Code = SOP(Team) is the core philosophy
+- The paper about LLM-based multi-agent work spushes forward the idea of autonomous agents collaborating with each other to do more than one can on its own.
+- MetaGPT incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration
+
+
+### Links  
+- [GitHub](https://github.com/geekan/MetaGPT)
+- [Discord](https://discord.com/invite/4WdszVjv)
+- [Twitter](https://twitter.com/DeepWisdom2019)
+- [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
+
+
+</details>
+
+
+
 
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
@@ -910,6 +1062,24 @@ An open-source AGI R&D platform that enables agents for both benchmark tasks and
 - [GitHub](https://github.com/agiresearch/OpenAGI)
 - [Paper](https://arxiv.org/abs/2304.04370)
 - [Demo](https://www.youtube.com/watch?v=7RaXPPXi0-Y)
+
+</details>
+
+
+## [Open Interpreter](https://openinterpreter.com/)
+An open-source interpreter that lets LLMs run code on your computer to complete tasks
+
+<details>
+
+### Description
+- Runs locally
+- Can for example summarize PDFs, visualize datasets, control your browser
+- Works from a ChatGPT-like interface in your terminal.
+
+### Links
+- [Web](https://openinterpreter.com/)
+- [GitHub](https://github.com/KillianLucas/open-interpreter)
+- [Author's Twitter](https://twitter.com/hellokillian)
 
 </details>
 
@@ -1046,6 +1216,7 @@ Not a single agent, but a tool that allows creating agents without coding
 - [Documentation](https://docs.superagent.sh/introduction)
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
 - Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
+- [Interview: Discussing agents' tracing, observability, and debugging with Ismail Pelaseyed, the founder of Superagent](https://e2b.dev/blog/discussing-agents-challenges-with-ismail-pelaseyed-the-founder-of-superagent)
 
 </details>
 
@@ -1094,6 +1265,7 @@ A Github assistant the helps fix small bugs and implement small features
 ### Links
 - [GitHub](https://github.com/sweepai)
 - [Discord](https://discord.com/invite/sweep-ai)
+- [Interview: Sweep founders share learnings from building an AI coding assistant](https://e2b.dev/blog/sweep-founders-share-learnings-from-building-an-ai-coding-assistant)
 - [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
 
 
@@ -1237,6 +1409,24 @@ Swift implementation of BabyAGI
 
 # :lock: Closed-source projects and companies
 
+## [Ability AI](https://ability.ai/)
+ Empowering Businesses with Secure, People-Centric Autonomous AI Agents
+
+<details>
+
+### Description
+- Empowering Businesses with Secure, People-Centric Autonomous AI Agents
+- Still in early version
+
+
+### Links
+- [Web](https://ability.ai/)
+
+</details>
+
+
+
+
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
 
@@ -1315,6 +1505,7 @@ An AI agent specifically designed for business intelligence
 
 ### Links
 - [Discord](https://discord.com/invite/a367ncqEsm/?utm_source=awesome-ai-agents)
+- [Interview: David Zhang from Aomni gives his view agents' reliability, debugging and orchestration](https://e2b.dev/blog/david-zhang-from-aomni-gives-his-view-on-ai-agents)
 
 </details>
 
@@ -1442,6 +1633,7 @@ Web based version of AutoGPT/babyAGI
 
 ### Links
 - Author: [Sully Omarr](https://twitter.com/SullyOmarr)
+- [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai)
 
 </details>
 
@@ -1492,16 +1684,21 @@ Working on autonomous coding Droids for building software end-to-end
 
 ## [Fine](https://www.fine.dev/)
 
-AI software architect that analyzes your code and helps you solve tasks
-
+Build Software with AI Agents. Leverage AI to the maximum and x10 your dev velocity.
 <details>
 
+### Description
+- Deploy, manage, and run AI agents that serve as your virtual teammates.
+- Built for teams, with organizational memory and collaboration in mind.
+- Privacy oriented, we don't store your code, everything runs locally.
+- Multiagent platform: Build your own custom agents.
 
 ### Links
 - [Twitter](https://twitter.com/thisisfinedev)
-- Author: [Dan Leshem](https://twitter.com/leshemco)
-</details>
+- [Discord](https://discord.gg/nxW8sA5yqe)
+- [YouTube](https://www.youtube.com/@thisisfinedev)
 
+</details>
 
 ## [Fine Tuner](https://fine-tuner.ai/)
 
@@ -1689,6 +1886,28 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 </details>
 
 
+## [Julius](https://julius.ai/)
+Julius AI allows data processing, analysis, and visualization
+
+<details>
+
+### Description
+- Chat-powered data analytics and AI agents, all in a notebook interface
+- Allows to answer any question about users' data with a single prompt
+- An intelligent data analyst tool that interprets, analyzes, and visualizes complex data in an intuitive, user-friendly manner
+- "Jupyter Notebooks on steroids"
+
+### Description
+- [Docs](https://julius.ai/docs/chat-start-guide)
+- [Use cases](https://julius.ai/use_cases)
+- [Twitter](https://twitter.com/JuliusAI_)
+- Team Twitter profiles: [Matt Brockman](https://twitter.com/badphilosopher), [rahul](https://twitter.com/0interestrates)
+
+
+
+</details>
+
+
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
 
@@ -1837,6 +2056,26 @@ An AI browsing assistant for everyday tasks, can operate a web browser to comple
 
 </details>
 
+## [Phind](https://www.phind.com/)
+Personal programming and research assistant
+
+<details>
+
+### Description
+- Phind is an AI search engine and pair programmer
+
+
+### Links
+- [Web](https://www.phind.com/)
+- [Discord](https://discord.com/invite/S25yW8TebZ)
+- [X (Twitter)](https://twitter.com/phindsearch)
+- CEO's Twitter: [Michael Royzen](https://twitter.com/MichaelRoyzen)
+
+  
+</details>
+
+
+
 ## [Proficient AI](https://proficientai.com)
 
 Interaction APIs and SDKs that allow developers to build, deploy and operate conversational AI agents in their apps
@@ -1932,9 +2171,51 @@ Add an AI copilot to your product's data dashboard with just a few lines of code
 - Enable your customers to extract more value from the data already on their dashboard with meaningful answers to high-level questions.
 
 
+
 ### Links
 - [Twitter](https://twitter.com/getluminal/)
 - [Linkedin](https://www.linkedin.com/company/74930600/)
+
+</details>
+
+## [TalktoData](https://talktodata.ai/)
+TalktoData AI allows advanced data discovery, cleaing, analysis, and visualization
+
+<details>
+
+### Description
+- AI Data Analyst that works with your CSV, Excel, Goolge Sheets and SQL Databases
+- AI Agent for all the data analytics needs
+- Allows users to generate beautiful visualizations, followup question and refine requirements
+- "ChatGPT for Data Analysis"
+- A Data Analyst the never sleeps and always available(A chat away)
+
+
+### Links
+- [Web](https://talktodata.ai/)
+- [Twitter](https://twitter.com/TalktoData)
+- [Linkedin](https://www.linkedin.com/company/talktodata/)
+- Team Twitter profiles: [Vinod Varma](https://twitter.com/vinodvarma24)
+</details>
+
+## [ThinkChain AI](https://www.thinkchain.ai/)
+A financial AI agent platform using your own knowledge base
+
+<details>
+
+### Description
+- ThinkChain provides a large and growing set of advanced AI agents, e.g.
+  	- Discover agent - can access search and your Knowledge base for informed answers
+  	- Chain of Thought agent - breaks questions into parts to be addressed independently
+  	- Analyst agent - creates realtime financial analysis, from DCF to LBO and everything in between
+  	- Auto Agent - can create an entire workflow from scratch
+- Currently in an early access version
+
+
+### Links
+- [Web](https://www.thinkchain.ai/)
+- Founder: [Tony Lewis](https://twitter.com/_tony_lewis)
+
 
 </details>
 
@@ -1944,8 +2225,7 @@ Add an AI copilot to your product's data dashboard with just a few lines of code
 
 ## :wave: Wanna discuss AI agents and more?
 
-- [Hit us up on discord](https://discord.gg/BRymvqUS)
-- [Pick a date for a call in our calendar](https://calendly.com/tereza-tizkova/30min)
+- [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Email us at hello@e2b.dev
 - And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
 
