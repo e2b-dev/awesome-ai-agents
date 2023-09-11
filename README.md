@@ -27,7 +27,6 @@ Add to visual:
   👉 Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-agents">AI Playgrounds</a> for agents, copilots, and AI apps
 </h3>
 
-<h5 align="center">👉 Check out <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">Awesome List of SDKs for AI Agents</a></h4>
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h4>
 
 <img src="/assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
@@ -37,7 +36,7 @@ We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
 - [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
 
-The list is done according to our best knowledge, although definitely not comprehensive.
+The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
