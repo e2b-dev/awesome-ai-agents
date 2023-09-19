@@ -887,6 +887,37 @@ Conversations with your files which selected! Manage and run your AI presets!
 
 </details>
 
+
+## [IX](https://github.com/kreneskyp/ix)
+
+IX is a platform for building, debugging, and deploying collaborative Agents and cognitive workflows.
+
+<details>
+
+### Description
+
+IX is a LangChain based agent platform that includes all the tools to build and deploy fleets of agents that
+collaborate to complete tasks. IX is both an editor and a runtime. The editor is a no-code graph style editor for
+the design of agents, chains, tools, retrieval functions, and collaborative workflows.
+
+- Intuitive graph style no-code editor.
+- Horizontally scaling agent worker fleet.
+- Multi-user, multi-agent chat interface.
+- Smart input auto-completes `@mentions` and `{file}` references.
+- Supports Chroma and other vector databases for document search.
+- Supports OpenAI API, Anthropic, PaLM, and LLama based models.
+- Component library is easily extended.
+- Powered by LangChain
+
+### Links
+
+- [Youtube](https://www.youtube.com/watch?v=hAJ8ectypas&list=PLR8AMvFecu1hyMHFzaehbfFcMcECMafVs)
+- [Discord](https://discord.gg/jtrMKxzZZQ)
+- [Author's Twitter](https://twitter.com/kreneskyp)
+
+</details>
+
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 
 Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
