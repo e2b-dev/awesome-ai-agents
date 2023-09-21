@@ -1539,6 +1539,7 @@ Airplane is a company for building internal tools, they're building their autopi
 - [Twitter](https://twitter.com/AirplaneDev/?utm_source=awesome-ai-agents)
 - [They're building an AI assistant here](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents)
 
+</details>
 
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
