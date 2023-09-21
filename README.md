@@ -1,6 +1,8 @@
 <!--
 TBD:
 Add to visual:
+- Aide by Codestory
+- GPT Pilot
 
 	-->
 
@@ -845,6 +847,24 @@ Easily migrate your codebase from one framework or language to another
 
 </details>
 
+## [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)
+An agent that codes the entire app as you oversee the code being written
+
+<details>
+
+### Description
+- Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- A research project to see how can GPT-4 be utilized to generate fully working, production-ready, apps
+- The main idea is that AI can write most of the code for an app (maybe 95%) but for the rest 5%, a developer is and will be needed until we get full AGI
+
+### Links
+- [GitHub](https://github.com/Pythagora-io/gpt-pilot)
+- [Discord](https://discord.com/invite/HaqXugmxr9)
+
+
+
+</details>
+
 
 ## [GPT Researcher](https://github.com/assafelovic/gpt-researcher)
 GPT based autonomous agent that does online comprehensive research on any given topic
@@ -1419,7 +1439,6 @@ Swift implementation of BabyAGI
 
 
 
-
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
 
@@ -1438,6 +1457,30 @@ A ML research and product lab building general intelligence by enabling humans a
 - [Linkedin](https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents)
 
 </details>
+
+
+## [Aide by Codestory](https://codestory.ai/)
+The AI-powered mod of VSCode
+
+<details>
+
+### Description
+- Still in early stage, new features coming soon
+- Now available for JS/TS
+- Can the codebase, identify the root cause, make the fix and auto-generate tests to evaluate whether the bug was resolved
+
+
+### Links
+- [Web](https://codestory.ai/)
+- [Docs](https://docs.codestory.ai/)
+- [Discord](https://discord.com/invite/DNnh6tC9VA)
+- [X ](https://twitter.com/codestoryai)
+- [Linkedin](https://www.linkedin.com/company/codestory-ai/)
+
+</details>
+
+
+
 
 
 ## [Airkit.ai](https://www.airkit.ai)
