@@ -3,6 +3,7 @@ TBD:
 Add to visual:
 - Aide by Codestory
 - GPT Pilot
+- AilaFlow
 
 	-->
 
@@ -1479,6 +1480,21 @@ The AI-powered mod of VSCode
 
 </details>
 
+</details>
+
+## [AilaFlow](https://ailaflow.com)
+
+No-code platform for building AI agents.
+
+<details>
+
+### Description
+AilaFlow is no-code platform for building AI agents. Use a template, adjust it using no-code editor to your needs. Automate your job. Today.
+
+### Links
+- [AilaFlow - AI Agents No-code Platform](https://ailaflow.com)
+
+</details>
 
 
 
@@ -1523,22 +1539,6 @@ Airplane is a company for building internal tools, they're building their autopi
 - [Twitter](https://twitter.com/AirplaneDev/?utm_source=awesome-ai-agents)
 - [They're building an AI assistant here](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents)
 
-
-</details>
-
-## [AilaFlow](https://ailaflow.com)
-
-No-code platform for building AI agents.
-
-<details>
-
-### Description
-AilaFlow is no-code platform for building AI agents. Use a template, adjust it using no-code editor to your needs. Automate your job. Today.
-
-### Links
-- [AilaFlow - AI Agents No-code Platform](https://ailaflow.com)
-
-</details>
 
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
