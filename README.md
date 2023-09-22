@@ -1486,15 +1486,18 @@ The AI-powered mod of VSCode
 
 ## [AilaFlow](https://ailaflow.com)
 
-No-code platform for building AI agents.
+No-code platform for building AI agents
 
 <details>
 
 ### Description
-AilaFlow is no-code platform for building AI agents. Use a template, adjust it using no-code editor to your needs. Automate your job. Today.
+- AilaFlow is no-code platform for building AI agents
+- Use a template, adjust it using no-code editor to your needs
+- Category: Productivity, Framework for building agents
 
 ### Links
 - [AilaFlow - AI Agents No-code Platform](https://ailaflow.com)
+- Founder's X account: [b4rtaz](https://twitter.com/b4rtaz)
 
 </details>
 
