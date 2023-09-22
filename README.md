@@ -2315,7 +2315,7 @@ A financial AI agent platform using your own knowledge base
 </details>
 
 ## [v0 by Vercel](https://v0.dev/)
-
+v0 is a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS.
 
 <details>
 
