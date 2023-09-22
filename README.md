@@ -4,6 +4,7 @@ Add to visual:
 - Aide by Codestory
 - GPT Pilot
 - AilaFlow
+- V0.dev by Vercel
 
 	-->
 
@@ -2292,6 +2293,26 @@ A financial AI agent platform using your own knowledge base
 
 
 </details>
+
+## [v0 by Vercel](https://v0.dev/)
+
+
+<details>
+
+### Description
+- Currently in waitlist stage
+- v0 generates custom components on the fly that you can copy and paste into your existing codebase
+- Built on NextJS App Router
+- AI by the Vercel `ai` SDK (http://sdk.vercel.ai) 
+
+
+### Links
+- [Web](https://v0.dev/)
+- [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
+
+
+</details>
+
 
 
 
