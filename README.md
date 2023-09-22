@@ -5,6 +5,7 @@ Add to visual:
 - GPT Pilot
 - AilaFlow
 - V0.dev by Vercel
+- GoCharlie
 
 	-->
 
@@ -1874,6 +1875,25 @@ A tool automating code generation, in beta version, created for full-stack devel
 	- Custom stack
 
 </details>
+
+## [GoCharlie](https://gocharlie.ai/)
+
+A first of it's kind multimodal content creation agent 
+<details>
+
+### Description
+- Category: General purpose, Productivity, Generating apps
+
+### Links
+- [X ](https://twitter.com/GocharlieAI)
+- [Linkedin](https://www.linkedin.com/company/gocharlieai/)
+- Founders' X accounts:
+ 	- [Kostas Hatalis](https://twitter.com/kostashatalis)
+  	- [Brennan M. Woodruff](https://twitter.com/BrennanWoodruff)
+
+</details>
+
+
 
 ## [Grit](https://www.grit.io/)
 A beta version of a tool for fixing technical gap automatically, putting code migrations and dependency upgrades on autopilot
