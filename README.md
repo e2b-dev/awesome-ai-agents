@@ -2303,7 +2303,7 @@ A financial AI agent platform using your own knowledge base
 - Currently in waitlist stage
 - v0 generates custom components on the fly that you can copy and paste into your existing codebase
 - Built on NextJS App Router
-- AI by the Vercel `ai` SDK (http://sdk.vercel.ai) 
+- AI by the Vercel `ai` SDK
 
 
 ### Links
