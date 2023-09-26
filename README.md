@@ -48,8 +48,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 - Follow us on [Twitter](https://twitter.com/e2b_)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
-- Want to discuss anything about AI agents? [Schedule a call with us](https://calendly.com/tereza-tizkova/30min)
-- See also [Awesome SDKs for AI Agents](https://github.com/e2b-/awesome-sdks-for-ai-agents)
+- See also [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents)
 
 Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
