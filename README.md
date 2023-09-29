@@ -1,11 +1,7 @@
 <!--
 TBD:
 Add to visual:
-- Aide by Codestory
-- GPT Pilot
-- AilaFlow
-- V0.dev by Vercel
-- GoCharlie
+- Currently up to date
 
 	-->
 
