@@ -23,7 +23,7 @@ Add to visual:
 
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
-<img src="/assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
+<img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
 Welcome to our list of AI agents.
 We structured the list into two parts:
@@ -1701,6 +1701,23 @@ AI-powered design tools for everything from copywriting to generating unique ico
 - Magician works right inside your favorite design tool (e.g., Figma)
 - Possible to get all the latest AI design advancements + future spells in one convenient plugin
 
+
+</details>
+
+## [Dot](https://www.getdot.ai/)
+Dot, the data bot - a virtual assistant that help with analytics
+
+<details>
+
+### Description
+- Dot allows to chat with your Data Warehouse (e.g. Snowflake, BigQuery,  RedShift, Postgres ...) or Semantic Layer (e.g. Looker, dbt, dotML).
+- Answer most business questions instantly 24/7, so data teams can focus on deep work, not on answering easy questions about dashboards
+- Category: Research, Business intelligence, Data analysis
+
+### Links
+- [Website](https://www.getdot.ai/)
+- [Linkedin](https://www.linkedin.com/company/sled-software/)
+- Founder's linkedin - [Rick Radewagen](https://www.linkedin.com/in/radewagen/)
 
 </details>
 
