@@ -1,7 +1,8 @@
 <!--
 TBD:
 Add to visual:
-- Currently up to date
+- MultiAgent Debate
+- 
 
 	-->
 
@@ -481,22 +482,26 @@ An open-source scheduling assistant built on Cal.com.
 </details>
 
 
-## [Camel](https://github.com/camel-ai/camel)
+## [CAMEL](https://github.com/camel-ai/camel)
 An agent architecture for “Mind” Exploration of Large Scale Language Model Society
 
 <details>
 
 ### Description
-1) AI user agent: give instructions to the AI assistant with the goal of completing the task.
+- CAMEL is an open-source library designed for the study of autonomous and communicative agents.
+1)AI user agent: give instructions to the AI assistant with the goal of completing the task.
 2) AI assistant agent: follow AI user’s instructions and respond with solutions to the task
+- CAMEL also has an open-source community dedicated to the study of autonomous and communicative agents
 
 ### Links
+- [Web](https://www.camel-ai.org/)
 - [Paper - CAMEL: Communicative Agents for “Mind”
 Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 - [Colab demo](https://colab.research.google.com/drive/1AzP33O8rnMW__7ocWJhVBXjKziJXPtim?usp=sharing)
 - [GitHub](https://github.com/camel-ai/camel)
 - [Hugging face datasets](https://huggingface.co/camel-ai)
 - [Slack](https://camel-kwr1314.slack.com/join/shared_invite/zt-1vy8u9lbo-ZQmhIAyWSEfSwLCl2r2eKA#/shared-invite/email)
+- [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2F1508613885-atari-embeds.googleusercontent.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECamelAIOrg&screen_name=CamelAIOrg)
 - Authors: Guohao Li∗ Hasan Abed Al Kader Hammoud* Hani Itani* Dmitrii Khizbullin, Bernard Ghanem
 
 </details>
@@ -1029,6 +1034,30 @@ A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
 - It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization
 - Capable of inner monologue and self-criticism
 </details>
+
+
+## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
+An implementation of the paper "Improving Factuality and Reasoning in Language Models through Multiagent Debate"
+
+<details>
+
+### Description
+- The paper illustrates how we may treat different instances of the same language models as a "multiagent society", where individual language model generate and critique the language generations of other instances of the language model
+- The authors find that the final answer generated after such a procedure is both more factually accurate and solves reasoning questions more accurately
+- Illustrating the quantitative difference between multiagent debate and single agent generation on different domains in reasoning and factual validity
+
+
+
+### Links
+- [GitHub](https://github.com/composable-models/llm_multiagent_debate)
+- [Project page](https://composable-models.github.io/llm_debate/)
+- [Paper](https://arxiv.org/abs/2305.14325)
+
+</details>
+
+
+
+
 
 
 ## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
