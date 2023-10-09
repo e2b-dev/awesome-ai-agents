@@ -464,6 +464,32 @@ A GPT-4 powered semantic code search engine that uses an AI agent
 
 </details>
 
+## [BondAI](https://bondai.dev/)
+A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.
+
+<details>
+
+### Description
+- Support for all GPT-N, Embeddings and Dall-E OpenAI Models
+- Support for Azure OpenAI Services
+- Easy to use SDK for integration into any application
+- Powerful **Code Interpreter** capabilities
+- Powerful data query capabilities via Postgres DB integration
+- Pre-built Docker image provides safe execution environment for code generation/execution
+- Support for telephony applications (via BlandAI)
+- Support for stock trading (via Alpaca Markets)
+- Integrates with Gmail and Google Search
+- Easy to install `pip install bondai`
+- To start the CLI just run `bondai`
+- To start the RESTful/WebSocket API just run `bondai --server`
+
+### Links
+- [BondAI Homepage/Documentation](https://bondai.dev)
+- [Github Repository](https://github.com/krohling/bondai)
+- [Docker Image](https://hub.docker.com/r/krohling/bondai)
+
+</details>
+
 ## [Cal.ai](https://cal.ai)
 
 An open-source scheduling assistant built on Cal.com.
