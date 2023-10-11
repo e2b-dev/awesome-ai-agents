@@ -6,6 +6,7 @@ Add to visual:
 - Agents (also add to SDKs)
 - Local GPT
 - Suspicion Agent
+- Wispy
 	-->
 
 <h1 align="center">
@@ -2513,6 +2514,25 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 ### Links
 - [Web](https://v0.dev/)
 - [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
+
+
+</details>
+
+## [Wispy](https://wispy.technicalmagic.ai/)
+Wispy is a web-browsing AI assistant that can summarize content, compose content, explain things or create quizzes for topics you are learning
+
+<details>
+
+### Description
+- Wispy is the ultimate digital sidekick
+- With Wispy, you can effortlessly transform web content to perfectly suit your unique needs, all without leaving the comfort of your browser
+- Chat-based AI like Llama and GPT-4 are not the only ways to incorporate AI into your life
+- With Wispy, go beyond chatbots with a browser-native AI companion that makes your browsing more delightful, productive, and streamlined!
+
+
+### Links
+- [Web](https://wispy.technicalmagic.ai/)
+- [Chrom extension](https://chrome.google.com/webstore/detail/wispy-your-personalized-a/nbljfchpacfegmmmajcneihieeglpofc)
 
 
 </details>
