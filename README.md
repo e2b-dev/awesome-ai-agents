@@ -4,7 +4,7 @@ Add to visual:
 - MultiAgent Debate (also add to SDKs)
 - IX (also add to SDKs)
 - Agents (also add to SDKs)
-- 
+- Local GPT
 
 	-->
 
@@ -700,6 +700,23 @@ A super-easy no-code platform for creating AI chatbots trained on your own data
 
 </details>
 
+<!--
+% ## [DB GPT](https://github.com/eosphoros-ai/DB-GPT)
+
+
+<details>
+
+### Description
+- Revolutionizing Database Interactions with Private LLM Technology
+- DB-GPT is an experimental open-source project that uses localized GPT large models to interact with your data and environment
+- With this solution, you can be assured that there is no risk of data leakage, and your data is 100% private and secure
+  
+### Links
+- [
+
+</details>
+
+
 ## [Deepnote AI Copilot](https://deepnote.com/blog/introducing-deepnote-ai)
 An AI code copilot that instantly suggests code and works with the whole notebook context
 <details>
@@ -717,6 +734,7 @@ An AI code copilot that instantly suggests code and works with the whole noteboo
 - [Twitter](https://twitter.com/DeepnoteHQ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 </details>
+-->
 
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 An AI that enables quick demo generation for LLM-based applications using just prompts
@@ -1011,6 +1029,28 @@ Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow
 - [Author's Twitter](https://twitter.com/felixbrockm)
 
 </details>
+
+## [Local GPT](https://github.com/PromtEngineer/localGPT)
+LocalGPT is an open-source initiative that allows you to converse with your documents without compromising your privacy
+
+
+<details>
+
+### Description
+- Chat with your documents on your local device using GPT models. No data leaves your device and 100% private
+- With everything running locally, you can be assured that no data ever leaves your computer
+- Dive into the world of secure, local document interactions with LocalGPT
+
+
+### Links
+
+- [GitHub](https://github.com/PromtEngineer/localGPT)
+- [Subreddit](https://www.reddit.com/r/LocalGPT/)
+
+</details>
+
+
+
 
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
