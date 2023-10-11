@@ -1,7 +1,9 @@
 <!--
 TBD:
 Add to visual:
-- MultiAgent Debate
+- MultiAgent Debate (also add to SDKs)
+- IX (also add to SDKs)
+- Agents (also add to SDKs)
 - 
 
 	-->
