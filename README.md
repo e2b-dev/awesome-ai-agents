@@ -5,7 +5,7 @@ Add to visual:
 - IX (also add to SDKs)
 - Agents (also add to SDKs)
 - Local GPT
-
+- Suspicion Agent
 	-->
 
 <h1 align="center">
@@ -1412,6 +1412,25 @@ An open-source autonomous AI framework to enable development and deployment auto
 - Author: [Ishaan Bhola](https://twitter.com/ishaanbhola)
 
 </details>
+
+
+## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
+Playing Imperfect Information Games with Theory of Mind Aware GPT-4
+
+<details>
+
+### Description
+- The paper delves into the applicability of GPT-4's learned knowledge for imperfect information games
+
+
+### Links
+- [GitHub](https://github.com/CR-Gjx/Suspicion-Agent)
+- [Paper](https://arxiv.org/abs/2309.17277)
+- [Project demo](https://huggingface.co/spaces/cr7-gjx/Suspicion-Agent-Demo)
+- [Game data replay](https://huggingface.co/spaces/cr7-gjx/Suspicion-Agent-Data-Visualization)
+
+</details>
+
 
 ## [Sweep](https://sweep.dev/)
 A Github assistant the helps fix small bugs and implement small features
