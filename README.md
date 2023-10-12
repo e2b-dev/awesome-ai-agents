@@ -2524,7 +2524,7 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 <details>
 
 ### Description
-- Wispy is the ultimate digital sidekick
+- Wispy is stil in Beta version
 - With Wispy, you can effortlessly transform web content to perfectly suit your unique needs, all without leaving the comfort of your browser
 - Chat-based AI like Llama and GPT-4 are not the only ways to incorporate AI into your life
 - With Wispy, go beyond chatbots with a browser-native AI companion that makes your browsing more delightful, productive, and streamlined!
@@ -2532,7 +2532,7 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 
 ### Links
 - [Web](https://wispy.technicalmagic.ai/)
-- [Chrom extension](https://chrome.google.com/webstore/detail/wispy-your-personalized-a/nbljfchpacfegmmmajcneihieeglpofc)
+- [Chrome extension](https://chrome.google.com/webstore/detail/wispy-your-personalized-a/nbljfchpacfegmmmajcneihieeglpofc)
 
 
 </details>
