@@ -20,9 +20,8 @@ Add to visual:
 		</a>
 	</p>
 </h1>
-
-<h4 align="center">
-  👉 Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-agents">AI Playgrounds</a> for agents, copilots, and AI apps
+<h3 align="center">
+  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">sandbox runtime </a> for agents, copilots, and AI apps
 </h3>
 
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
@@ -2537,12 +2536,17 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 
 </details>
 
+# Who's behind this?
 
+<img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 
+This list was made by the team behind [E2B](https://github.com/e2b-dev/e2b?ref=awesome-sdks). E2b is building a Sandbox Runtime for LLM apps and agents  - that is, a set of custom sandboxed cloud environments for AI-powered apps and agentic workflows. Get started [here](https://e2b.dev/docs?ref=awesome-sdks).
 
-<br>
+## Join the community
+- Follow us on [X ](https://twitter.com/e2b_dev)
+- [Join our Discord](https://discord.gg/U7KEcGErtQ)
 
-## :wave: Wanna discuss AI agents and more?
+Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Email us at hello@e2b.dev
@@ -2555,8 +2559,6 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 <a href="https://twitter.com/e2b_dev" target="_blank">
 	<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 </a>
-
-<br>
 
 <!-- More agents to add in the future
 
