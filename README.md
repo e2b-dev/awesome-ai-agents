@@ -2544,9 +2544,8 @@ This list was made by the team behind [E2B](https://github.com/e2b-dev/e2b?ref=a
 
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b_dev)
-- [Hit us up on discord](https://discord.gg/35NF4Y8WSE
+- [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
-)
 
 <!-- 
 <a href="https://discord.gg/U7KEcGErtQ" target="_blank">
