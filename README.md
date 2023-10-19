@@ -1,10 +1,6 @@
 <!--
 TBD:
 Add to visual:
-- MultiAgent Debate (also add to SDKs)
-- IX (also add to SDKs)
-- Agents (also add to SDKs)
-- Local GPT
 - Suspicion Agent
 - Wispy
 	-->
