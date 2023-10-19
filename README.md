@@ -2544,21 +2544,20 @@ This list was made by the team behind [E2B](https://github.com/e2b-dev/e2b?ref=a
 
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b_dev)
-- [Join our Discord](https://discord.gg/U7KEcGErtQ)
+- [Hit us up on discord](https://discord.gg/35NF4Y8WSE
+- Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
+)
 
-Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
-
-- [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
-- Email us at hello@e2b.dev
-- And be sure to join our [twitter community focused on AI agents](https://twitter.com/i/communities/1670204079619055616)
-
-
+<!-- 
 <a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 	<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 </a>
 <a href="https://twitter.com/e2b_dev" target="_blank">
 	<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 </a>
+-->
+
+
 
 <!-- More agents to add in the future
 
