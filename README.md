@@ -1584,12 +1584,12 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 - **Emergence & Autonomy**: XAgent's autonomous operations transcend biases.
 - **Safety & Operation**: Secure execution within docker environments.
 - **Expert-Knowledge Free**: Effective operation without sole expert reliance.
-- **Interface & Interaction**: Interact via a user-friendly GUI or command line, while it adapts and collaborates, even in uncertain scenarios.- **Dual-loop Mechanism**:
+- **Interface & Interaction**: Interact via a user-friendly GUI or command line, while it adapts and collaborates.
+- **Dual-loop Mechanism**:
   - **Outer-Loop**: Manages plans and task refinements.
   - **Inner-Loop**: Dispatch, ReACT-based execution, feedback.
 - **Universal Language - Function Calling**:
   - **ToolAgent & ReACT**: Optimal action series for subtasks.
-- **Tool Docker Environment**: Safe operations ensured.
 - **Tools**:
   - 📝 File Editor
   - 📘 Python Notebook
