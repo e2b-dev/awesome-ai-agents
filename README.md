@@ -48,6 +48,26 @@ Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # :open_hands: Open-source projects
 
+## [Adala](https://github.com/HumanSignal/Adala)
+Adala: Autonomous DAta (Labeling) Agent framework
+
+<details>
+
+### Description
+
+- **Reliable agents**: Built on ground truth data for consistent, trustworthy results.
+- **Controllable output**: Tailor output with flexible constraints to fit your needs.
+- **Specialized in data processing**: Agents excel in custom data labeling and processing tasks.
+- **Autonomous learning**: Agents evolve through observations and reflections, not just automation.
+- **Flexible and extensible runtime**: Adaptable framework with community-driven evolution for diverse needs.
+- **Easily customizable**: Develop agents swiftly for unique challenges, no steep learning curve.
+
+### Links
+- [Documentation](https://humansignal.github.io/Adala/) 
+- [Discord](https://discord.gg/QBtgTbXTgU)
+- [GitHub](https://github.com/HumanSignal/Adala)
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
 <details>
