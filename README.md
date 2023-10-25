@@ -1574,6 +1574,36 @@ A GPT agent framework for invoking APIs
 
 </details>
 
+## [XAgent](https://github.com/OpenBMB/XAgent)
+XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks
+
+<details>
+
+### Description
+
+- **Emergence & Autonomy**: XAgent's autonomous operations transcend biases.
+- **Safety & Operation**: Secure execution within docker environments.
+- **Expert-Knowledge Free**: Effective operation without sole expert reliance.
+- **Interface & Interaction**: Interact via a user-friendly GUI or command line, while it adapts and collaborates, even in uncertain scenarios.- **Dual-loop Mechanism**:
+  - **Outer-Loop**: Manages plans and task refinements.
+  - **Inner-Loop**: Dispatch, ReACT-based execution, feedback.
+- **Universal Language - Function Calling**:
+  - **ToolAgent & ReACT**: Optimal action series for subtasks.
+- **Tool Docker Environment**: Safe operations ensured.
+- **Tools**:
+  - 📝 File Editor
+  - 📘 Python Notebook
+  - 🌏 Web Browser
+  - 🖥️ Shell
+  - 🧩 Rapid API 
+
+### Links
+- [Twitter](https://twitter.com/XAgentTeam)
+- [GitHub Repository](https://github.com/OpenBMB/XAgent)
+- [Discord](https://discord.gg/zncs5aQkWZ)
+- [Youtube Demo](https://www.youtube.com/watch?v=QGkpd-tsFPA)
+
+</details>
 
 ## [yAgents](https://github.com/yeagerai/yeagerai-agent)
 
