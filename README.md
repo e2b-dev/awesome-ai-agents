@@ -1,13 +1,6 @@
 <!--
 TBD:
 Add to visual:
-- Adala
-- XAgent
-- OpenAgent
-- AutoGen
-- Graphlit
-- Duckie AI
-- AgentScale
 - Taxy AI
 
 - Suspicion Agent
@@ -58,7 +51,7 @@ Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 # :open_hands: Open-source projects
 
 ## [Adala](https://github.com/HumanSignal/Adala)
-Adala: Autonomous DAta (Labeling) Agent framework
+Adala: Autonomous Data (Labeling) Agent framework
 
 <details>
 
