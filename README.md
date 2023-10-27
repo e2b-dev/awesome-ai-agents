@@ -7,6 +7,7 @@ Add to visual:
 - AutoGen
 - Graphlit
 - Duckie AI
+- AgentScale
 
 - Suspicion Agent
 - Wispy
@@ -1752,6 +1753,23 @@ A ML research and product lab building general intelligence by enabling humans a
 ### Links
 - [Twitter](https://www.adept.ai/?utm_source=awesome-ai-agents)
 - [Linkedin](https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents)
+
+</details>
+
+## [AgentScale](https://agentscale.ai/)
+AgentScale is your very own personal assistant, email writer, calendar scheduler, and internet surfer
+
+<details>
+
+### Description
+- AgentScale is your very own AI personal assistant
+
+
+### Links
+- [Web](https://agentscale.ai/)
+- [X ](https://twitter.com/agentscale)
+- [LInkedin](https://www.linkedin.com/company/agentscale-ai/about/)
+- Founder's web: [Jet New](https://jetnew.io/)
 
 </details>
 
