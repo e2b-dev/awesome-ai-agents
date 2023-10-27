@@ -8,6 +8,7 @@ Add to visual:
 - Graphlit
 - Duckie AI
 - AgentScale
+- Taxy AI
 
 - Suspicion Agent
 - Wispy
@@ -1550,6 +1551,27 @@ A Github assistant the helps fix small bugs and implement small features
 
 
 </details>
+
+## [Taxy AI](https://github.com/TaxyAI/browser-extension)
+Taxy AI is a full browser automation
+
+<details>
+
+### Description
+- Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf
+- Currently it allows you to define ad-hoc instructions
+- In the future it will also support saved and scheduled workflows
+- Currently in an early stage with a waitlist
+
+
+
+### Links
+- [GitHub](https://github.com/TaxyAI/browser-extension)
+- [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform)
+
+</details>
+
+
 
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 
