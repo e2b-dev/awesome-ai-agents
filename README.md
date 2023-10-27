@@ -1,6 +1,8 @@
 <!--
 TBD:
 Add to visual:
+- Taxy AI
+
 - Suspicion Agent
 - Wispy
 	-->
@@ -47,6 +49,26 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 
 # :open_hands: Open-source projects
+
+## [Adala](https://github.com/HumanSignal/Adala)
+Adala: Autonomous Data (Labeling) Agent framework
+
+<details>
+
+### Description
+
+- **Reliable agents**: Built on ground truth data for consistent, trustworthy results.
+- **Controllable output**: Tailor output with flexible constraints to fit your needs.
+- **Specialized in data processing**: Agents excel in custom data labeling and processing tasks.
+- **Autonomous learning**: Agents evolve through observations and reflections, not just automation.
+- **Flexible and extensible runtime**: Adaptable framework with community-driven evolution for diverse needs.
+- **Easily customizable**: Develop agents swiftly for unique challenges, no steep learning curve.
+
+### Links
+- [Documentation](https://humansignal.github.io/Adala/) 
+- [Discord](https://discord.gg/QBtgTbXTgU)
+- [GitHub](https://github.com/HumanSignal/Adala)
+</details>
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
@@ -1266,6 +1288,31 @@ An experimental open-source attempt to make GPT-4 fully autonomous
 </details>
 
 
+## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
+An Open Platform for Language Agents in the Wild, ChatGPT Plus Replica for Researchers, Developers, and General Users.
+<details>
+
+### Description
+- User-centric
+	- Chat Web UI
+	- Productive Agents
+	- Online Demo
+- Fully open-sourced
+	- Full-stack
+	- Easy deployment
+- Extensible
+	- LLMs
+	- Tools
+	- Agent methods
+
+### Links
+- [GitHub](https://github.com/xlang-ai/OpenAgents)
+- [Paper](https://arxiv.org/abs/2310.10634)
+- [Demo](https://chat.xlang.ai/)
+
+</details>
+
+
 ## [OpenAGI](https://github.com/agiresearch/OpenAGI)
 An open-source AGI R&D platform that enables agents for both benchmark tasks and open-ended tasks
 
@@ -1511,6 +1558,27 @@ A Github assistant the helps fix small bugs and implement small features
 
 </details>
 
+## [Taxy AI](https://github.com/TaxyAI/browser-extension)
+Taxy AI is a full browser automation
+
+<details>
+
+### Description
+- Taxy uses GPT-4 to control your browser and perform repetitive actions on your behalf
+- Currently it allows you to define ad-hoc instructions
+- In the future it will also support saved and scheduled workflows
+- Currently in an early stage with a waitlist
+
+
+
+### Links
+- [GitHub](https://github.com/TaxyAI/browser-extension)
+- [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform)
+
+</details>
+
+
+
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 
 A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making action, and doesn't lose memory after being shutting down
@@ -1608,6 +1676,36 @@ A GPT agent framework for invoking APIs
 
 </details>
 
+## [XAgent](https://github.com/OpenBMB/XAgent)
+XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks
+
+<details>
+
+### Description
+
+- **Emergence & Autonomy**: XAgent's autonomous operations transcend biases.
+- **Safety & Operation**: Secure execution within docker environments.
+- **Expert-Knowledge Free**: Effective operation without sole expert reliance.
+- **Interface & Interaction**: Interact via a user-friendly GUI or command line, while it adapts and collaborates.
+- **Dual-loop Mechanism**:
+  - **Outer-Loop**: Manages plans and task refinements.
+  - **Inner-Loop**: Dispatch, ReACT-based execution, feedback.
+- **Universal Language - Function Calling**:
+  - **ToolAgent & ReACT**: Optimal action series for subtasks.
+- **Tools**:
+  - 📝 File Editor
+  - 📘 Python Notebook
+  - 🌏 Web Browser
+  - 🖥️ Shell
+  - 🧩 Rapid API 
+
+### Links
+- [Twitter](https://twitter.com/XAgentTeam)
+- [GitHub Repository](https://github.com/OpenBMB/XAgent)
+- [Discord](https://discord.gg/zncs5aQkWZ)
+- [Youtube Demo](https://www.youtube.com/watch?v=QGkpd-tsFPA)
+
+</details>
 
 ## [yAgents](https://github.com/yeagerai/yeagerai-agent)
 
@@ -1683,6 +1781,23 @@ A ML research and product lab building general intelligence by enabling humans a
 ### Links
 - [Twitter](https://www.adept.ai/?utm_source=awesome-ai-agents)
 - [Linkedin](https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents)
+
+</details>
+
+## [AgentScale](https://agentscale.ai/)
+AgentScale is your very own personal assistant, email writer, calendar scheduler, and internet surfer
+
+<details>
+
+### Description
+- AgentScale is your very own AI personal assistant
+
+
+### Links
+- [Web](https://agentscale.ai/)
+- [X ](https://twitter.com/agentscale)
+- [LInkedin](https://www.linkedin.com/company/agentscale-ai/about/)
+- Founder's web: [Jet New](https://jetnew.io/)
 
 </details>
 
@@ -1952,6 +2067,29 @@ Dot, the data bot - a virtual assistant that help with analytics
 
 </details>
 
+## [Duckie AI](https://duckie.ai/)
+Duckie AI is a platform that lets engineers manage a team of AI software development companions (Ducklings) that get their dev work done
+
+<details>
+
+### Description
+- Ducklings work with engineers to complete end-to-end feature development, from design to implementation
+Ducklings chat with users to define their goals, come up with engineering designs, and generate code
+- Founded: 2023
+- Location: San Francisco
+
+### Links
+- [Web](https://duckie.ai/)
+- [X ](https://twitter.com/duckie_ai)
+- [LInkedin](https://www.linkedin.com/company/duckie-ai/about/)
+- [Discord](https://discord.com/invite/JwQSRj9Wx2)
+- [YCombinator profile](https://www.ycombinator.com/companies/duckie-ai)
+
+</details>
+
+
+
+
 ## [encode](https://encode.software)
 A fully autonomous software engineer
 
@@ -2135,6 +2273,26 @@ A first of it's kind multimodal content creation agent
 - Founders' X accounts:
  	- [Kostas Hatalis](https://twitter.com/kostashatalis)
   	- [Brennan M. Woodruff](https://twitter.com/BrennanWoodruff)
+
+</details>
+
+
+## [Graphlit](https://www.graphlit.com/)
+Graphlit is an API-first closed-source developer data platform for building applications with LLMs
+
+<details>
+
+### Description
+- Built on a serverless, cloud-native platform, Graphlit simplifies complex data workflows, including data ingestion, knowledge extraction, semantic search, alerting and application integrations.
+
+### Links
+- [Web](https://www.graphlit.com/)
+- [GitHub](https://github.com/graphlit)
+- [X ](https://twitter.com/graphlit)
+- [Discord](https://discord.com/invite/WjxCHhV8Cz)
+- Founder's LInkedin: [Kirk Marple](https://www.linkedin.com/in/kirkmarple/)
+- Founder's X: [Kirk Marple](https://twitter.com/kirkmarple)
+- [Documentation](https://docs.graphlit.dev/getting-started/readme)
 
 </details>
 
