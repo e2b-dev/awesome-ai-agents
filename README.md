@@ -1252,6 +1252,31 @@ An experimental open-source attempt to make GPT-4 fully autonomous
 </details>
 
 
+## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
+An Open Platform for Language Agents in the Wild, ChatGPT Plus Replica for Researchers, Developers, and General Users.
+<details>
+
+### Description
+- User-centric
+	- Chat Web UI
+	- Productive Agents
+	- Online Demo
+- Fully open-sourced
+	- Full-stack
+	- Easy deployment
+- Extensible
+	- LLMs
+	- Tools
+	- Agent methods
+
+### Links
+- [GitHub](https://github.com/xlang-ai/OpenAgents)
+- [Paper](https://arxiv.org/abs/2310.10634)
+- [Demo](https://chat.xlang.ai/)
+
+</details>
+
+
 ## [OpenAGI](https://github.com/agiresearch/OpenAGI)
 An open-source AGI R&D platform that enables agents for both benchmark tasks and open-ended tasks
 
