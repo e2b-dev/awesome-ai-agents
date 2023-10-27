@@ -6,6 +6,7 @@ Add to visual:
 - OpenAgent
 - AutoGen
 - Graphlit
+- Duckie AI
 
 - Suspicion Agent
 - Wispy
@@ -2019,6 +2020,29 @@ Dot, the data bot - a virtual assistant that help with analytics
 - Founder's linkedin - [Rick Radewagen](https://www.linkedin.com/in/radewagen/)
 
 </details>
+
+## [Duckie AI](https://duckie.ai/)
+Duckie AI is a platform that lets engineers manage a team of AI software development companions (Ducklings) that get their dev work done
+
+<details>
+
+### Description
+- Ducklings work with engineers to complete end-to-end feature development, from design to implementation
+Ducklings chat with users to define their goals, come up with engineering designs, and generate code
+- Founded: 2023
+- Location: San Francisco
+
+### Links
+- [Web](https://duckie.ai/)
+- [X ](https://twitter.com/duckie_ai)
+- [LInkedin](https://www.linkedin.com/company/duckie-ai/about/)
+- [Discord](https://discord.com/invite/JwQSRj9Wx2)
+- [YCombinator profile](https://www.ycombinator.com/companies/duckie-ai)
+
+</details>
+
+
+
 
 ## [encode](https://encode.software)
 A fully autonomous software engineer
