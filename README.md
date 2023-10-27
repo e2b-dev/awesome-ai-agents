@@ -163,6 +163,27 @@ A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit 
 
 </details>
 
+## [AutoGen](https://github.com/microsoft/autogen)
+
+A framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+<details>
+
+### Description
+- A framework for developing LLM (Large Language Model) applications with multiple conversational agents.
+- These agents can collaborate to solve tasks and can interact seamlessly with humans.
+- It simplifies complex LLM workflows, enhancing automation and optimization.
+- It offers a range of working systems across various domains and complexities.
+- It improves LLM inference with easy performance tuning and utility features like API unification and caching.
+- It supports advanced usage patterns, including error handling, multi-config inference, and context programming.
+
+### Links
+- Paper: [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/pdf/2308.08155.pdf)
+- [Discord](https://discord.gg/pAbnFJrkgZ)
+- [Twitter thread describing the system](https://twitter.com/pyautogen)
+
+
+</details>
+
 ## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
 
 An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
