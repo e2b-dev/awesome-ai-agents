@@ -1,6 +1,12 @@
 <!--
 TBD:
 Add to visual:
+- Adala
+- XAgent
+- OpenAgent
+- AutoGen
+- Graphlit
+
 - Suspicion Agent
 - Wispy
 	-->
@@ -2197,6 +2203,26 @@ A first of it's kind multimodal content creation agent
 - Founders' X accounts:
  	- [Kostas Hatalis](https://twitter.com/kostashatalis)
   	- [Brennan M. Woodruff](https://twitter.com/BrennanWoodruff)
+
+</details>
+
+
+## [Graphlit](https://www.graphlit.com/)
+Graphlit is an API-first closed-source developer data platform for building applications with LLMs
+
+<details>
+
+### Description
+- Built on a serverless, cloud-native platform, Graphlit simplifies complex data workflows, including data ingestion, knowledge extraction, semantic search, alerting and application integrations.
+
+### Links
+- [Web](https://www.graphlit.com/)
+- [GitHub](https://github.com/graphlit)
+- [X ](https://twitter.com/graphlit)
+- [Discord](https://discord.com/invite/WjxCHhV8Cz)
+- Founder's LInkedin: [Kirk Marple](https://www.linkedin.com/in/kirkmarple/)
+- Founder's X: [Kirk Marple](https://twitter.com/kirkmarple)
+- [Documentation](https://docs.graphlit.dev/getting-started/readme)
 
 </details>
 
