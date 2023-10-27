@@ -811,6 +811,19 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
+## [dotagent](https://github.com/dot-agent/dotagent)
+
+An agent management system that facilitates the creation of robust AI applications and experimental autonomous agents through a rich suite of developer tools.
+
+<details>
+
+### Description
+- Enables the deployment of agents across multiple platforms including cloud, PCs, or mobile devices, and extends functionality through Python or plain English integrations.
+- Advances prompt engineering with a powerful prompt compiler, offering a higher degree of control over Language Models, significantly optimizing the response generation process.
+- Allows seamless export of agents into portable files for execution in any environment, along with an optional Agentbox feature for optimized computing resource management within a sandboxed environment.
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 POC AI based Compiler, for converting english based markdown specs, into functional code
 <details>
