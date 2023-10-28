@@ -70,6 +70,20 @@ Adala: Autonomous Data (Labeling) Agent framework
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [AgentForge](https://github.com/DataBassGit/AgentForge)
+A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with various LLM models.
+
+<details>
+
+### Description
+
+- Facilitates building custom agents and cognitive architectures with ease.
+- Supports multiple LLM models including OpenAI, Anthropic's Claude, and local Oobabooga, allowing flexibility in running different models for different agents based on specific requirements.
+- Provides customizable agent memory management and on-the-fly prompt editing for rapid development and testing.
+- Comes with a database-agnostic design ensuring seamless extensibility, with straightforward integration with different databases like ChromaDB for various AI projects.
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
 <details>
