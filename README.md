@@ -2347,6 +2347,18 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 </details>
 
+## [Instrukt](https://github.com/blob42/Instrukt)
+A terminal-based environment for interacting with and extending modular AI agents, promoting self-hosted AI solutions over reliance on external services.
+
+<details>
+
+### Description
+- Enables users to create and instruct modular AI agents, generate document indexes for question-answering, and attach tools to agents for enhanced functionalities.
+- Facilitates coding assistance and conversational capabilities through predefined agents, along with the option to design custom agents, all within a keyboard and mouse-friendly terminal interface.
+- Provides secure execution environments for agents through Docker containers, allowing for safe and private operations, along with an integrated developer console for debugging and introspection.
+
+</details>
+
 
 ## [Julius](https://julius.ai/)
 Julius AI allows data processing, analysis, and visualization
