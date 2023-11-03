@@ -1603,6 +1603,27 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [ToolEmu](https://toolemu.com/)
+An LLM-based emulation framework for flexibly testing and identifying the risks of LLM-based agents across various tools & scenarios
+<details>
+
+### Description
+- ToolEmu leverages advanced LLMs (like GPT-4) as an emulator to emulate tool execution and automatically instantiate scenarios for risk assessment in a virtual sandbox
+- ToolEmu enables:
+    - flexibly prototyping LLM-based agents equipped with tools without the need of actual tool implementations
+    - seamlessly testing LLM-based agents in rare and risk-critical scenarios without the need of actual sandbox setups
+    - identifying potential realistic failures of LLM-based agents
+
+
+### Links
+- [GitHub](https://github.com/ryoungj/ToolEmu)
+- [Website](https://toolemu.com/)
+- [Demo](https://demo.toolemu.com/)
+- [Paper](https://arxiv.org/abs/2309.15817)
+- [Tweet](https://twitter.com/YangjunR/status/1708880142649676056)
+
+</details>
+
 
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting
