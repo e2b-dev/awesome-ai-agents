@@ -2708,6 +2708,28 @@ TalktoData AI allows advanced data discovery, cleaing, analysis, and visualizati
 - Team Twitter profiles: [Vinod Varma](https://twitter.com/vinodvarma24)
 </details>
 
+## [Taskade](https://www.taskade.com/)
+Taskade AI lets users create, train, and run custom AI agents inside a unified workspace to build a virtual AI Workforce.
+
+<details>
+
+### Description
+- AI Agent for custom tasks, automation, and workflows
+- AI Generator for flowcharts, mind mapping, task management 
+- AI Chat Assistant and Media Q&A with projects, docs, and more
+- Custom AI Agents: Craft AI agents with custom commands, tools, and knowledge to automate tasks
+- Engage with projects and documents through a dynamic AI Chat Assistant, providing media Q&A and contextual support.
+
+
+
+### Links
+- [Web](https://taskade.com/)
+- [Twitter](https://twitter.com/taskade)
+- [Linkedin](https://www.linkedin.com/company/taskade/)
+- Team Twitter profiles: [John Xie](https://twitter.com/johnxie)
+</details>
+
+
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 A financial AI agent platform using your own knowledge base
 
