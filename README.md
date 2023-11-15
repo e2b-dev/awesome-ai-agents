@@ -153,8 +153,10 @@ A platform designed for deploying multiple LLM-based agents in various applicati
 
 ### Links
 - Paper: [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
-- [GitHub](https://github.com/OpenBMB/AgentVerse)
 - [Contact](agentverse2@gmail.com)
+- [Twitter](https://twitter.com/Agentverse71134)
+- [Discord](https://discord.gg/gDAXfjMw)
+- [Hugging Face](https://huggingface.co/spaces/AgentVerse/agentVerse)
 
 </details>
 
