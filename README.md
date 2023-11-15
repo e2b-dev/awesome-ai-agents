@@ -70,6 +70,20 @@ Adala: Autonomous Data (Labeling) Agent framework
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
+Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. 
+
+<details>
+
+### Description
+- These agents are initialized from the [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/) dataset, embodying varied social traits and preferences.
+- Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes various actions such as watching, rating, evaluating, exiting, and interviewing. 
+
+### Links
+- [Paper](https://arxiv.org/abs/2310.10108)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with various LLM models.
 
