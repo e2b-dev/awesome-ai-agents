@@ -143,6 +143,20 @@ A browser-based implementation of AutoGPT, accessible via a no-code platform
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
+A platform designed for deploying multiple LLM-based agents in various applications, focusing on task-solving and simulation frameworks.
+<details>
+
+### Description
+- Assembles multiple agents to collaboratively accomplish tasks.
+- Allows custom environments for observing or interacting with multiple agents.
+
+### Links
+- Paper: [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
+- [GitHub](https://github.com/OpenBMB/AgentVerse)
+- [Contact](agentverse2@gmail.com)
+
+</details>
 
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
