@@ -2701,6 +2701,25 @@ Questflow is a marketplace for autonomous AI workers with no-code.
 
 </details>
 
+## [ReactAgent](https://github.com/eylonmiz/react-agent)
+A React.js Autonomous LLM Agent.
+<details>
+
+### Description
+- Generate React Components from user stories
+- Compose React Components from existing components
+- Use a local design system to generate React Components
+- Use React, TailwindCSS, Typescript, Radix UI, Shadcn UI
+- Built with Atomic Design Principles
+
+### Links
+- [Documentation](https://docs.reactagent.io/)
+- [Demo](https://www.loom.com/share/658adb2869174e81a39a0a2cdcfec4eb)
+- [Discord](https://discord.gg/57JjYNKe)
+- [GitHub](https://github.com/eylonmiz/react-agent)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 
 A digital AI assistant, an AI-powered workspace integrating notes, tasks, and tools
