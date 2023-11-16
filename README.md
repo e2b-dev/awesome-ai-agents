@@ -1176,6 +1176,24 @@ Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow
 
 </details>
 
+## [LLM Agents](https://github.com/mpaepper/llm_agents)
+A minimalistic library for building agents that leverage large language models to automate tasks through a loop of commands and tool integrations.
+
+<details>
+
+### Description
+- Executing Python code in a REPL environment.
+- Conducting searches on Google and Hacker News.
+- Iterating through a cycle of Thought, Action, Observation, and New Thought based on the output of integrated tools.
+- Dynamically appending new information to the prompt for informed decision-making by the agent.
+
+### Links
+
+- [GitHub](https://github.com/mpaepper/llm_agents)
+- [Blog](https://www.paepper.com/blog/posts/intelligent-agents-guided-by-llms/)
+
+</details>
+
 ## [Local GPT](https://github.com/PromtEngineer/localGPT)
 LocalGPT is an open-source initiative that allows you to converse with your documents without compromising your privacy
 
