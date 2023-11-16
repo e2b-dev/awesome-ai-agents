@@ -1246,6 +1246,22 @@ Inspired by privateGPT, allows using your own documents as an information source
 - [YouTube - LocalGPT: OFFLINE CHAT FOR YOUR FILES [Installation & Code Walkthrough]](https://www.youtube.com/watch?v=MlyoObdIHyo&ab_channel=PromptEngineering)
 </details>
 
+## [MemGPT](https://github.com/cpacker/MemGPT)
+A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window. 
+
+<details>
+	
+### Description
+- Chat with your data - talk to your local files or SQL database
+- Create perpetual chatbots with self-editing memory
+
+### Links  
+- [Paper](https://arxiv.org/abs/2310.08560)
+- [Documentation](https://memgpt.readthedocs.io/)
+- [Discord](https://discord.gg/9GEQrxmVyE)
+- [HuggingFace](https://huggingface.co/MemGPT)
+
+</details>
 
 ## [Mentat](https://github.com/biobootloader/mentat)
 Mentat is the AI tool that assists you with any coding task, right from your command line.
