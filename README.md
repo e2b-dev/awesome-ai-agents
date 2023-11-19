@@ -1122,6 +1122,26 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 </details>
 
+## [JARVIS](https://github.com/microsoft/JARVIS)
+
+JARVIS is a system to connect LLMs with the ML community.
+
+<details>
+
+### Description
+
+
+- Task Planning: Using ChatGPT to analyze the requests of users to understand their intention, and disassemble them into possible solvable tasks.
+- Model Selection: To solve the planned tasks, ChatGPT selects expert models hosted on Hugging Face based on their descriptions.
+- Task Execution: Invokes and executes each selected model, and returns the results to ChatGPT.
+- Response Generation: Use ChatGPT to integrate the prediction of all models, and generate responses.
+
+### Links
+
+- [Paper](https://arxiv.org/abs/2303.17580)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 
 Multi-Agent framework for building LLM Applications.
