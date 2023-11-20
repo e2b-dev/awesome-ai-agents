@@ -2576,7 +2576,7 @@ Made by creator of GitHub Copilot, so far in a waitlist stage
 </details>
 
 
-## :eight_pointed_black_star: [MultiOn](https://multion.ai/)
+## [MultiOn](https://multion.ai/)
 AI personal agent, holding the record for the first AI flight booking, food order (a burger) & workplace cert
 <details>
 
@@ -2907,13 +2907,13 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
-### [Superagent](https://www.superagent.sh/)
+### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
 <details>
 
 Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
 </details>
 
-### [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/)
+### :eight_pointed_black_star: [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/)
 <details>
 
 You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
@@ -2921,7 +2921,7 @@ To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/opena
 
 </details>
 
-### [Langchain Data Analyst](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis)
+### :eight_pointed_black_star: [Langchain Data Analyst](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis)
 
 <details>
 
