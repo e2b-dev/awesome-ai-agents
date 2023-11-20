@@ -69,6 +69,34 @@ Adala: Autonomous Data (Labeling) Agent framework
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
+Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. 
+
+<details>
+
+### Description
+- These agents are initialized from the [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/) dataset, embodying varied social traits and preferences.
+- Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes various actions such as watching, rating, evaluating, exiting, and interviewing. 
+
+### Links
+- [Paper](https://arxiv.org/abs/2310.10108)
+
+</details>
+
+## [AgentForge](https://github.com/DataBassGit/AgentForge)
+A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with various LLM models.
+
+<details>
+
+### Description
+
+- Facilitates building custom agents and cognitive architectures with ease.
+- Supports multiple LLM models including OpenAI, Anthropic's Claude, and local Oobabooga, allowing flexibility in running different models for different agents based on specific requirements.
+- Provides customizable agent memory management and on-the-fly prompt editing for rapid development and testing.
+- Comes with a database-agnostic design ensuring seamless extensibility, with straightforward integration with different databases like ChromaDB for various AI projects.
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
 <details>
@@ -128,6 +156,22 @@ A browser-based implementation of AutoGPT, accessible via a no-code platform
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
+A platform designed for deploying multiple LLM-based agents in various applications, focusing on task-solving and simulation frameworks.
+<details>
+
+### Description
+- Assembles multiple agents to collaboratively accomplish tasks.
+- Allows custom environments for observing or interacting with multiple agents.
+
+### Links
+- Paper: [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
+- [Contact](agentverse2@gmail.com)
+- [Twitter](https://twitter.com/Agentverse71134)
+- [Discord](https://discord.gg/gDAXfjMw)
+- [Hugging Face](https://huggingface.co/spaces/AgentVerse/agentVerse)
+
+</details>
 
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
@@ -591,6 +635,25 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 - [Slack](https://camel-kwr1314.slack.com/join/shared_invite/zt-1vy8u9lbo-ZQmhIAyWSEfSwLCl2r2eKA#/shared-invite/email)
 - [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2F1508613885-atari-embeds.googleusercontent.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECamelAIOrg&screen_name=CamelAIOrg)
 - Authors: Guohao Li∗ Hasan Abed Al Kader Hammoud* Hani Itani* Dmitrii Khizbullin, Bernard Ghanem
+
+</details>
+
+## [ChatDev](https://github.com/OpenBMB/ChatDev)
+A set of communicative agents for software development
+
+<details>
+
+### Description
+- ChatDev is a virtual software company driven by a multitude of intelligent agents assuming different roles such as CEO, CPO, CTO, programmer, reviewer, tester, and art designer, each represented by unique icons.
+- These agents collaborate in a structured organizational environment, fulfilling the company's mission to "revolutionize the digital world through programming." They engage in functional seminars focusing on design, coding, testing, and documentation.
+- ChatDev aims to provide an accessible, modular, and extensible platform based on large language models, facilitating the study of collective intelligence in a controlled setting.
+- The framework allows for extensive customization, empowering users to tailor the software development process, define phases, and establish specific roles within the virtual company.
+- ChatDev is committed to open-source principles, encouraging contributions from the community and sharing advancements transparently.
+
+### Links
+- [Paper - ChatDev: Communicative Agents for Software Development](https://arxiv.org/abs/2307.07924)
+- [Local demo](https://github.com/OpenBMB/ChatDev/blob/main/wiki.md#local-demo)
+- [GitHub](https://github.com/OpenBMB/ChatDev)
 
 </details>
 
@@ -1058,6 +1121,26 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 </details>
 
+## [JARVIS](https://github.com/microsoft/JARVIS)
+
+JARVIS is a system to connect LLMs with the ML community.
+
+<details>
+
+### Description
+
+
+- Task Planning: Using ChatGPT to analyze the requests of users to understand their intention, and disassemble them into possible solvable tasks.
+- Model Selection: To solve the planned tasks, ChatGPT selects expert models hosted on Hugging Face based on their descriptions.
+- Task Execution: Invokes and executes each selected model, and returns the results to ChatGPT.
+- Response Generation: Use ChatGPT to integrate the prediction of all models, and generate responses.
+
+### Links
+
+- [Paper](https://arxiv.org/abs/2303.17580)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 
 Multi-Agent framework for building LLM Applications.
@@ -1109,6 +1192,24 @@ Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow
 
 - [Discord](https://discord.gg/fWU4rDYSxw)
 - [Author's Twitter](https://twitter.com/felixbrockm)
+
+</details>
+
+## [LLM Agents](https://github.com/mpaepper/llm_agents)
+A minimalistic library for building agents that leverage large language models to automate tasks through a loop of commands and tool integrations.
+
+<details>
+
+### Description
+- Executing Python code in a REPL environment.
+- Conducting searches on Google and Hacker News.
+- Iterating through a cycle of Thought, Action, Observation, and New Thought based on the output of integrated tools.
+- Dynamically appending new information to the prompt for informed decision-making by the agent.
+
+### Links
+
+- [GitHub](https://github.com/mpaepper/llm_agents)
+- [Blog](https://www.paepper.com/blog/posts/intelligent-agents-guided-by-llms/)
 
 </details>
 
@@ -1182,6 +1283,22 @@ Inspired by privateGPT, allows using your own documents as an information source
 - [YouTube - LocalGPT: OFFLINE CHAT FOR YOUR FILES [Installation & Code Walkthrough]](https://www.youtube.com/watch?v=MlyoObdIHyo&ab_channel=PromptEngineering)
 </details>
 
+## [MemGPT](https://github.com/cpacker/MemGPT)
+A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window. 
+
+<details>
+	
+### Description
+- Chat with your data - talk to your local files or SQL database
+- Create perpetual chatbots with self-editing memory
+
+### Links  
+- [Paper](https://arxiv.org/abs/2310.08560)
+- [Documentation](https://memgpt.readthedocs.io/)
+- [Discord](https://discord.gg/9GEQrxmVyE)
+- [HuggingFace](https://huggingface.co/MemGPT)
+
+</details>
 
 ## [Mentat](https://github.com/biobootloader/mentat)
 Mentat is the AI tool that assists you with any coding task, right from your command line.
@@ -2600,6 +2717,25 @@ Questflow is a marketplace for autonomous AI workers with no-code.
 - [Twitter](https://twitter.com/questflow)
 - [Telegram](https://t.me/+lAFNg26e5aA5NGNl)
 - [Discord](https://twitter.com/questflow)
+
+</details>
+
+## [ReactAgent](https://github.com/eylonmiz/react-agent)
+A React.js Autonomous LLM Agent.
+<details>
+
+### Description
+- Generate React Components from user stories
+- Compose React Components from existing components
+- Use a local design system to generate React Components
+- Use React, TailwindCSS, Typescript, Radix UI, Shadcn UI
+- Built with Atomic Design Principles
+
+### Links
+- [Documentation](https://docs.reactagent.io/)
+- [Demo](https://www.loom.com/share/658adb2869174e81a39a0a2cdcfec4eb)
+- [Discord](https://discord.gg/57JjYNKe)
+- [GitHub](https://github.com/eylonmiz/react-agent)
 
 </details>
 
