@@ -2905,16 +2905,26 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 
 </details>
 
-# :eight_pointed_black_star: AI products with E2B sandbox integration or native support
+## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
 ### [Superagent](https://www.superagent.sh/)
+<details>
+
 Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
+</details>
 
 ### [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/)
+<details>
+
 You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
 To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai#java-script). 
 
+</details>
+
 ### [Langchain Data Analyst](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis)
+
+<details>
+
 E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis) allows you to:
 - Run Python code
 - Generate charts via matplotlib
@@ -2923,6 +2933,8 @@ E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.c
 - Run shell commands
 - Upload and download files.
 See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchain-and-e2b).
+
+</details>
 
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
