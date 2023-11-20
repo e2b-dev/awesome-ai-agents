@@ -1,7 +1,6 @@
 <!--
 TBD:
 Add to visual:
-- Taxy AI
 
 - Suspicion Agent
 - Wispy
