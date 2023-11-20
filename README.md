@@ -18,7 +18,7 @@ Add to visual:
 	</p>
 </h1>
 <h3 align="center">
-  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">sandbox runtime </a> for agents, copilots, and AI apps
+  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">sandbox </a> for AI apps & agents
 </h3>
 
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
@@ -1585,7 +1585,7 @@ An open-source React.js Autonomous LLM Agent
 
 </details>
 
-## [Superagent](https://www.superagent.sh/)</details>
+## :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)</details>
 Not a single agent, but a tool that allows creating agents without coding
 <details>
 
@@ -2576,7 +2576,7 @@ Made by creator of GitHub Copilot, so far in a waitlist stage
 </details>
 
 
-## [MultiOn](https://multion.ai/)
+## :eight_pointed_black_star: [MultiOn](https://multion.ai/)
 AI personal agent, holding the record for the first AI flight booking, food order (a burger) & workplace cert
 <details>
 
@@ -2717,25 +2717,6 @@ Questflow is a marketplace for autonomous AI workers with no-code.
 - [Twitter](https://twitter.com/questflow)
 - [Telegram](https://t.me/+lAFNg26e5aA5NGNl)
 - [Discord](https://twitter.com/questflow)
-
-</details>
-
-## [ReactAgent](https://github.com/eylonmiz/react-agent)
-A React.js Autonomous LLM Agent.
-<details>
-
-### Description
-- Generate React Components from user stories
-- Compose React Components from existing components
-- Use a local design system to generate React Components
-- Use React, TailwindCSS, Typescript, Radix UI, Shadcn UI
-- Built with Atomic Design Principles
-
-### Links
-- [Documentation](https://docs.reactagent.io/)
-- [Demo](https://www.loom.com/share/658adb2869174e81a39a0a2cdcfec4eb)
-- [Discord](https://discord.gg/57JjYNKe)
-- [GitHub](https://github.com/eylonmiz/react-agent)
 
 </details>
 
@@ -2924,11 +2905,32 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 
 </details>
 
-# Who's behind this?
+# :eight_pointed_black_star: AI products with E2B sandbox integration or native support
+
+### [Superagent](https://www.superagent.sh/)
+Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
+
+### [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/)
+You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
+To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai#java-script). 
+
+### [Langchain Data Analyst](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis)
+E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis) allows you to:
+- Run Python code
+- Generate charts via matplotlib
+- Install Python packages dynamically during runtime
+- Install system packages dynamically during runtime
+- Run shell commands
+- Upload and download files.
+See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchain-and-e2b).
+
+## Want to use E2B with your AI product?
+Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
+
+We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
 
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 
-This list was made by the team behind [E2B](https://github.com/e2b-dev/e2b?ref=awesome-sdks). E2b is building a Sandbox Runtime for LLM apps and agents  - that is, a set of custom sandboxed cloud environments for AI-powered apps and agentic workflows. Get started [here](https://e2b.dev/docs?ref=awesome-sdks).
 
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b_dev)
