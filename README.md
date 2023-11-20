@@ -832,6 +832,19 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
+## [dotagent](https://github.com/dot-agent/dotagent)
+
+An agent management system that facilitates the creation of robust AI applications and experimental autonomous agents through a rich suite of developer tools.
+
+<details>
+
+### Description
+- Enables the deployment of agents across multiple platforms including cloud, PCs, or mobile devices, and extends functionality through Python or plain English integrations.
+- Advances prompt engineering with a powerful prompt compiler, offering a higher degree of control over Language Models, significantly optimizing the response generation process.
+- Allows seamless export of agents into portable files for execution in any environment, along with an optional Agentbox feature for optimized computing resource management within a sandboxed environment.
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 POC AI based Compiler, for converting english based markdown specs, into functional code
 <details>
@@ -2343,6 +2356,18 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 ### Description
 - Personal assistant for life: to keep you on top of your calendar, tasks and information
 - Currently in a beta version
+
+</details>
+
+## [Instrukt](https://github.com/blob42/Instrukt)
+A terminal-based environment for interacting with and extending modular AI agents, promoting self-hosted AI solutions over reliance on external services.
+
+<details>
+
+### Description
+- Enables users to create and instruct modular AI agents, generate document indexes for question-answering, and attach tools to agents for enhanced functionalities.
+- Facilitates coding assistance and conversational capabilities through predefined agents, along with the option to design custom agents, all within a keyboard and mouse-friendly terminal interface.
+- Provides secure execution environments for agents through Docker containers, allowing for safe and private operations, along with an integrated developer console for debugging and introspection.
 
 </details>
 
