@@ -2,6 +2,9 @@
 TBD:
 Add to visual:
 
+Add to readme list:
+Vanna AI
+
 - Suspicion Agent
 - Wispy
 	-->
@@ -133,6 +136,27 @@ A browser-based implementation of AutoGPT, accessible via a no-code platform
 </details>
 
 <!-- This is a comment that appears only in the raw text -->
+
+## [AgentPilot](agentpilot.io)
+A cross-platform desktop app to create, manage, and chat with AI agents
+
+
+<details>
+
+### Description
+
+- Integrated into Open Interpreter and MemGPT
+- Group chats feature
+
+
+
+### Links
+- [Web](agentpilot.io)
+- [GitHub](https://github.com/jbexta/AgentPilot)
+- [X ](https://twitter.com/AgentPilotAI)
+- 
+  
+</details>
 
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
@@ -2022,6 +2046,31 @@ An AI agent specifically designed for business intelligence
 
 </details>
 
+## [Artisian AI](https://github.com/Artisan-AI)
+Human-like digital workers with different purposes, e.g., sales, e-mails, and book keeping
+
+
+<details>
+
+### Description
+- YC company
+- "Creating the first human-like digital workers, called Artisans"
+- Artisans are advanced human-like digital workers trained to do specific roles, who integrate alongside human teams
+- They have unique faces, names, memories & skills, and they continuously improve once they are employed, molding to each company's needs
+- The first Artisan, Ava, automates the entire outbound sales process and can be set up with a 10-minute conversation. Ava creates TCPs, prospects with her database of over 270,000,000 contacts, crafts & sends highly bespoke email sequences, and books meetings into your calendar. And, you can manage all features & settings by talking to Ava via Slack.
+
+
+### Links
+- [GitHub](https://github.com/Artisan-AI)
+- [X ](https://twitter.com/GetArtisanAI)
+- [LinkedIn](https://www.linkedin.com/company/artisanai/)
+- [Founder's X](https://twitter.com/jasparcjack)
+- [Founder's LinkedIn](https://www.linkedin.com/in/rupertdodkins/)
+- [Article](https://tech.eu/2023/11/17/ai-startup-artisan-raises-23m-to-develop-human-like-digital-workers/)
+  
+</details>
+
+
 
 ## [BitBuilder](https://www.bitbuilder.ai/?utm_source=awesome-ai-agents)
 
@@ -2087,6 +2136,24 @@ A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 - 30% Faster Speed: The app achieves an impressive 30% increase in website generation speed, providing users with a fast and efficient website building experience.
 </details>
 
+## [Codegen](https://www.codegen.com/)
+An agent that allows automatically solve tickets, write tests and level up user's development workflow with the power of GPT-4.
+
+<details>
+
+### Description
+
+- Use-case: Coding, debugging, code migration etc.
+- Models used: GPT-4
+
+
+
+### Links
+- [Web](https://www.codegen.com/)
+- [X ](https://twitter.com/Codegen)
+- [Founder's X](https://twitter.com/mathemagic1an)
+</details>
+
 ## [Codium AI](https://www.codium.ai/)
 AI-powered interactive code integrity dev tool enabling developers to ship software faster and with fewer bugs
 
@@ -2148,6 +2215,25 @@ Web based version of AutoGPT/babyAGI
 - Author: [Sully Omarr](https://twitter.com/SullyOmarr)
 - [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai)
 
+</details>
+
+## [Cykel](https://www.cykel.ai/)
+Cykel is an AI co-pilot model that can interact with any UI, website or API in response to natural language commands
+
+
+<details>
+
+### Description
+
+- Use-case: General purpose, Personal assistant (helping with daily tasks)
+
+
+### Links
+- [Web](https://www.cykel.ai/)
+- [X ](https://twitter.com/CykelAI)
+- [LinkedIn](https://www.linkedin.com/company/cykelai)
+- [Founder's X](https://twitter.com/EwanCollinge)
+  
 </details>
 
 
@@ -2867,6 +2953,31 @@ A financial AI agent platform using your own knowledge base
 
 
 </details>
+
+
+## [Tusk](https://usetusk.ai/)
+Tusk is an AI engineer that pushes and tests code
+
+
+<details>
+
+### Description
+- Tusk is an AI engineer that helps product managers ship simple front-end changes fast, letting their software engineers focus on more important work
+- Assign a product ticket to Tusk, and let our AI write, push, and test the code for you
+- Use-cases: Coding, debugging, code migration etc.
+- Tusk is a [Y-combinator company](https://www.ycombinator.com/companies/tusk)
+
+
+### Links
+- [Web](https://usetusk.ai/)
+- [GitHub](https://github.com/apps/use-tusk)
+- [X ](https://twitter.com/usetusk)
+- [LinkedIn](https://www.linkedin.com/company/usetusk/about/)
+- [Founder's X](https://twitter.com/sohilkshirsagar)
+- [Founder's X 2](https://twitter.com/Marcel7an)
+  
+</details>
+
 
 ## [v0 by Vercel](https://v0.dev/)
 v0 is a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS.
