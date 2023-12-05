@@ -760,20 +760,6 @@ An open-source autopilot for software development
 </details>
 
 
-## [Cursor](https://www.cursor.so/)
-
-The AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.
-
-<details>
-
-### Links
-- [Website](https://www.cursor.so/)
-- [GitHub (Issue Only)](https://github.com/getcursor/cursor)
-- [Discord](https://discord.com/invite/PJEgRywgRy)
-
-</details>
-
-
 ## [Databerry](https://www.databerry.ai/)
 A super-easy no-code platform for creating AI chatbots trained on your own data
 
@@ -2214,6 +2200,19 @@ Web based version of AutoGPT/babyAGI
 ### Links
 - Author: [Sully Omarr](https://twitter.com/SullyOmarr)
 - [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai)
+
+</details>
+
+## [Cursor](https://www.cursor.so/)
+
+The AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.
+
+<details>
+
+### Links
+- [Website](https://www.cursor.so/)
+- [GitHub (Issue Only)](https://github.com/getcursor/cursor)
+- [Discord](https://discord.com/invite/PJEgRywgRy)
 
 </details>
 
