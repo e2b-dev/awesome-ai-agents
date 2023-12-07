@@ -37,18 +37,31 @@ The list is done according to our best knowledge, although definitely not compre
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
-You have something to add or improve about our list? Do it via pull request. Please keep the agents in an alphabetical order and in correct category. Please only add companies and projects powered by autonomous AI agents.
-For adding agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents)
+Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
+For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
+
+<!---
 ## Who's behind this?
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
+--->
 
+## Want to use E2B with your AI product?
+Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b_)
+
+We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
+
+<img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
+
+<!---
 ## Join the community
 - Follow us on [Twitter](https://twitter.com/e2b_)
 - [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
 - [Join our Discord](https://discord.gg/U7KEcGErtQ)
 
 Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
+--->
+
 
 # :open_hands: Open-source projects
 
