@@ -727,6 +727,26 @@ The purpose of Clippy is to elop code for or with the user. It can plan, write, 
 
 </details>
 
+
+## [codefuse-chatbot](https://github.com/codefuse-ai/codefuse-chatbot)
+An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.
+
+<details>
+
+### Description
+The aim of this project is to construct an AI intelligent assistant for the entire lifecycle of software development, covering design, coding, testing, deployment, and operations, through Retrieval Augmented Generation (RAG), Tool Learning, and sandbox environments. 
+
+- Intelligent Scheduling Core: Constructed a well-integrated scheduling core system that supports multi-mode one-click configuration, simplifying the operational process.
+- Comprehensive Code Repository Analysis: Achieved in-depth understanding at the repository level and coding and generation at the project file level, enhancing development efficiency.
+- Enhanced Document Analysis: Integrated document knowledge bases with knowledge graphs, providing deeper support for document analysis through enhanced retrieval and reasoning.
+- Industry-Specific Knowledge: Tailored a specialized knowledge base for the DevOps domain, supporting the self-service one-click construction of industry-specific knowledge bases for convenience and practicality.
+- Compatible Models for Specific Verticals: Designed small models specifically for the DevOps field, ensuring compatibility with related DevOps platforms and promoting the integration of the technological ecosystem.
+
+### Links
+- [Github Repository](https://github.com/codefuse-ai/codefuse-chatbot)
+</details>
+
+
 ## [Cody by ajhous44](https://github.com/ajhous44/cody)
 
 An AI assistant designed to let you interactively query your codebase using natural language. By utilizing vector embeddings, chunking, and OpenAI's language models, Cody can help you navigate through your code in an efficient and intuitive manner.
