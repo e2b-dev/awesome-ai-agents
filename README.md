@@ -4,6 +4,7 @@ Add to visual:
 
 Add to readme list:
 Vanna AI
+Rubric
 
 - Suspicion Agent
 - Wispy
@@ -21,7 +22,7 @@ Vanna AI
 	</p>
 </h1>
 <h3 align="center">
-  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">sandbox </a> for AI apps & agents
+  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">cloud runtime</a> for AI agents
 </h3>
 
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
