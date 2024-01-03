@@ -246,6 +246,22 @@ A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit 
 
 </details>
 
+
+## [AppAgent](https://github.com/mnotgod96/AppAgent)
+
+A novel LLM-based multimodal agent framework designed to operate smartphone applications.
+
+<details>
+
+### Description
+Our framework enables the agent to operate smartphone applications through a simplified action space, mimicking human-like interactions such as tapping and swiping. This novel approach bypasses the need for system back-end access, thereby broadening its applicability across diverse apps.
+
+### Links  
+- [Paper](https://export.arxiv.org/abs/2312.13771)
+
+</details>
+
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 
 A framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
