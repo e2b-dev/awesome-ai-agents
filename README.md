@@ -95,7 +95,7 @@ General purpose, Build your own, Multi-agent
 Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. 
 
 <details>
-![Image](https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png)
+<p><img src="https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png" alt="Image" /></p>
 
 ### Category
 General purpose, Build your own, Multi-agent
