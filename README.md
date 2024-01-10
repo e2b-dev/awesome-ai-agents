@@ -71,6 +71,8 @@ Adala: Autonomous Data (Labeling) Agent framework
 
 <details>
 
+![Image](https://github.com/HumanSignal/Adala/raw/master/docs/src/img/logo-dark-mode.png)
+
 ### Category
 General purpose, Build your own, Multi-agent
 
@@ -93,6 +95,7 @@ General purpose, Build your own, Multi-agent
 Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. 
 
 <details>
+![Image](https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png)
 
 ### Category
 General purpose, Build your own, Multi-agent
