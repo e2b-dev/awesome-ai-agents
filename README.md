@@ -113,6 +113,8 @@ A low-code framework designed for the swift creation, testing, and iteration of 
 
 <details>
 
+![Image](https://pbs.twimg.com/profile_images/1667167265060528129/l8S9vtP2_400x400.jpg)
+
 ### Category
 General purpose, Build your own, Multi-agent
 
@@ -123,11 +125,20 @@ General purpose, Build your own, Multi-agent
 - Provides customizable agent memory management and on-the-fly prompt editing for rapid development and testing.
 - Comes with a database-agnostic design ensuring seamless extensibility, with straightforward integration with different databases like ChromaDB for various AI projects.
 
+### Links
+- [GitHub](https://github.com/DataBassGit/AgentForge)
+- [Web](https://www.agentforge.net/)
+- [Discord](https://discord.com/invite/ttpXHUtCW6)
+- [X](https://twitter.com/AgentForge)
+
 </details>
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 A browser-based implementation of AutoGPT, accessible via a no-code platform
 <details>
+
+![Image](https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png)
+
 
 ### Category
 General purpose
@@ -165,11 +176,13 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
-## [AgentPilot](agentpilot.io)
+## [AgentPilot](https://github.com/jbexta/AgentPilot)
 A cross-platform desktop app to create, manage, and chat with AI agents
 
 
 <details>
+
+![Image](https://github.com/jbexta/AgentPilot/raw/master/docs/demo.png)
 
 ### Category
 General purpose
@@ -182,7 +195,6 @@ General purpose
 
 
 ### Links
-- [Web](agentpilot.io)
 - [GitHub](https://github.com/jbexta/AgentPilot)
 - [X ](https://twitter.com/AgentPilotAI)
 - 
@@ -194,6 +206,8 @@ General purpose
 **Agents** is an open-source library/framework for building autonomous language agents.
 
 <details>
+
+![Image](https://github.com/aiwaves-cn/agents/raw/master/assets/agents-logo.png)
 
 ### Category
 General purpose, Build your own, Multi-agent
@@ -218,6 +232,8 @@ General purpose, Build your own, Multi-agent
 A platform designed for deploying multiple LLM-based agents in various applications, focusing on task-solving and simulation frameworks.
 <details>
 
+![Image](https://private-user-images.githubusercontent.com/11704492/264917097-6db1c907-b7fc-42f9-946c-89853a28f386.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5Nzc0MDIsIm5iZiI6MTcwNDk3NzEwMiwicGF0aCI6Ii8xMTcwNDQ5Mi8yNjQ5MTcwOTctNmRiMWM5MDctYjdmYy00MmY5LTk0NmMtODk4NTNhMjhmMzg2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTExVDEyNDUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVkOGE4ZTcxZWIwZjVmYTBiODY3Yjg0YTkyNjlkZTYzYTY1Y2NjMGFjNWY3YmI4YzhmOWM0MGM0YTczMDUwOGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.1apHki3k1pjQIuVDxfUUKKBVlsSLuNKN1U5jmj63ga0)
+
 ### Category
 General purpose, Build your own, Multi-agent
 
@@ -236,7 +252,13 @@ General purpose, Build your own, Multi-agent
 
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
+
 <details>
+
+![Image](https://res.cloudinary.com/apideck/image/upload/w_1500,f_auto/v1681330426/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ai-legion/screenshots/Screenshot_2023-04-12_at_22.13.24_d9kdoj.png)
+
+### Category
+Multi-agent, Build-your-own
 
 
 ### Description
@@ -257,6 +279,10 @@ A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit 
 
 <details>
 
+<details>
+
+![Image](https://repository-images.githubusercontent.com/638629097/1d3d6251-f8be-4d11-bbb1-4e44b7364b74)
+
 ### Category
 Coding, GitHub
 
@@ -276,6 +302,8 @@ Coding, GitHub
 
 A framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 <details>
+
+![Image](https://github.com/microsoft/autogen/raw/main/website/static/img/autogen_agentchat.png)
 
 ### Category
 General purpose, Build your own, Multi-agent
@@ -301,6 +329,8 @@ General purpose, Build your own, Multi-agent
 An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
 
 <details>
+
+![Image](https://news.agpt.co/wp-content/uploads/2023/04/Logo_-_Auto_GPT-B-800x363.png)
 
 ### Category
 General purpose
