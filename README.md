@@ -279,7 +279,6 @@ A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit 
 
 <details>
 
-<details>
 
 ![Image](https://repository-images.githubusercontent.com/638629097/1d3d6251-f8be-4d11-bbb1-4e44b7364b74)
 
