@@ -52,7 +52,6 @@ Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://disc
 
 We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
 
-<img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 
 <!---
 ## Join the community
@@ -64,7 +63,7 @@ Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
 --->
 
 
-# :open_hands: Open-source projects
+# Open-source projects
 
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
@@ -2104,7 +2103,7 @@ General purpose
 
 
 
-# :lock: Closed-source projects and companies
+# Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
  Empowering Businesses with Secure, People-Centric Autonomous AI Agents
