@@ -372,6 +372,9 @@ Crafting a sophisticated system that autonomously generates its own code based o
 
 <details>
 
+
+![Image](https://github.com/emrgnt-cmplxty/Automata/assets/68796651/f73f37ac-6335-4066-b9bc-79f9a2652cc1)
+
 ### Category
 Coding
 
@@ -401,7 +404,10 @@ Coding
 
 ## [AutoPR](https://github.com/irgolic/AutoPR)
 AI-generated pull requests to fix issues, powered by ChatGPT
+
 <details>
+
+![Image](https://github.com/irgolic/AutoPR/raw/main/website/static/img/AutoPR_Mark_color.png)
 
 ### Category
 Coding, GitHub
@@ -423,6 +429,8 @@ Coding, GitHub
 A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3.5.
 
 <details>
+
+![Image](https://github.com/stepanogil/autonomous-hr-chatbot/raw/main/assets/sample_chat.png)
 
 ### Category
 HR, Business intelligence, Productivity
@@ -446,6 +454,8 @@ HR, Business intelligence, Productivity
 
 A simple framework for managing tasks using AI
 <details>
+
+![Image](https://user-images.githubusercontent.com/21254008/235015461-543a897f-70cc-4b63-941a-2ae3c9172b11.png)
 
 ### Category
 General purpose
@@ -475,6 +485,8 @@ A task management and functionality expansion on top of BabyAGI
 
 <details>
 
+![Image](https://yoheinakajima.com/wp-content/uploads/2023/04/image.png)
+
 ### Category
 General purpose, Productivity
 
@@ -498,6 +510,8 @@ General purpose, Productivity
 ## [BabyCatAGI](https://replit.com/@YoheiNakajima/BabyCatAGI)
 BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
 <details>
+
+![Image](https://pbs.twimg.com/media/FwBwoRracAI99iP?format=jpg&name=medium)
 
 ### Category
 General purpose
@@ -532,7 +546,10 @@ General purpose
 
 ## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
 BabyDeerAGI is a mod of BabyAGI, at ~350 lines of code
+
 <details>
+
+![Image](https://pbs.twimg.com/media/Fx_tr0yaUAYP1Q0?format=jpg&name=medium)
 
 ### Category
 General purpose
@@ -561,6 +578,8 @@ General purpose
 Newest mod of BabyDeerAGI, and the OG BabyAGI, at ~895 lines of code
 <details>
 
+![Image](https://pbs.twimg.com/media/F0sHc04aMAEVn3D?format=jpg&name=medium)
+
 ### Category
 General purpose
 
@@ -587,6 +606,8 @@ An AI agent designed to test what happens when you combine CLI and LLM, which ar
 
 <details>
 
+![Image](https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png)
+
 ### Category
 General purpose, Coding
 
@@ -610,6 +631,8 @@ Most recent mod of BabyAGI with a new parallel UI panel
 
 
 <details>
+
+![Image](https://pbs.twimg.com/media/F2Vpt4EbIAAa326?format=jpg&name=medium)
 
 ### Category
 General purpose
@@ -644,6 +667,8 @@ The BambooAI library is a user-friendly semi-autonomous AI agent designed to mak
 
 <details>
 
+![Image](https://pbs.twimg.com/card_img/1745187734602313730/f-W5kbIU?format=jpg&name=medium)
+
 ### Category
 Data analysis
 
@@ -671,6 +696,8 @@ An Autonomous AI Assistant designed to perform a wide range of practical tasks a
 
 <details>
 
+![Image](https://camo.githubusercontent.com/72231056f7393fa18ee2baa5cedf2688d1fc15478bb6131936e222e5d23ccbb6/68747470733a2f2f6572696b6c702e636f6d2f6d6173636f742e706e67)
+
 ### Category
 General purpose, Productivity
 
@@ -688,6 +715,8 @@ General purpose, Productivity
 A GPT-4 powered semantic code search engine that uses an AI agent
 
 <details>
+
+![Image](https://bloop.ai/_next/static/media/logo_white.b3bdedc0.svg)
 
 ### Category
 Coding
@@ -712,6 +741,8 @@ Coding
 A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.
 
 <details>
+
+![Image](https://bondai.dev/assets/images/bondai-logo-79126f4fe643e15086ac08d8481e8611.png)
 
 ### Category
 Coding
@@ -743,6 +774,8 @@ An open-source scheduling assistant built on Cal.com.
 
 <details>
 
+![Image](https://3620107743-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpmUOqZjfGqNkiPmqgnMv%2Fuploads%2F9Qaq1hlaTcqKfrc9k4OG%2Fimage.png?alt=media&token=1ffe8530-19ff-4aea-b020-a99cdc224ce1)
+
 ### Category
 Productivity
 
@@ -762,6 +795,8 @@ Productivity
 An agent architecture for “Mind” Exploration of Large Scale Language Model Society
 
 <details>
+
+![Image](https://lh5.googleusercontent.com/EU3Cvb6NdRg0jQVlFaeH2wyWbDcH_KbEpUtcV9cUKeM4e8n88VLI_e9A8R47sXEqykUBprfcFkXj74fK_CbKqQ=w16383)
 
 ### Category
 General purpose
@@ -789,6 +824,8 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 A set of communicative agents for software development
 
 <details>
+
+![Image](https://github.com/OpenBMB/ChatDev/raw/main/misc/logo1.png)
 
 ### Category
 Coding, Multi-agent
