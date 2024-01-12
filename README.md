@@ -796,7 +796,7 @@ An agent architecture for “Mind” Exploration of Large Scale Language Model S
 
 <details>
 
-![Image](https://lh5.googleusercontent.com/EU3Cvb6NdRg0jQVlFaeH2wyWbDcH_KbEpUtcV9cUKeM4e8n88VLI_e9A8R47sXEqykUBprfcFkXj74fK_CbKqQ=w16383)
+![Image](https://raw.githubusercontent.com/camel-ai/camel/master/misc/logo.png)
 
 ### Category
 General purpose
@@ -849,6 +849,8 @@ A chemistry agent that performs tasks across synthesis, drug discovery, and mate
 
 <details>
 
+![Image](https://github.com/ur-whitelab/chemcrow-public/raw/main/assets/chemcrow_dark_bold.png)
+
 ### Category
 Science, Chemistry
 
@@ -874,6 +876,8 @@ The purpose of Clippy is to elop code for or with the user. It can plan, write, 
 
 <details>
 
+![Image](https://lev.la/images/clippy.jpg)
+
 ### Category
 Coding
 
@@ -888,6 +892,8 @@ Coding
 An AI assistant designed to let you interactively query your codebase using natural language. By utilizing vector embeddings, chunking, and OpenAI's language models, Cody can help you navigate through your code in an efficient and intuitive manner.
 
 <details>
+
+![Image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ### Category
 Coding
@@ -904,6 +910,8 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 <details>
 
+![Image](https://sourcegraph.com/.assets/img/sourcegraph-mark.svg?v2)
+
 ### Category
 Coding
 
@@ -917,6 +925,8 @@ Coding
 An open-source autopilot for software development
 
 <details>
+
+![Image](https://continue.dev/docs/assets/images/continue-cover-logo-aa135cc83fe8a14af480d1633ed74eb5.png)
 
 ### Category
 Coding
@@ -938,10 +948,12 @@ Coding
 </details>
 
 
-## [Databerry](https://www.databerry.ai/)
+## [Databerry (Pivoted to Chaindesk)](https://www.databerry.ai/)
 A super-easy no-code platform for creating AI chatbots trained on your own data
 
 <details>
+
+![Image](https://www.chaindesk.ai/_next/image?url=%2Fapp-logo-icon.png&w=256&q=75)
 
 ### Category
 Build-your-own
@@ -986,7 +998,7 @@ Build-your-own
 -->
 
 ### Links
-- [Documentation](https://docs.databerry.ai/introduction)
+- [Documentation](https://docs.chaindesk.ai/introduction)
 - [Discord](https://discord.com/invite/FSWKj49ckX)
 - [GitHub](https://github.com/gmpetrov/databerry)
 
@@ -1030,7 +1042,10 @@ An AI code copilot that instantly suggests code and works with the whole noteboo
 
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 An AI that enables quick demo generation for LLM-based applications using just prompts
+
 <details>
+
+![Image](https://github.com/melih-unsal/DemoGPT/raw/main/assets/banner_small.png)
 
 ### Category
 Build-your-own, General purpose
@@ -1057,6 +1072,7 @@ Team of virtual developers
 
 <details>
 
+![Image](https://pbs.twimg.com/profile_images/1684472754597142529/tyM92sRA_400x400.jpg)
 ### Category
 Coding, Multi-agent
 
@@ -1073,6 +1089,8 @@ Coding, Multi-agent
 DevOpsGPT: AI-Driven Software Development Automation Solution
 
 <details>
+
+![Image](https://github.com/kuafuai/DevOpsGPT/raw/master/docs/files/intro-flow-simple.png)
 
 ### Category
 Coding
@@ -1101,6 +1119,8 @@ An agent management system that facilitates the creation of robust AI applicatio
 
 <details>
 
+![Image](https://avatars.githubusercontent.com/u/133483033?s=200&v=4)
+
 ### Category
 Build-your-own
 
@@ -1109,11 +1129,17 @@ Build-your-own
 - Advances prompt engineering with a powerful prompt compiler, offering a higher degree of control over Language Models, significantly optimizing the response generation process.
 - Allows seamless export of agents into portable files for execution in any environment, along with an optional Agentbox feature for optimized computing resource management within a sandboxed environment.
 
+### Links
+- [YouTube video](https://www.youtube.com/watch?v=uE_fykl8AVI&ab_channel=FahdMirza)
+
 </details>
 
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 POC AI based Compiler, for converting english based markdown specs, into functional code
+
 <details>
+
+![Image](https://github.com/uilicious/english-compiler/raw/main/notes/imgs/EnglishCommand-CLI-help.png)
 
 ### Category
 Coding
@@ -1132,7 +1158,10 @@ Coding
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 
 A developer assistant able to make whole nodejs project with unlimited prompts
+
 <details>
+
+![Image](https://github.com/amirrezasalimi/friday/raw/main/screenshot.png)
 
 ### Category
 Coding
@@ -1156,6 +1185,8 @@ An engineering Gen AI platform engineering team member
 
 <details>
 
+![Image](https://github.com/genia-dev/GeniA/raw/main/media/genia_title.png)
+
 ### Category
 Coding
 
@@ -1174,6 +1205,8 @@ Coding
 A project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
 
 <details>
+
+![Image](https://toolpulse.ai/wp-content/uploads/2023/11/godmode-ai.jpg)
 
 ### Category
 General purpose
@@ -1199,6 +1232,8 @@ General purpose
 An AI agent that generates an entire codebase based on a prompt
 
 <details>
+
+![Image](https://toolpulse.ai/wp-content/uploads/2023/11/godmode-ai.jpg)
 
 ### Category
 Coding
