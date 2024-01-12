@@ -1,9 +1,13 @@
 <!--
 TBD:
 Add to visual:
+Vanna AI
+MakeDraft
+Dosu
+B2 AI
+Claros AI Shopper
 
 Add to readme list:
-Vanna AI
 Rubric
 
 - Suspicion Agent
@@ -1506,6 +1510,33 @@ General purpose
 -->
 </details>
 
+## [Magick](https://www.magickml.com/)
+An AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining
+
+<details>
+
+ ![image](https://assets-global.website-files.com/6507b4af22875d0b8abf95a7/6507bbdc3085cf26d1e8041e_white-wm-tiny.png)
+
+### Category
+Coding, Personal assistant, Business intelligence, Productivity, Generating apps, Design, SDK for agents, Tool for agents, Content creation, Build-your-own
+
+	
+### Description
+- A full suite, model agnostic AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining. 
+- Magick allows to build things like BabyAGI within an hour.  You can watch the graph executing in real time, watch the thought process as it executes, and understand the flow.
+- "Visual development of autonomous agents is incoming.  We have built Magick specifically for the rapid development of cognitive architecture and scalable event-driven autonomous agents."
+
+### Links  
+- [Web](https://www.magickml.com/)
+- [GitHub](https://github.com/Oneirocom/Magick)
+- [X](https://twitter.com/magickml)
+- [Discord](https://discord.com/invite/7Xx5DmbJCe)
+- [LinkedIn](https://www.linkedin.com/company/magickml/)
+- [Founder's LinkedIn - Jesse Alton](https://www.linkedin.com/in/mrmetaverse/)
+- [Founder's LinkedIn - Michael Sharpe](https://www.linkedin.com/in/michaelpsharpe/)
+
+</details>
+
 
 ## [MemGPT](https://github.com/cpacker/MemGPT)
 A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window. 
@@ -2042,6 +2073,60 @@ General purpose
 
 </details>
 
+## [Vanna.AI](https://vanna.ai/)
+Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL in seconds
+
+<details>
+
+![image](https://vanna.ai/img/vanna.svg)
+### Category
+Coding, Debugging, Code migration, Data analysis
+
+### Description
+- AI-driven business intelligence assistant
+- Vanna helps you generate and run accurate SQL for your database using LLMs via Retrieval-Augmented Generation
+- Vanna works in two easy steps - train a RAG "model" on your data, and then ask questions which will return SQL queries that can be set up to automatically run on your database
+- The Vanna Python package and the various frontend integrations are all open-source
+- Vanna’s capabilities are tied to the training data you give it. More training data means better accuracy for large and complex datasets
+- Your database contents are never sent to the LLM. The metadata storage layer only sees schemas, documentation, and queries
+- As you use Vanna more, your model continuously improves as we augment your training data
+
+
+### Links
+- [Web](https://vanna.ai/)
+- [GitHub](https://github.com/vanna-ai/vanna)
+- [Discord](https://discord.com/invite/qUZYKHremx)
+- [LinkedIn](https://www.linkedin.com/company/vanna-ai/)
+- [Docs](https://vanna.ai/docs/)
+
+
+</details>
+
+## [Voyager](https://voyager.minedojo.org/)
+A LLM-powered embodied lifelong learning agent in Minecraft
+<details>
+
+![image](https://voyager.minedojo.org/assets/images/exploration_performance.png)
+
+### Category
+General purpose
+
+### Description
+- A LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
+- Voyager consists of three key components:
+	- 1) an automatic curriculum that maximizes exploration
+	- 2) an ever-growing skill library of executable code for storing and retrieving complex behaviors
+	- 3) a new iterative prompting mechanism that incorporates environment feedback, execution errors, and self-verification for program improvement
+- Voyager interacts with GPT-4 via blackbox queries, which bypasses the need for model parameter fine-tuning
+
+
+### Links
+- [GitHub](https://github.com/MineDojo/Voyager)
+- [Paper - Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
+- [YouTube video](https://www.youtube.com/watch?v=uTg39rNMojo)
+- [Tweet](https://twitter.com/DrJimFan/status/1662115266933972993)
+
+</details>
 
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting
@@ -2080,34 +2165,6 @@ General purpose, Multi-agent
 - A paper simulating interactions between tens of agents
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
-
-## [Voyager](https://voyager.minedojo.org/)
-A LLM-powered embodied lifelong learning agent in Minecraft
-<details>
-
-![image](https://voyager.minedojo.org/assets/images/exploration_performance.png)
-
-### Category
-General purpose
-
-### Description
-- A LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention
-- Voyager consists of three key components:
-	- 1) an automatic curriculum that maximizes exploration
-	- 2) an ever-growing skill library of executable code for storing and retrieving complex behaviors
-	- 3) a new iterative prompting mechanism that incorporates environment feedback, execution errors, and self-verification for program improvement
-- Voyager interacts with GPT-4 via blackbox queries, which bypasses the need for model parameter fine-tuning
-
-
-### Links
-- [GitHub](https://github.com/MineDojo/Voyager)
-- [Paper - Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)
-- [YouTube video](https://www.youtube.com/watch?v=uTg39rNMojo)
-- [Tweet](https://twitter.com/DrJimFan/status/1662115266933972993)
-
-</details>
-
-
 
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 A GPT agent framework for invoking APIs
@@ -2517,7 +2574,59 @@ Web design, Design, Coding, Marketing
 - Profile Customization: Users have the flexibility to customize their profiles by hiding sections, adding social media links, and sharing contact details, allowing them to showcase their unique personality and brand
 - Instant Preview: Users can instantly visualize their profile changes through a conveniently placed preview button, ensuring a quick assessment of the desired appearance
 - 30% Faster Speed: The app achieves an impressive 30% increase in website generation speed, providing users with a fast and efficient website building experience.
+
+### Links
+- [Web](https://butternut.ai/)
+
+
 </details>
+
+## [B2 AI](https://www.b2.work/)
+Autocomplete for work
+
+<details>
+
+![image](https://static.vecteezy.com/system/resources/previews/024/246/469/non_2x/advanced-ai-assistant-icon-in-illustration-vector.jpg)
+
+### Category
+General purpose, Personal assistant (helping with daily tasks), Business intelligence, Productivity, Data analysis
+
+### Description
+- B2 is an autonomous AI assistant to help you get things done
+- Share useful workflows with your team members or schedule AI-powered recurring workflows.
+- Granular data-controls so your company's data doesn't end up in the wrong hands. Fully configurable role-based access.
+
+### Links
+- [Web](https://www.b2.work/)
+- [Founder's X - Ethan](https://twitter.com/amazng_wanderer)
+
+
+</details>
+
+## [Claros AI Shopper](https://www.claros.so/)
+AI personal shopper that finds you interesting products, and learns your taste over time
+
+<details>
+
+![image](https://www.claros.so/logo-circle.png)
+
+### Category
+Personal assistant
+
+### Description
+- AI Shopping Assistants for Ecom + Everyone
+- Claros is an AI personal shopper that finds you cool and interesting products. It can also learn your taste over time to give you the best results possible
+
+
+### Links
+- [Web](https://www.claros.so/)
+- [X](https://twitter.com/so_claros)
+- [LinkedIn](https://www.linkedin.com/company/clarosai/)
+- [Founder's X - Anish](https://twitter.com/thiteanish)
+- - [Founder's X - Ammar Safdari](https://twitter.com/asapdar)
+
+</details>
+
 
 ## [Codegen](https://www.codegen.com/)
 An agent that allows automatically solve tickets, write tests and level up user's development workflow with the power of GPT-4.
@@ -2681,6 +2790,34 @@ Design, Content creation
 - Magic Rename intelligently names your layers so you can spend more time designing
 - Magician works right inside your favorite design tool (e.g., Figma)
 - Possible to get all the latest AI design advancements + future spells in one convenient plugin
+
+### Links
+- [Web](https://diagram.com/)
+
+</details>
+
+## [Dosu](https://dosu.dev/)
+AI teammate that helps maintain your github repo, helping you respond to issues, triage bugs, and build better documentation
+<details>
+
+![image](https://avatars.githubusercontent.com/u/146474245?s=200&v=4)
+
+### Category
+Coding, Productivity
+
+
+### Description
+- Dosu is an AI teammate that lives in your github repo, helping you respond to issues, triage bugs, and build better documentation.
+- Dosu responds to issues within minutes in the user's native language.
+- Dosu is a wizard when it comes to documentation, even when there is none. Not only will it remind you to update your documentation and help you write it, but Dosu can also ride shotgun as you code that next big feature, answering questions about external code as if you’re sitting next to the author.
+- Dosu keeps a watchful eye on open issues, resolving those that you might have missed and deprecating issues that no longer exist. It’ll even ask you if it’s not sure.
+
+### Links
+- [Web](https://dosu.dev/)
+- [X](https://twitter.com/dosu_ai)
+- [LinkedIn](https://www.linkedin.com/company/dosu-ai/)
+- [Founder's LinkedIn - Devin Stein](https://www.linkedin.com/in/devstein/)
+- [Founder's GitHub - Devin Stein](https://github.com/devstein)
 
 
 </details>
@@ -3174,6 +3311,33 @@ Productivity
 
 ### Links
 - Author: [Flo Crivello](https://twitter.com/Altimor)
+
+
+</details>
+
+## [Makedraft](https://makedraft.com/)
+Makedraft help developers generate and edit HTML components using text prompts. The components are styled with Tailwind CSS
+
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1719412088492445696/qoVdGYth_400x400.jpg)
+
+### Category
+Coding, Productivity, Generating apps, Design, Content creation
+
+### Description
+- Makedraft is an AI that generates frontend code based on your instructions. You can then copy the HTML to any project
+- You can generate HTML templates with text prompts or highlight the code you want changed and instruct the AI on what to change
+- Makedraft also generates Javascript, as well as Alpine.js. Vue.js is coming soon
+- Makedraft will be introducing a Showcase for people to see Showcase projects. Makedraft is currently in open beta and is free to use. A Pro plan will be available soon. Users who subscribe to the Pro plan will have have their generated projects set to private by default
+
+### Links
+- [Web](https://makedraft.com/)
+- [Docs](https://docs.makedraft.com/)
+- [X](https://twitter.com/makedraft)
+- [YouTube](https://www.youtube.com/@makedraft)
+- [Founder's X: David Ma](https://twitter.com/realdavidma)
+- [GitHub](https://github.com/makedraft)
 
 
 </details>
