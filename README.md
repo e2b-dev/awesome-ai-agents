@@ -977,68 +977,12 @@ Build-your-own
 	- Auto sync data sources (coming soon)
 	- Auto generates a ChatGPT Plugin for each datastore
 
-<!--
-### Stack
-- Next.js
-- Joy UI
-- LangchainJS
-- PostgreSQL
-- Prisma
-- Qdrant
-
-
-### Features
-- Streamline customer support, onboard new team members, and more
-- Load data from anywhere
-- No-code: User-friendly interface to manage your datastores and chat with your data
-- Secured API endpoint for querying your data
-- Auto sync data sources (coming soon)
-- Auto generates a ChatGPT Plugin for each datastore
-
--->
-
 ### Links
 - [Documentation](https://docs.chaindesk.ai/introduction)
 - [Discord](https://discord.com/invite/FSWKj49ckX)
 - [GitHub](https://github.com/gmpetrov/databerry)
 
 </details>
-
-<!--
-% ## [DB GPT](https://github.com/eosphoros-ai/DB-GPT)
-
-
-<details>
-
-### Description
-- Revolutionizing Database Interactions with Private LLM Technology
-- DB-GPT is an experimental open-source project that uses localized GPT large models to interact with your data and environment
-- With this solution, you can be assured that there is no risk of data leakage, and your data is 100% private and secure
-  
-### Links
-- [
-
-</details>
-
-
-## [Deepnote AI Copilot](https://deepnote.com/blog/introducing-deepnote-ai)
-An AI code copilot that instantly suggests code and works with the whole notebook context
-<details>
-
-## Description
-- Deepnote's AI Copilot, with its efficient and contextual code suggestions, is paving the way for a future of AI-powered data exploration in notebooks
-- AI Copilot
-- Cut back on repetition and increase efficiency for data scientists
-- Code suggestions
-- Understanding the full scope of your notebook
-- The more text and code you write as context, the more relevant code suggestions you will see
-- "We are soon introducing conversational AI features that will aid in generating, editing, debugging, and understanding both code and SQL. Beyond this, we are working on more ambitious projects designed to harness the unique attributes of notebooks as a computational medium."
-
-## Links
-- [Twitter](https://twitter.com/DeepnoteHQ?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-</details>
--->
 
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 An AI that enables quick demo generation for LLM-based applications using just prompts
@@ -1050,7 +994,7 @@ An AI that enables quick demo generation for LLM-based applications using just p
 ### Category
 Build-your-own, General purpose
 
-## Description
+### Description
 - DemoGPT leverages the power of Language Models (LLMs) to provide fast and effective demo creation for applications.
 - Automates the prototyping process, making it more efficient and saving valuable time.
 - Understands and processes the given prompts to generate relevant applications.
@@ -1058,7 +1002,7 @@ Build-your-own, General purpose
 - The roadmap for DemoGPT includes constant updates and improvements based on user feedback and real-world application, working towards refining the technology and solving the hallucination problem.
 - "We are planning to introduce features that will further enhance the application generation process, making it more user-friendly and efficient."
 
-## Links
+### Links
 - [Github](https://github.com/melih-unsal/DemoGPT)
 - [Website](https://www.demogpt.io/)
 - [Twitter](https://twitter.com/demo_gpt)
@@ -1228,7 +1172,7 @@ General purpose
 
 </details>
 
-## [GPT Engineer](https://github.com/AntonOsika/gpt-engineer)
+## [GPT Engineer](https://gptengineer.app/)
 An AI agent that generates an entire codebase based on a prompt
 
 <details>
@@ -1247,17 +1191,10 @@ Coding
 	- Editing the identity and evolving the main prompt is currently how you make the agent remember things between projects
 	- Each step in steps.py will have its communication history with GPT4 stored in the logs folder, and can be rerun with scripts/rerun_edited_message_logs.py
 
-<!--
-
-### Features
-- Made to be easy to adapt, extend, and make your agent learn how you want your code to look. It generates an entire codebase based on a prompt
-- You can specify the "identity" of the AI agent by editing the files in the identity folder
-- Editing the identity, and evolving the main prompt, is currently how you make the agent remember things between projects
-- Each step in steps.py will have its communication history with GPT4 stored in the logs folder, and can be rerun with scripts/rerun_edited_message_logs.py
-
--->
 
 ### Links
+- [Web]((https://gptengineer.app/))
+- [GitHub]((https://github.com/AntonOsika/gpt-engineer))
 - [Discord](https://discord.com/invite/8tcDQ89Ej2)
 - Author: [Anton Osika](https://twitter.com/antonosika)
 - [Twitter review by @Attack](https://twitter.com/Attack/status/1671165869064609792)
