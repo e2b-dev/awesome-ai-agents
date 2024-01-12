@@ -6,6 +6,10 @@ MakeDraft
 Dosu
 B2 AI
 Claros AI Shopper
+Input
+Stackwise
+NLSOM
+Lutra
 
 Add to readme list:
 Rubric
@@ -1518,7 +1522,7 @@ An AIDE for creating, deploying, scaling, and monetizing useful AI agents, and p
  ![image](https://assets-global.website-files.com/6507b4af22875d0b8abf95a7/6507bbdc3085cf26d1e8041e_white-wm-tiny.png)
 
 ### Category
-Coding, Personal assistant, Business intelligence, Productivity, Generating apps, Design, SDK for agents, Tool for agents, Content creation, Build-your-own
+Coding, Personal assistant, Business intelligence, SDK for agents, Content creation, Build-your-own
 
 	
 ### Description
@@ -1682,6 +1686,31 @@ General purpose
 ### Links
 - [Demo](https://www.loom.com/share/b6bec93065794eb8a47e2109697afa39)
 - Authors: [Max Rumpf](https://twitter.com/md_rumpf) and [Significant Gravitas](https://twitter.com/SigGravitas)
+
+</details>
+
+## [NLSOM](https://github.com/mczhuge/NLSOM)
+Natural Language-Based Societies of Mind - concept with societies and communities of agents
+<details>
+
+ ![image](https://github.com/mczhuge/NLSOM/raw/main/assets/nlsom.svg)
+
+### Category
+Science, Multimodal, Social, Multi-agent
+
+### Description
+- Mindstorm in Natural Language-based Societies of Mind
+- Concept, which contains societies and communities of agents
+- Agents can be either LLMs, NN-based experts, APIs and role-players. They all communicate in natural language.
+- To solve tasks, these agents use a collaborative "Mindstorm" process involving mutual interviews.
+- Additional components for NLSOM can be easily added in a modular way.
+- "What magical trick makes us intelligent? The trick is that there is no trick. The power of intelligence stems from our vast diversity, not from any single, perfect principle." — Marvin Minsky, The Society of Mind, p. 308
+
+### Links
+- [GitHub](https://github.com/mczhuge/NLSOM)
+- [Paper](https://arxiv.org/pdf/2305.17066.pdf)
+- [Author's X - Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
+- [Author's X - Mingchen Zhuge](https://twitter.com/MingchenZhuge)
 
 </details>
 
@@ -1902,8 +1931,34 @@ Coding
 - [Twitter](https://twitter.com/SmolModels)
 - [Meme](https://smol.ai/)
 
+</details>
+
+## [Stackwise](https://github.com/stackwiseai/stackwise)
+VS Code extension that writes and imports nodejs functions so that you can write code without context switching
+
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1723911660232945664/CtumfUuB_400x400.jpg)
+
+### Category
+Tool for agents, Coding
+
+### Description
+- The open source function collection
+- Explain what you want a function to do, and AI builds it.
+- Stackwise is a VS Code extension that automatically writes and imports nodejs functions so that you can write code without context switching. No more hunting for documentation to integrate with APIs or back and forth with ChatGPT. Just pure functionality within your code!
+
+### Links
+- [GitHub](https://github.com/stackwiseai/stackwise)
+- [X](https://twitter.com/stackwiseai)
+- [Founder's X - Wayne](https://twitter.com/merwanehamadi)
+- [Founder's X - Silen Naihin](https://twitter.com/silennai)
+
+
 
 </details>
+
+
 
 ## :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)</details>
 Not a single agent, but a tool that allows creating agents without coding
@@ -3213,6 +3268,29 @@ Productivity
 - Personal assistant for life: to keep you on top of your calendar, tasks and information
 - Currently in a beta version
 
+### Links
+- [Web](https://heymoon.ai/)
+
+</details>
+
+## [Input](https://useinput.com/)
+AI-powered teammate that can collaborate, manage and write code with you
+<details>
+
+![image](https://useinput.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlightLogo.196eccc1.png&w=640&q=75)
+
+### Category
+Coding, Multi-agent, GitHub
+
+### Description
+- AI assistant (or team of assistants) for coding
+- Allows to invite team members to collaborate with you and AI
+- Agents do the work, and push it to GitHub autonomously
+
+### Links
+- [Web](https://useinput.com/)
+- [X](https://twitter.com/useinputai)
+
 </details>
 
 ## [Instrukt](https://github.com/blob42/Instrukt)
@@ -3311,7 +3389,34 @@ Productivity
 
 ### Links
 - Author: [Flo Crivello](https://twitter.com/Altimor)
+- 
+</details>
 
+## [Lutra AI]()
+A platform for creating AI workflows and apps based on your prompts
+
+<details>
+
+![image](https://media.licdn.com/dms/image/D4D0BAQE_KlQYa63Cbg/company-logo_200_200/0/1701917707502/lutra_ai_logo?e=1713398400&v=beta&t=-c8RMYvjM4j06XsJVx1DUJAJ336S80bWO4CSD_IHQao)
+
+### Category
+General purpose, Business intelligence, Productivity, Content creation
+
+### Description
+- A platform for creating your personal AI workflows and apps. Lutra first converses with you to understand your goals, and then writes code to produce AI workflows.
+- These AI workflows are akin to specialized agents that help you with all kinds of tasks. Because these workflows are based in code, Lutra is able to securely and reliably execute them, ensuring that your data is always protected.
+- Get a personalized newsletter everyday with concise summaries of news tailored to your interests.
+- Have AI automatically label your incoming emails into categories you choose. Get things done!
+- Collect public information about a person and the company they work for, so that you can be ready when you meet them.
+
+
+### Links
+- [Web](https://lutra.ai/)
+- [LinkedIn](https://www.linkedin.com/company/lutra-ai/)
+- [X](https://twitter.com/Lutra_AI)
+- [Discord](https://discord.com/invite/9ZDFvRXe8V)
+- [Founder's LinkedIn - Vijay Vasudevan](https://www.linkedin.com/in/vijay-vasudevan-a5062434/)
+- [Founder's LinkedIn - Jiquan Ngiam](https://www.linkedin.com/in/jngiam/)
 
 </details>
 
