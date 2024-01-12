@@ -948,7 +948,8 @@ Coding
 </details>
 
 
-## [Databerry (Pivoted to Chaindesk)](https://www.databerry.ai/)
+## [Databerry](https://www.databerry.ai/)
+(Pivoted to Chaindesk)
 A super-easy no-code platform for creating AI chatbots trained on your own data
 
 <details>
@@ -2316,6 +2317,8 @@ No-code platform for building AI agents
 
 <details>
 
+![image](https://yt3.googleusercontent.com/TkDmYBaXRvIegqkJoujtXpIlK9X5dMAjiDldAlqSHAUaekbvbYXlOaZq1DsV8neqBUZqlWAc5w=s900-c-k-c0x00ffffff-no-rj)
+
 ### Category
 Build-your-own, Productivity
 
@@ -2331,13 +2334,12 @@ Build-your-own, Productivity
 </details>
 
 
-
-
 ## [Airkit.ai](https://www.airkit.ai)
 Airkit is a developer-first platform for building, testing, and deploying AI Agents.
 
-
 <details>
+
+![image](https://airkit.ai/_gatsby/image/4d7db4337bbde82f2bf7ffb0e5046c81/a46b36f8203bc3f33cb41b43956d7bd2/IMG_1847.avif?u=https%3A%2F%2Flive-airkit-ai.pantheonsite.io%2Fapp%2Fuploads%2F2023%2F11%2FIMG_1847.png&a=w%3D480%26h%3D174%26fm%3Davif%26q%3D100&cd=c7e6c2e0828656c0553ba410f22d3684)
 
 ### Category
 Build-your-own
@@ -2360,6 +2362,8 @@ Airplane is a company for building internal tools, they're building their autopi
 
 
 <details>
+
+![image](https://www.airplane.dev/autopilot/hero/autopilot-logo.png)
 
 ### Category
 Coding, General purpose
@@ -2387,6 +2391,8 @@ Coding, General purpose
 An AI agent specifically designed for business intelligence
 <details>
 
+![image](https://www.aomni.com/icons/aomni-logo-black.svg)
+
 ### Category
 Business intelligence
 
@@ -2408,6 +2414,8 @@ Human-like digital workers with different purposes, e.g., sales, e-mails, and bo
 
 
 <details>
+
+![image](https://pbs.twimg.com/profile_images/1723059970609225728/WxC0wUQ-_400x400.png)
 
 ### Category
 Multi-agent, Build-your-own
@@ -2433,10 +2441,11 @@ Multi-agent, Build-your-own
 
 
 ## [BitBuilder](https://www.bitbuilder.ai/?utm_source=awesome-ai-agents)
+(Pivoted to Elipsis) "Virtual intern for developers", generates code via PRs raised against your repository
 
-
-"Virtual intern for developers", generates code via PRs raised against your repository
 <details>
+
+![image](https://www.bitbuilder.ai/_next/image?url=%2Fname_dark_large.png&w=640&q=75)
 
 ### Category
 Coding, GitHub
@@ -2454,6 +2463,7 @@ Coding, GitHub
 	- BitBuilder Junior is an intern-level code generation tool that lives in your GitHub repository. It follows instructions to implement unambiguous code changes by changing multiple files, writing tests for generated code, and matching the style, framework, and libraries you're already using.
 
 ### Links
+- [Docs](https://docs.ellipsis.dev/reviews)
 - [GitHub Marketplace](https://github.com/marketplace/document-guardian)
 - [Slack](https://bitbuilder-ai.slack.com/join/shared_invite/zt-1tlrds3n4-rpmgIGM6XrB5W97005IA1Q#/shared-invite/email)
 - [Installation](https://docs.bitbuilder.ai/install)
@@ -2465,9 +2475,11 @@ Coding, GitHub
 
 ## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
 
-
 AI no-code copilot that allows users to build AI apps.
+
 <details>
+
+![image](https://api.typedream.com/v0/document/public/9727d7a5-4819-4564-beac-0284be31fddc/2aOWIGcm82x5hyT6p1gN9X7cn62_broadn_logo_new.png)
 
 ### Category
 Coding
@@ -2493,6 +2505,8 @@ A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 
 <details>
 
+![image](https://butternut.ai/_next/image?url=%2Fimages%2Flogo%2Flogo-text.png&w=384&q=75)
+
 ### Category
 Web design, Design, Coding, Marketing
 
@@ -2509,6 +2523,8 @@ Web design, Design, Coding, Marketing
 An agent that allows automatically solve tickets, write tests and level up user's development workflow with the power of GPT-4.
 
 <details>
+
+![image](https://butternut.ai/_next/image?url=%2Fimages%2Flogo%2Flogo-text.png&w=384&q=75)
 
 ### Category
 Coding
