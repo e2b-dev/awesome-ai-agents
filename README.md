@@ -2524,7 +2524,7 @@ An agent that allows automatically solve tickets, write tests and level up user'
 
 <details>
 
-![image](https://butternut.ai/_next/image?url=%2Fimages%2Flogo%2Flogo-text.png&w=384&q=75)
+![image](https://assets-global.website-files.com/652ef464dd4ef344367c4fd1/652efb93dcbbba956ee773f2_Codegen%20-%20Logo%20-%20Primary%20-%20Dark%20Theme-p-500.png)
 
 ### Category
 Coding
@@ -2546,6 +2546,8 @@ Coding
 AI-powered interactive code integrity dev tool enabling developers to ship software faster and with fewer bugs
 
 <details>
+
+![image](https://www.codium.ai/wp-content/uploads/2023/01/codium-logo.svg)
 
 ### Category
 Coding
@@ -2579,6 +2581,8 @@ Career Copilot and AI Agent for Software Developers
 
 <details>
 
+![image](https://commit.dev/wp-content/uploads/2021/05/commit-logo.svg)
+
 ### Category
 Coding
 
@@ -2601,6 +2605,8 @@ Web based version of AutoGPT/babyAGI
 
 <details>
 
+![image](https://pbs.twimg.com/profile_banners/1646414136811855873/1704327520/1500x500)
+
 ### Category
 General purpose, Research
 
@@ -2620,6 +2626,8 @@ The AI-first Code Editor. Build software faster in an editor designed for pair-p
 
 <details>
 
+![image](https://cursor.sh/brand/logo.svg)
+
 ### Category
 Coding
 
@@ -2635,6 +2643,8 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
 
 
 <details>
+
+![image](https://pbs.twimg.com/profile_images/1704063452271058944/sZEVZIqG_400x400.png)
 
 ### Category
 General purpose, Productivity
@@ -2660,6 +2670,8 @@ AI-powered design tools for everything from copywriting to generating unique ico
 
 <details>
 
+![image](https://uploads-ssl.webflow.com/6408bea3de5aef58b7e197d4/6408c50680c7dae0a89901a1_logo.svg)
+
 ### Category
 Design, Content creation
 
@@ -2677,6 +2689,8 @@ Design, Content creation
 Dot, the data bot - a virtual assistant that help with analytics
 
 <details>
+
+![image](https://assets-global.website-files.com/644a347ea803e322d9c0feb8/644a36f6d9f2d08386070b0d_fox_avatar_7.jpg)
 
 ### Category
 Data analysis, Business intelligence
@@ -2698,6 +2712,7 @@ Duckie AI is a platform that lets engineers manage a team of AI software develop
 
 <details>
 
+![image](https://duckie.ai/images/duckie_logo.png)
 ### Category
 Coding, Multi-agent
 
@@ -2724,6 +2739,8 @@ A fully autonomous software engineer
 
 <details>
 
+![image](https://encode.software/_next/image?url=%2Fslack2.png&w=1920&q=75)
+
 ### Category
 Coding
 
@@ -2738,6 +2755,8 @@ Coding
 Working on autonomous coding Droids for building software end-to-end
 
 <details>
+
+![image](https://assets-global.website-files.com/644b0c1743a3f6abb4f7f149/659c69f2d6e5ba953d5aed58_t%20(1)-p-500.png)
 
 ### Category
 Coding
@@ -2754,9 +2773,11 @@ Coding
 
 
 ## [Fine](https://www.fine.dev/)
-
 Build Software with AI Agents. Leverage AI to the maximum and x10 your dev velocity.
+
 <details>
+
+![image](https://assets-global.website-files.com/6290be8d112ee934eeb6aaf2/64e2150d1d1c34380ec59254_logo%20white%20with%20name.png)
 
 ### Category
 Coding, Multi-agent, Build-your-own
@@ -2775,10 +2796,11 @@ Coding, Multi-agent, Build-your-own
 </details>
 
 ## [Fine Tuner](https://fine-tuner.ai/)
-
-Platform for no-code building of AI agents
+(Pivoted to Synthflow) Platform for no-code building of AI agents
 
 <details>
+
+![image](https://1a3c84454236f952546f01b263468144.cdn.bubble.io/f1704473650779x346108115281154240/gray%20logo.svg)
 
 ### Category
 Build-your-own, General purpose
@@ -2806,6 +2828,8 @@ A platform for creating LLM-powered apps like AI agents
 
 <details>
 
+![image](https://assets-global.website-files.com/64c813842e0c08ffc06a2c6c/64ca2872f2bbb3bb8459b6b0_Main.svg)
+
 ### Category
 Build-your-own
 
@@ -2828,6 +2852,8 @@ Build-your-own
 An AI executive assistant that automates communication busywork.
 
 <details>
+
+![image](https://pbs.twimg.com/profile_images/1670794260579270658/sLUFAGGs_400x400.png)
 
 ### Category
 Productivity
@@ -2852,6 +2878,8 @@ AI-powered software developer
 
 <details>
 
+![image](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/439603i2263F871BE5D381D/image-size/original?v=v2&px=-1)
+
 ### Category
 Coding, GitHub
 
@@ -2872,7 +2900,10 @@ Coding, GitHub
 
 ## [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
  A suite of AI capabilities for every step of the software development lifecycle
+
 <details>
+
+![image](https://about.gitlab.com/nuxt-images/solutions/ai/duo-logo.svg)
 
 ### Category
 Coding
@@ -2893,9 +2924,11 @@ Coding
 </details>
 
 ## [GitWit](https://www.gitwit.dev/)
-
 A tool automating code generation, in beta version, created for full-stack developers
+
 <details>
+
+![image](https://framerusercontent.com/images/SmLDF79Mns070VHglJVQyuQ1A.png?scale-down-to=512)
 
 ### Category
 Coding
@@ -2920,6 +2953,8 @@ Coding
 A first of it's kind multimodal content creation agent 
 <details>
 
+![image](https://gocharlie.ai/wp-content/uploads/2023/08/gocharlie_logo_ai_2x-230x49@2x.png)
+
 ### Category
 Content creation, General purpose
 
@@ -2939,6 +2974,8 @@ Content creation, General purpose
 Graphlit is an API-first closed-source developer data platform for building applications with LLMs
 
 <details>
+
+![image](https://pbs.twimg.com/profile_banners/1651090820773335040/1687935300/1500x500)
 
 ### Category
 Coding
@@ -2964,6 +3001,8 @@ A beta version of a tool for fixing technical gap automatically, putting code mi
 
 <details>
 
+![image](https://framerusercontent.com/images/kBmTJBFuy8F87jwrhcMkN9SRI.png?scale-down-to=512)
+
 ### Category
 Coding
 
@@ -2981,6 +3020,8 @@ Coding
 Your AI Coach and and AI Copilot for course creators, community builders, and coaches. Built into an all-in-one course creation and community software.
 
 <details>
+
+![image](https://yt3.googleusercontent.com/ytc/AIf8zZRVnjibds6hCRgPhxIuFs2UA7E5wIr9a6Iq69-_sw=s900-c-k-c0x00ffffff-no-rj)
 
 ### Category
 Productivity
@@ -3004,6 +3045,8 @@ Hex AI-powered tools for humans doing amazing things with data
 
 <details>
 
+![image](https://images.ctfassets.net/mmgv7yhaaeds/4UFip8DgC0pJEOXeNppEQS/d97b0b1916c9b298f2480c1c28460015/social-sharing-magic.png)
+
 ### Category
 Coding, Data analysis
 
@@ -3024,6 +3067,8 @@ Personal assistant for life: to keep you on top of your calendar, tasks and info
 
 <details>
 
+![image](https://heymoon.ai/assets/images/image04.png?v=a3b31dce)
+
 ### Category
 Productivity
 
@@ -3037,6 +3082,8 @@ Productivity
 A terminal-based environment for interacting with and extending modular AI agents, promoting self-hosted AI solutions over reliance on external services.
 
 <details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ### Category
 Coding, Build-your-own
@@ -3053,6 +3100,8 @@ Coding, Build-your-own
 Julius AI allows data processing, analysis, and visualization
 
 <details>
+
+![image](https://pbs.twimg.com/profile_images/1704414144798261248/PN4b_sxH_400x400.jpg)
 
 ### Category
 Data analysis
@@ -3078,6 +3127,8 @@ Data analysis
 Web Scraping on Autopilot with AI
 
 <details>
+
+![image](https://www.kadoa.com/images/kadoa.svg)
 
 ### Category
 Coding, Data analysis
@@ -3105,6 +3156,8 @@ An AI assistant that can help with daily tasks, e.g., calendar management, email
 
 <details>
 
+![image](https://assets-global.website-files.com/63e15df811f9df22b231e58f/65473d5a31149f709f0d6c39_Group%201266.svg)
+
 ### Category
 Productivity
 
@@ -3122,22 +3175,14 @@ Productivity
 ### Links
 - Author: [Flo Crivello](https://twitter.com/Altimor)
 
-<!--
-### Features
-- Lindy triages your email
-- She learns from your inbox and automatically surfaces the highest-priority emails for you
-- Automatic conflict handling
-- Daily briefing
-- Contract management
-- Meeting note taking
-- Summarization
--->
 
 </details>
 
 ## [Minion AI](https://minion.ai/)
 Made by creator of GitHub Copilot, so far in a waitlist stage
 <details>
+
+![image](https://minion.ai/img/minion-1.png)
 
 ### Category
 General purpose
@@ -3151,6 +3196,8 @@ General purpose
 ## [MultiOn](https://multion.ai/)
 AI personal agent, holding the record for the first AI flight booking, food order (a burger) & workplace cert
 <details>
+
+![image](https://pbs.twimg.com/profile_images/1735699647744864256/jrKJWM78_400x400.jpg)
 
 ### Category
 Productivity, General purpose
@@ -3182,6 +3229,8 @@ AI Accelerated Software Development
 
 <details>
 
+![image](https://mutable.ai/Reverse-noMargin1000w-p-500.acf1588e.png)
+
 ### Category
 Coding
 
@@ -3204,6 +3253,8 @@ Coding
 Still in an early stage, with waitlist for early access
 <details>
 
+![image](https://www.naut.ai/_next/static/media/naut-logo-small.87a7df76.svg)
+
 ### Category
 Build-your-own, Multi-agent
 
@@ -3220,6 +3271,9 @@ Build-your-own, Multi-agent
 An AI browsing assistant for everyday tasks, can operate a web browser to complete nearly any task
 
 <details>
+
+
+![image](https://assets-global.website-files.com/63fcd79d410b22ddf397e1b8/654272554402410a71c84ab9_6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp)
 
 ### Category
 Productivity
@@ -3248,12 +3302,13 @@ Personal programming and research assistant
 
 <details>
 
+![image](https://www.phind.com/images/phind_v2.svg)
+
 ### Category
 Coding, research
 
 ### Description
 - Phind is an AI search engine and pair programmer
-
 
 ### Links
 - [Web](https://www.phind.com/)
@@ -3261,16 +3316,14 @@ Coding, research
 - [X (Twitter)](https://twitter.com/phindsearch)
 - CEO's Twitter: [Michael Royzen](https://twitter.com/MichaelRoyzen)
 
-  
-
 </details>
-
-
 
 ## [Proficient AI](https://proficientai.com)
 
 Interaction APIs and SDKs that allow developers to build, deploy and operate conversational AI agents in their apps
 <details>
+
+![image](https://proficientai.com/_next/image?url=%2Flogo-full.png&w=2048&q=75)
 
 ### Category
 Build-your-own
@@ -3293,6 +3346,8 @@ Build-your-own
 Questflow is a marketplace for autonomous AI workers with no-code.
 
 <details>
+
+![image](https://www.aitoolsclub.com/content/images/2023/07/Screenshot-2023-07-26-184451.png)
 
 ### Category
 Build-your-own
@@ -3318,6 +3373,8 @@ Build-your-own
 A digital AI assistant, an AI-powered workspace integrating notes, tasks, and tools
 <details>
 
+![image](https://uploads-ssl.webflow.com/600abb9dfd0530004ee876c0/62bd6a08f11f1f89bb1d1170_saga-logo.svg)
+
 ### Category
 Productivity, Content creation
 
@@ -3339,7 +3396,10 @@ Productivity, Content creation
 
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for every codebase
+
 <details>
+
+![image](https://assets-global.website-files.com/63717dfd25366f06c3ed64cc/645dcdc2d70f00fded6f6c0b_second-logo-white.png)
 
 ### Category
 Coding
@@ -3366,6 +3426,8 @@ Coding
 AutoGPT agents with plugins
 <details>
 
+![image](https://spell.so/_next/static/media/logo.32731dee.svg)
+
 ### Category
 General purpose
 
@@ -3389,6 +3451,8 @@ Add an AI copilot to your product's data dashboard with just a few lines of code
 
 
 <details>
+
+![image](https://superluminal.dev/176fae26858de1966f98.svg)
 
 ### Category
 Coding, Data analysis
@@ -3414,6 +3478,8 @@ TalktoData AI allows advanced data discovery, cleaing, analysis, and visualizati
 
 <details>
 
+![image](https://talktodata.ai/hubfs/logo-transparant-04-1.svg)
+
 ### Category
 Coding, Data analysis
 
@@ -3436,6 +3502,8 @@ Coding, Data analysis
 Taskade AI lets users create, train, and run custom AI agents inside a unified workspace to build a virtual AI Workforce.
 
 <details>
+
+![image](https://www.taskade.com/static_images/taskade-circle-logo-full-black.png)
 
 ### Category
 Build-your-own, General purpose, Productivity
@@ -3462,6 +3530,8 @@ A financial AI agent platform using your own knowledge base
 
 <details>
 
+![image](https://media.licdn.com/dms/image/D4E0BAQGc0T7tqN-IZQ/company-logo_200_200/0/1688338143903?e=2147483647&v=beta&t=bwM2YckiHgvHaMtmYQjB6XGUT5FNtUbvFNHJvepsGu4)
+
 ### Category
 Finance, Data analysis
 
@@ -3473,20 +3543,18 @@ Finance, Data analysis
   	- Auto Agent - can create an entire workflow from scratch
 - Currently in an early access version
 
-
 ### Links
 - [Web](https://www.thinkchain.ai/)
 - Founder: [Tony Lewis](https://twitter.com/_tony_lewis)
 
-
 </details>
-
 
 ## [Tusk](https://usetusk.ai/)
 Tusk is an AI engineer that pushes and tests code
 
-
 <details>
+
+![image](https://usetusk.ai/tusk-logo.eed7968a.png)
 
 ### Category
 Coding
@@ -3514,6 +3582,8 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 <details>
 
+![image](https://ph-files.imgix.net/2c7b17e3-7a6d-4872-ab81-471803a924ce.png?auto=format)
+
 ### Category
 Coding
 
@@ -3535,6 +3605,8 @@ Coding
 Wispy is a web-browsing AI assistant that can summarize content, compose content, explain things or create quizzes for topics you are learning
 
 <details>
+
+![image](https://wispy.technicalmagic.ai/assets/icon-white.svg)
 
 ### Category
 Research, content creation
