@@ -1177,7 +1177,7 @@ An AI agent that generates an entire codebase based on a prompt
 
 <details>
 
-![Image](https://toolpulse.ai/wp-content/uploads/2023/11/godmode-ai.jpg)
+![Image](https://pbs.twimg.com/media/GDA3bYrXYAE5XDQ?format=jpg&name=4096x4096)
 
 ### Category
 Coding
@@ -1206,6 +1206,7 @@ Easily migrate your codebase from one framework or language to another
 
 <details>
 
+![Image](https://opengraph.githubassets.com/678543c5159118a70ea974db32bb95b310a3fbb6ad4296e97d54335031f8df82/joshpxyne/gpt-migrate)
 ### Category
 Coding
 
@@ -1229,6 +1230,8 @@ An agent that codes the entire app as you oversee the code being written
 
 <details>
 
+![Image](https://techcrunch.com/wp-content/uploads/2023/08/gpt_pilot_logo.png?w=150)
+
 ### Category
 Coding
 
@@ -1250,6 +1253,8 @@ Coding
 GPT based autonomous agent that does online comprehensive research on any given topic
 
 <details>
+
+![Image](https://camo.githubusercontent.com/b3ab3e2b5612657816d64e174672498cd50027b75aa0a795833aee2ddab585b2/68747470733a2f2f636f7772697465722d696d616765732e73332e616d617a6f6e6177732e636f6d2f6172636869746563747572652e706e67)
 
 ### Category
 Research, Science
@@ -1274,6 +1279,8 @@ Conversations with your files which selected! Manage and run your AI presets!
 
 <details>
 
+![image](https://repository-images.githubusercontent.com/640476297/30741f73-caac-48bc-b500-1b7d6efde4c4)
+
 ### Category
 Research, Science
 
@@ -1283,8 +1290,6 @@ Research, Science
 - Private first, all data is local.
 - We support both OpenAI and Anthropic (Claude-2)
 - It support support for multiple languages.
-
-![image](https://repository-images.githubusercontent.com/640476297/30741f73-caac-48bc-b500-1b7d6efde4c4)
 
 ### Links
 - [Website](https://github.com/nicepkg/gpt-runner)
@@ -1299,6 +1304,8 @@ Research, Science
 IX is a platform for building, debugging, and deploying collaborative Agents and cognitive workflows.
 
 <details>
+
+![image](https://github.com/kreneskyp/ix/raw/master/ix_350.png)
 
 ### Category
 Build your own, Multi-agent
@@ -1326,18 +1333,19 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 </details>
 
+
 ## [JARVIS](https://github.com/microsoft/JARVIS)
 
 JARVIS is a system to connect LLMs with the ML community.
 
 <details>
 
+![image](https://github.com/microsoft/JARVIS/raw/main/hugginggpt/assets/intro.png)
+
 ### Category
 General purpose
 
 ### Description
-
-
 - Task Planning: Using ChatGPT to analyze the requests of users to understand their intention, and disassemble them into possible solvable tasks.
 - Model Selection: To solve the planned tasks, ChatGPT selects expert models hosted on Hugging Face based on their descriptions.
 - Task Execution: Invokes and executes each selected model, and returns the results to ChatGPT.
@@ -1354,6 +1362,8 @@ General purpose
 Multi-Agent framework for building LLM Applications.
 
 <details>
+
+![image](https://github.com/langroid/langroid/raw/main/docs/assets/langroid-card-lambda-ossem-rust-1200-630.png)
 
 ### Category
 General purpose, Build your own
@@ -1390,6 +1400,8 @@ Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow
 
 <details>
 
+![image](https://pbs.twimg.com/media/F3l2kEsXIAA0Gsm?format=jpg&name=large)
+
 ### Category
 Productivity, Coding
 
@@ -1414,6 +1426,8 @@ A minimalistic library for building agents that leverage large language models t
 
 <details>
 
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
 ### Category
 Coding
 
@@ -1433,8 +1447,9 @@ Coding
 ## [Local GPT](https://github.com/PromtEngineer/localGPT)
 LocalGPT is an open-source initiative that allows you to converse with your documents without compromising your privacy. Inspired by privateGPT, allows using your own documents as an information source
 
-
 <details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ### Category
 Research, Data analysis, General purpose
@@ -1463,6 +1478,8 @@ Research, Data analysis, General purpose
 A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
 
  <details>
+
+ ![image](https://github.com/farizrahman4u/loopgpt/raw/main/docs/assets/imgs/loopgpt_demo_pic.png?raw=true)
 
 ### Category
 General purpose
@@ -1494,6 +1511,8 @@ A system that intelligently manages different memory tiers in LLMs to effectivel
 
 <details>
 
+ ![image](https://files.readme.io/da7f719-small-memgpt_logo_circle_nuno.png)
+
 ### Category
 Memory management, Data analysis
 	
@@ -1516,6 +1535,9 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 <details>
 
+ ![image](https://assets-global.website-files.com/64bad175c3f1fe8957a06faf/64bef0d57ca34f97c26b2c63_abante-ai-icon_transparent_271.png)
+
+
 ### Category
 Coding
 
@@ -1533,6 +1555,8 @@ Coding
  A multi-agent framework that, given one line requirement, returns PRD, Design, Tasks, or Repo
 
 <details>
+
+ ![image](https://github.com/geekan/MetaGPT/raw/main/docs/resources/MetaGPT-new-log.png)
 
 ### Category
 Multi-agent, Coding, Build your own
@@ -1556,11 +1580,12 @@ Multi-agent, Coding, Build your own
 </details>
 
 
-
-
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
+
 <details>
+
+ ![image](https://github.com/muellerberndt/mini-agi/raw/main/static/mini-agi-cover.png)
 
 ### Category
 General purpose
@@ -1578,6 +1603,11 @@ General purpose
 An implementation of the paper "Improving Factuality and Reasoning in Language Models through Multiagent Debate"
 
 <details>
+
+ ![image](https://composable-models.github.io/llm_debate/img/accuracy_small.png)
+
+ ### Category
+General purpose, Multi-agent
 
 ### Description
 - The paper illustrates how we may treat different instances of the same language models as a "multiagent society", where individual language model generate and critique the language generations of other instances of the language model
@@ -1597,7 +1627,10 @@ An implementation of the paper "Improving Factuality and Reasoning in Language M
 
 ## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
 An experimental open-source attempt to make GPT-4 fully autonomous
+
 <details>
+
+ ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ### Category
 General purpose
@@ -1618,13 +1651,13 @@ General purpose
 - [Demo](https://www.loom.com/share/b6bec93065794eb8a47e2109697afa39)
 - Authors: [Max Rumpf](https://twitter.com/md_rumpf) and [Significant Gravitas](https://twitter.com/SigGravitas)
 
-
 </details>
-
 
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 An Open Platform for Language Agents in the Wild, ChatGPT Plus Replica for Researchers, Developers, and General Users.
 <details>
+
+ ![image](https://github.com/xlang-ai/OpenAgents/raw/main/pics/openagents_overview.png)
 
 ### Category
 General purpose
@@ -1655,6 +1688,8 @@ An open-source AGI R&D platform that enables agents for both benchmark tasks and
 
 <details>
 
+ ![image](https://github.com/agiresearch/OpenAGI/raw/main/images/illustration.png)
+
 ### Category
 General purpose
 
@@ -1679,6 +1714,8 @@ An open-source interpreter that lets LLMs run code on your computer to complete 
 
 <details>
 
+ ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCg-Na5DtbcAU1tI6hwDS4LeA0xvq04AJ4BKjxHHJ3sOOv4ix6vs3CBGMkRytdb4K7mts&usqp=CAU)
+
 ### Category
 Coding
 
@@ -1694,15 +1731,15 @@ Coding
 
 </details>
 
-
-
 ## [Pezzo](https://www.pezzo.ai/)
 A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
+
 <details>
+
+ ![image](https://www.pezzo.ai/_next/static/media/Logo.b7e3878b.svg)
 
 ### Category
 Coding
-
 
 ### Description
 - "Whether you are a technical person or a stakeholder, you can use Pezzo effectively. We don't believe that AI prompts should be designed in a developer's code editor. Aside from the technical issues with this approach, it blocks productivity."
@@ -1721,7 +1758,10 @@ Coding
 
 ## [Private GPT](https://www.privategpt.io/)
 A tool for private interaction with documents, without a need for internet connection
+
 <details>
+
+![image](https://assets-global.website-files.com/6408872e49e0944a088f17c1/640f3c6e8640895f2cbf95ba_logo%20full.svg)
 
 ### Category
 Research, Data analysis
@@ -1742,6 +1782,7 @@ Personalized AI assistant that helps with nutrition and other goals
 
 <details>
 
+![image](https://avatars.githubusercontent.com/u/125468716?s=280&v=4)
 ### Category
 Productivity, General purpose
 
@@ -1768,6 +1809,8 @@ Productivity, General purpose
 ## [React Agent](https://reactagent.io/)
 An open-source React.js Autonomous LLM Agent
 <details>
+
+![image](https://reactagent.io/logo-dark.png)
 
 ### Category
 Coding
@@ -1801,7 +1844,10 @@ Coding
 
 ## [Smol developer](https://github.com/smol-ai/developer)
 :hatching_chick: Your own junior developer. [Deployed in few seconds via e2b](https://app.e2b.dev/agent/smol-developer/?utm_source=awesome-ai-agents)
+
 <details>
+
+![image](https://smol.ai/logo.png)
 
 ### Category
 Coding
@@ -1829,7 +1875,10 @@ Coding
 
 ## :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)</details>
 Not a single agent, but a tool that allows creating agents without coding
+
 <details>
+
+![image](https://api.typedream.com/v0/document/public/b9d688ba-8f34-40e4-a24a-c62b403b402d/2YukgQsvbVkUp7u1HLsrBKCjfrO_superagent_logo_candidate_2_invisible_background_small.png)
 
 ### Category
 Build-your-own, General purpose, Data analysis
@@ -1853,6 +1902,8 @@ Build-your-own, General purpose, Data analysis
 ## [SuperAGI](https://superagi.com/)
 An open-source autonomous AI framework to enable development and deployment autonomous agents
 <details>
+
+![image](https://pbs.twimg.com/profile_images/1678659510041456640/rxUIfulT_400x400.jpg)
 
 ### Category
 General purpose
@@ -1892,6 +1943,8 @@ Playing Imperfect Information Games with Theory of Mind Aware GPT-4
 
 <details>
 
+![image](https://github.com/CR-Gjx/Suspicion-Agent/raw/main/figures/counterfactual.png)
+
 ### Category
 General purpose
 
@@ -1910,7 +1963,10 @@ General purpose
 
 ## [Sweep](https://sweep.dev/)
 A Github assistant the helps fix small bugs and implement small features
+
 <details>
+
+![image](https://avatars.githubusercontent.com/u/127925974?s=200&v=4)
 
 ### Category
 Coding, GitHub
@@ -1934,6 +1990,8 @@ Taxy AI is a full browser automation
 
 <details>
 
+![image](https://github.com/TaxyAI/browser-extension/raw/main/src/assets/img/icon-128.png)
+
 ### Category
 General purpose, Productivity
 
@@ -1956,7 +2014,10 @@ General purpose, Productivity
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 
 A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making action, and doesn't lose memory after being shutting down
+
 <details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
 ### Category
 General purpose
@@ -1984,6 +2045,8 @@ General purpose
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting
 <details>
+
+![image](https://theolvs.github.io/westworld/img/cover_hq_westworld1.jpg)
 
 ### Category
 General purpose, Multi-agent
@@ -2021,6 +2084,8 @@ General purpose, Multi-agent
 A LLM-powered embodied lifelong learning agent in Minecraft
 <details>
 
+![image](https://voyager.minedojo.org/assets/images/exploration_performance.png)
+
 ### Category
 General purpose
 
@@ -2045,7 +2110,10 @@ General purpose
 
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 A GPT agent framework for invoking APIs
+
 <details>
+
+![image](https://pbs.twimg.com/card_img/1744902310336118784/AVnD3MC-?format=jpg&name=medium)
 
 ### Category
 Coding
@@ -2066,6 +2134,8 @@ Coding
 XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks
 
 <details>
+
+![image](https://pbs.twimg.com/profile_banners/1713881934991093760/1697456782/1500x500)
 
 ### Category
 General purpose, Coding
@@ -2102,6 +2172,8 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 
 <details>
 
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
 ### Category
 Coding, Build-your-own
 
@@ -2129,6 +2201,8 @@ Swift implementation of BabyAGI
 
 <details>
 
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
 ### Category
 General purpose
 
@@ -2148,6 +2222,8 @@ General purpose
 
 <details>
 
+![image](https://ability.ai/assets/images/image01.svg?v=e0c18927)
+
 ### Category
 General purpose, Productivity, Business intelligence
 
@@ -2162,12 +2238,13 @@ General purpose, Productivity, Business intelligence
 </details>
 
 
-
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
 
 
 <details>
+
+![image](https://media.licdn.com/dms/image/C4E0BAQHoZ-QBmwsa0g/company-logo_200_200/0/1677107534930/adeptailabs_logo?e=1713398400&v=beta&t=ykMLRWaek147bz9BpCaLCuYFrVorWWT3iaDsrWQa6Do)
 
 ### Category
 General purpose
@@ -2190,6 +2267,8 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 
 <details>
 
+![image](https://assets-global.website-files.com/64e879914c784ca827df6d6d/6594ec15997b8276945f35a6_logo_side_white_cropped-p-500.png)
+
 ### Category
 General purpose, Productivity
 
@@ -2210,6 +2289,8 @@ General purpose, Productivity
 The AI-powered mod of VSCode
 
 <details>
+
+![image](https://avatars.githubusercontent.com/u/135339264?s=200&v=4)
 
 ### Category
 Coding
