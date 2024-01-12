@@ -10,6 +10,15 @@ Input
 Stackwise
 NLSOM
 Lutra
+AsktoSell
+Web3GPT
+AskYourDatabase
+evo.ninja
+CodeFuse-ChatBot
+Rebyte AI
+Crew AI
+Q, ChatGPT for Slack
+Allice
 
 Add to readme list:
 Rubric
@@ -302,6 +311,26 @@ Coding, GitHub
 - [Website](https://aider.chat/)
 - Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
 - [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
+
+</details>
+
+## [AIlice](https://github.com/myshell-ai/AIlice)
+AI agent chatbot that independently plans tasks and dynamically creates an agents calling tree to execute them
+
+<details>
+
+![Image](https://github.com/myshell-ai/AIlice/raw/master/AIlice.png)
+
+### Category
+General purpose, Personal assistant, Productivity
+
+### Description
+- "An Agent in the form of a chatbot independently plans tasks given in natural language and dynamically creates an agents calling tree to execute tasks.
+- There is an interaction mechanism between agents to ensure fault tolerance.
+- External interaction modules can be automatically built for self-expansion.
+
+### Links  
+- [GitHub](https://github.com/myshell-ai/AIlice)
 
 </details>
 
@@ -879,8 +908,7 @@ Science, Chemistry
 </details>
 
 ## [Clippy](https://github.com/ennucore/clippy/)
-
-The purpose of Clippy is to elop code for or with the user. It can plan, write, debug, and test some projects autonomously. For harder tasks, the best way to use it is to look at its work and provide feedback to it.
+Agent that can plan, write, debug, and test coding projects autonomously
 
 <details>
 
@@ -889,9 +917,31 @@ The purpose of Clippy is to elop code for or with the user. It can plan, write, 
 ### Category
 Coding
 
+### Description
+- The purpose of Clippy is to elop code for or with the user.
+- It can plan, write, debug, and test some projects autonomously.
+- For harder tasks, the best way to use it is to look at its work and provide feedback to it.
+
 ### Links
 - [GitHub](https://github.com/ennucore/clippy/)
 - Author: [Lev Chizhov](http://lev.la/) 
+
+</details>
+
+## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
+AI agent serving the entire software development lifecycle
+<details>
+
+![Image](https://github.com/codefuse-ai/codefuse-chatbot/raw/main/sources/docs_imgs/objective_v4.png)
+
+### Category
+Coding
+
+### Description
+- An intelligent assistant serving the entire software development lifecycle, powered by a Multi-Agent Framework, working with DevOps Toolkits, Code&Doc Repo RAG, etc.
+
+### Links
+- [GitHub](https://github.com/codefuse-ai/codefuse-chatbot)
 
 </details>
 
@@ -952,6 +1002,25 @@ Coding
 - [GitHub](https://github.com/continuedev/continue)
 - [Documentation](https://continue.dev/docs/intro)
 - [Twitter](https://twitter.com/continuedev)
+
+</details>
+
+## [CrewAI](https://github.com/joaomdmoura/crewai)
+Framework for orchestrating role-playing autonomous AI agents
+<details>
+
+![Image](https://github.com/joaomdmoura/crewAI/raw/main/docs/crewai_logo.png)
+
+### Category
+Build-your-own, SDK for agents, Multi-agent
+
+### Decsription
+- Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
+- By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+
+### Links
+- [GitHub](https://github.com/joaomdmoura/crewai)
+- [Founder's X](https://twitter.com/joaomdmoura)
 
 </details>
 
@@ -1097,7 +1166,6 @@ POC AI based Compiler, for converting english based markdown specs, into functio
 ### Category
 Coding
 
-
 ### Description
 - "We know that all great™ projects start with awesome™ detailed functional specifications. Which is typically written in English, or its many other spoken language alternatives.
 - So what if, instead of writing code from functional specs, we simply compile it directly to code?
@@ -1107,6 +1175,29 @@ Coding
 - [Creator's Twitter](https://twitter.com/picocreator)
 
 </details>
+
+## [evo.ninja](https://evo.ninja/)
+AI agent that can adapt its persona to achive tasks
+
+<details>
+
+![Image](https://camo.githubusercontent.com/3333c49067bddef0b208e36e22cf6ec8066f5be1da1dc327532427a395ed8069/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f4279576a4c4b41686e2e706e67)
+
+### Category
+General purpose, Research, Multi-agent
+
+### Description
+- What makes evo.ninja special is that it adapts itself in real-time, based on the tasks at hand.
+- Evo utilizes pre-defined agent personas that are tailored to specific domains of tasks.
+- Each iteration of evo's execution loop it will select and adopt the persona that fits the task at hand best.
+
+### Links
+- [Web](https://evo.ninja/)
+- [GitHub](https://github.com/polywrap/evo.ninja/)
+- [Discord](https://discord.com/invite/r3rwh69cCa)
+
+</details>
+
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 
@@ -2183,6 +2274,30 @@ General purpose
 
 </details>
 
+## [Web3 GPT](https://w3gpt.ai/)
+Write and deploy smart contracts to EVM blockchains
+
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1701486001120567296/u84M3Ruo_400x400.jpg)
+
+### Category
+Blockchain, Coding, Generating apps, Smart contract
+
+### Description
+- Write and deploy smart contracts to EVM blockchains.
+- Connect wallet to manually deploy contracts, even from you old chats.
+- Enable Web2/3 users to interact with blockchains without a dedicated web3 wallet using account abstraction and a gas master account.
+- Leverage Chat-GPT to interact with and control Web3-GPT functionalities.
+
+### Links
+- [Web](https://w3gpt.ai/)
+- [GitHub](https://github.com/markeljan/web3gpt?tab=readme-ov-file)
+- [Founder's X](https://twitter.com/0xmarkeljan)
+- [Founder's LinkedIn](https://www.linkedin.com/in/markeljan/)
+
+</details>
+
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting
 <details>
@@ -2210,8 +2325,6 @@ General purpose, Multi-agent
 	- Layer integration to convert image to obstacle and snap it to a grid
 	- Sample simulations and sample agents for classic simulations
 	- Simulation visualization, replay and export (gif or video)
-
-
 
 ### Links
 - [GitHub](https://github.com/TheoLvs/westworld)
@@ -2551,6 +2664,48 @@ Multi-agent, Build-your-own
 </details>
 
 
+## [AskToSell](https://asktosell.com/)
+A web platform to deploy & manage autonomous AI sales agents that close deals
+
+<details>
+
+![image](https://assets-global.website-files.com/64dc76096a7dfdd761e62e16/64dc9b12f89067d1657f3103_asktosell%20transparent%20logo.svg)
+
+### Category
+Sales, Build-your-own, Business intelligence, Marketing
+
+### Description
+- A web platform to deploy & manage autonomous AI sales agents that close small deals.
+- Autonomous agents will contact your leads, qualify, prepare offers, handle objections, negotiate, and close the deal with superhuman-like performance
+- AskToSell autonomously moves your leads through the pipeline. AI Sales Agents will learn about your product, contact your leads, qualify, prepare proposals, handle objections, negotiate, and close the deals. 
+
+### Links
+- [Web](https://asktosell.com/)
+- [LinkedIn](https://www.linkedin.com/company/asktosell/)
+- [Founder's LinkedIn - Laimonas Noreika](https://www.linkedin.com/in/laimonasn/)
+
+</details>
+
+## [AskYourDatabase](https://www.askyourdatabase.com/)
+AI-native database client, to chat with SQL databases, get insights & visualization
+
+<details>
+
+![image](https://www.askyourdatabase.com/_next/image?url=%2Flogo-light.png&w=64&q=75)
+
+### Category
+Business intelligence, Productivity, Data analysis
+
+### Description
+- "ChatGPT for SQL"
+- No SQL, Connect your database and chat with your data in ChatGPT
+
+### Links
+- [Web](https://www.askyourdatabase.com/)
+- [Discord](https://discord.com/invite/AZ2WnRxTD8)
+- [Founder's LinkedIn](https://www.linkedin.com/in/sheldon-niu-a174bb243/)
+
+</details>
 
 ## [BitBuilder](https://www.bitbuilder.ai/?utm_source=awesome-ai-agents)
 (Pivoted to Elipsis) "Virtual intern for developers", generates code via PRs raised against your repository
@@ -3610,6 +3765,36 @@ Build-your-own
 - [Discord](https://discord.gg/DVbwTM8erb)
 </details>
 
+## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
+AI workforce on Slack for under-resourced SMEs. AI agent within slack workspace
+
+<details>
+
+![image](https://q-bot.suchica.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDALLE_2023-01-10_QRobot.86c0521b.png&w=256&q=75)
+
+### Category
+General purpose, Personal assistant, Business intelligence, Productivity
+
+### Description
+- Q functions like ChatGPT, but within your workspace.
+- Secure and shareable, Q won't store or learn your data.
+- Unlike ChatGPT, Q can read various types of URLs and files on-demand with your input.
+- Ideal for summarizing, evaluating, brainstorming ideas, self-reviewing, Q&A, and more.
+- We also support URLs that require authentication, such as Google Workspace Apps.
+- Itemize your team-specific rules, guidelines, and templates.
+
+
+### Links
+- [Web](https://q-bot.suchica.com/)
+- [GitHub](https://github.com/hiroshinishio)
+- [LinkedIn](https://www.linkedin.com/company/suchica/)
+- [X](https://twitter.com/QBotGPT)
+- [YouTube](https://www.youtube.com/@q-aibot-2182/videos)
+- [Founder's LinkedIn](https://www.linkedin.com/in/hiroshi-nishio-084595216/)
+- [Founder's X](https://twitter.com/hnishio0105)
+</details>
+
+
 ## [Questflow](https://questflow.ai)
 
 Questflow is a marketplace for autonomous AI workers with no-code.
@@ -3622,7 +3807,6 @@ Questflow is a marketplace for autonomous AI workers with no-code.
 Build-your-own
 
 ### Description
-
 - Questflow is a marketplace designed for SMBs to connect with autonomous AI workers.
 - Our platform enables digital workers to discover and deploy AI agents for seamless workflow automation.
 - With a no-code editor, we empower digital knowledge providers to create, distribute, and monetize AI workers.
@@ -3630,10 +3814,31 @@ Build-your-own
 - Creators have the opportunity to transform their specialized knowledge into AI agents, expanding their reach and generating revenue.
 
 ### Links
-
 - [Twitter](https://twitter.com/questflow)
 - [Telegram](https://t.me/+lAFNg26e5aA5NGNl)
 - [Discord](https://twitter.com/questflow)
+
+</details>
+
+## [Rebyte](https://rebyte.ai/)
+A Multi ai agents builder platform
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1700140660702257152/xTLqugBI_400x400.jpg)
+
+### Category
+General purpose, Generating apps, Build-your-own
+
+### Description
+- A Multi ai agents builder platform built for GenAI applications.
+
+### Links
+- [Web](https://rebyte.ai/)
+- [X](https://twitter.com/ReByteAI)
+- [Discord](https://discord.com/invite/e4AYNnFg2F)
+- [LinkedIn](https://www.linkedin.com/company/realchar/)
+- [Founder's LinkedIn - Jian cai](https://www.linkedin.com/in/jian-cai-8611094/)
+- - [Founder's LinkedIn - Xiao(Shaun) W.](https://www.linkedin.com/in/shaunwei/)
 
 </details>
 
