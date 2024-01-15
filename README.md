@@ -1,13 +1,7 @@
 <!--
 TBD:
 Add to visual:
-Vanna AI
-MakeDraft
-Dosu
-B2 AI
-Claros AI Shopper
-Input
-Stackwise
+
 NLSOM
 Lutra
 AsktoSell
@@ -22,6 +16,7 @@ Allice
 
 Add to readme list:
 Rubric
+Codeium
 
 - Suspicion Agent
 - Wispy
@@ -779,7 +774,7 @@ A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket
 
 <details>
 
-![Image](https://bondai.dev/assets/images/bondai-logo-79126f4fe643e15086ac08d8481e8611.png)
+![Image](https://bondai.dev/assets/images/bondai-logo-9bec7e27b93b804d375221ff8fb6d336.png)
 
 ### Category
 Coding
@@ -3175,7 +3170,7 @@ A platform for creating LLM-powered apps like AI agents
 
 <details>
 
-![image](https://assets-global.website-files.com/64c813842e0c08ffc06a2c6c/64ca2872f2bbb3bb8459b6b0_Main.svg)
+![image](https://pbs.twimg.com/profile_images/1715406291349143552/-wRzF29t_400x400.png)
 
 ### Category
 Build-your-own
