@@ -1,18 +1,7 @@
 <!--
 TBD:
 Add to visual:
-
-NLSOM
-Lutra
-AsktoSell
-Web3GPT
-AskYourDatabase
-evo.ninja
-CodeFuse-ChatBot
-Rebyte AI
-Crew AI
-Q, ChatGPT for Slack
-Allice
+-
 
 Add to readme list:
 Rubric
@@ -405,7 +394,7 @@ Crafting a sophisticated system that autonomously generates its own code based o
 <details>
 
 
-![Image](https://github.com/emrgnt-cmplxty/Automata/assets/68796651/f73f37ac-6335-4066-b9bc-79f9a2652cc1)
+![Image](https://github.com/emrgnt-cmplxty/Automata/assets/68796651/61fe3c33-9b7a-4c1b-9726-a77140476b83)
 
 ### Category
 Coding
@@ -420,7 +409,8 @@ Coding
 	- Modular, fully configurable design with minimal reliance on external dependencies
 
 ### Links
-
+- [GitHub](https://github.com/emrgnt-cmplxty/automata)
+- [Docs](https://automata.readthedocs.io/en/latest/)
 - Author: [Owen Colegrove](https://twitter.com/ocolegro)
 <!--
 
@@ -479,7 +469,8 @@ HR, Business intelligence, Productivity
 - Medium: [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 - [GitHub](https://github.com/stepanogil/autonomous-hr-chatbot)
 - Author: [Stephen Bonifacio](https://twitter.com/Stepanogil)
-- Video Demo: [Youtube Link](https://www.youtube.com/watch?v=id7XRcEIBvg&ab_channel=StephenBonifacio)
+- [YouTube demo](https://www.youtube.com/watch?v=id7XRcEIBvg&ab_channel=StephenBonifacio)
+- [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
@@ -3672,7 +3663,7 @@ Coding
 Still in an early stage, with waitlist for early access
 <details>
 
-![image](https://www.naut.ai/_next/static/media/naut-logo-small.87a7df76.svg)
+![image](https://pbs.twimg.com/profile_images/1643093020097609730/XmHqIOhJ_400x400.jpg)
 
 ### Category
 Build-your-own, Multi-agent
@@ -3742,7 +3733,7 @@ Coding, research
 Interaction APIs and SDKs that allow developers to build, deploy and operate conversational AI agents in their apps
 <details>
 
-![image](https://proficientai.com/_next/image?url=%2Flogo-full.png&w=2048&q=75)
+![image](https://www.phind.com/images/phind_v2.svg)
 
 ### Category
 Build-your-own
