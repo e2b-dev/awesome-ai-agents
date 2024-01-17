@@ -111,7 +111,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
-Model-agnostic framework for creation, testing, and iteration of agents
+LLM-agnostic platform for agent building & testing
 
 <details>
 
@@ -136,7 +136,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
-A browser-based implementation of AutoGPT, accessible via a no-code platform
+Browser-based no-code version of AutoGPT
 <details>
 
 ![Image](https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png)
@@ -179,7 +179,7 @@ General purpose
 <!-- This is a comment that appears only in the raw text -->
 
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
-A cross-platform desktop app to create, manage, and chat with AI agents
+Build, manage, and chat with agents in desktop app
 
 
 <details>
