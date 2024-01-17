@@ -205,7 +205,7 @@ General purpose
 
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
-**Agents** is an open-source library/framework for building autonomous language agents.
+Library/framework for building language agents
 
 <details>
 
@@ -231,7 +231,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
-A platform designed for deploying multiple LLM-based agents in various applications, focusing on task-solving and simulation frameworks.
+Platform for task-solving & simulation agents
 <details>
 
 ![Image](https://pbs.twimg.com/card_img/1744672970822615040/m870GGf1?format=jpg&name=medium)
@@ -253,7 +253,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AI Legion](https://github.com/eumemic/ai-legion)
-A platform for agents to work together, similar in spirit to AutoGPT and Baby AGI, but written in TypeScript
+Multi-agent TS platform, similar to AutoGPT
 
 <details>
 
@@ -276,8 +276,7 @@ Multi-agent, Build-your-own
 </details>
 
 ## [Aider](https://github.com/paul-gauthier/aider)
-
-A command line tool that lets you pair your program with GPT-3.5/GPT-4, to edit code stored in your local git repository
+Use command line to edit code in your local repo
 
 <details>
 
@@ -300,8 +299,7 @@ Coding, GitHub
 </details>
 
 ## [AIlice](https://github.com/myshell-ai/AIlice)
-AI agent chatbot that independently plans tasks and dynamically creates an agents calling tree to execute them
-
+Create agents-calling tree to execute your tasks
 <details>
 
 ![Image](https://github.com/myshell-ai/AIlice/raw/master/AIlice.png)
@@ -320,8 +318,7 @@ General purpose, Personal assistant, Productivity
 </details>
 
 ## [AutoGen](https://github.com/microsoft/autogen)
-
-A framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+Multi-agent framework with diversity of agents
 <details>
 
 ![Image](https://github.com/microsoft/autogen/raw/main/website/static/img/autogen_agentchat.png)
@@ -346,8 +343,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
-
-An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
+Experimental attempt to make GPT4 fully autonomous
 
 <details>
 
@@ -357,6 +353,7 @@ An experimental open-source attempt to make GPT-4 fully autonomous, with >140k s
 General purpose
 
 ### Description
+- An experimental open-source attempt to make GPT-4 fully autonomous, with >140k stars on GitHub
 - Chains together LLM "thoughts", to autonomously achieve whatever goal you set
 - Internet access for searches and information gathering
 - Long-term and short-term memory management
@@ -390,7 +387,7 @@ General purpose
 
 
 ## [Automata](https://github.com/emrgnt-cmplxty/automata)
-Crafting a sophisticated system that autonomously generates its own code based on the context of your project.
+Generate code based on your project context
 
 <details>
 
@@ -426,7 +423,7 @@ Coding
 </details>
 
 ## [AutoPR](https://github.com/irgolic/AutoPR)
-AI-generated pull requests to fix issues, powered by ChatGPT
+AI-generated pull requests agent that fixes issues
 
 <details>
 
@@ -448,8 +445,7 @@ Coding, GitHub
 </details>
 
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
-
-A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3.5.
+Agent that answers HR-related queries using tools
 
 <details>
 
@@ -459,6 +455,7 @@ A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3
 HR, Business intelligence, Productivity
 
 ### Description
+- A prototype enterprise application - an Autonomous HR Assistant powered by GPT-3.5.
 - An agent that can answer HR related queries autonomously using the tools it has on hand.
 - Powered by GPT-3.5
 - Current tools assigned to the agent (with more on the way):
@@ -475,7 +472,6 @@ HR, Business intelligence, Productivity
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
-
 A simple framework for managing tasks using AI
 <details>
 
@@ -505,7 +501,7 @@ General purpose
 
 
 ## [BabyBeeAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)
-A task management and functionality expansion on top of BabyAGI
+Task management & functionality BabyAGI expansion
 
 <details>
 
@@ -532,7 +528,7 @@ General purpose, Productivity
 
 
 ## [BabyCatAGI](https://replit.com/@YoheiNakajima/BabyCatAGI)
-BabyCatAGI is a mod of BabyBeeAGI, which is a mod of OG BabyAGI
+BabyCatAGI is a mod of BabyBeeAGI
 <details>
 
 ![Image](https://pbs.twimg.com/media/FwBwoRracAI99iP?format=jpg&name=medium)
@@ -569,7 +565,7 @@ General purpose
 </details>
 
 ## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
-BabyDeerAGI is a mod of BabyAGI, at ~350 lines of code
+Mod of BabyAGI with only ~350 lines of code
 
 <details>
 
@@ -599,7 +595,7 @@ General purpose
 </details>
 
 ## [BabyElfAGI](https://twitter.com/yoheinakajima/status/1678443482866933760)
-Newest mod of BabyDeerAGI, and the OG BabyAGI, at ~895 lines of code
+Mod of BabyDeerAGI, with ~895 lines of code
 <details>
 
 ![Image](https://pbs.twimg.com/media/F0sHc04aMAEVn3D?format=jpg&name=medium)
@@ -625,9 +621,7 @@ General purpose
 
 
 ## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
-
-An AI agent designed to test what happens when you combine CLI and LLM, which are more traditional interfaces than GUI (created by @saten-private)
-
+Test what happens when you combine CLI and LLM
 <details>
 
 ![Image](https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png)
@@ -636,6 +630,7 @@ An AI agent designed to test what happens when you combine CLI and LLM, which ar
 General purpose, Coding
 
 ### Description
+- gent designed to test what happens when you combine CLI and LLM, which are more traditional interfaces than GUI (created by @saten-private)
 - An AI agent based on @yoheinakajima's [BabyAGI](https://github.com/yoheinakajima/babyagi) which executes shell commands
 - Automatic Programming, Successfully created an app automatically just by providing feedback. The procedure can be found [here](https://twitter.com/saten_work/status/1674855573412810753).
 - Automatic Environment Setup, Successfully installed a Flutter environment on Linux in a container, created the Flutter app, and launched it. The procedure can be found [here](https://twitter.com/saten_work/status/1667126272072491009).
@@ -651,7 +646,7 @@ General purpose, Coding
 
 
 ## [BabyFoxAGI](https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi)
-Most recent mod of BabyAGI with a new parallel UI panel
+Mod of BabyAGI with a new parallel UI panel
 
 
 <details>
@@ -686,8 +681,7 @@ General purpose
 
 
 ## [BambooAI](https://github.com/pgalko/BambooAI)
-
-The BambooAI library is a user-friendly semi-autonomous AI agent designed to make data exploration and analysis more accessible to non-programmers.
+Data exploration and analysis for non-programmers
 
 <details>
 
@@ -716,7 +710,7 @@ Data analysis
 
 
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
-An Autonomous AI Assistant designed to perform a wide range of practical tasks autonomously
+Early-stage project for wide range of tasks
 
 <details>
 
@@ -736,7 +730,7 @@ General purpose, Productivity
 
 
 ## [Bloop](https://bloop.ai/)
-A GPT-4 powered semantic code search engine that uses an AI agent
+AI code search, works for Rust and Typescript
 
 <details>
 
@@ -746,7 +740,8 @@ A GPT-4 powered semantic code search engine that uses an AI agent
 Coding
 
 ### Description
-- Powered by GPT-4 and semantic code search, precise code navigation
+- A GPT-4 powered semantic code search engine that uses an AI agent
+- Precise code navigation
 - Built on stack graphs and scope queries
 - Fast code search and regex matching engine written in Rust
 - Allows to find Code on Rust and Typescript
@@ -762,7 +757,7 @@ Coding
 </details>
 
 ## [BondAI](https://bondai.dev/)
-A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.
+CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.
 
 <details>
 
@@ -772,6 +767,7 @@ A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket
 Coding
 
 ### Description
+- A highly capable, autonomous AI Agent with an easy to use CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.
 - Support for all GPT-N, Embeddings and Dall-E OpenAI Models
 - Support for Azure OpenAI Services
 - Easy to use SDK for integration into any application
@@ -2038,7 +2034,7 @@ Tool for agents, Coding
 
 
 
-## :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)</details>
+## [Superagent](https://www.superagent.sh/)</details>
 Not a single agent, but a tool that allows creating agents without coding
 
 <details>
