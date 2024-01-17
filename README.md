@@ -757,7 +757,7 @@ Coding
 </details>
 
 ## [BondAI](https://bondai.dev/)
-CLI, RESTful/WebSocket API, Pre-built Docker image and a robust suite of integrated tools.
+Code interpreter with CLI & RESTful/WebSocket API
 
 <details>
 
@@ -789,8 +789,7 @@ Coding
 </details>
 
 ## [Cal.ai](https://cal.ai)
-
-An open-source scheduling assistant built on Cal.com.
+Open-source scheduling assistant built on Cal.com
 
 <details>
 
@@ -812,7 +811,7 @@ Productivity
 
 
 ## [CAMEL](https://github.com/camel-ai/camel)
-An agent architecture for “Mind” Exploration of Large Scale Language Model Society
+Architecture for “Mind” Exploration of agents
 
 <details>
 
@@ -841,7 +840,7 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 </details>
 
 ## [ChatDev](https://github.com/OpenBMB/ChatDev)
-A set of communicative agents for software development
+Communicative agents for software development
 
 <details>
 
@@ -865,7 +864,7 @@ Coding, Multi-agent
 </details>
 
 ## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
-A chemistry agent that performs tasks across synthesis, drug discovery, and materials design
+LangChain agent for chemistry-related tasks
 
 <details>
 
@@ -880,9 +879,6 @@ Science, Chemistry
 - Built with Langchain
 - The LLM is provided with a list of tool names, descriptions of their utility, and details about the expected input/output. It is then instructed to answer a user-given prompt using the tools provided when necessary. The instruction suggests the model to follow the ReAct format - Thought, Action, Action Input, Observation. One interesting observation is that while the LLM-based evaluation concluded that GPT-4 and ChemCrow perform nearly equivalently, human evaluations with experts oriented towards the completion and chemical correctness of the solutions showed that ChemCrow outperforms GPT-4 by a large margin. This indicates a potential problem with using LLM to evaluate its own performance on domains that requires deep expertise. The lack of expertise may cause LLMs not knowing its flaws and thus cannot well judge the correctness of task results. (Source: [Weng, Lilian. (Jun 2023). LLM-powered Autonomous Agents". Lil’Log. https://lilianweng.github.io/posts/2023-06-23-agent/.](https://lilianweng.github.io/posts/2023-06-23-agent/))
 
-
-
-
 ### Links
 - [Paper](https://arxiv.org/abs/2304.05376)
 - [GitHub](https://github.com/ur-whitelab/chemcrow-public)
@@ -891,7 +887,7 @@ Science, Chemistry
 </details>
 
 ## [Clippy](https://github.com/ennucore/clippy/)
-Agent that can plan, write, debug, and test coding projects autonomously
+Agent that can plan, write, debug, and test code
 
 <details>
 
@@ -912,7 +908,7 @@ Coding
 </details>
 
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
-AI agent serving the entire software development lifecycle
+Agent serving entire SW development lifecycle
 <details>
 
 ![Image](https://github.com/codefuse-ai/codefuse-chatbot/raw/main/sources/docs_imgs/objective_v4.png)
@@ -929,8 +925,7 @@ Coding
 </details>
 
 ## [Cody by ajhous44](https://github.com/ajhous44/cody)
-
-An AI assistant designed to let you interactively query your codebase using natural language. By utilizing vector embeddings, chunking, and OpenAI's language models, Cody can help you navigate through your code in an efficient and intuitive manner.
+Query and navigate your codebase
 
 <details>
 
@@ -939,6 +934,10 @@ An AI assistant designed to let you interactively query your codebase using natu
 ### Category
 Coding
 
+### Description
+- An AI assistant designed to let you interactively query your codebase using natural language.
+- By utilizing vector embeddings, chunking, and OpenAI's language models, Cody can help you navigate through your code in an efficient and intuitive manner.
+
 ### Links
 - [GitHub](https://github.com/ajhous44/cody)
 - Author: [@ajhous44](https://github.com/ajhous44/) (Github)
@@ -946,8 +945,7 @@ Coding
 </details>
 
 ## [Cody by Sourcegraph](https://docs.sourcegraph.com/cody)
-
-An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
+Agent that writes code and answers your questions
 
 <details>
 
@@ -956,6 +954,9 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 ### Category
 Coding
 
+### Description
+An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
+
 ### Links
 - [GitHub](https://github.com/sourcegraph/sourcegraph/tree/main/client/cody)
 - Author: [@sourcegraph](https://twitter.com/sourcegraph) (Twitter)
@@ -963,7 +964,7 @@ Coding
 </details>
 
 ## [Continue](https://continue.dev/)
-An open-source autopilot for software development
+Open-source autopilot for software development
 
 <details>
 
@@ -989,7 +990,7 @@ Coding
 </details>
 
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
-Framework for orchestrating role-playing autonomous AI agents
+Framework for orchestrating role-playing agents
 <details>
 
 ![Image](https://github.com/joaomdmoura/crewAI/raw/main/docs/crewai_logo.png)
@@ -1009,8 +1010,7 @@ Build-your-own, SDK for agents, Multi-agent
 
 
 ## [Databerry](https://www.databerry.ai/)
-(Pivoted to Chaindesk)
-A super-easy no-code platform for creating AI chatbots trained on your own data
+(Pivoted to Chaindesk) No-code cahtbot building
 
 <details>
 
@@ -1020,7 +1020,7 @@ A super-easy no-code platform for creating AI chatbots trained on your own data
 Build-your-own
 
 ### Description
-- One of the easiest and fastest no-code platform I have encountered
+- A super-easy no-code platform for creating AI chatbots trained on your own data
 - After creating new agent, picking a model, data and other settings, they are ready to be deployed to website, Slack, Crisp, or Zapier
 - Limit of agent in the free version
 - Stack
@@ -1046,7 +1046,7 @@ Build-your-own
 </details>
 
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
-An AI that enables quick demo generation for LLM-based applications using just prompts
+Generates demo of a new app (of any purpose)
 
 <details>
 
@@ -1091,7 +1091,7 @@ Coding, Multi-agent
 </details>
 
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
-DevOpsGPT: AI-Driven Software Development Automation Solution
+AI-Driven SW Development Automation Solution
 
 <details>
 
@@ -1119,8 +1119,7 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 </details>
 
 ## [dotagent](https://github.com/dot-agent/dotagent)
-
-An agent management system that facilitates the creation of robust AI applications and experimental autonomous agents through a rich suite of developer tools.
+Deploy agents on cloud, PCs, or mobile devices
 
 <details>
 
@@ -1130,6 +1129,7 @@ An agent management system that facilitates the creation of robust AI applicatio
 Build-your-own
 
 ### Description
+- An agent management system that facilitates the creation of robust AI applications and experimental autonomous agents through a rich suite of developer tools.
 - Enables the deployment of agents across multiple platforms including cloud, PCs, or mobile devices, and extends functionality through Python or plain English integrations.
 - Advances prompt engineering with a powerful prompt compiler, offering a higher degree of control over Language Models, significantly optimizing the response generation process.
 - Allows seamless export of agents into portable files for execution in any environment, along with an optional Agentbox feature for optimized computing resource management within a sandboxed environment.
@@ -1140,7 +1140,7 @@ Build-your-own
 </details>
 
 ## [English Compiler](https://github.com/uilicious/english-compiler)
-POC AI based Compiler, for converting english based markdown specs, into functional code
+Converting markdown specs into functional code
 
 <details>
 
@@ -1150,6 +1150,7 @@ POC AI based Compiler, for converting english based markdown specs, into functio
 Coding
 
 ### Description
+- OC AI based Compiler, for converting english based markdown specs, into functional code
 - "We know that all great™ projects start with awesome™ detailed functional specifications. Which is typically written in English, or its many other spoken language alternatives.
 - So what if, instead of writing code from functional specs, we simply compile it directly to code?
 - Into a future, where we replace nearly everything, with just written text."
@@ -1160,7 +1161,7 @@ Coding
 </details>
 
 ## [evo.ninja](https://evo.ninja/)
-AI agent that can adapt its persona to achive tasks
+AI agent that adapts its persona to achive tasks
 
 <details>
 
@@ -1183,8 +1184,7 @@ General purpose, Research, Multi-agent
 
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
-
-A developer assistant able to make whole nodejs project with unlimited prompts
+AI developer assistant for Node.js
 
 <details>
 
@@ -1194,6 +1194,7 @@ A developer assistant able to make whole nodejs project with unlimited prompts
 Coding
 
 ### Description
+- A developer assistant able to make whole nodejs project with unlimited prompts
 - Provides a core prompt for building the foundation of your application
 - Allows you to add unlimited sections, each of which is a prompt representing a specific part of your app
 - Features
@@ -1207,8 +1208,7 @@ Coding
 </details>
 
 ## [GeniA](https://github.com/genia-dev/GeniA)
-
-An engineering Gen AI platform engineering team member
+Engineering platform engineering AI team member
 
 <details>
 
@@ -1229,7 +1229,7 @@ Coding
 </details>
 
 ## [Godmode](https://godmode.space/)
-A project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
+Inspired by AutoGPT and BabyAGI, with nice UI
 
 <details>
 
@@ -1239,6 +1239,7 @@ A project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks v
 General purpose
 
 ## Description
+- Godmode is a project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
 - A web platform inspired by AutoGPT and BabyAGI
 - What it can do:
 	- Order your coffee at Starbucks
@@ -1256,7 +1257,7 @@ General purpose
 </details>
 
 ## [GPT Engineer](https://gptengineer.app/)
-An AI agent that generates an entire codebase based on a prompt
+Generates entire codebase based on a prompt
 
 <details>
 
@@ -1266,6 +1267,7 @@ An AI agent that generates an entire codebase based on a prompt
 Coding
 
 ### Description
+GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 - Model: GPT 4
 - Specify your project, and the AI agent asks for clarification, and then constructs the entire code base
 - Features
@@ -1285,7 +1287,7 @@ Coding
 </details>
 
 ## [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
-Easily migrate your codebase from one framework or language to another
+Migrate codebase between frameworks/languages
 
 <details>
 
@@ -1294,6 +1296,7 @@ Easily migrate your codebase from one framework or language to another
 Coding
 
 ### Description
+GOT Migrate easily migrates your codebase from one framework or language to another.
 - Pick from different LLMs
 - Ability to allow GPT Migration to generate and run unit tests for the new codebase
 - Ability to select source and target language of the migration
@@ -1309,7 +1312,7 @@ Coding
 </details>
 
 ## [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)
-An agent that codes the entire app as you oversee the code being written
+Code the entire scalable app from scratch
 
 <details>
 
@@ -1319,6 +1322,7 @@ An agent that codes the entire app as you oversee the code being written
 Coding
 
 ### Description
+GPT Pilot is an AI agent that codes the entire app as you oversee the code being written
 - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - A research project to see how can GPT-4 be utilized to generate fully working, production-ready, apps
 - The main idea is that AI can write most of the code for an app (maybe 95%) but for the rest 5%, a developer is and will be needed until we get full AGI
@@ -1333,7 +1337,7 @@ Coding
 
 
 ## [GPT Researcher](https://github.com/assafelovic/gpt-researcher)
-GPT based autonomous agent that does online comprehensive research on any given topic
+Agent that researches entire internet on any topic
 
 <details>
 
@@ -1343,6 +1347,7 @@ GPT based autonomous agent that does online comprehensive research on any given 
 Research, Science
 
 ### Description
+GPT Researcher is a GPT-based autonomous agent that does online comprehensive research on any given topic
 - Can produce detailed, factual and unbiased research reports
 - Offers customization options for focusing on relevant resources, outlines, and lessons
 - Addresses issues of speed and determinism, offering a more stable performance and increased speed through parallelized agent work, as opposed to synchronous operation
@@ -1358,7 +1363,7 @@ Research, Science
 </details>
 
 ## [GPT Runner](https://github.com/nicepkg/gpt-runner)
-Conversations with your files which selected! Manage and run your AI presets!
+Agent that converses with your files
 
 <details>
 
@@ -1383,8 +1388,7 @@ Research, Science
 
 
 ## [IX](https://github.com/kreneskyp/ix)
-
-IX is a platform for building, debugging, and deploying collaborative Agents and cognitive workflows.
+Agents building, debugging, and deploying platform
 
 <details>
 
@@ -1394,8 +1398,8 @@ IX is a platform for building, debugging, and deploying collaborative Agents and
 Build your own, Multi-agent
 
 ### Description
-
-IX is a LangChain based agent platform that includes all the tools to build and deploy fleets of agents that
+IX is a platform for building, debugging, and deploying collaborative Agents and cognitive workflows.
+-IX is a LangChain-based agent platform that includes all the tools to build and deploy fleets of agents that
 collaborate to complete tasks. IX is both an editor and a runtime. The editor is a no-code graph style editor for
 the design of agents, chains, tools, retrieval functions, and collaborative workflows.
 
@@ -1418,8 +1422,7 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 
 ## [JARVIS](https://github.com/microsoft/JARVIS)
-
-JARVIS is a system to connect LLMs with the ML community.
+System that connects LLMs with the ML community
 
 <details>
 
@@ -1429,6 +1432,7 @@ JARVIS is a system to connect LLMs with the ML community.
 General purpose
 
 ### Description
+JARVIS is a system to connect LLMs with the ML community.
 - Task Planning: Using ChatGPT to analyze the requests of users to understand their intention, and disassemble them into possible solvable tasks.
 - Model Selection: To solve the planned tasks, ChatGPT selects expert models hosted on Hugging Face based on their descriptions.
 - Task Execution: Invokes and executes each selected model, and returns the results to ChatGPT.
@@ -1441,8 +1445,7 @@ General purpose
 </details>
 
 ## [Langroid](https://github.com/langroid/langroid)
-
-Multi-Agent framework for building LLM Applications.
+Multi-agent framework for building LLM apps
 
 <details>
 
@@ -1478,8 +1481,7 @@ into simplifying the developer experience; it does not use `Langchain`.
 </details>
 
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
-
-Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
+Plan-Validate-Solve agent for workflow automation
 
 <details>
 
@@ -1489,7 +1491,7 @@ Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow
 Productivity, Coding
 
 ### Description
-
+Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
 - A standalone supervised Plan and Solve Agent specialized on performing read and write operations on various tools like GitHub, HubSpot or Airtable _(ACL 2023 Paper "[Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091)")_
 - **Separation of tasks and human-in-the-loop interactions**: Lemon Agent is currently holding a Planner Agent and a Solver Agent to keep the agents focussed and increase accuracy. We are planning on adding additional agents real soon. In addition, Lemon Agent will ask for approval at relevant workflow steps to make sure the intended actions are executed.
 - **Unlimited configuration options**: Lemon Agent gives you unlimited configuration options (see example here) when defining your workflow. For instance, you can tell Lemon Agent to ask for permission before executing a workflow step or to drop a 🧔‍♀️ dad joke every time the model executes a workflow step.
@@ -1505,7 +1507,7 @@ Productivity, Coding
 </details>
 
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
-A minimalistic library for building agents that leverage large language models to automate tasks through a loop of commands and tool integrations.
+Library for building agents, using tools, planning
 
 <details>
 
@@ -1515,6 +1517,7 @@ A minimalistic library for building agents that leverage large language models t
 Coding
 
 ### Description
+A minimalistic library for building agents that leverage large language models to automate tasks through a loop of commands and tool integrations.
 - Executing Python code in a REPL environment.
 - Conducting searches on Google and Hacker News.
 - Iterating through a cycle of Thought, Action, Observation, and New Thought based on the output of integrated tools.
