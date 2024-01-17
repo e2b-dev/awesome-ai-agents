@@ -1531,7 +1531,7 @@ A minimalistic library for building agents that leverage large language models t
 </details>
 
 ## [Local GPT](https://github.com/PromtEngineer/localGPT)
-LocalGPT is an open-source initiative that allows you to converse with your documents without compromising your privacy. Inspired by privateGPT, allows using your own documents as an information source
+Chat with documents without compromising privacy
 
 <details>
 
@@ -1541,6 +1541,8 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 Research, Data analysis, General purpose
 
 ### Description
+LocalGPT is an open-source initiative that allows you to converse with your documents without compromising your privacy. Inspired by privateGPT, allows using your own documents as an information source
+
 - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private
 - With everything running locally, you can be assured that no data ever leaves your computer
 - Dive into the world of secure, local document interactions with LocalGPT
@@ -1561,7 +1563,7 @@ Research, Data analysis, General purpose
 
 
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
-A re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
+Re-implementation of AutoGPT as a Python package
 
  <details>
 
@@ -1571,6 +1573,7 @@ A re-implementation of the popular Auto-GPT project as a proper python package, 
 General purpose
 
 ### Description
+Loop GPT is a re-implementation of the popular Auto-GPT project as a proper python package, written with modularity and extensibility in mind
 - Languages: Python
 - Default model: GPT-3.5-turbo (also possible with GPT-4)
 - Modular Auto-GPT Framework
@@ -1592,7 +1595,7 @@ General purpose
 </details>
 
 ## [Magick](https://www.magickml.com/)
-An AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining
+AIDE for creating, deploying, monetizing agents
 
 <details>
 
@@ -1603,6 +1606,7 @@ Coding, Personal assistant, Business intelligence, SDK for agents, Content creat
 
 	
 ### Description
+Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining.
 - A full suite, model agnostic AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining. 
 - Magick allows to build things like BabyAGI within an hour.  You can watch the graph executing in real time, watch the thought process as it executes, and understand the flow.
 - "Visual development of autonomous agents is incoming.  We have built Magick specifically for the rapid development of cognitive architecture and scalable event-driven autonomous agents."
@@ -1620,7 +1624,7 @@ Coding, Personal assistant, Business intelligence, SDK for agents, Content creat
 
 
 ## [MemGPT](https://github.com/cpacker/MemGPT)
-A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window. 
+Memory management system, providing context to LLM
 
 <details>
 
@@ -1630,6 +1634,7 @@ A system that intelligently manages different memory tiers in LLMs to effectivel
 Memory management, Data analysis
 	
 ### Description
+- A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window. 
 - Chat with your data - talk to your local files or SQL database
 - Create perpetual chatbots with self-editing memory
 
@@ -1642,9 +1647,7 @@ Memory management, Data analysis
 </details>
 
 ## [Mentat](https://github.com/biobootloader/mentat)
-Mentat is the AI tool that assists you with any coding task, right from your command line.
-
-Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
+Assists you with coding task from command line
 
 <details>
 
@@ -1653,6 +1656,11 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 ### Category
 Coding
+
+### Description
+Mentat is the AI tool that assists you with any coding task, right from your command line.
+
+Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
 
 ### Links  
 - [Website](https://www.mentat.codes/)
@@ -1665,7 +1673,7 @@ Coding
 
 
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
- A multi-agent framework that, given one line requirement, returns PRD, Design, Tasks, or Repo
+Agent framework returning Design, Tasks, or Repo
 
 <details>
 
@@ -1675,6 +1683,7 @@ Coding
 Multi-agent, Coding, Build your own
 
 ### Description
+MetaGPT is a multi-agent framework that, given one line requirement, returns PRD, Design, Tasks, or Repo.
 - MetaGPT allows to assign different roles to GPTs to form a collaborative software entity for complex tasks
 - It takes a one line requirement as input and outputs user stories / competitive analysis / requirements / data structures / APIs / documents, etc.
 - Internally, MetaGPT includes product managers / architects / project managers / engineers
@@ -1689,12 +1698,10 @@ Multi-agent, Coding, Build your own
 - [Twitter](https://twitter.com/DeepWisdom2019)
 - [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
 
-
 </details>
 
-
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
-A minimal general-purpose autonomous agent based on GPT-3.5 / GPT-4
+General-purpose agent based on GPT-3.5 / GPT-4
 
 <details>
 
@@ -1713,7 +1720,7 @@ General purpose
 
 
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
-An implementation of the paper "Improving Factuality and Reasoning in Language Models through Multiagent Debate"
+Implementation of a paper on Multiagent Debate
 
 <details>
 
@@ -1723,10 +1730,10 @@ An implementation of the paper "Improving Factuality and Reasoning in Language M
 General purpose, Multi-agent
 
 ### Description
+Multiagent Debate is an implementation of the paper "Improving Factuality and Reasoning in Language Models through Multiagent Debate".
 - The paper illustrates how we may treat different instances of the same language models as a "multiagent society", where individual language model generate and critique the language generations of other instances of the language model
 - The authors find that the final answer generated after such a procedure is both more factually accurate and solves reasoning questions more accurately
 - Illustrating the quantitative difference between multiagent debate and single agent generation on different domains in reasoning and factual validity
-
 
 
 ### Links
@@ -1737,9 +1744,8 @@ General purpose, Multi-agent
 </details>
 
 
-
 ## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
-An experimental open-source attempt to make GPT-4 fully autonomous
+Experimental multi-agent system
 
 <details>
 
@@ -1749,7 +1755,7 @@ An experimental open-source attempt to make GPT-4 fully autonomous
 General purpose
 
 ### Description
-- An experimental multi-agent system
+- An experimental open-source attempt to make GPT-4 fully autonomous
 - Multiple "expertGPTs" collaborate to perform a task
 - Each with their own short and long-term memory and the ability to communicate with each other
 - Features
@@ -1767,7 +1773,7 @@ General purpose
 </details>
 
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
-Natural Language-Based Societies of Mind - concept with societies and communities of agents
+Natural Language-Based Societies of Mind
 <details>
 
  ![image](https://github.com/mczhuge/NLSOM/raw/main/assets/nlsom.svg)
@@ -1776,7 +1782,7 @@ Natural Language-Based Societies of Mind - concept with societies and communitie
 Science, Multimodal, Social, Multi-agent
 
 ### Description
-- Mindstorm in Natural Language-based Societies of Mind
+- Natural Language-Based Societies of Mind - concept with societies and communities of agents
 - Concept, which contains societies and communities of agents
 - Agents can be either LLMs, NN-based experts, APIs and role-players. They all communicate in natural language.
 - To solve tasks, these agents use a collaborative "Mindstorm" process involving mutual interviews.
@@ -1792,7 +1798,7 @@ Science, Multimodal, Social, Multi-agent
 </details>
 
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
-An Open Platform for Language Agents in the Wild, ChatGPT Plus Replica for Researchers, Developers, and General Users.
+Multi-agent general purpose platform
 <details>
 
  ![image](https://github.com/xlang-ai/OpenAgents/raw/main/pics/openagents_overview.png)
@@ -1801,6 +1807,7 @@ An Open Platform for Language Agents in the Wild, ChatGPT Plus Replica for Resea
 General purpose
 
 ### Description
+OpenAgents is an Open Platform for Language Agents in the Wild, ChatGPT Plus Replica for Researchers, Developers, and General Users.
 - User-centric
 	- Chat Web UI
 	- Productive Agents
@@ -1822,7 +1829,7 @@ General purpose
 
 
 ## [OpenAGI](https://github.com/agiresearch/OpenAGI)
-An open-source AGI R&D platform that enables agents for both benchmark tasks and open-ended tasks
+R&D agents platform
 
 <details>
 
@@ -1832,6 +1839,7 @@ An open-source AGI R&D platform that enables agents for both benchmark tasks and
 General purpose
 
 ### Description
+OpenAGI is an open-source AGI R&D platform that enables agents for both benchmark tasks and open-ended tasks
 - Powered by various language models such as GPT-4, Vicuna, LLaMA, and Flan-T5
 - Supports multi-modality tool learning and task solving such as text, image, video and audio
 - Supports task decomposition into both linear task-solving plans and non-linear task-solving plans
@@ -1848,7 +1856,7 @@ General purpose
 
 
 ## [Open Interpreter](https://openinterpreter.com/)
-An open-source interpreter that lets LLMs run code on your computer to complete tasks
+Code interpreter that lets LLMs execute code
 
 <details>
 
@@ -1858,6 +1866,7 @@ An open-source interpreter that lets LLMs run code on your computer to complete 
 Coding
 
 ### Description
+Open Interpreter is an open-source interpreter that lets LLMs run code on your computer to complete tasks
 - Runs locally
 - Can for example summarize PDFs, visualize datasets, control your browser
 - Works from a ChatGPT-like interface in your terminal.
@@ -1870,7 +1879,7 @@ Coding
 </details>
 
 ## [Pezzo](https://www.pezzo.ai/)
-A development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
+Development toolkit for prompt management & more
 
 <details>
 
@@ -1880,6 +1889,7 @@ A development toolkit designed to streamline prompt design, version management, 
 Coding
 
 ### Description
+Pezzo is a development toolkit designed to streamline prompt design, version management, publishing, collaboration, troubleshooting, observability and more
 - "Whether you are a technical person or a stakeholder, you can use Pezzo effectively. We don't believe that AI prompts should be designed in a developer's code editor. Aside from the technical issues with this approach, it blocks productivity."
 - Features
 	- Centralized Prompt Management: Manage all AI prompts in one place for maximum visibility and efficiency.
@@ -1895,7 +1905,7 @@ Coding
 </details>
 
 ## [Private GPT](https://www.privategpt.io/)
-A tool for private interaction with documents, without a need for internet connection
+Tool for private interaction with your documents
 
 <details>
 
@@ -1905,6 +1915,7 @@ A tool for private interaction with documents, without a need for internet conne
 Research, Data analysis
 
 ### Description
+Private GPT is A tool for private interaction with documents, without a need for internet connection
 - Built with LangChain, GPT4All, LlamaCpp, Chroma and SentenceTransformers
 - A test project to validate the feasibility of a fully private solution for question answering using LLMs and Vector embeddings, not production ready
 
@@ -1915,8 +1926,7 @@ Research, Data analysis
 </details>
 
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
-
-Personalized AI assistant that helps with nutrition and other goals
+AI agent that helps with nutrition and other goals
 
 <details>
 
@@ -1945,7 +1955,7 @@ Productivity, General purpose
 
 
 ## [React Agent](https://reactagent.io/)
-An open-source React.js Autonomous LLM Agent
+Open-source React.js Autonomous LLM Agent
 <details>
 
 ![image](https://reactagent.io/logo-dark.png)
@@ -1981,7 +1991,7 @@ Coding
 </details>
 
 ## [Smol developer](https://github.com/smol-ai/developer)
-:hatching_chick: Your own junior developer. [Deployed in few seconds via e2b](https://app.e2b.dev/agent/smol-developer/?utm_source=awesome-ai-agents)
+Your own junior AI developer, deployed via E2B UI
 
 <details>
 
@@ -1991,6 +2001,7 @@ Coding
 Coding
 
 ### Description
+Smol is your own junior developer. [Deployed in few seconds via e2b](https://app.e2b.dev/agent/smol-developer/?utm_source=awesome-ai-agents)
 - Human-centric, coherent whole program synthesis
 - Your own junior developer
 - Allows to develop, debug, and decompile
@@ -2011,7 +2022,7 @@ Coding
 </details>
 
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
-VS Code extension that writes and imports nodejs functions so that you can write code without context switching
+VSCode extension that writes nodejs functions
 
 <details>
 
@@ -2021,6 +2032,7 @@ VS Code extension that writes and imports nodejs functions so that you can write
 Tool for agents, Coding
 
 ### Description
+Stackwise is a VS Code extension that writes and imports nodejs functions so that you can write code without context switching
 - The open source function collection
 - Explain what you want a function to do, and AI builds it.
 - Stackwise is a VS Code extension that automatically writes and imports nodejs functions so that you can write code without context switching. No more hunting for documentation to integrate with APIs or back and forth with ChatGPT. Just pure functionality within your code!
@@ -2031,14 +2043,10 @@ Tool for agents, Coding
 - [Founder's X - Wayne](https://twitter.com/merwanehamadi)
 - [Founder's X - Silen Naihin](https://twitter.com/silennai)
 
-
-
 </details>
 
-
-
 ## [Superagent](https://www.superagent.sh/)</details>
-Not a single agent, but a tool that allows creating agents without coding
+Tool that allows creating agents without coding
 
 <details>
 
@@ -2048,6 +2056,7 @@ Not a single agent, but a tool that allows creating agents without coding
 Build-your-own, General purpose, Data analysis
 
 ### Description
+Superagent is not a single agent, but a tool that allows creating agents without coding
 - Simplifies the configuration and deployment of LLM Agents to production
 - "One of the core principals of SuperAgent is to build with any third-party dependencies to proprietary tech"
 - It provides a range of features and functionalities to make it easier for developers to build, manage and deploy AI agents to production including features such as built in memory and document retrieval via vector dbs, powerful tools, webhooks, cron jobs etc.
@@ -2064,7 +2073,7 @@ Build-your-own, General purpose, Data analysis
 
 
 ## [SuperAGI](https://superagi.com/)
-An open-source autonomous AI framework to enable development and deployment autonomous agents
+Framework to develop and deploy AI agents
 <details>
 
 ![image](https://pbs.twimg.com/profile_images/1678659510041456640/rxUIfulT_400x400.jpg)
@@ -2073,6 +2082,7 @@ An open-source autonomous AI framework to enable development and deployment auto
 General purpose
 
 ### Description
+SuperAGI is an open-source autonomous AI framework to enable development and deployment autonomous agents
 - An AI agent framework
 - Open source, but infrastructure is -source
 - Features
@@ -2103,7 +2113,7 @@ General purpose
 
 
 ## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
-Playing Imperfect Information Games with Theory of Mind Aware GPT-4
+Paper on imperfect information games
 
 <details>
 
@@ -2113,6 +2123,7 @@ Playing Imperfect Information Games with Theory of Mind Aware GPT-4
 General purpose
 
 ### Description
+- Playing Imperfect Information Games with Theory of Mind Aware GPT-4
 - The paper delves into the applicability of GPT-4's learned knowledge for imperfect information games
 
 
@@ -2126,7 +2137,7 @@ General purpose
 
 
 ## [Sweep](https://sweep.dev/)
-A Github assistant the helps fix small bugs and implement small features
+Github assistant that fixes issues & writes code
 
 <details>
 
@@ -2136,6 +2147,7 @@ A Github assistant the helps fix small bugs and implement small features
 Coding, GitHub
 
 ### Description
+Sweep is a Github assistant the helps fix small bugs and implement small features
 - To install, click the install button
 - Then add the repository you want, make a quick ticket (e.g. writing tests)
 - Prepend the ticket with "Sweep:" and let Sweep handle the rest
@@ -2173,12 +2185,8 @@ General purpose, Productivity
 
 </details>
 
-
-
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
-
-A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making action, and doesn't lose memory after being shutting down
-
+BabyAGI-inspired agent, can recall infinite memory
 <details>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
@@ -2187,6 +2195,7 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 General purpose
 
 ### Description
+A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making action, and doesn't lose memory after being shutting down
 - Model: GPT-4
 - Language: Python
 - Uses OpenAI and Pinecone to give memory to an AI agent and also allows it to "think" before making an action (outputting text)
@@ -2206,7 +2215,7 @@ General purpose
 </details>
 
 ## [Vanna.AI](https://vanna.ai/)
-Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL in seconds
+Python-based AI SQL agent trained on your schema
 
 <details>
 
@@ -2215,6 +2224,7 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 Coding, Debugging, Code migration, Data analysis
 
 ### Description
+Vanna is an Open-Source Python-based AI SQL agent trained on your schema that writes complex SQL in seconds
 - AI-driven business intelligence assistant
 - Vanna helps you generate and run accurate SQL for your database using LLMs via Retrieval-Augmented Generation
 - Vanna works in two easy steps - train a RAG "model" on your data, and then ask questions which will return SQL queries that can be set up to automatically run on your database
@@ -2223,7 +2233,6 @@ Coding, Debugging, Code migration, Data analysis
 - Your database contents are never sent to the LLM. The metadata storage layer only sees schemas, documentation, and queries
 - As you use Vanna more, your model continuously improves as we augment your training data
 
-
 ### Links
 - [Web](https://vanna.ai/)
 - [GitHub](https://github.com/vanna-ai/vanna)
@@ -2231,11 +2240,10 @@ Coding, Debugging, Code migration, Data analysis
 - [LinkedIn](https://www.linkedin.com/company/vanna-ai/)
 - [Docs](https://vanna.ai/docs/)
 
-
 </details>
 
 ## [Voyager](https://voyager.minedojo.org/)
-A LLM-powered embodied lifelong learning agent in Minecraft
+LLM-powered lifelong learning agent in Minecraft
 <details>
 
 ![image](https://voyager.minedojo.org/assets/images/exploration_performance.png)
@@ -2261,7 +2269,7 @@ General purpose
 </details>
 
 ## [Web3 GPT](https://w3gpt.ai/)
-Write and deploy smart contracts to EVM blockchains
+Write & deploy smart contracts to EVM blockchains
 
 <details>
 
@@ -2285,7 +2293,7 @@ Blockchain, Coding, Generating apps, Smart contract
 </details>
 
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
-A multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting
+A multi-agent environment simulation library
 <details>
 
 ![image](https://theolvs.github.io/westworld/img/cover_hq_westworld1.jpg)
@@ -2294,6 +2302,7 @@ A multi-agent simulation library, with a goal to simulate and optimize systems a
 General purpose, Multi-agent
 
 ### Description
+A-  multi-agent simulation library, with a goal to simulate and optimize systems and environments with multiple agents interacting
 - Researchers from Stanford and Google created an interactive sandbox env with 25 Gen AI agents can simulate human behavior
 - They walk in the park, join for coffee at a cafe, and share news with colleagues. They demonstrated surprisingly good social
 - Westworld's inspiration is drawn from Unity software and Unity ML Agents, adapted in Python
@@ -2321,7 +2330,7 @@ General purpose, Multi-agent
 </details>
 
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
-A GPT agent framework for invoking APIs
+GPT agent framework for invoking APIs
 
 <details>
 
@@ -2343,7 +2352,7 @@ Coding
 </details>
 
 ## [XAgent](https://github.com/OpenBMB/XAgent)
-XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks
+Experimental LLM agent that solves various tasks
 
 <details>
 
@@ -2353,7 +2362,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 General purpose, Coding
 
 ### Description
-
+XAgent is an open-source experimental Large Language Model (LLM) driven autonomous agent that can automatically solve various tasks
 - **Emergence & Autonomy**: XAgent's autonomous operations transcend biases.
 - **Safety & Operation**: Secure execution within docker environments.
 - **Expert-Knowledge Free**: Effective operation without sole expert reliance.
@@ -2379,8 +2388,7 @@ General purpose, Coding
 </details>
 
 ## [yAgents](https://github.com/yeagerai/yeagerai-agent)
-
-yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding and debugging its own tools.
+Capable of designing, coding and debugging tools
 
 <details>
 
@@ -2390,6 +2398,7 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 Coding, Build-your-own
 
 ### Description
+yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding and debugging its own tools.
 - Designed to help build, prototype, and deploy AI-powered tools and agents easily and efficiently.
 - Built on the LangChain framework, allowing users of any technical background to create, improve, and deploy AI agents.
 - Equipped with an interactive command line interface for real-time feedback and ease of navigation.
@@ -2408,7 +2417,6 @@ Coding, Build-your-own
 </details>
 
 ## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
-
 Swift implementation of BabyAGI
 
 <details>
@@ -2424,8 +2432,6 @@ General purpose
 ### Links
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
-
-
 
 # Closed-source projects and companies
 
