@@ -92,7 +92,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
-Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents. These agents, initialized from the MovieLens-1M dataset, exhibit diverse social traits and preferences. 
+Recommender system simulator with 1,000 agents
 
 <details>
 <p><img src="https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png" alt="Image" /></p>
@@ -101,6 +101,7 @@ Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered ge
 General purpose, Build your own, Multi-agent
 
 ### Description
+- Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents.
 - These agents are initialized from the [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/) dataset, embodying varied social traits and preferences.
 - Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes various actions such as watching, rating, evaluating, exiting, and interviewing. 
 
@@ -110,7 +111,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
-A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with various LLM models.
+Model-agnostic framework for creation, testing, and iteration of agents
 
 <details>
 
@@ -120,7 +121,7 @@ A low-code framework designed for the swift creation, testing, and iteration of 
 General purpose, Build your own, Multi-agent
 
 ### Description
-
+- A low-code framework designed for the swift creation, testing, and iteration of AI-powered autonomous agents and Cognitive Architectures, compatible with various LLM models.
 - Facilitates building custom agents and cognitive architectures with ease.
 - Supports multiple LLM models including OpenAI, Anthropic's Claude, and local Oobabooga, allowing flexibility in running different models for different agents based on specific requirements.
 - Provides customizable agent memory management and on-the-fly prompt editing for rapid development and testing.
