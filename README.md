@@ -1602,7 +1602,7 @@ AIDE for creating, deploying, monetizing agents
  ![image](https://assets-global.website-files.com/6507b4af22875d0b8abf95a7/6507bbdc3085cf26d1e8041e_white-wm-tiny.png)
 
 ### Category
-Coding, Personal assistant, Business intelligence, SDK for agents, Content creation, Build-your-own
+Coding, SDK for agents, Build-your-own
 
 	
 ### Description
@@ -2783,7 +2783,7 @@ Autocomplete AI assistant for work
 ![image](https://static.vecteezy.com/system/resources/previews/024/246/469/non_2x/advanced-ai-assistant-icon-in-illustration-vector.jpg)
 
 ### Category
-General purpose, Personal assistant (helping with daily tasks), Business intelligence, Productivity, Data analysis
+Personal assistant, Business intelligence, Productivity, Data analysis
 
 ### Description
 - B2 is an autonomous AI assistant to help you get things done
