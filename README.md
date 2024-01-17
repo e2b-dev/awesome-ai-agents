@@ -2436,7 +2436,7 @@ General purpose
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
- Empowering Businesses with Secure, People-Centric Autonomous AI Agents
+Secure, People-Centric Autonomous AI Agents
 
 <details>
 
@@ -2449,16 +2449,13 @@ General purpose, Productivity, Business intelligence
 - Empowering Businesses with Secure, People-Centric Autonomous AI Agents
 - Still in early version
 
-
 ### Links
 - [Web](https://ability.ai/)
 
 </details>
 
-
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
-A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
-
+ML research and product lab building intelligence
 
 <details>
 
@@ -2468,6 +2465,7 @@ A ML research and product lab building general intelligence by enabling humans a
 General purpose
 
 ### Description
+- A ML research and product lab building general intelligence by enabling humans and computers to work together creatively
 - An AI teammate for everyone
 - "Adept is building an entirely new way to get things done. It takes your goals, in plain language, and turns them into actions on the software you use every day."
 - In early stage
@@ -2481,7 +2479,7 @@ General purpose
 </details>
 
 ## [AgentScale](https://agentscale.ai/)
-AgentScale is your very own personal assistant, email writer, calendar scheduler, and internet surfer
+Your assistant, email writer, calendar scheduler
 
 <details>
 
@@ -2491,6 +2489,7 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 General purpose, Productivity
 
 ### Description
+AgentScale is your very own personal assistant, email writer, calendar scheduler, and internet surfer
 - AgentScale is your very own AI personal assistant
 
 
@@ -2504,7 +2503,7 @@ General purpose, Productivity
 
 
 ## [Aide by Codestory](https://codestory.ai/)
-The AI-powered mod of VSCode
+AI code interpreter, AI-powered mod of VSCode
 
 <details>
 
@@ -2529,7 +2528,6 @@ Coding
 </details>
 
 ## [AilaFlow](https://ailaflow.com)
-
 No-code platform for building AI agents
 
 <details>
@@ -2552,7 +2550,7 @@ Build-your-own, Productivity
 
 
 ## [Airkit.ai](https://www.airkit.ai)
-Airkit is a developer-first platform for building, testing, and deploying AI Agents.
+Platform for building, testing, deploying Agents
 
 <details>
 
@@ -2573,10 +2571,8 @@ Build-your-own
 
 </details>
 
-
 ## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
-Airplane is a company for building internal tools, they're building their autopilot AI assistant.
-
+Autopilot AI assistant of the Airplane company
 
 <details>
 
@@ -2604,8 +2600,8 @@ Coding, General purpose
 
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
+AI agent designed for business intelligence
 
-An AI agent specifically designed for business intelligence
 <details>
 
 ![image](https://www.aomni.com/icons/aomni-logo-black.svg)
@@ -2627,8 +2623,7 @@ Business intelligence
 </details>
 
 ## [Artisian AI](https://github.com/Artisan-AI)
-Human-like digital workers with different purposes, e.g., sales, e-mails, and book keeping
-
+Agents for sales, e-mails, book keeping & more
 
 <details>
 
@@ -2657,7 +2652,7 @@ Multi-agent, Build-your-own
 
 
 ## [AskToSell](https://asktosell.com/)
-A web platform to deploy & manage autonomous AI sales agents that close deals
+Meet autonomous AI sales agents that close deals
 
 <details>
 
@@ -2679,7 +2674,7 @@ Sales, Build-your-own, Business intelligence, Marketing
 </details>
 
 ## [AskYourDatabase](https://www.askyourdatabase.com/)
-AI-native database client, to chat with SQL databases, get insights & visualization
+Chat with SQL database, explore and visualize data
 
 <details>
 
@@ -2700,7 +2695,7 @@ Business intelligence, Productivity, Data analysis
 </details>
 
 ## [BitBuilder](https://www.bitbuilder.ai/?utm_source=awesome-ai-agents)
-(Pivoted to Elipsis) "Virtual intern for developers", generates code via PRs raised against your repository
+(Pivoted to Elipsis) "Virtual intern for devs"
 
 <details>
 
@@ -2727,14 +2722,10 @@ Coding, GitHub
 - [Slack](https://bitbuilder-ai.slack.com/join/shared_invite/zt-1tlrds3n4-rpmgIGM6XrB5W97005IA1Q#/shared-invite/email)
 - [Installation](https://docs.bitbuilder.ai/install)
 
-
-
 </details>
 
-
 ## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
-
-AI no-code copilot that allows users to build AI apps.
+No-code copilot that allows users to build AI apps
 
 <details>
 
@@ -2760,7 +2751,7 @@ Coding
 
 
 ## [Butternut AI](https://butternut.ai/)
-A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
+Build fully-functioning, ready-to-launch website
 
 <details>
 
@@ -2770,6 +2761,7 @@ A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 Web design, Design, Coding, Marketing
 
 ### Description
+A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 - No coding required thanks to user-friendly interface
 - Full SEO optimization
 - Picture Upload: Users can conveniently upload and regenerate their own pictures for unlimited customization of their profiles
@@ -2784,7 +2776,7 @@ Web design, Design, Coding, Marketing
 </details>
 
 ## [B2 AI](https://www.b2.work/)
-Autocomplete for work
+Autocomplete AI assistant for work
 
 <details>
 
@@ -2806,8 +2798,7 @@ General purpose, Personal assistant (helping with daily tasks), Business intelli
 </details>
 
 ## [Claros AI Shopper](https://www.claros.so/)
-AI personal shopper that finds you interesting products, and learns your taste over time
-
+AI shopper that finds products for your taste
 <details>
 
 ![image](https://www.claros.so/logo-circle.png)
@@ -2816,6 +2807,7 @@ AI personal shopper that finds you interesting products, and learns your taste o
 Personal assistant
 
 ### Description
+Claros is an AI personal shopper that finds you interesting products, and learns your taste over time
 - AI Shopping Assistants for Ecom + Everyone
 - Claros is an AI personal shopper that finds you cool and interesting products. It can also learn your taste over time to give you the best results possible
 
@@ -2831,7 +2823,7 @@ Personal assistant
 
 
 ## [Codegen](https://www.codegen.com/)
-An agent that allows automatically solve tickets, write tests and level up user's development workflow with the power of GPT-4.
+Solve tickets, write tests, level up your workflow
 
 <details>
 
@@ -2841,7 +2833,7 @@ An agent that allows automatically solve tickets, write tests and level up user'
 Coding
 
 ### Description
-
+Codegen is an agent that allows automatically solve tickets, write tests and level up user's development workflow with the power of GPT-4.
 - Use-case: Coding, debugging, code migration etc.
 - Models used: GPT-4
 
@@ -2854,7 +2846,7 @@ Coding
 </details>
 
 ## [Codium AI](https://www.codium.ai/)
-AI-powered interactive code integrity dev tool enabling developers to ship software faster and with fewer bugs
+Coding multipurpose AI assistant for developers
 
 <details>
 
@@ -2864,7 +2856,6 @@ AI-powered interactive code integrity dev tool enabling developers to ship softw
 Coding
 
 ### Description
-
 - Generating meaningful tests for busy devs
 - Exploring and analyzing your code, docstrings, comments, and by interacting with you
 - Non-trivial tests (and trivial, too!) suggested right inside your IDE
@@ -2886,9 +2877,7 @@ Coding
 </details>
 
 ## [Commit](https://commit.dev)
-
-
-Career Copilot and AI Agent for Software Developers
+Career Copilot and AI Agent for SW Developers
 
 <details>
 
@@ -2910,9 +2899,7 @@ Coding
 
 
 ## [Cognosys](https://cognosys.ai)
-
-
-Web based version of AutoGPT/babyAGI
+Web-based version of AutoGPT or BabyAGI
 
 <details>
 
@@ -2924,7 +2911,6 @@ General purpose, Research
 ### Description
 - Friendly UI for building AI agents
 
-
 ### Links
 - Author: [Sully Omarr](https://twitter.com/SullyOmarr)
 - [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai)
@@ -2932,8 +2918,7 @@ General purpose, Research
 </details>
 
 ## [Cursor](https://www.cursor.so/)
-
-The AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.
+AI-powered Code Editor with VSCode-like UI
 
 <details>
 
@@ -2941,6 +2926,9 @@ The AI-first Code Editor. Build software faster in an editor designed for pair-p
 
 ### Category
 Coding
+
+### Description
+Cursor is the AI-first Code Editor. Build software faster in an editor designed for pair-programming with AI.
 
 ### Links
 - [Website](https://www.cursor.so/)
@@ -2950,8 +2938,7 @@ Coding
 </details>
 
 ## [Cykel](https://www.cykel.ai/)
-Cykel is an AI co-pilot model that can interact with any UI, website or API in response to natural language commands
-
+Interact with any UI, website or API
 
 <details>
 
@@ -2962,7 +2949,7 @@ General purpose, Productivity
 
 
 ### Description
-
+Cykel is an AI co-pilot model that can interact with any UI, website or API in response to natural language commands
 - Use-case: General purpose, Personal assistant (helping with daily tasks)
 
 
@@ -2975,9 +2962,8 @@ General purpose, Productivity
 </details>
 
 
-
 ## [Diagram](https://diagram.com/)
-AI-powered design tools for everything from copywriting to generating unique icons from text, recently acquired by Figma
+AI design tools for everyone, acquired by Figma
 
 <details>
 
@@ -2987,6 +2973,7 @@ AI-powered design tools for everything from copywriting to generating unique ico
 Design, Content creation
 
 ### Description
+- AI-powered design tools for everything from copywriting to generating unique icons from text
 - Magic Copy writes, edits, and rewrites Figma text layers so you can design with real copy
 - Generating images in Figma while designing
 - Magic Rename intelligently names your layers so you can spend more time designing
@@ -2999,7 +2986,7 @@ Design, Content creation
 </details>
 
 ## [Dosu](https://dosu.dev/)
-AI teammate that helps maintain your github repo, helping you respond to issues, triage bugs, and build better documentation
+GitHub repo AI teammate helping also with docs
 <details>
 
 ![image](https://avatars.githubusercontent.com/u/146474245?s=200&v=4)
@@ -3025,8 +3012,7 @@ Coding, Productivity
 </details>
 
 ## [Dot](https://www.getdot.ai/)
-Dot, the data bot - a virtual assistant that help with analytics
-
+Virtual assistant that help with data analytics
 <details>
 
 ![image](https://assets-global.website-files.com/644a347ea803e322d9c0feb8/644a36f6d9f2d08386070b0d_fox_avatar_7.jpg)
@@ -3047,7 +3033,7 @@ Data analysis, Business intelligence
 </details>
 
 ## [Duckie AI](https://duckie.ai/)
-Duckie AI is a platform that lets engineers manage a team of AI software development companions (Ducklings) that get their dev work done
+Team of AI SW development companions (Ducklings)
 
 <details>
 
@@ -3056,6 +3042,7 @@ Duckie AI is a platform that lets engineers manage a team of AI software develop
 Coding, Multi-agent
 
 ### Description
+Duckie AI is a platform that lets engineers manage a team of AI software development companions (Ducklings) that get their dev work done
 - Ducklings work with engineers to complete end-to-end feature development, from design to implementation
 Ducklings chat with users to define their goals, come up with engineering designs, and generate code
 - Founded: 2023
@@ -3070,11 +3057,8 @@ Ducklings chat with users to define their goals, come up with engineering design
 
 </details>
 
-
-
-
 ## [encode](https://encode.software)
-A fully autonomous software engineer
+Fully autonomous AI SW engineer in early stage
 
 <details>
 
@@ -3091,7 +3075,7 @@ Coding
 
 
 ## [Factory](https://www.factory.ai/)
-Working on autonomous coding Droids for building software end-to-end
+Coding Droids for building software end-to-end
 
 <details>
 
@@ -3107,12 +3091,10 @@ Coding
 ### Links
 - [CEO](https://twitter.com/matangrinberg)
 
-
 </details>
 
-
 ## [Fine](https://www.fine.dev/)
-Build Software with AI Agents. Leverage AI to the maximum and x10 your dev velocity.
+Build Software with AI Agents
 
 <details>
 
@@ -3135,7 +3117,7 @@ Coding, Multi-agent, Build-your-own
 </details>
 
 ## [Fine Tuner](https://fine-tuner.ai/)
-(Pivoted to Synthflow) Platform for no-code building of AI agents
+(Pivoted to Synthflow) No-code platform for agents
 
 <details>
 
@@ -3163,7 +3145,7 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 </details>
 
 ## [Fixie](https://www.fixie.ai/)
-A platform for creating LLM-powered apps like AI agents
+Platform for creating LLM-powered AI apps
 
 <details>
 
@@ -3187,8 +3169,7 @@ Build-your-own
 </details>
 
 ## [Floode](https://floodehq.com/)
-
-An AI executive assistant that automates communication busywork.
+Executive agent automating communication busywork
 
 <details>
 
@@ -3233,12 +3214,10 @@ Coding, GitHub
 - [Documentation](https://docs.github.com/en)
 - [Twitter](https://twitter.com/GitHubCopilot)
 
-
-
 </details>
 
 ## [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
- A suite of AI capabilities for every step of the software development lifecycle
+AI for every step of SW development lifecycle
 
 <details>
 
@@ -3259,11 +3238,10 @@ Coding
 ### Links
 - [Twitter](https://twitter.com/gitlab)
 
-
 </details>
 
 ## [GitWit](https://www.gitwit.dev/)
-A tool automating code generation, in beta version, created for full-stack developers
+Automate code generation with AI. In beta version
 
 <details>
 
@@ -3288,8 +3266,7 @@ Coding
 </details>
 
 ## [GoCharlie](https://gocharlie.ai/)
-
-A first of it's kind multimodal content creation agent 
+Multimodal content creation autonomous agent 
 <details>
 
 ![image](https://gocharlie.ai/wp-content/uploads/2023/08/gocharlie_logo_ai_2x-230x49@2x.png)
@@ -3310,7 +3287,7 @@ Content creation, General purpose
 
 
 ## [Graphlit](https://www.graphlit.com/)
-Graphlit is an API-first closed-source developer data platform for building applications with LLMs
+API-first data platform for building apps with AI
 
 <details>
 
@@ -3333,10 +3310,8 @@ Coding
 
 </details>
 
-
-
 ## [Grit](https://www.grit.io/)
-A beta version of a tool for fixing technical gap automatically, putting code migrations and dependency upgrades on autopilot
+Automating code migrations and dependency upgrades
 
 <details>
 
@@ -3356,7 +3331,7 @@ Coding
 </details>
 
 ## [Heights Platform](https://www.heightsplatform.com/)
-Your AI Coach and and AI Copilot for course creators, community builders, and coaches. Built into an all-in-one course creation and community software.
+For course creators, community builders & coaches
 
 <details>
 
@@ -3380,7 +3355,7 @@ Productivity
 
 
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
-Hex AI-powered tools for humans doing amazing things with data
+AI tools for doing amazing things with data
 
 <details>
 
@@ -3402,7 +3377,7 @@ You can see more – and sign up for the waitlist – over here.
 </details>
 
 ## [Heymoon.ai](https://heymoon.ai/)
-Personal assistant for life: to keep you on top of your calendar, tasks and information
+Keep you on top of your calendar, tasks and info
 
 <details>
 
@@ -3421,7 +3396,7 @@ Productivity
 </details>
 
 ## [Input](https://useinput.com/)
-AI-powered teammate that can collaborate, manage and write code with you
+AI-powered teammate that can collaborate on code
 <details>
 
 ![image](https://useinput.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlightLogo.196eccc1.png&w=640&q=75)
@@ -3441,7 +3416,7 @@ Coding, Multi-agent, GitHub
 </details>
 
 ## [Instrukt](https://github.com/blob42/Instrukt)
-A terminal-based environment for interacting with and extending modular AI agents, promoting self-hosted AI solutions over reliance on external services.
+Terminal env for interacting with with AI agents
 
 <details>
 
@@ -3459,7 +3434,7 @@ Coding, Build-your-own
 
 
 ## [Julius](https://julius.ai/)
-Julius AI allows data processing, analysis, and visualization
+AI data processing, analysis, and visualization
 
 <details>
 
@@ -3480,10 +3455,7 @@ Data analysis
 - [Twitter](https://twitter.com/JuliusAI_)
 - Team Twitter profiles: [Matt Brockman](https://twitter.com/badphilosopher), [rahul](https://twitter.com/0interestrates)
 
-
-
 </details>
-
 
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
@@ -3514,7 +3486,7 @@ Coding, Data analysis
 
 
 ## [Lindy](https://www.lindy.ai/)
-An AI assistant that can help with daily tasks, e.g., calendar management, email drafting, and contract sending
+AI assistant that can help with daily tasks
 
 <details>
 
