@@ -3511,9 +3511,8 @@ Productivity
 - 
 </details>
 
-## [Lutra AI]()
-A platform for creating AI workflows and apps based on your prompts
-
+## [Lutra AI](https://lutra.ai/)
+Platform for creating AI workflows and apps
 <details>
 
 ![image](https://media.licdn.com/dms/image/D4D0BAQE_KlQYa63Cbg/company-logo_200_200/0/1701917707502/lutra_ai_logo?e=1713398400&v=beta&t=-c8RMYvjM4j06XsJVx1DUJAJ336S80bWO4CSD_IHQao)
@@ -3540,7 +3539,7 @@ General purpose, Business intelligence, Productivity, Content creation
 </details>
 
 ## [Makedraft](https://makedraft.com/)
-Makedraft help developers generate and edit HTML components using text prompts. The components are styled with Tailwind CSS
+Generate + edit HTML components with text prompts
 
 <details>
 
@@ -3567,7 +3566,7 @@ Coding, Productivity, Generating apps, Design, Content creation
 </details>
 
 ## [Minion AI](https://minion.ai/)
-Made by creator of GitHub Copilot, so far in a waitlist stage
+By creator of GitHub Copilot, in waitlist stage
 <details>
 
 ![image](https://minion.ai/img/minion-1.png)
@@ -3582,7 +3581,7 @@ General purpose
 
 
 ## [MultiOn](https://multion.ai/)
-AI personal agent, holding the record for the first AI flight booking, food order (a burger) & workplace cert
+Book a flight or order a burger with MultiOn
 <details>
 
 ![image](https://pbs.twimg.com/profile_images/1735699647744864256/jrKJWM78_400x400.jpg)
@@ -3612,8 +3611,7 @@ Productivity, General purpose
 </details>
 
 ## [Mutable AI](https://mutable.ai/)
-AI Accelerated Software Development
-
+AI-Accelerated Software Development
 
 <details>
 
@@ -3638,7 +3636,7 @@ Coding
 
 
 ## [Naut](https://www.naut.ai/)
-Still in an early stage, with waitlist for early access
+Build your own agents. In early stage
 <details>
 
 ![image](https://pbs.twimg.com/profile_images/1643093020097609730/XmHqIOhJ_400x400.jpg)
@@ -3656,7 +3654,7 @@ Build-your-own, Multi-agent
 
 
 ## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
-An AI browsing assistant for everyday tasks, can operate a web browser to complete nearly any task
+Assistant for daily tasks, works with web browser
 
 <details>
 
@@ -3686,7 +3684,7 @@ Productivity
 </details>
 
 ## [Phind](https://www.phind.com/)
-Personal programming and research assistant
+Personal programming and research AI assistant
 
 <details>
 
@@ -3707,8 +3705,7 @@ Coding, research
 </details>
 
 ## [Proficient AI](https://proficientai.com)
-
-Interaction APIs and SDKs that allow developers to build, deploy and operate conversational AI agents in their apps
+Interaction APIs and SDKs for building AI agents
 <details>
 
 ![image](https://www.phind.com/images/phind_v2.svg)
@@ -3730,7 +3727,7 @@ Build-your-own
 </details>
 
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
-AI workforce on Slack for under-resourced SMEs. AI agent within slack workspace
+AI workforce on Slack for under-resourced SMEs
 
 <details>
 
@@ -3760,8 +3757,7 @@ General purpose, Personal assistant, Business intelligence, Productivity
 
 
 ## [Questflow](https://questflow.ai)
-
-Questflow is a marketplace for autonomous AI workers with no-code.
+Marketplace for autonomous AI workers with no-code
 
 <details>
 
@@ -3807,8 +3803,7 @@ General purpose, Generating apps, Build-your-own
 </details>
 
 ## [Saga](https://saga.so/ai)
-
-A digital AI assistant, an AI-powered workspace integrating notes, tasks, and tools
+Digital AI assistant for notes, tasks, and tools
 <details>
 
 ![image](https://uploads-ssl.webflow.com/600abb9dfd0530004ee876c0/62bd6a08f11f1f89bb1d1170_saga-logo.svg)
@@ -3831,9 +3826,8 @@ Productivity, Content creation
 
 </details>
 
-
 ## [Second](https://www.second.dev/)
-Automated migrations and upgrades for every codebase
+Automated migrations and upgrades for your code
 
 <details>
 
@@ -3860,7 +3854,6 @@ Coding
 </details>
 
 ## [Spell](https://spell.so/)
-
 AutoGPT agents with plugins
 <details>
 
@@ -3876,17 +3869,13 @@ General purpose
 - Manipulate files
 - Search web
 
-
-
 ### Links
 - [Author's Twitter](https://twitter.com/rafal_makes)
 
 </details>
 
-
 ## [Superluminal](https://superluminal.dev)
-Add an AI copilot to your product's data dashboard with just a few lines of code.
-
+AI copilot to your product's data dashboard
 
 <details>
 
@@ -3904,7 +3893,6 @@ Coding, Data analysis
 - Enable your customers to extract more value from the data already on their dashboard with meaningful answers to high-level questions.
 
 
-
 ### Links
 - [Twitter](https://twitter.com/getluminal/)
 - [Linkedin](https://www.linkedin.com/company/74930600/)
@@ -3912,7 +3900,7 @@ Coding, Data analysis
 </details>
 
 ## [TalktoData](https://talktodata.ai/)
-TalktoData AI allows advanced data discovery, cleaing, analysis, and visualization
+Data discovery, cleaing, analysis & visualization
 
 <details>
 
@@ -3937,7 +3925,7 @@ Coding, Data analysis
 </details>
 
 ## [Taskade](https://www.taskade.com/)
-Taskade AI lets users create, train, and run custom AI agents inside a unified workspace to build a virtual AI Workforce.
+Create, train, and run custom AI agents
 
 <details>
 
@@ -3964,7 +3952,7 @@ Build-your-own, General purpose, Productivity
 
 
 ## [ThinkChain AI](https://www.thinkchain.ai/)
-A financial AI agent platform using your own knowledge base
+Financial AI agent platform
 
 <details>
 
@@ -3988,7 +3976,7 @@ Finance, Data analysis
 </details>
 
 ## [Tusk](https://usetusk.ai/)
-Tusk is an AI engineer that pushes and tests code
+AI engineer that pushes and tests code
 
 <details>
 
@@ -4016,7 +4004,7 @@ Coding
 
 
 ## [v0 by Vercel](https://v0.dev/)
-v0 is a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS.
+Get React code based on Shadcn UI & Tailwind CSS
 
 <details>
 
@@ -4026,6 +4014,7 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 Coding
 
 ### Description
+v0 is a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS.
 - Currently in waitlist stage
 - v0 generates custom components on the fly that you can copy and paste into your existing codebase
 - Built on NextJS App Router
@@ -4036,11 +4025,10 @@ Coding
 - [Web](https://v0.dev/)
 - [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
 
-
 </details>
 
 ## [Wispy](https://wispy.technicalmagic.ai/)
-Wispy is a web-browsing AI assistant that can summarize content, compose content, explain things or create quizzes for topics you are learning
+Summarize content, compose content, create quizzes
 
 <details>
 
@@ -4050,6 +4038,7 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 Research, content creation
 
 ### Description
+Wispy is a web-browsing AI assistant that can summarize content, compose content, explain things or create quizzes for topics you are learning
 - Wispy is stil in Beta version
 - With Wispy, you can effortlessly transform web content to perfectly suit your unique needs, all without leaving the comfort of your browser
 - Chat-based AI like Llama and GPT-4 are not the only ways to incorporate AI into your life
