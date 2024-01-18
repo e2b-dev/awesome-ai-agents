@@ -245,7 +245,6 @@ General purpose, Build your own, Multi-agent
 
 ### Links
 - Paper: [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848)
-- [Contact](agentverse2@gmail.com)
 - [Twitter](https://twitter.com/Agentverse71134)
 - [Discord](https://discord.gg/gDAXfjMw)
 - [Hugging Face](https://huggingface.co/spaces/AgentVerse/agentVerse)
@@ -2068,6 +2067,7 @@ Superagent is not a single agent, but a tool that allows creating agents without
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
 - Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
 - [Interview: Discussing agents' tracing, observability, and debugging with Ismail Pelaseyed, the founder of Superagent](https://e2b.dev/blog/discussing-agents-challenges-with-ismail-pelaseyed-the-founder-of-superagent)
+- [Blog post: What Ismail from Superagent and other developers predict for the future of AI Agents](https://e2b.dev/blog/ai-agents-in-2024)
 
 </details>
 
@@ -3275,6 +3275,7 @@ Multimodal content creation autonomous agent
 Content creation, General purpose
 
 ### Description
+GoCharlie is a multimodal content creation autonomous agent.
 
 ### Links
 - [X ](https://twitter.com/GocharlieAI)
