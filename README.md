@@ -1246,7 +1246,6 @@ General purpose
 	- Find and negotiate a lease
 - Supports GPT-3.5 & GPT-4
 
-
 ### Links
 - [GitHub](https://github.com/FOLLGAD/Godmode-GPT)
 - Authors: [Emil Ahlbäck](https://twitter.com/emilahlback), [Lonis](https://twitter.com/_Lonis_)
