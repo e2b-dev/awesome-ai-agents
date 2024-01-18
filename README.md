@@ -1276,8 +1276,8 @@ GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 
 
 ### Links
-- [Web]((https://gptengineer.app/))
-- [GitHub]((https://github.com/AntonOsika/gpt-engineer))
+- [Web](https://gptengineer.app)
+- [GitHub](https://github.com/AntonOsika/gpt-engineer)
 - [Discord](https://discord.com/invite/8tcDQ89Ej2)
 - Author: [Anton Osika](https://twitter.com/antonosika)
 - [Twitter review by @Attack](https://twitter.com/Attack/status/1671165869064609792)
@@ -1290,6 +1290,7 @@ Migrate codebase between frameworks/languages
 <details>
 
 ![Image](https://opengraph.githubassets.com/678543c5159118a70ea974db32bb95b310a3fbb6ad4296e97d54335031f8df82/joshpxyne/gpt-migrate)
+
 ### Category
 Coding
 
@@ -1328,7 +1329,6 @@ GPT Pilot is an AI agent that codes the entire app as you oversee the code being
 ### Links
 - [GitHub](https://github.com/Pythagora-io/gpt-pilot)
 - [Discord](https://discord.com/invite/HaqXugmxr9)
-
 
 
 </details>
