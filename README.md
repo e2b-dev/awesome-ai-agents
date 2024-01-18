@@ -1651,13 +1651,11 @@ Assists you with coding task from command line
 
  ![image](https://assets-global.website-files.com/64bad175c3f1fe8957a06faf/64bef0d57ca34f97c26b2c63_abante-ai-icon_transparent_271.png)
 
-
 ### Category
 Coding
 
 ### Description
 Mentat is the AI tool that assists you with any coding task, right from your command line.
-
 Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
 
 ### Links  
@@ -1665,7 +1663,6 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 - [Youtube](https://www.youtube.com/watch?v=lODjaWclwpY)
 - Author: [Bio Bootloader](https://twitter.com/bio_bootloader) (Twitter)
 - [Discord Invite](https://discord.com/invite/zbvd9qx9Pb)
-
 
 </details>
 
@@ -1714,6 +1711,11 @@ General purpose
 - MiniAGI is a simple autonomous agent compatible with GPT-3.5-Turbo and GPT-4
 - It combines a robust prompt with a minimal set of tools, chain-of-thoughts, and short-term memory with summarization
 - Capable of inner monologue and self-criticism
+
+
+### Links
+- [GitHub](https://github.com/muellerberndt/mini-agi)
+
 </details>
 
 
@@ -3573,6 +3575,10 @@ By creator of GitHub Copilot, in waitlist stage
 
 ### Category
 General purpose
+
+### Description
+By creator of GitHub Copilot, in waitlist stage
+
 
 ### Links
 - [Twitter](https://twitter.com/ai_minion)
