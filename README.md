@@ -1237,7 +1237,7 @@ Inspired by AutoGPT and BabyAGI, with nice UI
 ### Category
 General purpose
 
-## Description
+### Description
 - Godmode is a project inspired by Auto-GPT and BabyAGI, conducting  various kinds of tasks via nice UI
 - A web platform inspired by AutoGPT and BabyAGI
 - What it can do:
@@ -1247,7 +1247,7 @@ General purpose
 - Supports GPT-3.5 & GPT-4
 
 
-## Links
+### Links
 - [GitHub](https://github.com/FOLLGAD/Godmode-GPT)
 - Authors: [Emil Ahlbäck](https://twitter.com/emilahlback), [Lonis](https://twitter.com/_Lonis_)
 - [Discord](https://discord.com/invite/vSzCcDDwz3)
