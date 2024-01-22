@@ -26,7 +26,7 @@ Codeium
   Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">cloud runtime</a> for AI agents
 </h3>
 
-<h5 align="center">🌟 <a href="https://e2b.dev">See this list in web UI</a></h5>
+<h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
 
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
@@ -37,7 +37,7 @@ We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
 - [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
   
-To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev). 🌟
+To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
@@ -876,7 +876,7 @@ LangChain agent for chemistry-related tasks
 ### Category
 Science, Chemistry
 
-### Decsription
+### Description
 - ChemCrow is an open source package for the accurate solution of reasoning-intensive chemical tasks
 - It integrates 13 expert-design tools to augment LLM performance in chemistry and demonstrate effectiveness in automating chemical tasks
 - Built with Langchain
@@ -976,7 +976,7 @@ Open-source autopilot for software development
 ### Category
 Coding
 
-### Decsription
+### Description
 - An open-source autopilot for software development—bring the power of ChatGPT to VS Code
 - Features:
 	- Answer coding questions
@@ -1001,7 +1001,7 @@ Framework for orchestrating role-playing agents
 ### Category
 Build-your-own, SDK for agents, Multi-agent
 
-### Decsription
+### Description
 - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 - By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
