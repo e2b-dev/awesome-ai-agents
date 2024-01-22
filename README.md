@@ -26,6 +26,8 @@ Codeium
   Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">cloud runtime</a> for AI agents
 </h3>
 
+<h5 align="center">🌟 <a href="https://e2b.dev">See this list in web UI</a></h5>
+
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
@@ -34,6 +36,8 @@ Welcome to our list of AI agents.
 We structured the list into two parts:
 - [Open source projects](#open_hands-open-source-projects)
 - [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
+  
+To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev). 🌟
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
