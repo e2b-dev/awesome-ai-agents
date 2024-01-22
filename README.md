@@ -1864,7 +1864,7 @@ Code interpreter that lets LLMs execute code
 
 <details>
 
- ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCg-Na5DtbcAU1tI6hwDS4LeA0xvq04AJ4BKjxHHJ3sOOv4ix6vs3CBGMkRytdb4K7mts&usqp=CAU)
+ ![image](https://openinterpreter.com/assets/ncu_thumbnail.jpg)
 
 ### Category
 Coding
