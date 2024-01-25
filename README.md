@@ -1,11 +1,24 @@
 <!--
 TBD:
 Add to visual:
--
+- Self-operating computer
+- Kompas AI
+- LLM Stack
+- Promptly
+- Juno
+- Kusho
+- Wordware
+- Code Autopilot
+- GPTDiscord
+- Chat Arena
+- Code WP
+- NoteWizard
 
 Add to readme list:
-Rubric
-Codeium
+- Rubric
+- Codeium
+- Semantix AI Agents - add when they have english version
+- NoteWizard - only if it's AI agent - TBD test
 
 - Suspicion Agent
 - Wispy
@@ -842,6 +855,35 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [ChatArena](https://www.chatarena.org/)
+A chat tool for multi agent interaction
+
+<details>
+
+![image](https://github.com/Farama-Foundation/chatarena/raw/main/docs/images/chatarena_architecture.png)
+
+### Category
+Design, Build-your-own, SDK for AI apps, Multi-agent
+
+### Description
+- ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
+ChatArena provides:
+- A general framework for building interactive environments for multiple large language models (LLMs). 
+- A collection of pre-built or community-created  environments.
+- User-friendly interfaces with both Web UI and commandline interfaces.
+
+
+#### LLMs/model providers supported
+Unknown
+
+### Links
+- [Web](https://www.chatarena.org/)
+- [GitHub](https://github.com/Farama-Foundation/chatarena)
+- [X](https://twitter.com/_chatarena)
+- [Slack channel](https://chatarena.slack.com/join/shared_invite/zt-1t5fpbiep-CbKucEHdJ5YeDLEpKWxDOg#/shared-invite/email)
+  
+</details>
+
 ## [ChatDev](https://github.com/OpenBMB/ChatDev)
 Communicative agents for software development
 
@@ -1258,6 +1300,33 @@ General purpose
 
 </details>
 
+## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
+The ultimate AI agent integration for Discord
+
+<details>
+
+![image](https://camo.githubusercontent.com/c02e68bf20c853637e8cfb02c9406bd2b3b20637ea4ed95b7d68819e94a01dfe/68747470733a2f2f692e696d6775722e636f6d2f425a644f52544c2e706e67)
+
+### Category
+Content creation, Productivity, General purpose, Discord
+
+### Description
+- GPT Discord is a robust, all-in-one GPT interface for Discord.
+- GPT Discord supports everything from multi-modality image understanding, code interpretation, advanced data analysis, Q&A on your own documents, internet-connected chat with Wolfram Alpha and Google access, AI-moderation, image generation with DALL-E, and much more!
+- Featuring code execution and environment manipulation by E2B
+- ![image](https://camo.githubusercontent.com/6806eb5cd7f4a14e693bc732a304f18c5413a493c92b4b73202ec3205017b9c8/68747470733a2f2f692e696d6775722e636f6d2f547366677455322e706e67)
+
+
+#### LLMs/model providers supported
+- OpenAI models
+
+### Links
+- [GitHub](https://github.com/Kav-K/GPTDiscord)
+- [Kaveen Kumarasinghe - founder of GPT Discord - website](https://kaveenk.com/)
+- [Kaveen Kumarasinghe - founder of GPT Discord - LinkedIn](https://www.linkedin.com/in/kaveenk/)
+  
+</details>
+
 ## [GPT Engineer](https://gptengineer.app/)
 Generates entire codebase based on a prompt
 
@@ -1529,6 +1598,35 @@ A minimalistic library for building agents that leverage large language models t
 
 - [GitHub](https://github.com/mpaepper/llm_agents)
 - [Blog](https://www.paepper.com/blog/posts/intelligent-agents-guided-by-llms/)
+
+</details>
+
+## [LLM Stack](https://llmstack.ai/)
+No-code platform to build LLM Agents
+
+<details>
+
+![image](https://llmstack.ai/img/logo-grayscale.svg)
+
+### Category
+Build-your-own, no-code, web UI
+
+### Description
+- LLM Stack is a no-code platform to build LLM Agents, workflows and applications with your data
+- LLMStack supports all major model providers, like OpenAI, Cohere, Stability AI, Hugging Face, and more. Easily use these models to build powerful apps.
+- With LLM Stack, you can build generative AI agents like AI SDRs, Research Analysts, RPA Automations etc., without writing any code. Connect agents to your internal or external tools, search the web or browse the internet with agents.
+
+#### LLMs/model providers supported
+- OpenAI
+- Cohere
+- Stability AI
+- Hugging Face
+
+### Links
+
+- [Web](https://llmstack.ai/)
+- [GitHub](https://github.com/trypromptly/LLMStack)
+- [Blog](https://llmstack.ai/blog)
 
 </details>
 
@@ -1991,6 +2089,25 @@ Coding
 - [GitHub](https://github.com/eylonmiz/react-agent)
 - [Documentation](https://docs.reactagent.io/)
 - Authors: [Eylon Miz and](https://twitter.com/EylonMiz) and [Lee Twito](https://twitter.com/LeeTwito)
+
+</details>
+
+## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
+Let multimodal models operate a computer
+
+<details>
+
+![image](https://assets-global.website-files.com/63fcd79d410b22ddf397e1b8/654272554402410a71c84ab9_6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp)
+
+### Category
+Productivity, Research
+
+### Description
+- Using the same inputs and outputs as a human operator, the model views the screen and decides on a series of mouse and keyboard actions to reach an objective.
+
+### Links
+- [Web](https://www.hyperwriteai.com/self-operating-computer)
+- [GitHub](https://github.com/OthersideAI/self-operating-computer)
 
 </details>
 
@@ -2826,6 +2943,34 @@ Claros is an AI personal shopper that finds you interesting products, and learns
 
 </details>
 
+## [Code Autopilot](https://www.codeautopilot.com/)
+AI Assistant for your project
+
+<details>
+
+![image](https://www.codeautopilot.com/_next/static/media/logo_purple.fa331d81.png)
+
+### Category
+Coding, Multi-agent, GitHub
+
+### Description
+- AI Assistant for your GitHub issues and pull requests. Create entire features and fix bugs on complex GitHub projects at a distance of a text description.
+
+#### LLMs/model providers supported
+Unknown
+
+- [Post on X about supported models](https://x.com/bertie_ai/status/1734539295187214423?s=20)
+
+### Links
+
+- [Web](https://www.codeautopilot.com/)
+- [Docs](https://docs.codeautopilot.com/)
+- [X](https://twitter.com/code_autopilot)
+- [Gustavo Silva - co-founder of Code Autopilot](https://twitter.com/Gsandec)
+- [Fábio Zé Domingues - co-founder of Code Autopilot](https://twitter.com/fjrdomingues)
+  
+</details>
+
 
 ## [Codegen](https://www.codegen.com/)
 Solve tickets, write tests, level up your workflow
@@ -2848,6 +2993,30 @@ Codegen is an agent that allows automatically solve tickets, write tests and lev
 - [Web](https://www.codegen.com/)
 - [X ](https://twitter.com/Codegen)
 - [Founder's X](https://twitter.com/mathemagic1an)
+</details>
+
+## [CodeWP](https://codewp.ai/)
+AI Agent for WordPress websites
+<details>
+
+![image](https://codewp.ai/wp-content/uploads/2023/09/New-Icon.png)
+
+### Category
+Coding
+
+### Description
+Faster WordPress Development with domain-specific AI modes, tools, and features.
+
+#### LLMs/model providers supported
+Unknown
+
+### Links
+- [Web](https://codewp.ai/)
+- [GitHub](https://github.com/wpai-inc/)
+- [X](https://twitter.com/codewp_ai)
+- [LinkedIn](https://www.linkedin.com/company/wpai-inc/)
+- [James LePage - founder of CodeWP](https://twitter.com/codewp_ai)
+  
 </details>
 
 ## [Codium AI](https://www.codium.ai/)
@@ -3490,6 +3659,100 @@ Coding, Data analysis
 
 </details>
 
+## [Juno](https://heyjuno.co/)
+AI-led user interviews for rich human insights
+
+<details>
+
+![image](https://framerusercontent.com/images/PobjUKj7qACciStbW7PAArGYXc.png?scale-down-to=512)
+
+### Category
+Data analysis, Research, Business intelligence, web UI
+
+### Description
+- Meet Juno! An AI-moderated research platform that conducts research and collects human insights. It’s unsupervised, multilingual and autonomous. Trained by veteran researchers, Juno empowers everyone to conduct in-depth qualitative research, without prior experience.
+
+
+#### LLMs/model providers supported
+- OpenAI
+
+### Links
+
+- [Web](https://heyjuno.co/)
+- [X](https://twitter.com/heyjunoco)
+- [LinkedIn](https://www.linkedin.com/company/heyjunoco/)
+- [Privacy overview](https://twitter.com/heyjunoco)
+
+
+</details>
+
+## [Kompas AI](https://kompas.ai/)
+Pick your LLM & build custom conversational agent
+
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1712005262633271296/2c9Vdj2B_400x400.png)
+
+### Category
+Productivity, Build-your-own, Business intelligence
+
+### Description
+- Kompas AI is an advanced AI assistant for your team.
+- It's designed to assist and enhance your productivity.
+- It processes multiple tasks simultaneously.
+- Kompas AI outperforms ChatGPT Pro in response speed, using Microsoft Azure's OpenAI Service.
+- Kompas AI offers a free trial that allows you to use the Pro version for 10 days.
+- Kompas AI primarily uses the gpt-4-turbo, gpt-4-vision and gpt-3.5-turbo models, but it also supports other models like Gemini, Claude 2, and open-source models. Notably, Kompas AI features a larger context window, through gpt-4-turbo utilizing a 128K tokens Context Window that allows it to remember up to 512,000 characters of past conversation for more complex tasks.
+- Kompas AI prioritizes data security. Your files are protected with strong encryption, and data in transit is safeguarded. Unused data is regularly removed from the system.
+
+### Links
+- [Web](https://kompas.ai/)
+- [X](https://twitter.com/Kompas_AI)
+- [GitHub](https://github.com/KompasAI)
+- [LinkedIn](https://www.linkedin.com/company/kompas-ai/)
+- [Medium](https://medium.com/@Kompas.ai)
+- [Docs](https://docs.kompas.ai/docs/kompas-ai-intro/service-introduction)
+
+</details>
+
+## [Kusho](https://kusho.ai/)
+AI agent for API testing
+
+<details>
+
+![image](https://media.licdn.com/dms/image/D560BAQFE0UatBCw0_w/company-logo_200_200/0/1702642519517/kusho_logo?e=1714003200&v=beta&t=mihS31C5JOQPva4d17sJvNj_QOS1TS9slFp4VAH16u8)
+
+### Category
+Coding, Productivity, Debugging
+
+### Description
+- KushoAI instantly generates and runs test suites for your APIs so you can push code effortlessly. 
+- Save hours of manual effort by delegating API testing to KushoAI. Unlock crash-free releases starting today.
+
+1. Add a link to your Postman collection to instantly generate exhaustive test suites for each API and save hours of manual effort.
+
+2. Get AI-analysed test results in a single click.
+
+3. Auto-run relevant test suites at any stage of your CI/CD pipeline."
+- Works on your Postman collections
+
+"At KushoAI, we believe that the job of technology is to empower people. We’re building AI agents trained for specific problems to unlock value at a pace faster than ever before."
+
+#### LLMs/model providers supported
+Unknown
+
+### Links
+
+- [Web](https://kusho.ai/)
+- [X](https://twitter.com/kushoai)
+- [LinkedIn](https://www.linkedin.com/company/kusho/?originalSubdomain=in)
+- [Blog](https://blog.kusho.ai/)
+- [YouTube](https://www.youtube.com/@KushoAI)
+- [Sourabh Gawande - cofounder at Kusho](https://www.linkedin.com/in/sourabhgawande/)
+- [Abhishek Saikia - cofounder at Kusho](https://www.linkedin.com/in/abhishek1315/)
+  
+</details>
+
 
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
@@ -3736,6 +3999,41 @@ Build-your-own
 - [Discord](https://discord.gg/DVbwTM8erb)
 </details>
 
+## [Promptly](https://www.trypromptly.com/)
+Generative AI for Your Enterprise
+
+<details>
+
+![image](https://assets-global.website-files.com/64627565e0cbc380d04ed8ae/6488f9eb9992aa1dc3bc1a63_logo.svg)
+
+### Category
+Build-your-own, no-code, web UI
+
+### Description
+- Build tailor-made generative AI agents, applications and chatbots that cater to your users' unique needs.
+- Seamlessly integrate your own data and GPT-powered models without any coding experience.
+- Promptly supports all major model providers, like OpenAI, Cohere, Stability AI, Hugging Face, and more. Easily use these models to build powerful apps.
+- Promptly provides embeddable widgets that you can easily integrate into your website. Use these widgets to build conversational AI applications or to add a chatbot to your website.
+- Import your own data and connect it to LLM models to supercharge your generative AI applications and chatbots. Promptly supports a wide variety of data sources, including Web URLs, Sitemaps, PDFs, Audio, PPTs, Google Drive, Notion imports etc
+
+#### LLMs/model providers supported
+- OpenAI
+- Cohere
+- Stability AI
+- Hugging Face
+
+### Links
+
+- [Web](https://www.trypromptly.com/)
+- [X](https://twitter.com/trypromptly)
+- [GitHub](https://github.com/trypromptly)
+- [Discord](https://discord.com/invite/3JsEzSXspJ)
+- [LinkedIn](https://www.linkedin.com/company/trypromptly/)
+- [YouTube](https://www.youtube.com/@trypromptly)
+
+
+</details>
+
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
 AI workforce on Slack for under-resourced SMEs
 
@@ -3859,7 +4157,6 @@ Coding
 - [Linkedin](https://www.linkedin.com/company/secondhq/)
 - [Discord](https://discord.com/invite/ZhYUEjsW3Z)
 - Founder: [Eric Rowell](https://twitter.com/ericdrowell)
-
 
 </details>
 
@@ -4061,6 +4358,41 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 
 
 </details>
+
+## [Wordware](https://www.wordware.ai/)
+Build better language model apps, fast.
+
+<details>
+
+![image](https://media.licdn.com/dms/image/D4D0BAQFwJFfvXQ7j4A/company-logo_200_200/0/1693909474889/wordware_logo?e=1714003200&v=beta&t=65DGJQN1bRfjKhVmkWwH393y1_1L7ej8qd6yGYtmdpM)
+
+### Category
+Build-your-own, Supports open-source models
+
+### Description
+- Wordware is your all-in-one platform for deploying LLM applications.
+
+#### LLMs/model providers supported
+- GPT-3.5
+- GPT-4 Turbo
+- GPT-4
+- GPT-4 Vision
+- MISTRAL
+- MIXTRAL
+- Claude instant
+- Claude 2
+
+- [Post on X about supported models](https://x.com/bertie_ai/status/1734539295187214423?s=20)
+
+### Links
+
+- [Web](https://www.wordware.ai/)
+- [X](https://twitter.com/wordware_ai)
+- [LinkedIn](https://www.linkedin.com/company/wordware/)
+- [Filip Kozera - founder at Wordware](https://www.linkedin.com/in/filipkozera/)
+  
+</details>
+
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
