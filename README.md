@@ -877,9 +877,6 @@ ChatArena provides:
 - [GitHub](https://github.com/Farama-Foundation/chatarena)
 - [X](https://twitter.com/_chatarena)
 - [Slack channel](https://chatarena.slack.com/join/shared_invite/zt-1t5fpbiep-CbKucEHdJ5YeDLEpKWxDOg#/shared-invite/email)
-
-#### LLMs/model providers supported
-Unknown
   
 </details>
 
@@ -1314,14 +1311,14 @@ Content creation, Productivity, General purpose, Discord
 - GPT Discord supports everything from multi-modality image understanding, code interpretation, advanced data analysis, Q&A on your own documents, internet-connected chat with Wolfram Alpha and Google access, AI-moderation, image generation with DALL-E, and much more!
 - Featuring code execution and environment manipulation by E2B
 - ![image](https://camo.githubusercontent.com/6806eb5cd7f4a14e693bc732a304f18c5413a493c92b4b73202ec3205017b9c8/68747470733a2f2f692e696d6775722e636f6d2f547366677455322e706e67)
+- LLMs/model providers supported:
+  - OpenAI models
 
 ### Links
 - [GitHub](https://github.com/Kav-K/GPTDiscord)
 - [Kaveen Kumarasinghe - founder of GPT Discord - website](https://kaveenk.com/)
 - [Kaveen Kumarasinghe - founder of GPT Discord - LinkedIn](https://www.linkedin.com/in/kaveenk/)
 
-#### LLMs/model providers supported
-- OpenAI models
   
 </details>
 
@@ -1613,18 +1610,16 @@ Build-your-own, no-code, web UI
 - LLM Stack is a no-code platform to build LLM Agents, workflows and applications with your data
 - LLMStack supports all major model providers, like OpenAI, Cohere, Stability AI, Hugging Face, and more. Easily use these models to build powerful apps.
 - With LLM Stack, you can build generative AI agents like AI SDRs, Research Analysts, RPA Automations etc., without writing any code. Connect agents to your internal or external tools, search the web or browse the internet with agents.
+- LLMs/model providers supported
+  - OpenAI
+  - Cohere
+  - Stability AI
+  - Hugging Face
 
 ### Links
-
 - [Web](https://llmstack.ai/)
 - [GitHub](https://github.com/trypromptly/LLMStack)
 - [Blog](https://llmstack.ai/blog)
-
-#### LLMs/model providers supported
-- OpenAI
-- Cohere
-- Stability AI
-- Hugging Face
 
 </details>
 
@@ -2960,9 +2955,6 @@ Coding, Multi-agent, GitHub
 - [X](https://twitter.com/code_autopilot)
 - [Gustavo Silva - co-founder of Code Autopilot](https://twitter.com/Gsandec)
 - [Fábio Zé Domingues - co-founder of Code Autopilot](https://twitter.com/fjrdomingues)
-
-#### LLMs/model providers supported
-Unknown
   
 </details>
 
@@ -3008,9 +3000,6 @@ Faster WordPress Development with domain-specific AI modes, tools, and features.
 - [X](https://twitter.com/codewp_ai)
 - [LinkedIn](https://www.linkedin.com/company/wpai-inc/)
 - [James LePage - founder of CodeWP](https://twitter.com/codewp_ai)
-
-#### LLMs/model providers supported
-Unknown
   
 </details>
 
@@ -3666,6 +3655,8 @@ Data analysis, Research, Business intelligence, web UI
 
 ### Description
 - Meet Juno! An AI-moderated research platform that conducts research and collects human insights. It’s unsupervised, multilingual and autonomous. Trained by veteran researchers, Juno empowers everyone to conduct in-depth qualitative research, without prior experience.
+- LLMs/model providers supported
+  - OpenAI
 
 ### Links
 
@@ -3673,9 +3664,6 @@ Data analysis, Research, Business intelligence, web UI
 - [X](https://twitter.com/heyjunoco)
 - [LinkedIn](https://www.linkedin.com/company/heyjunoco/)
 - [Privacy overview](https://twitter.com/heyjunoco)
-
-#### LLMs/model providers supported
-- OpenAI
 
 </details>
 
@@ -3740,9 +3728,6 @@ Coding, Productivity, Debugging
 - [YouTube](https://www.youtube.com/@KushoAI)
 - [Sourabh Gawande - cofounder at Kusho](https://www.linkedin.com/in/sourabhgawande/)
 - [Abhishek Saikia - cofounder at Kusho](https://www.linkedin.com/in/abhishek1315/)
-
-#### LLMs/model providers supported
-Unknown
   
 </details>
 
@@ -4008,21 +3993,19 @@ Build-your-own, no-code, web UI
 - Promptly supports all major model providers, like OpenAI, Cohere, Stability AI, Hugging Face, and more. Easily use these models to build powerful apps.
 - Promptly provides embeddable widgets that you can easily integrate into your website. Use these widgets to build conversational AI applications or to add a chatbot to your website.
 - Import your own data and connect it to LLM models to supercharge your generative AI applications and chatbots. Promptly supports a wide variety of data sources, including Web URLs, Sitemaps, PDFs, Audio, PPTs, Google Drive, Notion imports etc
+- LLMs/model providers supported
+  - OpenAI
+  - Cohere
+  - Stability AI
+  - Hugging Face
 
 ### Links
-
 - [Web](https://www.trypromptly.com/)
 - [X](https://twitter.com/trypromptly)
 - [GitHub](https://github.com/trypromptly)
 - [Discord](https://discord.com/invite/3JsEzSXspJ)
 - [LinkedIn](https://www.linkedin.com/company/trypromptly/)
 - [YouTube](https://www.youtube.com/@trypromptly)
-
-#### LLMs/model providers supported
-- OpenAI
-- Cohere
-- Stability AI
-- Hugging Face
 
 </details>
 
@@ -4363,6 +4346,16 @@ Build-your-own, Supports open-source models
 
 ### Description
 - Wordware is your all-in-one platform for deploying LLM applications.
+- LLMs/model providers supported
+  - GPT-3.5
+  - GPT-4 Turbo
+  - GPT-4
+  - GPT-4 Vision
+  - MISTRAL
+  - MIXTRAL
+  - Claude instant
+  - Claude 2
+  - [Post on X about supported models](https://x.com/bertie_ai/status/1734539295187214423?s=20)
 
 ### Links
 
@@ -4370,17 +4363,6 @@ Build-your-own, Supports open-source models
 - [X](https://twitter.com/wordware_ai)
 - [LinkedIn](https://www.linkedin.com/company/wordware/)
 - [Filip Kozera - founder at Wordware](https://www.linkedin.com/in/filipkozera/)
-
-#### LLMs/model providers supported
-- GPT-3.5
-- GPT-4 Turbo
-- GPT-4
-- GPT-4 Vision
-- MISTRAL
-- MIXTRAL
-- Claude instant
-- Claude 2
-- [Post on X about supported models](https://x.com/bertie_ai/status/1734539295187214423?s=20)
   
 </details>
 
