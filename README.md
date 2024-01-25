@@ -871,8 +871,6 @@ ChatArena provides:
 - A general framework for building interactive environments for multiple large language models (LLMs). 
 - A collection of pre-built or community-created  environments.
 - User-friendly interfaces with both Web UI and commandline interfaces.
-
-
 #### LLMs/model providers supported
 Unknown
 
@@ -1315,8 +1313,6 @@ Content creation, Productivity, General purpose, Discord
 - GPT Discord supports everything from multi-modality image understanding, code interpretation, advanced data analysis, Q&A on your own documents, internet-connected chat with Wolfram Alpha and Google access, AI-moderation, image generation with DALL-E, and much more!
 - Featuring code execution and environment manipulation by E2B
 - ![image](https://camo.githubusercontent.com/6806eb5cd7f4a14e693bc732a304f18c5413a493c92b4b73202ec3205017b9c8/68747470733a2f2f692e696d6775722e636f6d2f547366677455322e706e67)
-
-
 #### LLMs/model providers supported
 - OpenAI models
 
@@ -1615,7 +1611,6 @@ Build-your-own, no-code, web UI
 - LLM Stack is a no-code platform to build LLM Agents, workflows and applications with your data
 - LLMStack supports all major model providers, like OpenAI, Cohere, Stability AI, Hugging Face, and more. Easily use these models to build powerful apps.
 - With LLM Stack, you can build generative AI agents like AI SDRs, Research Analysts, RPA Automations etc., without writing any code. Connect agents to your internal or external tools, search the web or browse the internet with agents.
-
 #### LLMs/model providers supported
 - OpenAI
 - Cohere
@@ -2955,19 +2950,16 @@ Coding, Multi-agent, GitHub
 
 ### Description
 - AI Assistant for your GitHub issues and pull requests. Create entire features and fix bugs on complex GitHub projects at a distance of a text description.
-
 #### LLMs/model providers supported
-Unknown
-
 - [Post on X about supported models](https://x.com/bertie_ai/status/1734539295187214423?s=20)
 
 ### Links
-
 - [Web](https://www.codeautopilot.com/)
 - [Docs](https://docs.codeautopilot.com/)
 - [X](https://twitter.com/code_autopilot)
 - [Gustavo Silva - co-founder of Code Autopilot](https://twitter.com/Gsandec)
 - [Fábio Zé Domingues - co-founder of Code Autopilot](https://twitter.com/fjrdomingues)
+  
   
 </details>
 
@@ -3006,7 +2998,6 @@ Coding
 
 ### Description
 Faster WordPress Development with domain-specific AI modes, tools, and features.
-
 #### LLMs/model providers supported
 Unknown
 
@@ -3671,8 +3662,6 @@ Data analysis, Research, Business intelligence, web UI
 
 ### Description
 - Meet Juno! An AI-moderated research platform that conducts research and collects human insights. It’s unsupervised, multilingual and autonomous. Trained by veteran researchers, Juno empowers everyone to conduct in-depth qualitative research, without prior experience.
-
-
 #### LLMs/model providers supported
 - OpenAI
 
@@ -3737,7 +3726,6 @@ Coding, Productivity, Debugging
 - Works on your Postman collections
 
 "At KushoAI, we believe that the job of technology is to empower people. We’re building AI agents trained for specific problems to unlock value at a pace faster than ever before."
-
 #### LLMs/model providers supported
 Unknown
 
@@ -4015,7 +4003,6 @@ Build-your-own, no-code, web UI
 - Promptly supports all major model providers, like OpenAI, Cohere, Stability AI, Hugging Face, and more. Easily use these models to build powerful apps.
 - Promptly provides embeddable widgets that you can easily integrate into your website. Use these widgets to build conversational AI applications or to add a chatbot to your website.
 - Import your own data and connect it to LLM models to supercharge your generative AI applications and chatbots. Promptly supports a wide variety of data sources, including Web URLs, Sitemaps, PDFs, Audio, PPTs, Google Drive, Notion imports etc
-
 #### LLMs/model providers supported
 - OpenAI
 - Cohere
@@ -4371,7 +4358,6 @@ Build-your-own, Supports open-source models
 
 ### Description
 - Wordware is your all-in-one platform for deploying LLM applications.
-
 #### LLMs/model providers supported
 - GPT-3.5
 - GPT-4 Turbo
