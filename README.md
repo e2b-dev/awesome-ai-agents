@@ -1042,10 +1042,17 @@ Build-your-own, SDK for agents, Multi-agent
 ### Description
 - Cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 - By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- Crew AI is a multi-agent framework built on LangChain, aiming to empower engineers to harness the collective power of AI agents. In contrast to traditional automation methods, Crew AI introduces a new approach to collaborative decision-making, enhanced creativity, and solving complex problems.
+- The design philosophy of Crew AI advocates simplicity through modularity. Its main components include agents, tools, tasks, processes, and crews. Each agent is akin to a team member, possessing specific roles, background stories, goals, and memories. Through modular design, we make the intricate world of AI agents accessible, manageable, and more engaging.
+
 
 ### Links
 - [GitHub](https://github.com/joaomdmoura/crewai)
 - [Founder's X](https://twitter.com/joaomdmoura)
+- [Blog post: How to use Crew AI](https://crewai.net/posts/how-to-use-crew-ai)
+- [Crew AI Wiki with examples and guides](https://github.com/joaomdmoura/CrewAI/wiki)
+- [Docs](https://github.com/joaomdmoura/CrewAI/wiki)
+- [Discord](https://discord.com/invite/X4JWnZnxPb)
 
 </details>
 
