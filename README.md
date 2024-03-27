@@ -1116,7 +1116,7 @@ Build-your-own, General purpose
 - [Website](https://www.demogpt.io/)
 - [Twitter](https://twitter.com/demo_gpt)
 - [Streamlit App](https://demogpt.streamlit.app/)
-- [Huggingface Space](https://huggingface.co/spaces/melihunsal/demogpt)
+- [Hugging Face Space](https://huggingface.co/spaces/melihunsal/demogpt)
 
 </details>
 
@@ -1742,7 +1742,7 @@ Memory management, Data analysis
 - [Paper](https://arxiv.org/abs/2310.08560)
 - [Documentation](https://memgpt.readthedocs.io/)
 - [Discord](https://discord.gg/9GEQrxmVyE)
-- [HuggingFace](https://huggingface.co/MemGPT)
+- [Hugging Face](https://huggingface.co/MemGPT)
 
 </details>
 
