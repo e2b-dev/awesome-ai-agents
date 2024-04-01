@@ -1701,7 +1701,7 @@ Natural-language workflows for your GitHub repo.
 
 <details>
 
- ![image]()
+ ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrQ3hXkHi0qTI-XThXwx7wA33LcAZZzLp5af6UjY0Vg&s)
 
 ### Category
 Coding, Productivity, Debugging, Multi-agent
@@ -4339,6 +4339,28 @@ Finance, Data analysis
 - [Web](https://www.thinkchain.ai/)
 - Founder: [Tony Lewis](https://twitter.com/_tony_lewis)
 
+</details>
+
+## [Test Driver](https://testdriver.ai/)
+AI Agent for QA in GitHub
+
+<details>
+
+![image](https://framerusercontent.com/images/in0q3dhCrmymGzApkC4KBzdpcE.png?scale-down-to=512)
+
+### Category
+Coding, Productivity, Debugging, Testing
+
+### Description
+- "No more writing automated tests or waiting on manual testing.
+- Instruct @testdriverai to test any PR with natural language.
+- TestDriver will perform a test on your PR and send back video and log recording of what occurred."
+
+### Links
+- [Web](https://testdriver.ai/)
+- [X (Twitter)](https://twitter.com/sunglassesface)
+- [LinkedIn](https://www.linkedin.com/in/adam-eldefrawy-8623a815a/)
+    
 </details>
 
 ## [Tusk](https://usetusk.ai/)
