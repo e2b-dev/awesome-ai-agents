@@ -1695,6 +1695,26 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
+## [Maige]()
+
+<details>
+
+ ![image]()
+
+### Category
+
+
+	
+### Description
+
+### Links  
+- [Web]()
+- [GitHub]()
+- [Video - testing Maige]
+- [Interview - founder about building Maige]
+
+</details>
+
 ## [Magick](https://www.magickml.com/)
 AIDE for creating, deploying, monetizing agents
 
@@ -3629,10 +3649,10 @@ Build your first team of Autonomous AI Agents
 
 <details>
 
-![image]()
+![image](https://invictai.io/_next/image?url=%2Fimages%2Finvicta-text-black.svg&w=3840&q=75)
 
 ### Category
-
+Build-your-own (agent-builing frameworks and platforms), Multi-agent
 
 ### Description
 - Your AI autopilot, not just a co-pilot.
@@ -3645,6 +3665,9 @@ Build your first team of Autonomous AI Agents
 
 ### Links
 - [Web](https://invictai.io/)
+- [GitHub](https://github.com/Invicta-AI)
+- [X (Twitter)](https://twitter.com/InvictaAI)
+- [LinkedIn](https://www.linkedin.com/company/invicta-ai/)
 
 </details>
 
