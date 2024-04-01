@@ -3561,6 +3561,27 @@ Productivity
 
 </details>
 
+## [iMean.AI](https://www.imean.ai/)
+AI personal assistant that automates browser task
+
+<details>
+
+![image](https://www.imean.ai/icon.svg)
+
+### Category
+Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms)
+
+### Description
+- iMean is the first public product that automates browser task end to end deterministically.
+- Unlike existing solutions that either stuck at middle steps or output only text instructions, iMean can automate the task for you and get you real results.
+
+
+### Links
+- [Web](https://www.imean.ai/)
+- [X (Twitter)](https://twitter.com/iMeanAI)
+
+</details>
+
 ## [Input](https://useinput.com/)
 AI-powered teammate that can collaborate on code
 <details>
@@ -3595,6 +3616,10 @@ Coding, Build-your-own
 - Enables users to create and instruct modular AI agents, generate document indexes for question-answering, and attach tools to agents for enhanced functionalities.
 - Facilitates coding assistance and conversational capabilities through predefined agents, along with the option to design custom agents, all within a keyboard and mouse-friendly terminal interface.
 - Provides secure execution environments for agents through Docker containers, allowing for safe and private operations, along with an integrated developer console for debugging and introspection.
+
+
+### Links
+- [GitHub](https://github.com/blob42/Instrukt)
 
 </details>
 
