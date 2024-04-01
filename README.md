@@ -20,6 +20,7 @@ Add to readme list:
 - Codeium
 - Semantix AI Agents - add when they have english version
 - NoteWizard - only if it's AI agent - TBD test
+- Postbot (TBD - check more)
 
 - Suspicion Agent
 - Wispy
@@ -1695,24 +1696,27 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
-## [Maige]()
+## [Maige](https://maige.app)
+Natural-language workflows for your GitHub repo.
 
 <details>
 
  ![image]()
 
 ### Category
-
-
+Coding, Productivity, Debugging, Multi-agent
 	
 ### Description
+- Maige is a codebase agent that runs when new issues and pull requests come up. Its core features are labelling, assigning, and answering questions.
+- Maige can search the entire codebase, spin up a sandbox to run scripts, and even write basic code.
 
 ### Links  
-- [Web]()
-- [GitHub]()
-- [Video - testing Maige]
-- [Interview - founder about building Maige]
-
+- [Web](https://maige.app)
+- [GitHub](https://github.com/RubricLab/maige)
+- [Video - testing Maige](https://www.youtube.com/watch?v=YN-y-iweZTc&ab_channel=TerezaTizkova)
+- [Interview - founder about building Maige](https://e2b.dev/blog/building-open-source-codebase-copilot-with-code-execution-layer)
+- [X (Twitter)](https://twitter.com/rubriclabs)
+- [Founder's X - Ted Spare](https://twitter.com/tedspare)
 </details>
 
 ## [Magick](https://www.magickml.com/)
