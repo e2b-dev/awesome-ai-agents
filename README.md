@@ -13,6 +13,7 @@ Add to visual:
 - Chat Arena
 - Code WP
 - NoteWizard
+- Invicta AI
 
 Add to readme list:
 - Rubric
@@ -3620,6 +3621,30 @@ Coding, Build-your-own
 
 ### Links
 - [GitHub](https://github.com/blob42/Instrukt)
+
+</details>
+
+## [Invicta](https://invictai.io/)
+Build your first team of Autonomous AI Agents
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+- Your AI autopilot, not just a co-pilot.
+- In-sync Knowledge Base: Notion, Google Drive, URLs, all file types and more
+- Self-improving: They get better with each interaction and collaboration.
+- LLM Agnostic. Use the best LLMs from OpenAI, Google, Mistral, and Anthropic, etc.
+- Deploy agents where your team is: Zendesk, Slack, Discord, etc.
+- Cooperative AI Teams: your agents can collaborate with each other as a team to complete complex workflows
+
+
+### Links
+- [Web](https://invictai.io/)
 
 </details>
 
