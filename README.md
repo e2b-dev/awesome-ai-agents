@@ -3188,22 +3188,27 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
-## [Devun](https://www.cognition-labs.com/introducing-devin)
-
+## [Devin](https://www.cognition-labs.com/introducing-devin)
+The first AI software engineer
 
 <details>
 
-![image]()
+![image](https://assets-global.website-files.com/65cf071d26e52092bc212f6e/65ed4622397bb038560f1ef3_cropped-p-500.png)
 
 ### Category
 General purpose, Coding
 
 
 ### Description
+Devin is in early phase now, but according to demo, it has the following capabilities:
+- Can learn how to use unfamiliar technologies.
+- Can build and deploy apps end to end.
+- Can autonomously find and fix bugs in codebases.
 
 
 ### Links
 - [Blog post](https://www.cognition-labs.com/introducing-devin)
+- [X (Twitter)](https://twitter.com/cognition_labs)
   
 </details>
 
