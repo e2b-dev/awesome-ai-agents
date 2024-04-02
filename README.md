@@ -1140,6 +1140,23 @@ Coding, Multi-agent
 
 </details>
 
+## [Devika](https://github.com/stitionai/devika)
+
+
+<details>
+
+![Image]()
+### Category
+
+
+### Description
+- 
+
+### Links
+- [GitHub](https://github.com/stitionai/devika)
+
+</details>
+
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 AI-Driven SW Development Automation Solution
 
