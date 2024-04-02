@@ -3188,6 +3188,25 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [Devun](https://www.cognition-labs.com/introducing-devin)
+
+
+<details>
+
+![image]()
+
+### Category
+General purpose, Coding
+
+
+### Description
+
+
+### Links
+- [Blog post](https://www.cognition-labs.com/introducing-devin)
+  
+</details>
+
 
 ## [Diagram](https://diagram.com/)
 AI design tools for everyone, acquired by Figma
