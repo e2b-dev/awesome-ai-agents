@@ -1141,16 +1141,17 @@ Coding, Multi-agent
 </details>
 
 ## [Devika](https://github.com/stitionai/devika)
-
+Agentic AI Software Engineer
 
 <details>
 
-![Image]()
+![Image](https://github.com/stitionai/devika/raw/main/.assets/devika-screenshot.png)
 ### Category
-
+Coding, general purpose
 
 ### Description
-- 
+- Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective.
+- Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
 
 ### Links
 - [GitHub](https://github.com/stitionai/devika)
@@ -1995,6 +1996,25 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 - [GitHub](https://github.com/agiresearch/OpenAGI)
 - [Paper](https://arxiv.org/abs/2304.04370)
 - [Demo](https://www.youtube.com/watch?v=7RaXPPXi0-Y)
+
+</details>
+
+## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+OpenDevin: Code Less, Make More
+
+<details>
+
+![Image](https://github.com/OpenDevin/OpenDevin/raw/main/logo.png)
+### Category
+Coding, general purpose
+
+### Description
+-  The OpenDevin project is born out of a desire to replicate, enhance, and innovate beyond the original Devin model.
+-  By engaging the open-source community, we aim to tackle the challenges faced by Code LLMs in practical scenarios, producing works that significantly contribute to the community and pave the way for future advancements.
+
+
+### Links
+- [GitHub](https://github.com/OpenDevin/OpenDevin)
 
 </details>
 
