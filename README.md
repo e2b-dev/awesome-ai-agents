@@ -1158,6 +1158,23 @@ Coding, general purpose
 
 </details>
 
+## [Devon](https://github.com/entropy-research/Devon)
+Open-source Devin alternative
+
+<details>
+
+![Image]()
+### Category
+Coding, general purpose
+
+### Description
+- Open-source alternative to Devin by Entropy research
+
+### Links
+- [GitHub](https://github.com/entropy-research/Devon)
+
+</details>
+
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 AI-Driven SW Development Automation Solution
 
