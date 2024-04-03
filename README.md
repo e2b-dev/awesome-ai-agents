@@ -2415,6 +2415,27 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [UFO](https://github.com/microsoft/UFO)
+A UI-Focused agent on Windows OS
+
+<details>
+
+![image](https://github.com/microsoft/UFO/raw/main/assets/ufo_blue.png)
+
+### Category
+Multi-agent, GUI Agent
+
+### Description
+- Agent by Microsoft
+- UFO is a UI-Focused dual-agent framework to fulfill user requests on Windows OS by seamlessly navigating and operating within individual or spanning multiple applications.
+
+### Links
+- [GitHub](https://github.com/microsoft/UFO)
+- [Web]()
+- [Paper](https://arxiv.org/abs/2402.07939)
+
+</details>
+
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
