@@ -4473,6 +4473,27 @@ Coding
   
 </details>
 
+## [Vortic](https://www.vortic.ai/)
+AI agent helping Insurance Sales and Claims
+
+<details>
+
+![image](https://media.licdn.com/dms/image/D560BAQEG1EZ0w5b_pw/company-logo_200_200/0/1710090819045/vortic_ai_logo?e=2147483647&v=beta&t=cNHAuR0hBAAO_LAhV9iNj0Ha3s8gkQkl1esp3i1RGD4)
+
+### Category
+Productivity, Build-your-own (agent-builing frameworks and platforms), Sales, General purpose, Multi-agent, Supports open-source models
+
+### Description
+- Vortic wants to make it easy for the enterprises to embed the agents with the real purpose business outcomes.
+- Vortic aims to provide the real time value realisation with the pre built agents embedding with their ecosystem providing customised toolkits.
+
+### Links
+- [Web](https://www.vortic.ai/)
+- [Co-founder's LinkedIn 1](https://www.linkedin.com/in/harshnagalla/)
+- [Co-founder's LinkedIn 2](https://www.linkedin.com/in/divyajot-singh-06b78559/)
+
+</details>
+
 
 ## [v0 by Vercel](https://v0.dev/)
 Get React code based on Shadcn UI & Tailwind CSS
