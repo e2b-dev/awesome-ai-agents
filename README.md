@@ -3665,6 +3665,11 @@ Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms
 ### Links
 - [Web](https://www.imean.ai/)
 - [X (Twitter)](https://twitter.com/iMeanAI)
+- [LinkedIn](https://www.linkedin.com/company/imean-ai/)
+- [Co-founder's X(Twitter) 1](https://twitter.com/zyonwu)
+- [Co-founder's LinkedIn 1](https://www.linkedin.com/in/zyonwu/)
+- [Co-founder's LinkedIn 2](https://www.linkedin.com/in/yanni-shawn-a6222318b/)
+- [Launch post](https://x.com/zyonwu/status/1747801290368004424?s=20)
 
 </details>
 
