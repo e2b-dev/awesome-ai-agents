@@ -1,11 +1,6 @@
 <!--
 TBD:
 Add to visual:
-- Self-operating computer
-- Kompas AI
-- LLM Stack
-- Promptly
-- Juno
 - Kusho
 - Wordware
 - Code Autopilot
