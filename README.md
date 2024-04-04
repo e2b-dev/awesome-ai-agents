@@ -4431,6 +4431,32 @@ Coding
 
 </details>
 
+## [Sentius](https://www.sentius.ai/)
+AI Agent operates browser to do your tasks for you
+
+<details>
+
+![image](https://assets-global.website-files.com/65322c702cb29c000a4d7f49/65323973bde43d64e5b01d0f_logo.svg)
+
+### Category
+General purpose, Multi-agent, Supports open-source models
+
+### Description
+- Autonomous Agents for the Enterprise
+- Sentius's high-load Autonomous Agents platform runs inside the company's secure perimeter, either in cloud or on-premises, and enables safe creation, deployment, and management of Enterprise Autonomous Agents
+- Sentius provides an integrated suite of no-code development tools to build, test, deploy, and manage Autonomous Agents inside your organization
+- Sentius offers robust and efficient Autonomous Agents for critical use cases tailored to your organization's specific needs
+
+### Links
+- [Web](https://www.sentius.ai/)
+- [GitHub](https://github.com/Generative-Assistants/)
+- [LinkedIn](https://www.linkedin.com/company/sentiusai/)
+- [YouTube Demo](https://www.youtube.com/watch?v=amjFOO_v28Q&ab_channel=DanielKornev)
+- [X (Twitter)](https://twitter.com/sentiusai)
+- Team LinkedIn profiles: [1](https://www.linkedin.com/in/eugene-izhikevich/), [2](https://www.linkedin.com/in/dilyara-zharikova/), [3](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), [4](https://www.linkedin.com/in/danielkornev/)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
