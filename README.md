@@ -1496,7 +1496,7 @@ Research, Science
 
 </details>
 
-## [GPT Swarm]()
+## [GPTSwarm](https://gptswarm.org/)
 Language Agents as Optimizable Graphs
 
 <details>
@@ -1514,7 +1514,7 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 
 ### Links
-- [Web]()
+- [Web](https://gptswarm.org/)
 - [GitHub](https://github.com/metauto-ai/GPTSwarm)
 - [Founder's X (Twitter)](https://twitter.com/MingchenZhuge)
 
@@ -2895,6 +2895,30 @@ Multi-agent, Build-your-own
 - [Founder's LinkedIn](https://www.linkedin.com/in/rupertdodkins/)
 - [Article](https://tech.eu/2023/11/17/ai-startup-artisan-raises-23m-to-develop-human-like-digital-workers/)
   
+</details>
+
+## [Ask Pandi](https://askpandi.com/ask)
+Answer engine to search and generate knowledge
+
+<details>
+
+![image](https://askpandi.com/logo.png)
+
+### Category
+Productivity, Research, General purpose
+
+### Description
+- Pandi compiles your search's final stretch into a concise, distraction-free webpage.
+- It offers multi-modal answers with citations from top web creators, eliminating the need for link sifting, cookie consents, or ads.
+- You can use the internet as a data source, create your own library, or do both.
+- You can also use Pandi in creative mode for writing or coding.
+
+
+### Links
+- [Web](https://askpandi.com/ask)
+- [X (Twitter)](https://twitter.com/ask_pandi)
+
+
 </details>
 
 
