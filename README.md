@@ -3068,6 +3068,42 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [ChatHelp](https://chathelp.ai/)
+AI-powered Business, Work, Study Assistant
+
+<details>
+
+![image](https://chathelp.ai/wp-content/uploads/chathelp_black.png)
+
+### Category
+Data analysis, Content creation, Productivity, Research, Marketig, Sales, Business intelligence
+
+### Description
+- 👉 Chat with Private AI Knowledge Base - Increase daily work efficiency, by having an AI assistant, who knows everything about your business & competitors, your work or studies...
+- 👉 Save time & money on customer support. Drive more sales, by letting AI interact with potential customers 24/7, via Website Chat Widget. Train AI with your Website data & other documentation!
+- 👉 100+ Unique AI Tools, for all your Business, Work & Study needs. Like, AI Writing Assistant & WordPress Auto Poster.
+- 🔜 Understand your customers better with AI-powered Feedback, Voting & Survey Widgets! 
+
+✔️ Supported file formats: pdf, doc, docx, ppt, pptx, xls, xlsx, csv, json, epub, mp3, jpg, jpeg, png
+✔️ WordPress Plugin
+✔️ Youtube Transcripts
+✔️ Analyze Yelp Reviews
+✔️ +175 Languages
+✔️ Create an AI-powered Website Chat Widget.
+✔️ Create a Custom AI-powered Knowledge Base
+🔜 Zapier, Notion, ZenDesk, Hubspot, Trello, Monday.com, Slack, Gmail & Google Doc. support."
+
+
+### Links
+- [Web](https://chathelp.ai/)
+- [X (Twitter)](https://twitter.com/ChatHelpAI)
+- [LinkedIn](https://www.linkedin.com/company/chathelp/about/)
+- [Discord](https://discord.com/invite/BK5QtfKxbB)
+- [Facebook](https://www.facebook.com/ChatHelpAI)
+- [GitHub](https://github.com/chathelpai)
+
+</details>
+
 ## [Claros AI Shopper](https://www.claros.so/)
 AI shopper that finds products for your taste
 <details>
