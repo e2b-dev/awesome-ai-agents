@@ -1,24 +1,12 @@
 <!--
 TBD:
 Add to visual:
-- Kusho
-- Wordware
-- Code Autopilot
-- GPTDiscord
-- Chat Arena
-- Code WP
-- NoteWizard
-- Invicta AI
 
 Add to readme list:
-- Rubric
 - Codeium
 - Semantix AI Agents - add when they have english version
 - NoteWizard - only if it's AI agent - TBD test
 - Postbot (TBD - check more)
-
-- Suspicion Agent
-- Wispy
 	-->
 
 <h1 align="center">
