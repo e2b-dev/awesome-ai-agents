@@ -1496,6 +1496,31 @@ Research, Science
 
 </details>
 
+## [GPT Swarm]()
+Language Agents as Optimizable Graphs
+
+<details>
+
+![image](https://gptswarm.org/images/gptswarm.png)
+
+### Category
+Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-agent
+
+### Description
+- 🐝 GPTSwarm is a graph-based framework for LLM-based agents, providing two high-level features:
+  - It lets you build LLM-based agents from graphs.
+  - It enables the customized and automatic self-organization of agent swarms with self-improvement capabilities.
+- Various human-designed prompt engineering techniques have been proposed to improve problem solvers based on Large Language Models (LLMs), yielding many disparate code bases. We unify these approaches by describing LLM-based agents as computational graphs. Each node implements a function to process multimodal data or query other LLMs. Each edge describes the information flow between operations and agents. Graphs can be recursively combined into larger composite graphs representing hierarchies of inter-agent collaboration. Our novel automatic graph optimizers (1) refine node-level LLM prompts (node optimization) and (2) improve agent orchestration by changing graph connectivity (edge optimization). Experiments demonstrate that our framework can be used to efficiently develop, integrate, and automatically improve diverse LLM agents.
+
+
+### Links
+- [Web]()
+- [GitHub](https://github.com/metauto-ai/GPTSwarm)
+- [Founder's X (Twitter)](https://twitter.com/MingchenZhuge)
+
+
+</details>
+
 
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
