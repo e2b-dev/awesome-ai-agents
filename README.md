@@ -2995,6 +2995,29 @@ Coding, GitHub
 
 </details>
 
+## [Blobr](https://www.blobr.io/)
+AI business assistant connected to all your tools
+
+<details>
+
+![image](https://assets-global.website-files.com/5f1ace21b47b368069989680/65cdd7ab62643c6baa204181_logo-blobr-white.svg)
+
+### Category
+Data analysis, Productivity, Marketig, Sales, Business intelligence
+
+### Description
+- Blobr is an AI assistant making sense of your business data stored in all your siloed SaaS. Reveal insights, understand variations and customer patterns without technical effort.
+- Blobr helps Sales Ops, Marketing Ops and growth people to make better decisions.
+- Blobr adds an intelligence layer connected to all your SaaS (Hubspot, Google Analytics, Stripe, etc.).
+
+
+### Links
+- [Web](https://www.blobr.io/)
+- [X (Twitter)](https://twitter.com/Blobr_io)
+- [Founder's LinkedIn](https://www.linkedin.com/in/alexandre-airvault-aabaa758/)
+
+</details>
+
 ## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
 No-code copilot that allows users to build AI apps
 
