@@ -4022,6 +4022,29 @@ General purpose, Business intelligence, Productivity, Content creation
 
 </details>
 
+## [Magic Loops](https://magicloops.dev/)
+Personal automations made easy
+<details>
+
+![image](https://avatars.githubusercontent.com/u/134019091?s=200&v=4)
+
+### Category
+Coding, Content creation, Productivity, Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Art, Marketig, Sales, Finance, General purpose, Personal computing
+
+### Description
+- Magic Loops are the fastest way to automate (almost) anything. By combining generative AI with code, we make it easy for anyone (yes, even non-programmers!) to setup repeatable tasks and automated workflows.
+
+
+### Links
+- [Web](https://magicloops.dev/)
+- [GitHub](https://github.com/magicloops)
+- [LinkedIn](https://www.linkedin.com/company/magicloops/)
+- [X (Twitter)](https://twitter.com/magicloopsdev)
+- [Founder's LinkedIn](https://www.linkedin.com/in/adam-williams-0995a949/)
+- [Founder's X (Twitter)](https://twitter.com/jumploops)
+
+</details>
+
 ## [Makedraft](https://makedraft.com/)
 Generate + edit HTML components with text prompts
 
