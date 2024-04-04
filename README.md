@@ -4223,8 +4223,8 @@ Build-your-own, Multi-agent
 </details>
 
 
-## [Otherside's AI Assistant](https://www.hyperwriteai.com/personal-assistant)
-Assistant for daily tasks, works with web browser
+## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
+Chrome extension - general purpose AI agent
 
 <details>
 
@@ -4232,10 +4232,11 @@ Assistant for daily tasks, works with web browser
 ![image](https://assets-global.website-files.com/63fcd79d410b22ddf397e1b8/654272554402410a71c84ab9_6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp)
 
 ### Category
-Productivity
+Productivity, General purpose
 
 
 ### Description
+- Hyperwrite is a chrome app that can take control of your browser and complete high level tasks for you.
 - AI agent that can use a web browser like a human
 - "Just describe what you want it to do, and it will automatically operate Chrome to achieve your task."
 - Examples of use cases: Booking flights, ordering food, researching complex topics, managing your email
