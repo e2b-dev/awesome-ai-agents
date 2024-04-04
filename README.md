@@ -1,8 +1,20 @@
 <!--
 TBD:
-Add to visual:
+- Add to visual:
+- LLM Stack
+- Cdoe Autopilot
+- GPT Discord
+- Promptly
+- LLM Stack
+- Maige
+- GitWit
+- Devon
+- vortic ai
+- UFO
+- GPT Swarm
 
 Add to readme list:
+- https://zapier.com/central
 - Codeium
 - Semantix AI Agents - add when they have english version
 - NoteWizard - only if it's AI agent - TBD test
