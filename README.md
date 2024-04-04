@@ -3151,6 +3151,25 @@ Claros is an AI personal shopper that finds you interesting products, and learns
 
 </details>
 
+## [Claygent](https://www.clay.com/learn/claygent)
+Agent that scrapes and summarize data from the web
+
+<details>
+
+![image](https://assets-global.website-files.com/61477f2c24a826836f969afe/65b22bf376c1cc60a9e0de93_img-logo-clay.png)
+
+### Category
+Productivity, Marketig, Sales, Finance, General purpose, Business intelligence
+
+### Description
+- Claygent is an AI web scraper that can search and browse the web to find information for you and replace a huge amount of the manual work your SDRs are doing on account research!
+
+### Links
+- [Web](https://www.clay.com/learn/claygent)
+- [Founder's LinkedIn](https://www.linkedin.com/in/adam-eldefrawy-8623a815a/)
+
+</details>
+
 ## [Code Autopilot](https://www.codeautopilot.com/)
 AI Assistant for your project
 
