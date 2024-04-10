@@ -2356,12 +2356,13 @@ General purpose
 
 </details>
 
-## [SWE Agent]()
-Open Source alternative for Devin
+
+## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
+Open-source Devin alternative
 
 <details>
 
-![Image](https://github.com/stitionai/devika/raw/main/.assets/devika-screenshot.png)
+![Image](https://www.swebench.com/img/swellama.png)
 ### Category
 Coding, general purpose
 
@@ -2374,11 +2375,21 @@ Coding, general purpose
 	- 🧪 Write and execute tests
 - This custom-built interface is critical for good performance. Simply connecting an LM to a vanilla bash terminal does not work well.
 - ["Our key insight is that LMs require carefully designed agent-computer interfaces (similar to how humans like  good UI design). E.g. When the LM messes up indentation, our editor prevents it and gives feedback."](https://x.com/jyangballin/status/1775114448513958134)
+- SWE-agent was released by the Princeton NLP team.
+- What makes SWE-agent special is that it performs almost as well as Devin on the SWE-bench.
+- It is important to say that the performance [varies](https://www.swebench.com/) based on the model used by the agent.
+- The changes and innovations in SWE-agent compared to Devin are:
+  - The code in SWE Agent is executed locally via Docker.
+  - It uses “Agent-Computer Interface” (ACI) - constraining the interface makes the agent easier to use for LMs. Only a few commants are allowed: run code, look for code, edit code and submit changes to GitHub.
+- Any code the agent writes goes through a syntax check (linter) before being submitted. If the syntax is incorrect, the agent gets feedback and is forced to redo the code.
+- The agent can only read 100 lines of code at a time, rather than the entire file. This makes it easier for the language model to understand the code.
 
 
 ### Links
-- [GitHub]()
-- [X (Twitter) post](https://x.com/Gautam_A_k/status/1775206295458676764)
+- [GitHub](https://github.com/princeton-nlp/SWE-agent)
+- [Web](https://swe-agent.com/)
+- [Demo](https://swe-agent.com/demo)
+- [Discord](https://discord.com/invite/AVEFbBn2rH)
 
 </details>
 
