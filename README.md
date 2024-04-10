@@ -2362,7 +2362,7 @@ Open-source Devin alternative
 
 <details>
 
-![Image](https://www.swebench.com/img/swellama.png)
+![Image](https://github.com/princeton-nlp/SWE-agent/raw/main/assets/swe-agent-banner.png)
 ### Category
 Coding, general purpose
 
