@@ -2997,6 +2997,27 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Athena Intelligence](https://www.athenaintelligence.ai/)
+24/7 Enterprise AI Data Analyst
+
+<details>
+
+![image](https://assets-global.website-files.com/6484b03566311009ccef7599/6602dcd93264ffed31406081_athena_logo_full%201.svg)
+
+### Category
+Data analysis, Business intelligence
+
+### Description
+-  Athena is an AI-native analytics platform designed to accelerate analytics workflows for enterprise teams.
+-  It offers both co-pilot and auto-pilot modes, learning users' workflows to allow for autonomous execution with confidence.
+-  Athena supports querying data, generating visualizations, analyzing enterprise data, and codifying workflows, making it a powerful tool for data-driven decision-making.
+
+### Links
+- [Web](https://www.athenaintelligence.ai/)
+- [Founder's LinkedIn](https://www.linkedin.com/in/brendongeils/)
+
+</details>
+
 ## [BitBuilder](https://www.bitbuilder.ai/?utm_source=awesome-ai-agents)
 (Pivoted to Elipsis) "Virtual intern for devs"
 
