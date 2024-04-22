@@ -1,6 +1,8 @@
 <!--
 TBD:
 - Add to visual:
+- Athena Intelligence
+  
 - LLM Stack
 - Cdoe Autopilot
 - GPT Discord
