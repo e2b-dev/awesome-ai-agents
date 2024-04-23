@@ -1753,6 +1753,35 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
+## [L2MAC](https://github.com/samholt/l2mac)
+Agent framework able to produce large complex codebases and entire books
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/samholt/L2MAC/master/docs/public/l2mac-icon-white.png)
+
+### Category
+Multi-agent, Coding, Build your own
+
+### Description
+L2MAC is a multi-agent generation framework that, a single input prompt can generate an extensive unbounded output, such as an entire codebase or an entire book.
+- L2MAC can create near unbounded outputs that align exactly with the user input prompt over very long generation tasks
+- It achieves strong empirical performance of state-of-the-art generation for large codebase tasks and is in the top 3 for the HumanEval coding global benchmark. As L2MAC can detect invalid code and failing unit tests when generating code and automatically error corrects them.
+- Internally persists a complete file-store memory that enables LLM agents to read files and write to files, creating a large output over many iterations
+- It can be instructed to follow an exact prompt program
+- As it generates the output one part at a time, it enables an LLM with a fixed context token limit to be bypassed
+- The paper, peer-reviewed and recently accepted and published at ICLR 2024, introduces L2MAC.
+
+
+### Links  
+- [GitHub](https://github.com/samholt/l2mac)
+- [Discord](https://discord.gg/z27CxnwdhY)
+- [Twitter](https://twitter.com/samianholt)
+- [Paper - L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/abs/2310.02003)
+
+</details>
+
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
