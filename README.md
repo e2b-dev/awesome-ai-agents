@@ -3021,7 +3021,7 @@ Data analysis, Business intelligence
 </details>
 
 ## [Ellipsis](https://ellipsis.dev/?utm_source=awesome-ai-agents)
-(Pivoted to Elipsis) "Automated code reviews and bug fixes"
+(Previously BitBuilder) "Automated code reviews and bug fixes"
 
 <details>
 
