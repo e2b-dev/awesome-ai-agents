@@ -3020,15 +3020,15 @@ Data analysis, Business intelligence
 
 </details>
 
-## [BitBuilder](https://www.bitbuilder.ai/?utm_source=awesome-ai-agents)
-(Pivoted to Elipsis) "Virtual intern for devs"
+## [Ellipsis](https://ellipsis.dev/?utm_source=awesome-ai-agents)
+(Pivoted to Elipsis) "Automated code reviews and bug fixes"
 
 <details>
 
 ![image](https://www.bitbuilder.ai/_next/image?url=%2Fname_dark_large.png&w=640&q=75)
 
 ### Category
-Coding, GitHub
+Coding, GitHub, GitLab
 
 ### Description
 - Create an Issue
@@ -3039,14 +3039,10 @@ Coding, GitHub
 	- Reviewing changes
 	- Addressing comments
 	- Answering questions
-- BitBuilder Junior
-	- BitBuilder Junior is an intern-level code generation tool that lives in your GitHub repository. It follows instructions to implement unambiguous code changes by changing multiple files, writing tests for generated code, and matching the style, framework, and libraries you're already using.
 
 ### Links
-- [Docs](https://docs.ellipsis.dev/reviews)
-- [GitHub Marketplace](https://github.com/marketplace/document-guardian)
-- [Slack](https://bitbuilder-ai.slack.com/join/shared_invite/zt-1tlrds3n4-rpmgIGM6XrB5W97005IA1Q#/shared-invite/email)
-- [Installation](https://docs.bitbuilder.ai/install)
+- [Docs](https://docs.ellipsis.dev)
+- [Installation](https://www.ellipsis.dev/)
 
 </details>
 
