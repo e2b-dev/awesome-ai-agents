@@ -3025,7 +3025,7 @@ Data analysis, Business intelligence
 
 <details>
 
-![image](https://www.bitbuilder.ai/_next/image?url=%2Fname_dark_large.png&w=640&q=75)
+![image](https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png&w=640&q=75)
 
 ### Category
 Coding, GitHub, GitLab
