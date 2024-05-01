@@ -35,11 +35,10 @@ Add to readme list:
 	</p>
 </h1>
 <h3 align="center">
-  Try out E2B's <a href="https://e2b.dev/docs?ref=awesome-sdks">cloud runtime</a> for AI agents
+  Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App
 </h3>
 
 <h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
-
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
@@ -64,21 +63,11 @@ For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome 
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 --->
 
-## Want to use E2B with your AI product?
-Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b_dev)
-
-We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
-
-
-<!---
-## Join the community
-- Follow us on [Twitter](https://twitter.com/e2b_)
-- [Join Twitter community](https://twitter.com/i/communities/1670204079619055616) for AI agents
-- [Join our Discord](https://discord.gg/U7KEcGErtQ)
-
-Feel free to reach out to us at [hello@e2b.](mailto:hello@e2b.).
---->
-
+## Check out E2B - Code Interpreting for AI apps
+- Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk)
+- Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
+- Read our [docs](https://e2b.dev/docs?ref=awesome-sdks)
+- Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b_dev)
 
 # Open-source projects
 
