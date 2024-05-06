@@ -792,6 +792,29 @@ Coding
 
 </details>
 
+## [bumpgen](https://github.com/xeol-io/bumpgen)
+AI agent that keeps npm dependencies up-to-date
+
+<details>
+
+![demo](<https://assets-global.website-files.com/65af8f02f12662528cdc93d6/662e6061d42954630a191417_tanstack-ezgif.com-speed%20(1).gif>)
+
+### Category
+Coding
+
+### Description
+- Put dependency management and upgrades on autopilot
+- bumpgen BUMPs an npm package's version up then GENerates the code fixes for breaking changes
+- Supports gpt-4-turbo
+- Easy install > `npm install -g bumpgen`
+- Easy start > `bumpgen @tanstack/react-query 5.28.14`
+
+### Links
+- [Repo](https://github.com/xeol-io/bumpgen)
+- [Docs](https://docs.xeol.io/bumpgen/home)
+
+</details>
+
 ## [Cal.ai](https://cal.ai)
 Open-source scheduling assistant built on Cal.com
 
