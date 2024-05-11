@@ -3110,6 +3110,35 @@ Data analysis, Productivity, Marketig, Sales, Business intelligence
 
 </details>
 
+## [BrainSoup](https://www.nurgo-software.com/products/brainsoup)
+Build an AI team that works for you, on your PC
+
+<details>
+
+![image](https://www.nurgo-software.com/images/BrainSoup/BrainSoupCard512.png)
+
+### Category
+General purpose, Productivity, Data analysis, Multi-agent, Build-your-own
+
+### Description
+- Custom AI agents that remember, learn and work together.
+- Local native app, for privacy and responsiveness.
+- Your data fuels your AI agents without leaving your PC.
+- Multimodal: your AI agents understand text, voice, and images.
+- Reactive: your agents can respond to user defined events and leverage real-time data.
+- Autonomous: your agents can run in the background without user intervention.
+- Collaborate safely: AIs can read, write execute and share files in a sandboxed environment.
+- Multi-LLM: local and cloud-based AI models can be combined for best of both worlds.
+- Tinkerable & extensible: empower your agents with custom tools and scripts.
+
+### Links
+- [Web](https://www.nurgo-software.com/products/brainsoup)
+- [Docs](https://help.nurgo-software.com/collection/148-brainsoup)
+- [X](https://twitter.com/Nurgo)
+- [Discord](https://discord.gg/xt7PyCnH9S)
+
+</details>
+
 ## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
 No-code copilot that allows users to build AI apps
 
