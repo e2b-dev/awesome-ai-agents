@@ -1067,6 +1067,41 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
+AI-driven research from data to human-verifiable research papers
+<details>
+
+<br>
+<img src="https://github.com/Technion-Kishony-lab/data-to-paper/assets/65530510/e33bcb52-5f4e-4fd0-8be9-ebd64607c449" width="400" align="center">
+<br>
+	
+### Category
+Science, Research, Multi-agent
+
+### Description
+[*data-to-paper*](https://arxiv.org/abs/2404.17605) is a framework for systematically navigating the power of AI to perform complete end-to-end 
+scientific research, starting from raw data and concluding with comprehensive, transparent, and human-verifiable 
+scientific papers.
+
+Towards this goal, *data-to-paper* systematically guides interacting 
+LLM and rule-based agents through the conventional scientific path, from annotated data, through creating 
+research hypotheses, conducting literature search, writing and debugging data analysis code, 
+interpreting the results, and ultimately the step-by-step writing of a complete research paper.
+
+The *data-to-paper* framework is created as a research project to understand the 
+capacities and limitations of LLM-driven scientific research, and to develop ways of harnessing LLM to accelerate 
+research while maintaining, and even enhancing, key scientific values, such as transparency, traceability and verifiability, 
+and while allowing scientist to oversee and direct the process 
+[see also: [living guidelines](https://www.nature.com/articles/d41586-023-03266-1)].
+
+
+### Links
+- [GitHub](https://github.com/Technion-Kishony-lab/data-to-paper)
+- [arXiv preprint](https://arxiv.org/abs/2404.17605)
+- [Demo video](https://www.youtube.com/watch?v=Nt_460MmM8k)
+
+</details>
+
 
 ## [Databerry](https://www.databerry.ai/)
 (Pivoted to Chaindesk) No-code cahtbot building
