@@ -4895,6 +4895,32 @@ Build-your-own, Supports open-source models
   
 </details>
 
+## [Zapier Central](https://zapier.com/central)
+Work hand in hand with AI bots
+
+<details>
+
+![image](https://bot-templates-dbuh9gyx1.vercel.zapier-deployment.com/_next/static/media/logo-color.9fac53e4.svg)
+
+### Category
+Build-your-own, Productivity, General purpose
+
+### Description
+- Zapier Central is an experimental AI workspace where you can teach bots to work across 6,000+ apps.
+- Features:
+  - Give your bot access to your company's source of truth to get instant answers.
+  - Ask bots to act in 6,000+ apps
+  - Central runs on Zapier's ecosystem to help you automate the tools you already use.
+  - Teach your bot once, then watch it work—even when you're not around.
+  - Everything in one workspace
+
+### Links
+
+- [Web](https://zapier.com/central)
+  
+</details>
+
+
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
@@ -4932,8 +4958,9 @@ Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://disc
 
 We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
 
+<!-- 
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
-
+-->
 
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b_dev)
