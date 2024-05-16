@@ -4363,6 +4363,31 @@ Build-your-own, Multi-agent
 </details>
 
 
+## [NexusGPT](https://gpt.nexus/)
+Build AI agents in minutes, without coding
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1784129822320467968/n_9UYcHR_400x400.jpg)
+
+### Category
+Technical challenges of building AI products, Business/marketing challenges of building AI products
+
+### Description
+- NexusGPT enables anyone to build, finetune, and integrate autonomous AI agents without touching a single line of code.
+- On Nexus, you can create agents able to perform about any task you can imagine and integrate them where it matters the most for you (from your website all the way to your internal Slack channel).
+- To do that, nexus provides an existing marketplace of over 1000 ready-made agents as well as over 1500 tools ready to add to your agent.
+- You can also add custom knowledge (from pdf, pptx, docx, website, notion, etc.) and add it as well to your own agent to make it relevant for your own use case and business.
+- Finally, once you want to deploy your agent, you can do it simply directly on your website, WhatsApp, Slack, Teams, etc. in one click."
+
+
+### Links
+- [Web](https://gpt.nexus/)
+- [X (Twitter)](https://twitter.com/nexus_gpt)
+- [LinkedIn](https://www.linkedin.com/company/nexusgpt/)
+
+</details>
+
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
