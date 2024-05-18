@@ -2974,6 +2974,28 @@ Business intelligence
 
 </details>
 
+## [APIDNA](https://apidna.ai/)
+Multiple AI Agents for the integration of APIs.
+
+
+<details>
+
+![image](https://apidna.ai/wp-content/uploads/2023/12/api-dna-logo.svg)
+
+### Category
+Coding, Productivity, Multi-agent
+
+### Description
+- "At APIDNA, we're connecting software companies to connect the world.  And we're doing this with our proprietary no-code multiple Autonomous AI Agent platform, to address one of the major pain points in software development today – the integration of API endpoints."
+- "Our multiple Autonomous AI Agents instantly integrate API endpoints. This simplifies and accelerates the software integration process, typically taking only three steps - and completing within minutes. A task that traditionally could take hours, days, weeks, or even months."
+
+### Links
+- [Web](https://apidna.ai/)
+- [LinkedIn](https://www.linkedin.com/company/apidna/)
+- [Tim D. - LinkedIn](https://www.linkedin.com/in/timdutta-ai/)
+
+</details>
+
 ## [Artisian AI](https://github.com/Artisan-AI)
 Agents for sales, e-mails, book keeping & more
 
