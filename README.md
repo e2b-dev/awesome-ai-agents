@@ -14,6 +14,13 @@ TBD:
 - vortic ai
 - UFO
 - GPT Swarm
+- Eidolon
+- Zapier Central
+- NexusGPT
+- Brain Soup
+- L2MAC
+- Athena?
+- AgentHub rebrand? (Also add to the list)
 
 Add to readme list:
 - https://zapier.com/central
@@ -1230,6 +1237,29 @@ Build-your-own
 
 ### Links
 - [YouTube video](https://www.youtube.com/watch?v=uE_fykl8AVI&ab_channel=FahdMirza)
+
+</details>
+
+## [Eidolon](https://eidolonai.com/)
+Multi Agent SDK with pluggable, modular components
+
+<details>
+
+![Image](https://www.eidolonai.com/_astro/default.jKAYXmpI_ZWVg5E.webp)
+
+### Category
+Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
+
+### Description
+- Eidolon is an open source SDK for AI agents
+
+### Links
+- [Web](https://eidolonai.com/)
+- [GitHub](https://github.com/eidolon-ai/eidolon)
+- [LinkedIn](https://www.linkedin.com/company/august-data/)
+- [Dave Brewster - LinkedIn](https://www.linkedin.com/in/dave-brewster-first/)
+- [Ravi Ramachandran - LinkedIn](https://www.linkedin.com/in/ravi-nextlevelgtm/)
+- [Luke Lalor - LinkedIn](https://www.linkedin.com/in/lukehlalor/)
 
 </details>
 
