@@ -2,10 +2,7 @@
 TBD:
 - Add to visual:
 - Athena Intelligence
-  
 - LLM Stack
-- Cdoe Autopilot
-- GPT Discord
 - Promptly
 - LLM Stack
 - Maige
@@ -15,15 +12,12 @@ TBD:
 - UFO
 - GPT Swarm
 - Eidolon
-- Zapier Central
 - NexusGPT
 - Brain Soup
 - L2MAC
 - Athena?
-- AgentHub rebrand? (Also add to the list)
 
 Add to readme list:
-- https://zapier.com/central
 - Codeium
 - Semantix AI Agents - add when they have english version
 - NoteWizard - only if it's AI agent - TBD test
