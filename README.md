@@ -3920,6 +3920,37 @@ Coding
 
 </details>
 
+## [Gumloop](https://www.gumloop.com/)
+Automate any workflow
+with AI
+
+<details>
+
+![image](https://www.gumloop.com/images/gumloop_logo.svg)
+
+### Category
+Productivity, data analysis, general purpose, marketing, legal, sales, HR, finance, education
+
+
+### Description
+- (Previously called AgentHub)
+- A platform to build and host LLM powered automations
+- Fuel your workspace with our growing library of nodes.
+- Pass data from A to Z with drag-and-click connections. No code required.
+- Run your workflow. Test in our sandbox. See results. When you're ready, share it with anyone (or no one). You control that.
+
+### Links
+- [Web](https://www.gumloop.com/)
+- [X (Twitter)](https://x.com/gumloop_ai)
+- [LinkedIn](https://www.linkedin.com/company/gumloop/)
+- [Discord](https://discord.com/invite/xtbrafmzC7)
+- [Documentation](https://docs.gumloop.com/getting-started/introduction)
+- [YouTube](https://www.youtube.com/@AgentHub_Ai)
+- [Medium blog](https://medium.com/@max_82395)
+- [Templates](https://www.gumloop.com/templates)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
