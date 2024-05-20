@@ -4647,6 +4647,35 @@ General purpose, Generating apps, Build-your-own
 
 </details>
 
+## [Relevance AI](https://relevanceai.com/)
+Build your AI Workforce
+
+<details>
+
+![image](https://mintlify.s3-us-west-1.amazonaws.com/relevanceai/images/logo/dark.png)
+
+### Category
+Content creation, Productivity, Research, Build-your-own (agent-builing frameworks and platforms), Marketig, Sales, General purpose, Multi-agent, Supports open-source models
+
+### Description
+- Relevance AI is a fast platform to build and deploy AI apps & agents. It's the home of the AI Workforce.
+- AI Workforce is a digital team you can hire to assist you in completing mundane and repetitive tasks.
+- An AI Workforce consists of Agents equipped with Tools specific to your business operations crafted by domain experts.
+- With Relevance, you will have the home of the AI Workforce with a single platform to create your Tools, equip them to Agents and deploy it to your organisation as a Multi-Agent System (MAS).
+- Relevance supports OpenAI, Anthropic, Cohere, PaLM, and more.
+
+
+
+### Links
+- [Web](https://relevanceai.com/)
+- [GitHub](https://github.com/RelevanceAI)
+- [X (Twitter)](https://x.com/RelevanceAI_)
+- [LinkedIn](https://www.linkedin.com/company/relevanceai/)
+- [Jacky Koh - X (Twitter)](https://x.com/JackyGKoh)
+- [Daniel Vassilev - X (Twitter)](https://x.com/thedanvass)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
