@@ -2,6 +2,8 @@
 TBD:
 - Add to visual:
 - Powerdrill AI
+- Avanzai
+
 - Athena Intelligence
 - LLM Stack
 - Promptly
@@ -3108,31 +3110,27 @@ Data analysis, Business intelligence
 
 </details>
 
-## [Ellipsis](https://ellipsis.dev/?utm_source=awesome-ai-agents)
-(Previously BitBuilder) "Automated code reviews and bug fixes"
+## [Avanzai](https://avanz.ai/)
+AI agents for portfolio risk and asset allocation
 
 <details>
 
-![image](https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png&w=640&q=75)
+![image](https://framerusercontent.com/images/abZ2DpGylwpNlOcvhmiTEHLvU.png?scale-down-to=512)
 
 ### Category
-Coding, GitHub, GitLab
+Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and platforms), Finance, Multi-agent
 
 ### Description
-- Create an Issue
-- Approve the Implementation Plan
-- Review the Pull Request
-- Features
-	- Writing code
-	- Reviewing changes
-	- Addressing comments
-	- Answering questions
+-  Avanzai helps users build autonomous AI agents that scrape news, fetch real time data and write Python code that helps them calculate risk exposures of their portfolio.
+-  Users can then deploy these agents to work around the clock, saving users time from doing this themselves.
 
 ### Links
-- [Docs](https://docs.ellipsis.dev)
-- [Installation](https://www.ellipsis.dev/)
+- [Web](https://avanz.ai/)
+- [Founder's X (Twitter)](https://x.com/gmanmalena_)
+- [LinkedIn](https://www.linkedin.com/company/avanzai/)
 
 </details>
+
 
 ## [Blobr](https://www.blobr.io/)
 AI business assistant connected to all your tools
@@ -3638,6 +3636,32 @@ Ducklings chat with users to define their goals, come up with engineering design
 - [LInkedin](https://www.linkedin.com/company/duckie-ai/about/)
 - [Discord](https://discord.com/invite/JwQSRj9Wx2)
 - [YCombinator profile](https://www.ycombinator.com/companies/duckie-ai)
+
+</details>
+
+## [Ellipsis](https://ellipsis.dev/?utm_source=awesome-ai-agents)
+(Previously BitBuilder) "Automated code reviews and bug fixes"
+
+<details>
+
+![image](https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png&w=640&q=75)
+
+### Category
+Coding, GitHub, GitLab
+
+### Description
+- Create an Issue
+- Approve the Implementation Plan
+- Review the Pull Request
+- Features
+	- Writing code
+	- Reviewing changes
+	- Addressing comments
+	- Answering questions
+
+### Links
+- [Docs](https://docs.ellipsis.dev)
+- [Installation](https://www.ellipsis.dev/)
 
 </details>
 
@@ -4518,7 +4542,7 @@ Coding, research
 
 </details>
 
-## [Powerdrill AI]()
+## [Powerdrill AI](https://powerdrill.ai/)
 AI agent that completes your data job 10x faster
 
 <details>
@@ -4535,6 +4559,8 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 
 ### Links
 - [Web](https://powerdrill.ai/)
+- [Twitter](https://x.com/powerdrillai)
+- [Documentation](https://docs.powerdrill.ai/introduction)
 
 </details>
 
