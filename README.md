@@ -1,6 +1,7 @@
 <!--
 TBD:
 - Add to visual:
+- Powerdrill AI
 - Athena Intelligence
 - LLM Stack
 - Promptly
@@ -4514,6 +4515,26 @@ Coding, research
 - [Discord](https://discord.com/invite/S25yW8TebZ)
 - [X (Twitter)](https://twitter.com/phindsearch)
 - CEO's Twitter: [Michael Royzen](https://twitter.com/MichaelRoyzen)
+
+</details>
+
+## [Powerdrill AI]()
+AI agent that completes your data job 10x faster
+
+<details>
+
+![image](https://media.licdn.com/dms/image/D4E0BAQGwWRCWd6izLg/company-logo_200_200/0/1686636701294?e=1726099200&v=beta&t=oFa1Z8ulQzNuasFcQBdrzZD8L1RJ_vjPhbbl4KXkN7g)
+
+### Category
+Data analysis, Productivity, Research, Marketig, Sales, Finance
+
+### Description
+- Powerdrill is an AI SaaS service centered around personal and enterprise datasets.
+- Designed to unlock the full potential of your data, Powerdrill enables you to use natural language to effortlessly interact with your datasets for tasks ranging from simple Q&As to insightful BI analysis.
+- By breaking down barriers to knowledge acquisition and data analysis, Powerdrill boosts data processing efficiency exponentially.
+
+### Links
+- [Web](https://powerdrill.ai/)
 
 </details>
 
