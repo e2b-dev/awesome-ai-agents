@@ -3,6 +3,7 @@ TBD:
 - Add to visual:
 - Powerdrill AI
 - Avanzai
+- Add Shoppal
 
 - Athena Intelligence
 - LLM Stack
@@ -4797,6 +4798,26 @@ General purpose, Multi-agent, Supports open-source models
 - [X (Twitter)](https://twitter.com/sentiusai)
 - Team LinkedIn profiles: [1](https://www.linkedin.com/in/eugene-izhikevich/), [2](https://www.linkedin.com/in/dilyara-zharikova/), [3](https://www.linkedin.com/in/mikhail-burtsev-85a47b9/), [4](https://www.linkedin.com/in/danielkornev/)
 
+</details>
+
+## [ShopPal](https://shoppal.ai)
+AI assistant, enhance shopping experience.
+
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1777239533094150144/a28xyvug_400x400.jpg)
+
+### Category
+Productivity, Research, Ecommerce
+
+### Description
+- "🛍️ShopPal: Your Curated AI Shopping Assistant🥂💰💳
+- Curated AI shopping assistant, aiming to enhance and accompany your shopping experience.
+- To enhance and accompany your shopping experience, ShopPal delivers summary insights, tailored recommendations, visual comparisons, and the best deals, which are all personalized just for you! "
+
+### Links
+- [Web](https://shoppal.ai)
+  
 </details>
 
 ## [Spell](https://spell.so/)
