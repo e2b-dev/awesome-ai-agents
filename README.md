@@ -3,7 +3,9 @@ TBD:
 - Add to visual:
 - Powerdrill AI
 - Avanzai
-- Add Shoppal
+- Shoppal
+- Flowise
+- AGENTS.inc
 
 - Athena Intelligence
 - LLM Stack
@@ -1301,6 +1303,27 @@ General purpose, Research, Multi-agent
 - [Web](https://evo.ninja/)
 - [GitHub](https://github.com/polywrap/evo.ninja/)
 - [Discord](https://discord.com/invite/r3rwh69cCa)
+
+</details>
+
+## [Flowise](https://flowiseai.com/)
+Low code Agent builder
+
+<details>
+
+![Image](https://flowiseai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-color-high.e60de2f8.png&w=384&q=75)
+
+### Category
+Build-your-own (agent-builing frameworks and platforms)
+
+### Description
+- Flowise is an open source low-code tool for developers to build customized LLM orchestration flow & AI agents
+
+### Links
+- [Web](https://flowiseai.com/)
+- [GitHub](https://github.com/FlowiseAI/Flowise)
+- [X (Twitter)](https://x.com/FlowiseAI)
+- [LinkedIn](https://www.linkedin.com/company/flowiseai/)
 
 </details>
 
@@ -2825,6 +2848,36 @@ General purpose
 ### Links
 - [Twitter](https://www.adept.ai/?utm_source=awesome-ai-agents)
 - [Linkedin](https://www.linkedin.com/company/adeptai/?utm_source=awesome-ai-agents)
+
+</details>
+
+## [AGENTS.inc](https://www.agents.inc/)
+Agents for company/regulations, search&monitoring
+
+<details>
+
+![image](https://www.agents.inc/wp-content/uploads/2023/08/AGENTS.inc-logo.png)
+
+### Category
+Data analysis, Science, Monitoring, General purpose, Business intelligence, Supports open-source models
+
+### Description
+- AI agents for specific tasks:
+  - Global News Radar AI Agent
+  - Company Identification AI Agent
+  - EU Policy Watch AI Agent
+  - Report AI Agent
+  - Scientific Knowledge Agent
+  - Patent Analysis Agent
+
+
+### Links
+- [Web](https://www.agents.inc/)
+- [X (Twitter)](https://x.com/agentsdotinc)
+- [LinkedIn](https://www.linkedin.com/company/agentsdotinc/)
+- [YouTube](https://www.youtube.com/c/agentsdotinc)
+- [Facebook](https://www.facebook.com/agentsdotinc)
+- [GitHub](https://github.com/agentsinc)
 
 </details>
 
