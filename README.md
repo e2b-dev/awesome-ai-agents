@@ -6,11 +6,11 @@ TBD:
 - Shoppal
 - Flowise
 - AGENTS.inc
+- Manaflow
 
 - Athena Intelligence
 - LLM Stack
 - Promptly
-- LLM Stack
 - Maige
 - GitWit
 - Devon
@@ -4423,6 +4423,29 @@ Coding, Productivity, Generating apps, Design, Content creation
 - [YouTube](https://www.youtube.com/@makedraft)
 - [Founder's X: David Ma](https://twitter.com/realdavidma)
 - [GitHub](https://github.com/makedraft)
+
+
+</details>
+
+## [Manaflow](https://manaflow.ai/)
+Automate technical business workflows
+
+<details>
+
+![image](https://bookface-images.s3.amazonaws.com/logos/5e452772f87fd93353d19538fd8f1c9f3ab9b6eb.png)
+
+### Category
+Productivity, Coding, Workflow automation
+
+### Description
+- Manaflow empowers non-technical teams to automate recurring workflows that require analyzing data, connecting APIs, and taking actions.
+- Using English, you can train Manaflow agents to interface with multiple third-party apps concurrently, host custom-built APIs, conduct customer interviews, build persistent data dashboards, run custom ML models, and execute actions for your business.
+
+### Links
+- [Web](https://manaflow.ai/)
+- [X (Twitter)](https://x.com/manaflowai)
+- [LinkedIn](https://www.linkedin.com/company/manaflow-ai/)
+- [YCombinator](https://www.ycombinator.com/companies/manaflow)
 
 
 </details>
