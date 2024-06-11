@@ -8,6 +8,7 @@ TBD:
 - AGENTS.inc
 - Manaflow
 - Beam
+- Kwal
 
 - Athena Intelligence
 - LLM Stack
@@ -4343,6 +4344,27 @@ Coding, Productivity, Debugging
 - [YouTube](https://www.youtube.com/@KushoAI)
 - [Sourabh Gawande - cofounder at Kusho](https://www.linkedin.com/in/sourabhgawande/)
 - [Abhishek Saikia - cofounder at Kusho](https://www.linkedin.com/in/abhishek1315/)
+  
+</details>
+
+## [Kwal](https://www.kwal.ai/)
+Voice Agents for Recruiting
+
+<details>
+
+![image](https://static.wixstatic.com/media/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png/v1/fill/w_302,h_166,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png)
+
+### Category
+Productivity
+
+### Description
+- 
+
+### Links
+
+- [Web](https://www.kwal.ai/)
+- [X (Twitter)](https://x.com/Kwal_AI)
+- [LinkedIn](https://www.linkedin.com/company/kwal/about/)
   
 </details>
 
