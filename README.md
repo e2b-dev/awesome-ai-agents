@@ -1,21 +1,10 @@
 <!--
 TBD:
 - Add to visual:
-- Powerdrill AI
-- Avanzai
-- Shoppal
-- Flowise
-- AGENTS.inc
-- Manaflow
-- Beam
-- Kwal
-- Workbot
 
-- Athena Intelligence
+
 - LLM Stack
 - Promptly
-- Maige
-- GitWit
 - Devon
 - vortic ai
 - UFO
@@ -24,10 +13,11 @@ TBD:
 - NexusGPT
 - Brain Soup
 - L2MAC
-- Athena?
+
 
 Add to readme list:
 - Codeium
+- tinybio
 - Semantix AI Agents - add when they have english version
 - NoteWizard - only if it's AI agent - TBD test
 - Postbot (TBD - check more)
