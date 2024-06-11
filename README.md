@@ -7,6 +7,7 @@ TBD:
 - Flowise
 - AGENTS.inc
 - Manaflow
+- Beam
 
 - Athena Intelligence
 - LLM Stack
@@ -3182,6 +3183,28 @@ Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and pl
 - [Web](https://avanz.ai/)
 - [Founder's X (Twitter)](https://x.com/gmanmalena_)
 - [LinkedIn](https://www.linkedin.com/company/avanzai/)
+
+</details>
+
+## [Beam](https://beam.ai/)
+A wide selection of AI agents automating workflows
+
+<details>
+
+![image](https://framerusercontent.com/images/frmJOXg5roLaxUZMpGF6efXw9A.png?scale-down-to=512)
+
+### Category
+Data analysis, Productivity, Build-your-own (agent-builing frameworks and platforms), Business intelligence, Multi-agent
+
+### Description
+- End-to-end process and workflow automation with intelligent AI agents.
+- With multiple B2B2C use-cases among a myriad of industries - healthcare, insurance, logistics, customer service, etc. - Beam allows businesses to customise their own automations or choose from existing agent templates to minimize the time it takes to execute complex tasks, repetitive tasks, and 100% of back office tasks.
+
+### Links
+- [Web](https://beam.ai/)
+- [X (Twitter)](https://x.com/join__beam)
+- [LinkedIn](https://www.linkedin.com/company/beam-ai/)
+- [YouTube](https://www.youtube.com/@beam-ai)
 
 </details>
 
