@@ -9,6 +9,7 @@ TBD:
 - Manaflow
 - Beam
 - Kwal
+- Workbot
 
 - Athena Intelligence
 - LLM Stack
@@ -5213,6 +5214,29 @@ Build-your-own, Supports open-source models
 - [LinkedIn](https://www.linkedin.com/company/wordware/)
 - [Filip Kozera - founder at Wordware](https://www.linkedin.com/in/filipkozera/)
   
+</details>
+
+## [WorkBot](https://workhub.ai/)
+The Only AI Platform you will ever need!
+
+<details>
+
+![image](https://workhub.ai/wp-content/uploads/2023/05/workhub-logo-horizontal.png)
+
+### Category
+Science, Productivity, Business intelligence
+
+### Description
+- "A privacy-centric Conversational AI platform leveraging AI Agents, Commercial and Opensource LLM support to centralize knowledge, thereby enriching collaboration and facilitating streamlined automation.
+- WorkHub empowers users with versatile conversational bots and tools that provide insights, knowledge, and data-driven actions.
+- With seamless integration capabilities, Workhub can be connected to any database and applications, ensuring comprehensive access to information."
+
+
+### Links
+- [Web](https://workhub.ai/)
+- [LinkedIn](https://www.linkedin.com/company/workhub-official/)
+- [X (Twitter)](https://x.com/WorkHubOfficiaI)
+
 </details>
 
 ## [Zapier Central](https://zapier.com/central)
