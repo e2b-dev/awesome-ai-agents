@@ -3200,6 +3200,41 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 
 </details>
 
+## [Blackbox AI](https://www.blackbox.ai/)
+Software That Builds Software
+
+<details>
+
+![image](https://www.blackbox.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBlackbox-Logo-4x.85cc4976.png&w=384&q=75)
+
+### Category
+- General purpose, coding, data analysis
+
+### Description
+- BLACKBOX.AI is a coding LLM designed to transform the way we build software.
+
+By building BLACKBOX.AI, our goal is to:
+
+1. Accelerate the pace of innovation within companies by making engineers 10X faster in building and releasing products
+
+2. Accelerate the growth in software engineers around the world and 10X the number of engineers from ~100M to 1B
+
+
+### Links
+- [Web](https://www.blackbox.ai/)
+- [Blackbox AI Code Interpreter](https://www.runcode.ai/)
+- [Blackbox AI Code Interpreter in terminal](https://pypi.org/project/blackboxai/)
+- [X (Twitter)](https://x.com/aiblckbx?lang=cs)
+- [Facebook](https://www.facebook.com/blckbxai/)
+- [Chrome extension](https://chromewebstore.google.com/detail/mcgbeeipkmelnpldkobichboakdfaeon)
+
+Written about Blackbox:
+- [BLACKBOX AI vs Codium AI](https://medium.com/@blackbox.ai/blackbox-ai-vs-codium-ai-7016abb93ec0)
+- [Blackbox AI: Supercharging Your Coding Workflow](https://www.linkedin.com/pulse/blackbox-ai-supercharging-your-coding-workflow-swarup-mukharjee-5gqbe/)
+- [Unveiling the Untold Story of Blackbox.ai: A Revolution in Software Quality Assurance](https://www.linkedin.com/pulse/unveiling-untold-story-blackboxai-revolution-software-yaqoot-kashif-em75f/)
+
+</details>
+
 
 ## [Blobr](https://www.blobr.io/)
 AI business assistant connected to all your tools
