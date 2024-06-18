@@ -2,7 +2,6 @@
 TBD:
 - Add to visual:
 
-
 - LLM Stack
 - Promptly
 - Devon
