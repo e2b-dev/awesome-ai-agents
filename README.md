@@ -3026,7 +3026,7 @@ Multiple AI Agents for the integration of APIs.
 ![image](https://apidna.ai/wp-content/uploads/2023/12/api-dna-logo.svg)
 
 ### Category
-Coding, Productivity, Multi-agent
+Productivity, Multi-agent, Coding
 
 ### Description
 - "At APIDNA, we're connecting software companies to connect the world.  And we're doing this with our proprietary no-code multiple Autonomous AI Agent platform, to address one of the major pain points in software development today – the integration of API endpoints."
