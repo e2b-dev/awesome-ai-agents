@@ -44,8 +44,8 @@ Add to readme list:
 
 Welcome to our list of AI agents.
 We structured the list into two parts:
-- [Open source projects](#open_hands-open-source-projects)
-- [Closed-source projects and companies](#lock-closed-source-projects-and-companies)
+- [Open source projects](#open-source-projects)
+- [Closed-source projects and companies](#closed-source-projects-and-companies)
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
 
