@@ -2040,6 +2040,30 @@ General purpose
 
 </details>
 
+## [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)
+MutahunterAI: Accelerate developer productivity and code security with our open-source AI
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/152569327?s=48&v=4)
+
+### Category
+Developer tools, Software security, Multi-agent, General purpose
+
+### Description
+- Use Mutahunter to generate unit tests for your codebase, that specifically target the code vulnerabilities. By targeting the exact weaknesses in the code, we boost developer productivity.
+- Unlike copilots which blindly generates test cases for your code, Mutahunter makes use of our mutation testing engine to generate unit tests that specifically target the vulnerabilities in your code
+- Features
+	- Support all major languages.
+	- We can be used locally or can be integrated into any CI/CD runner as part of your existing workflow
+	- You can use Mutahunter with your own LLM APIs for privacy.
+
+### Links
+- [Documentation](https://github.com/codeintegrity-ai/mutahunter?tab=readme-ov-file#mutahunter) 
+- [Discord](https://discord.gg/9P5V9qmKJn)
+- [GitHub](https://github.com/codeintegrity-ai/mutahunter)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
