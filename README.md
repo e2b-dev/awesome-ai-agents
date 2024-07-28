@@ -1888,6 +1888,35 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MemFree](https://github.com/memfreeme/memfree)
+Open Source Hybrid AI Search Engine
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/memfreeme/memfree/main/frontend/public/og.png)
+
+### Category
+Open Source, AI Search, Build your own
+
+### Description
+
+Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs.
+
+- One-Click Chrome Bookmarks Sync and Index
+- Support multiple traditional search engines as source
+- Self-hosted Super Fast Serverless Vector Database
+- Self-hosted Super Fast Local Embedding and Rerank Service
+- Full Code Open Source
+- One-Click Deployment On Production
+
+### Links  
+- [Documentation](https://www.memfree.me/docs)
+- [Discord](https://discord.com/invite/7QqyMSTaRq)
+- [Twitter](https://twitter.com/ahaapple2023)
+- [Website](https://www.memfree.me)
+
+</details>
+
 
 ## [MemGPT](https://github.com/cpacker/MemGPT)
 Memory management system, providing context to LLM
