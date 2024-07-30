@@ -2072,6 +2072,35 @@ General purpose
 
 </details>
 
+## [momemtum.sh](https://github.com/getmomentum/momentum-core)
+momentum: Open source tool to visually plan, generate and debug integration tests for your backend at every git push.
+
+<details>
+
+<p align="center">
+  <a href="https://momentum.sh?utm_source=github//#gh-dark-mode-only">
+    <img src="https://github.com/getmomentum/momentum-core/assets/19893222/7b3212c0-2635-4a7c-a15d-fee488a0f471" width="318px" alt="Momentum logo" />
+  </a>
+  <a href="https://momentum.sh?utm_source=github//#gh-light-mode-only">
+    <source media="(prefers-color-scheme: dark)">
+    <img alt="Momentum Logo light" src="https://github.com/getmomentum/momentum-core/assets/19893222/285fe228-770e-43ed-9eb8-968d46eaafeb" width="318px"/>
+  </a>
+</p>
+
+### Category
+Developer tools, Integration Testing, Visualisation 
+
+### Description
+- Momentum understands your code at every git push and helps you visualise your code flows for easier test planning and debugging. 
+- It uses the understanding of the complete flow to generate test plan consisting of happy paths and edge cases for the developer to review and approve.
+- Generate integration tests corresponding to the test plan approved by developer. 
+- Run and Debug the integration tests on your local dev environment using momentum's [CLI](https://pypi.org/project/momentum-cli/), no additional setup required.
+
+### Links
+- [Documentation](https://docs.momentum.sh/) 
+- [Discord](https://discord.gg/3ns29mEJMg)
+- [GitHub](https://github.com/getmomentum/momentum-core)
+</details>
 
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
