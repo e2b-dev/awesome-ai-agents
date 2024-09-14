@@ -73,7 +73,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/HumanSignal/Adala/raw/master/docs/src/img/logo-dark-mode.png)
 
@@ -98,7 +98,7 @@ General purpose, Build your own, Multi-agent
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
-<details>
+<details> <summary>More</summary>
 <p><img src="https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png" alt="Image" /></p>
 
 ### Category
@@ -117,7 +117,7 @@ General purpose, Build your own, Multi-agent
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/profile_images/1667167265060528129/l8S9vtP2_400x400.jpg)
 
@@ -141,7 +141,7 @@ General purpose, Build your own, Multi-agent
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png)
 
@@ -186,7 +186,7 @@ General purpose
 Build, manage, and chat with agents in desktop app
 
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/jbexta/AgentPilot/raw/master/docs/demo.png)
 
@@ -211,7 +211,7 @@ General purpose
 
 Library/framework for building language agents
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/aiwaves-cn/agents/raw/master/assets/agents-logo.png)
 
@@ -236,7 +236,7 @@ General purpose, Build your own, Multi-agent
 
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/card_img/1744672970822615040/m870GGf1?format=jpg&name=medium)
 
@@ -258,7 +258,7 @@ General purpose, Build your own, Multi-agent
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://res.cloudinary.com/apideck/image/upload/w_1500,f_auto/v1681330426/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/ai-legion/screenshots/Screenshot_2023-04-12_at_22.13.24_d9kdoj.png)
 
@@ -281,7 +281,7 @@ Multi-agent, Build-your-own
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
-<details>
+<details> <summary>More</summary>
 
 
 ![Image](https://repository-images.githubusercontent.com/638629097/1d3d6251-f8be-4d11-bbb1-4e44b7364b74)
@@ -303,7 +303,7 @@ Coding, GitHub
 
 ## [AIlice](https://github.com/myshell-ai/AIlice)
 Create agents-calling tree to execute your tasks
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/myshell-ai/AIlice/raw/master/AIlice.png)
 
@@ -322,7 +322,7 @@ General purpose, Personal assistant, Productivity
 
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/microsoft/autogen/raw/main/website/static/img/autogen_agentchat.png)
 
@@ -348,7 +348,7 @@ General purpose, Build your own, Multi-agent
 ## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
 Experimental attempt to make GPT4 fully autonomous
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://news.agpt.co/wp-content/uploads/2023/04/Logo_-_Auto_GPT-B-800x363.png)
 
@@ -392,7 +392,7 @@ General purpose
 ## [Automata](https://github.com/emrgnt-cmplxty/automata)
 Generate code based on your project context
 
-<details>
+<details> <summary>More</summary>
 
 
 ![Image](https://github.com/emrgnt-cmplxty/Automata/assets/68796651/61fe3c33-9b7a-4c1b-9726-a77140476b83)
@@ -428,7 +428,7 @@ Coding
 ## [AutoPR](https://github.com/irgolic/AutoPR)
 AI-generated pull requests agent that fixes issues
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/irgolic/AutoPR/raw/main/website/static/img/AutoPR_Mark_color.png)
 
@@ -450,7 +450,7 @@ Coding, GitHub
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
 Agent that answers HR-related queries using tools
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/stepanogil/autonomous-hr-chatbot/raw/main/assets/sample_chat.png)
 
@@ -476,7 +476,7 @@ HR, Business intelligence, Productivity
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://user-images.githubusercontent.com/21254008/235015461-543a897f-70cc-4b63-941a-2ae3c9172b11.png)
 
@@ -506,7 +506,7 @@ General purpose
 ## [BabyBeeAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)
 Task management & functionality BabyAGI expansion
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://yoheinakajima.com/wp-content/uploads/2023/04/image.png)
 
@@ -532,7 +532,7 @@ General purpose, Productivity
 
 ## [BabyCatAGI](https://replit.com/@YoheiNakajima/BabyCatAGI)
 BabyCatAGI is a mod of BabyBeeAGI
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/media/FwBwoRracAI99iP?format=jpg&name=medium)
 
@@ -570,7 +570,7 @@ General purpose
 ## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
 Mod of BabyAGI with only ~350 lines of code
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/media/Fx_tr0yaUAYP1Q0?format=jpg&name=medium)
 
@@ -599,7 +599,7 @@ General purpose
 
 ## [BabyElfAGI](https://twitter.com/yoheinakajima/status/1678443482866933760)
 Mod of BabyDeerAGI, with ~895 lines of code
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/media/F0sHc04aMAEVn3D?format=jpg&name=medium)
 
@@ -625,7 +625,7 @@ General purpose
 
 ## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
 Test what happens when you combine CLI and LLM
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png)
 
@@ -652,7 +652,7 @@ General purpose, Coding
 Mod of BabyAGI with a new parallel UI panel
 
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/media/F2Vpt4EbIAAa326?format=jpg&name=medium)
 
@@ -686,7 +686,7 @@ General purpose
 ## [BambooAI](https://github.com/pgalko/BambooAI)
 Data exploration and analysis for non-programmers
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/card_img/1745187734602313730/f-W5kbIU?format=jpg&name=medium)
 
@@ -715,7 +715,7 @@ Data analysis
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://camo.githubusercontent.com/72231056f7393fa18ee2baa5cedf2688d1fc15478bb6131936e222e5d23ccbb6/68747470733a2f2f6572696b6c702e636f6d2f6d6173636f742e706e67)
 
@@ -735,7 +735,7 @@ General purpose, Productivity
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
-<details>
+<details> <summary>More</summary>
 
 ![Banner](https://github.com/seahyinghang8/blinky/raw/master/media/banner.png)
 
@@ -757,7 +757,7 @@ Coding, Debugging
 ## [Bloop](https://bloop.ai/)
 AI code search, works for Rust and Typescript
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://bloop.ai/_next/static/media/logo_white.b3bdedc0.svg)
 
@@ -784,7 +784,7 @@ Coding
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://bondai.dev/assets/images/bondai-logo-9bec7e27b93b804d375221ff8fb6d336.png)
 
@@ -816,7 +816,7 @@ Coding
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
-<details>
+<details> <summary>More</summary>
 
 ![demo](<https://assets-global.website-files.com/65af8f02f12662528cdc93d6/662e6061d42954630a191417_tanstack-ezgif.com-speed%20(1).gif>)
 
@@ -839,7 +839,7 @@ Coding
 ## [Cal.ai](https://cal.ai)
 Open-source scheduling assistant built on Cal.com
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://3620107743-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpmUOqZjfGqNkiPmqgnMv%2Fuploads%2F9Qaq1hlaTcqKfrc9k4OG%2Fimage.png?alt=media&token=1ffe8530-19ff-4aea-b020-a99cdc224ce1)
 
@@ -861,7 +861,7 @@ Productivity
 ## [CAMEL](https://github.com/camel-ai/camel)
 Architecture for “Mind” Exploration of agents
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://raw.githubusercontent.com/camel-ai/camel/master/misc/logo.png)
 
@@ -890,7 +890,7 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.com/Farama-Foundation/chatarena/raw/main/docs/images/chatarena_architecture.png)
 
@@ -915,7 +915,7 @@ ChatArena provides:
 ## [ChatDev](https://github.com/OpenBMB/ChatDev)
 Communicative agents for software development
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/OpenBMB/ChatDev/raw/main/misc/logo1.png)
 
@@ -939,7 +939,7 @@ Coding, Multi-agent
 ## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
 LangChain agent for chemistry-related tasks
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/ur-whitelab/chemcrow-public/raw/main/assets/chemcrow_dark_bold.png)
 
@@ -962,7 +962,7 @@ Science, Chemistry
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://lev.la/images/clippy.jpg)
 
@@ -982,7 +982,7 @@ Coding
 
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/codefuse-ai/codefuse-chatbot/raw/main/sources/docs_imgs/objective_v4.png)
 
@@ -1000,7 +1000,7 @@ Coding
 ## [Cody by ajhous44](https://github.com/ajhous44/cody)
 Query and navigate your codebase
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -1020,7 +1020,7 @@ Coding
 ## [Cody by Sourcegraph](https://docs.sourcegraph.com/cody)
 Agent that writes code and answers your questions
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://sourcegraph.com/.assets/img/sourcegraph-mark.svg?v2)
 
@@ -1039,7 +1039,7 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://continue.dev/docs/assets/images/continue-cover-logo-aa135cc83fe8a14af480d1633ed74eb5.png)
 
@@ -1064,7 +1064,7 @@ Coding
 
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/joaomdmoura/crewAI/raw/main/docs/crewai_logo.png)
 
@@ -1090,7 +1090,7 @@ Build-your-own, SDK for agents, Multi-agent
 
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
-<details>
+<details> <summary>More</summary>
 
 <br>
 <img src="https://github.com/Technion-Kishony-lab/data-to-paper/assets/65530510/e33bcb52-5f4e-4fd0-8be9-ebd64607c449" width="400" align="center">
@@ -1127,7 +1127,7 @@ and while allowing scientist to oversee and direct the process
 ## [Databerry](https://www.databerry.ai/)
 (Pivoted to Chaindesk) No-code cahtbot building
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://www.chaindesk.ai/_next/image?url=%2Fapp-logo-icon.png&w=256&q=75)
 
@@ -1163,7 +1163,7 @@ Build-your-own
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/melih-unsal/DemoGPT/raw/main/assets/banner_small.png)
 
@@ -1190,7 +1190,7 @@ Build-your-own, General purpose
 ## [DevGPT](https://github.com/jina-ai/dev-gpt)
 Team of virtual developers
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/profile_images/1684472754597142529/tyM92sRA_400x400.jpg)
 ### Category
@@ -1208,7 +1208,7 @@ Coding, Multi-agent
 ## [Devika](https://github.com/stitionai/devika)
 Agentic AI Software Engineer
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/stitionai/devika/raw/main/.assets/devika-screenshot.png)
 ### Category
@@ -1226,7 +1226,7 @@ Coding, general purpose
 ## [Devon](https://github.com/entropy-research/Devon)
 Open-source Devin alternative
 
-<details>
+<details> <summary>More</summary>
 
 ![Image]()
 ### Category
@@ -1243,7 +1243,7 @@ Coding, general purpose
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 AI-Driven SW Development Automation Solution
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/kuafuai/DevOpsGPT/raw/master/docs/files/intro-flow-simple.png)
 
@@ -1271,7 +1271,7 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 ## [dotagent](https://github.com/dot-agent/dotagent)
 Deploy agents on cloud, PCs, or mobile devices
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://avatars.githubusercontent.com/u/133483033?s=200&v=4)
 
@@ -1292,7 +1292,7 @@ Build-your-own
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://www.eidolonai.com/_astro/default.jKAYXmpI_ZWVg5E.webp)
 
@@ -1315,7 +1315,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/uilicious/english-compiler/raw/main/notes/imgs/EnglishCommand-CLI-help.png)
 
@@ -1336,7 +1336,7 @@ Coding
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://camo.githubusercontent.com/3333c49067bddef0b208e36e22cf6ec8066f5be1da1dc327532427a395ed8069/68747470733a2f2f6861636b6d642e696f2f5f75706c6f6164732f4279576a4c4b41686e2e706e67)
 
@@ -1358,7 +1358,7 @@ General purpose, Research, Multi-agent
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://flowiseai.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-color-high.e60de2f8.png&w=384&q=75)
 
@@ -1380,7 +1380,7 @@ Build-your-own (agent-builing frameworks and platforms)
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/amirrezasalimi/friday/raw/main/screenshot.png)
 
@@ -1404,7 +1404,7 @@ Coding
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/genia-dev/GeniA/raw/main/media/genia_title.png)
 
@@ -1425,7 +1425,7 @@ Coding
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://toolpulse.ai/wp-content/uploads/2023/11/godmode-ai.jpg)
 
@@ -1452,7 +1452,7 @@ General purpose
 ## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
 The ultimate AI agent integration for Discord
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://camo.githubusercontent.com/c02e68bf20c853637e8cfb02c9406bd2b3b20637ea4ed95b7d68819e94a01dfe/68747470733a2f2f692e696d6775722e636f6d2f425a644f52544c2e706e67)
 
@@ -1478,7 +1478,7 @@ Content creation, Productivity, General purpose, Discord
 ## [GPT Engineer](https://gptengineer.app/)
 Generates entire codebase based on a prompt
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://pbs.twimg.com/media/GDA3bYrXYAE5XDQ?format=jpg&name=4096x4096)
 
@@ -1508,7 +1508,7 @@ GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 ## [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
 Migrate codebase between frameworks/languages
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://opengraph.githubassets.com/678543c5159118a70ea974db32bb95b310a3fbb6ad4296e97d54335031f8df82/joshpxyne/gpt-migrate)
 
@@ -1534,7 +1534,7 @@ GOT Migrate easily migrates your codebase from one framework or language to anot
 ## [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)
 Code the entire scalable app from scratch
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://techcrunch.com/wp-content/uploads/2023/08/gpt_pilot_logo.png?w=150)
 
@@ -1558,7 +1558,7 @@ GPT Pilot is an AI agent that codes the entire app as you oversee the code being
 ## [GPT Researcher](https://github.com/assafelovic/gpt-researcher)
 Agent that researches entire internet on any topic
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://camo.githubusercontent.com/b3ab3e2b5612657816d64e174672498cd50027b75aa0a795833aee2ddab585b2/68747470733a2f2f636f7772697465722d696d616765732e73332e616d617a6f6e6177732e636f6d2f6172636869746563747572652e706e67)
 
@@ -1584,7 +1584,7 @@ GPT Researcher is a GPT-based autonomous agent that does online comprehensive re
 ## [GPT Runner](https://github.com/nicepkg/gpt-runner)
 Agent that converses with your files
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://repository-images.githubusercontent.com/640476297/30741f73-caac-48bc-b500-1b7d6efde4c4)
 
@@ -1608,7 +1608,7 @@ Research, Science
 ## [GPTSwarm](https://gptswarm.org/)
 Language Agents as Optimizable Graphs
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://gptswarm.org/images/gptswarm.png)
 
@@ -1634,7 +1634,7 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.com/kreneskyp/ix/raw/master/ix_350.png)
 
@@ -1668,7 +1668,7 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 ## [JARVIS](https://github.com/microsoft/JARVIS)
 System that connects LLMs with the ML community
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.com/microsoft/JARVIS/raw/main/hugginggpt/assets/intro.png)
 
@@ -1691,7 +1691,7 @@ JARVIS is a system to connect LLMs with the ML community.
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.com/langroid/langroid/raw/main/docs/assets/langroid-card-lambda-ossem-rust-1200-630.png)
 
@@ -1727,7 +1727,7 @@ into simplifying the developer experience; it does not use `Langchain`.
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/media/F3l2kEsXIAA0Gsm?format=jpg&name=large)
 
@@ -1753,7 +1753,7 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -1777,7 +1777,7 @@ A minimalistic library for building agents that leverage large language models t
 ## [LLM Stack](https://llmstack.ai/)
 No-code platform to build LLM Agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://llmstack.ai/img/logo-grayscale.svg)
 
@@ -1804,7 +1804,7 @@ Build-your-own, no-code, web UI
 ## [Local GPT](https://github.com/PromtEngineer/localGPT)
 Chat with documents without compromising privacy
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -1836,7 +1836,7 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 Re-implementation of AutoGPT as a Python package
 
- <details>
+ <details> <summary>More</summary>
 
  ![image](https://github.com/farizrahman4u/loopgpt/raw/main/docs/assets/imgs/loopgpt_demo_pic.png?raw=true)
 
@@ -1868,7 +1868,7 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 ## [L2MAC](https://github.com/samholt/l2mac)
 Agent framework able to produce large complex codebases and entire books
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://raw.githubusercontent.com/samholt/L2MAC/master/docs/public/l2mac-icon-white.png)
 
@@ -1897,7 +1897,7 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNrQ3hXkHi0qTI-XThXwx7wA33LcAZZzLp5af6UjY0Vg&s)
 
@@ -1920,7 +1920,7 @@ Coding, Productivity, Debugging, Multi-agent
 ## [Magick](https://www.magickml.com/)
 AIDE for creating, deploying, monetizing agents
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://assets-global.website-files.com/6507b4af22875d0b8abf95a7/6507bbdc3085cf26d1e8041e_white-wm-tiny.png)
 
@@ -1948,7 +1948,7 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://raw.githubusercontent.com/memfreeme/memfree/main/frontend/public/og.png)
 
@@ -1978,7 +1978,7 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 ## [MemGPT](https://github.com/cpacker/MemGPT)
 Memory management system, providing context to LLM
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://files.readme.io/da7f719-small-memgpt_logo_circle_nuno.png)
 
@@ -2001,7 +2001,7 @@ Memory management, Data analysis
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://assets-global.website-files.com/64bad175c3f1fe8957a06faf/64bef0d57ca34f97c26b2c63_abante-ai-icon_transparent_271.png)
 
@@ -2024,7 +2024,7 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://github.com/geekan/MetaGPT/raw/main/docs/resources/MetaGPT-new-log.png)
 
@@ -2052,7 +2052,7 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 General-purpose agent based on GPT-3.5 / GPT-4
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://github.com/muellerberndt/mini-agi/raw/main/static/mini-agi-cover.png)
 
@@ -2076,7 +2076,7 @@ General purpose
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://composable-models.github.io/llm_debate/img/accuracy_small.png)
 
@@ -2101,7 +2101,7 @@ Multiagent Debate is an implementation of the paper "Improving Factuality and Re
 ## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
 Experimental multi-agent system
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -2129,7 +2129,7 @@ General purpose
 ## [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)
 MutahunterAI: Accelerate developer productivity and code security with our open-source AI
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://avatars.githubusercontent.com/u/152569327?s=48&v=4)
 
@@ -2152,7 +2152,7 @@ Developer tools, Software security, Multi-agent, General purpose
 
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
-<details>
+<details> <summary>More</summary>
 
  ![image](https://github.com/mczhuge/NLSOM/raw/main/assets/nlsom.svg)
 
@@ -2177,7 +2177,7 @@ Science, Multimodal, Social, Multi-agent
 
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
-<details>
+<details> <summary>More</summary>
 
  ![image](https://github.com/xlang-ai/OpenAgents/raw/main/pics/openagents_overview.png)
 
@@ -2209,7 +2209,7 @@ OpenAgents is an Open Platform for Language Agents in the Wild, ChatGPT Plus Rep
 ## [OpenAGI](https://github.com/agiresearch/OpenAGI)
 R&D agents platform
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://github.com/agiresearch/OpenAGI/raw/main/images/illustration.png)
 
@@ -2235,7 +2235,7 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/OpenDevin/OpenDevin/raw/main/logo.png)
 ### Category
@@ -2255,7 +2255,7 @@ Coding, general purpose
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://openinterpreter.com/assets/ncu_thumbnail.jpg)
 
@@ -2278,7 +2278,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
-<details>
+<details> <summary>More</summary>
 
  ![image](https://www.pezzo.ai/_next/static/media/Logo.b7e3878b.svg)
 
@@ -2304,7 +2304,7 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/6408872e49e0944a088f17c1/640f3c6e8640895f2cbf95ba_logo%20full.svg)
 
@@ -2325,7 +2325,7 @@ Private GPT is A tool for private interaction with documents, without a need for
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://avatars.githubusercontent.com/u/125468716?s=280&v=4)
 ### Category
@@ -2353,7 +2353,7 @@ Productivity, General purpose
 
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
-<details>
+<details> <summary>More</summary>
 
 ![image](https://reactagent.io/logo-dark.png)
 
@@ -2390,7 +2390,7 @@ Coding
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/63fcd79d410b22ddf397e1b8/654272554402410a71c84ab9_6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp)
 
@@ -2409,7 +2409,7 @@ Productivity, Research
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://smol.ai/logo.png)
 
@@ -2440,7 +2440,7 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1723911660232945664/CtumfUuB_400x400.jpg)
 
@@ -2464,7 +2464,7 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://api.typedream.com/v0/document/public/b9d688ba-8f34-40e4-a24a-c62b403b402d/2YukgQsvbVkUp7u1HLsrBKCjfrO_superagent_logo_candidate_2_invisible_background_small.png)
 
@@ -2491,7 +2491,7 @@ Superagent is not a single agent, but a tool that allows creating agents without
 
 ## [SuperAGI](https://superagi.com/)
 Framework to develop and deploy AI agents
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1678659510041456640/rxUIfulT_400x400.jpg)
 
@@ -2532,7 +2532,7 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 ## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
 Paper on imperfect information games
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.com/CR-Gjx/Suspicion-Agent/raw/main/figures/counterfactual.png)
 
@@ -2556,7 +2556,7 @@ General purpose
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
 
-<details>
+<details> <summary>More</summary>
 
 ![Image](https://github.com/princeton-nlp/SWE-agent/raw/main/assets/swe-agent-banner.png)
 ### Category
@@ -2593,7 +2593,7 @@ Coding, general purpose
 ## [Sweep](https://sweep.dev/)
 Github assistant that fixes issues & writes code
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://avatars.githubusercontent.com/u/127925974?s=200&v=4)
 
@@ -2618,7 +2618,7 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.com/TaxyAI/browser-extension/raw/main/src/assets/img/icon-128.png)
 
@@ -2641,7 +2641,7 @@ General purpose, Productivity
 
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 BabyAGI-inspired agent, can recall infinite memory
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -2671,7 +2671,7 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.com/microsoft/UFO/raw/main/assets/ufo_blue.png)
 
@@ -2692,7 +2692,7 @@ Multi-agent, GUI Agent
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://vanna.ai/img/vanna.svg)
 ### Category
@@ -2719,7 +2719,7 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
-<details>
+<details> <summary>More</summary>
 
 ![image](https://voyager.minedojo.org/assets/images/exploration_performance.png)
 
@@ -2746,7 +2746,7 @@ General purpose
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1701486001120567296/u84M3Ruo_400x400.jpg)
 
@@ -2769,7 +2769,7 @@ Blockchain, Coding, Generating apps, Smart contract
 
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent environment simulation library
-<details>
+<details> <summary>More</summary>
 
 ![image](https://theolvs.github.io/westworld/img/cover_hq_westworld1.jpg)
 
@@ -2807,7 +2807,7 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/card_img/1744902310336118784/AVnD3MC-?format=jpg&name=medium)
 
@@ -2829,7 +2829,7 @@ Coding
 ## [Wren](https://www.getwren.ai/)
 Natural Language Interface to Your Databases
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://cdn.prod.website-files.com/65e9b9dd95692faa9f5bb1c0/65f99924ac1b1f225c356d74_logo.png)
 
@@ -2861,7 +2861,7 @@ There are four key principles that we followed when developing WrenAI:
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_banners/1713881934991093760/1697456782/1500x500)
 
@@ -2897,7 +2897,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 ## [yAgents](https://github.com/yeagerai/yeagerai-agent)
 Capable of designing, coding and debugging tools
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -2926,7 +2926,7 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 ## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
 Swift implementation of BabyAGI
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -2945,7 +2945,7 @@ General purpose
 ## [Ability AI](https://ability.ai/)
 Secure, People-Centric Autonomous AI Agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://ability.ai/assets/images/image01.svg?v=e0c18927)
 
@@ -2964,7 +2964,7 @@ General purpose, Productivity, Business intelligence
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 ML research and product lab building intelligence
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://media.licdn.com/dms/image/C4E0BAQHoZ-QBmwsa0g/company-logo_200_200/0/1677107534930/adeptailabs_logo?e=1713398400&v=beta&t=ykMLRWaek147bz9BpCaLCuYFrVorWWT3iaDsrWQa6Do)
 
@@ -2988,7 +2988,7 @@ General purpose
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.agents.inc/wp-content/uploads/2023/08/AGENTS.inc-logo.png)
 
@@ -3018,7 +3018,7 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/64e879914c784ca827df6d6d/6594ec15997b8276945f35a6_logo_side_white_cropped-p-500.png)
 
@@ -3042,7 +3042,7 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://avatars.githubusercontent.com/u/135339264?s=200&v=4)
 
@@ -3067,7 +3067,7 @@ Coding
 ## [AilaFlow](https://ailaflow.com)
 No-code platform for building AI agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://yt3.googleusercontent.com/TkDmYBaXRvIegqkJoujtXpIlK9X5dMAjiDldAlqSHAUaekbvbYXlOaZq1DsV8neqBUZqlWAc5w=s900-c-k-c0x00ffffff-no-rj)
 
@@ -3089,7 +3089,7 @@ Build-your-own, Productivity
 ## [Airkit.ai](https://www.airkit.ai)
 Platform for building, testing, deploying Agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://airkit.ai/_gatsby/image/4d7db4337bbde82f2bf7ffb0e5046c81/a46b36f8203bc3f33cb41b43956d7bd2/IMG_1847.avif?u=https%3A%2F%2Flive-airkit-ai.pantheonsite.io%2Fapp%2Fuploads%2F2023%2F11%2FIMG_1847.png&a=w%3D480%26h%3D174%26fm%3Davif%26q%3D100&cd=c7e6c2e0828656c0553ba410f22d3684)
 
@@ -3111,7 +3111,7 @@ Build-your-own
 ## [Airplane Autopilot](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/)
 Autopilot AI assistant of the Airplane company
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.airplane.dev/autopilot/hero/autopilot-logo.png)
 
@@ -3139,7 +3139,7 @@ Coding, General purpose
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.aomni.com/icons/aomni-logo-black.svg)
 
@@ -3163,7 +3163,7 @@ Business intelligence
 Multiple AI Agents for the integration of APIs.
 
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://apidna.ai/wp-content/uploads/2023/12/api-dna-logo.svg)
 
@@ -3184,7 +3184,7 @@ Productivity, Multi-agent, Coding
 ## [Artisian AI](https://github.com/Artisan-AI)
 Agents for sales, e-mails, book keeping & more
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1723059970609225728/WxC0wUQ-_400x400.png)
 
@@ -3212,7 +3212,7 @@ Multi-agent, Build-your-own
 ## [Ask Pandi](https://askpandi.com/ask)
 Answer engine to search and generate knowledge
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://askpandi.com/logo.png)
 
@@ -3237,7 +3237,7 @@ Productivity, Research, General purpose
 ## [AskToSell](https://asktosell.com/)
 Meet autonomous AI sales agents that close deals
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/64dc76096a7dfdd761e62e16/64dc9b12f89067d1657f3103_asktosell%20transparent%20logo.svg)
 
@@ -3259,7 +3259,7 @@ Sales, Build-your-own, Business intelligence, Marketing
 ## [AskYourDatabase](https://www.askyourdatabase.com/)
 Chat with SQL database, explore and visualize data
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.askyourdatabase.com/_next/image?url=%2Flogo-light.png&w=64&q=75)
 
@@ -3280,7 +3280,7 @@ Business intelligence, Productivity, Data analysis
 ## [Athena Intelligence](https://www.athenaintelligence.ai/)
 24/7 Enterprise AI Data Analyst
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/6484b03566311009ccef7599/6602dcd93264ffed31406081_athena_logo_full%201.svg)
 
@@ -3301,7 +3301,7 @@ Data analysis, Business intelligence
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://framerusercontent.com/images/abZ2DpGylwpNlOcvhmiTEHLvU.png?scale-down-to=512)
 
@@ -3322,7 +3322,7 @@ Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and pl
 ## [Beam](https://beam.ai/)
 A wide selection of AI agents automating workflows
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://framerusercontent.com/images/frmJOXg5roLaxUZMpGF6efXw9A.png?scale-down-to=512)
 
@@ -3344,7 +3344,7 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 ## [Blackbox AI](https://www.blackbox.ai/)
 Software That Builds Software
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.blackbox.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBlackbox-Logo-4x.85cc4976.png&w=384&q=75)
 
@@ -3380,7 +3380,7 @@ Written about Blackbox:
 ## [Blobr](https://www.blobr.io/)
 AI business assistant connected to all your tools
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/5f1ace21b47b368069989680/65cdd7ab62643c6baa204181_logo-blobr-white.svg)
 
@@ -3403,7 +3403,7 @@ Data analysis, Productivity, Marketig, Sales, Business intelligence
 ## [BrainSoup](https://www.nurgo-software.com/products/brainsoup)
 Build an AI team that works for you, on your PC
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.nurgo-software.com/images/BrainSoup/BrainSoupCard512.png)
 
@@ -3432,7 +3432,7 @@ General purpose, Productivity, Data analysis, Multi-agent, Build-your-own
 ## [broadn](https://www.broadn.io/?utm_source=awesome-ai-agents)
 No-code copilot that allows users to build AI apps
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://api.typedream.com/v0/document/public/9727d7a5-4819-4564-beac-0284be31fddc/2aOWIGcm82x5hyT6p1gN9X7cn62_broadn_logo_new.png)
 
@@ -3458,7 +3458,7 @@ Coding
 ## [Butternut AI](https://butternut.ai/)
 Build fully-functioning, ready-to-launch website
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://butternut.ai/_next/image?url=%2Fimages%2Flogo%2Flogo-text.png&w=384&q=75)
 
@@ -3483,7 +3483,7 @@ A tool for creating a fully-functioning, ready-to-launch website in 20 seconds
 ## [B2 AI](https://www.b2.work/)
 Autocomplete AI assistant for work
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://static.vecteezy.com/system/resources/previews/024/246/469/non_2x/advanced-ai-assistant-icon-in-illustration-vector.jpg)
 
@@ -3505,7 +3505,7 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://chathelp.ai/wp-content/uploads/chathelp_black.png)
 
@@ -3540,7 +3540,7 @@ Data analysis, Content creation, Productivity, Research, Marketig, Sales, Busine
 
 ## [Claros AI Shopper](https://www.claros.so/)
 AI shopper that finds products for your taste
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.claros.so/logo-circle.png)
 
@@ -3565,7 +3565,7 @@ Claros is an AI personal shopper that finds you interesting products, and learns
 ## [Claygent](https://www.clay.com/learn/claygent)
 Agent that scrapes and summarize data from the web
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/61477f2c24a826836f969afe/65b22bf376c1cc60a9e0de93_img-logo-clay.png)
 
@@ -3584,7 +3584,7 @@ Productivity, Marketig, Sales, Finance, General purpose, Business intelligence
 ## [Code Autopilot](https://www.codeautopilot.com/)
 AI Assistant for your project
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.codeautopilot.com/_next/static/media/logo_purple.fa331d81.png)
 
@@ -3607,7 +3607,7 @@ Coding, Multi-agent, GitHub
 ## [Codegen](https://www.codegen.com/)
 Solve tickets, write tests, level up your workflow
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/652ef464dd4ef344367c4fd1/652efb93dcbbba956ee773f2_Codegen%20-%20Logo%20-%20Primary%20-%20Dark%20Theme-p-500.png)
 
@@ -3629,7 +3629,7 @@ Codegen is an agent that allows automatically solve tickets, write tests and lev
 
 ## [CodeWP](https://codewp.ai/)
 AI Agent for WordPress websites
-<details>
+<details> <summary>More</summary>
 
 ![image](https://codewp.ai/wp-content/uploads/2023/09/New-Icon.png)
 
@@ -3651,7 +3651,7 @@ Faster WordPress Development with domain-specific AI modes, tools, and features.
 ## [Codium AI](https://www.codium.ai/)
 Coding multipurpose AI assistant for developers
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.codium.ai/wp-content/uploads/2023/01/codium-logo.svg)
 
@@ -3682,7 +3682,7 @@ Coding
 ## [Commit](https://commit.dev)
 Career Copilot and AI Agent for SW Developers
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://commit.dev/wp-content/uploads/2021/05/commit-logo.svg)
 
@@ -3704,7 +3704,7 @@ Coding
 ## [Cognosys](https://cognosys.ai)
 Web-based version of AutoGPT or BabyAGI
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_banners/1646414136811855873/1704327520/1500x500)
 
@@ -3723,7 +3723,7 @@ General purpose, Research
 ## [Cursor](https://www.cursor.so/)
 AI-powered Code Editor with VSCode-like UI
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://cursor.sh/brand/logo.svg)
 
@@ -3743,7 +3743,7 @@ Cursor is the AI-first Code Editor. Build software faster in an editor designed 
 ## [Cykel](https://www.cykel.ai/)
 Interact with any UI, website or API
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1704063452271058944/sZEVZIqG_400x400.png)
 
@@ -3767,7 +3767,7 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/65cf071d26e52092bc212f6e/65ed4622397bb038560f1ef3_cropped-p-500.png)
 
@@ -3792,7 +3792,7 @@ Devin is in early phase now, but according to demo, it has the following capabil
 ## [Diagram](https://diagram.com/)
 AI design tools for everyone, acquired by Figma
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://uploads-ssl.webflow.com/6408bea3de5aef58b7e197d4/6408c50680c7dae0a89901a1_logo.svg)
 
@@ -3814,7 +3814,7 @@ Design, Content creation
 
 ## [Dosu](https://dosu.dev/)
 GitHub repo AI teammate helping also with docs
-<details>
+<details> <summary>More</summary>
 
 ![image](https://avatars.githubusercontent.com/u/146474245?s=200&v=4)
 
@@ -3840,7 +3840,7 @@ Coding, Productivity
 
 ## [Dot](https://www.getdot.ai/)
 Virtual assistant that help with data analytics
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/644a347ea803e322d9c0feb8/644a36f6d9f2d08386070b0d_fox_avatar_7.jpg)
 
@@ -3862,7 +3862,7 @@ Data analysis, Business intelligence
 ## [Duckie AI](https://duckie.ai/)
 Team of AI SW development companions (Ducklings)
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://duckie.ai/images/duckie_logo.png)
 ### Category
@@ -3887,7 +3887,7 @@ Ducklings chat with users to define their goals, come up with engineering design
 ## [Ellipsis](https://ellipsis.dev/?utm_source=awesome-ai-agents)
 (Previously BitBuilder) "Automated code reviews and bug fixes"
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://app.ellipsis.dev/images/ellipsis_github_logo_white_bg.png&w=640&q=75)
 
@@ -3913,7 +3913,7 @@ Coding, GitHub, GitLab
 ## [encode](https://encode.software)
 Fully autonomous AI SW engineer in early stage
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://encode.software/_next/image?url=%2Fslack2.png&w=1920&q=75)
 
@@ -3930,7 +3930,7 @@ Coding
 ## [Factory](https://www.factory.ai/)
 Coding Droids for building software end-to-end
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/644b0c1743a3f6abb4f7f149/659c69f2d6e5ba953d5aed58_t%20(1)-p-500.png)
 
@@ -3949,7 +3949,7 @@ Coding
 ## [Fine](https://www.fine.dev/)
 Build Software with AI Agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/6290be8d112ee934eeb6aaf2/64e2150d1d1c34380ec59254_logo%20white%20with%20name.png)
 
@@ -3972,7 +3972,7 @@ Coding, Multi-agent, Build-your-own
 ## [Fine Tuner](https://fine-tuner.ai/)
 (Pivoted to Synthflow) No-code platform for agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://1a3c84454236f952546f01b263468144.cdn.bubble.io/f1704473650779x346108115281154240/gray%20logo.svg)
 
@@ -4000,7 +4000,7 @@ With an intuitive UI/UX and rapid API deployment, FineTuner.ai simplifies AI dev
 ## [Fixie](https://www.fixie.ai/)
 Platform for creating LLM-powered AI apps
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1715406291349143552/-wRzF29t_400x400.png)
 
@@ -4024,7 +4024,7 @@ Build-your-own
 ## [Floode](https://floodehq.com/)
 Executive agent automating communication busywork
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1670794260579270658/sLUFAGGs_400x400.png)
 
@@ -4049,7 +4049,7 @@ Productivity
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://techcommunity.microsoft.com/t5/image/serverpage/image-id/439603i2263F871BE5D381D/image-size/original?v=v2&px=-1)
 
@@ -4072,7 +4072,7 @@ Coding, GitHub
 ## [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
 AI for every step of SW development lifecycle
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://about.gitlab.com/nuxt-images/solutions/ai/duo-logo.svg)
 
@@ -4096,7 +4096,7 @@ Coding
 ## [GitWit](https://www.gitwit.dev/)
 Automate code generation with AI. In beta version
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://framerusercontent.com/images/SmLDF79Mns070VHglJVQyuQ1A.png?scale-down-to=512)
 
@@ -4120,7 +4120,7 @@ Coding
 
 ## [GoCharlie](https://gocharlie.ai/)
 Multimodal content creation autonomous agent 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://gocharlie.ai/wp-content/uploads/2023/08/gocharlie_logo_ai_2x-230x49@2x.png)
 
@@ -4143,7 +4143,7 @@ GoCharlie is a multimodal content creation autonomous agent.
 ## [Graphlit](https://www.graphlit.com/)
 API-first data platform for building apps with AI
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_banners/1651090820773335040/1687935300/1500x500)
 
@@ -4167,7 +4167,7 @@ Coding
 ## [Grit](https://www.grit.io/)
 Automating code migrations and dependency upgrades
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://framerusercontent.com/images/kBmTJBFuy8F87jwrhcMkN9SRI.png?scale-down-to=512)
 
@@ -4188,7 +4188,7 @@ Coding
 Automate any workflow
 with AI
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.gumloop.com/images/gumloop_logo.svg)
 
@@ -4218,7 +4218,7 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://yt3.googleusercontent.com/ytc/AIf8zZRVnjibds6hCRgPhxIuFs2UA7E5wIr9a6Iq69-_sw=s900-c-k-c0x00ffffff-no-rj)
 
@@ -4242,7 +4242,7 @@ Productivity
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 AI tools for doing amazing things with data
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://images.ctfassets.net/mmgv7yhaaeds/4UFip8DgC0pJEOXeNppEQS/d97b0b1916c9b298f2480c1c28460015/social-sharing-magic.png)
 
@@ -4264,7 +4264,7 @@ You can see more – and sign up for the waitlist – over here.
 ## [Heymoon.ai](https://heymoon.ai/)
 Keep you on top of your calendar, tasks and info
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://heymoon.ai/assets/images/image04.png?v=a3b31dce)
 
@@ -4283,7 +4283,7 @@ Productivity
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.imean.ai/icon.svg)
 
@@ -4308,7 +4308,7 @@ Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms
 
 ## [Input](https://useinput.com/)
 AI-powered teammate that can collaborate on code
-<details>
+<details> <summary>More</summary>
 
 ![image](https://useinput.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlightLogo.196eccc1.png&w=640&q=75)
 
@@ -4329,7 +4329,7 @@ Coding, Multi-agent, GitHub
 ## [Instrukt](https://github.com/blob42/Instrukt)
 Terminal env for interacting with with AI agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
 
@@ -4350,7 +4350,7 @@ Coding, Build-your-own
 ## [Invicta](https://invictai.io/)
 Build your first team of Autonomous AI Agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://invictai.io/_next/image?url=%2Fimages%2Finvicta-text-black.svg&w=3840&q=75)
 
@@ -4378,7 +4378,7 @@ Build-your-own (agent-builing frameworks and platforms), Multi-agent
 ## [Julius](https://julius.ai/)
 AI data processing, analysis, and visualization
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1704414144798261248/PN4b_sxH_400x400.jpg)
 
@@ -4402,7 +4402,7 @@ Data analysis
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.kadoa.com/images/kadoa.svg)
 
@@ -4429,7 +4429,7 @@ Coding, Data analysis
 ## [Juno](https://heyjuno.co/)
 AI-led user interviews for rich human insights
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://framerusercontent.com/images/PobjUKj7qACciStbW7PAArGYXc.png?scale-down-to=512)
 
@@ -4453,7 +4453,7 @@ Data analysis, Research, Business intelligence, web UI
 ## [Kompas AI](https://kompas.ai/)
 Pick your LLM & build custom conversational agent
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1712005262633271296/2c9Vdj2B_400x400.png)
 
@@ -4482,7 +4482,7 @@ Productivity, Build-your-own, Business intelligence
 ## [Kusho](https://kusho.ai/)
 AI agent for API testing
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://media.licdn.com/dms/image/D560BAQFE0UatBCw0_w/company-logo_200_200/0/1702642519517/kusho_logo?e=1714003200&v=beta&t=mihS31C5JOQPva4d17sJvNj_QOS1TS9slFp4VAH16u8)
 
@@ -4517,7 +4517,7 @@ Coding, Productivity, Debugging
 ## [Kwal](https://www.kwal.ai/)
 Voice Agents for Recruiting
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://static.wixstatic.com/media/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png/v1/fill/w_302,h_166,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/d84692_0e36f4d5a7974924a68d537a0c8184f9~mv2.png)
 
@@ -4539,7 +4539,7 @@ Productivity
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/63e15df811f9df22b231e58f/65473d5a31149f709f0d6c39_Group%201266.svg)
 
@@ -4564,7 +4564,7 @@ Productivity
 
 ## [Lutra AI](https://lutra.ai/)
 Platform for creating AI workflows and apps
-<details>
+<details> <summary>More</summary>
 
 ![image](https://media.licdn.com/dms/image/D4D0BAQE_KlQYa63Cbg/company-logo_200_200/0/1701917707502/lutra_ai_logo?e=1713398400&v=beta&t=-c8RMYvjM4j06XsJVx1DUJAJ336S80bWO4CSD_IHQao)
 
@@ -4591,7 +4591,7 @@ General purpose, Business intelligence, Productivity, Content creation
 
 ## [Magic Loops](https://magicloops.dev/)
 Personal automations made easy
-<details>
+<details> <summary>More</summary>
 
 ![image](https://avatars.githubusercontent.com/u/134019091?s=200&v=4)
 
@@ -4615,7 +4615,7 @@ Coding, Content creation, Productivity, Build-your-own (agent-builing frameworks
 ## [Makedraft](https://makedraft.com/)
 Generate + edit HTML components with text prompts
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1719412088492445696/qoVdGYth_400x400.jpg)
 
@@ -4642,7 +4642,7 @@ Coding, Productivity, Generating apps, Design, Content creation
 ## [Manaflow](https://manaflow.ai/)
 Automate technical business workflows
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://bookface-images.s3.amazonaws.com/logos/5e452772f87fd93353d19538fd8f1c9f3ab9b6eb.png)
 
@@ -4664,7 +4664,7 @@ Productivity, Coding, Workflow automation
 
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
-<details>
+<details> <summary>More</summary>
 
 ![image](https://minion.ai/img/minion-1.png)
 
@@ -4683,7 +4683,7 @@ By creator of GitHub Copilot, in waitlist stage
 
 ## [MultiOn](https://multion.ai/)
 Book a flight or order a burger with MultiOn
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1735699647744864256/jrKJWM78_400x400.jpg)
 
@@ -4714,7 +4714,7 @@ Productivity, General purpose
 ## [Mutable AI](https://mutable.ai/)
 AI-Accelerated Software Development
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://mutable.ai/Reverse-noMargin1000w-p-500.acf1588e.png)
 
@@ -4738,7 +4738,7 @@ Coding
 
 ## [Naut](https://www.naut.ai/)
 Build your own agents. In early stage
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1643093020097609730/XmHqIOhJ_400x400.jpg)
 
@@ -4756,7 +4756,7 @@ Build-your-own, Multi-agent
 
 ## [NexusGPT](https://gpt.nexus/)
 Build AI agents in minutes, without coding
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1784129822320467968/n_9UYcHR_400x400.jpg)
 
@@ -4782,7 +4782,7 @@ Technical challenges of building AI products, Business/marketing challenges of b
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
-<details>
+<details> <summary>More</summary>
 
 
 ![image](https://assets-global.website-files.com/63fcd79d410b22ddf397e1b8/654272554402410a71c84ab9_6405c1cabdf9c69f05b1080e_otherside_logo_symbol.webp)
@@ -4813,7 +4813,7 @@ Productivity, General purpose
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.phind.com/images/phind_v2.svg)
 
@@ -4834,7 +4834,7 @@ Coding, research
 ## [Powerdrill AI](https://powerdrill.ai/)
 AI agent that completes your data job 10x faster
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://media.licdn.com/dms/image/D4E0BAQGwWRCWd6izLg/company-logo_200_200/0/1686636701294?e=1726099200&v=beta&t=oFa1Z8ulQzNuasFcQBdrzZD8L1RJ_vjPhbbl4KXkN7g)
 
@@ -4855,7 +4855,7 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 
 ## [Proficient AI](https://proficientai.com)
 Interaction APIs and SDKs for building AI agents
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.phind.com/images/phind_v2.svg)
 
@@ -4878,7 +4878,7 @@ Build-your-own
 ## [Promptly](https://www.trypromptly.com/)
 Generative AI for Your Enterprise
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/64627565e0cbc380d04ed8ae/6488f9eb9992aa1dc3bc1a63_logo.svg)
 
@@ -4910,7 +4910,7 @@ Build-your-own, no-code, web UI
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
 AI workforce on Slack for under-resourced SMEs
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://q-bot.suchica.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDALLE_2023-01-10_QRobot.86c0521b.png&w=256&q=75)
 
@@ -4940,7 +4940,7 @@ General purpose, Personal assistant, Business intelligence, Productivity
 ## [Questflow](https://questflow.ai)
 Marketplace for autonomous AI workers with no-code
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.aitoolsclub.com/content/images/2023/07/Screenshot-2023-07-26-184451.png)
 
@@ -4963,7 +4963,7 @@ Build-your-own
 
 ## [Rebyte](https://rebyte.ai/)
 A Multi ai agents builder platform
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1700140660702257152/xTLqugBI_400x400.jpg)
 
@@ -4986,7 +4986,7 @@ General purpose, Generating apps, Build-your-own
 ## [Relevance AI](https://relevanceai.com/)
 Build your AI Workforce
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://mintlify.s3-us-west-1.amazonaws.com/relevanceai/images/logo/dark.png)
 
@@ -5014,7 +5014,7 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
-<details>
+<details> <summary>More</summary>
 
 ![image](https://uploads-ssl.webflow.com/600abb9dfd0530004ee876c0/62bd6a08f11f1f89bb1d1170_saga-logo.svg)
 
@@ -5039,7 +5039,7 @@ Productivity, Content creation
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/63717dfd25366f06c3ed64cc/645dcdc2d70f00fded6f6c0b_second-logo-white.png)
 
@@ -5065,7 +5065,7 @@ Coding
 ## [Sentius](https://www.sentius.ai/)
 AI Agent operates browser to do your tasks for you
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://assets-global.website-files.com/65322c702cb29c000a4d7f49/65323973bde43d64e5b01d0f_logo.svg)
 
@@ -5091,7 +5091,7 @@ General purpose, Multi-agent, Supports open-source models
 ## [ShopPal](https://shoppal.ai)
 AI assistant, enhance shopping experience.
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://pbs.twimg.com/profile_images/1777239533094150144/a28xyvug_400x400.jpg)
 
@@ -5110,7 +5110,7 @@ Productivity, Research, Ecommerce
 
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
-<details>
+<details> <summary>More</summary>
 
 ![image](https://spell.so/_next/static/media/logo.32731dee.svg)
 
@@ -5132,7 +5132,7 @@ General purpose
 ## [Superluminal](https://superluminal.dev)
 AI copilot to your product's data dashboard
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://superluminal.dev/176fae26858de1966f98.svg)
 
@@ -5157,7 +5157,7 @@ Coding, Data analysis
 ## [TalktoData](https://talktodata.ai/)
 Data discovery, cleaing, analysis & visualization
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://talktodata.ai/hubfs/logo-transparant-04-1.svg)
 
@@ -5182,7 +5182,7 @@ Coding, Data analysis
 ## [Taskade](https://www.taskade.com/)
 Create, train, and run custom AI agents
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://www.taskade.com/static_images/taskade-circle-logo-full-black.png)
 
@@ -5209,7 +5209,7 @@ Build-your-own, General purpose, Productivity
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://media.licdn.com/dms/image/D4E0BAQGc0T7tqN-IZQ/company-logo_200_200/0/1688338143903?e=2147483647&v=beta&t=bwM2YckiHgvHaMtmYQjB6XGUT5FNtUbvFNHJvepsGu4)
 
@@ -5233,7 +5233,7 @@ Finance, Data analysis
 ## [Test Driver](https://testdriver.ai/)
 AI Agent for QA in GitHub
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://framerusercontent.com/images/in0q3dhCrmymGzApkC4KBzdpcE.png?scale-down-to=512)
 
@@ -5255,7 +5255,7 @@ Coding, Productivity, Debugging, Testing
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://usetusk.ai/tusk-logo.eed7968a.png)
 
@@ -5282,7 +5282,7 @@ Coding
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://media.licdn.com/dms/image/D560BAQEG1EZ0w5b_pw/company-logo_200_200/0/1710090819045/vortic_ai_logo?e=2147483647&v=beta&t=cNHAuR0hBAAO_LAhV9iNj0Ha3s8gkQkl1esp3i1RGD4)
 
@@ -5304,7 +5304,7 @@ Productivity, Build-your-own (agent-builing frameworks and platforms), Sales, Ge
 ## [v0 by Vercel](https://v0.dev/)
 Get React code based on Shadcn UI & Tailwind CSS
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://ph-files.imgix.net/2c7b17e3-7a6d-4872-ab81-471803a924ce.png?auto=format)
 
@@ -5328,7 +5328,7 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 ## [Wispy](https://wispy.technicalmagic.ai/)
 Summarize content, compose content, create quizzes
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://wispy.technicalmagic.ai/assets/icon-white.svg)
 
@@ -5353,7 +5353,7 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 ## [Wordware](https://www.wordware.ai/)
 Build better language model apps, fast.
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://media.licdn.com/dms/image/D4D0BAQFwJFfvXQ7j4A/company-logo_200_200/0/1693909474889/wordware_logo?e=1714003200&v=beta&t=65DGJQN1bRfjKhVmkWwH393y1_1L7ej8qd6yGYtmdpM)
 
@@ -5385,7 +5385,7 @@ Build-your-own, Supports open-source models
 ## [WorkBot](https://workhub.ai/)
 The Only AI Platform you will ever need!
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://workhub.ai/wp-content/uploads/2023/05/workhub-logo-horizontal.png)
 
@@ -5408,7 +5408,7 @@ Science, Productivity, Business intelligence
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
-<details>
+<details> <summary>More</summary>
 
 ![image](https://bot-templates-dbuh9gyx1.vercel.zapier-deployment.com/_next/static/media/logo-color.9fac53e4.svg)
 
@@ -5435,13 +5435,13 @@ Build-your-own, Productivity, General purpose
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
-<details>
+<details> <summary>More</summary>
 
 Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
 </details>
 
 ### :eight_pointed_black_star: [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/)
-<details>
+<details> <summary>More</summary>
 
 You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
 To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai#java-script). 
@@ -5450,7 +5450,7 @@ To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/opena
 
 ### :eight_pointed_black_star: [Langchain Data Analyst](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis)
 
-<details>
+<details> <summary>More</summary>
 
 E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis) allows you to:
 - Run Python code
