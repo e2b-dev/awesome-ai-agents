@@ -3760,6 +3760,27 @@ General purpose, Research
 
 </details>
 
+## [ContextQA](https://contextqa.com/)
+AI Agents for Software Testing
+
+<details>
+
+![image](https://contextqa.com/wp-content/themes/contextQA/assets/images/cqa-logo-with-text.svg)
+
+### Category
+Coding
+
+### Description
+- Agentic AI for Complete Test Coverage
+
+### Links
+- [Web](https://contextqa.com/)
+- [X (Twitter)](https://x.com/ContextQa)
+
+</details>
+
+
+
 ## [Cursor](https://www.cursor.so/)
 AI-powered Code Editor with VSCode-like UI
 
@@ -3849,6 +3870,26 @@ Design, Content creation
 
 ### Links
 - [Web](https://diagram.com/)
+
+</details>
+
+## [Docket AI](https://docketai.net/)
+AI Sales Engineer for somplex B2B sales
+
+<details>
+
+![image](https://cdn.prod.website-files.com/64b81d5300b4d493cead41a3/66a0a76ea06f179159040503_Docket%20Logo%201.svg)
+
+### Category
+Sales
+
+### Description
+- Docket AI is your personal AI Sales Engineer, empowers AEs to win more.
+- It provides instant sales answers, automated RFP responses, and insights from top producers.
+- Powered by the Sales Knowledge Lake™, Docket unifies your company’s sales data with genAI. Transforming sales productivity and win rates.
+
+### Links
+- [Web](https://docketai.net/)
 
 </details>
 
