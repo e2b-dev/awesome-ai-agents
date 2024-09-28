@@ -1355,6 +1355,27 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [FastAgency](https://fastagency.ai/latest/)
+The fastest way to deploy multi-agent workflows
+
+<details>
+
+![Image](https://fastagency.ai/latest/assets/img/logo.svg)
+
+### Category
+Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-agent, Supports open-source models
+
+### Description
+- "FastAgency is an open-source framework designed to accelerate the transition from prototype to production for multi-agent AI workflows.
+- For developers who use the AutoGen framework, FastAgency enables you to seamlessly scale Jupyter notebook prototypes into fully functional, production-ready applications.
+- With multi-framework support, a unified programming interface, and powerful API integration capabilities, FastAgency streamlines the deployment process, saving time and effort while maintaining flexibility and performance.
+
+### Links
+- [Web](https://fastagency.ai/latest/)
+- [GitHub](https://github.com/airtai/fastagency)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
@@ -3316,6 +3337,25 @@ Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and pl
 - [Web](https://avanz.ai/)
 - [Founder's X (Twitter)](https://x.com/gmanmalena_)
 - [LinkedIn](https://www.linkedin.com/company/avanzai/)
+
+</details>
+
+## [Bardeen](https://www.bardeen.ai/)
+AI Agent for automating repetitive tasks
+
+<details>
+
+![image](https://media.licdn.com/dms/image/v2/D560BAQEzSXhSE2SQDg/company-logo_200_200/company-logo_200_200/0/1716353067827/bardeen_logo?e=1735776000&v=beta&t=ME3uHoIaMtWAPGQAyBiVFjA4U799mmBj5pjCTjrj5eM)
+
+### Category
+Productivity, Sales
+
+### Description
+- AI Agent for automating repetitive tasks
+
+### Links
+- [Web](https://www.bardeen.ai/)
+- [X (Twitter)](https://x.com/bardeenai)
 
 </details>
 
