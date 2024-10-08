@@ -2102,7 +2102,7 @@ Designed as a pairing LLM agent for machine learning engineers and researchers
 https://github.com/user-attachments/assets/dac7be90-c662-4d0d-8d3a-2bc4df9cffb9
 
 ### Category
-ML assistant, Code generation, Week reporting
+ML assistant, Code generation, Weekly reporting
 
 ### Description
 - 🤖 Autonomous Baseline Creation: Automatically builds ML/AI baselines.
