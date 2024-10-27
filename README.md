@@ -2329,9 +2329,6 @@ AI Agents for your codebase in minutes.
 
  ![671b548019a3652a2a2721be_Frame 1000011044](https://github.com/user-attachments/assets/bf526909-cf4b-413c-96b9-ba242f4e1cd1)
 
-
-</p>
-
 ### Category
 Developer tools, Coding, Debugging, Testing
 
