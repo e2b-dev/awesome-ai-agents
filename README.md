@@ -2333,7 +2333,7 @@ AI Agents for your codebase in minutes.
 Developer tools, Coding, Debugging, Testing
 
 ### Description
-- Use pre-built Q&A, Testing, Debugging, LLD agents or create your own purpuse-built codebase agent. 
+- Use pre-built Q&A, Testing, Debugging, LLD agents or create your own purpose-built codebase agent. 
 - Potpie parses your code and creates a knowledge graph out of it.
 - It generates inferences about different functions, classes, files in the code and provides agents with access to tools to access this graph and inference.
 
