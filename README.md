@@ -2322,6 +2322,30 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Potpie](https://potpie.ai)
+AI Agents for your codebase in minutes.
+
+<details>
+
+ ![671b548019a3652a2a2721be_Frame 1000011044](https://github.com/user-attachments/assets/bf526909-cf4b-413c-96b9-ba242f4e1cd1)
+
+
+</p>
+
+### Category
+Developer tools, Coding, Debugging, Testing
+
+### Description
+- Use pre-built Q&A, Testing, Debugging, LLD agents or create your own purpuse-built codebase agent. 
+- Potpie parses your code and creates a knowledge graph out of it.
+- It generates inferences about different functions, classes, files in the code and provides agents with access to tools to access this graph and inference.
+
+### Links
+- [Documentation](https://docs.potpie.ai/) 
+- [GitHub](https://github.com/potpie-ai/potpie)
+- [Website](https://potpie.ai)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
