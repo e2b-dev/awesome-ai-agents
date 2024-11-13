@@ -2738,6 +2738,30 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Voice Lab](https://github.com/saharmor/voice-lab)
+Testing and evaluation framework for voice agents
+
+<details>
+
+![image](https://github.com/saharmor/voice-lab/blob/main/usage_demo.gif)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Voice Lab streamlines the process of evaluating and iterating on LLM-powered agents. Whether you're looking to optimize costs by switching to a smaller model, testing newly-released models, or fine-tuning prompts for better performance, Voice Lab provides the tools you need to make data-driven decisions with confidence.
+- Key features:
+	- Metrics and analysis – define custom metrics like brevity or helpfulness in JSON format and have them evaluated using LLM-as-a-Judge. No more manual reviews.
+	- Model migration and cost optimization – confidently switch between models (e.g., from GPT-4 to smaller models) while evaluating performance and cost trade-offs.
+	- Prompt and performance testing – systematically test multiple prompt variations and simulate diverse user interactions to fine-tune agent responses.
+	- Testing different agent personas, from an angry United Airlines representative to a hotel receptionist who tries to jailbreak your agent to book all available rooms.
+
+### Links
+- [GitHub](https://github.com/saharmor/voice-lab)
+- [Post](https://www.linkedin.com/posts/sahar-mor_ive-open-sourced-a-key-component-of-one-activity-7262486932645916672-rwpH)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
