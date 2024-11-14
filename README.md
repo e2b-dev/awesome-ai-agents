@@ -980,6 +980,24 @@ Coding
 
 </details>
 
+## [Codai](https://github.com/meysamhadeli/codai)
+AI code assist in terminal with understanding full context
+
+<details>
+
+### Category
+Coding, GitHub
+
+### Description
+- Codai is an AI code assistant designed to help developers efficiently manage their daily tasks through a session-based CLI, such as adding new features, refactoring, and performing detailed code reviews.
+- What makes codai stand out is its deep understanding of the entire context of your project, enabling it to analyze your code base and suggest improvements or new code based on your context.
+- This AI-powered tool supports multiple LLM models, including GPT-4o, GPT-4, Ollama, and more.
+
+### Links  
+- Author: [Meysam Hadeli](https://github.com/meysamhadeli) (Github)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
