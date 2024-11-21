@@ -5261,7 +5261,7 @@ Coding, Data analysis
 </details>
 
 ## [Taskade](https://www.taskade.com/)
-Create, train, and run custom AI agents
+Build, train, and deploy autonomous AI agents for tasks and workflows.
 
 <details>
 
@@ -5274,16 +5274,18 @@ Build-your-own, General purpose, Productivity
 - AI Agent for custom tasks, automation, and workflows
 - AI Generator for flowcharts, mind mapping, task management 
 - AI Chat Assistant and Media Q&A with projects, docs, and more
-- Custom AI Agents: Craft AI agents with custom commands, tools, and knowledge to automate tasks
-- Engage with projects and documents through a dynamic AI Chat Assistant, providing media Q&A and contextual support.
+- Autonomous AI Agents: Craft AI agents with custom commands, tools, integrations and knowledge to automate tasks
+- Engage with projects and documents through a dynamic AI Chat Assistant, providing media Q&A and contextual support
 
 
 
 ### Links
 - [Web](https://taskade.com/)
+- [Apps](https://taskade.com/downloads)
 - [Twitter](https://twitter.com/taskade)
+- [Youtube](https://www.youtube.com/taskade)
 - [Linkedin](https://www.linkedin.com/company/taskade/)
-- Team Twitter profiles: [John Xie](https://twitter.com/johnxie)
+- Team Twitter profiles: [John Xie](https://twitter.com/johnxie), [Stan Chang](https://twitter.com/lxcid), [Dionis Loire](https://x.com/dionisloire)
 </details>
 
 
