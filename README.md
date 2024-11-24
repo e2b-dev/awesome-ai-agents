@@ -70,6 +70,40 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [SuperAgentX](https://github.com/superagentxai/superagentx)
+SuperAgentX: Lightweight, Simplified Multi-Agent AI Orchestrator Framework with AGI Capabilities.
+
+<details>
+
+![Image](https://github.com/superagentxai/superagentx/blob/master/docs/logo/fulllogo_transparent_nobuffer.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+
+🚀 **Open-Source Framework**: A lightweight, open-source AI framework built for multi-agent applications with Artificial General Intelligence (AGI) capabilities.
+
+🎯 **Goal-Oriented Multi-Agents**: This technology enables the creation of agents with retry mechanisms to achieve set goals. Communication between agents is Parallel, Sequential, or hybrid.
+
+🏖️ **Easy Deployment**: Offers WebSocket, RESTful API, and IO console interfaces for rapid setup of agent-based AI solutions.
+
+♨️ **Streamlined Architecture**: Enterprise-ready scalable and pluggable architecture. No major dependencies; built independently!
+
+📚 **Contextual Memory**: Uses SQL + Vector databases to store and retrieve user-specific context effectively.
+
+🧠 **Flexible LLM Configuration**: Supports simple configuration options of various Gen AI models.
+
+🤝🏻 **Extendable Handlers**: Allows integration with diverse APIs, databases, data warehouses, data lakes, IoT streams, and more, making them accessible for function-calling features.
+
+### Links
+- [Documentation](https://docs.superagentx.ai/introduction) 
+- [Discord](https://discord.gg/hX5pAzKGXD)
+- [GitHub](https://github.com/superagentxai/superagentx)
+- [Examples](https://github.com/superagentxai/superagentX-examples)
+- [Tutorial Series](https://medium.com/@RaghavPrabhu/master-agentic-ai-a-beginners-step-by-step-guide-with-superagentx-tutorial-series-part-1-ba8907c7c2c6)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
