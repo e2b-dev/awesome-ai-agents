@@ -46,7 +46,7 @@ Welcome to our list of AI agents.
 We structured the list into two parts:
 - [Open source projects](#open-source-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
-  
+
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
@@ -90,7 +90,7 @@ General purpose, Build your own, Multi-agent
 - **Easily customizable**: Develop agents swiftly for unique challenges, no steep learning curve.
 
 ### Links
-- [Documentation](https://humansignal.github.io/Adala/) 
+- [Documentation](https://humansignal.github.io/Adala/)
 - [Discord](https://discord.gg/QBtgTbXTgU)
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
@@ -107,7 +107,7 @@ General purpose, Build your own, Multi-agent
 ### Description
 - Agent4Rec is a recommender system simulator that utilizes 1,000 LLM-empowered generative agents.
 - These agents are initialized from the [MovieLens-1M](https://grouplens.org/datasets/movielens/1m/) dataset, embodying varied social traits and preferences.
-- Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes various actions such as watching, rating, evaluating, exiting, and interviewing. 
+- Each agent interacts with personalized movie recommendations in a page-by-page manner and undertakes various actions such as watching, rating, evaluating, exiting, and interviewing.
 
 ### Links
 - [Paper](https://arxiv.org/abs/2310.10108)
@@ -203,8 +203,8 @@ General purpose
 ### Links
 - [GitHub](https://github.com/jbexta/AgentPilot)
 - [X ](https://twitter.com/AgentPilotAI)
-- 
-  
+-
+
 </details>
 
 ## [Agents](https://github.com/aiwaves-cn/agents)
@@ -294,7 +294,7 @@ Coding, GitHub
 - You can start a new project or work with an existing repo. And you can fluidly switch back and forth between the aider chat where you ask GPT to edit the code and your own editor to make changes yourself
 - Aider makes sure edits from you and GPT are committed to git with sensible commit messages. Aider is unique in that it works well with pre-existing, larger codebases
 
-### Links  
+### Links
 - [Website](https://aider.chat/)
 - Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
 - [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
@@ -315,7 +315,7 @@ General purpose, Personal assistant, Productivity
 - There is an interaction mechanism between agents to ensure fault tolerance.
 - External interaction modules can be automatically built for self-expansion.
 
-### Links  
+### Links
 - [GitHub](https://github.com/myshell-ai/AIlice)
 
 </details>
@@ -725,7 +725,7 @@ General purpose, Productivity
 ### Description
 - "BeeBot is currently a work in progress and should be treated as an early stage research project. Its focus is not on production usage at this time."
 
-	
+
 ### Links
 - [GitHub](https://github.com/AutoPackAI/beebot)
 - [Tweet](https://twitter.com/Douglas_Schon/status/1681094815021187072?s=20)
@@ -746,7 +746,7 @@ Coding, Debugging
 - Blinky is an open-source AI debugging agent for VSCode that uses LLMs to help identify and fix backend code errors (inspired by SWE-agent).
 - Blinky leverages the VSCode API, Language Server Protocol (LSP), and print statement debugging to triangulate and address bugs in real-world backend systems.
 
-	
+
 ### Links
 - [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=blinky.blinky)
 - [Discord](https://discord.gg/d3AUNHDb)
@@ -900,7 +900,7 @@ Design, Build-your-own, SDK for AI apps, Multi-agent
 ### Description
 - ChatArena (or Chat Arena) is a Multi-Agent Language Game Environments for LLMs. The goal is to develop communication and collaboration capabilities of AIs.
 ChatArena provides:
-- A general framework for building interactive environments for multiple large language models (LLMs). 
+- A general framework for building interactive environments for multiple large language models (LLMs).
 - A collection of pre-built or community-created  environments.
 - User-friendly interfaces with both Web UI and commandline interfaces.
 
@@ -909,7 +909,7 @@ ChatArena provides:
 - [GitHub](https://github.com/Farama-Foundation/chatarena)
 - [X](https://twitter.com/_chatarena)
 - [Slack channel](https://chatarena.slack.com/join/shared_invite/zt-1t5fpbiep-CbKucEHdJ5YeDLEpKWxDOg#/shared-invite/email)
-  
+
 </details>
 
 ## [ChatDev](https://github.com/OpenBMB/ChatDev)
@@ -976,7 +976,7 @@ Coding
 
 ### Links
 - [GitHub](https://github.com/ennucore/clippy/)
-- Author: [Lev Chizhov](http://lev.la/) 
+- Author: [Lev Chizhov](http://lev.la/)
 
 </details>
 
@@ -1095,24 +1095,24 @@ AI-driven research from data to human-verifiable research papers
 <br>
 <img src="https://github.com/Technion-Kishony-lab/data-to-paper/assets/65530510/e33bcb52-5f4e-4fd0-8be9-ebd64607c449" width="400" align="center">
 <br>
-	
+
 ### Category
 Science, Research, Multi-agent
 
 ### Description
-[*data-to-paper*](https://arxiv.org/abs/2404.17605) is a framework for systematically navigating the power of AI to perform complete end-to-end 
-scientific research, starting from raw data and concluding with comprehensive, transparent, and human-verifiable 
+[*data-to-paper*](https://arxiv.org/abs/2404.17605) is a framework for systematically navigating the power of AI to perform complete end-to-end
+scientific research, starting from raw data and concluding with comprehensive, transparent, and human-verifiable
 scientific papers.
 
-Towards this goal, *data-to-paper* systematically guides interacting 
-LLM and rule-based agents through the conventional scientific path, from annotated data, through creating 
-research hypotheses, conducting literature search, writing and debugging data analysis code, 
+Towards this goal, *data-to-paper* systematically guides interacting
+LLM and rule-based agents through the conventional scientific path, from annotated data, through creating
+research hypotheses, conducting literature search, writing and debugging data analysis code,
 interpreting the results, and ultimately the step-by-step writing of a complete research paper.
 
-The *data-to-paper* framework is created as a research project to understand the 
-capacities and limitations of LLM-driven scientific research, and to develop ways of harnessing LLM to accelerate 
-research while maintaining, and even enhancing, key scientific values, such as transparency, traceability and verifiability, 
-and while allowing scientist to oversee and direct the process 
+The *data-to-paper* framework is created as a research project to understand the
+capacities and limitations of LLM-driven scientific research, and to develop ways of harnessing LLM to accelerate
+research while maintaining, and even enhancing, key scientific values, such as transparency, traceability and verifiability,
+and while allowing scientist to oversee and direct the process
 [see also: [living guidelines](https://www.nature.com/articles/d41586-023-03266-1)].
 
 
@@ -1493,7 +1493,7 @@ Content creation, Productivity, General purpose, Discord
 - [Kaveen Kumarasinghe - founder of GPT Discord - website](https://kaveenk.com/)
 - [Kaveen Kumarasinghe - founder of GPT Discord - LinkedIn](https://www.linkedin.com/in/kaveenk/)
 
-  
+
 </details>
 
 ## [GPT Engineer](https://gptengineer.app/)
@@ -1735,12 +1735,12 @@ This Multi-Agent paradigm is inspired by the
 into simplifying the developer experience; it does not use `Langchain`.
 
 - Works with most commercial/remote and open/local LLMs.
-- Set up Multi-agent, multi-LLM system: use stronger LLMs for agents requiring strong reasoning and instruction-following, and delegate simpler tasks to weaker/local LLMs. 
-- Supports OpenAI function-calling as well as native equivalent called `ToolMessage`, which works with LLMs that 
+- Set up Multi-agent, multi-LLM system: use stronger LLMs for agents requiring strong reasoning and instruction-following, and delegate simpler tasks to weaker/local LLMs.
+- Supports OpenAI function-calling as well as native equivalent called `ToolMessage`, which works with LLMs that
   do not have built-in function-calling. Simply specify structure as a (nested) Pydantic object.
 - Batteries-included: vector-databases for RAG (Retrieval-Augmented Generation), caching, logging/observability.
 - Specialized agents available: `DocChatAgent`, `SQLChatAgent`, `TableChatAgent` (for tabular data, e.g. csv/dataframes).
-- `DocChatAgent` handles text, PDF, Docx files/URLS, and has state-of-the art techniques 
+- `DocChatAgent` handles text, PDF, Docx files/URLS, and has state-of-the art techniques
    for retrieval combining lexical and semantic search.
 - Documentation: https://langroid.github.io/langroid/
 </details>
@@ -1906,7 +1906,7 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 - The paper, peer-reviewed and recently accepted and published at ICLR 2024, introduces L2MAC.
 
 
-### Links  
+### Links
 - [GitHub](https://github.com/samholt/l2mac)
 - [Discord](https://discord.gg/z27CxnwdhY)
 - [Twitter](https://twitter.com/samianholt)
@@ -1924,12 +1924,12 @@ Natural-language workflows for your GitHub repo.
 
 ### Category
 Coding, Productivity, Debugging, Multi-agent
-	
+
 ### Description
 - Maige is a codebase agent that runs when new issues and pull requests come up. Its core features are labelling, assigning, and answering questions.
 - Maige can search the entire codebase, spin up a sandbox to run scripts, and even write basic code.
 
-### Links  
+### Links
 - [Web](https://maige.app)
 - [GitHub](https://github.com/RubricLab/maige)
 - [Video - testing Maige](https://www.youtube.com/watch?v=YN-y-iweZTc&ab_channel=TerezaTizkova)
@@ -1948,14 +1948,14 @@ AIDE for creating, deploying, monetizing agents
 ### Category
 Coding, SDK for agents, Build-your-own
 
-	
+
 ### Description
 Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining.
-- A full suite, model agnostic AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining. 
+- A full suite, model agnostic AIDE for creating, deploying, scaling, and monetizing useful AI agents, and prompt chaining.
 - Magick allows to build things like BabyAGI within an hour.  You can watch the graph executing in real time, watch the thought process as it executes, and understand the flow.
 - "Visual development of autonomous agents is incoming.  We have built Magick specifically for the rapid development of cognitive architecture and scalable event-driven autonomous agents."
 
-### Links  
+### Links
 - [Web](https://www.magickml.com/)
 - [GitHub](https://github.com/Oneirocom/Magick)
 - [X](https://twitter.com/magickml)
@@ -1987,7 +1987,7 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 - Full Code Open Source
 - One-Click Deployment On Production
 
-### Links  
+### Links
 - [Documentation](https://www.memfree.me/docs)
 - [Discord](https://discord.com/invite/7QqyMSTaRq)
 - [Twitter](https://twitter.com/ahaapple2023)
@@ -2005,13 +2005,13 @@ Memory management system, providing context to LLM
 
 ### Category
 Memory management, Data analysis
-	
+
 ### Description
-- A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window. 
+- A system that intelligently manages different memory tiers in LLMs to effectively provide the extended context within the LLM's limited context window.
 - Chat with your data - talk to your local files or SQL database
 - Create perpetual chatbots with self-editing memory
 
-### Links  
+### Links
 - [Paper](https://arxiv.org/abs/2310.08560)
 - [Documentation](https://memgpt.readthedocs.io/)
 - [Discord](https://discord.gg/9GEQrxmVyE)
@@ -2033,7 +2033,7 @@ Coding
 Mentat is the AI tool that assists you with any coding task, right from your command line.
 Unlike Copilot, Mentat coordinates edits across multiple locations and files. And unlike ChatGPT, Mentat already has the context of your project - no copy and pasting required!
 
-### Links  
+### Links
 - [Website](https://www.mentat.codes/)
 - [Youtube](https://www.youtube.com/watch?v=lODjaWclwpY)
 - Author: [Bio Bootloader](https://twitter.com/bio_bootloader) (Twitter)
@@ -2062,7 +2062,7 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 - MetaGPT incorporates efficient human workflows as a meta programming approach into LLM-based multi-agent collaboration
 
 
-### Links  
+### Links
 - [GitHub](https://github.com/geekan/MetaGPT)
 - [Discord](https://discord.com/invite/4WdszVjv)
 - [Twitter](https://twitter.com/DeepWisdom2019)
@@ -2166,9 +2166,35 @@ Developer tools, Software security, Multi-agent, General purpose
 	- You can use Mutahunter with your own LLM APIs for privacy.
 
 ### Links
-- [Documentation](https://github.com/codeintegrity-ai/mutahunter?tab=readme-ov-file#mutahunter) 
+- [Documentation](https://github.com/codeintegrity-ai/mutahunter?tab=readme-ov-file#mutahunter)
 - [Discord](https://discord.gg/9P5V9qmKJn)
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
+</details>
+
+## [Nerve](https://github.com/evilsocket/nerve)
+Create stateful agents with any LLM without code
+
+<details>
+
+![image](https://github.com/evilsocket/nerve/raw/main/assets/logo.svg)
+
+### Category
+Instrument any LLM to do actual stuff.
+
+### Description
+Nerve is a lightweight framework that allows you to create stateful agents with any LLM without writing code.
+- Create agents by defining their personality, goals, and tools in YAML
+- Support for multiple LLM providers (OpenAI, Anthropic, etc)
+- Built-in support for memory and state management
+- Extensible tool system
+- Web interface for interacting with agents
+- Support for multiple concurrent conversations
+- Built-in debugging tools
+
+### Links
+- [GitHub](https://github.com/evilsocket/nerve)
+- Author: [Simone Margaritelli](https://twitter.com/evilsocket)
+
 </details>
 
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
@@ -2405,6 +2431,52 @@ Coding
 - [GitHub](https://github.com/eylonmiz/react-agent)
 - [Documentation](https://docs.reactagent.io/)
 - Authors: [Eylon Miz and](https://twitter.com/EylonMiz) and [Lee Twito](https://twitter.com/LeeTwito)
+
+</details>
+
+## [Rigging](https://github.com/dreadnode/rigging)
+Lightweight LLM Interaction Framework from dreadnode
+<details>
+
+![image](https://github.com/dreadnode/rigging/raw/main/docs/assets/rigging.png)
+
+### Category
+Build-your-own, SDK for AI apps, Supports open-source models
+
+## Description
+- Lightweight LLM framework built on Pydantic XML
+- Structured Pydantic models can be used interchangeably with unstructured text output
+- Simple tool calling abilities for models which don't natively support it
+- Chat templating, forking, continuations, and generation parameter overloads
+- Async batching and fast iterations for large scale generation
+
+## Links
+- [GitHub](https://github.com/dreadnode/rigging)
+- [Documentation](https://rigging.dreadnode.io/)
+- Authors: [dreadnode](https://dreadnode.io))
+
+</details>
+
+## [Robopages](https://github.com/dreadnode/robopages)
+YAML-based format for describing tools to LLMs
+
+<details>
+
+![image](https://images.squarespace-cdn.com/content/v1/6616bc641fb1677e6cf1a475/6f0aaa72-7479-4f45-87fe-0d2f2f8d60c4/octopus_wide_wide_transparent.png?format=1500w)
+
+### Category
+Build-your-own, SDK for AI apps, Tools/Utilities
+
+### Description
+Robopages is a YAML-based format for describing tools to LLMs, similar to man pages but for AI.
+- Define tool interfaces in YAML format
+- Standardized format for tool documentation
+- Helps LLMs understand and use tools more effectively
+- Supports multiple tool types and parameters
+- Easy integration with existing LLM frameworks
+
+### Links
+- [GitHub](https://github.com/dreadnode/robopages)
 
 </details>
 
@@ -2905,7 +2977,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
   - 📘 Python Notebook
   - 🌏 Web Browser
   - 🖥️ Shell
-  - 🧩 Rapid API 
+  - 🧩 Rapid API
 
 ### Links
 - [Twitter](https://twitter.com/XAgentTeam)
@@ -3121,7 +3193,7 @@ Build-your-own
 
 - A browser based studio for managing prompts, building tools, and testing your agents.
 - Built in short-term and long-term memory management
-- 1 click deployment. Embed anywhere with our Web SDK. 
+- 1 click deployment. Embed anywhere with our Web SDK.
 
 ### Links
 - [Profile of the company](https://www.airkit.ai)
@@ -3227,7 +3299,7 @@ Multi-agent, Build-your-own
 - [Founder's X](https://twitter.com/jasparcjack)
 - [Founder's LinkedIn](https://www.linkedin.com/in/rupertdodkins/)
 - [Article](https://tech.eu/2023/11/17/ai-startup-artisan-raises-23m-to-develop-human-like-digital-workers/)
-  
+
 </details>
 
 ## [Ask Pandi](https://askpandi.com/ask)
@@ -3268,7 +3340,7 @@ Sales, Build-your-own, Business intelligence, Marketing
 ### Description
 - A web platform to deploy & manage autonomous AI sales agents that close small deals.
 - Autonomous agents will contact your leads, qualify, prepare offers, handle objections, negotiate, and close the deal with superhuman-like performance
-- AskToSell autonomously moves your leads through the pipeline. AI Sales Agents will learn about your product, contact your leads, qualify, prepare proposals, handle objections, negotiate, and close the deals. 
+- AskToSell autonomously moves your leads through the pipeline. AI Sales Agents will learn about your product, contact your leads, qualify, prepare proposals, handle objections, negotiate, and close the deals.
 
 ### Links
 - [Web](https://asktosell.com/)
@@ -3556,7 +3628,7 @@ Data analysis, Content creation, Productivity, Research, Marketig, Sales, Busine
 - 👉 Chat with Private AI Knowledge Base - Increase daily work efficiency, by having an AI assistant, who knows everything about your business & competitors, your work or studies...
 - 👉 Save time & money on customer support. Drive more sales, by letting AI interact with potential customers 24/7, via Website Chat Widget. Train AI with your Website data & other documentation!
 - 👉 100+ Unique AI Tools, for all your Business, Work & Study needs. Like, AI Writing Assistant & WordPress Auto Poster.
-- 🔜 Understand your customers better with AI-powered Feedback, Voting & Survey Widgets! 
+- 🔜 Understand your customers better with AI-powered Feedback, Voting & Survey Widgets!
 
 ✔️ Supported file formats: pdf, doc, docx, ppt, pptx, xls, xlsx, csv, json, epub, mp3, jpg, jpeg, png
 ✔️ WordPress Plugin
@@ -3640,7 +3712,7 @@ Coding, Multi-agent, GitHub
 - [X](https://twitter.com/code_autopilot)
 - [Gustavo Silva - co-founder of Code Autopilot](https://twitter.com/Gsandec)
 - [Fábio Zé Domingues - co-founder of Code Autopilot](https://twitter.com/fjrdomingues)
-  
+
 </details>
 
 
@@ -3685,7 +3757,7 @@ Faster WordPress Development with domain-specific AI modes, tools, and features.
 - [X](https://twitter.com/codewp_ai)
 - [LinkedIn](https://www.linkedin.com/company/wpai-inc/)
 - [James LePage - founder of CodeWP](https://twitter.com/codewp_ai)
-  
+
 </details>
 
 ## [Codium AI](https://www.codium.ai/)
@@ -3822,7 +3894,7 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
 - [X ](https://twitter.com/CykelAI)
 - [LinkedIn](https://www.linkedin.com/company/cykelai)
 - [Founder's X](https://twitter.com/EwanCollinge)
-  
+
 </details>
 
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
@@ -3846,7 +3918,7 @@ Devin is in early phase now, but according to demo, it has the following capabil
 ### Links
 - [Blog post](https://www.cognition-labs.com/introducing-devin)
 - [X (Twitter)](https://twitter.com/cognition_labs)
-  
+
 </details>
 
 
@@ -4200,7 +4272,7 @@ Coding
 </details>
 
 ## [GoCharlie](https://gocharlie.ai/)
-Multimodal content creation autonomous agent 
+Multimodal content creation autonomous agent
 <details>
 
 ![image](https://gocharlie.ai/wp-content/uploads/2023/08/gocharlie_logo_ai_2x-230x49@2x.png)
@@ -4307,7 +4379,7 @@ For course creators, community builders & coaches
 Productivity
 
 ### Description
-- Heights AI Chat can make edits to your digital products, answer support questions, and provide advice on growing your business. 
+- Heights AI Chat can make edits to your digital products, answer support questions, and provide advice on growing your business.
 - Heights AI Coach is your personal autonomous coach, helping you accomplish your unique goals
     - Your AI coach will ask you questions and analyze the products you create to provide you with new tasks and recommendations every week.
     - Information you share with your AI Coach will never be shared with another creator's AI Coach.
@@ -4571,7 +4643,7 @@ AI agent for API testing
 Coding, Productivity, Debugging
 
 ### Description
-- KushoAI instantly generates and runs test suites for your APIs so you can push code effortlessly. 
+- KushoAI instantly generates and runs test suites for your APIs so you can push code effortlessly.
 - Save hours of manual effort by delegating API testing to KushoAI. Unlock crash-free releases starting today.
 
 1. Add a link to your Postman collection to instantly generate exhaustive test suites for each API and save hours of manual effort.
@@ -4592,7 +4664,7 @@ Coding, Productivity, Debugging
 - [YouTube](https://www.youtube.com/@KushoAI)
 - [Sourabh Gawande - cofounder at Kusho](https://www.linkedin.com/in/sourabhgawande/)
 - [Abhishek Saikia - cofounder at Kusho](https://www.linkedin.com/in/abhishek1315/)
-  
+
 </details>
 
 ## [Kwal](https://www.kwal.ai/)
@@ -4606,14 +4678,14 @@ Voice Agents for Recruiting
 Productivity
 
 ### Description
-- 
+-
 
 ### Links
 
 - [Web](https://www.kwal.ai/)
 - [X (Twitter)](https://x.com/Kwal_AI)
 - [LinkedIn](https://www.linkedin.com/company/kwal/about/)
-  
+
 </details>
 
 
@@ -4640,7 +4712,7 @@ Productivity
 
 ### Links
 - Author: [Flo Crivello](https://twitter.com/Altimor)
-- 
+-
 </details>
 
 ## [Lutra AI](https://lutra.ai/)
@@ -5186,7 +5258,7 @@ Productivity, Research, Ecommerce
 
 ### Links
 - [Web](https://shoppal.ai)
-  
+
 </details>
 
 ## [Spell](https://spell.so/)
@@ -5272,7 +5344,7 @@ Build-your-own, General purpose, Productivity
 
 ### Description
 - AI Agent for custom tasks, automation, and workflows
-- AI Generator for flowcharts, mind mapping, task management 
+- AI Generator for flowcharts, mind mapping, task management
 - AI Chat Assistant and Media Q&A with projects, docs, and more
 - Custom AI Agents: Craft AI agents with custom commands, tools, and knowledge to automate tasks
 - Engage with projects and documents through a dynamic AI Chat Assistant, providing media Q&A and contextual support.
@@ -5330,7 +5402,7 @@ Coding, Productivity, Debugging, Testing
 - [Web](https://testdriver.ai/)
 - [X (Twitter)](https://twitter.com/sunglassesface)
 - [LinkedIn](https://www.linkedin.com/in/adam-eldefrawy-8623a815a/)
-    
+
 </details>
 
 ## [Tusk](https://usetusk.ai/)
@@ -5357,7 +5429,7 @@ Coding
 - [LinkedIn](https://www.linkedin.com/company/usetusk/about/)
 - [Founder's X](https://twitter.com/sohilkshirsagar)
 - [Founder's X 2](https://twitter.com/Marcel7an)
-  
+
 </details>
 
 ## [Vortic](https://www.vortic.ai/)
@@ -5460,7 +5532,7 @@ Build-your-own, Supports open-source models
 - [X](https://twitter.com/wordware_ai)
 - [LinkedIn](https://www.linkedin.com/company/wordware/)
 - [Filip Kozera - founder at Wordware](https://www.linkedin.com/in/filipkozera/)
-  
+
 </details>
 
 ## [WorkBot](https://workhub.ai/)
@@ -5508,7 +5580,7 @@ Build-your-own, Productivity, General purpose
 ### Links
 
 - [Web](https://zapier.com/central)
-  
+
 </details>
 
 
@@ -5525,7 +5597,7 @@ Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/17
 <details>
 
 You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
-To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai#java-script). 
+To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai#java-script).
 
 </details>
 
@@ -5549,7 +5621,7 @@ Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://disc
 
 We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
 
-<!-- 
+<!--
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 -->
 
@@ -5558,7 +5630,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
-<!-- 
+<!--
 <a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 	<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 </a>
