@@ -1333,6 +1333,28 @@ Coding
 
 </details>
 
+## [Entelligence.ai](https://entelligence.ai)
+Building artificial engineering intelligence
+
+<details>
+
+![Image](https://github.com/Entelligence-AI/entelligence_logo/blob/main/ent_logo_new_black.png)
+
+### Category
+Coding, Dev Tools
+
+### Description
+- Entelligence indexes entire codebases and provides entire codebase awareness for onboarding, code search, pr reviews and ai documentation 
+- AI-powered engineering assistant that deeply understands your entire codebase and tech stack context
+- Automates critical dev workflows including intelligent code reviews, PR analysis, and technical documentation generation
+- Seamlessly integrates across your engineering tools (GitHub, JIRA, Slack, VSCode) to boost team productivity and code quality
+- Provides contextual insights and solutions by connecting information across your entire development lifecycle
+
+### Links
+- [Creator's Twitter](https://x.com/EntelligenceAI)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
