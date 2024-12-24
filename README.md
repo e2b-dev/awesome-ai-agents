@@ -5511,6 +5511,31 @@ Build-your-own, Productivity, General purpose
   
 </details>
 
+## [Zencoder](https://zencoder.ai/)
+Zencoder helps developers ship products faster with Deep Codebase Understanding and AI Agents.
+
+<details>
+
+![image](https://zencoder.ai/hubfs/raw_assets/public/ForGood-AI-CTA9-Theme/images/header-logo.svg)
+
+### Category
+Coding
+
+### Description
+Zencoder AI is a code assistant that excels at understanding entire codebases, enabling accurate and context-aware code
+insights. It provides fast and efficient AI-driven code completion, helping developers write, modify, improve, review,
+and explain code. Additionally, it supports creating custom agents to automate repetitive tasks, making it a practical
+tool for streamlining development workflows.
+
+### Links
+- [Website](https://zencoder.ai/)
+- [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=ZencoderAI.zencoder)
+- [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/24782-zencoder-your-mindful-ai-coding-agent)
+- [Slack](https://join.slack.com/t/zencoder-community/shared_invite/zt-2k6o9dts3-JKuYxzJs0J~CFvVa6hIAqA)
+- [Discord](https://discord.gg/YjNYBHg8Vb)
+
+</details>
+
 
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
