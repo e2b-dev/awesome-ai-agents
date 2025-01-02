@@ -120,7 +120,26 @@ AI tools that generate code and build whole apps for you, based just on your pro
 </details>
 
 
-## [App by Groq]()
+## [App Generation by Groq]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Gemini Coder]()
 
 
 <details>
