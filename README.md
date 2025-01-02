@@ -33,21 +33,27 @@ Add to readme list:
 		</a>
 	</p>
 </h1>
+<!--
 <h3 align="center">
   Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App
 </h3>
+
+-->
 
 <h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
+
 Welcome to our list of AI agents.
+<!---
 We structured the list into two parts:
 - [Open source projects](#open-source-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
+--->
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
@@ -61,14 +67,678 @@ For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome 
 ## Who's behind this?
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 --->
-
+<!---
 ## Check out E2B - Code Interpreting for AI apps
 - Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk)
 - Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
 - Read our [docs](https://e2b.dev/docs?ref=awesome-sdks)
 - Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b_dev)
+--->
 
-# Open-source projects
+
+# App generation
+
+## [Artifacts by Anthropic]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+
+
+## [Fragments by E2B]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+
+## [App by Groq]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Lovable]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Reflex]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+
+## [Srcbook]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+
+## [v0 by Vercel](https://v0.dev/)
+Get React code based on Shadcn UI & Tailwind CSS
+
+<details>
+
+![image](https://ph-files.imgix.net/2c7b17e3-7a6d-4872-ab81-471803a924ce.png?auto=format)
+
+### Category
+Coding
+
+### Description
+v0 is a generative user interface system by Vercel Labs powered by AI. It generates copy-and-paste friendly React code based on Shadcn UI and Tailwind CSS.
+- Currently in waitlist stage
+- v0 generates custom components on the fly that you can copy and paste into your existing codebase
+- Built on NextJS App Router
+- AI by the Vercel `ai` SDK
+
+
+### Links
+- [Web](https://v0.dev/)
+- [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
+
+</details>
+
+
+
+
+## [WebDev Arena]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+
+### Links
+- [Web]()
+
+</details>
+
+
+# Computer use
+
+## [Action](https://action.new/)
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+- Action is a macOS launcher that can take actions (click, type, and more) on your Mac using Claude’s computer use API.
+- The interface is a floating window triggered by a keyboard shortcut, similar to Spotlight. This lets you see what the model outputs as it performs actions.
+- Since Action operates at the operating system level, it has access to your authenticated apps. This means that you don't have to pass your credentials through a third party in order to automate apps like Doordash, Amazon, and Uber.
+- You can also use Action as an LLM that has immediate context of your screen. Unlike the ChatGPT Mac app, taking a screenshot with Action doesn't require extra steps -- it's automatically included when you send a message.
+- Action is written purely in Swift, and the DMG size is quite small at roughly 3 MB. You can download the macOS client today at https://action.new (requires Anthropic API key).
+
+
+### Links
+- [Web](https://action.new/)
+
+</details>
+
+## [Computer use by Anthropic]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+
+## [Desktop Sandbox by E2B]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Open Interpreter](https://openinterpreter.com/)
+Code interpreter that lets LLMs execute code
+
+<details>
+
+ ![image](https://openinterpreter.com/assets/ncu_thumbnail.jpg)
+
+### Category
+Coding
+
+### Description
+Open Interpreter is an open-source interpreter that lets LLMs run code on your computer to complete tasks
+- Runs locally
+- Can for example summarize PDFs, visualize datasets, control your browser
+- Works from a ChatGPT-like interface in your terminal.
+
+### Links
+- [Web](https://openinterpreter.com/)
+- [GitHub](https://github.com/KillianLucas/open-interpreter)
+- [Author's Twitter](https://twitter.com/hellokillian)
+
+</details>
+
+# Workflow automations
+
+## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
+AI agent designed for business intelligence
+
+<details>
+
+![image](https://www.aomni.com/icons/aomni-logo-black.svg)
+
+### Category
+Business intelligence
+
+### Description
+- Breaks down a high level research question into a step-by-step plan, and executes it
+- Diverse tools, including a full web browser
+- Can access internet information without the need for an API
+- "We don't generate content using AI, as it can be unreliable. Instead, we extract relevant information from trusted sources, cluster and process it into a user-friendly format."
+- AI-powered query planner intelligently routes and executes requests, ensuring correctness and diverse source selection
+
+### Links
+- [Discord](https://discord.com/invite/a367ncqEsm/?utm_source=awesome-ai-agents)
+- [Interview: David Zhang from Aomni gives his view agents' reliability, debugging and orchestration](https://e2b.dev/blog/david-zhang-from-aomni-gives-his-view-on-ai-agents)
+
+</details>
+
+## [Cognosys]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [CopilotKit]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Gumloop](https://www.gumloop.com/)
+Automate any workflow
+with AI
+
+<details>
+
+![image](https://www.gumloop.com/images/gumloop_logo.svg)
+
+### Category
+Productivity, data analysis, general purpose, marketing, legal, sales, HR, finance, education
+
+
+### Description
+- (Previously called AgentHub)
+- A platform to build and host LLM powered automations
+- Fuel your workspace with our growing library of nodes.
+- Pass data from A to Z with drag-and-click connections. No code required.
+- Run your workflow. Test in our sandbox. See results. When you're ready, share it with anyone (or no one). You control that.
+
+### Links
+- [Web](https://www.gumloop.com/)
+- [X (Twitter)](https://x.com/gumloop_ai)
+- [LinkedIn](https://www.linkedin.com/company/gumloop/)
+- [Discord](https://discord.com/invite/xtbrafmzC7)
+- [Documentation](https://docs.gumloop.com/getting-started/introduction)
+- [YouTube](https://www.youtube.com/@AgentHub_Ai)
+- [Medium blog](https://medium.com/@max_82395)
+- [Templates](https://www.gumloop.com/templates)
+
+</details>
+
+## [Lindy](https://www.lindy.ai/)
+AI assistant that can help with daily tasks
+
+<details>
+
+![image](https://assets-global.website-files.com/63e15df811f9df22b231e58f/65473d5a31149f709f0d6c39_Group%201266.svg)
+
+### Category
+Productivity
+
+### Description
+- Lindy is still in a beta version
+- Features
+	- Lindy triages your email
+	- She learns from your inbox and automatically surfaces the highest-priority emails for you
+	- Automatic conflict handling
+	- Daily briefing
+	- Contract management
+	- Meeting note taking
+	- Summarization
+
+### Links
+- Author: [Flo Crivello](https://twitter.com/Altimor)
+- 
+</details>
+
+## [Magic Loops](https://magicloops.dev/)
+Personal automations made easy
+<details>
+
+![image](https://avatars.githubusercontent.com/u/134019091?s=200&v=4)
+
+### Category
+Coding, Content creation, Productivity, Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Art, Marketig, Sales, Finance, General purpose, Personal computing
+
+### Description
+- Magic Loops are the fastest way to automate (almost) anything. By combining generative AI with code, we make it easy for anyone (yes, even non-programmers!) to setup repeatable tasks and automated workflows.
+
+
+### Links
+- [Web](https://magicloops.dev/)
+- [GitHub](https://github.com/magicloops)
+- [LinkedIn](https://www.linkedin.com/company/magicloops/)
+- [X (Twitter)](https://twitter.com/magicloopsdev)
+- [Founder's LinkedIn](https://www.linkedin.com/in/adam-williams-0995a949/)
+- [Founder's X (Twitter)](https://twitter.com/jumploops)
+
+</details>
+
+## [CopilotKit]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+</details>
+
+## [Promptloop]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Zapier Central](https://zapier.com/central)
+Work hand in hand with AI bots
+
+<details>
+
+![image](https://bot-templates-dbuh9gyx1.vercel.zapier-deployment.com/_next/static/media/logo-color.9fac53e4.svg)
+
+### Category
+Build-your-own, Productivity, General purpose
+
+### Description
+- Zapier Central is an experimental AI workspace where you can teach bots to work across 6,000+ apps.
+- Features:
+  - Give your bot access to your company's source of truth to get instant answers.
+  - Ask bots to act in 6,000+ apps
+  - Central runs on Zapier's ecosystem to help you automate the tools you already use.
+  - Teach your bot once, then watch it work—even when you're not around.
+  - Everything in one workspace
+
+### Links
+
+- [Web](https://zapier.com/central)
+  
+</details>
+
+
+# Autonomous SW engineers
+
+## [Devin by Cognition Labs]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Tusk](https://usetusk.ai/)
+AI engineer that pushes and tests code
+
+<details>
+
+![image](https://usetusk.ai/tusk-logo.eed7968a.png)
+
+### Category
+Coding
+
+### Description
+- Tusk is an AI engineer that helps product managers ship simple front-end changes fast, letting their software engineers focus on more important work
+- Assign a product ticket to Tusk, and let our AI write, push, and test the code for you
+- Use-cases: Coding, debugging, code migration etc.
+- Tusk is a [Y-combinator company](https://www.ycombinator.com/companies/tusk)
+
+
+### Links
+- [Web](https://usetusk.ai/)
+- [GitHub](https://github.com/apps/use-tusk)
+- [X ](https://twitter.com/usetusk)
+- [LinkedIn](https://www.linkedin.com/company/usetusk/about/)
+- [Founder's X](https://twitter.com/sohilkshirsagar)
+- [Founder's X 2](https://twitter.com/Marcel7an)
+  
+</details>
+
+
+# Data analysis & visualization
+
+## [AI Analyst by E2B]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Athena Intelligence](https://www.athenaintelligence.ai/)
+24/7 Enterprise AI Data Analyst
+
+<details>
+
+![image](https://assets-global.website-files.com/6484b03566311009ccef7599/6602dcd93264ffed31406081_athena_logo_full%201.svg)
+
+### Category
+Data analysis, Business intelligence
+
+### Description
+-  Athena is an AI-native analytics platform designed to accelerate analytics workflows for enterprise teams.
+-  It offers both co-pilot and auto-pilot modes, learning users' workflows to allow for autonomous execution with confidence.
+-  Athena supports querying data, generating visualizations, analyzing enterprise data, and codifying workflows, making it a powerful tool for data-driven decision-making.
+
+### Links
+- [Web](https://www.athenaintelligence.ai/)
+- [Founder's LinkedIn](https://www.linkedin.com/in/brendongeils/)
+
+</details>
+
+## [Julius](https://julius.ai/)
+AI data processing, analysis, and visualization
+
+<details>
+
+![image](https://pbs.twimg.com/profile_images/1704414144798261248/PN4b_sxH_400x400.jpg)
+
+### Category
+Data analysis
+
+### Description
+- Chat-powered data analytics and AI agents, all in a notebook interface
+- Allows to answer any question about users' data with a single prompt
+- An intelligent data analyst tool that interprets, analyzes, and visualizes complex data in an intuitive, user-friendly manner
+- "Jupyter Notebooks on steroids"
+
+### Description
+- [Docs](https://julius.ai/docs/chat-start-guide)
+- [Use cases](https://julius.ai/use_cases)
+- [Twitter](https://twitter.com/JuliusAI_)
+- Team Twitter profiles: [Matt Brockman](https://twitter.com/badphilosopher), [rahul](https://twitter.com/0interestrates)
+
+</details>
+
+## [Jupyter Agents]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+## [Perplexity AI]()
+
+
+<details>
+
+![image]()
+
+### Category
+
+
+### Description
+
+
+### Links
+- [Web]()
+
+</details>
+
+
+## [Powerdrill AI](https://powerdrill.ai/)
+AI agent that completes your data job 10x faster
+
+<details>
+
+![image](https://media.licdn.com/dms/image/D4E0BAQGwWRCWd6izLg/company-logo_200_200/0/1686636701294?e=1726099200&v=beta&t=oFa1Z8ulQzNuasFcQBdrzZD8L1RJ_vjPhbbl4KXkN7g)
+
+### Category
+Data analysis, Productivity, Research, Marketig, Sales, Finance
+
+### Description
+- Powerdrill is an AI SaaS service centered around personal and enterprise datasets.
+- Designed to unlock the full potential of your data, Powerdrill enables you to use natural language to effortlessly interact with your datasets for tasks ranging from simple Q&As to insightful BI analysis.
+- By breaking down barriers to knowledge acquisition and data analysis, Powerdrill boosts data processing efficiency exponentially.
+
+### Links
+- [Web](https://powerdrill.ai/)
+- [Twitter](https://x.com/powerdrillai)
+- [Documentation](https://docs.powerdrill.ai/introduction)
+
+</details>
+
+
+
+
+# Other - top picks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# BACKUP
 
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
