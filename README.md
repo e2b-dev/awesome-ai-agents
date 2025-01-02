@@ -77,6 +77,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 
 # App generation
+AI tools that generate code and build whole apps for you, based just on your prompt. You describe what you want to build, and the AI helps create the actual code and application structure. Some focus on specific parts like React frontend (v0), while others can build entire applications (Groq, Lovable). 
 
 ## [Artifacts by Anthropic]()
 
@@ -245,6 +246,7 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 
 # Computer use
+Computer use tools, environments, and frameworks help LLMs interact with computers directl, the same way as humans would do. This is a new and emerging agents category which requires to overcome challenges like security or isolation of the LLM.
 
 ## [Action](https://action.new/)
 
@@ -330,6 +332,8 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 </details>
 
 # Workflow automations
+
+AI tools that automate workflows and repetitive tasks. You tell them what processes you want to automate, and they handle the execution. Some focus on business tasks (Aomni), others on personal automation (Magic Loops, Lindy), while tools like Gumloop can automate pretty much any workflow you throw at them.
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
@@ -535,6 +539,7 @@ Build-your-own, Productivity, General purpose
 
 
 # Autonomous SW engineers
+AI tools that help with code development and testing. They act as AI engineers that can write, push, and test code automatically, representing a category of very highly autonomous AI agents.
 
 ## [Devin by Cognition Labs]()
 
@@ -583,6 +588,7 @@ Coding
 
 
 # Data analysis & visualization
+AI-powered tools that process and analyze data, turning it into useful insights. Some offer 24/7 enterprise analysis (Athena Intelligence), while others like Powerdrill AI promise 10x faster data processing. Tools range from simple analysis to complex data visualization.
 
 ## [AI Analyst by E2B]()
 
