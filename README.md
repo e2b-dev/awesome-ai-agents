@@ -1125,7 +1125,7 @@ and while allowing scientist to oversee and direct the process
 
 
 ## [Databerry](https://www.databerry.ai/)
-(Pivoted to Chaindesk) No-code cahtbot building
+(Pivoted to Chaindesk) No-code chatbot building
 
 <details>
 
