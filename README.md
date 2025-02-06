@@ -1062,6 +1062,33 @@ Coding
 
 </details>
 
+## [cognee](https://github.com/topoteretes/cognee)
+A unified data layer that blends the complementary strengths of graph and vector databases to uncover insights that neither could achieve alone.
+
+<details>
+
+ ![image](https://avatars.githubusercontent.com/u/125468716?s=200&v=4)
+
+### Category
+Data analysis, Memory
+	
+### Description
+- ECL (Extract, Cognify, Load) Pipelines – Process, connect, and retrieve conversations, documents, and transcriptions.
+- Graph + Vector Databases – Uncover hidden relationships in your data.
+- Hallucination Reduction – Improves AI accuracy with contextual memory.
+- Multi-Database Support – Works with PostgreSQL, Neo4j, NetworkX, FalkorDB, Qdrant, Weaviate, LanceDB, Milvus, PGVector.
+- LLM Integration – Supports OpenAI, Anyscale, Ollama for knowledge graphs.
+- Scalable & Modular – Deploy locally or scale with Modal. 
+
+### Links  
+- [GitHub](https://github.com/topoteretes/cognee) - Code & contributions
+- [Documentation](https://docs.cognee.ai/) - Setup & usage guide
+- [Discord](https://discord.gg/tV7pr5XSj7) - Community & support
+- [Blog](https://www.cognee.ai/blog) - RAG & GraphRAG and more
+- [Founder's X](https://x.com/tricalt) - Updates & chat
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
