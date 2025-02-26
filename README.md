@@ -28,7 +28,7 @@ Add to readme list:
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 		</a>
-		<a href="https://twitter.com/e2b_dev" target="_blank">
+		<a href="https://twitter.com/e2b" target="_blank">
 			<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 		</a>
 	</p>
@@ -66,7 +66,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 - Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk)
 - Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
 - Read our [docs](https://e2b.dev/docs?ref=awesome-sdks)
-- Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b_dev)
+- Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
 # Open-source projects
 
@@ -5554,7 +5554,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 -->
 
 ## Join the community
-- Follow us on [X ](https://twitter.com/e2b_dev)
+- Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
@@ -5562,7 +5562,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 <a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 	<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
 </a>
-<a href="https://twitter.com/e2b_dev" target="_blank">
+<a href="https://twitter.com/e2b" target="_blank">
 	<img src="https://img.shields.io/twitter/follow/e2b.svg?logo=twitter">
 </a>
 -->
