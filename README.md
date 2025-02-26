@@ -2296,6 +2296,43 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Praison AI](https://github.com/MervinPraison/PraisonAI/)
+A low-code, and code solution focused on creating and orchestrating multi-agent systems such as PraisonAI Agents, AutoGen and CrewAI.
+<details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MervinPraison/PraisonAI/refs/heads/main/docs/images/praisonai-logo-large-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MervinPraison/PraisonAI/refs/heads/main/docs/images/praisonai-logo-large-dark.png">
+  <img alt="PraisonAI Logo" src="https://raw.githubusercontent.com/MervinPraison/PraisonAI/refs/heads/main/docs/images/praisonai-logo-large-dark.png">
+</picture>
+
+### Category
+Multi-agent, Coding, Build-your-own, Low-code, General purpose
+
+### Description
+- A low-code framework for building and orchestrating AI agents with:
+  - Multiple agent frameworks support (PraisonAI Agents, AutoGen, CrewAI)
+  - Code-first approach with Python SDK
+  - Built-in agents for code generation, analysis and documentation
+  - Support for 100+ LLM providers including OpenAI, Anthropic, Google
+  - Local LLM support and custom model integration
+  - Flexible agent orchestration and communication patterns
+  - Open source with MIT license
+- Designed to make agent development and deployment simpler while maintaining flexibility
+- Allows creating custom agents or using pre-built ones for specific tasks
+- Supports both synchronous and asynchronous agent communication patterns
+
+### Links
+- [GitHub](https://github.com/MervinPraison/PraisonAI)
+- [Documentation](https://docs.praison.ai)
+- [Website](https://praison.ai)
+- [Author's Twitter](https://twitter.com/MervinPraison)
+- [Author's X](https://x.com/MervinPraison)
+- [Author's YouTube](https://www.youtube.com/@MervinPraison)
+- [Author's LinkedIn](https://www.linkedin.com/in/mervinpraison/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
