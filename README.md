@@ -1709,6 +1709,37 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Keploy](https://keploy.io)  
+AI powered open-source tool for automated unit and integration testing
+
+<details>  
+
+![image](https://github.com/keploy/vscode-extension/blob/main/media/vsnew1.png)  
+
+### Category  
+Coding, Productivity  
+
+### Description  
+Keploy is an open-source, **AI-powered API testing and mocking tool** that helps developers capture, replay, and test APIs without writing test cases manually.  
+- **Unit Testing (UTGen)**: Automatically generates test cases from API calls.  
+- **End-to-End Testing**: Captures real-world API interactions for reliable tests.  
+- **AI Extension for VS Code**: Seamlessly integrates with VS Code for enhanced productivity.  
+- **Mocking & Replay**: Converts API interactions into mock servers.  
+- **Supports Multiple Languages**: Works with Go, Java, Python, and Node.js applications.
+
+#### AI Extension for VS Code – Seamlessly integrates with VS Code for enhanced productivity
+Keploy provides an AI-powered VS Code extension that allows developers to run, debug, and manage tests directly within the VS Code editor.
+
+#### Features of the VS Code extension:
+- One-click test generation: Generate test cases from API requests without leaving the editor.
+- Debug & Replay tests: Run previously captured test cases with a single click.
+- View API coverage: See which parts of the API have been tested and which need more testing.
+
+### Links  
+- [Website](https://keploy.io)   [GitHub](https://github.com/keploy/keploy)   [Docs](https://docs.keploy.io)   [Blog](https://keploy.io/blog)   [Twitter](https://twitter.com/keployio)   [LinkedIn](https://www.linkedin.com/company/keploy/)   [Slack](https://join.slack.com/t/keploy/shared_invite/zt-2poflru6f-_VAuvQfCBT8fDWv1WwSbkw)   [Youtube](https://www.youtube.com/channel/UC6OTg7F4o0WkmNtSoob34lg)
+</details>
+
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
@@ -1744,6 +1775,7 @@ into simplifying the developer experience; it does not use `Langchain`.
    for retrieval combining lexical and semantic search.
 - Documentation: https://langroid.github.io/langroid/
 </details>
+
 
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
