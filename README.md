@@ -4296,6 +4296,31 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [Gracker AI](https://gracker.ai//)
+Automate marketing workflow
+with AI
+
+<details>
+
+![image](https://cdn.gracker.ai/logo-black-outline.png)
+
+### Category
+Productivity, content writing, cyber security marketing, marketing, SEO-optimized blog writing, cyber security content marketing
+
+
+### Description
+- An AI Editorial and Programmatic SEO Tool for Cyber Security SAAS Companies
+- Fuel your cyber security marketing growth with our AI agents.
+- Stay informed with the latest cybersecurity market updates by subscribing to our newsletter, and exploring our detailed blog covering key trends and insights.
+
+### Links
+- [Web](https://gracker.ai/)
+- [X (Twitter)](https://x.com/grackerAI)
+- [LinkedIn](https://www.linkedin.com/company/gracker-ai/)
+
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
