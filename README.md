@@ -2094,6 +2094,33 @@ General purpose
 </details>
 
 
+## [MLE-Agent](https://github.com/MLSysOps/MLE-agent)
+Designed as a pairing LLM agent for machine learning engineers and researchers
+
+<details>
+
+https://github.com/user-attachments/assets/dac7be90-c662-4d0d-8d3a-2bc4df9cffb9
+
+### Category
+ML assistant, Code generation, Weekly reporting
+
+### Description
+- 🤖 Autonomous Baseline Creation: Automatically builds ML/AI baselines.
+- 🔍 [Arxiv](https://arxiv.org/) and [Papers with Code](https://paperswithcode.com/) Integration: Access best practices and state-of-the-art methods.
+- 🐛 Smart Debugging: Ensures high-quality code through automatic debugger-coder interactions.
+- 📂 File System Integration: Organizes your project structure efficiently.
+- 🧰 Comprehensive Tools Integration: Includes AI/ML functions and MLOps tools for a seamless workflow.
+- ☕ Interactive CLI Chat: Enhances your projects with an easy-to-use chat interface.
+- 📊 Weekly Report: Automatically generates detailed summaries of your weekly works.
+
+### Links
+- [Website](https://repx.app/)
+- [GitHub](https://github.com/MLSysOps/MLE-agent)
+- [Docs](https://docs.repx.app/)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
