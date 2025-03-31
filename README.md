@@ -5486,6 +5486,41 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Wunjo](https://wunjo.online/)
+One of the coolest new features is the neural network that can automatically review long videos and create a shorter version with the best moments! It’ll even answer questions about the video—like what music fits, or what the video is about. Basically, it can help with anything you need related to the content. The approach is related not only to the visual part, but also to the speech in the video.
+
+<details>
+
+<a href="https://www.youtube.com/watch?v=AXX6U4MtO-Y"><img src="https://i3.ytimg.com/vi/AXX6U4MtO-Y/maxresdefault.jpg" alt="video"></a>
+
+### Category
+Productivity, Content creation
+
+### Description
+- A multifunctional software for creating and editing video, photos and audio. For designers, content creators, photographers, editors, and anyone who works with video, photo, and audio.
+- Available functionality
+  - Automatic video editing with GPT (Free)
+  - Explanation and answers to questions on the video by GPT (Free)
+  - Face swap (Free)
+  - Lip sync (Free/Payement option)
+  - Live portrait and face retarget (Payement option)
+  - Remove background & objects (Free)
+  - Enhancer (Free/Payement option)
+  - Audio separator (Free)
+  - Clone voice (Payement option)
+  - Restyling video (Payement option)
+  - Video & photo generation (Payement option)
+- Windows, Ubuntu, Web.
+
+### Links
+
+- [Web](https://wunjo.online)
+- [Boosty](https://boosty.to/wunjo)
+- [Open Source](https://github.com/wladradchenko/wunjo.wladradchenko.ru)
+- [Wladislav Radchenko - founder at Wunjo](https://wladradchenko.ru/en#products)
+  
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
