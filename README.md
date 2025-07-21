@@ -1497,7 +1497,7 @@ Content creation, Productivity, General purpose, Discord
 </details>
 
 ## [GPT-Agent](https://github.com/iris-networks/gpt-agent)
-AI-powered development assistant with code generation capabilities
+An opensource alternative to chatgpt-agents, fully opensource and containerized
 
 <details>
 
@@ -1505,7 +1505,7 @@ AI-powered development assistant with code generation capabilities
 Development, Code generation, General purpose
 
 ### Description
-GPT-Agent is an AI-powered development assistant that helps with code generation, debugging, and development tasks. It provides intelligent code suggestions and can assist with various programming challenges.
+GPT-Agent is an opensource alternative to chatgpt-agents, fully opensource and containerized. It provides a self-hosted solution for AI-powered development assistance and agent capabilities.
 
 ### Links
 - [GitHub](https://github.com/iris-networks/gpt-agent)
