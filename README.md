@@ -1496,6 +1496,22 @@ Content creation, Productivity, General purpose, Discord
   
 </details>
 
+## [GPT-Agent](https://github.com/iris-networks/gpt-agent)
+AI-powered development assistant with code generation capabilities
+
+<details>
+
+### Category
+Development, Code generation, General purpose
+
+### Description
+GPT-Agent is an AI-powered development assistant that helps with code generation, debugging, and development tasks. It provides intelligent code suggestions and can assist with various programming challenges.
+
+### Links
+- [GitHub](https://github.com/iris-networks/gpt-agent)
+
+</details>
+
 ## [GPT Engineer](https://gptengineer.app/)
 Generates entire codebase based on a prompt
 
