@@ -3965,6 +3965,33 @@ Ducklings chat with users to define their goals, come up with engineering design
 
 </details>
 
+## [Decepticon](https://github.com/PurpleAILAB/Decepticon)
+Autonomous Multi-Agent Based Red Team Testing Service, Vibe Hacking Agent
+
+<details>
+	
+![image](https://github.com/user-attachments/assets/6d2fdee8-a520-4775-86e8-b200d41b106c)
+
+### Category
+Security, Build your own, Multi-agent
+
+### Description
+- **Vibe Hacking paradigm**: Revolutionary approach using AI agents for autonomous red teaming operations.
+- **Built on LangChain/LangGraph**: Robust foundation ensuring compatibility and scalability with AI agent ecosystem.
+- **Specialized security agents**: Reconnaissance, Initial Access, Privilege Escalation, Defense Evasion, and more.
+- **Multiple AI providers**: Supports 15+ providers including OpenAI, Anthropic, Google with 30+ models.
+- **Flexible architecture**: Swarm, Supervisor, and Hybrid architectures for different operation needs.
+- **MCP protocol support**: Extensible tool integration through Modular Command Protocol.
+- **Comprehensive automation**: Delegates repetitive tasks to agents, focusing on strategic decision-making.
+- **Docker integration**: Secure testing environment with Kali Linux container support.
+
+### Links
+- [GitHub](https://github.com/PurpleAILAB/Decepticon)
+- [Discord](https://discord.gg/TZUYsZgrRG)
+
+</details>
+
+
 ## [Ellipsis](https://ellipsis.dev/?utm_source=awesome-ai-agents)
 (Previously BitBuilder) "Automated code reviews and bug fixes"
 
