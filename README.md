@@ -1657,7 +1657,7 @@ Agents building, debugging, and deploying platform
 
 <details>
 
-![image](https://github.com/kreneskyp/ix/raw/master/ix_350.png)
+![image](https://res.cloudinary.com/dyqelopiw/image/upload/keploy-logo-dark_kkzf2y)
 
 ### Category
 Build your own, Multi-agent
@@ -1707,6 +1707,30 @@ JARVIS is a system to connect LLMs with the ML community.
 
 - [Paper](https://arxiv.org/abs/2303.17580)
 
+</details>
+
+## [Keploy](https://github.com/keploy/keploy)
+Open-source API testing and mocking tool
+
+<details>
+
+![Image](https://res.cloudinary.com/dyqelopiw/image/upload/keploy-logo-dark_kkzf2y)
+
+### Category
+Testing, Productivity, Build-your-own
+
+### Description
+- Keploy is an open-source tool for API testing, mocking, and test case generation.
+- Automatically generates test cases and mocks by recording real API traffic.
+- Enables regression testing and simplifies the creation of reliable test suites.
+- Integrates with popular frameworks and CI/CD pipelines.
+- Supports multiple languages and platforms.
+
+### Links
+- [GitHub](https://github.com/keploy/keploy)
+- [Documentation](https://docs.keploy.io/)
+- [Slack](https://join.slack.com/t/keploy)
+- [Website](https://keploy.io/)
 </details>
 
 ## [Langroid](https://github.com/langroid/langroid)
