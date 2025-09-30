@@ -2408,6 +2408,32 @@ Coding
 
 </details>
 
+## [Roundtable](https://github.com/askbudi/roundtable)
+Zero-configuration MCP server unifying AI coding assistants for autonomous agents
+
+<details>
+
+![image](https://askbudi.ai/roundtable/logo.png)
+
+### Category
+Tool for agents, Coding
+
+### Description
+- **Zero-configuration setup**: Instantly connects Claude Code, Cursor, and other AI coding assistants through Model Context Protocol (MCP)
+- **Unified workspace**: Single command creates a collaborative environment where multiple AI assistants work together seamlessly
+- **Autonomous agent infrastructure**: Essential tooling for building multi-agent systems that require coordinated AI assistant interaction
+- **MCP ecosystem bridge**: Standardizes communication between different AI coding tools, enabling true interoperability
+- **Instant deployment**: `pip install roundtable-ai && roundtable` - immediate multi-agent collaboration workspace
+- **Production-ready**: Battle-tested architecture supporting real-world autonomous agent development workflows
+
+### Links
+- [GitHub](https://github.com/askbudi/roundtable)
+- [Website](https://askbudi.ai/roundtable)
+- [PyPI Package](https://pypi.org/project/roundtable-ai/)
+- [Documentation](https://askbudi.ai/roundtable/docs)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
