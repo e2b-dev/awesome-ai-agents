@@ -2689,6 +2689,29 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [RustChain](https://github.com/Michael-A-Kuykendall/rustchain-community)
+Production-ready AI agent framework built in Rust for universal workflow transpilation and enterprise compliance
+
+<details>
+
+### Category
+Workflow automation, Build your own, Multi-agent, Enterprise
+
+### Description
+
+- **Universal Workflow Transpilation**: Convert between GitHub Actions, Airflow, Jenkins, Kubernetes and more via AI reasoning
+- **Enterprise Compliance**: Built-in GDPR, HIPAA, SOC2 compliance frameworks 
+- **97% Performance Advantage**: Rust implementation dramatically faster than Python alternatives
+- **Sub-second Execution**: Mission execution times under 1 second for most workflows
+- **LLM Integration**: Works with local (Shimmy, Ollama) and cloud providers (OpenAI, Anthropic, Google)
+- **Production Ready**: Designed for enterprise deployment with comprehensive error handling
+
+### Links
+- [Documentation](https://github.com/Michael-A-Kuykendall/rustchain-community#readme)
+- [GitHub](https://github.com/Michael-A-Kuykendall/rustchain-community)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
