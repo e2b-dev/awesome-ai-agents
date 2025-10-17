@@ -836,6 +836,29 @@ Coding
 
 </details>
 
+## [Cache-to-Cache](https://github.com/thu-nics/C2C)
+Direct semantic communication between LLMs via KV-Cache
+
+<details>
+
+![Image](https://raw.githubusercontent.com/thu-nics/C2C/main/resource/logo.png)
+
+### Category
+Multi-agent, Communication
+
+### Description
+- A novel paradigm for direct semantic communication between Large Language Models.
+- Enables LLMs to communicate through KV-Cache instead of token sequences, avoiding information loss and generation latency.
+- Uses a neural network to project and fuse the source model's KV-cache with the target model's cache for direct semantic transfer.
+
+### Links
+- [Project Page](https://fuvty.github.io/C2C_Project_Page/)
+- [Paper](https://arxiv.org/abs/2510.03215)
+- [GitHub](https://github.com/thu-nics/C2C)
+- [HuggingFace](https://huggingface.co/collections/nics-efc/c2c-68e66ef54b977bd7e58d2d74)
+
+</details>
+
 ## [Cal.ai](https://cal.ai)
 Open-source scheduling assistant built on Cal.com
 
