@@ -2408,6 +2408,36 @@ Coding
 
 </details>
 
+## [RustChain](https://github.com/Michael-A-Kuykendall/rustchain-community)
+Production-ready AI agent framework for workflow automation
+
+<details>
+
+### Category
+Workflow automation, Build your own, Multi-agent, Enterprise
+
+**Why RustChain enhances awesome-ai-agents:**
+
+**Production AI Agent Framework:**
+- **Universal Workflow Transpilation**: Converts between GitHub Actions, Airflow, Jenkins, Kubernetes via AI reasoning
+- **Enterprise Compliance**: Built-in GDPR, HIPAA, SOC2 compliance frameworks for regulated industries
+- **Performance**: 97% faster than Python alternatives with sub-second mission execution
+- **Multi-Agent Architecture**: Orchestrates multiple AI agents for complex workflow automation
+- **Production Ready**: Comprehensive error handling and enterprise deployment features
+
+**AI Agent Capabilities:**
+- **LLM-Powered Reasoning**: Uses AI agents to understand and convert workflow formats
+- **Multi-Provider Support**: Works with local LLMs (Shimmy, Ollama) and cloud providers
+- **Autonomous Execution**: AI agents execute multi-step missions independently
+- **Context Management**: Maintains state across agent interactions and workflow steps
+- **Dynamic Planning**: AI agents adapt execution based on runtime conditions
+
+### Links
+- [GitHub Repository](https://github.com/Michael-A-Kuykendall/rustchain-community)
+- Authors: [Michael A Kuykendall](https://github.com/Michael-A-Kuykendall)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
