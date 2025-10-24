@@ -1966,6 +1966,38 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Mastra](https://github.com/mastra-ai/mastra)
+Framework for building AI-powered applications and agents with a modern TypeScript stack.
+
+<details>
+ // TODO add Mastra image
+![Image](https://github.com/mastra-ai/mastra/raw/main/docs/public/og-image.png) 
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+
+- **TypeScript-first framework**: Purpose-built for TypeScript developers with native support for modern JavaScript tooling and type safety.
+- **Production-ready out of the box**: Ships with built-in observability, evals, and tracing for deploying reliable AI agents to production.
+- **Workflow graphs with control flow**: Orchestrate complex multi-step processes with intuitive syntax for control flow (.then(), .branch(), .parallel()).
+- **Autonomous agents**: Build agents that use LLMs and tools to solve open-ended tasks, with reasoning and iterative problem-solving capabilities.
+- **Multi-model support**: Connect to 40+ LLM providers through one standard interface - OpenAI, Anthropic, Gemini, Llama, and more.
+- **Human-in-the-loop**: Suspend agents or workflows to await user input or approval, with state persistence for indefinite pauses.
+- **Comprehensive RAG support**: Built-in retrieval-augmented generation with context management and semantic memory.
+- **Interactive local playground**: Test and debug agents locally with built-in tracing and visualization before deployment.
+- **Flexible deployment**: Deploy anywhere - serverless platforms (Vercel, Cloudflare, Netlify), Node.js servers, or standalone endpoints.
+- **Seamless integrations**: Bundle into existing React, Next.js, or Node.js apps, or ship as standalone services.
+
+### Links
+- [Documentation](https://mastra.ai/en/docs)
+- [GitHub](https://github.com/mastra-ai/mastra)
+- [Website](https://mastra.ai/)
+- [X (Twitter)](https://x.com/mastra_ai)
+- [Y Combinator](https://www.ycombinator.com/companies/mastra)
+- [Blog](https://mastra.ai/blog)
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
