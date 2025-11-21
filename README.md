@@ -2660,6 +2660,31 @@ General purpose, Productivity
 
 </details>
 
+## [Tambo](https://github.com/tambo-ai/tambo)
+React SDK for building generative UIs with MCP support
+
+<details>
+
+![image](https://raw.githubusercontent.com/tambo-ai/tambo/main/tambo/docs/public/logo.png)
+
+### Category
+General purpose, Build your own, UI Components
+
+### Description
+- **Generative UI**: AI dynamically generates React components
+- **MCP Integration**: Connect to external data sources via Model Context Protocol
+- **Component Registry**: Register and compose custom React components
+- **TypeScript-first**: Full type safety with Zod schemas
+- **SSR compatible**: Works with Next.js, Remix, and other frameworks
+- **Tool Integration**: Connect AI to custom backend functions
+
+### Links
+- [Documentation](https://docs.tambo.co/)
+- [Demo](https://tambo.co)
+- [Discord](https://tambo.co/discord)
+- [GitHub](https://github.com/tambo-ai/tambo)
+</details>
+
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 BabyAGI-inspired agent, can recall infinite memory
 <details>
