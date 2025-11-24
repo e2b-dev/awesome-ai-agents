@@ -1422,6 +1422,32 @@ Coding
 
 </details>
 
+## [Fulling](https://github.com/FullAgent/fulling)
+Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude Sonnet, shadcn/ui, and PostgreSQL.
+
+<details>
+
+![fulling-frame](https://github.com/user-attachments/assets/6599c419-5a67-4c53-9407-689f0c28e4f4)
+
+### Category
+Coding
+
+### Description
+Fulling provides a sandboxed environment with Claude Code and PostgreSQL — everything you need to vibe code full-stack apps.
+
+Fulling automatically sets up the following for your project, ready in a minute:
+
+- Next.js environment with shadcn/ui
+- Dedicated PostgreSQL (pre-configured)
+- Claude Code (pre-configured)
+- A live domain
+
+### Links
+- [Fulling.ai](https://fulling.ai)
+- [X](https://x.com/fangnux)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
