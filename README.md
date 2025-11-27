@@ -180,6 +180,27 @@ General purpose
 - [GitHub](https://github.com/reworkd/AgentGPT)
 </details>
 
+## [Agentic Sprint](https://github.com/damienlaine/agentic-sprint)
+Spec-driven, self-iterative multi-agent framework for Claude Code
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Turns Claude Code into an autonomous development team with specialized agents
+- Project Architect coordinates Python, Next.js, CI/CD, QA, and UI Testing agents
+- Uses a convergent sprint approach where specs shrink and errors get erased with each iteration
+- Features custom slash commands (`/sprint`, `/new-sprint`, `/generate-map`)
+- Supports automated and manual (hybrid) testing modes with Playwright MCP
+- "Second Brain" effect with persistent project memory via project-goals.md and project-map.md
+
+### Links
+- [Website](https://damienlaine.github.io/agentic-sprint/)
+- [GitHub](https://github.com/damienlaine/agentic-sprint)
+</details>
+
 <!-- This is a comment that appears only in the raw text -->
 
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
