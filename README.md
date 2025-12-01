@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [AgentsKB](https://agentskb.com) - Upgrade your AI with researched answers. We did the research so your AI gets it right the first time.
