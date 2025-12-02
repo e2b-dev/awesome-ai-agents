@@ -2408,6 +2408,28 @@ Coding
 
 </details>
 
+## [Sayna](https://github.com/SaynaAI/sayna)
+Real-time voice infrastructure for AI agents
+
+<details>
+
+### Category
+Build-your-own, SDK for AI apps, Voice
+
+### Description
+- Real-time speech infrastructure for building voice-first AI applications
+- Unified API for speech-to-text, text-to-speech, and real-time audio streaming
+- Self-hostable, provider-agnostic architecture supporting multiple TTS/STT providers
+- WebSocket streaming for low-latency voice interactions
+- Built with Rust and LiveKit for production-grade performance
+- SDKs available for JavaScript, Node.js, and Python
+
+### Links
+- [GitHub](https://github.com/SaynaAI/sayna)
+- [Documentation](https://docs.sayna.ai/)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
