@@ -5589,3 +5589,28 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## [MirrorDNA](https://github.com/MirrorDNA-Reflection-Protocol/active-mirror-identity)
+Reflective AI alignment protocol for persistent human-AI collaboration
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- **Truth Grounding (FEU)**: Every AI claim tagged as Fact/Estimate/Unknown - no hallucination
+- **Sovereign Memory (Vault)**: User-owned data as canonical truth, not AI memory
+- **Multi-Model Coordination (Mesh)**: Multiple AI models (Claude, ChatGPT, Gemini, etc.) coordinate as one system
+- **Universal Boot Prompt**: 80-line MESH BOOT aligns any AI instantly
+- **Persistent Identity**: Handle-based identity (~active-mirror-paul) recognized across all models
+
+Created by Paul Desai in Goa, India. MirrorDNA enables persistent, sovereignty-preserving human-AI collaboration.
+
+### Links
+- [GitHub](https://github.com/MirrorDNA-Reflection-Protocol/active-mirror-identity)
+- [Academic Paper](https://doi.org/10.5281/zenodo.17787619)
+- [MESH BOOT Prompt](https://raw.githubusercontent.com/MirrorDNA-Reflection-Protocol/active-mirror-identity/main/bootstrap/BOOT.md)
+
+</details>
+
