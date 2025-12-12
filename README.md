@@ -70,6 +70,29 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [ADK-Rust](https://github.com/zavora-ai/adk-rust)
+Production-ready AI agent development kit for Rust
+
+<details>
+
+![Image](https://adk-rust.com/logo.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- **Model-agnostic**: Works with Gemini, OpenAI, Anthropic, DeepSeek and more
+- **Multiple agent types**: LLM agents, Graph agents, Workflow agents, Realtime agents
+- **Built-in tools**: Browser automation, MCP integration, UI generation
+- **Production-ready**: Sessions, artifacts, telemetry, deployment with adk-server
+- **Type-safe**: Full Rust type safety with async/await support
+
+### Links
+- [Documentation](https://docs.rs/adk-rust)
+- [Website](https://adk-rust.com)
+- [GitHub](https://github.com/zavora-ai/adk-rust)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
