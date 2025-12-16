@@ -1854,6 +1854,34 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
+## [LUMEN Genesis Kit](https://github.com/Lumen-Founder/LUMEN-GENESIS-KIT)
+Autonomous agent kernel & context bus on Base Mainnet with LangChain integration
+
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+LUMEN Genesis Kit is a comprehensive development toolkit for building autonomous agents on the LUMEN World Computer infrastructure. It provides a decentralized context bus and agent kernel compatible with LangChain, enabling developers to create trustless, economically-incentivized AI agents on Base Mainnet.
+
+- **Decentralized Context Bus**: Share and access agent context across the network
+- **LangChain Integration**: Seamless integration with LangChain for AI agent development
+- **Base Mainnet Deployment**: Production-ready smart contracts verified on Base L2
+- **Complete Development Kit**: Includes agent runtime, deployment tools, monitoring dashboard, and NPM package
+- **Autonomous Agent Framework**: Self-healing heartbeat mechanism and bond management
+- **Open Source**: MIT licensed with comprehensive documentation
+
+### Links
+- [GitHub](https://github.com/Lumen-Founder/LUMEN-GENESIS-KIT)
+- [NPM Package](https://www.npmjs.com/package/lumen-langchain-kit)
+- [Smart Contract](https://base.blockscout.com/address/0x52078D914CbccD78EE856b37b438818afaB3899c)
+
+</details>
+
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 Re-implementation of AutoGPT as a Python package
 
