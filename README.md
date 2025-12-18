@@ -2343,6 +2343,37 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 </details>
 
+## [PraisonAI](https://github.com/MervinPraison/PraisonAI)
+Production-ready Multi-AI Agents framework with self-reflection
+
+<details>
+
+![Image](https://github.com/MervinPraison/PraisonAI/raw/main/docs/logo/light.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- **Fastest agent instantiation** (3.77μs) - benchmarked against CrewAI, LangGraph, PydanticAI
+- **100+ LLM support** via LiteLLM (OpenAI, Anthropic, Gemini, Ollama, Groq, etc.)
+- **MCP Protocol support** for seamless tool integration
+- **Agentic workflows** with route(), parallel(), loop(), repeat() patterns
+- **Built-in memory** (short-term, long-term, entity, episodic)
+- **Self-reflection** for improved agent responses
+- **Both Python & JavaScript SDKs**
+- Simple 2-line agent creation:
+```python
+from praisonaiagents import Agent
+Agent(instructions="You are helpful").start("Hello")
+```
+
+### Links
+- [Documentation](https://docs.praison.ai)
+- [GitHub](https://github.com/MervinPraison/PraisonAI)
+- [PyPI](https://pypi.org/project/praisonaiagents/)
+- [npm](https://www.npmjs.com/package/praisonai)
+</details>
+
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
