@@ -1949,9 +1949,9 @@ Run AI coding agents autonomously for days
 Multi-agent, Coding, Productivity
 
 ### Description
-- Cross-platform desktop app for orchestrating a fleet of AI coding agents and projects.
-- Run multiple agents in parallel with a keyboard-first interface built for long-running sessions.
-- Auto Run playbooks execute markdown checklists, each task in a fresh session for clean context.
+- Desktop app for running multiple AI coding agents in parallel with a spec-driven workflow.
+- Auto Run executes markdown task checklists in fresh sessions for clean context.
+- Keyboard-first interface built for long-running, unattended sessions.
 
 ### Links  
 - [Web](https://runmaestro.ai)
