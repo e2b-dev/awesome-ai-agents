@@ -1938,6 +1938,27 @@ Coding, Productivity, Debugging, Multi-agent
 - [Founder's X - Ted Spare](https://twitter.com/tedspare)
 </details>
 
+## [Maestro](https://github.com/pedramamini/Maestro)
+Run AI coding agents autonomously for days
+
+<details>
+
+ ![image](https://github.com/user-attachments/assets/deaf601d-1898-4ede-bf5a-42e46874ebb3)
+
+### Category
+Multi-agent, Coding, Productivity
+
+### Description
+- Cross-platform desktop app for orchestrating a fleet of AI coding agents and projects.
+- Run multiple agents in parallel with a keyboard-first interface built for long-running sessions.
+- Auto Run playbooks execute markdown checklists, each task in a fresh session for clean context.
+
+### Links  
+- [Web](https://runmaestro.ai)
+- [GitHub](https://github.com/pedramamini/Maestro)
+- [Video - Walkthrough and Demo](https://youtu.be/fmwwTOg7cyA?si=dJ89K54tGflKa5G4)
+</details>
+
 ## [Magick](https://www.magickml.com/)
 AIDE for creating, deploying, monetizing agents
 
