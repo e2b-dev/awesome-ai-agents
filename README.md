@@ -732,6 +732,29 @@ General purpose, Productivity
 </details>
 
 
+## [Blank Space](https://www.blankspace.build)
+Open-source AI app builder in your browser
+
+<details>
+
+![Image](https://raw.githubusercontent.com/BrandeisPatrick/blank-space/main/public/blankspace-banner.png)
+
+### Category
+Coding, Generating apps
+
+### Description
+- Open-source AI coding agent that runs entirely in your browser
+- Fast, simple, and self-hostable
+- Optimized for mobile devices
+- Apache 2.0 licensed
+
+### Links
+- [Website](https://www.blankspace.build)
+- [GitHub](https://github.com/BrandeisPatrick/blank-space)
+
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
