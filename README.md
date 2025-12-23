@@ -2488,6 +2488,32 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
+OpenAI-compatible inference server built in Rust
+
+<details>
+
+![image](https://raw.githubusercontent.com/Michael-A-Kuykendall/shimmy/main/assets/shimmy-logo.png)
+
+### Category
+Tool for agents, General purpose
+
+### Description
+Shimmy is a self-hosted AI inference server with OpenAI API compatibility, built in Rust for maximum performance.
+- Drop-in replacement for OpenAI API endpoints
+- Supports multiple model formats (GGUF, Core ML, etc.)
+- Built-in streaming and multimodal capabilities
+- Lightweight and fast (4.8MB binary)
+- MIT licensed, actively maintained
+- Perfect for AI agents requiring local inference
+
+### Links
+- [GitHub](https://github.com/Michael-A-Kuykendall/shimmy)
+- [Documentation](https://github.com/Michael-A-Kuykendall/shimmy#readme)
+- [Crates.io](https://crates.io/crates/shimmy)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
