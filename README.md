@@ -2408,6 +2408,36 @@ Coding
 
 </details>
 
+## [RustChain](https://github.com/Michael-A-Kuykendall/rustchain-community)
+Production-ready AI agent framework for workflow automation
+
+<details>
+
+### Category
+Workflow automation, Build your own, Multi-agent, Enterprise
+
+**Why RustChain enhances awesome-ai-agents:**
+
+**Production AI Agent Framework:**
+- **Universal Workflow Transpilation**: Converts between GitHub Actions, Airflow, Jenkins, Kubernetes via AI reasoning
+- **Enterprise Compliance**: Built-in GDPR, HIPAA, SOC2 compliance frameworks for regulated industries
+- **Performance**: 97% faster than Python alternatives with sub-second mission execution
+- **Multi-Agent Architecture**: Orchestrates multiple AI agents for complex workflow automation
+- **Production Ready**: Comprehensive error handling and enterprise deployment features
+
+**AI Agent Capabilities:**
+- **LLM-Powered Reasoning**: Uses AI agents to understand and convert workflow formats
+- **Multi-Provider Support**: Works with local LLMs (Shimmy, Ollama) and cloud providers
+- **Autonomous Execution**: AI agents execute multi-step missions independently
+- **Context Management**: Maintains state across agent interactions and workflow steps
+- **Dynamic Planning**: AI agents adapt execution based on runtime conditions
+
+### Links
+- [GitHub Repository](https://github.com/Michael-A-Kuykendall/rustchain-community)
+- Authors: [Michael A Kuykendall](https://github.com/Michael-A-Kuykendall)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
@@ -2455,6 +2485,32 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 - [Demo](https://www.youtube.com/watch?v=UCo7YeTy-aE)
 - [Twitter](https://twitter.com/SmolModels)
 - [Meme](https://smol.ai/)
+
+</details>
+
+## [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy)
+OpenAI-compatible inference server built in Rust
+
+<details>
+
+![image](https://raw.githubusercontent.com/Michael-A-Kuykendall/shimmy/main/assets/shimmy-logo.png)
+
+### Category
+Tool for agents, General purpose
+
+### Description
+Shimmy is a self-hosted AI inference server with OpenAI API compatibility, built in Rust for maximum performance.
+- Drop-in replacement for OpenAI API endpoints
+- Supports multiple model formats (GGUF, Core ML, etc.)
+- Built-in streaming and multimodal capabilities
+- Lightweight and fast (4.8MB binary)
+- MIT licensed, actively maintained
+- Perfect for AI agents requiring local inference
+
+### Links
+- [GitHub](https://github.com/Michael-A-Kuykendall/shimmy)
+- [Documentation](https://github.com/Michael-A-Kuykendall/shimmy#readme)
+- [Crates.io](https://crates.io/crates/shimmy)
 
 </details>
 
