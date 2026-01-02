@@ -2296,6 +2296,31 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [PolicyLayer](https://policylayer.com/)
+Non-custodial spending controls for AI agents with crypto wallets
+
+<details>
+
+### Category
+Infrastructure, Security, Crypto/Web3
+
+### Description
+PolicyLayer enforces spending limits on AI agent wallets without holding private keys. When agents need to make payments, PolicyLayer validates each transaction against configurable policies before signing is allowed.
+
+- **Non-custodial**: Your keys stay on your infrastructure. PolicyLayer only validates transaction intents.
+- **Two-gate enforcement**: Cryptographic verification prevents transaction tampering between approval and signing.
+- **Flexible controls**: Daily limits, per-transaction caps, recipient whitelists, and rate limiting.
+- **Multi-chain support**: Works with Ethereum, Base, Solana, and EVM-compatible chains.
+- **Drop-in SDK**: Adapters for Coinbase SDK, Viem, Ethers.js, Privy, and Dynamic.
+
+### Links
+- [Website](https://policylayer.com/)
+- [Documentation](https://policylayer.com/docs)
+- [GitHub](https://github.com/PolicyLayer/PolicyLayer)
+- [npm](https://www.npmjs.com/package/@policylayer/sdk)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
