@@ -2738,6 +2738,28 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Vedika](https://vedika.io/)
+AI-powered Vedic astrology API with multi-agent swarm
+
+<details>
+
+### Category
+Multi-agent, General purpose, API
+
+### Description
+- An AI-powered Vedic astrology API using multi-agent swarm architecture with 6 specialized AI agents
+- The agents include: Kundali Expert, Dasha Expert, Transit Expert, Dosha Expert, Remedies Expert, and Compatibility Expert
+- Enables natural language queries like "When should I start my business?" with contextual, personalized responses
+- Supports 22 languages including English, Hindi, Tamil, Telugu, and other Indic languages
+- Available as Python SDK (`vedika-sdk` on PyPI) and JavaScript SDK (`vedika-sdk` on npm)
+
+### Links
+- [Web](https://vedika.io/)
+- [Documentation](https://vedika.io/docs.html)
+- [API Reference](https://vedika.io/api-reference.html)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
