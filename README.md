@@ -3036,6 +3036,32 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 
 </details>
 
+## [Agents Squads](https://agents-squads.com/)
+AI agent teams with full traces & cost tracking
+
+<details>
+
+### Category
+Multi-agent, Developer tools, Productivity, Business intelligence
+
+### Description
+- Build AI agents your team can learn, understand, and own
+- Full execution traces for every agent decision - no black boxes
+- Real-time cost tracking per operation with budget controls
+- Squad-based organization: domain-aligned teams (marketing, engineering, etc.)
+- Claude Code and Cursor native integration
+- MCP server support (Supabase, GitHub, Firecrawl, etc.)
+- Enterprise guardrails and automated evaluations
+- CLI for managing agents, memory, and goals
+
+### Links
+- [Web](https://agents-squads.com/)
+- [Documentation](https://docs.agents-squads.com/)
+- [GitHub](https://github.com/agents-squads)
+- [X (Twitter)](https://x.com/agents_squads)
+
+</details>
+
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
