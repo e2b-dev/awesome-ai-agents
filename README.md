@@ -276,7 +276,7 @@ Multi-agent, Build-your-own
 - [Website](https://gpt3demo.com/apps/ai-legion)
 - [GitHub](https://github.com/eumemic/ai-legion)
 - [Twitter](https://twitter.com/dysmemic)
-</details>
+ls>
 
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
@@ -299,6 +299,28 @@ Coding, GitHub
 - Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
 - [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
 
+</details>
+
+## [AI Detect Lab](https://www.aidetectlab.com/)
+Professional-grade AI detector for hyper-realistic DiT images and multi-model text.
+
+<details>
+
+<img width="1520" height="1079" alt="aidetectlab" src="https://github.com/user-attachments/assets/5c18d683-b426-4789-8d8a-14fcc0288d31" />
+
+
+### Category
+AI Detection, Cybersecurity, Digital Trust
+
+### Description
+- **Next-gen Image Detection:** Specifically fine-tuned to capture the subtle fingerprints of **DiT (Diffusion Transformer)** architectures used in **Flux.1 and Midjourney v6**, which most open-source models (like CNNDetection) fail to catch.
+- **Professional Text Analysis:** Employs 4-dimensional structural logic analysis to identify human-like writing from **GPT-4o, Claude 3.5, and Gemini**.
+- **High Performance:** Provides professional-grade results in seconds via a web interface, eliminating the 30s+ wait times and complex GPU setups required by academic models.
+- **Privacy & Access:** 100% free, anonymous, and supports both English and Chinese content detection.
+
+### Links  
+- [Website](https://www.aidetectlab.com/)
+- [Product Hunt](https://www.producthunt.com/posts/ai-detect-lab)
 </details>
 
 ## [AIlice](https://github.com/myshell-ai/AIlice)
