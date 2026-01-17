@@ -2296,6 +2296,28 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenWork](https://github.com/different-ai/openwork)
+Open-source desktop GUI for OpenCode
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/different-ai/openwork/main/apps/openwork-landing/og.png)
+
+### Category
+Coding, GUI Agent
+
+### Description
+OpenWork is a desktop GUI for OpenCode that surfaces sessions, skills, plugins, and templates in a guided workflow.
+- Runs locally with OpenCode under the hood
+- Provides a UI for installing and managing OpenCode skills
+- Built for non-technical users who want a polished agent experience
+
+### Links
+- [Web](https://openwork.software/)
+- [GitHub](https://github.com/different-ai/openwork)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
