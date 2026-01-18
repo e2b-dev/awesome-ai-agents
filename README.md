@@ -2408,6 +2408,28 @@ Coding
 
 </details>
 
+## [Registry Broker](https://github.com/hashgraph-online/registry-broker)
+Universal index and routing layer for AI agents
+
+<details>
+
+### Category
+Infrastructure, Multi-agent
+
+### Description
+- Aggregates agent metadata from multiple registries (NANDA, MCP, Virtuals, OpenRouter, A2A, X402 Bazaar) across web2 and web3
+- Normalizes agent profiles into a unified schema
+- Provides protocol translation between different agent ecosystems
+- Optional blockchain integration via Hedera for verifiable agent identity
+- Open source under Apache 2.0 license
+
+### Links
+- [GitHub](https://github.com/hashgraph-online/registry-broker)
+- [Documentation](https://hol.org/docs/api/registry-broker)
+- [Website](https://hol.org)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
