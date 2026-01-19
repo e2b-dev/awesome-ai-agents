@@ -2425,7 +2425,7 @@ Infrastructure, Multi-agent
 
 ### Links
 - [GitHub](https://github.com/hashgraph-online/registry-broker)
-- [Documentation](https://hol.org/docs/api/registry-broker)
+- [Documentation](https://hol.org/registry/docs)
 - [Website](https://hol.org)
 
 </details>
