@@ -5486,6 +5486,28 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Zenable](https://zenable.io/)
+AI guardrails for coding agents
+
+<details>
+
+### Category
+Coding
+
+### Description
+- AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality
+- Real-time code analysis as AI generates code
+- Auto-fixes vulnerabilities (SQL injection, hardcoded secrets, architectural violations)
+- Integrates with 50+ IDEs (Cursor, Claude Code, VS Code) via MCP protocol, plus GitHub/GitLab
+- Privacy-first: never retains or trains on your code
+- Generous free tier available
+
+### Links
+- [Web](https://zenable.io/)
+- [Documentation](https://docs.zenable.io/)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
