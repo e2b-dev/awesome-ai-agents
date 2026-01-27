@@ -1652,6 +1652,32 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+
+## [Infinite Gratitude](https://github.com/sstklen/infinite-gratitude)
+Multi-agent research skill that brings back gifts like cats
+
+<details>
+
+![image](https://github.com/sstklen/infinite-gratitude/raw/main/assets/demo-10-cats-promotion.png)
+
+### Category
+Research, Multi-agent, Build your own
+
+### Description
+A multi-agent research skill for Claude Code that dispatches 5-10 parallel agents to research any topic, bringing back findings like cats bringing you mice.
+
+- **Three research modes**: Quick (5 agents), Normal (10 agents), Deep (10 agents x 3 waves)
+- **Parallel execution**: Agents work simultaneously for fast results
+- **Gift-based metaphor**: Each agent returns "gifts" (findings) to the main thread
+- **Claude Code integration**: Works as a skill within Claude Code CLI
+- **Made by 28 cats & dogs**: Created by the Washinmura animal shelter team in Japan
+
+### Links
+- [GitHub](https://github.com/sstklen/infinite-gratitude)
+- Author: [@sstklen](https://github.com/sstklen)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
