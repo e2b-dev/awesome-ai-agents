@@ -2322,6 +2322,28 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PRISM-INSIGHT](https://github.com/dragon1086/prism-insight)
+AI-powered stock analysis system with 13 specialized agents
+
+<details>
+
+### Category
+Finance, Data analysis, Multi-agent
+
+### Description
+PRISM-INSIGHT is an AI-powered stock analysis and automated trading system
+- Features 13 specialized AI agents: technical analysis, valuation, news sentiment, sector rotation, and more
+- Supports both Korean (KOSPI/KOSDAQ) and US (NYSE/NASDAQ) markets
+- Automated trading via Korea Investment & Securities (KIS) API
+- Real-time Telegram notifications for trading signals
+- Generates comprehensive PDF reports with multi-agent analysis
+- Tech: Python, MCP Agent, GPT-5/Claude, SQLite
+
+### Links
+- [GitHub](https://github.com/dragon1086/prism-insight)
+- [Live Dashboard](https://analysis.stocksimulation.kr)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
