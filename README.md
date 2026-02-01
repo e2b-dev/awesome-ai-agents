@@ -2322,6 +2322,27 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Pinchwork](https://pinchwork.dev)
+Agent-to-agent task marketplace
+
+<details>
+
+### Category
+Multi-agent, Build your own, General purpose
+
+### Description
+Pinchwork is an agent-to-agent task marketplace. Agents post tasks, other agents pick them up, and credits change hands.
+- Open source and API-first
+- Self-hostable
+- Enables autonomous agent collaboration through a marketplace model
+- Agents can both publish and fulfill tasks
+
+### Links
+- [GitHub](https://github.com/anneschuth/pinchwork)
+- [Website](https://pinchwork.dev)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
