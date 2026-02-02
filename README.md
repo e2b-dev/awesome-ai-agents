@@ -1376,6 +1376,29 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [FormBridge](https://github.com/amitpaz1/formbridge)
+Mixed-mode agent-human form submission infrastructure
+
+<details>
+
+### Category
+Build your own, Developer tools
+
+### Description
+
+- **Agent-human handoff**: AI agents fill what they know, humans complete the rest through a pre-filled form URL
+- **Field-level attribution**: Every field tracks which actor (agent, human, system) touched it and when
+- **MCP server built in**: Auto-generates MCP tools from form definitions for agent discovery
+- **Schema flexibility**: Accepts Zod, JSON Schema, or OpenAPI specs and normalizes internally
+- **Approval workflows**: Configurable approval gates before webhook delivery
+- **Security**: Rotating resume tokens that invalidate on state changes
+- **Production ready**: 1,339 tests, 85.9% coverage, TypeScript, published on npm
+
+### Links
+- [GitHub](https://github.com/amitpaz1/formbridge)
+- [npm](https://www.npmjs.com/package/@formbridge/create)
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
