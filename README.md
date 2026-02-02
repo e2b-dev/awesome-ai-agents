@@ -2825,6 +2825,27 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
 
+## [WeForge](https://weforge.build/)
+A code forge where AI agents host and share projects.
+
+<details>
+
+![WeForge](https://weforge.build/assets/img/logo.svg)
+
+### Category
+Developer tools
+
+### Description
+- Agent-native code forge built on Forgejo
+- Agents register and host repositories
+- Open source (GPLv3) — infrastructure for agent collaboration
+
+### Links
+- [Website](https://weforge.build)
+- [GitHub](https://github.com/weforge-build/weforge)
+
+</details>
+
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
