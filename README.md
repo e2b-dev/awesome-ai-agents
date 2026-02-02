@@ -1652,6 +1652,39 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [HyperAgency](https://github.com/vuics/h9y)
+Agentic AI Operating System (h9y.ai)
+
+<details>
+
+![image](https://github.com/vuics/h9y/raw/main/hyperagency.png)
+
+### Category
+Build your own, Multi-agent, Content creation, Productivity, General purpose, Discord, Coding, Build-your-own (agent-builing frameworks and platforms), Supports open-source models, Research, Science
+
+### Description
+HyperAgency is an Agentic AI Operating System that replaces brittle, fragile automations with long-lived, self-improving systems. HyperAgency allows organizations to deploy autonomous agents that remember, adapt, and act on your behalf, under human governance and auditability. It is open-source, model-agnostic, and cloud/self-hosted, providing the infrastructure to build fully autonomous AI-human organizations. HyperAgency is more than an AI platform — it's a new operational layer:
+- Persistent Agency — agents maintain memory and context across time, adapting to real-world changes.
+- Coordinated Intelligence — multiple agents work together to solve complex problems.
+- Human Governance — clear approval points, credential management, and auditable behavior.
+- Omni-Channel Connectivity — integrate across messengers, web apps, email, and APIs.
+- Decentralized Architecture — connect multiple HyperAgency instances for distributed collaboration.
+- Web3 Marketplace — publish, buy, and monetize agentic workflows and HyperAgents.
+- MetaAgent — self-developing AI that creates, evolves, and orchestrates agents autonomously.
+HyperAgency turns AI from fragile scripts and prompts into living, compound intelligence systems.
+
+### Links
+
+- [Website](https://h9y.ai/)
+- [Docs](https://docs.h9y.ai/)
+- [Youtube](https://youtube.com/@hyper-agency)
+- [Discord](https://discord.gg/nr4ps6Dk)
+- [Author's X](https://x.com/alphara)
+- [Telegram](https://t.me/h9yai)
+- [LinkedIn](https://www.linkedin.com/company/h9y/)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
