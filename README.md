@@ -279,6 +279,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+
+
+## [Agent OS](https://github.com/imran-siddique/agent-os)
+
+<details>
+
+### Category
+- General purpose
+- Coding
+
+### Description
+
+- A kernel architecture for governing autonomous AI agents
+- Deterministic policy enforcement - actions are blocked by the kernel, not by hoping the LLM follows instructions  
+- POSIX-inspired primitives: signals (SIGKILL, SIGSTOP), VFS, syscalls
+- Integrates with LangChain, CrewAI, OpenAI Assistants, MCP
+
+### Links
+- [Documentation](https://imran-siddique.github.io/agent-os-docs/)
+- [GitHub](https://github.com/imran-siddique/agent-os)
+- [npm (MCP Server)](https://www.npmjs.com/package/agentos-mcp-server)
+
+</details>
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
