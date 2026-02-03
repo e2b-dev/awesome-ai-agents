@@ -279,6 +279,30 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+
+
+## [AgentMesh](https://github.com/imran-siddique/agent-mesh)
+
+<details>
+
+### Category
+- General purpose
+- Multi-agent
+- Enterprise
+
+### Description
+
+- The trust layer for multi-agent AI systems ("SSL for AI Agents")
+- Agent identity with human sponsor accountability
+- Trust scoring and delegation chains
+- Compliance automation: SOC2, HIPAA, EU AI Act, GDPR
+- MCP governance proxy for Claude Desktop and other tools
+
+### Links
+- [GitHub](https://github.com/imran-siddique/agent-mesh)
+- [Related: Agent OS](https://github.com/imran-siddique/agent-os) (single-agent governance)
+
+</details>
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
