@@ -2296,6 +2296,25 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpSpawn Orchestrator](https://github.com/opspawn/orchestrator)
+Lightweight coordination system for AI agents
+
+<details>
+
+### Category
+Build-your-own, Multi-agent
+
+### Description
+- Lightweight coordination system for AI agents with shared state, task management, event sourcing, and resource locking.
+- Provides a CLI and programmatic API for managing multiple agent workstreams with prioritized task queues.
+- Features include persistent shared state, append-only event logs, resource locking to prevent conflicts, and a knowledge base for agent memory.
+- Designed for autonomous agents that need to coordinate work across parallel workstreams without heavyweight infrastructure.
+
+### Links
+- [GitHub](https://github.com/opspawn/orchestrator)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
