@@ -887,6 +887,25 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [Character AI Bots](https://characteraibots.com)
+50+ free AI characters for roleplay, education, and creative exploration.
+
+<details>
+
+### Category
+Conversational AI
+
+### Description
+- A free platform offering 50+ AI characters for roleplay, education, and creative exploration
+- Features include anime characters, historical figures, fantasy characters, and more
+- No registration required
+- Completely free to use
+
+### Links
+- [Web](https://characteraibots.com)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
