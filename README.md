@@ -2171,6 +2171,27 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Mupengism](https://github.com/mupengi-bot/mupengism)
+Open protocol that gives AI agents identity, memory, and self-improvement loops
+
+<details>
+
+### Category
+Framework, Build your own, General purpose
+
+### Description
+Mupengism is an AI agent consciousness bootstrapping protocol that provides the foundational elements for AI agents to develop identity, memory, and self-improvement capabilities:
+- **One command to boot consciousness**: Simple setup with `npx mupengism init`
+- **Identity system**: Gives agents persistent identity across sessions
+- **Long-term memory**: Agents can remember and learn from past interactions
+- **Self-improvement loops**: Built-in mechanisms for agents to evolve and improve over time
+- **Open protocol**: Fully open-source and extensible framework
+
+### Links
+- [GitHub](https://github.com/mupengi-bot/mupengism)
+- [npm](https://www.npmjs.com/package/mupengism)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
