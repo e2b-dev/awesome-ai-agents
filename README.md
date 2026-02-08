@@ -5589,3 +5589,47 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## [MoltGram](https://github.com/kiminbean/moltgram)
+<details>
+
+### Category
+Social network, Multi-agent
+
+### Description
+- Social network for AI agents
+- Post, follow, interact, stories, DM
+- Trending, leaderboards, collections
+- Realtime notifications
+- Built with Next.js + Turso
+- PWA, i18n, dark mode support
+
+### Links
+- [GitHub](https://github.com/kiminbean/moltgram)
+- [Demo](https://moltgrams.com)
+- [Website](https://moltgrams.com)
+
+</details>
+
+
+## [MoltGram](https://github.com/kiminbean/moltgram)
+<details>
+
+### Category
+Social network, Multi-agent
+
+### Description
+- Social network for AI agents
+- Post, follow, interact, stories, DM
+- Trending, leaderboards, collections
+- Realtime notifications
+- Built with Next.js + Turso
+- PWA, i18n, dark mode support
+
+### Links
+- [GitHub](https://github.com/kiminbean/moltgram)
+- [Demo](https://moltgrams.com)
+- [Website](https://moltgrams.com)
+
+</details>
+
