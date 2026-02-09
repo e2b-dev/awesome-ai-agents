@@ -959,6 +959,29 @@ Science, Chemistry
 
 </details>
 
+## [ClawdTalk](https://github.com/team-telnyx/clawdtalk-client)
+Voice calling skill for AI agents, enabling phone-based interaction with deep tool integration
+
+<details>
+
+![Image](https://clawdtalk.com/assets/logo.svg)
+
+### Category
+Voice/Communication, General purpose
+
+### Description
+- ClawdTalk enables AI agents to receive and make phone calls with deep tool integration
+- Built for OpenClaw, powered by Telnyx for telephony
+- Supports calendar integration, Jira, web search, and more
+- Call your AI agent from any phone for seamless voice interaction
+
+### Links
+- [Website](https://clawdtalk.com)
+- [GitHub](https://github.com/team-telnyx/clawdtalk-client)
+- [Category: Voice AI / AI Agents / Communication]
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
