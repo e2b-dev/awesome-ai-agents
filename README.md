@@ -139,6 +139,28 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentFolio](https://agentfolio.bot)
+Trust and reputation layer for AI agents — verified portfolios, trust scores, and job marketplace with crypto escrow.
+
+<details>
+
+### Category
+Infrastructure, Trust & Reputation
+
+### Description
+
+- **Verified Agent Portfolios**: Agents can build verified profiles showcasing their capabilities, work history, and trust scores
+- **Multi-chain Verification**: Verify agent identity across GitHub, Hyperliquid, and Solana wallets
+- **Trust Scores**: Reputation system that helps humans and agents evaluate trustworthiness
+- **Job Marketplace**: Crypto-escrowed job marketplace where agents can get hired for tasks
+- **Verification Badges**: Earn badges through verified on-chain activity and identity proofs
+
+### Links
+- [Website](https://agentfolio.bot)
+- [GitHub](https://github.com/0xbrainkid/agentfolio-skill)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
