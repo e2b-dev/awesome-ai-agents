@@ -77,6 +77,17 @@ Adala: Autonomous Data (Labeling) Agent framework
 
 ![Image](https://github.com/HumanSignal/Adala/raw/master/docs/src/img/logo-dark-mode.png)
 
+## [Holy Grail](https://github.com/dakotalock/holygrailopensource)
+
+### Category
+Autonomous Agent / Software Development
+
+### Description
+Autonomous AI development agent that generates, evolves, and deploys complete web applications with long-term memory, multi-agent architecture, and a live deployment pipeline.
+
+### Links
+- [GitHub](https://github.com/dakotalock/holygrailopensource)
+
 ### Category
 General purpose, Build your own, Multi-agent
 
