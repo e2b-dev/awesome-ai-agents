@@ -3578,6 +3578,31 @@ Data analysis, Content creation, Productivity, Research, Marketig, Sales, Busine
 
 </details>
 
+## [Chitin](https://chitin.id)
+On-chain soul identity infrastructure for AI agents
+
+<details>
+
+### Category
+Infrastructure, Web3, Identity
+
+### Description
+- On-chain soul identity, certificates, and governance for AI agents on Base L2
+- Issues Soulbound Tokens (EIP-5192) as verifiable birth certificates for AI agents
+- ERC-8004 agent passports for cross-chain identity
+- W3C DID resolution, on-chain certificates, and multi-method governance voting
+- Immutable genesis records stored on Arweave
+- MCP server for tool-native integration (`npx chitin-mcp-server`)
+
+### Links
+- [Web](https://chitin.id)
+- [Certificates](https://certs.chitin.id)
+- [Governance](https://vote.chitin.id)
+- [MCP Server](https://www.npmjs.com/package/chitin-mcp-server)
+- [Documentation](https://chitin.id/docs)
+
+</details>
+
 ## [Claros AI Shopper](https://www.claros.so/)
 AI shopper that finds products for your taste
 <details>
