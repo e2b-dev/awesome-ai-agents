@@ -2296,6 +2296,32 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenSpawn](https://github.com/openspawn/openspawn)
+Self-hosted platform for multi-agent coordination
+
+<details>
+
+![Image](https://openspawn.github.io/openspawn/demo/assets/og-image.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+OpenSpawn is a self-hosted platform for managing AI agent operations at scale with budgets, trust scoring, and task workflows.
+- **Credit System**: Set budgets per agent, track spending, prevent runaway costs
+- **Trust & Reputation**: Agents earn trust through successful task completion, unlock higher autonomy
+- **Task Workflow**: Kanban-style task management with dependencies, assignments, and state transitions
+- **Agent Hierarchy**: Parent-child relationships with delegated authority (L1-L10 levels)
+- **MCP Integration**: Model Context Protocol server for tool-based agent access
+- **Real-time Dashboard**: Monitor agents, tasks, credits, and messages in one place
+
+### Links
+- [GitHub](https://github.com/openspawn/openspawn)
+- [Documentation](https://openspawn.github.io/openspawn/)
+- [Live Demo](https://openspawn.github.io/openspawn/demo/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
