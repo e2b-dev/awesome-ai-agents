@@ -2253,6 +2253,83 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OpenClaw Context Optimizer](https://github.com/AtlasPA/openclaw-context-optimizer)
+Intelligent context compression for AI agents
+
+<details>
+
+### Category
+Cost optimization, Context management, Agent infrastructure
+
+### Description
+OpenClaw Context Optimizer intelligently compresses AI agent context to reduce token usage by 30-70% while maintaining response quality. It uses multiple compression strategies including deduplication, pruning, summarization, and template removal.
+
+Key features:
+- **Multi-strategy compression**: Deduplication, pruning, summarization, template removal, and hybrid approaches
+- **Pattern learning**: Identifies and learns common patterns to optimize future compressions
+- **Quality scoring**: Tracks compression quality to ensure response accuracy
+- **Cost tracking**: Analyzes savings vs. uncompressed context
+- **Free tier**: 100 compressions per day
+- **Pro tier**: Unlimited compressions via x402 payment (0.5 USDT/month)
+
+### Links
+- [GitHub](https://github.com/AtlasPA/openclaw-context-optimizer)
+- [Documentation](https://github.com/AtlasPA/openclaw-context-optimizer#readme)
+
+</details>
+
+## [OpenClaw Cost Governor](https://github.com/AtlasPA/openclaw-cost-governor)
+Comprehensive cost tracking and budget management for AI agents
+
+<details>
+
+### Category
+Cost optimization, Budget management, Agent infrastructure
+
+### Description
+OpenClaw Cost Governor provides real-time cost tracking and budget management for AI agents across multiple providers (OpenAI, Anthropic, Google). It prevents budget overruns and provides detailed analytics.
+
+Key features:
+- **Multi-tier budgets**: Set hourly, daily, and monthly budget limits
+- **Real-time monitoring**: Track costs across all API calls with sub-millisecond overhead
+- **Provider support**: Works with OpenAI, Anthropic, Google Gemini, and custom providers
+- **Spending alerts**: Configurable warnings at 50%, 75%, and 90% of budget
+- **Automatic blocking**: Prevents requests when budget is exceeded
+- **Detailed analytics**: Per-model, per-provider, and time-based cost analysis
+- **SQLite persistence**: All data stored locally with WAL mode for performance
+
+### Links
+- [GitHub](https://github.com/AtlasPA/openclaw-cost-governor)
+- [Documentation](https://github.com/AtlasPA/openclaw-cost-governor#readme)
+
+</details>
+
+## [OpenClaw Memory System](https://github.com/AtlasPA/openclaw-memory)
+Semantic memory and context management for AI agents
+
+<details>
+
+### Category
+Memory management, Context optimization, Agent infrastructure
+
+### Description
+OpenClaw Memory System provides semantic memory capabilities for AI agents using vector embeddings. It enables long-term knowledge persistence and intelligent context retrieval.
+
+Key features:
+- **Vector embeddings**: Uses OpenAI embeddings for semantic similarity search
+- **Intelligent retrieval**: Returns most relevant memories based on query context
+- **Importance scoring**: Automatically scores memory importance for prioritization
+- **Context optimization**: Helps agents maintain relevant context across long sessions
+- **Conversation tracking**: Links memories to specific sessions and conversations
+- **Free tier**: 1000 memories with 100 retrievals per day
+- **Pro tier**: Unlimited memories and retrievals via x402 (0.5 USDT/month)
+
+### Links
+- [GitHub](https://github.com/AtlasPA/openclaw-memory)
+- [Documentation](https://github.com/AtlasPA/openclaw-memory#readme)
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
