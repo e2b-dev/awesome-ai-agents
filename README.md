@@ -320,6 +320,23 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs)
+Deep-dive tutorials for popular open-source projects
+<details>
+
+### Category
+Software development, Learning resources
+
+### Description
+- A curated repository of chapter-based technical tutorials covering AI agents, LLM infrastructure, MCP tooling, and modern developer platforms.
+- Focused on architecture, core subsystem walkthroughs, and production patterns instead of quick-start snippets.
+
+### Links  
+- [GitHub](https://github.com/johnxie/awesome-code-docs)
+- [A-Z Directory](https://github.com/johnxie/awesome-code-docs/blob/main/discoverability/tutorial-directory.md)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
