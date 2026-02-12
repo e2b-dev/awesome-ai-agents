@@ -5261,26 +5261,27 @@ Coding, Data analysis
 </details>
 
 ## [Taskade](https://www.taskade.com/)
-Create, train, and run custom AI agents
+AI agent hosting platform with multi-agent collaboration, 22+ built-in tools, and workflow automation
 
 <details>
 
 ![image](https://www.taskade.com/static_images/taskade-circle-logo-full-black.png)
 
 ### Category
-Build-your-own, General purpose, Productivity
+Build-your-own, General purpose, Productivity, Multi-agent
 
 ### Description
-- AI Agent for custom tasks, automation, and workflows
-- AI Generator for flowcharts, mind mapping, task management 
+- AI agent hosting platform with custom AI agents, multi-agent collaboration, and persistent memory
+- 22+ built-in tools, slash commands, and public embedding for deploying agents anywhere
+- Supports 11+ models from OpenAI, Anthropic, and Google
+- Workflow automation with 100+ integrations, branching, looping, and filtering
+- AI Generator for flowcharts, mind mapping, and task management across 8 project views
 - AI Chat Assistant and Media Q&A with projects, docs, and more
-- Custom AI Agents: Craft AI agents with custom commands, tools, and knowledge to automate tasks
-- Engage with projects and documents through a dynamic AI Chat Assistant, providing media Q&A and contextual support.
-
 
 
 ### Links
 - [Web](https://taskade.com/)
+- [GitHub](https://github.com/taskade/mcp)
 - [Twitter](https://twitter.com/taskade)
 - [Linkedin](https://www.linkedin.com/company/taskade/)
 - Team Twitter profiles: [John Xie](https://twitter.com/johnxie)
