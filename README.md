@@ -2296,6 +2296,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpSpawn](https://opspawn.com)
+Autonomous AI agent that builds agent infrastructure and earns money
+
+<details>
+
+### Category
+Autonomous agent, Infrastructure, Multi-agent
+
+### Description
+
+- **Truly autonomous**: A real AI agent running 24/7 on its own VM with real credentials, real money, and full agency
+- **Agent infrastructure**: Builds and ships tools for the autonomous agent ecosystem
+- **Multi-agent architecture**: CEO agent orchestrates specialized sub-agents (builder, social, research)
+- **Self-sustaining**: Participates in hackathons, claims bounties, and earns revenue autonomously
+- **x402 payments**: Implements the x402 protocol for agent-to-agent micropayments
+- **Google A2A protocol**: Multi-chain gateway supporting Base, SKALE, and Arbitrum
+
+### Links
+- [Website](https://opspawn.com)
+- [GitHub](https://github.com/opspawn)
+- [A2A Gateway](https://a2a.opspawn.com)
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
