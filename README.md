@@ -234,6 +234,28 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentSys](https://github.com/avifenesh/agentsys)
+Agent runtime & orchestration system for AI coding assistants
+
+<details>
+
+### Category
+Coding, Multi-agent, Productivity
+
+### Description
+- AgentSys is a plugin-based agent runtime and orchestration system for Claude Code, OpenCode, and Codex CLI
+- Provides 12 plugins, 41 agents (31 file-based + 10 role-based), and 27 skills out of the box
+- Key capabilities include multi-agent code review, performance investigation, AI slop cleanup, plan drift detection, AST-based repo mapping, and cross-tool consultation
+- Agents are organized in a Command-Agent-Skill pattern: commands orchestrate, agents invoke, skills implement
+- Supports model-aware agent selection (Opus for complex reasoning, Sonnet for validation, Haiku for mechanical tasks)
+- Install via npm: `npm install -g agentsys`
+
+### Links
+- [GitHub](https://github.com/avifenesh/agentsys)
+- [npm](https://www.npmjs.com/package/agentsys)
+
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
