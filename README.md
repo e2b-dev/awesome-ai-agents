@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [AgentIndex](https://github.com/agentidx/agentindex) - Discovery service for AI agents. Indexes 36,000+ agents from GitHub, npm, PyPI, HuggingFace, and MCP registries. Supports A2A protocol and semantic search.
