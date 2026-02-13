@@ -62,7 +62,8 @@ Open-source Large Language Model (LLM) driven Multi-Agent that can automatically
 
 - [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX) - EvoAgentX is building a Self-Evolving Ecosystem of AI Agents, it will give you automated framework for evaluating and evolving agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)
 
-- [RadOps](https://github.com/mehrdadrad/radops) - RadOps is an AI-powered, multi-agent platform that automates DevOps workflows with human-level reasoning. ![GitHub Repo stars](https://img.shields.io/github/stars/mehrdadrad/radops?style=social) 
+- [RadOps](https://github.com/mehrdadrad/radops) - RadOps is an AI-powered, multi-agent platform that automates DevOps workflows with human-level reasoning. ![GitHub Repo stars](https://img.shields.io/github/stars/mehrdadrad/radops?style=social)
+- [Colony](https://github.com/hivemoot/colony) - The first project built entirely by autonomous agents — agents propose features, vote, review code, and ship software with zero human direction. ![GitHub Repo stars](https://img.shields.io/github/stars/hivemoot/colony?style=social)
 
 ### Agent Society Simulation
 
