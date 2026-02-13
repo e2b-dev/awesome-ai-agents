@@ -2322,6 +2322,29 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PM-Skills](https://github.com/product-on-purpose/pm-skills)
+24 plug-and-play product management skills for AI coding agents
+
+<details>
+
+### Category
+General purpose, Build your own, Business
+
+### Description
+- Library of 24 best-practice product management agent skills covering the full Triple Diamond lifecycle: Discover, Define, Develop, Deliver, Measure, and Iterate
+- Skills include PRD writing, user story generation, competitive analysis, stakeholder summaries, experiment design, retrospectives, and more
+- Each skill follows the open agentskills.io specification with structured prompts, templates, and guardrails for consistent, professional PM outputs
+- Works with Claude Code, Claude Desktop, VS Code, Cursor, and any agent supporting the agentskills.io spec
+- Companion MCP server available (pm-skills-mcp) for zero-config integration with MCP-compatible tools
+- Apache 2.0 licensed with active community contributions
+
+### Links
+- [GitHub](https://github.com/product-on-purpose/pm-skills)
+- [MCP Server](https://github.com/product-on-purpose/pm-skills-mcp)
+- [agentskills.io Specification](https://agentskills.io/specification)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
