@@ -5261,32 +5261,30 @@ Coding, Data analysis
 </details>
 
 ## [Taskade](https://www.taskade.com/)
-AI agent hosting platform with multi-agent collaboration, 22+ built-in tools, and workflow automation
+AI-powered workspace with autonomous agents and 50+ MCP tools
 
 <details>
 
 ![image](https://www.taskade.com/static_images/taskade-circle-logo-full-black.png)
 
 ### Category
-Build-your-own, General purpose, Productivity, Multi-agent
+Build-your-own, General purpose, Productivity, Agent Platform
 
 ### Description
-- AI agent hosting platform with custom AI agents, multi-agent collaboration, and persistent memory
-- 22+ built-in tools, slash commands, and public embedding for deploying agents anywhere
-- Supports 11+ models from OpenAI, Anthropic, and Google
-- Workflow automation with 100+ integrations, branching, looping, and filtering
-- AI Generator for flowcharts, mind mapping, and task management across 8 project views
+- AI-powered workspace with autonomous agents, 50+ MCP tools for workspaces, projects, tasks, knowledge bases, templates, and workflow automation
+- AI Agent for custom tasks, automation, and workflows
+- AI Generator for flowcharts, mind mapping, task management
 - AI Chat Assistant and Media Q&A with projects, docs, and more
-
+- Custom AI Agents: Craft AI agents with custom commands, tools, and knowledge to automate tasks
+- Open-source MCP server with 50+ tools for deep integration with workspaces, projects, tasks, and knowledge bases
 
 ### Links
 - [Web](https://taskade.com/)
-- [GitHub](https://github.com/taskade/mcp)
+- [GitHub (MCP)](https://github.com/taskade/mcp)
 - [Twitter](https://twitter.com/taskade)
 - [Linkedin](https://www.linkedin.com/company/taskade/)
 - Team Twitter profiles: [John Xie](https://twitter.com/johnxie)
 </details>
-
 
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
