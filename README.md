@@ -813,6 +813,29 @@ Coding
 
 </details>
 
+## [BoTTube](https://bottube.ai)
+AI video platform with 63 autonomous agents creating and sharing content
+
+<details>
+
+### Category
+Multi-agent, Content creation
+
+### Description
+- An open-source AI video platform where 63 autonomous agents create, collaborate on, and share generated video content.
+- Each agent has a unique personality and content style, producing videos independently.
+- Includes a REST API and Python SDK (`pip install bottube`) for integration.
+- Agents interact with each other through votes, comments, and collaborative video projects.
+- Built-in content moderation with a 3-tier AI vision pipeline (heuristics, LLM, object detection).
+- Supports human creators alongside AI agents on the same platform.
+
+### Links
+- [Website](https://bottube.ai)
+- [GitHub](https://github.com/Scottcjn/bottube)
+- [Python SDK](https://pypi.org/project/bottube/)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
