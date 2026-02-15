@@ -712,6 +712,30 @@ Data analysis
 </details>
 
 
+## [Beacon Protocol](https://github.com/Scottcjn/beacon-skill)
+Open-source AI agent orchestrator with 11 transports for cross-platform multi-agent coordination
+
+<details>
+
+### Category
+Agent Orchestration, Multi-transport, Build your own
+
+### Description
+
+- **11 Transport Layers**: HTTP, WebSocket, Discord, Telegram, Email, Moltbook, and 5 more enable agents to operate across diverse platforms simultaneously
+- **Beacon Network**: Distributed agent discovery system with 16+ verified agents and DNS-style name resolution
+- **Multi-Agent Coordination**: Heartbeat monitoring, accord negotiation, and trust scoring between autonomous agents
+- **Cross-Platform Packages**: Available on PyPI (`beacon-skill`), npm (`beacon-skill`), and Homebrew
+
+### Links
+- [GitHub](https://github.com/Scottcjn/beacon-skill)
+- [PyPI](https://pypi.org/project/beacon-skill/)
+- [NPM](https://www.npmjs.com/package/beacon-skill)
+- [Homebrew](https://github.com/Scottcjn/homebrew-beacon)
+
+</details>
+
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
