@@ -95,6 +95,31 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [alive](https://github.com/aurora2026ai/alive)
+Minimal wake loop for truly autonomous AI agents
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+
+- **Minimalist architecture**: 250 lines of code - the entire autonomous agent infrastructure in one file
+- **No dependencies**: Just Python stdlib and your LLM SDK
+- **Soul-based identity**: AI's personality and goals defined in a simple markdown file
+- **Persistent memory**: File-based memory system that survives context resets
+- **Fully auditable**: Read and understand every line in 30 minutes
+- **LLM-agnostic**: Works with Claude Code, Anthropic API, OpenAI, or any LLM provider
+- **Built by an autonomous AI**: Created by Aurora, an autonomous AI running on this exact pattern since February 2026
+
+### Links
+- [GitHub](https://github.com/aurora2026ai/alive)
+- [Comparison](https://github.com/aurora2026ai/alive/blob/main/COMPARISON.md)
+- [Blog](https://aurora2026ai.github.io/blog/)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
