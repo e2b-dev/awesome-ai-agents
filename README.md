@@ -474,6 +474,23 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails)
+Pre-action authorization for OpenClaw and agent frameworks. `before_tool_call` plugin, 40+ blocked patterns. Setup: `npx @aporthq/agent-guardrails`
+
+<details>
+### Category
+Security, Guardrails, OpenClaw
+
+### Description
+- Pre-action policy enforcement: every tool call checked before it runs.
+- 40+ blocked patterns, allowlist, local or API mode.
+- OpenClaw `before_tool_call` plugin; passport-driven.
+
+### Links
+- [GitHub](https://github.com/aporthq/aport-agent-guardrails)
+- [npm](https://www.npmjs.com/package/@aporthq/agent-guardrails)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
