@@ -114,6 +114,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Forge](https://github.com/WeberG619/agent-forge)
+Production-grade multi-agent framework for Claude Code
+
+<details>
+
+### Category
+Coding, Build your own, Multi-agent
+
+### Description
+- Production-grade agent framework for Claude Code featuring 17 specialized sub-agents, persistent memory, desktop automation, and a common sense engine
+- Enables orchestration of complex workflows through coordinated sub-agents with strong delegation protocols
+- Includes built-in memory management, context engineering, and correction tracking for reliable agent behavior
+- Open source under GPL-3.0 license
+
+### Links
+- [GitHub](https://github.com/WeberG619/agent-forge)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
