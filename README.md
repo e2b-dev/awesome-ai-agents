@@ -2196,6 +2196,24 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OMEGA](https://github.com/omega-memory/omega-memory)
+Persistent memory system for AI coding agents
+
+<details>
+
+### Category
+Coding, Memory, Infrastructure
+
+### Description
+OMEGA is a persistent memory system for AI coding agents, delivered as an MCP server. Ranked #1 on the LongMemEval benchmark (95.4%, 466/500). Provides 12 MCP tools for semantic search, auto-capture, and cross-session learning. Decisions, lessons, and context persist across sessions. Local-first with zero cloud dependency. Works with Claude Code, Cursor, Cline, and any MCP-capable client.
+
+### Links
+- [GitHub](https://github.com/omega-memory/omega-memory)
+- [Website](https://omegamax.co)
+- [PyPI](https://pypi.org/project/omega-memory/)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
