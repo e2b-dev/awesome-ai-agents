@@ -1422,6 +1422,28 @@ Coding
 
 </details>
 
+## [Frontman](https://github.com/frontman-ai/frontman)
+Open-source AI coding agent that lives in the browser
+
+<details>
+
+![Image](https://github.com/frontman-ai/frontman/raw/main/assets/frontman-banner.png)
+
+### Category
+Coding
+
+### Description
+- Frontman is an open-source AI coding agent that lives in your browser — click any element, describe changes in plain English, and get real code edits with hot reload.
+- Visual element selection lets you point at what you want to change instead of describing file paths and line numbers.
+- Supports Next.js, Vite, and Astro projects out of the box.
+- Runs locally alongside your dev server, keeping your code and context on your machine.
+
+### Links
+- [GitHub](https://github.com/frontman-ai/frontman)
+- [Website](https://frontman.sh/)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
