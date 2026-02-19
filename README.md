@@ -3850,6 +3850,25 @@ Devin is in early phase now, but according to demo, it has the following capabil
 </details>
 
 
+## [Dreamlit AI](https://dreamlit.ai/)
+AI email agent that turns database events into workflows
+
+<details>
+
+### Category
+Coding, Productivity
+
+### Description
+- End-to-end AI email agent that converts database events into automated email workflows
+- Connects directly to Postgres/Supabase databases — no APIs, SDKs, or manual syncing required
+- Generate production-ready email templates and copy from plain-English prompts
+- Supports welcome sequences, broadcasts, recurring emails, and real-time triggered messages
+
+### Links
+- [Web](https://dreamlit.ai/)
+
+</details>
+
 ## [Diagram](https://diagram.com/)
 AI design tools for everyone, acquired by Figma
 
