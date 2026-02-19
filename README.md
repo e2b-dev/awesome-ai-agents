@@ -2070,7 +2070,7 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 </details>
 
-## [MOSS](https://github.com/mosscomputing/moss)
+## [MOSS](https://pypi.org/project/moss-sdk/)
 Cryptographic signing platform for AI agents
 
 <details>
@@ -2087,7 +2087,7 @@ Security, Compliance, Audit, Build your own
 - Multi-language SDKs: Python, TypeScript, Rust, Java, C#/.NET
 
 ### Links
-- [GitHub](https://github.com/mosscomputing/moss)
+- [GitHub](https://pypi.org/project/moss-sdk/)
 - [Website](https://mosscomputing.com)
 - [PyPI](https://pypi.org/project/moss-sdk/)
 
