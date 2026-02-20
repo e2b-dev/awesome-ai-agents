@@ -1966,6 +1966,25 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Mantra](https://mantra.gonewx.com)
+Time-travel debugger for AI coding sessions
+
+<details>
+
+### Category
+Coding, Debugging, Developer tools
+
+### Description
+- Mantra is a time-travel debugger for AI coding sessions. It replays Claude Code, Cursor, Gemini CLI, and Codex sessions as navigable timelines.
+- Desktop app available for macOS, Windows, and Linux. Fully local — no cloud required.
+- Helps developers understand, review, and learn from AI-assisted coding sessions by visualizing the full history of changes, prompts, and outputs.
+
+### Links
+- [Web](https://mantra.gonewx.com)
+- [GitHub](https://github.com/mantra-hq/mantra-releases)
+- [Discord](https://discord.gg/hZ73MMfJxy)
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
