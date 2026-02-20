@@ -4762,6 +4762,29 @@ By creator of GitHub Copilot, in waitlist stage
 </details>
 
 
+## [Molten.bot](https://molten.bot/)
+Managed hosting for OpenClaw AI agents
+<details>
+
+![image](https://molten.bot/logo.svg)
+
+### Category
+General purpose, Productivity, Infrastructure
+
+### Description
+- Managed cloud hosting for OpenClaw, the open-source AI agent framework
+- Sign up and get an AI assistant running in minutes — no DevOps required
+- Handles infrastructure, security, sandboxing, and 24/7 uptime
+- Connect to Gmail, Calendar, Slack, GitHub, and more
+- The team uses their own AI agent (MoltonBot000) as an employee that ships production code daily
+
+### Links
+- [Website](https://molten.bot/)
+- [Blog](https://molten.bot/blog/)
+- [Twitter](https://twitter.com/mikifriki)
+</details>
+
+
 ## [MultiOn](https://multion.ai/)
 Book a flight or order a burger with MultiOn
 <details>
