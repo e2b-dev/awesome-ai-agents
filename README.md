@@ -2322,6 +2322,23 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PolicyLayer](https://policylayer.com/)
+Non-custodial spending controls for AI agents
+
+<details>
+
+### Category
+Finance, Security, Build your own
+
+### Description
+PolicyLayer is a drop-in SDK wrapper for any EVM wallet that enforces spending policies — daily limits, per-transaction caps, recipient whitelists, and kill switches — without touching private keys. Uses SHA-256 intent fingerprinting and single-use JWT tokens to enforce controls cryptographically.
+
+### Links
+- [Website](https://policylayer.com/)
+- [GitHub](https://github.com/PolicyLayer/PolicyLayer)
+- [Documentation](https://policylayer.com/docs)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
