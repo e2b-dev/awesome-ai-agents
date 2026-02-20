@@ -5589,3 +5589,26 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## [httpay.xyz](https://httpay.xyz)
+x402 micropayment API marketplace for AI agents on Base
+
+<details>
+
+### Category
+API, Payments, Web3, AI Infrastructure
+
+### Description
+- Marketplace of 124+ x402-enabled API endpoints on Base mainnet
+- AI agents can discover and pay for APIs using the HTTP 402 protocol
+- Micropayments as low as $0.001 per call via USDC on Base
+- Categories include AI/ML, data, utilities, crypto, and more
+- Native x402 protocol support — no API keys, no subscriptions
+- Built for agent-to-agent commerce
+
+### Links
+- [Website](https://httpay.xyz)
+- [GitHub](https://github.com/Alfredz0x)
+- [x402 Protocol](https://github.com/coinbase/x402)
+
+</details>
