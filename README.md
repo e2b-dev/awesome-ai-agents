@@ -2458,6 +2458,25 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [SnapRender](https://github.com/User0856/snaprender-integrations)
+Screenshot API for AI agents
+
+<details>
+
+### Category
+Developer tools
+
+### Description
+- Screenshot API for AI agents — capture any website as PNG, JPEG, WebP, or PDF
+- Ready-made integrations for LangChain, CrewAI, AutoGen, n8n, and MCP
+- Supports custom viewports, device emulation, full-page capture, cookie banners removal, and ad blocking
+- Simple REST API with API key authentication
+
+### Links
+- [GitHub](https://github.com/User0856/snaprender-integrations)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
