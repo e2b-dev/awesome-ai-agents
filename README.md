@@ -1966,6 +1966,26 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Manifest](https://manifest.build)
+Cost observability platform for AI agents
+
+<details>
+
+### Category
+Agent Infrastructure, Observability, Monitoring
+
+### Description
+Manifest is a cost observability platform for AI agents that tracks token usage, costs, and actions across LLM providers.
+- Tracks token usage, costs, and actions across multiple LLM providers
+- Privacy-focused and self-hostable
+- Provides visibility into AI agent spending and behavior
+
+### Links
+- [GitHub](https://github.com/mnfst/manifest)
+- [Web](https://manifest.build)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
