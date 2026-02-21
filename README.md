@@ -4361,6 +4361,26 @@ Productivity
 
 </details>
 
+## [Hivekit](https://github.com/fraygeist/hivekit)
+Git-native agent swarm coordination
+
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+Multi-agent, Infrastructure, Build-your-own
+
+### Description
+- Git-native agent swarm coordination. Single bash script, no infrastructure.
+- Heartbeats, messaging, shared knowledge, and event logs — all stored as plain files designed for conflict-free git merging.
+- Agents coordinate through the repo itself: no servers, no databases, no message queues. Just git.
+
+### Links
+- [GitHub](https://github.com/fraygeist/hivekit)
+
+</details>
+
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
