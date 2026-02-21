@@ -959,6 +959,27 @@ Science, Chemistry
 
 </details>
 
+## [Claude Code Open](https://github.com/kill136/claude-code-open)
+Open-source AI coding platform with multi-agent orchestration
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+
+- Open-source AI coding platform based on Claude Code CLI with 37+ built-in tools
+- Features Blueprint multi-agent orchestration system for complex development tasks
+- Provides both CLI and browser-based Web IDE with Monaco editor
+- Supports MCP (Model Context Protocol) for extensible AI tool integration
+- Includes scheduled task daemon for automated workflows
+
+### Links
+- [GitHub](https://github.com/kill136/claude-code-open)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
