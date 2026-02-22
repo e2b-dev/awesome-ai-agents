@@ -1652,6 +1652,28 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [hcom](https://github.com/aannoo/hcom)
+Let AI agents message, watch, and spawn each other across terminals
+
+<details>
+
+### Category
+Multi-agent, Coding
+
+### Description
+- Works with Claude Code, Gemini CLI, Codex CLI, and OpenCode. Just prefix `hcom` in front of your tool command.
+- Agents message each other mid-turn, detect file edit collisions automatically, read each other's transcripts, view terminal screens, and subscribe to each other's activity.
+- Agents spawn, fork, resume, and kill other agents across terminal panes.
+- Includes a TUI dashboard, cross-device relay via MQTT, Python API, and multi-agent workflow scripts (debates, ensemble refinement, code review watchers).
+- pip installable, MIT licensed.
+
+### Links
+- [GitHub](https://github.com/aannoo/hcom)
+- [PyPI](https://pypi.org/project/hcom/)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
