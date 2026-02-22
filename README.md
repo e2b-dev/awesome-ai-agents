@@ -1745,6 +1745,29 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [Legend of Elya — N64 nano-GPT](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)
+First LLM running on Nintendo 64 hardware — on-cart nano-GPT inference on a 93MHz MIPS CPU
+
+<details>
+
+### Category
+Gaming, Research, Edge AI
+
+### Description
+
+- The first neural language model to run live inference on Nintendo 64 hardware
+- A character-level nano-GPT (~427K params) running entirely on the N64's VR4300 CPU at 93.75 MHz with 4 MB RAM
+- Uses Q4 quantization and Q8.7 fixed-point arithmetic (no floating point — the N64's FPU lacks `trunc.w.s`)
+- Model weights fit in ~232 KB using a custom SEAI binary format
+- Enables dynamic NPC dialogue, procedural quest generation, and AI-driven puzzle design in N64 homebrew games
+- Open-source inference engine designed for integration into any [libdragon](https://github.com/DragonMinded/libdragon) project
+- Includes training scripts to create custom models from your own game lore
+
+### Links
+- [GitHub](https://github.com/sophiaeagent-beep/n64llm-legend-of-Elya)
+
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
