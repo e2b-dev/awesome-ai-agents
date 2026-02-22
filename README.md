@@ -3060,6 +3060,32 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+
+## [AgentsInFlow](https://aif.inovisum.com)
+Desktop command center for AI coding agents
+
+<details>
+
+### Category
+Coding, Developer tools, Multi-agent orchestration
+
+### Description
+- Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex, Cursor) from a single window
+- Engine-agnostic — run different AI coding CLIs from one Kanban-style command center
+- Context persistence — resume interrupted executions after app restart
+- Token analytics — track input, output, cached, and reasoning tokens per execution
+- Runtime MCP injection — dynamic MCP server configuration per engine
+- Git worktree branching — isolated experimentation without touching your main branch
+- Free during beta with all features unlocked
+
+### Links
+- [Web](https://aif.inovisum.com)
+- [GitHub](https://github.com/hhammoud/AgentsInFlow)
+- [Documentation](https://aif.inovisum.com/docs/)
+- [X](https://x.com/hghammoud)
+
+</details>
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
