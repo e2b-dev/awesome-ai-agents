@@ -2196,6 +2196,30 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [ODEI](https://api.odei.ai)
+Constitutional world model for AI agents
+
+<details>
+
+### Category
+General purpose, Multi-agent, Knowledge Graph
+
+### Description
+ODEI is a constitutional world model as a service for AI agents. It provides persistent memory, safety guardrails, and structured reasoning via a Neo4j knowledge graph.
+- **Persistent Neo4j knowledge graph**: 91 nodes across 6 semantic domains for long-term agent memory
+- **7-layer AI safety guardrails**: Constitutional checks on every agent decision
+- **Smart contract audit**: On-chain verification capabilities
+- **ACP Agent #3082**: Production agent on Virtuals Protocol since January 2026
+- **MCP server**: Native Model Context Protocol integration for AI assistants
+
+### Links
+- [Web](https://api.odei.ai)
+- [GitHub](https://github.com/odei-ai/web)
+- [MCP Server](https://github.com/odei-ai/mcp-odei)
+
+</details>
+
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
