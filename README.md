@@ -2094,6 +2094,25 @@ General purpose
 </details>
 
 
+## [Multi-Agent Coding](https://github.com/sstklen/multi-agent-coding)
+A practical guide to orchestrating Claude Code, Codex CLI, and Gemini CLI as a 3-agent development team
+
+<details>
+
+### Category
+Multi-agent, Development tools
+
+### Description
+- Practical guide to orchestrating Claude Code (architecture), Codex CLI (bulk work), and Gemini CLI (vision/research) as a 3-agent team
+- Includes dispatch rules, parallel development patterns, and real-world examples from building a production API platform
+- Built with zero engineering background — 30+ APIs, token economy, Docker deployment
+
+### Links
+- [GitHub](https://github.com/sstklen/multi-agent-coding)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
