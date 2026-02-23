@@ -89,6 +89,25 @@ General purpose, Productivity, Developer Tool
 </details>
 
 
+## [ClawForge](https://github.com/jackjin1997/ClawForge)
+The Definitive Agent Intelligence Matrix
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Developer Tool
+
+### Description
+- **Comprehensive Matrix**: A central repository for empowering AI agents with high-optimized skills, MCP servers, and agentic workflows.
+- **LangChain 1.0 Ready**: Built-in support for v1 primitives, LangGraph orchestration, and complex context management strategies.
+- **Integrated Capabilities**: Includes automated GitHub Trending analysis, DDD modeling (Strategic/Tactical), and autonomous job search automation.
+
+### Links
+- [GitHub](https://github.com/jackjin1997/ClawForge)
+
+</details>
+
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
