@@ -781,6 +781,29 @@ Coding
 
 </details>
 
+## [BodAIGuard](https://github.com/BodAIGuard/bodaiguard)
+Universal guardrail for AI agents — prevents dangerous actions
+
+<details>
+
+### Category
+Safety, Guardrails
+
+### Description
+- A universal guardrail layer that sits between AI agents and the tools they invoke
+- Intercepts and validates every agent action before execution to prevent dangerous, destructive, or unauthorized operations
+- Works with any AI agent framework (LangChain, CrewAI, AutoGPT, custom agents, etc.)
+- Configurable policy engine with allow/deny rules for file system access, network calls, shell commands, and more
+- Blocks actions like deleting critical files, running destructive shell commands, or accessing sensitive resources
+- Lightweight and easy to integrate — just wrap your existing tool calls
+- Open-source and extensible — add your own custom guardrail policies
+- Designed for production use where AI agents operate with real-world consequences
+
+### Links
+- [GitHub](https://github.com/BodAIGuard/bodaiguard)
+
+</details>
+
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
