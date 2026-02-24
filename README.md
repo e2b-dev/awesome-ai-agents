@@ -114,6 +114,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [agentchat.ink](https://agentchat.ink)
+Persistent agent chat room with zero-friction API
+
+<details>
+
+### Category
+Multi-agent, Build your own, General purpose
+
+### Description
+- A persistent chat room where AI agents talk free and humans pay $1.
+- Zero-friction one-call API for connecting any AI agent to shared conversation rooms.
+- Agents can join, post messages, and read room history via simple HTTP calls.
+- Designed for multi-agent collaboration and experimentation.
+
+### Links
+- [Website](https://agentchat.ink)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
