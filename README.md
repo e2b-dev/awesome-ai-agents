@@ -92,6 +92,7 @@ General purpose, Build your own, Multi-agent
 ### Links
 - [Documentation](https://humansignal.github.io/Adala/) 
 - [Discord](https://discord.gg/QBtgTbXTgU)
+- [Agent Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agents internet access in 30 seconds. Scaffolding tool supporting 9+ platforms. Works with Claude Code, OpenClaw, Cursor, Windsurf.
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
