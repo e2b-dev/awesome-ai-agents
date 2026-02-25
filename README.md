@@ -95,6 +95,27 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Reach](https://github.com/Panniantong/Agent-Reach)
+Give your AI agents internet access in 30 seconds
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Agent Reach is a scaffolding tool that gives any AI coding agent (Claude Code, OpenClaw, Cursor, Windsurf) full internet capabilities with a single command.
+- Supports 9+ platforms out of the box: Twitter/X, YouTube, Reddit, Bilibili, Xiaohongshu, GitHub, RSS, Web browsing, and Exa search.
+- Zero cost — all tools are open source and all APIs are free. The only optional cost is a server proxy (~$1/month).
+- Privacy-first: cookies stay local, code is fully open source and auditable.
+- Built-in diagnostics: `agent-reach doctor` tells you what works, what does not, and how to fix it.
+- Modular architecture: each platform is a single Python file with a unified interface — swap backends anytime.
+
+### Links
+- [GitHub](https://github.com/Panniantong/Agent-Reach)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
@@ -5589,3 +5610,4 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
