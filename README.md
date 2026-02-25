@@ -139,6 +139,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent OS](https://github.com/imran-siddique/agent-os)
+A kernel architecture for governing autonomous AI agents
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Safety & Governance
+
+### Description
+- Agent OS provides a governance kernel for AI agents — policy enforcement, trust scoring, circuit breakers, and audit trails.
+- Integrates with LangGraph, LlamaIndex, Dify, OpenAI Agents SDK, and Microsoft Agent-Lightning.
+- Covers 8/10 OWASP Agentic Top 10 security risks out of the box.
+- Sub-millisecond governance overhead (<0.1ms p99 latency).
+- Includes Agent Hypervisor for multi-agent orchestration and AgentMesh for inter-agent communication.
+- MIT licensed with 1,680+ tests passing.
+
+### Links
+- [GitHub](https://github.com/imran-siddique/agent-os)
+- [Documentation](https://imran-siddique.github.io/agent-os-docs/)
+- [PyPI](https://pypi.org/project/agent-os-kernel/)
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=agent-os.agent-os-vscode)
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
