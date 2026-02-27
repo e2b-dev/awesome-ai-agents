@@ -1268,6 +1268,26 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
+## [discourse-openclaw](https://github.com/pranciskus/discourse-openclaw)
+OpenClaw plugin providing 12 Discourse forum tools for AI agents — read, search, filter topics, find unanswered questions, create posts/topics.
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- An OpenClaw plugin that gives AI agents 12 tools (9 read + 3 write) for interacting with any Discourse forum.
+- Includes `discourse_unanswered` — a unique tool that finds topics with no staff replies, enabling agents to identify questions needing attention.
+- Read tools cover topic listing, searching, reading posts, fetching categories, tags, and user profiles.
+- Write tools allow creating topics, posting replies, and editing posts.
+
+### Links
+- [GitHub](https://github.com/pranciskus/discourse-openclaw)
+- [npm](https://www.npmjs.com/package/openclaw-discourse)
+
+</details>
+
 ## [dotagent](https://github.com/dot-agent/dotagent)
 Deploy agents on cloud, PCs, or mobile devices
 
