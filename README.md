@@ -2375,6 +2375,23 @@ Productivity, General purpose
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
+## [Rever MCP Server](https://github.com/chaoui-ahmed/rever)
+An open-source MCP server to extend AI agent workflows
+
+<details>
+
+### Category
+Build-your-own, Multi-agent, Coding
+
+### Description
+- Rever MCP Server is an open-source Model Context Protocol server.
+- It is designed to extend AI agent capabilities and automate specific workflows seamlessly.
+- Compatible with various agent frameworks to enhance context management and tool execution.
+
+### Links
+- [GitHub](https://github.com/chaoui-ahmed/rever)
+
+</details>
 
 ![image](https://reactagent.io/logo-dark.png)
 
@@ -3323,6 +3340,22 @@ Data analysis, Business intelligence
 AI agents for portfolio risk and asset allocation
 
 <details>
+## [AypiAI](https://aypiai.online)
+A comprehensive directory for AI agents and MCP servers
+
+<details>
+
+### Category
+General purpose, Build-your-own
+
+### Description
+- AypiAI is a comprehensive web directory designed to help developers and users discover the best AI agents, MCP servers, and automation tools.
+- It features a curated and easily searchable database specifically focused on the rapidly growing ecosystem of the Model Context Protocol (MCP) and autonomous AI workers.
+
+### Links
+- [Web](https://aypiai.online)
+
+</details>
 
 ![image](https://framerusercontent.com/images/abZ2DpGylwpNlOcvhmiTEHLvU.png?scale-down-to=512)
 
