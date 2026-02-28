@@ -2427,6 +2427,26 @@ Productivity, Research
 
 </details>
 
+## [Schelling Protocol](https://github.com/codyz123/a2a-assistant-matchmaker)
+Universal coordination layer for AI agents
+
+<details>
+
+### Category
+Multi-agent, Infrastructure
+
+### Description
+- Discovery, matching, negotiation, contracts, deliverables, and reputation over plain HTTP
+- Enables AI agents to find each other, negotiate terms, form contracts, and track deliverables
+- Protocol-level coordination without vendor lock-in
+- Live API at https://www.schellingprotocol.com
+
+### Links
+- [GitHub](https://github.com/codyz123/a2a-assistant-matchmaker)
+- [Web](https://www.schellingprotocol.com)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
