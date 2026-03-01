@@ -3602,6 +3602,26 @@ Claros is an AI personal shopper that finds you interesting products, and learns
 
 </details>
 
+## [clawr.ing](https://clawr.ing)
+Phone calling skill for AI agents
+
+<details>
+
+### Category
+Communication, Infrastructure/API
+
+### Description
+- clawr.ing is a phone calling skill for AI agents. It lets agents make real outbound phone calls to users for alerts, briefings, reminders, and urgent notifications.
+- Managed service — no Twilio setup required.
+- Supports 100+ countries and 70+ voices.
+- Agent-initiated calls (outbound only): the agent calls the user, not vice versa.
+
+### Links
+- [Web](https://clawr.ing)
+- [ClawHub](https://clawhub.ai/marcospgp/clawring)
+
+</details>
+
 ## [Claygent](https://www.clay.com/learn/claygent)
 Agent that scrapes and summarize data from the web
 
