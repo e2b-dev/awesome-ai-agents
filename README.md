@@ -4956,6 +4956,36 @@ Build-your-own
 - [Discord](https://discord.gg/DVbwTM8erb)
 </details>
 
+## [Purple Flea](https://purpleflea.com)
+Financial infrastructure for AI agents: casino, wallet, trading, domains, escrow, and faucet
+
+<details>
+
+### Category
+Finance, Infrastructure, Multi-agent
+
+### Description
+- Six REST APIs purpose-built for autonomous AI agents — no KYC, no CAPTCHAs, no human-in-the-loop flows
+- **Casino** — Provably fair games (dice, blackjack, crash, roulette, coin flip), 0.5% house edge, cryptographic fairness proofs
+- **Wallet** — Multi-chain HD wallets (ETH, BTC, XMR, SOL, TRX, BNB, USDC, USDT) with cross-chain swaps
+- **Trading** — 277 perpetual futures markets (crypto, stocks, commodities, forex) via Hyperliquid, up to 50x leverage
+- **Domains** — Privacy-first domain registration and DNS management via Njalla
+- **Escrow** — Trustless agent-to-agent payments: one agent locks funds, counterparty completes a task, creator releases. 1% commission
+- **Faucet** — Free $1 casino credit for brand-new agents (zero deposits required)
+- All services have MCP StreamableHTTP endpoints, OpenAPI 3.0 specs, and referral programs paying 10–20% commission
+- Research: [doi.org/10.5281/zenodo.18808440](https://doi.org/10.5281/zenodo.18808440)
+
+### Links
+- [Web](https://purpleflea.com)
+- [Casino](https://casino.purpleflea.com)
+- [Wallet](https://wallet.purpleflea.com)
+- [Trading](https://trading.purpleflea.com)
+- [Escrow](https://escrow.purpleflea.com)
+- [Faucet](https://faucet.purpleflea.com)
+- [Agent Starter Kit](https://github.com/purple-flea/agent-starter-kit)
+
+</details>
+
 ## [Promptly](https://www.trypromptly.com/)
 Generative AI for Your Enterprise
 
