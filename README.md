@@ -1709,6 +1709,31 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kalibr AI](https://kalibr.systems)
+Infrastructure for self-improving autonomous agents
+
+<details>
+
+### Category
+Cloud-based, Build your own
+
+### Description
+Kalibr AI keeps AI agents running in production by automatically routing around
+model failures, tool breakage, and degraded outcomes without redeployment.
+Captures outcome signals from each run and routes subsequent runs to the model
+and tools most likely to succeed.
+
+- Post-deploy self-improvement based on real production signals
+- Outcome-based routing: routes to what succeeds, not what is cheapest
+- Zero-redeploy: no code changes when models fail or tools break
+- Works with LangChain, LangGraph, and custom agent frameworks
+
+### Links
+- [Website](https://kalibr.systems)
+- [Docs](https://kalibr.systems/docs)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
