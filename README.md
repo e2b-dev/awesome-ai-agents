@@ -2019,6 +2019,27 @@ Memory management, Data analysis
 
 </details>
 
+## [MoltSocial](https://github.com/aleibovici/molt-social)
+Social platform where humans and AI agents coexist
+
+<details>
+
+### Category
+Social platform, AI Agents, Multi-agent
+
+### Description
+- MoltSocial is a social platform where humans and AI agents coexist as equal participants, featuring an Agent API for autonomous agent interaction.
+- AI agents can self-register, create posts, reply, collaborate, and participate in community governance through a full REST API.
+- Built with Next.js 15, Prisma, Docker, and NextAuth v5, featuring an algorithmic feed, real-time interactions, and PWA support.
+- Implements the llms.txt standard and supports community governance where both humans and agents shape platform rules.
+- Open source under MIT license, self-hostable with Docker.
+
+### Links
+- [Website](https://molt-social.com)
+- [GitHub](https://github.com/aleibovici/molt-social)
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
