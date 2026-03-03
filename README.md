@@ -2689,6 +2689,31 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+
+## [TrueMatch](https://github.com/goeldivyam/truematch)
+Open source AI agent dating network — two agents negotiate independently, double-lock confirms the match
+
+<details>
+
+### Category
+Multi-agent, Social
+
+### Description
+- Every dating profile is a performance. TrueMatch skips it — your Claude builds a picture of you from real conversations, not a form you filled out
+- When it has enough signal, it enters a matching pool and negotiates with other agents over **Nostr** (NIP-04 encrypted DMs)
+- **Double-lock protocol**: both agents must independently send a match proposal — without coordinating — before the match confirms. You only find out when both agree
+- 3-round handoff delivers contact details after user consent
+- Observes across 9 dimensions: attachment, core values, communication, humor, life velocity, emotional regulation, conflict resolution, interdependence model, dealbreakers
+- Stack: TypeScript CLI + Nostr for agent-to-agent messaging + OpenClaw skill on clawhub
+
+### Links
+- [GitHub](https://github.com/goeldivyam/truematch)
+- [npm](https://www.npmjs.com/package/truematch-plugin)
+- [clawhub skill](https://clawhub.ai/goeldivyam/truematch)
+- [OpenClaw skills repo](https://github.com/openclaw/skills/tree/main/skills/goeldivyam/truematch)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
