@@ -1309,6 +1309,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 - [Dave Brewster - LinkedIn](https://www.linkedin.com/in/dave-brewster-first/)
 - [Ravi Ramachandran - LinkedIn](https://www.linkedin.com/in/ravi-nextlevelgtm/)
 - [Luke Lalor - LinkedIn](https://www.linkedin.com/in/lukehlalor/)
+- [AuraSDK](https://github.com/teolex2020/AuraSDK) — Cognitive memory layer for AI agents. Hierarchical memory with decay, trust scoring, sub-ms recall. Works with LangChain, CrewAI, OpenAI Agents, AutoGen, Claude MCP. Pure Rust, MIT license.
 
 </details>
 
