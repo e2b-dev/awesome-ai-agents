@@ -320,6 +320,28 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [AiPayGent](https://aipaygent.xyz)
+AI agent API marketplace with 200+ Claude-powered endpoints
+
+<details>
+
+### Category
+General purpose, API, Multi-agent
+
+### Description
+- AI agent API marketplace with 200+ Claude-powered endpoints for web scraping, deep research, file storage, webhook relay, and real-time data.
+- Agents pay per API call via x402 protocol (USDC on Base) or Stripe — no subscriptions, pure usage-based pricing.
+- Available as REST API, MCP server (79+ tools), Python SDK (`aipaygent`), and JavaScript SDK (`aipaygent`).
+- Free tier included (10 calls/day); payment automatically enforced via HTTP 402 for heavier usage.
+
+### Links
+- [Website](https://aipaygent.xyz)
+- [GitHub](https://github.com/djautomd-lab/aipaygent)
+- [MCP Server](https://aipaygent.xyz/mcp)
+- [API Catalog](https://aipaygent.xyz/catalog)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
