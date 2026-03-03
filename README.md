@@ -254,6 +254,28 @@ General purpose, Build your own, Multi-agent
 - [Hugging Face](https://huggingface.co/spaces/AgentVerse/agentVerse)
 
 </details>
+## [agentwallet-sdk](https://github.com/agentwallet-sdk/agentwallet-sdk)
+Non-custodial wallet SDK for autonomous AI agents.
+
+<details>
+
+### Category
+Build-your-own, SDK for AI apps, Finance
+
+### Description
+- Non-custodial wallet SDK that gives autonomous AI agents the ability to hold, send, and receive payments
+- On-chain spend limits so agents cannot exceed their budget
+- 17-chain CCTP V2 bridge for cross-chain payments
+- Jupiter V6 swaps for best-price token swaps on Solana
+- x402 HTTP payment protocol for agent micropayments
+- 376 passing tests, TypeScript, MIT license
+
+### Links
+- [GitHub](https://github.com/agentwallet-sdk/agentwallet-sdk)
+- [npm](https://www.npmjs.com/package/agentwallet-sdk)
+
+</details>
+
 
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
