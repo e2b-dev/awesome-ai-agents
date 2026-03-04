@@ -1376,6 +1376,27 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [FinSight AI](https://github.com/kkkano/FinSight)
+Multi-agent financial research platform powered by LangGraph
+
+<details>
+
+### Category
+Finance, Research, Data analysis, Multi-agent
+
+### Description
+- Production-grade multi-agent financial research system with 7 specialized agents (Price, News, Fundamental, Technical, Macro, Risk, DeepSearch) running in parallel via LangGraph
+- Features a professional dashboard with 6 analytical tabs, autonomous task execution (Workbench), and proactive email alerts
+- Includes hybrid RAG engine (bge-m3 dense+sparse + cross-encoder reranking), LLM-driven Smart Charts, cross-agent conflict detection, and hallucination defense
+- Supports conversational price alerts, AI stock screening, A-share market data (northbound flow, sector heatmaps), and strategy backtesting
+- Built with FastAPI, React, LangGraph, PostgreSQL, and ECharts
+
+### Links
+- [GitHub](https://github.com/kkkano/FinSight)
+- [Live Demo](https://finsight-ai.chat)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
