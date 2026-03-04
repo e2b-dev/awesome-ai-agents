@@ -1355,6 +1355,28 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [Familiar](https://github.com/bedda-tech/familiar)
+Open-source AI agent platform powered by Claude Code. Run persistent background agents with a task queue, web dashboard, Telegram bot, and webhook support.
+
+<details>
+
+### Category
+Agent Orchestration Platform
+
+### Description
+- Self-hostable agent runner built on Claude Code
+- SQLite-backed task queue with priority scheduling
+- Web dashboard for task management
+- Telegram bot integration for remote control
+- Webhook support for external triggers
+- Multi-project, multi-agent architecture
+
+### Links
+- [GitHub](https://github.com/bedda-tech/familiar)
+- [npm: @bedda/familiar](https://www.npmjs.com/package/@bedda/familiar)
+
+</details>
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
