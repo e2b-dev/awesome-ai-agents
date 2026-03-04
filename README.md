@@ -781,6 +781,28 @@ Coding
 
 </details>
 
+## [Bonnard](https://github.com/bonnard-data/bonnard)
+Open-source agentic schema for reliable data outputs. Query data through MCP and via our SDK. Create apps, embed data or just simply explore through your preferred agent.
+
+<details>
+
+### Category
+Data, Analytics, Developer tools
+
+### Description
+- **Agentic schema**: Define metrics once, serve governed data to AI agents, apps, and dashboards
+- **MCP server**: Expose governed metrics to Claude, Cursor, and any MCP-compatible agent
+- **Multi-warehouse**: Snowflake, BigQuery, Databricks, PostgreSQL, Redshift, DuckDB, ClickHouse
+- **CLI-first**: Go from data model to self-serve in minutes via bonnard-cli
+- **dbt integration**: Works with your existing dbt models
+
+### Links
+- [Website](https://bonnard.dev)
+- [Documentation](https://docs.bonnard.dev)
+- [GitHub](https://github.com/bonnard-data/bonnard)
+
+</details>
+
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
