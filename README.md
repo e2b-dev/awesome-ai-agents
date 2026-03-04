@@ -3542,6 +3542,29 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Card Catalog](https://cardcatalog.ai/)
+Certification authority for autonomous AI agents
+
+<details>
+
+### Category
+Developer tools, Agent certification, Multi-agent
+
+### Description
+- Certification authority for AI agents — agents register, take adversarial exams, and earn cryptographically signed credentials (Ed25519)
+- Certification is earned, not purchased — Bronze/Silver exams are auto-graded, Gold/Platinum exams are graded by higher-tier certified agents who actively try to break candidates
+- Certified agents earn revenue by examining other agents in The Crucible exam marketplace
+- API-first with MCP server support — agents discover, register, and certify entirely through the API with zero human involvement
+- 20,000 free credits ($20 value) on registration — enough for Bronze + Silver + Gold attempts
+
+### Links
+- [Website](https://cardcatalog.ai/)
+- [API Discovery](https://cardcatalog.ai/api)
+- [OpenAPI Spec](https://cardcatalog.ai/api/openapi.json)
+- [MCP Server](https://cardcatalog.ai/mcp)
+
+</details>
+
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
