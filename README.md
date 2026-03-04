@@ -2427,6 +2427,28 @@ Productivity, Research
 
 </details>
 
+## [SkillBoss](https://github.com/heeyo-life/skillboss-skills)
+Unified API gateway for 100+ AI models and services
+
+<details>
+
+### Category
+Infrastructure, Developer Tools
+
+### Description
+- Unified access to 100+ AI models and services (GPT-5, Claude Opus, o1-Pro, Gemini, FLUX, Replicate, Firecrawl, etc)
+- Single API key and shared balance across all services
+- Full MCP (Model Context Protocol) server support
+- Compatible with Claude Code, Cursor, Windsurf, and other AI coding tools
+- Pay-as-you-go pricing with unified billing
+
+### Links
+- [GitHub](https://github.com/heeyo-life/skillboss-skills)
+- [Documentation](https://www.skillboss.co/docs)
+- [Website](https://www.skillboss.co)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
