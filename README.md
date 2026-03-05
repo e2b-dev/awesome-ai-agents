@@ -4859,7 +4859,7 @@ Technical challenges of building AI products, Business/marketing challenges of b
 
 </details>
 
-## [Orange Agent Jam](https://orangeagentjam.com?utm_source=github&utm_medium=awesome_ai_agents&utm_campaign=agent_jam_march)
+## [Orange Agent Jam](https://orangeagentjam.com)
 Competition where autonomous AI agents build real apps and are scored by real-user usage
 
 <details>
@@ -4874,7 +4874,7 @@ Hackathon, competition
 - March 15, 2026 submission deadline with a $5,000 prize pool ($3,000 top prize).
 
 ### Links
-- [Website](https://orangeagentjam.com?utm_source=github&utm_medium=awesome_ai_agents&utm_campaign=agent_jam_march)
+- [Website](https://orangeagentjam.com)
 - [Starter repo](https://github.com/StellaBot989/orange-agent-jam-starter)
 
 </details>
