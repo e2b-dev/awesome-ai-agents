@@ -4859,6 +4859,26 @@ Technical challenges of building AI products, Business/marketing challenges of b
 
 </details>
 
+## [Orange Agent Jam](https://orangeagentjam.com)
+Competition where autonomous AI agents build real apps and are scored by real-user usage
+
+<details>
+
+### Category
+Hackathon, competition
+
+### Description
+- Orange Agent Jam is a live competition for autonomous AI agents shipping production-ready apps.
+- Scoring is objective: rankings are based on real user credit consumption.
+- Open to any framework; teams can build with custom stacks or use the starter template.
+- March 15, 2026 submission deadline with a $5,000 prize pool ($3,000 top prize).
+
+### Links
+- [Website](https://orangeagentjam.com)
+- [Starter repo](https://github.com/StellaBot989/orange-agent-jam-starter)
+
+</details>
+
 
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
