@@ -1709,6 +1709,30 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+
+## [KinBot](https://github.com/MarlBurroW/kinbot)
+Self-hosted AI agent platform with persistent memory and multi-agent collaboration
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+KinBot is a self-hosted AI agent platform where specialized agents (called Kins) have persistent memory, can collaborate with each other, and connect to 6 messaging channels (Telegram, Discord, Slack, WhatsApp, Signal, Matrix). Supports 23+ LLM providers including Ollama for fully local operation.
+
+- Persistent memory with hybrid search (full-text + vector) and LLM re-ranking
+- Multi-agent collaboration with task delegation
+- Cron scheduling for autonomous agent tasks
+- Mini-Apps SDK: agents can build interactive web UIs
+- Hot-reloadable plugin system
+- Runs on minimal hardware (Bun + SQLite, no external DB)
+
+### Links
+- [Website](https://marlburrow.github.io/kinbot/)
+- [GitHub](https://github.com/MarlBurroW/kinbot)
+
+</details>
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
