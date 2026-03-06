@@ -2689,6 +2689,35 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [TRINITY](https://github.com/rsv413-EG/trinity)
+A cognitive AI operating system — seven agents, one heartbeat, one maker.
+
+<details>
+
+### Category
+Multi-agent, Personal Assistant, Self-hosted
+
+### Description
+TRINITY is not a prompt. TRINITY is not a chatbot. TRINITY is a **cognitive AI operating system** built around seven specialized agents working as a unified team — all running locally, all self-hosted.
+
+- **7 specialized agents**: ARCHITECT (orchestrator), CORE (developer), FAULT (inspector), SCOUT (watcher), KEEPER (memory), FORGE (tools), HERALD (comms)
+- **Full memory architecture**: session logs, daily notes, semantic vault
+- **Built on OpenClaw**: open-source gateway with Telegram, Discord, cron jobs, sub-agents
+- **Self-hosted first**: runs on Raspberry Pi + local GPU — no cloud dependency required
+- **Ralph Loop**: iterative agent runner — many short sessions beat one long context
+- **Sentry Pipeline**: bug detection → FAULT triage → auto-fix → PR → notification
+- Model: Claude Sonnet + local LLMs via LiteLLM / Ollama
+- Language: Python / Node.js
+- Runs on: Raspberry Pi, Ubuntu Server, local GPU for inference
+
+### Links
+- [GitHub](https://github.com/rsv413-EG/trinity)
+- Built by [@grouwels](https://github.com/grouwels)
+- Platform: [OpenClaw](https://github.com/openclaw/openclaw)
+
+</details>
+
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
