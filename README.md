@@ -139,7 +139,7 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
-## [Agent OS](https://github.com/imran-siddique/agent-os)
+## [Agent OS](https://github.com/microsoft/agent-governance-toolkit)
 A kernel architecture for governing autonomous AI agents
 
 <details>
@@ -156,8 +156,8 @@ General purpose, Build your own, Multi-agent, Safety & Governance
 - MIT licensed with 1,680+ tests passing.
 
 ### Links
-- [GitHub](https://github.com/imran-siddique/agent-os)
-- [Documentation](https://imran-siddique.github.io/agent-os-docs/)
+- [GitHub](https://github.com/microsoft/agent-governance-toolkit)
+- [Documentation](https://github.com/microsoft/agent-governance-toolkit/tree/main/docs/)
 - [PyPI](https://pypi.org/project/agent-os-kernel/)
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=agent-os.agent-os-vscode)
 </details>
@@ -230,7 +230,7 @@ General purpose
   
 </details>
 
-## [Agent OS](https://github.com/imran-siddique/agent-os)
+## [Agent OS](https://github.com/microsoft/agent-governance-toolkit)
 Safety-first agent development platform with VS Code extension
 
 <details>
@@ -249,9 +249,9 @@ Agent OS is a visual agent development platform for building, testing, and deplo
 - **GitHub Actions Integration**: Deploy agents directly to GitHub Actions with generated workflows
 
 ### Links
-- [GitHub Repository](https://github.com/imran-siddique/agent-os)
+- [GitHub Repository](https://github.com/microsoft/agent-governance-toolkit)
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=agent-os.agent-os-vscode)
-- [Documentation](https://imran-siddique.github.io/agent-os-docs/)
+- [Documentation](https://github.com/microsoft/agent-governance-toolkit/tree/main/docs/)
 </details>
 
 ## [Agents](https://github.com/aiwaves-cn/agents)
