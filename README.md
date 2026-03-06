@@ -5589,3 +5589,12 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+
+### :eight_pointed_black_star: [Adam Framework](https://github.com/strangeadvancedmarketing/Adam)
+
+<details>
+
+A 5-layer persistent memory and coherence architecture for local AI assistants built on OpenClaw. Solves AI amnesia (cross-session memory loss) and within-session coherence degradation through vault injection, neural graph associative recall, nightly Gemini reconciliation, and a coherence monitor with scratchpad dropout detection. Validated over 353 sessions and 6619 message turns on a live business. Open source, model-agnostic, local-first.
+
+</details>
