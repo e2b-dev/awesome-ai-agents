@@ -5093,6 +5093,28 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [RapidFire AI](https://github.com/RapidFireAI/rapidfireai)
+Rapid AI experimentation for agentic RAG pipelines — run 20+ configs in parallel and intervene on live runs
+
+<details>
+
+### Category
+Development Frameworks, Research
+
+### Description
+- RapidFire AI is a rapid AI experimentation framework for agentic RAG and context engineering workflows
+- Run many pipeline configurations concurrently using hyperparallelized, shard-based scheduling — compare retrieval strategies, rerankers, and prompt templates side-by-side in one session
+- Interactive Control (IC Ops): stop underperforming runs, resume them, or clone-modify them in real time from the dashboard — turning "observe → re-queue" into "observe → fix → continue"
+- Online aggregation: eval metrics surface live in-notebook as data shards are processed, no need to wait for full run completion
+- Supports closed model APIs (OpenAI, Anthropic) and self-hosted models on a single GPU or CPU-only machine
+- MLflow integration for experiment tracking and governance
+
+### Links
+- [GitHub](https://github.com/RapidFireAI/rapidfireai)
+- [Docs](https://oss-docs.rapidfire.ai)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
