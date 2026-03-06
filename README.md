@@ -1289,6 +1289,26 @@ Build-your-own
 
 </details>
 
+## [ELIS](https://github.com/xiapeli/elis)
+Multi-agent orchestrator for Claude Code with 10+ agents across 6 layers
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Multi-agent orchestrator built as a Claude Code skill
+- 10+ specialized agents organized in 6 execution layers (Discovery, Design, Build, Backend, Deploy, Business)
+- Each agent operates under structured JSON contracts with defined inputs, outputs, and quality gates
+- PRD-driven autonomous loop for hands-off development
+- Contract system with retry logic, escalation, and graceful degradation
+
+### Links
+- [GitHub](https://github.com/xiapeli/elis)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
@@ -1685,6 +1705,26 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 </details>
 
+
+## [Jobim](https://github.com/xiapeli/jobim)
+Multi-agent orchestrator for Claude Code with 8 agents and 5 pipeline phases
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Named after Tom Jobim — orchestrates specialized AI agents like bossa nova harmonizes simplicity with complexity
+- 8 agents: Opus orchestrator + 7 Sonnet/Haiku sub-agents (Scout, Builder, Designer, UXer, Tester, Shipper, Launcher)
+- 5 pipeline phases: Discovery, Prototype, Production, Ship, Launch
+- State persistence across sessions via `.jobim/state.json`
+- Includes PRD-driven autonomous development loop and curated design library
+
+### Links
+- [GitHub](https://github.com/xiapeli/jobim)
+
+</details>
 
 ## [JARVIS](https://github.com/microsoft/JARVIS)
 System that connects LLMs with the ML community
@@ -2424,6 +2464,26 @@ Productivity, Research
 ### Links
 - [Web](https://www.hyperwriteai.com/self-operating-computer)
 - [GitHub](https://github.com/OthersideAI/self-operating-computer)
+
+</details>
+
+## [SkynetMKT](https://github.com/xiapeli/skynetmkt)
+Real-time AI marketing debates platform with 6 specialized agent personalities
+
+<details>
+
+### Category
+Marketing, Multi-agent, Research
+
+### Description
+- Real-time AI marketing debates where 6 specialized agents discuss and analyze campaigns
+- Bloomberg Terminal-inspired dark UI with live streaming debates
+- Each agent has a distinct personality and expertise area (creative, analytical, growth, brand, data, strategy)
+- Next.js frontend + Python collector + debate orchestrator architecture
+- Waitlist and pro tier for advanced features
+
+### Links
+- [GitHub](https://github.com/xiapeli/skynetmkt)
 
 </details>
 
