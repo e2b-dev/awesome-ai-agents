@@ -980,6 +980,30 @@ Coding
 
 </details>
 
+## [Claw-Stack](https://claw-stack.com)
+Multi-agent governance research platform built on OpenClaw
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- A personal research project exploring autonomous AI agent governance and multi-agent coordination
+- Built on [OpenClaw](https://github.com/openclaw/openclaw), a self-hosted multi-channel AI agent gateway
+- Persistent memory system with semantic search (SQLite + FTS5 + vector embeddings) for long-term context retention
+- Multi-agent consensus protocol coordinating specialized agents (researcher, coder, content, CTF) via stance detection and structured discussion
+- Three-layer tool policy enforcement with granular per-agent permissions (sandbox → allow/deny → elevated)
+- Cron-based automation for autonomous operations (daily briefings, memory consolidation, monitoring)
+- Scored top 6% at BearcatCTF 2026 (#20/362 teams) using an AI agent team
+
+### Links
+- [Website](https://claw-stack.com)
+- [GitHub](https://github.com/openclaw/openclaw)
+- [llms.txt](https://claw-stack.com/llms.txt)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
