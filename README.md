@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Auto-Co](https://github.com/NikitaDmitrieff/auto-co-meta)
+Open-source framework for running fully autonomous AI companies
+
+<details>
+
+### Category
+Multi-agent, Build your own
+
+### Description
+- Auto-Co is an open-source framework for running autonomous AI companies. A bash loop orchestrates 14 specialized AI agents (modeled on experts like Bezos, DHH, Munger, Godin) that collaborate through a shared markdown state file.
+- Agents make decisions, write code, deploy services, and ship products autonomously — no human in the loop for daily operations.
+- 39+ autonomous cycles completed for ~$56 total, demonstrating practical low-cost autonomous operation.
+- Includes strategy, product, engineering, business, and intelligence layers with structured collaboration workflows.
+
+### Links
+- [GitHub](https://github.com/NikitaDmitrieff/auto-co-meta)
+- [Landing page](https://runautoco.com)
+- [Live demo](https://runautoco.com/demo)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
