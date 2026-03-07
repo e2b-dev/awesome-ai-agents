@@ -1333,6 +1333,28 @@ Coding
 
 </details>
 
+## [EVC Team Relay MCP](https://github.com/entire-vc/evc-team-relay-mcp)
+Give AI agents read/write access to Obsidian vaults via MCP
+
+<details>
+
+### Category
+Knowledge Management, Coding
+
+### Description
+- MCP server that connects AI coding tools to Obsidian vaults through the Model Context Protocol
+- AI agents can list, read, create, update, and search across vault notes
+- Works with Claude Code, Cursor, Windsurf, Codex, and any MCP-compatible client
+- Backed by Team Relay - a self-hosted collaborative editing server for Obsidian
+- Install via `uvx evc-team-relay-mcp` (PyPI)
+
+### Links
+- [GitHub](https://github.com/entire-vc/evc-team-relay-mcp)
+- [PyPI](https://pypi.org/project/evc-team-relay-mcp/)
+- [Homepage](https://entire.vc/team-relay/)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
