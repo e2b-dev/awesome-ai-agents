@@ -70,6 +70,29 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [agentwallet-sdk](https://github.com/up2itnow0822/agent-wallet-sdk)
+Non-custodial wallet SDK for AI agents
+
+<details>
+
+### Category
+SDKs and Frameworks
+
+### Description
+- Non-custodial AI agent wallet SDK - the agent holds its own private key
+- x402 payment protocol support for machine-to-machine payments
+- ERC-6551 on-chain identity for persistent agent identity
+- 17-chain CCTP bridging via Circle's Cross-Chain Transfer Protocol
+- SpendingPolicy module: merchant allowlists, rolling caps, draft-then-approve
+- Fail-closed spend enforcement - on-chain contract + application layer
+- TypeScript/JavaScript, MIT license, no KYC required
+
+### Links
+- [GitHub](https://github.com/up2itnow0822/agent-wallet-sdk)
+- [npm](https://www.npmjs.com/package/agentwallet-sdk)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
