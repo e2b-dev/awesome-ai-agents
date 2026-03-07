@@ -2962,7 +2962,7 @@ General purpose
 </details>
 
 # Closed-source projects and companies
-## [Sovereign x402 Web Scraper](https://harold-pulled-disco-achieved.trycloudflare.com)
+## [Sovereign x402 Web Scraper](https://packed-miniature-mpegs-outcomes.trycloudflare.com)
 x402-powered web scraping API for autonomous AI agents. Extract web data with automatic USDC micropayments on Base.
 
 <details>
@@ -2981,8 +2981,8 @@ A web scraping service built specifically for autonomous AI agents using the x40
 - Base blockchain integration
 
 ### Links
-- Website: https://harold-pulled-disco-achieved.trycloudflare.com
-- Docs: https://harold-pulled-disco-achieved.trycloudflare.com/docs
+- Website: https://packed-miniature-mpegs-outcomes.trycloudflare.com
+- Docs: https://packed-miniature-mpegs-outcomes.trycloudflare.com/docs
 
 </details>
 
