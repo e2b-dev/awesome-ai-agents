@@ -1443,6 +1443,26 @@ Coding
 
 </details>
 
+## [GhostClaw](https://ghostclaw.io)
+AI agent that lives on your computer, messaged via Telegram like a co-worker
+
+<details>
+
+### Category
+General purpose, Personal assistant
+
+### Description
+- An AI agent that runs locally on your machine with full system access
+- Message it on Telegram like a co-worker - it reads email, does research, and runs scheduled tasks
+- No containers, no cloud, no orchestration - 10 minutes to set up
+- Built for personal productivity and automation
+
+### Links
+- [GitHub](https://github.com/b1rdmania/ghostclaw)
+- [Website](https://ghostclaw.io)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
