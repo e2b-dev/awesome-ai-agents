@@ -2879,6 +2879,28 @@ There are four key principles that we followed when developing WrenAI:
 
 </details>
 
+## [Wolfpack](https://github.com/almogdepaz/wolfpack)
+Mobile & desktop command center for AI coding agents
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Mobile & desktop PWA command center for controlling AI coding agents (Claude, Codex, Gemini, or custom) via tmux sessions
+- Access and control agent sessions across multiple machines from your phone or browser
+- Secured by Tailscale — zero-config encrypted access, no ports to open
+- Full terminal emulator (xterm.js) on desktop with multi-terminal grid view
+- Multi-machine support: one phone connects to multiple Wolfpack servers
+- Includes Ralph — an autonomous task runner that works through markdown plan files step by step
+- Single binary install: `bunx wolfpack-bridge` or shell script
+
+### Links
+- [GitHub](https://github.com/almogdepaz/wolfpack)
+
+</details>
+
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
 
