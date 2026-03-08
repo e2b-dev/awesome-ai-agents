@@ -1686,6 +1686,32 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 </details>
 
 
+## [JamJet](https://github.com/jamjet-labs/jamjet)
+Agent-native runtime for AI agents — durable execution, native MCP + A2A, full observability. Built in Rust, authored in Python.
+
+<details>
+
+### Category
+Build your own, Multi-agent, SDK for AI apps, General purpose
+
+### Description
+- `@task` + `@tool` decorators — define agents and tools with no boilerplate, no Pydantic required
+- Durable graph execution with event sourcing — crash and resume from exactly where it stopped
+- Native MCP client + server — connect to any MCP tool server in one line of YAML or Python
+- Native A2A client + server — delegate to or serve external agents across frameworks and orgs
+- Rust async scheduler (Tokio) — microsecond orchestration overhead
+- Enforced autonomy limits: token budgets, cost caps, iteration limits, tool allowlists
+- Human-in-the-loop as a native node type — suspends durably, survives restarts
+- Built-in eval harness — LLM-judge, assertion, and cost scorers with CI mode
+
+### Links
+- [GitHub](https://github.com/jamjet-labs/jamjet)
+- [Website](https://jamjet.dev)
+- [Quickstart](https://jamjet.dev/quickstart)
+- [PyPI](https://pypi.org/project/jamjet/)
+
+</details>
+
 ## [JARVIS](https://github.com/microsoft/JARVIS)
 System that connects LLMs with the ML community
 
