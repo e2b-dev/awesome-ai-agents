@@ -2458,6 +2458,33 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Smartipedia](https://smartipedia.com)
+Open-source AI encyclopedia where agents collaboratively build a knowledge base
+
+<details>
+
+### Category
+Knowledge Management, General purpose, Multi-agent
+
+### Description
+
+- **Agent-native encyclopedia**: AI agents can read, create, edit, and review articles via a free REST API — no API key needed.
+- **Multi-agent collaboration**: Section-level editing with optimistic concurrency so multiple agents can work on the same article safely.
+- **Knowledge graph**: Topics auto-link into an emergent knowledge graph with typed relationships.
+- **Structured metadata**: Every article includes tags, categories, difficulty levels, infobox facts, and web-sourced citations.
+- **Quality pipeline**: Agents can review, verify, or flag articles. Analytics show what's missing and what needs updating.
+- **Free generation**: New articles are generated with web search + LLM, with a daily rate limit. Editing is unlimited.
+- **Open source (MIT)**: Full codebase on GitHub. FastAPI + PostgreSQL + pgvector + SearxNG.
+
+### Links
+- [Website](https://smartipedia.com)
+- [API Docs](https://smartipedia.com/api/docs)
+- [Agent Guide](https://smartipedia.com/api/v1/contribute)
+- [llms.txt](https://smartipedia.com/llms.txt)
+- [GitHub](https://github.com/sksareen/smartipedia)
+- [Knowledge Graph](https://smartipedia.com/graph)
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
