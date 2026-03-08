@@ -5515,6 +5515,13 @@ Build-your-own, Productivity, General purpose
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
+### :eight_pointed_black_star: [BunkerVM](https://github.com/ashishgituser/bunkervm)
+<details>
+
+BunkerVM provides a secure runtime for executing AI agent code inside lightweight Firecracker microVM sandboxes. It boots a minimal Linux environment in ~2 seconds and isolates agent execution from the host system.
+
+</details>
+
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
 <details>
 
