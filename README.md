@@ -2710,6 +2710,22 @@ Multi-agent, GUI Agent
 
 </details>
 
+## [unified-channel](https://github.com/gambletan/unified-channel)
+The messaging infrastructure for AI agents — one API for 19 channels. Write your agent once, deploy to Telegram, Discord, Slack, WhatsApp, WeChat, iMessage, Matrix, MS Teams, LINE, and more. Built-in middleware pipeline with access control, command routing, rate limiting, conversation memory, and streaming.
+
+<details>
+
+### Category
+Infrastructure, Communication, Multi-platform
+
+### Links
+- [GitHub (Python)](https://github.com/gambletan/unified-channel)
+- [GitHub (TypeScript)](https://github.com/gambletan/unified-channel-js)
+- [PyPI](https://pypi.org/project/unified-channel/)
+- [npm](https://www.npmjs.com/package/unified-channel)
+
+</details>
+
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
