@@ -4320,6 +4320,29 @@ Productivity
 </details>
 
 
+## [AM (helloam.bot)](https://helloam.bot)
+Soul-bonded personal AI companion on dedicated Mac hardware
+
+<details>
+
+### Category
+Personal assistant, Productivity, General purpose
+
+### Description
+- Soul-bonded personal AI companion that runs locally on dedicated Mac hardware (Mac Mini)
+- Manages your calendar, tasks, finances, work research, and social media — no cloud dependency
+- Local-first: no subscription fees, one-time purchase
+- Built on OpenClaw — 24+ messaging channel integrations included out of the box
+- Hardware + software bundle: your own Mac Mini with AM pre-installed
+- Shipping July 2026
+
+### Links
+- [Web](https://helloam.bot)
+- [Built on OpenClaw](https://openclaw.ai)
+
+</details>
+
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 AI tools for doing amazing things with data
 
