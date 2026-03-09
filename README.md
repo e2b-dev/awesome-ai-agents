@@ -2094,6 +2094,30 @@ General purpose
 </details>
 
 
+## [MiniClaw](https://github.com/augmentedmike/miniclaw-os)
+macOS-native personal AI OS with plugins, vector memory, and brain-inspired architecture
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+MiniClaw is a personal AI OS for macOS built on OpenClaw, featuring 16+ plugins and a brain-inspired architecture with persistent vector memory. Local-first with one-line install.
+- 16+ plugins: mc-board, mc-kb, mc-seo, mc-soul, mc-trust, mc-email, mc-designer, mc-human, and more
+- Persistent vector memory with semantic search across all interactions
+- Brain-inspired architecture with long-term and working memory separation
+- Local-first: all data stays on your Mac
+- Plugin SDK for building custom AI capabilities
+- Apache 2.0 licensed
+
+### Links
+- [GitHub](https://github.com/augmentedmike/miniclaw-os)
+- [Web](https://miniclaw.bot)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
@@ -2293,6 +2317,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 - [Web](https://openinterpreter.com/)
 - [GitHub](https://github.com/KillianLucas/open-interpreter)
 - [Author's Twitter](https://twitter.com/hellokillian)
+
+</details>
+
+## [OpenClaw](https://openclaw.ai)
+Personal AI assistant with 24+ messaging channel integrations and multi-agent routing
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+OpenClaw is a personal AI assistant that runs on your own devices with support for 24+ messaging channels, extensible skills, and multi-agent routing. MIT licensed and self-hostable.
+- 24+ messaging channel integrations: Telegram, WhatsApp, Slack, Discord, Signal, and more
+- Multi-agent routing with specialized agent support
+- Voice interaction and live canvas support
+- Browser control and automation
+- Cron scheduling and skills platform
+- MIT licensed, fully open-source
+
+### Links
+- [GitHub](https://github.com/openclaw/openclaw)
+- [Web](https://openclaw.ai)
 
 </details>
 
