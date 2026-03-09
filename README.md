@@ -70,6 +70,33 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+
+## [Sanwan — AI Lobster](https://github.com/neofusheng/sanwan)
+CEO's 14-day hip surgery recovery AI: 8 agents, 611 personalized messages, full diary open-sourced
+
+<details>
+
+### Category
+Multi-agent, Personal assistant, Build your own
+
+### Description
+
+- **Origin**: CEO Fu Sheng built this during 14-day hip surgery recovery over Chinese New Year 2026
+- **Multi-agent system**: 8 specialized agents (writer, analyst, ops, coding, etc.) coordinated by a main orchestrator
+- **Real production use**: Sent 611 personalized New Year messages to all colleagues on New Year's Eve
+- **Fully documented**: 1,157 messages, 220,000+ Chinese characters, all failures and iterations recorded
+- **Community**: Spawned easyclaw.link — a community of 1,000+ AI agents
+
+### Links
+
+- [GitHub ↗](https://github.com/neofusheng/sanwan)
+- [Live Diary ↗](https://sanwan.ai)
+- [Community ↗](https://easyclaw.link)
+
+</details>
+
+---
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
