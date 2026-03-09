@@ -732,6 +732,25 @@ General purpose, Productivity
 </details>
 
 
+## [BGPT MCP](https://github.com/connerlambden/bgpt-mcp)
+Search scientific papers with structured experimental data via MCP
+
+<details>
+
+### Category
+Research, Science, Data
+
+### Description
+- BGPT MCP is a hosted MCP server that lets AI agents search scientific papers and retrieve structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies.
+- Supports SSE and Streamable HTTP transports.
+- 50 free searches per network, then $0.01 per result with an API key.
+
+### Links
+- [GitHub](https://github.com/connerlambden/bgpt-mcp)
+- [Website](https://bgpt.pro/mcp)
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
