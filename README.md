@@ -1422,6 +1422,29 @@ Coding
 
 </details>
 
+## [g0](https://github.com/guard0-ai/g0)
+The control layer for AI agents — discover, assess, test, monitor, and govern AI agent infrastructure
+
+<details>
+
+### Category
+Security, Developer tools, Governance
+
+### Description
+- The control layer for AI agents with governance across 12 security domains
+- 1,200+ security rules covering goal integrity, tool safety, data leakage, supply chain, and more
+- Parses 10 agent frameworks natively (LangChain, CrewAI, AutoGen, Vercel AI, OpenAI SDK, etc.)
+- Tests agents against 4,000+ adversarial payloads across 20 attack categories with adaptive mutations
+- Scans MCP server configurations across 18 AI developer tools with rug-pull detection
+- Endpoint monitoring daemon with drift detection and fleet-wide visibility
+- Maps findings to OWASP Agentic Top 10, NIST AI RMF, ISO 42001, EU AI Act, and 6 other standards
+
+### Links
+- [npm](https://www.npmjs.com/package/@guard0/g0)
+- [GitHub](https://github.com/guard0-ai/g0)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
