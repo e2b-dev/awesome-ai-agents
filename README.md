@@ -2094,6 +2094,28 @@ General purpose
 </details>
 
 
+## [MiniClaw](https://github.com/augmentedmike/miniclaw-os)
+Personal AI OS for Mac — personality, memory, plugins, and automation. Built on OpenClaw.
+
+<details>
+
+### Category
+Personal assistant / Self-hosted
+
+### Description
+- MiniClaw is a self-hosted personal AI agent OS running on a Mac mini
+- Combines personality, long-term memory, plugin ecosystem, cron jobs, email, SEO automation, and a project board
+- Built on top of OpenClaw — an open-source personal AI assistant runtime
+- Plugins include: kanban board, email client, SEO rank tracker, designer, and more
+- Designed for always-on, always-available personal AI on your own hardware
+
+### Links
+- [GitHub](https://github.com/augmentedmike/miniclaw-os)
+- [Website](https://miniclaw.bot)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
