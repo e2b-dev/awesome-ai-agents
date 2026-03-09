@@ -2636,6 +2636,19 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [SlackClaw](https://slackclaw.ai)
+
+<a href="https://slackclaw.ai"><img src="https://slackclaw.ai/logo.png" alt="SlackClaw" width="100" /></a>
+
+### Category
+<table><tr><td>Slack Agent</td><td>Managed Hosting</td><td>Team Productivity</td></tr></table>
+
+### Description
+Managed OpenClaw AI agent hosting for Slack workspaces. Provides credit-based pricing (no per-seat fees), per-channel permissions, built-in audit logging, and model-agnostic backend supporting Claude, GPT, and open models. Handles MCP server configuration, output filtering, and deployment infrastructure so teams can run AI agents in Slack without managing the stack themselves.
+
+### Links
+- [Website](https://slackclaw.ai)
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
