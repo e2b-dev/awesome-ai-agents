@@ -5589,3 +5589,26 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## [Lumen](https://github.com/omxyz/lumen)
+
+Vision-first browser agent with self-healing deterministic replay.
+
+<details>
+
+### Category
+Computer use, Browser automation, Build your own
+
+### Description
+- Screenshot → model → action perception loop over CDP — no DOM, no selectors
+- Multi-provider: Anthropic, Google, OpenAI, and any OpenAI-compatible endpoint
+- Self-healing action cache: replay cached actions, fall back to model on failure, auto-update
+- History compression, session resumption, streaming events, safety policies
+- 100% on WebVoyager 25-task subset (Claude Sonnet)
+
+### Links
+- [GitHub](https://github.com/omxyz/lumen)
+- [npm](https://www.npmjs.com/package/@omxyz/lumen)
+- [Docs](https://lumen.omlabs.xyz)
+
+</details>
