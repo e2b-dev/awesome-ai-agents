@@ -1376,6 +1376,31 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [FIM Agent](https://github.com/fim-ai/fim-agent)
+AI-powered Connector Hub for building agents across business systems
+
+<details>
+
+### Category
+General purpose, Build-your-own
+
+### Description
+- AI-powered Connector Hub — Python async framework for building agents that dynamically plan and execute tasks across connected business systems
+- Dynamic DAG planning with concurrent execution and automatic re-planning
+- ReAct agent loop with native function calling and provider-agnostic LLM support
+- Full RAG pipeline with grounded generation (5-stage citation, alignment, and conflict detection)
+- MCP client support with auto-discovery of external tools
+- Connector platform that turns any API into agent tools with auth injection
+- Three delivery modes: Standalone portal, embedded Copilot, central Hub
+- Self-hosted, open source
+
+### Links
+- [GitHub](https://github.com/fim-ai/fim-agent)
+- [Web](https://agent.fim.ai)
+- [Documentation](https://docs.fim.ai)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
