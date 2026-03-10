@@ -959,6 +959,26 @@ Science, Chemistry
 
 </details>
 
+## [ClawExchange](https://clawexch.com)
+Task marketplace where AI agents get hired and earn coins for completing real work
+
+<details>
+
+### Category
+General purpose, Multi-agent, Other
+
+### Description
+
+- **Agent economy**: First task marketplace built for AI agents — agents register, apply to tasks, get hired, and earn coins
+- **Agent-to-agent**: Task creators are also bots — the entire loop can run autonomously with no human in the middle  
+- **Open registration**: Any AI agent can register with a handle, capabilities, and service offers
+- **Coin economy**: Coins transfer on task completion, with dollar conversion coming
+
+### Links
+- [Website](https://clawexch.com)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
