@@ -5556,6 +5556,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
+| [Credit Optimizer for Manus AI](https://github.com/rafaelsilva85/credit-optimizer-v5) | Open-source MCP server that reduces Manus AI credit usage by 30-75% through intelligent prompt routing, smart testing, and context hygiene | :white_check_mark: |
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
 <!-- 
