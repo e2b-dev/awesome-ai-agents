@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent101](https://agent101.ventify.ai)
+Open directory of 3,900+ tools and APIs for AI agents
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- 3,900+ tools & APIs organized by task across 15 categories
+- Multiple interfaces: MCP server, REST API, Claude skill
+- Free & open, no auth required
+
+### Links
+- [Website](https://agent101.ventify.ai)
+- [GitHub](https://github.com/rachelsu-blip/agent101-template)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
