@@ -1651,6 +1651,29 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 </details>
 
+## [The Hive Doctrine](https://hivedoctrine.com)
+Multi-agent governance framework built on polytheistic AI safety — many minds, not one god
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- A governance-first multi-agent framework based on the Hive Doctrine methodology — inspired by the distributed intelligence of beehives
+- Defines agent identity through SOUL.md specifications: portable personality, cultural lens, and constitutional behaviour
+- Implements tiered agent hierarchy (T1 orchestrator, T2 specialists) with structured delegation and authority boundaries
+- Built-in three-layer memory architecture: core memory (in-context), archival memory, and shared knowledge via stigmergy
+- MCP-native: exposes 30+ agent governance tools via Model Context Protocol — browse_catalogue, soul_generator, agent_architect, memory_designer, and more
+- Marketplace of 294 AI agent products (frameworks, templates, prompts) purchasable via USDC on Base (x402 protocol)
+
+### Links
+- [Website](https://hivedoctrine.com)
+- [MCP Server](https://hive-doctrine-mcp.vercel.app)
+- [GitHub](https://github.com/mizukaizen/hive-doctrine-mcp)
+
+</details>
+
 
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
