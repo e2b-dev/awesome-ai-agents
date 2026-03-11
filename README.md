@@ -1062,6 +1062,29 @@ Coding
 
 </details>
 
+
+## [Conduit](https://github.com/bkauto3/Conduit)
+Auditable headless browser engine for autonomous AI agents
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- A headless browser with a cryptographic audit layer, designed as the browser engine for autonomous AI agents
+- Every browser action is recorded in a tamper-evident SHA-256 hash chain signed with Ed25519
+- Generates self-verifiable proof bundles that anyone can independently verify
+- 26 built-in browser actions with budget enforcement and cost tracking
+- Built on Patchright (stealth Playwright fork) for anti-detection
+- MCP server for integration with AI agent frameworks
+- Robots.txt compliant BFS crawler
+
+### Links
+- [GitHub](https://github.com/bkauto3/Conduit)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
