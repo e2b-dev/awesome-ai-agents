@@ -1355,6 +1355,27 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [EVC Spark MCP](https://github.com/entire-vc/evc-spark-mcp)
+MCP server for discovering and installing curated AI agent workflows
+
+<details>
+
+### Category
+Build-your-own (agent-building frameworks and platforms), SDK for AI apps
+
+### Description
+- MCP server for discovering, searching, and installing curated AI agent workflows from the Spark catalog
+- Search 200+ MCP servers and get ready-to-use install configs for Claude, Cursor, and other MCP clients
+- Browse curated bundles of skills, prompts, and integrations designed for specific use cases
+- Install via npm: `npx evc-spark-mcp`
+
+### Links
+- [GitHub](https://github.com/entire-vc/evc-spark-mcp)
+- [npm](https://www.npmjs.com/package/evc-spark-mcp)
+- [Spark Catalog](https://spark.entire.vc)
+
+</details>
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
