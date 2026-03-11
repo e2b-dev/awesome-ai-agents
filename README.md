@@ -2689,6 +2689,28 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Teleton](https://github.com/TONresistor/teleton-agent)
+Autonomous AI agent for Telegram with TON blockchain integration
+
+<details>
+
+### Category
+General purpose, Build-your-own, Multi-agent, Blockchain
+
+### Description
+- Autonomous AI agent that lives in Telegram with native TON blockchain integration
+- 15 LLM providers supported (Claude, GPT, Gemini, Grok, local models, and more)
+- ~125 built-in tools across 10 categories + extensible plugin SDK (108 public methods)
+- Hybrid RAG memory system (sqlite-vec + FTS5) with 3 embedding providers
+- Native GramJS Layer 223 for advanced Telegram features (styled buttons, gift marketplace)
+- Self-hosted with optional WebUI dashboard for configuration and monitoring
+- MIT licensed, actively maintained
+
+### Links
+- [GitHub](https://github.com/TONresistor/teleton-agent)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
