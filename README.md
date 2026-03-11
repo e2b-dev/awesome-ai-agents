@@ -5042,6 +5042,28 @@ Build-your-own
 
 </details>
 
+## [Rush](https://getrush.ai)
+The macOS AI agent OS — specialized agents for research, email, and content
+
+<details>
+
+### Category
+General purpose, Personal assistant, Productivity
+
+### Description
+
+- macOS-native agent OS that runs specialized AI agents locally
+- Agents for research (Rabbit Hole), email management (Inbox Ninja), content creation, daily wellness
+- Produces structured artifacts (reports, drafts) rather than chat responses
+- Expert-designed agents with curated prompts and workflows
+- Free to download, no API keys required
+
+### Links
+- [Website](https://getrush.ai)
+- [Download](https://cdn.getrush.ai/releases/rush/latest/Rush.dmg)
+
+</details>
+
 ## [Rebyte](https://rebyte.ai/)
 A Multi ai agents builder platform
 <details>
