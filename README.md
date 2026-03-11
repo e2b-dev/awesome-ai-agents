@@ -139,6 +139,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Factory](https://github.com/shuanbao0/agent-factory)
+Self-contained multi-agent collaboration platform with built-in Dashboard UI and autopilot mode
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+- Self-contained multi-agent collaboration platform with 64 built-in role templates, pixel-art Dashboard UI, and CEO-driven autopilot mode.
+- Built-in OpenClaw engine, no external dependencies required.
+- Runs locally with a Next.js Dashboard on port 3100 and WebSocket Gateway on port 19100.
+- Supports multiple AI providers including Anthropic, OpenAI, DeepSeek, and MiniMax.
+- Features dual-directory architecture separating agent definitions from work outputs.
+- Includes base-rules injection, department-based project spaces, and shared skill marketplace.
+
+### Links
+- [GitHub](https://github.com/shuanbao0/agent-factory)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
