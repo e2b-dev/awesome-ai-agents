@@ -1443,6 +1443,28 @@ Coding
 
 </details>
 
+## [GNAP](https://github.com/farol-team/gnap)
+Git-Native Agent Protocol — coordinate AI agent teams with zero infrastructure
+
+<details>
+
+### Category
+Multi-agent coordination, Orchestration
+
+### Description
+- Minimal protocol: 4 JSON entities on top of git (agents, tasks, runs, messages)
+- No server, no database — git push/pull is the entire transport layer
+- Git history = audit log, no separate audit system needed
+- Works across any agent runtime (OpenClaw, Claude Code, Codex, custom)
+- Cost tracking via runs (tokens, USD per execution)
+- Designed for business teams, not just research swarms
+
+### Links
+- [GitHub](https://github.com/farol-team/gnap)
+- Authors: [Farol Labs](https://farol.io) — Leonid Dinershtein, Alexander Mayak, Ori
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
