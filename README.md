@@ -2296,6 +2296,28 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [ORCH](https://github.com/oxgeneral/ORCH)
+CLI orchestrator for AI agent teams
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+ORCH is a CLI orchestrator that lets you run Claude, Codex, Cursor, and shell scripts as a typed task queue with a validated state machine.
+- Parallel task dispatch with automatic retries and stall detection
+- Validated state machine: `todo → in_progress → review → done`
+- Autonomous mode: set a Goal, ORCH generates tasks for idle agents automatically
+- Inter-agent messaging and shared context store
+- File-only state in `.orchestry/` directory (YAML + JSONL), no database required
+- TypeScript, MIT license
+
+### Links
+- [GitHub](https://github.com/oxgeneral/ORCH)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
