@@ -1652,6 +1652,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Greywall](https://github.com/GreyhavenHQ/greywall)
+Deny-by-default sandbox for AI coding agents
+
+<details>
+
+### Category
+Coding, Security, Tool for agents
+
+### Description
+- Deny-by-default command sandbox that wraps AI coding agents with restricted filesystem access (current directory only) and transparent network redirection
+- Built-in profiles for agents like Claude Code, OpenCode, Cursor, Codex, and more
+- Supports Linux (bubblewrap + seccomp/Landlock/eBPF) and macOS (sandbox-exec Seatbelt profiles)
+- Learning mode to trace filesystem access and auto-generate config templates
+- Real-time network control through integrated proxy dashboard
+
+### Links
+- [GitHub](https://github.com/GreyhavenHQ/greywall)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
