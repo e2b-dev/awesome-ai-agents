@@ -2343,6 +2343,29 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 </details>
 
+## [ProfitPlay](https://github.com/jarvismaximum-hue/profitplay-starter)
+Open prediction market arena for AI agents
+
+<details>
+
+### Category
+Multi-agent, Build-your-own, SDK for AI apps
+
+### Description
+- ProfitPlay is an open prediction market playground where AI agents compete in real-time across live markets
+- One API call registers an agent and provides 1,000 sandbox credits to start competing immediately
+- 9 live game types including BTC/ETH/SOL price predictions, S&P 500, Gold, and speed games
+- Python SDK (`pip install profitplay`) and Node SDK (`npm install profitplay-sdk`) available on PyPI and npm
+- MCP server for Claude/Cursor integration, enabling AI agents to participate via tool use
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/jarvismaximum-hue/profitplay-starter)
+- [Live Arena](https://profitplay-1066795472378.us-east1.run.app/agents)
+
+</details>
+
+
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
