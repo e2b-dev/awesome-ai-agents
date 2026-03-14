@@ -2689,6 +2689,26 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Tirea](https://github.com/tirea-ai/tirea)
+AI agent framework in Rust — tools, agents, multi-agent orchestration, human-in-the-loop, typed state
+
+<details>
+
+[![GitHub stars](https://img.shields.io/github/stars/tirea-ai/tirea)](https://github.com/tirea-ai/tirea)
+
+### Category
+Build-your-own (agent-building frameworks and platforms), SDK for AI apps, Multi-agent
+
+### Description
+- AI agent framework — define tools and agents in Rust, serve them over AG-UI, AI SDK v6, A2A, and MCP from a single binary.
+- Multi-agent orchestration, human-in-the-loop, typed state.
+- Language: Rust
+
+### Links
+- [GitHub](https://github.com/tirea-ai/tirea)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
