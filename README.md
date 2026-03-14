@@ -980,6 +980,28 @@ Coding
 
 </details>
 
+## [Claude War Room](https://github.com/RandMelville/claude-war-room)
+Sequential orchestrator of 5 specialized AI agents for 360° code analysis using Claude Code.
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Sequential orchestrator of 5 specialized AI agents for 360° feature analysis using Claude Code
+- One command triggers: reverse engineering, scalability analysis, concurrency validation, chaos engineering simulation, and executive report
+- Each agent builds on the findings of the previous one, creating progressively deeper analysis
+- Final output is a Confidence Report with severity table and prioritized action plan
+- Zero dependencies — just Markdown configuration files for Claude Code
+- Customizable for any domain (default: EdTech)
+
+### Links
+- [GitHub](https://github.com/RandMelville/claude-war-room)
+- [English Docs](https://github.com/RandMelville/claude-war-room/blob/main/README.en.md)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
