@@ -2427,6 +2427,25 @@ Productivity, Research
 
 </details>
 
+## [ShellWard](https://github.com/jnMetaCode/shellward)
+AI Agent Security Middleware — 8-layer defense against prompt injection, data exfiltration & dangerous commands
+
+<details>
+
+### Category
+Security, Developer tools
+
+### Description
+- Zero-dependency security middleware for AI agents
+- 8-layer defense system protecting against prompt injection, data exfiltration, and dangerous commands
+- Designed to secure AI agent tool calls and shell operations
+- Lightweight and easy to integrate into existing AI agent workflows
+
+### Links
+- [GitHub](https://github.com/jnMetaCode/shellward)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
