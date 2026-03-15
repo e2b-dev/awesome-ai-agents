@@ -2825,6 +2825,26 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
 
+## [widemem-ai](https://github.com/remete618/widemem-ai)
+Memory layer for AI agents with importance scoring and temporal decay
+
+<details>
+
+### Category
+Memory management
+
+### Description
+- An open-source Python memory SDK for AI agents with importance scoring (1-10), temporal decay, and 3-tier hierarchical memory (facts, summaries, themes).
+- Features YMYL prioritization and batch conflict resolution.
+- Local-first with SQLite + FAISS, zero external services required.
+- Install via `pip install widemem-ai`. Licensed under Apache 2.0.
+
+### Links
+- [GitHub](https://github.com/remete618/widemem-ai)
+- [Website](https://widemem.ai)
+
+</details>
+
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
