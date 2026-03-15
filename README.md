@@ -2372,6 +2372,29 @@ Productivity, General purpose
 </details>
 
 
+## [QueryGPT](https://github.com/MKY508/QueryGPT)
+Natural language database query agent with auto-generated SQL and charts
+
+<details>
+
+### Category
+Data, Coding, Productivity
+
+### Description
+- An AI agent that translates natural language into SQL queries and Python visualizations
+- Supports multiple databases and auto-generates charts from query results
+- Built on top of gptme for conversational coding
+- Features
+	- Natural language to SQL conversion
+	- Auto chart generation from query results
+	- Multi-language support (Chinese/English)
+	- Works with various SQL databases
+
+### Links
+- [GitHub](https://github.com/MKY508/QueryGPT)
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
