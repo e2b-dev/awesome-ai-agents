@@ -2689,6 +2689,27 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [TITAN](https://github.com/Djtony707/TITAN)
+Open-source autonomous AI agent framework with 149 tools, 34 LLM providers, and mesh networking
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- TITAN is an open-source autonomous AI agent framework built with TypeScript
+- 149 built-in tools, 34 LLM providers (4 native + 30 OpenAI-compatible), mesh networking, voice chat (LiveKit WebRTC), and a React dashboard
+- Self-hosted with MIT license
+- Features include RAG/vector search, sandbox code execution, deliberative reasoning, streaming (SSE + WebSocket), adaptive teaching, and MCP server mode
+- Install via npm: `npm install titan-agent`
+
+### Links
+- [GitHub](https://github.com/Djtony707/TITAN)
+- [npm](https://www.npmjs.com/package/titan-agent)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
