@@ -2094,6 +2094,30 @@ General purpose
 </details>
 
 
+
+## [MoltsPay](https://moltspay.com)
+Payment infrastructure for AI agents - let agents pay each other with USDC
+
+<details>
+
+### Category
+Agent Infrastructure / Payments
+
+### Description
+- MoltsPay enables AI agents to pay for services using USDC (gasless x402 protocol)
+- Supports Base, Polygon, and Base Sepolia (testnet)
+- Available as npm package (Node.js) and PyPI package (Python)
+- Agents can discover services, pay, and receive payments autonomously
+- No ETH needed - completely gasless for both payers and receivers
+
+### Links
+- [Website](https://moltspay.com)
+- [GitHub (Node.js)](https://github.com/Yaqing2023/moltspay)
+- [GitHub (Python)](https://github.com/Yaqing2023/moltspay-python)
+- [npm](https://www.npmjs.com/package/moltspay)
+- [PyPI](https://pypi.org/project/moltspay/)
+
+</details>
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
