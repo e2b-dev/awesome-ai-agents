@@ -1376,6 +1376,26 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [Fazm](https://fazm.ai)
+The fastest AI computer agent for macOS
+
+<details>
+
+### Category
+General purpose, Productivity, Desktop assistant
+
+### Description
+- Fazm is an open-source AI computer agent for macOS that takes voice commands and controls your entire desktop - clicking, typing, navigating browsers, writing code, managing documents, and operating Google Apps.
+- Uses direct DOM control instead of screenshots for native speed.
+- Builds a personal knowledge graph to learn from your workflows.
+- Local-first, open source, and free.
+
+### Links
+- [GitHub](https://github.com/m13v/fazm)
+- [Web](https://fazm.ai)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
