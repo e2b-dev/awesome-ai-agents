@@ -1771,6 +1771,28 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [Lingua Universale](https://github.com/rafapra3008/cervellaswarm)
+Protocol verification DSL for multi-agent AI systems
+
+<details>
+
+### Category
+Multi-agent, Build-your-own
+
+### Description
+- DSL compiler that verifies AI agent communication protocols using multiparty session types
+- Prevents deadlocks, unfinished protocols, and role violations at the specification level
+- 3,867 tests, zero external dependencies, works with any Python agent framework
+- 20 standard library protocols (HTTP, authentication, booking, AI/ML patterns)
+- Includes: CLI, REPL, LSP, VS Code extension, MCP server, Lean 4 formal proofs
+
+### Links
+- [GitHub](https://github.com/rafapra3008/cervellaswarm)
+- [PyPI](https://pypi.org/project/cervellaswarm-lingua-universale/)
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=cervellaswarm.lingua-universale)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
