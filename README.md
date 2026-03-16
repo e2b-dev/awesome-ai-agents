@@ -887,6 +887,27 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [ClawSwarm](https://github.com/trietphan/clawswarm)
+Open-source multi-agent orchestration framework with quality gates
+
+<details>
+
+### Category
+Build-your-own, Multi-agent, SDK for AI apps
+
+### Description
+- ClawSwarm deploys a team of specialist AI agents (ResearchClaw, CodeClaw, OpsClaw, Planner) that decompose goals into tasks, assign work to the right agent, and review each other's output.
+- Features a 3-tier chief review quality gate: scores ≥8 auto-approve, 5–7 require human review, <5 auto-reject with rework cycles.
+- Includes a real-time dashboard with a pixel art "agent office" visualization, goal tracking, schedule calendar, and analytics.
+- Built with TypeScript, supports any LLM provider, and includes a WebSocket bridge for real-time agent coordination.
+
+### Links
+- [GitHub](https://github.com/trietphan/clawswarm)
+- [npm — @clawswarm/core](https://www.npmjs.com/package/@clawswarm/core)
+- [Dashboard Demo](https://swarmclaw.vercel.app)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
