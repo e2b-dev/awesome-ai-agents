@@ -1398,6 +1398,8 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+- **[free-web-search-ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** - A zero-cost universal web search plugin for LLMs. Implements Search-First paradigm via MCP protocol — makes LLMs retrieve real-time information before answering. Works with Claude Desktop, Cursor, LangChain, OpenClaw. No API key needed.
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
