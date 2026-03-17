@@ -2253,6 +2253,26 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [openclaw-github-repo-commander](https://github.com/wd041216-bit/openclaw-github-repo-commander)
+7-stage super workflow skill for GitHub repository management
+<details>
+
+### Category
+Developer tools, Code, General purpose
+
+### Description
+- **7-stage structured workflow**: Intake → Execution → Reflection → Competitor Analysis → Synthesis → Iteration → Validation
+- **Automated repo audit**: Scans for hardcoded secrets, empty dirs, large files, broken links, and script permissions
+- **Competitor benchmarking**: Compares your repo against top similar projects on GitHub
+- **Cleanup automation**: Removes duplicates, dead code, stale docs, and untracked node_modules
+- **CI/CD integration**: Ships with GitHub Actions workflow for continuous skill validation
+- **PR-ready**: Generates structured commit messages and PR descriptions
+
+### Links
+- [GitHub](https://github.com/wd041216-bit/openclaw-github-repo-commander)
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
