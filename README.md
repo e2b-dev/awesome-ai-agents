@@ -2408,6 +2408,23 @@ Coding
 
 </details>
 
+## [Fazm](https://fazm.ai)
+Open-source, voice-controlled AI computer agent for macOS
+
+<details>
+
+### Category
+Productivity, Computer Use
+
+### Description
+- Fazm is an open-source AI desktop agent that controls your entire macOS through natural language and voice commands. Built in Swift/SwiftUI, it uses screen understanding to operate any app, file, or workflow - no integrations needed. Local-first, MIT licensed.
+
+### Links
+- [Web](https://fazm.ai)
+- [GitHub](https://github.com/m13v/fazm)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
