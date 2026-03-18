@@ -2296,6 +2296,25 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Parallel Code](https://parallelcode.app)
+Run multiple AI coding agents simultaneously in isolated git worktrees
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel
+- Each agent works in an isolated git branch and worktree
+- Built-in diff viewer and one-click merge controls
+- Remote monitoring via QR code
+
+### Links
+- [GitHub](https://github.com/nicobailon/parallel-code)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
