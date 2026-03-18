@@ -813,6 +813,24 @@ Coding
 
 </details>
 
+## [Bridge ACE](https://github.com/Luanace-lab/bridge-ide)
+Local multi-agent coordination platform
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+- Local multi-agent platform where 5 AI engines (Claude, Codex, Qwen, Gemini, Grok) coordinate in real-time via WebSocket.
+- 204 built-in MCP tools for browser automation, file operations, communication, and more.
+- Soul Engine for persistent agent identity across sessions.
+- Self-hosted and open source under Apache 2.0.
+
+### Links
+- [GitHub](https://github.com/Luanace-lab/bridge-ide)
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
