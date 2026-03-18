@@ -2296,6 +2296,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenHer](https://github.com/kellyvv/OpenHer)
+Open-source AI Being with emergent personality — inspired by the movie Her
+
+<details>
+
+### Category
+General purpose, Open source, AI companion
+
+### Description
+
+- **Emergent Personality**: Neural network × 5 personality drives × reinforcement learning — personality is computed, not prompted. Same MBTI, completely different people.
+- **Emotional Thermodynamics**: Drives metabolize with real time — she feels genuinely different today than yesterday.
+- **Living Memory**: Powered by EverMemOS. Important memories crystallize, forgotten ones dissolve. Cross-session long-term memory.
+- **Feel-First Architecture**: Every reply starts with inner processing — what she wants to say vs. what she will actually say.
+- **Desire-Driven Action**: She reaches out not because of a task, but because she wants to.
+- **Multi-LLM**: Supports Gemini, Claude, GPT, Qwen, MiniMax, Moonshot, StepFun, Ollama (local).
+- **macOS Native Client**: SwiftUI desktop app with ambient mood visualization.
+
+### Links
+- [GitHub](https://github.com/kellyvv/OpenHer)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
