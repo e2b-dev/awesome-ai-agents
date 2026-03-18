@@ -2311,7 +2311,7 @@ Coding, Multi-agent
 - Remote monitoring via QR code
 
 ### Links
-- [GitHub](https://github.com/nicobailon/parallel-code)
+- [GitHub](https://github.com/johannesjo/parallel-code)
 
 </details>
 
