@@ -1915,6 +1915,26 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [manusilized](https://github.com/wd041216-bit/manusilized)
+Open-source patch for OpenClaw that unlocks Manus-level autonomous task execution with local Ollama models.
+
+<details>
+
+### Category
+Open source, Build your own, Local models
+
+### Description
+- **Real-time token streaming**: Token-by-token output with Ollama models instead of waiting for full response buffering.
+- **Reliable tool calling**: Markdown-fallback mechanism for models (GLM-5, Qwen3, DeepSeek V3.2) that output tool calls as fenced JSON rather than structured API responses.
+- **Context compression**: Significantly extended task length for long-horizon agentic tasks without hitting context limits.
+- **Privacy-first**: Runs entirely on local hardware with no data leaving your machine when self-hosted.
+- **Tested models**: GLM-5, Qwen3-32B, DeepSeek V3.2, Kimi-K2.5.
+
+### Links
+- [GitHub](https://github.com/wd041216-bit/manusilized)
+- [PR to openclaw/openclaw](https://github.com/openclaw/openclaw/pull/49179)
+</details>
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
