@@ -2636,6 +2636,22 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [TeamHero](https://github.com/sagiyaacoby/TeamHero)
+Open-source multi-agent orchestration platform for Claude Code. Build and manage teams of AI agents with a web dashboard.
+
+<details>
+
+### Category
+- Agent Orchestration, Developer Tools
+
+### Description
+Multi-agent orchestration platform that turns Claude Code into a managed team of AI agents. Each agent has a defined role, personality, rules, and persistent memory. Features include a task lifecycle with version tracking, knowledge base, round-table coordination, subtask dependencies, and autopilot mode. Built with Node.js, vanilla JS frontend, JSON storage - no database required.
+
+### Links
+- [GitHub](https://github.com/sagiyaacoby/TeamHero)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
