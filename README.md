@@ -1160,6 +1160,27 @@ Build-your-own
 
 </details>
 
+## [Datashift](https://datashift.io)
+Human-in-the-loop review platform for AI agents
+
+<details>
+
+### Category
+Infrastructure, Developer tools, Build your own
+
+### Description
+- Adds human review checkpoints to AI agent workflows — approval, classification, scoring, labeling, and augmentation
+- Agents submit tasks via SDK, REST API, or MCP; reviewers decide in the web console, Slack, Discord, or Microsoft Teams
+- Supports human and AI reviewers with configurable routing (round-robin, priority-based, AI-first)
+- TypeScript and Python SDKs
+
+### Links
+- [Web](https://datashift.io)
+- [Documentation](https://datashift.io/docs)
+- [GitHub](https://github.com/datashift-io)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
