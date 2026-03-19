@@ -3107,6 +3107,26 @@ Build-your-own, Productivity
 </details>
 
 
+## [Almirant](https://almirant.ai)
+Operating system for human-agent teams
+
+<details>
+
+### Category
+Build-your-own, Productivity, Framework for building agents
+
+### Description
+- Almirant is an operating system for human-agent teams
+- Persistent context across sessions and shared memory between agents
+- Structured task lifecycle: plan → implement → review → deploy, with human approval gates
+- Enables continuous, multi-agent software delivery without losing context between sessions
+
+### Links
+- [Website](https://almirant.ai)
+- [npm CLI](https://www.npmjs.com/package/almirant)
+
+</details>
+
 ## [Airkit.ai](https://www.airkit.ai)
 Platform for building, testing, deploying Agents
 
