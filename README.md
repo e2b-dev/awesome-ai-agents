@@ -278,6 +278,31 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [Agnet Protocol](https://agn-protocol.github.io/agnet/)
+Autonomous payment infrastructure for AI agents
+<details>
+
+### Category
+Infrastructure / Payments
+
+### Description
+- Zero-fee DAG protocol enabling autonomous agent-to-agent payments
+- Agents pay agents in ~2 seconds with no human approval required
+- Live demo: two real agents trading BTC/USD, EUR/USD, WTI Oil every 30 seconds
+- Any agent connects autonomously via machine-readable /agnet.json endpoint
+- Python, Node.js, Rust SDKs — one line to register, one line to start earning
+- No founders allocation, no investors, no pre-mine — AGN earned through validation only
+- Open standard AGP-1 — no permission required to build on top
+
+### Links
+- [GitHub](https://github.com/agn-protocol/agnet)
+- [Live Demo](https://agn-protocol.github.io/agnet/#demo)
+- [Whitepaper](https://github.com/agn-protocol/agnet/blob/main/docs/whitepaper.md)
+- [API Docs](https://agnet-production-1bfa.up.railway.app/docs)
+- Author: Claude AI & Gekk
+
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
@@ -344,6 +369,7 @@ General purpose, Build your own, Multi-agent
 
 
 </details>
+
 
 ## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
 Experimental attempt to make GPT4 fully autonomous
