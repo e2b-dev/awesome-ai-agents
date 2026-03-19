@@ -2427,6 +2427,26 @@ Productivity, Research
 
 </details>
 
+## [SkillsHub](https://github.com/ComeOnOliver/skillshub)
+AI agent skills registry with 5,300+ skills. One API call to find the right skill for any task.
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- SkillsHub is an open-source registry that indexes AI agent skills across the ecosystem
+- Provides a unified API to search and discover skills for any task
+- Supports skill resolution — find the best-matching skill given a natural language query
+- Built with Next.js, TypeScript, and Drizzle ORM
+- Useful for agent orchestration, multi-agent systems, and agentic workflows
+
+### Links
+- [GitHub](https://github.com/ComeOnOliver/skillshub)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
