@@ -3006,6 +3006,31 @@ General purpose
 
 </details>
 
+## [AgentOp](https://www.agentop.com/)
+Marketplace for creating, sharing & deploying browser-executable AI agents
+
+<details>
+
+### Category
+Build your own, Marketplace, General purpose, Coding
+
+### Description
+- A marketplace platform for creating, sharing, and deploying browser-executable AI agents
+- Agents are generated as **standalone HTML files** that run LLMs directly in the browser — no backend required
+- Supports multiple LLM providers:
+  - **OpenAI** and **Anthropic** via API (with client-side AES-256-GCM encrypted key embedding)
+  - **Local in-browser inference** via WebLLM (WebGPU) — no API key needed
+- **Template builder** with prompt engineering, Mustache variable substitution, and multi-step wizard
+- **Version control** for prompts via `PromptVersion` model with diff comparison and one-click activation
+- **Package management** with intelligent version conflict detection (supports Pyodide built-ins + PyPI packages via micropip)
+- **Dual-mode WebLLM architecture**: native OpenAI function calling (Hermes models) and manual XML tag parsing (Llama 3.1+)
+- Agent HTML files are generated on-demand and never stored — privacy by design
+
+### Links
+- [Web](https://www.agentop.com/)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
