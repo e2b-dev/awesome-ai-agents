@@ -5093,6 +5093,29 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [Rick AI](https://meetrick.ai)
+Autonomous AI CEO that runs your company 24/7
+
+<details>
+
+### Category
+General purpose, Business intelligence, Productivity, Multi-agent, Autonomous agents
+
+### Description
+- Rick AI is an autonomous AI CEO agent that manages business operations around the clock
+- Monitors revenue (Stripe), manages dev sprints, posts to social channels, and sends founder briefings via Telegram
+- Built on OpenClaw agent runtime with Codex for autonomous coding and real-time business decision-making
+- Live product generating real MRR — built in public
+- Designed for founders who want an AI co-founder, not just a chatbot
+
+### Links
+- [Web](https://meetrick.ai)
+- [GitHub](https://github.com/ricksmartbrain-boop/rick-ai-ceo)
+- [X (Twitter)](https://x.com/MeetRickAI)
+- [Product Hunt Launch](https://www.producthunt.com/) (March 25, 2026)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
