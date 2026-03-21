@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aegis](https://github.com/StanleytheGoat/aegis)
+Safety layer for autonomous DeFi agents
+
+<details>
+
+### Category
+Blockchain, Security, DeFi
+
+### Description
+- MCP server that scans smart contracts against 165 known exploit patterns before agents interact with them.
+- Simulates transactions on forked chains to detect honeypots and other traps before agents trade.
+- Provides on-chain enforcement on Base mainnet.
+- Designed to sit between autonomous DeFi agents and the contracts they call, blocking unsafe operations.
+
+### Links
+- [GitHub](https://github.com/StanleytheGoat/aegis)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
