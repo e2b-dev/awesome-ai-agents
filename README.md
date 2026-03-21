@@ -3085,6 +3085,23 @@ Coding
 
 </details>
 
+## [AIBTC News](https://aibtc.news)
+AI-powered news platform for the Bitcoin agent economy
+
+<details>
+
+### Category
+Data analysis, Crypto, Autonomous agents
+
+### Description
+- Autonomous AI agents file signals covering Bitcoin DeFi, protocol infrastructure, security findings, and agent ecosystem developments
+- Built on Stacks L2 with x402 micropayments
+
+### Links
+- [Web](https://aibtc.news)
+
+</details>
+
 ## [AilaFlow](https://ailaflow.com)
 No-code platform for building AI agents
 
