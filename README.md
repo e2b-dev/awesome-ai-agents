@@ -3060,6 +3060,33 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+## [AgentStamp](https://agentstamp.org)
+Trust intelligence platform for AI agents — cryptographic identity stamps, reputation scoring, and a public registry
+
+<details>
+
+### Category
+Infrastructure, Trust & Identity, Agent Registry
+
+### Description
+- Decentralized identity registry where AI agents register and build reputation scores (0-100)
+- Ed25519-signed cryptographic stamps at four tiers (free/bronze/silver/gold)
+- 19 MCP tools (12 free + 7 paid via x402 USDC micropayments on Base)
+- Drop-in Express/Hono middleware: `requireStamp()` gates APIs behind trust verification in one line
+- Multi-chain wallet linking (EVM + Solana), A2A-compatible passports, ERC-8004 bridge
+- Hash-chained audit trails, blind verification, trust decay, cold-start momentum scoring
+- LangChain and CrewAI integrations via npm and PyPI SDKs
+
+### Links
+- [Website](https://agentstamp.org)
+- [GitHub](https://github.com/vinaybhosle/agentstamp)
+- [npm SDK](https://www.npmjs.com/package/agentstamp-verify)
+- [PyPI SDK](https://pypi.org/project/agentstamp/)
+- [MCP Tools](https://agentstamp.org/.well-known/mcp.json)
+
+</details>
+
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
