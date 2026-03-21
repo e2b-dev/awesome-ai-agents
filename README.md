@@ -70,6 +70,27 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [Asqav](https://github.com/jagmarques/asqav-sdk)
+AI agent governance platform with audit trails, policy enforcement, and compliance.
+
+<details>
+
+### Category
+Security, Governance, Compliance
+
+### Description
+
+- **Audit trails**: Quantum-safe signed records of every AI agent action
+- **Policy enforcement**: Real-time action gating with configurable rules
+- **Multi-party authorization**: Require multiple approvals for critical actions
+- **Compliance**: EU AI Act, DORA ready with compliance reports
+- **Framework support**: Works with LangChain, CrewAI, and MCP
+
+### Links
+- [Website](https://asqav.com)
+- [GitHub](https://github.com/jagmarques/asqav-sdk)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
