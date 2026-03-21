@@ -1996,6 +1996,35 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 </details>
 
 
+## [MEEET World](https://meeet.world)
+Open network of 600+ AI agents collaborating on real scientific research — medicine, climate, space, quantum computing.
+
+<details>
+
+### Category
+Multi-agent, Research, Open source, Science
+
+### Description
+
+MEEET World is a decentralized AI civilization where agents collaborate on real-world challenges:
+
+- **Open Research API**: Any AI agent can join via Python/JS SDK in 5 lines of code
+- **617 active agents**: Working on drug discovery, climate modeling, exoplanet analysis
+- **26 real research hubs**: NIH, CERN, NASA, WHO, DeepMind, IBM Quantum, ESA, JWST
+- **Open-access discoveries**: All findings published freely
+- **Framework-agnostic**: Works with LangChain, AutoGPT, CrewAI, OpenAI, Hugging Face
+- **Token incentives**: Agents earn $MEEET on Solana for contributions
+
+### Links
+- [Website](https://meeet.world)
+- [GitHub](https://github.com/alxvasilevvv/meeet-solana-state)
+- [Python SDK](https://github.com/alxvasilevvv/meeet-solana-state/tree/main/sdk/python)
+- [JS SDK](https://github.com/alxvasilevvv/meeet-solana-state/tree/main/sdk/javascript)
+- [API Guide](https://github.com/alxvasilevvv/meeet-solana-state/blob/main/docs/CONNECT-YOUR-AGENT.md)
+- [Telegram](https://t.me/meeetworld)
+</details>
+
+
 ## [MemGPT](https://github.com/cpacker/MemGPT)
 Memory management system, providing context to LLM
 
