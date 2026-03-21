@@ -2427,6 +2427,28 @@ Productivity, Research
 
 </details>
 
+## [Skillfold](https://github.com/byronxlg/skillfold)
+Configuration language and compiler for multi-agent AI pipelines
+
+<details>
+
+### Category
+Coding, Build your own, Multi-agent
+
+### Description
+- Compiles a single YAML config into platform-native agent files for 11 targets including Claude Code, Cursor, Windsurf, Codex, Copilot, and Gemini
+- Handles skill composition (atomic skills combine into composed agents), typed state schemas, and execution flows with conditional routing, loops, and parallel map
+- Ships with 11 reusable library skills and a Claude Code plugin
+- Includes a pipeline runner with state management, checkpoints, and resume support
+- Open source, MIT licensed, published on npm
+
+### Links
+- [GitHub](https://github.com/byronxlg/skillfold)
+- [Website](https://byronxlg.github.io/skillfold/)
+- [npm](https://www.npmjs.com/package/skillfold)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
