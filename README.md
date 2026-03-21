@@ -1470,6 +1470,29 @@ General purpose
 
 </details>
 
+## [Global Chat](https://github.com/pumanitro/global-chat)
+Cross-protocol AI agent discovery platform
+
+<details>
+
+### Category
+Infrastructure, Developer tools, Agent discovery
+
+### Description
+- Global Chat is a protocol-agnostic discovery layer for AI agents
+- Aggregates agents across MCP, A2A, agents.txt, ACDP, and 9+ other protocols
+- Searchable directory of 18,000+ MCP servers across 6+ registries
+- Free agents.txt validator and linter
+- Open-source MCP server for programmatic access via `npx @global-chat/mcp-server`
+- Built for the fragmented agent ecosystem where no single registry covers all protocols
+
+### Links
+- [Website](https://global-chat.io)
+- [GitHub](https://github.com/pumanitro/global-chat)
+- [npm](https://www.npmjs.com/package/@global-chat/mcp-server)
+
+</details>
+
 ## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
 The ultimate AI agent integration for Discord
 
