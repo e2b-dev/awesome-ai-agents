@@ -981,7 +981,7 @@ Coding
 </details>
 
 ## [ClawPier](https://github.com/SebastianElvis/clawpier)
-Native desktop app for managing sandboxed AI agent instances via Docker
+Native desktop app for running AI agent instances in Docker sandboxes
 
 <details>
 
@@ -990,7 +990,7 @@ Infrastructure, Deployment, Build your own
 
 ### Description
 
-- **Sandboxed by default**: Every OpenClaw agent runs in a Docker container with `--network none` — network access is opt-in per bot.
+- **Each bot is sandboxed**: Every OpenClaw agent runs in its own Docker container with `--network none` — network access is opt-in per bot.
 - **No CLI required**: Full GUI for chat, config, terminal, logs, file browsing, and resource monitoring.
 - **ClawHub skill browser**: Browse 50+ bundled skills, search the ClawHub registry, one-click install/uninstall.
 - **Health checks**: Configurable per-bot health commands with automatic restart on failure.
