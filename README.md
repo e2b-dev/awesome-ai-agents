@@ -139,6 +139,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentKit](https://github.com/zeros-projects/agentkit)
+AI agent framework for autonomous workflows & observability
+<details>
+
+![Image](https://raw.githubusercontent.com/zeros-projects/agentkit/main/assets/agentkit-logo.png)
+
+### Category
+General purpose, Build your own, Developer Tools
+
+### Description
+- Production-ready framework for building AI agents with full observability
+- Built-in structured logging and performance monitoring
+- Modular agent architecture supporting diverse LLM providers
+- Real-time agent execution tracking and debugging
+- Designed for production deployments with reliability focus
+- Type-safe TypeScript implementation
+
+### Links
+- [GitHub](https://github.com/zeros-projects/agentkit)
+- [Documentation](https://agentkit-docs.vercel.app)
+- [Live Demo](https://agentkit-sandy.vercel.app)
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
@@ -203,8 +226,31 @@ General purpose
 ### Links
 - [GitHub](https://github.com/jbexta/AgentPilot)
 - [X ](https://twitter.com/AgentPilotAI)
-- 
-  
+-
+
+</details>
+
+## [AgentScore](https://github.com/zeros-projects/agentscore)
+Evaluation & benchmarking platform for AI agents
+<details>
+
+![Image](https://raw.githubusercontent.com/zeros-projects/agentscore/main/assets/agentscore-logo.png)
+
+### Category
+Evaluation, Testing, Benchmarking
+
+### Description
+- Comprehensive evaluation framework for measuring AI agent performance
+- Built-in benchmark suites for common agent tasks
+- Real-time performance metrics and analytics dashboard
+- Support for custom evaluation criteria and scoring rules
+- Integration with popular LLM providers and agent frameworks
+- Designed for continuous agent quality monitoring and improvement
+
+### Links
+- [GitHub](https://github.com/zeros-projects/agentscore)
+- [Documentation](https://agentscore-docs.vercel.app)
+- [Live Platform](https://agentscore-sandy.vercel.app)
 </details>
 
 ## [Agents](https://github.com/aiwaves-cn/agents)
@@ -681,7 +727,29 @@ General purpose
 
 </details>
 
+## [BotForge](https://github.com/zeros-projects/botforge)
+Open-source framework for building production AI agents
+<details>
 
+![Image](https://raw.githubusercontent.com/zeros-projects/botforge/main/assets/botforge-logo.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Complete framework for building, deploying, and managing AI agents at scale
+- Built-in support for multi-agent orchestration and collaboration
+- Comprehensive tool integration system with 50+ pre-built connectors
+- Real-time monitoring and analytics dashboard
+- Designed for production use with reliability and fault tolerance
+- TypeScript-first implementation with full type safety
+- Supports diverse LLM providers (OpenAI, Anthropic, Google, etc.)
+
+### Links
+- [GitHub](https://github.com/zeros-projects/botforge)
+- [Documentation](https://botforge-docs.vercel.app)
+- [Live Demo](https://botforge-sandy.vercel.app)
+</details>
 
 ## [BambooAI](https://github.com/pgalko/BambooAI)
 Data exploration and analysis for non-programmers
