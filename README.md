@@ -813,6 +813,26 @@ Coding
 
 </details>
 
+## [Bug Shepherd](https://github.com/mshadmanrahman/bug-shepherd)
+Zero-code bug triage agent for product managers
+
+<details>
+
+### Category
+Productivity, Bug Triage
+
+### Description
+- An AI-powered bug triage agent built for Claude Code that enables product managers to manage bugs without reading source code
+- Syncs bugs from Jira, GitHub Issues, and Linear via 3 built-in adapters
+- Launches 5 parallel agents to check bug reproducibility on live sites
+- Includes priority-based triage ordering and human approval gates
+- Open source (MIT license)
+
+### Links
+- [GitHub](https://github.com/mshadmanrahman/bug-shepherd)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
