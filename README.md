@@ -2458,6 +2458,26 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Skillfold](https://github.com/byronxlg/skillfold)
+Configuration language and compiler for multi-agent AI pipelines
+
+<details>
+
+### Category
+Build your own, Multi-agent, Coding
+
+### Description
+- Compiles a single YAML config into native agent skill files for 11 platforms including Claude Code, Cursor, Codex, Copilot, and Gemini CLI.
+- Defines reusable atomic skills that compose into agents, with typed state schemas and team execution flows with conditional routing, loops, and parallel map.
+- Includes a shared library of 11 generic skills (planning, research, code-writing, testing, etc.) and a pipeline runner for automated multi-agent execution.
+- 859 tests, MIT license, published on npm as `skillfold`.
+
+### Links
+- [GitHub](https://github.com/byronxlg/skillfold)
+- [Documentation](https://skillfold.dev)
+- [npm](https://www.npmjs.com/package/skillfold)
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
