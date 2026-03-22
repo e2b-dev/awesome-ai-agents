@@ -2458,6 +2458,24 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Shep](https://github.com/shep-ai/cli)
+Multi-session SDLC control center for AI coding agents
+
+<details>
+
+### Category
+Coding, GitHub
+
+### Description
+- Shep is an SDLC control center that enables AI coding agents to autonomously handle the complete feature lifecycle — from requirements through testing to merged pull requests.
+- Orchestrates multi-session feature development using Claude Code, Cursor CLI, or Gemini.
+- Features configurable approval gates and a live web dashboard for monitoring progress across repositories.
+
+### Links
+- [GitHub](https://github.com/shep-ai/cli)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
