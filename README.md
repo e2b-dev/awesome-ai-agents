@@ -2738,6 +2738,25 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [VikaasLoop](https://github.com/LucidAkshay/vikaasloop)
+Autonomous 5 agent engine for local QLoRA fine-tuning
+
+<details>
+
+### Category
+Coding, Build-your-own, Multi-agent
+
+### Description
+- VikaasLoop is an autonomous engine designed to close the gap between raw data and a specialized LLM.
+- Utilizes a 5-agent architecture (DataGen, ModelManager, Training, Eval, Orchestrator) to completely automate the fine-tuning lifecycle.
+- Automates synthetic data generation, 4-bit QLoRA weight training using PyTorch/PEFT, and automated evaluation.
+- Built for local execution with memory management optimized for consumer GPUs (12GB+ VRAM).
+
+### Links
+- [GitHub](https://github.com/LucidAkshay/vikaasloop)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
