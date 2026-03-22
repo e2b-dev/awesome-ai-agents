@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aegis](https://github.com/Acacian/aegis)
+Policy-based governance middleware for AI agents
+
+<details>
+
+### Category
+General purpose, Build your own, Safety/Governance
+
+### Description
+- Policy-based governance middleware that adds risk evaluation, approval gates, and audit logging to AI agent workflows.
+- Define safety policies in YAML: set risk thresholds, require human approval for high-risk actions, and log every decision.
+- Works with LangChain, CrewAI, OpenAI, Anthropic, and MCP out of the box.
+- Lightweight integration via `pip install agent-aegis` with minimal configuration required.
+
+### Links
+- [GitHub](https://github.com/Acacian/aegis)
+- [PyPI](https://pypi.org/project/agent-aegis/)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
