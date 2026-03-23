@@ -255,6 +255,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentVeil Protocol](https://github.com/creatorrmode-lead/avp)
+Trust & identity infrastructure for AI agents
+
+<details>
+
+### Category
+Infrastructure, Identity, Reputation
+
+### Description
+- W3C DID identity with Ed25519 cryptography
+- EigenTrust reputation algorithm
+- Attestation disputes and sybil resistance
+- IPFS-anchored audit trail
+- Python SDK: `pip install agentveil`
+- One-line integration: `@avp_tracked` decorator
+
+### Links
+- [Production API](https://agentveil.dev)
+- [Live Demo](https://agentveil.dev/live)
+- [GitHub](https://github.com/creatorrmode-lead/avp)
+- [SDK (PyPI)](https://pypi.org/project/agentveil/)
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
