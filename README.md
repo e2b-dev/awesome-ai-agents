@@ -71,7 +71,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 # Open-source projects
 
 ## [Adala](https://github.com/HumanSignal/Adala)
-Adala: Autonomous Data (Labeling) Agent framework
+Adala: Autonomous Data (Labeling) Agent framework ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -96,7 +96,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
-Recommender system simulator with 1,000 agents
+Recommender system simulator with 1,000 agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jul%202024-blue)
 
 <details>
 <p><img src="https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png" alt="Image" /></p>
@@ -115,7 +115,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
-LLM-agnostic platform for agent building & testing
+LLM-agnostic platform for agent building & testing ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
 
 <details>
 
@@ -140,7 +140,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
-Browser-based no-code version of AutoGPT
+Browser-based no-code version of AutoGPT ![Last Updated](https://img.shields.io/badge/Last%20Updated-Apr%202025-blue)
 <details>
 
 ![Image](https://raw.githubusercontent.com/reworkd/AgentGPT/main/next/public/banner.png)
@@ -183,7 +183,7 @@ General purpose
 <!-- This is a comment that appears only in the raw text -->
 
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
-Build, manage, and chat with agents in desktop app
+Build, manage, and chat with agents in desktop app ![Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202025-blue)
 
 
 <details>
@@ -209,7 +209,7 @@ General purpose
 
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
-Library/framework for building language agents
+Library/framework for building language agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202024-blue)
 
 <details>
 
@@ -235,7 +235,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
-Platform for task-solving & simulation agents
+Platform for task-solving & simulation agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202024-blue)
 <details>
 
 ![Image](https://pbs.twimg.com/card_img/1744672970822615040/m870GGf1?format=jpg&name=medium)
@@ -256,7 +256,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AI Legion](https://github.com/eumemic/ai-legion)
-Multi-agent TS platform, similar to AutoGPT
+Multi-agent TS platform, similar to AutoGPT ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-blue)
 
 <details>
 
@@ -279,7 +279,7 @@ Multi-agent, Build-your-own
 </details>
 
 ## [Aider](https://github.com/paul-gauthier/aider)
-Use command line to edit code in your local repo
+Use command line to edit code in your local repo ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -302,7 +302,7 @@ Coding, GitHub
 </details>
 
 ## [AIlice](https://github.com/myshell-ai/AIlice)
-Create agents-calling tree to execute your tasks
+Create agents-calling tree to execute your tasks ![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202025-blue)
 <details>
 
 ![Image](https://github.com/myshell-ai/AIlice/raw/master/AIlice.png)
@@ -321,7 +321,7 @@ General purpose, Personal assistant, Productivity
 </details>
 
 ## [AutoGen](https://github.com/microsoft/autogen)
-Multi-agent framework with diversity of agents
+Multi-agent framework with diversity of agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 <details>
 
 ![Image](https://github.com/microsoft/autogen/raw/main/website/static/img/autogen_agentchat.png)
@@ -346,7 +346,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [AutoGPT](https://agpt.co/?utm_source=awesome-ai-agents)
-Experimental attempt to make GPT4 fully autonomous
+Experimental attempt to make GPT4 fully autonomous ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -390,7 +390,7 @@ General purpose
 
 
 ## [Automata](https://github.com/emrgnt-cmplxty/automata)
-Generate code based on your project context
+Generate code based on your project context ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202023-blue)
 
 <details>
 
@@ -426,7 +426,7 @@ Coding
 </details>
 
 ## [AutoPR](https://github.com/irgolic/AutoPR)
-AI-generated pull requests agent that fixes issues
+AI-generated pull requests agent that fixes issues ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -448,7 +448,7 @@ Coding, GitHub
 </details>
 
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
-Agent that answers HR-related queries using tools
+Agent that answers HR-related queries using tools ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202024-blue)
 
 <details>
 
@@ -475,7 +475,7 @@ HR, Business intelligence, Productivity
 </details>
 
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
-A simple framework for managing tasks using AI
+A simple framework for managing tasks using AI ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 <details>
 
 ![Image](https://user-images.githubusercontent.com/21254008/235015461-543a897f-70cc-4b63-941a-2ae3c9172b11.png)
@@ -504,7 +504,7 @@ General purpose
 
 
 ## [BabyBeeAGI](https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/)
-Task management & functionality BabyAGI expansion
+Task management & functionality BabyAGI expansion ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 
 <details>
 
@@ -531,7 +531,7 @@ General purpose, Productivity
 
 
 ## [BabyCatAGI](https://replit.com/@YoheiNakajima/BabyCatAGI)
-BabyCatAGI is a mod of BabyBeeAGI
+BabyCatAGI is a mod of BabyBeeAGI ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 <details>
 
 ![Image](https://pbs.twimg.com/media/FwBwoRracAI99iP?format=jpg&name=medium)
@@ -568,7 +568,7 @@ General purpose
 </details>
 
 ## [BabyDeerAGI](https://twitter.com/yoheinakajima/status/1666313838868992001)
-Mod of BabyAGI with only ~350 lines of code
+Mod of BabyAGI with only ~350 lines of code ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 
 <details>
 
@@ -598,7 +598,7 @@ General purpose
 </details>
 
 ## [BabyElfAGI](https://twitter.com/yoheinakajima/status/1678443482866933760)
-Mod of BabyDeerAGI, with ~895 lines of code
+Mod of BabyDeerAGI, with ~895 lines of code ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 <details>
 
 ![Image](https://pbs.twimg.com/media/F0sHc04aMAEVn3D?format=jpg&name=medium)
@@ -624,7 +624,7 @@ General purpose
 
 
 ## [BabyCommandAGI](https://github.com/saten-private/BabyCommandAGI)
-Test what happens when you combine CLI and LLM
+Test what happens when you combine CLI and LLM ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202025-blue)
 <details>
 
 ![Image](https://github.com/saten-private/BabyCommandAGI/raw/main/docs/Architecture.png)
@@ -649,7 +649,7 @@ General purpose, Coding
 
 
 ## [BabyFoxAGI](https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi)
-Mod of BabyAGI with a new parallel UI panel
+Mod of BabyAGI with a new parallel UI panel ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 
 
 <details>
@@ -684,7 +684,7 @@ General purpose
 
 
 ## [BambooAI](https://github.com/pgalko/BambooAI)
-Data exploration and analysis for non-programmers
+Data exploration and analysis for non-programmers ![Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202025-blue)
 
 <details>
 
@@ -713,7 +713,7 @@ Data analysis
 
 
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
-Early-stage project for wide range of tasks
+Early-stage project for wide range of tasks ![Last Updated](https://img.shields.io/badge/Last%20Updated-Oct%202023-blue)
 
 <details>
 
@@ -733,7 +733,7 @@ General purpose, Productivity
 
 
 ## [Blinky](https://github.com/seahyinghang8/blinky)
-An open-source AI debugging agent for VSCode
+An open-source AI debugging agent for VSCode ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202024-blue)
 
 <details>
 
@@ -755,7 +755,7 @@ Coding, Debugging
 
 
 ## [Bloop](https://bloop.ai/)
-AI code search, works for Rust and Typescript
+AI code search, works for Rust and Typescript ![Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202024-blue)
 
 <details>
 
@@ -814,7 +814,7 @@ Coding
 </details>
 
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
-AI agent that keeps npm dependencies up-to-date
+AI agent that keeps npm dependencies up-to-date ![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202024-blue)
 
 <details>
 
@@ -837,7 +837,7 @@ Coding
 </details>
 
 ## [Cal.ai](https://cal.ai)
-Open-source scheduling assistant built on Cal.com
+Open-source scheduling assistant built on Cal.com ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -859,7 +859,7 @@ Productivity
 
 
 ## [CAMEL](https://github.com/camel-ai/camel)
-Architecture for “Mind” Exploration of agents
+Architecture for “Mind” Exploration of agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -888,7 +888,7 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 </details>
 
 ## [ChatArena](https://www.chatarena.org/)
-A chat tool for multi agent interaction
+A chat tool for multi agent interaction ![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202025-blue)
 
 <details>
 
@@ -913,7 +913,7 @@ ChatArena provides:
 </details>
 
 ## [ChatDev](https://github.com/OpenBMB/ChatDev)
-Communicative agents for software development
+Communicative agents for software development ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -937,7 +937,7 @@ Coding, Multi-agent
 </details>
 
 ## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
-LangChain agent for chemistry-related tasks
+LangChain agent for chemistry-related tasks ![Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202024-blue)
 
 <details>
 
@@ -960,7 +960,7 @@ Science, Chemistry
 </details>
 
 ## [Clippy](https://github.com/ennucore/clippy/)
-Agent that can plan, write, debug, and test code
+Agent that can plan, write, debug, and test code ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202024-blue)
 
 <details>
 
@@ -981,7 +981,7 @@ Coding
 </details>
 
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
-Agent serving entire SW development lifecycle
+Agent serving entire SW development lifecycle ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jul%202024-blue)
 <details>
 
 ![Image](https://github.com/codefuse-ai/codefuse-chatbot/raw/main/sources/docs_imgs/objective_v4.png)
@@ -998,7 +998,7 @@ Coding
 </details>
 
 ## [Cody by ajhous44](https://github.com/ajhous44/cody)
-Query and navigate your codebase
+Query and navigate your codebase ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202025-blue)
 
 <details>
 
@@ -1037,7 +1037,7 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 </details>
 
 ## [Continue](https://continue.dev/)
-Open-source autopilot for software development
+Open-source autopilot for software development ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1063,7 +1063,7 @@ Coding
 </details>
 
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
-Framework for orchestrating role-playing agents
+Framework for orchestrating role-playing agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 <details>
 
 ![Image](https://github.com/joaomdmoura/crewAI/raw/main/docs/crewai_logo.png)
@@ -1089,7 +1089,7 @@ Build-your-own, SDK for agents, Multi-agent
 </details>
 
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
-AI-driven research from data to human-verifiable research papers
+AI-driven research from data to human-verifiable research papers ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jul%202025-blue)
 <details>
 
 <br>
@@ -1125,7 +1125,7 @@ and while allowing scientist to oversee and direct the process
 
 
 ## [Databerry](https://www.databerry.ai/)
-(Pivoted to Chaindesk) No-code chatbot building
+(Pivoted to Chaindesk) No-code chatbot building ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202024-blue)
 
 <details>
 
@@ -1161,7 +1161,7 @@ Build-your-own
 </details>
 
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
-Generates demo of a new app (of any purpose)
+Generates demo of a new app (of any purpose) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1188,7 +1188,7 @@ Build-your-own, General purpose
 </details>
 
 ## [DevGPT](https://github.com/jina-ai/dev-gpt)
-Team of virtual developers
+Team of virtual developers ![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202023-blue)
 
 <details>
 
@@ -1206,7 +1206,7 @@ Coding, Multi-agent
 </details>
 
 ## [Devika](https://github.com/stitionai/devika)
-Agentic AI Software Engineer
+Agentic AI Software Engineer ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202025-blue)
 
 <details>
 
@@ -1224,7 +1224,7 @@ Coding, general purpose
 </details>
 
 ## [Devon](https://github.com/entropy-research/Devon)
-Open-source Devin alternative
+Open-source Devin alternative ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-blue)
 
 <details>
 
@@ -1241,7 +1241,7 @@ Coding, general purpose
 </details>
 
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
-AI-Driven SW Development Automation Solution
+AI-Driven SW Development Automation Solution ![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202024-blue)
 
 <details>
 
@@ -1269,7 +1269,7 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 </details>
 
 ## [dotagent](https://github.com/dot-agent/dotagent)
-Deploy agents on cloud, PCs, or mobile devices
+Deploy agents on cloud, PCs, or mobile devices ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202024-blue)
 
 <details>
 
@@ -1290,7 +1290,7 @@ Build-your-own
 </details>
 
 ## [Eidolon](https://eidolonai.com/)
-Multi Agent SDK with pluggable, modular components
+Multi Agent SDK with pluggable, modular components ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1313,7 +1313,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 </details>
 
 ## [English Compiler](https://github.com/uilicious/english-compiler)
-Converting markdown specs into functional code
+Converting markdown specs into functional code ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202024-blue)
 
 <details>
 
@@ -1334,7 +1334,7 @@ Coding
 </details>
 
 ## [evo.ninja](https://evo.ninja/)
-AI agent that adapts its persona to achive tasks
+AI agent that adapts its persona to achive tasks ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jul%202024-blue)
 
 <details>
 
@@ -1356,7 +1356,7 @@ General purpose, Research, Multi-agent
 </details>
 
 ## [FastAgency](https://fastagency.ai/latest/)
-The fastest way to deploy multi-agent workflows
+The fastest way to deploy multi-agent workflows ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
 
 <details>
 
@@ -1377,7 +1377,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 </details>
 
 ## [Flowise](https://flowiseai.com/)
-Low code Agent builder
+Low code Agent builder ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1399,7 +1399,7 @@ Build-your-own (agent-builing frameworks and platforms)
 
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
-AI developer assistant for Node.js
+AI developer assistant for Node.js ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202023-blue)
 
 <details>
 
@@ -1423,7 +1423,7 @@ Coding
 </details>
 
 ## [GeniA](https://github.com/genia-dev/GeniA)
-Engineering platform engineering AI team member
+Engineering platform engineering AI team member ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202023-blue)
 
 <details>
 
@@ -1444,7 +1444,7 @@ Coding
 </details>
 
 ## [Godmode](https://godmode.space/)
-Inspired by AutoGPT and BabyAGI, with nice UI
+Inspired by AutoGPT and BabyAGI, with nice UI ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202024-blue)
 
 <details>
 
@@ -1471,7 +1471,7 @@ General purpose
 </details>
 
 ## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
-The ultimate AI agent integration for Discord
+The ultimate AI agent integration for Discord ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
 
 <details>
 
@@ -1497,7 +1497,7 @@ Content creation, Productivity, General purpose, Discord
 </details>
 
 ## [GPT Engineer](https://gptengineer.app/)
-Generates entire codebase based on a prompt
+Generates entire codebase based on a prompt ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-blue)
 
 <details>
 
@@ -1527,7 +1527,7 @@ GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 </details>
 
 ## [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
-Migrate codebase between frameworks/languages
+Migrate codebase between frameworks/languages ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202024-blue)
 
 <details>
 
@@ -1553,7 +1553,7 @@ GOT Migrate easily migrates your codebase from one framework or language to anot
 </details>
 
 ## [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot)
-Code the entire scalable app from scratch
+Code the entire scalable app from scratch ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202025-blue)
 
 <details>
 
@@ -1577,7 +1577,7 @@ GPT Pilot is an AI agent that codes the entire app as you oversee the code being
 
 
 ## [GPT Researcher](https://github.com/assafelovic/gpt-researcher)
-Agent that researches entire internet on any topic
+Agent that researches entire internet on any topic ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1603,7 +1603,7 @@ GPT Researcher is a GPT-based autonomous agent that does online comprehensive re
 </details>
 
 ## [GPT Runner](https://github.com/nicepkg/gpt-runner)
-Agent that converses with your files
+Agent that converses with your files ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202023-blue)
 
 <details>
 
@@ -1627,7 +1627,7 @@ Research, Science
 </details>
 
 ## [GPTSwarm](https://gptswarm.org/)
-Language Agents as Optimizable Graphs
+Language Agents as Optimizable Graphs ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
 
 <details>
 
@@ -1653,7 +1653,7 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 
 ## [IX](https://github.com/kreneskyp/ix)
-Agents building, debugging, and deploying platform
+Agents building, debugging, and deploying platform ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 
 <details>
 
@@ -1687,7 +1687,7 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 
 ## [JARVIS](https://github.com/microsoft/JARVIS)
-System that connects LLMs with the ML community
+System that connects LLMs with the ML community ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jul%202025-blue)
 
 <details>
 
@@ -1710,7 +1710,7 @@ JARVIS is a system to connect LLMs with the ML community.
 </details>
 
 ## [Langroid](https://github.com/langroid/langroid)
-Multi-agent framework for building LLM apps
+Multi-agent framework for building LLM apps ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1746,7 +1746,7 @@ into simplifying the developer experience; it does not use `Langchain`.
 </details>
 
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
-Plan-Validate-Solve agent for workflow automation
+Plan-Validate-Solve agent for workflow automation ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202023-blue)
 
 <details>
 
@@ -1772,7 +1772,7 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 </details>
 
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
-Library for building agents, using tools, planning
+Library for building agents, using tools, planning ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202025-blue)
 
 <details>
 
@@ -1796,7 +1796,7 @@ A minimalistic library for building agents that leverage large language models t
 </details>
 
 ## [LLM Stack](https://llmstack.ai/)
-No-code platform to build LLM Agents
+No-code platform to build LLM Agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202024-blue)
 
 <details>
 
@@ -1823,7 +1823,7 @@ Build-your-own, no-code, web UI
 </details>
 
 ## [Local GPT](https://github.com/PromtEngineer/localGPT)
-Chat with documents without compromising privacy
+Chat with documents without compromising privacy ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1855,7 +1855,7 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 
 
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
-Re-implementation of AutoGPT as a Python package
+Re-implementation of AutoGPT as a Python package ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
  <details>
 
@@ -1887,7 +1887,7 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 </details>
 
 ## [L2MAC](https://github.com/samholt/l2mac)
-Agent framework able to produce large complex codebases and entire books
+Agent framework able to produce large complex codebases and entire books ![Last Updated](https://img.shields.io/badge/Last%20Updated-Dec%202024-blue)
 
 <details>
 
@@ -1916,7 +1916,7 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 
 
 ## [Maige](https://maige.app)
-Natural-language workflows for your GitHub repo.
+Natural-language workflows for your GitHub repo. ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -1939,7 +1939,7 @@ Coding, Productivity, Debugging, Multi-agent
 </details>
 
 ## [Magick](https://www.magickml.com/)
-AIDE for creating, deploying, monetizing agents
+AIDE for creating, deploying, monetizing agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202025-blue)
 
 <details>
 
@@ -1967,7 +1967,7 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 </details>
 
 ## [MemFree](https://github.com/memfreeme/memfree)
-Open Source Hybrid AI Search Engine
+Open Source Hybrid AI Search Engine ![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202025-blue)
 
 <details>
 
@@ -1997,7 +1997,7 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 
 
 ## [MemGPT](https://github.com/cpacker/MemGPT)
-Memory management system, providing context to LLM
+Memory management system, providing context to LLM ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -2020,7 +2020,7 @@ Memory management, Data analysis
 </details>
 
 ## [Mentat](https://github.com/biobootloader/mentat)
-Assists you with coding task from command line
+Assists you with coding task from command line ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202025-blue)
 
 <details>
 
@@ -2043,7 +2043,7 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
-Agent framework returning Design, Tasks, or Repo
+Agent framework returning Design, Tasks, or Repo ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 
 <details>
 
@@ -2071,7 +2071,7 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 </details>
 
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
-General-purpose agent based on GPT-3.5 / GPT-4
+General-purpose agent based on GPT-3.5 / GPT-4 ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202023-blue)
 
 <details>
 
@@ -2095,7 +2095,7 @@ General purpose
 
 
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
-Implementation of a paper on Multiagent Debate
+Implementation of a paper on Multiagent Debate ![Last Updated](https://img.shields.io/badge/Last%20Updated-Apr%202025-blue)
 
 <details>
 
@@ -2120,7 +2120,7 @@ Multiagent Debate is an implementation of the paper "Improving Factuality and Re
 
 
 ## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
-Experimental multi-agent system
+Experimental multi-agent system ![Last Updated](https://img.shields.io/badge/Last%20Updated-Oct%202023-blue)
 
 <details>
 
@@ -2148,7 +2148,7 @@ General purpose
 </details>
 
 ## [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)
-MutahunterAI: Accelerate developer productivity and code security with our open-source AI
+MutahunterAI: Accelerate developer productivity and code security with our open-source AI ![Last Updated](https://img.shields.io/badge/Last%20Updated-Apr%202025-blue)
 
 <details>
 
@@ -2172,7 +2172,7 @@ Developer tools, Software security, Multi-agent, General purpose
 </details>
 
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
-Natural Language-Based Societies of Mind
+Natural Language-Based Societies of Mind ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202025-blue)
 <details>
 
  ![image](https://github.com/mczhuge/NLSOM/raw/main/assets/nlsom.svg)
@@ -2197,7 +2197,7 @@ Science, Multimodal, Social, Multi-agent
 </details>
 
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
-Multi-agent general purpose platform
+Multi-agent general purpose platform ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202024-blue)
 <details>
 
  ![image](https://github.com/xlang-ai/OpenAgents/raw/main/pics/openagents_overview.png)
@@ -2228,7 +2228,7 @@ OpenAgents is an Open Platform for Language Agents in the Wild, ChatGPT Plus Rep
 
 
 ## [OpenAGI](https://github.com/agiresearch/OpenAGI)
-R&D agents platform
+R&D agents platform ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202024-blue)
 
 <details>
 
@@ -2254,7 +2254,7 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 </details>
 
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
-OpenDevin: Code Less, Make More
+OpenDevin: Code Less, Make More ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -2274,7 +2274,7 @@ Coding, general purpose
 
 
 ## [Open Interpreter](https://openinterpreter.com/)
-Code interpreter that lets LLMs execute code
+Code interpreter that lets LLMs execute code ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
 
 <details>
 
@@ -2297,7 +2297,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 </details>
 
 ## [Pezzo](https://www.pezzo.ai/)
-Development toolkit for prompt management & more
+Development toolkit for prompt management & more ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202025-blue)
 
 <details>
 
@@ -2323,7 +2323,7 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 </details>
 
 ## [Private GPT](https://www.privategpt.io/)
-Tool for private interaction with your documents
+Tool for private interaction with your documents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
 
 <details>
 
@@ -2344,7 +2344,7 @@ Private GPT is A tool for private interaction with documents, without a need for
 </details>
 
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
-AI agent that helps with nutrition and other goals
+AI agent that helps with nutrition and other goals ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202024-blue)
 
 <details>
 
@@ -2373,7 +2373,7 @@ Productivity, General purpose
 
 
 ## [React Agent](https://reactagent.io/)
-Open-source React.js Autonomous LLM Agent
+Open-source React.js Autonomous LLM Agent ![Last Updated](https://img.shields.io/badge/Last%20Updated-Apr%202024-blue)
 <details>
 
 ![image](https://reactagent.io/logo-dark.png)
@@ -2409,7 +2409,7 @@ Coding
 </details>
 
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
-Let multimodal models operate a computer
+Let multimodal models operate a computer ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202025-blue)
 
 <details>
 
@@ -2428,7 +2428,7 @@ Productivity, Research
 </details>
 
 ## [Smol developer](https://github.com/smol-ai/developer)
-Your own junior AI developer, deployed via E2B UI
+Your own junior AI developer, deployed via E2B UI ![Last Updated](https://img.shields.io/badge/Last%20Updated-Apr%202024-blue)
 
 <details>
 
@@ -2459,7 +2459,7 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 </details>
 
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
-VSCode extension that writes nodejs functions
+VSCode extension that writes nodejs functions ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202024-blue)
 
 <details>
 
@@ -2551,7 +2551,7 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 
 
 ## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
-Paper on imperfect information games
+Paper on imperfect information games ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%202023-blue)
 
 <details>
 
@@ -2575,7 +2575,7 @@ General purpose
 
 
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
-Open-source Devin alternative
+Open-source Devin alternative ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -2637,7 +2637,7 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 </details>
 
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
-Taxy AI is a full browser automation
+Taxy AI is a full browser automation ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202025-blue)
 
 <details>
 
@@ -2661,7 +2661,7 @@ General purpose, Productivity
 </details>
 
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
-BabyAGI-inspired agent, can recall infinite memory
+BabyAGI-inspired agent, can recall infinite memory ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202023-blue)
 <details>
 
 ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
@@ -2690,7 +2690,7 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 </details>
 
 ## [UFO](https://github.com/microsoft/UFO)
-A UI-Focused agent on Windows OS
+A UI-Focused agent on Windows OS ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -2711,7 +2711,7 @@ Multi-agent, GUI Agent
 </details>
 
 ## [Vanna.AI](https://vanna.ai/)
-Python-based AI SQL agent trained on your schema
+Python-based AI SQL agent trained on your schema ![Last Updated](https://img.shields.io/badge/Last%20Updated-Feb%202026-blue)
 
 <details>
 
@@ -2739,7 +2739,7 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 </details>
 
 ## [Voyager](https://voyager.minedojo.org/)
-LLM-powered lifelong learning agent in Minecraft
+LLM-powered lifelong learning agent in Minecraft ![Last Updated](https://img.shields.io/badge/Last%20Updated-Apr%202024-blue)
 <details>
 
 ![image](https://voyager.minedojo.org/assets/images/exploration_performance.png)
@@ -2765,7 +2765,7 @@ General purpose
 </details>
 
 ## [Web3 GPT](https://w3gpt.ai/)
-Write & deploy smart contracts to EVM blockchains
+Write & deploy smart contracts to EVM blockchains ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202026-blue)
 
 <details>
 
@@ -2789,7 +2789,7 @@ Blockchain, Coding, Generating apps, Smart contract
 </details>
 
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
-A multi-agent environment simulation library
+A multi-agent environment simulation library ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202023-blue)
 <details>
 
 ![image](https://theolvs.github.io/westworld/img/cover_hq_westworld1.jpg)
@@ -2826,7 +2826,7 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 </details>
 
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
-GPT agent framework for invoking APIs
+GPT agent framework for invoking APIs ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202023-blue)
 
 <details>
 
@@ -2848,7 +2848,7 @@ Coding
 </details>
 
 ## [Wren](https://www.getwren.ai/)
-Natural Language Interface to Your Databases
+Natural Language Interface to Your Databases ![Last Updated](https://img.shields.io/badge/Last%20Updated-Mar%202026-blue)
 
 <details>
 
@@ -2880,7 +2880,7 @@ There are four key principles that we followed when developing WrenAI:
 </details>
 
 ## [XAgent](https://github.com/OpenBMB/XAgent)
-Experimental LLM agent that solves various tasks
+Experimental LLM agent that solves various tasks ![Last Updated](https://img.shields.io/badge/Last%20Updated-Aug%202024-blue)
 
 <details>
 
@@ -2916,7 +2916,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 </details>
 
 ## [yAgents](https://github.com/yeagerai/yeagerai-agent)
-Capable of designing, coding and debugging tools
+Capable of designing, coding and debugging tools ![Last Updated](https://img.shields.io/badge/Last%20Updated-Sep%202024-blue)
 
 <details>
 
@@ -2945,7 +2945,7 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 </details>
 
 ## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
-Swift implementation of BabyAGI
+Swift implementation of BabyAGI ![Last Updated](https://img.shields.io/badge/Last%20Updated-Apr%202023-blue)
 
 <details>
 
@@ -4408,7 +4408,7 @@ Coding, Multi-agent, GitHub
 </details>
 
 ## [Instrukt](https://github.com/blob42/Instrukt)
-Terminal env for interacting with with AI agents
+Terminal env for interacting with with AI agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%202025-blue)
 
 <details>
 
@@ -4935,7 +4935,7 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 </details>
 
 ## [Proficient AI](https://proficientai.com)
-Interaction APIs and SDKs for building AI agents
+Interaction APIs and SDKs for building AI agents ![Last Updated](https://img.shields.io/badge/Last%20Updated-Jun%202023-blue)
 <details>
 
 ![image](https://www.phind.com/images/phind_v2.svg)
