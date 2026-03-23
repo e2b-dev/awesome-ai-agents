@@ -813,6 +813,26 @@ Coding
 
 </details>
 
+## [BotVa](https://github.com/cohe4ko/BotVa)
+Self-hosted multi-bot Telegram platform powered by Claude AI
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- Self-hosted platform for running multiple AI bots on Telegram, powered by Claude AI
+- MCP (Model Context Protocol) integration for extensible tool use
+- Persistent memory system with semantic search across sessions
+- Multi-bot team coordination with role-based architecture
+- Built with TypeScript, MIT licensed
+
+### Links
+- [GitHub](https://github.com/cohe4ko/BotVa)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
