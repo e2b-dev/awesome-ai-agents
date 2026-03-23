@@ -959,6 +959,25 @@ Science, Chemistry
 
 </details>
 
+
+## [Citadel](https://github.com/SethGammon/Citadel)
+Agent orchestration harness for Claude Code fleet coordination
+
+<details>
+
+### Category
+Multi-agent, Orchestration, Build your own
+
+### Description
+- Open-source agent orchestration harness built specifically for Claude Code
+- Coordinates fleets of AI agents with lifecycle hooks, a skill system, campaign management, and postmortem-driven architecture
+- Battle-tested across 198 agents, 109 fleet waves, and 27 documented postmortems on a 668K-line TypeScript codebase
+- Features intent routing, campaign persistence across sessions, parallel agent coordination with discovery sharing, and automated quality enforcement
+
+### Links
+- [GitHub](https://github.com/SethGammon/Citadel)
+
+</details>
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
