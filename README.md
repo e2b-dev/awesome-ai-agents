@@ -3085,6 +3085,24 @@ Coding
 
 </details>
 
+## [AI for Database](https://aifordatabase.com)
+Connect to any database and interact with it in plain English
+
+<details>
+
+### Category
+Data analysis, Business intelligence, Productivity
+
+### Description
+- Connect to any database and talk to it in natural language to extract insights — no SQL needed
+- Build self-refreshing intelligent dashboards powered by your live data
+- Trigger automated workflows (messages, emails, webhooks) based on database changes
+
+### Links
+- [Web](https://aifordatabase.com)
+
+</details>
+
 ## [AilaFlow](https://ailaflow.com)
 No-code platform for building AI agents
 
