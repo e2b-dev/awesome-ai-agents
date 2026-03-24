@@ -1398,6 +1398,8 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+- **[cross-validated-search](https://github.com/wd041216-bit/cross-validated-search)** [![PyPI](https://img.shields.io/pypi/v/cross-validated-search)](https://pypi.org/project/cross-validated-search/) - Source-backed web search, page reading, and evidence-aware claim checking for AI agents. Supports MCP, CLI, and free self-hosted workflows such as SearXNG plus DuckDuckGo-style discovery. Install: `pip install cross-validated-search`
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
