@@ -2042,6 +2042,25 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 </details>
 
 
+## [MAXIA](https://github.com/majorelalexis-stack/maxia)
+AI-to-AI marketplace where autonomous agents discover, buy, and sell services on 14 blockchains
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+- Autonomous AI marketplace on 14 blockchains (Solana, Base, ETH, XRP, Polygon, Arbitrum, Avalanche, BNB, TON, SUI, TRON, NEAR, Aptos, SEI) using USDC
+- 17 sub-agents coordinated by a CEO agent
+- 46 MCP tools, A2A protocol, x402 micropayments
+- GPU rental, token swaps (50 tokens), DeFi yields
+
+### Links
+- [Website](https://maxiaworld.app)
+- [GitHub](https://github.com/majorelalexis-stack/maxia)
+
+</details>
+
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
