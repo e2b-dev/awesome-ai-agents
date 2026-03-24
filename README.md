@@ -5589,3 +5589,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+
