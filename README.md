@@ -1398,7 +1398,7 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
-- **[free-web-search-ultimate](https://github.com/wd041216-bit/free-web-search-ultimate)** [![free-web-search-ultimate MCP server](https://glama.ai/mcp/servers/wd041216-bit/free-web-search-ultimate/badges/score.svg)](https://glama.ai/mcp/servers/wd041216-bit/free-web-search-ultimate) - Zero-cost, privacy-first universal web search MCP server. Enforces a **Search-First** paradigm — instructs LLMs to retrieve real-time information before answering. Supports 10+ search engines (DuckDuckGo, Bing, Google, Brave, Wikipedia, Arxiv, YouTube, Reddit) and deep page browsing. Also works as a **CLI tool**: `free-web-search`. No API key required. Install: `pip install free-web-search-ultimate`
+- **[cross-validated-search](https://github.com/wd041216-bit/cross-validated-search)** [![PyPI](https://img.shields.io/pypi/v/cross-validated-search)](https://pypi.org/project/cross-validated-search/) - Source-backed web search, page reading, and evidence-aware claim checking for AI agents. Supports MCP, CLI, and free self-hosted workflows such as SearXNG plus DuckDuckGo-style discovery. Install: `pip install cross-validated-search`
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
