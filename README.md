@@ -95,6 +95,27 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agency Orchestrator](https://github.com/jnMetaCode/agency-orchestrator)
+YAML-first multi-agent workflow orchestrator with 186 built-in AI roles
+
+<details>
+
+### Category
+Multi-agent, Build your own, General purpose
+
+### Description
+
+- **YAML-first workflows**: Define multi-agent collaboration in YAML — zero code required.
+- **186 built-in AI roles**: Ready-to-use specialized agent personas across engineering, design, marketing, and more.
+- **Auto DAG parallelism**: Automatically detects step dependencies and runs independent steps in parallel.
+- **Conditions, loops, and resume**: Supports conditional branching, iterative loops, and resuming from any step.
+- **Multi-provider support**: Works with DeepSeek, Claude, OpenAI, and Ollama.
+- **Apache-2.0 licensed**: Fully open-source.
+
+### Links
+- [GitHub](https://github.com/jnMetaCode/agency-orchestrator)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
