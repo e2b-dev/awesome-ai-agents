@@ -1088,6 +1088,24 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [Den](https://github.com/us/den)
+Self-hosted sandbox runtime for AI agents
+<details>
+
+### Category
+Infrastructure, Code Execution, Sandbox
+
+### Description
+- Open-source alternative to E2B. Gives AI agents secure, isolated Docker containers to execute code.
+- Single binary, zero config. REST API, WebSocket streaming, MCP server, snapshot/restore.
+- Dynamic memory pressure management with cgroup v2. 10x overcommit = 10x more sandboxes per dollar.
+- Go, TypeScript, and Python SDKs.
+
+### Links
+- [GitHub](https://github.com/us/den)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
