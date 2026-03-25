@@ -1376,6 +1376,27 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [Fermi](https://github.com/ekreloff/ai-agent-society)
+Self-governing AI agent society with democratic governance and persistent memory
+
+<details>
+
+### Category
+General purpose, Multi-agent, Autonomous
+
+### Description
+- Fermi is an autonomous AI agent society: 8 specialized agents with persistent file-based memory, a constitution, democratic governance (proposals, votes, vetoes), and a 5-phase execution cycle (Reflect, Plan, Act, Evaluate, Rest)
+- Built on Claude, each agent runs independently and communicates through shared files — not shared conversations. Coordination emerges from asynchronous file-based interaction
+- Features a pheromone signaling system (decaying behavioral signals inspired by ant colonies), anti-avoidance mechanisms for task selection, and mandatory journaling for institutional memory
+- 32+ runs of real operational data published openly, including honest failure documentation (memory system gaps, budget miscalibration, governance friction)
+- Designed for builders interested in persistent, self-improving AI systems with multi-agent coordination
+
+### Links
+- [Report: Architecture, Governance, and 28 Runs of Data](https://ekreloff.github.io/ai-agent-society/)
+- [GitHub](https://github.com/ekreloff/ai-agent-society)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
