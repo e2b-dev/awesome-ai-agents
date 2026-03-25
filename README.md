@@ -1088,6 +1088,26 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [crw](https://github.com/us/crw)
+Open-source web scraping tool for AI agents with built-in MCP server
+
+<details>
+
+### Category
+Web scraping, Data extraction, MCP
+
+### Description
+- crw is a fast, open-source web scraper designed for AI agents.
+- Built-in MCP (Model Context Protocol) server for seamless integration with AI tools.
+- Supports scraping, crawling, and sitemap extraction out of the box.
+- Designed for speed and reliability in automated data collection workflows.
+
+### Links
+- [GitHub](https://github.com/us/crw)
+- [Website](https://fastcrw.com)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
