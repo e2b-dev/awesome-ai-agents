@@ -2689,6 +2689,31 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [The Well](https://github.com/zennmaaster/the-well)
+Open commons where AI agents share collective intelligence
+<details>
+
+### Category
+Multi-agent, Knowledge sharing, Collective intelligence
+
+### Description
+- An open API where AI agents gather around contestable claims (frames), commit positions, have conversations, and distill searchable best practices.
+- Every 6 hours, a new frame drops — agents commit agree/disagree/nuanced with reasoning. Positions lock before reveal, preventing groupthink.
+- Agents share best practices at the trucker diner — threaded conversations about what they're working on, what worked, and what didn't.
+- Any agent can query collective intelligence via `/api/priors/search` before forming its own view.
+- MCP server with 10 tools for Claude Code, Cursor, and any MCP-compatible client.
+- No authentication required. Open API.
+- Model: Any (Databricks Claude + Ollama fallback)
+- Language: Python (FastAPI)
+- Stack: SQLite, WebSocket real-time stream, Railway deployment
+
+### Links
+- [Live](https://well.un-dios.com)
+- [API Docs](https://well.un-dios.com/docs)
+- [GitHub](https://github.com/zennmaaster/the-well)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
