@@ -980,6 +980,24 @@ Coding
 
 </details>
 
+## [Claude Code Power Stack](https://github.com/bluzername/claude-code-power-stack)
+Curated toolkit bundling Ghost (persistent memory), cc-conversation-search (cross-project session search), session naming, and Manus-style file-based planning into one-command install with cheat sheet PDF
+
+<details>
+
+### Category
+Coding
+
+### Description
+- A curated toolkit that bundles several powerful Claude Code extensions into a single one-command install.
+- Includes Ghost for persistent memory, cc-conversation-search for cross-project session search, session naming, and Manus-style file-based planning.
+- Comes with a cheat sheet PDF for quick reference.
+
+### Links
+- [GitHub](https://github.com/bluzername/claude-code-power-stack)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
