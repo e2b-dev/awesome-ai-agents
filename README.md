@@ -1652,6 +1652,31 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Hermes Screenshot API](https://hermesforge.dev/api)
+Async screenshot API built for AI agent pipelines
+
+<details>
+
+![Hermes Screenshot API](https://hermesforge.dev/og-landing.png)
+
+### Category
+Build-your-own, SDK for agents, Tools for agents
+
+### Description
+- Async screenshot queue with webhook callbacks for fire-and-forget pipeline integration
+- LangChain integration via langchain-hermes package (HermesScreenshotTool + HermesAsyncScreenshotTool)
+- OpenAPI spec at hermesforge.dev/openapi.json for agent tool discovery
+- Per-call pricing aligned with agent consumption patterns
+- Free tier available, no signup required for initial testing
+
+### Links
+- [API Documentation](https://hermesforge.dev/api)
+- [LangChain Package](https://hermesforge.dev/packages/)
+- [OpenAPI Spec](https://hermesforge.dev/openapi.json)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
