@@ -1187,6 +1187,26 @@ Build-your-own, General purpose
 
 </details>
 
+## [Den](https://github.com/us/den)
+Self-hosted sandbox runtime for AI agents
+
+<details>
+
+### Category
+Coding, Infrastructure
+
+### Description
+- Open-source, self-hosted alternative to E2B for running AI agent code in isolated environments.
+- Provides secure, isolated Docker containers with a REST API for managing sandboxes.
+- Includes an MCP server for seamless integration with AI agents and LLM toolchains.
+- Official SDKs for Go, TypeScript, and Python.
+- Supports file operations, process execution, and port forwarding within sandboxes.
+
+### Links
+- [GitHub](https://github.com/us/den)
+
+</details>
+
 ## [DevGPT](https://github.com/jina-ai/dev-gpt)
 Team of virtual developers
 
