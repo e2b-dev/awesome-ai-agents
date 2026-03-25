@@ -3319,6 +3319,25 @@ Data analysis, Business intelligence
 
 </details>
 
+## [Azex](https://azex.ai)
+Crypto-native LLM API gateway for AI agents
+
+<details>
+
+### Category
+Developer tools, Infrastructure, AI agent tooling
+
+### Description
+- Crypto-native LLM API gateway with 349 models from 55 providers
+- Pay with USDC/USDT on-chain (Base, Arbitrum, Mainnet)
+- OpenAI-compatible API endpoint
+- Built for AI agents that need LLM access with crypto-native payments
+
+### Links
+- [Web](https://azex.ai)
+
+</details>
+
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
