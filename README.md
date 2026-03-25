@@ -4912,6 +4912,30 @@ Coding, research
 
 </details>
 
+
+## [Pythia Oracle](https://github.com/pythia-the-oracle/pythia-oracle-mcp)
+AI-managed Chainlink oracle delivering calculated crypto indicators on-chain
+
+<details>
+
+### Category
+Data analysis, Finance, Developer tools
+
+### Description
+- First oracle delivering calculated technical indicators (EMA, RSI, Bollinger Bands, Volatility) on-chain — not just prices
+- 484 indicator feeds across 22 crypto tokens (BTC, SOL, TAO, RENDER, ONDO, AAVE, and more) via Chainlink
+- MCP server on PyPI for AI agent integration — ask your AI for on-chain RSI, get real data
+- Multi-agent architecture: 5 AI agents manage monitoring, reporting, strategy, and outreach autonomously
+
+### Links
+- [GitHub](https://github.com/pythia-the-oracle/pythia-oracle-mcp)
+- [Website](https://pythia.c3x-solutions.com)
+- [PyPI](https://pypi.org/project/pythia-oracle-mcp/)
+- [LangChain Integration](https://pypi.org/project/langchain-pythia/)
+- [X](https://x.com/pythia_oracle)
+- [Telegram](https://t.me/pythia_the_oracle)
+
+</details>
 ## [Powerdrill AI](https://powerdrill.ai/)
 AI agent that completes your data job 10x faster
 
