@@ -1088,6 +1088,23 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [crw](https://github.com/us/crw)
+Open-source web scraper for AI agents with built-in MCP server
+<details>
+
+### Category
+Web Scraping, Developer tools, Open source
+
+### Description
+- Open-source web scraper purpose-built for AI agents. Ships as a single Rust binary with a built-in MCP server.
+- Provides a Firecrawl-compatible REST API, so existing integrations work out of the box.
+- Supports scraping, crawling, and site mapping with structured output (Markdown, HTML, links, metadata).
+
+### Links
+- [GitHub](https://github.com/us/crw)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
