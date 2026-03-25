@@ -53,6 +53,15 @@ According to [Andrew Ng (@andrewyng)](https://github.com/andrewyng):
 
 Here's an awesome list of AI agents:
 
+### Cortex
+<div><a href="https://github.com/SKULLFIRE07/cortex-memory"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/SKULLFIRE07/cortex-memory"><img src="https://img.shields.io/github/stars/SKULLFIRE07/cortex-memory?style=social" alt="GitHub stars"></a></div>
+<p>⌚ Developer Tools (Memory)</p>
+
+<p>Cortex gives AI coding assistants persistent memory across sessions. Auto-captures decisions, patterns, and context. Available as a VSCode extension, CLI, and MCP server. Free and MIT licensed.</p>
+
+<p><a href="https://github.com/SKULLFIRE07/cortex-memory">github</a> | <a href="https://marketplace.visualstudio.com/items?itemName=cortex-dev.cortex-ai-memory">marketplace</a></p>
+</div>
+
 ### 01
 <div><a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/OpenInterpreter/01"><img src="https://img.shields.io/github/stars/OpenInterpreter/01?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,080 stars (Updated: 2025-07-30)</p>
