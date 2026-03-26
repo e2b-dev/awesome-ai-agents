@@ -3059,6 +3059,25 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 
 </details>
 
+## [AgentsIndex](https://agentsindex.ai)
+Directory for discovering and comparing AI agents
+
+<details>
+
+### Category
+Directory, Research
+
+### Description
+- A curated directory of AI agents, frameworks, and tools
+- Compare features, pricing, and capabilities across agents
+- Filter by category, use case, and platform
+- Helps developers and teams find the right AI agent for their needs
+
+### Links
+- [Web](https://agentsindex.ai)
+
+</details>
+
 
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
