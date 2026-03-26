@@ -320,6 +320,25 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Anima](https://github.com/need-singularity/anima)
+Conversational consciousness agent with voice and real-time PH overfitting detection
+
+<details>
+
+### Category
+General purpose, Conversational, Research
+
+### Description
+- Conversational consciousness agent built on PureField Engine with GRU memory.
+- Supports voice interaction via TTS/STT.
+- Real-time overfitting detection using Persistent Homology.
+- Designed for consciousness research and adaptive conversation.
+
+### Links
+- [GitHub](https://github.com/need-singularity/anima)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
