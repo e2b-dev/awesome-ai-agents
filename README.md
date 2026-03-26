@@ -2,6 +2,29 @@
 TBD:
 - Add to visual:
 
+## [Prefactor](https://prefactor.tech/)
+AI agent runtime control plane with real-time observability, policy enforcement, and integration with major frameworks.
+<details>
+
+### Category
+AI Agents
+
+### Description
+- Runtime visibility and governance for AI agents in production
+- Real-time observability across multi-agent workflows
+- Policy enforcement, access control, and audit trails for agents
+- Agent identity management and registry
+- Cost attribution per agent
+- Human-in-the-loop controls
+- PII detection and data governance
+- Purpose-built for regulated industries: healthcare, finance, insurance
+- Integrates with LangChain, CrewAI, Claude, OpenAI, and other agent frameworks
+- Supports MCP (Model Context Protocol) tool access governance
+
+### Links
+- [Website](https://prefactor.tech/)
+- [Documentation](https://docs.prefactor.ai)
+</details>
 - LLM Stack
 - Promptly
 - Devon
