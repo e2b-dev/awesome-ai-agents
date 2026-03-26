@@ -1422,6 +1422,26 @@ Coding
 
 </details>
 
+## [Forgeai](https://github.com/nelson820125/forgeai)
+A structured AI agent toolkit for GitHub Copilot, designed for software delivery teams
+
+<details>
+
+![Image](https://github.com/user-attachments/assets/1ecd21d7-93e9-44d9-95c2-76f592897706)
+
+### Category
+Coding
+
+### Description
+- forgeai provides 10 specialist AI agents for GitHub Copilot — one per delivery role. Each agent has defined inputs, outputs, and handoff points. A coordinator agent (@digital-team) connects them into a sequential workflow with human gate reviews between phases.
+- Current backend support: .NET. Java support is planned for a future release.
+- Adapters for Claude Code and OpenAI Codex CLI are also available. 
+
+### Links
+- **Author:** [Nelson Li](https://github.com/nelson820125)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
