@@ -3298,6 +3298,29 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [AsterPay](https://asterpay.io)
+Trust and settlement layer for AI agent payments
+
+<details>
+
+### Category
+Payments, Infrastructure, Trust & Identity
+
+### Description
+- AsterPay provides KYA (Know Your Agent) trust scoring — a free API that scores AI agents 0-100 based on ERC-8004 identity, sanctions screening (Chainalysis), on-chain activity, and behavioral signals.
+- Supports all three agent payment protocols: x402 (Coinbase), MPP (Stripe/Tempo), and AP2 (Google).
+- USDC/EURC to EUR settlement via SEPA Instant in under 10 seconds.
+- Circle Alliance member. MiCA-aligned. No API key required for trust scores.
+
+### Links
+- [Web](https://asterpay.io)
+- [GitHub](https://github.com/AsterPay)
+- [API](https://x402.asterpay.io)
+- [npm MCP Server](https://www.npmjs.com/package/@asterpay/mcp-server)
+- [Python SDK](https://pypi.org/project/asterpay/)
+
+</details>
+
 ## [Athena Intelligence](https://www.athenaintelligence.ai/)
 24/7 Enterprise AI Data Analyst
 
