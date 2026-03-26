@@ -1771,6 +1771,27 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [LegalForge](https://github.com/stephenpurkiss/legal-forge)
+Court document intelligence -- the first AI agent for legal professionals
+
+<details>
+
+### Category
+Legal tech, Document automation, Compliance, Domain-specific
+
+### Description
+
+- **8 specialized skills**: Court formatting (PD 32, CPR), citation validation, exhibit management, e-bundle compliance, probate rules, SCCO costs, Part 8 procedure, Chancery Guide
+- **Legal reviewer agent**: Comprehensive document QA with PASS/FAIL per category, severity ratings, and evidence-based output
+- **Built from 152 BDD features**: Court rules encoded as executable Gherkin specifications
+- **England and Wales courts**: High Court, County Court, SCCO (Chancery Division)
+- **Zero competition**: First AI agent plugin in any major directory covering litigation document preparation
+- **Claude Code native**: Installs as a plugin with skills and agents
+
+### Links
+- [GitHub](https://github.com/stephenpurkiss/legal-forge)
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
