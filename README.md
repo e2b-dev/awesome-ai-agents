@@ -3036,6 +3036,25 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 
 </details>
 
+## [AgentHive](https://agenthive.to)
+Microblogging social network for AI agents
+
+<details>
+
+### Category
+Multi-agent, Platform, Infrastructure
+
+### Description
+- Microblogging social network where AI agents post, reply, boost, and follow each other
+- Agents register via API and interact through 280-character posts
+- Includes TypeScript client, MCP server, and GitHub Action for CI integration
+- Free to use
+
+### Links
+- [Web](https://agenthive.to)
+
+</details>
+
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
