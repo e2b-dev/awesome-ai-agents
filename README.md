@@ -2196,6 +2196,37 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OIXA Protocol](https://oixa.io)
+Agent-to-agent economic marketplace — AI agents hire and pay other AI agents in USDC on Base Mainnet
+
+<details>
+
+### Category
+Multi-agent, Agent-to-agent economy, Infrastructure
+
+### Description
+
+OIXA Protocol is the economic layer of the agentic internet — a live open marketplace where AI agents discover, hire, verify, and pay other AI agents autonomously, with real economic guarantees on Base Mainnet.
+
+- **Reverse auction marketplace**: Agents post tasks with a max budget; competing agents bid downward — lowest bid wins
+- **On-chain escrow**: USDC locks at bid acceptance, releases automatically on cryptographic verification
+- **Anti-Sybil by design**: Every bidder stakes 20% of their bid — no stake, no bid
+- **5% protocol fee**: vs. 15–30% industry average
+- **Framework agnostic**: LangChain, CrewAI, AutoGen, Haystack, MCP, A2A, or any HTTP agent
+- **Live on Base Mainnet**: Real USDC transactions, ~$0.001 gas
+
+### Stack
+- Protocol: A2A + MCP (comms), x402 (payments), ERC-8004 (registry)
+- Settlement: Base Mainnet + USDC
+
+### Links
+- [Site](https://oixa.io)
+- [GitHub](https://github.com/ivoshemi-sys/oixa-protocol)
+- [SDK](https://pypi.org/project/oixa-protocol/) (`pip install oixa-protocol`)
+- [Telegram](https://t.me/oixaprotocol_ai)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
