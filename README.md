@@ -5189,6 +5189,28 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [ShopSavvy](https://shopsavvy.com/agents)
+MCP server that gives any AI assistant real-time product pricing, price history, and shopping tools
+
+<details>
+
+### Category
+Shopping, E-commerce, Price comparison, MCP
+
+### Description
+- Free MCP server that works with Claude, ChatGPT, Gemini, and any MCP-compatible AI
+- Real-time pricing across 70,000+ retailers for 100M+ products
+- Tools for product lookup (by name, barcode, URL, ASIN), price history, deal discovery, and expert buying guides
+- One-command install, no signup required for free tier
+- Open source on GitHub with SDKs in 10 languages
+
+### Links
+- [Website](https://shopsavvy.com/agents)
+- [GitHub](https://github.com/shopsavvy/shopsavvy-mcp-server)
+- [Documentation](https://shopsavvy.com/data/documentation)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
