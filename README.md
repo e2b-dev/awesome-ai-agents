@@ -139,6 +139,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentLair](https://agentlair.dev)
+Give AI agents a persistent email identity and encrypted credential vault
+
+<details>
+
+### Category
+Infrastructure, Tools, MCP
+
+### Description
+- Provides AI agents with a persistent email identity (@agentlair.dev) so agents can send and receive email autonomously.
+- Encrypted credential vault for securely storing and retrieving secrets (API keys, tokens, passwords) within agent workflows.
+- MCP server + REST API for easy integration with any agent framework.
+- Free tier available; one API call setup.
+
+### Links
+- [Web](https://agentlair.dev)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
