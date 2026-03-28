@@ -3621,6 +3621,24 @@ Productivity, Marketig, Sales, Finance, General purpose, Business intelligence
 
 </details>
 
+## [claude-dash](https://github.com/krabat-l/claude-dash)
+Real-time statusline plugin for Claude Code
+
+<details>
+
+### Category
+Developer tools, Coding
+
+### Description
+- Real-time statusline plugin for Claude Code showing context health, quota, cost, cache efficiency, tool activity, and git status
+- Component-based design with zero npm dependencies, invoked every ~300ms
+- Displays context bar, turns estimate, quota reset time, API cost, cache hit ratio, current tool, and stuck warnings
+
+### Links
+- [GitHub](https://github.com/krabat-l/claude-dash)
+
+</details>
+
 ## [Code Autopilot](https://www.codeautopilot.com/)
 AI Assistant for your project
 
