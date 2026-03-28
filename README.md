@@ -959,6 +959,25 @@ Science, Chemistry
 
 </details>
 
+## [claude-debug](https://github.com/krabat-l/claude-debug)
+Phase-gated debugging plugin for AI coding agents
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Phase-gated debugging plugin that enforces a 5-phase protocol (reproduce, isolate, root cause, fix, verify) using PreToolUse hooks
+- Physically prevents the AI agent from editing code until it has confirmed the root cause, eliminating premature fix attempts
+- Works with Claude Code, Cursor, and Codex
+- Designed to bring disciplined debugging methodology to AI-assisted development workflows
+
+### Links
+- [GitHub](https://github.com/krabat-l/claude-debug)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
