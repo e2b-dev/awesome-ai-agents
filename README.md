@@ -732,6 +732,24 @@ General purpose, Productivity
 </details>
 
 
+## [Bernstein](https://github.com/chernistry/bernstein)
+Deterministic orchestrator for parallel AI coding agents
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- Deterministic orchestrator that spawns parallel AI coding agents (Claude Code, Codex CLI, Gemini CLI), verifies output with tests, and auto-commits.
+- Assigns isolated tasks to multiple agents simultaneously, collects results, and merges only test-verified changes.
+- Designed for hands-off software development workflows where reliability and reproducibility matter.
+
+### Links
+- [GitHub](https://github.com/chernistry/bernstein)
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
