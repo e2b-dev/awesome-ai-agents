@@ -1745,6 +1745,22 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [launch-swarm](https://github.com/harshmoney123/launch-swarm)
+6-agent Claude Code configuration that runs an autonomous engineering team
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+launch-swarm is a .claude configuration with 6 specialized AI agents that run as an autonomous engineering team. Agents plan sprints, write code, review PRs, generate documentation, and auto-merge after dual-gate approval. Built for part-time engineers who need full-time output.
+
+### Links
+- [GitHub](https://github.com/harshmoney123/launch-swarm)
+
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
