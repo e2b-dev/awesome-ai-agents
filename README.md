@@ -1062,6 +1062,26 @@ Coding
 
 </details>
 
+## [Cortex](https://github.com/agentweave/cortex)
+Open protocol for coordinating AI agent teams through markdown
+
+<details>
+
+### Category
+Multi-agent, Build your own
+
+### Description
+- An open protocol for coordinating AI agent teams through plain markdown files
+- Ships as a Claude Code plugin with a chief-of-staff pattern — one coordinator agent manages worker agents
+- Runtime-agnostic: supports Claude Code, Codex, Cursor, Gemini CLI, and OpenCode
+- No databases, no APIs — agents coordinate via a shared directory of markdown files
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/agentweave/cortex)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
