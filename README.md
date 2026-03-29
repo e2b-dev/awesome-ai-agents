@@ -2611,6 +2611,33 @@ Coding, general purpose
 </details>
 
 
+
+## [SwarmX](https://github.com/ItachiDevv/eliza-x402-swarms)
+Multi-agent AI orchestration with x402 micropayments
+
+<details>
+
+### Category
+Multi-agent, API, Crypto / Web3
+
+### Description
+- SwarmX is a platform for AI agent tasks powered by x402 micropayments and Swarms multi-agent orchestration.
+- 47 HTTP endpoints for contract audits, token diligence, DeFi risk scoring, fact-checking, code audits, research reports, compliance, and more.
+- Pay per call with USDC ($0.001-$5) via the x402 protocol — no API keys, accounts, or subscriptions needed.
+- 39 MCP tools for AI agent discovery and integration.
+- 15+ swarm architectures including research pipelines, analysis panels, code review, and debate-and-decide patterns.
+- Single-agent tasks route directly to OpenAI for cost efficiency; multi-agent tasks use Swarms API for orchestration.
+- Dual distribution: standalone HTTP server (Railway/Docker) and ElizaOS v2 plugin (npm package).
+- Free tier: 10 calls/day per IP.
+- TypeScript, open-source, MIT license.
+
+### Links
+- [GitHub](https://github.com/ItachiDevv/eliza-x402-swarms)
+- [Live API](https://x402-swarms-production.up.railway.app)
+- [npm](https://www.npmjs.com/package/@itachisol/plugin-x402-swarms)
+
+</details>
+
 ## [Sweep](https://sweep.dev/)
 Github assistant that fixes issues & writes code
 
