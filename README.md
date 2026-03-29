@@ -2427,6 +2427,29 @@ Productivity, Research
 
 </details>
 
+## [SimpleFunctions](https://simplefunctions.dev)
+Agentic runtime for prediction markets — context, edge detection, and execution across Kalshi and Polymarket
+
+<details>
+
+### Category
+Finance, Trading, Research
+
+### Description
+- Decomposes trading theses into causal probability trees and maps them to live prediction market contracts
+- Detects edges (mispricings) between your model's implied probability and market price
+- 25 MCP tools, 42 CLI commands, REST API — works with Claude Code, Cursor, or any MCP client
+- 24/7 monitoring: news scanning, price tracking, orderbook enrichment, kill condition checks
+- Interactive agent mode with natural language interface and Bloomberg-style terminal dashboard
+- Covers Kalshi, Polymarket, and traditional markets (SPY, VIX, Treasury, Gold, Oil via Databento)
+
+### Links
+- [Web](https://simplefunctions.dev)
+- [npm](https://www.npmjs.com/package/@spfunctions/cli)
+- [Documentation](https://simplefunctions.dev/docs/guide)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
