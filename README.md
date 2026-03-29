@@ -1376,6 +1376,24 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [Flock](https://github.com/Divagation/flock)
+Native macOS multiplexer for running multiple Claude Code sessions in parallel
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Flock is a native macOS (Swift/AppKit) terminal multiplexer purpose-built for running multiple Claude Code AI agent sessions in parallel.
+- Features agent mode with kanban board for tracking parallel AI tasks, 7 built-in themes, broadcast mode, Wren prompt compression, and usage tracking.
+- Designed for developers who need to orchestrate multiple AI coding agents simultaneously from a single interface.
+
+### Links
+- [GitHub](https://github.com/Divagation/flock)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
