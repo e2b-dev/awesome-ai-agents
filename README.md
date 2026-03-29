@@ -959,6 +959,31 @@ Science, Chemistry
 
 </details>
 
+## [Clicks Protocol](https://github.com/clicks-protocol/clicks-protocol)
+Autonomous DeFi yield for AI agent treasuries on Base
+
+<details>
+
+### Category
+Agent tooling, DeFi, Treasury management
+
+### Description
+- On-chain yield layer that lets AI agents earn yield on idle USDC with one SDK call.
+- Automatic 80/20 split: 80% stays liquid for agent operations, 20% earns yield via Aave V3 or Morpho.
+- No lockup, no dashboard, no human approval needed. Agents manage treasury autonomously.
+- TypeScript SDK with quickStart(), receivePayment(), withdrawYield() methods.
+- MCP Server with 9 tools for LLM-native agents (Claude, Cursor, LangChain).
+- 5 verified contracts on Base Mainnet. 2% fee on yield only, never on principal.
+
+### Links
+- [Website](https://clicksprotocol.xyz)
+- [GitHub](https://github.com/clicks-protocol/clicks-protocol)
+- [SDK (npm)](https://www.npmjs.com/package/@clicks-protocol/sdk)
+- [MCP Server (npm)](https://www.npmjs.com/package/@clicks-protocol/mcp-server)
+- [Treasury Lab](https://api.clicksprotocol.xyz/lab)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
