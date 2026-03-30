@@ -2343,6 +2343,26 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 </details>
 
+## [Pumpclaw](https://github.com/chainstacklabs/pumpclaw)
+Agent skill for pump.fun token trading on Solana
+
+<details>
+
+### Category
+Coding, Crypto/DeFi
+
+### Description
+- An open-source agent skill for pump.fun token trading on Solana via pumpfun-cli
+- Supports buying, selling, launching tokens, wallet management, dry-run simulation, slippage checks, and PumpSwap AMM migrations
+- Works with OpenClaw, Claude Code, Cursor, Codex, and Antigravity
+- Apache 2.0 license
+
+### Links
+- [GitHub](https://github.com/chainstacklabs/pumpclaw)
+- Author: [Chainstack](https://github.com/chainstacklabs)
+
+</details>
+
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
