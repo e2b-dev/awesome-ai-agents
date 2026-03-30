@@ -858,8 +858,31 @@ Productivity
 </details>
 
 
+## [ClawBox](https://github.com/coderkk1992/clawbox)
+Run AI agents in a sandboxed VM with native macOS UI
+
+<details>
+
+![Image](https://raw.githubusercontent.com/coderkk1992/clawbox/main/screenshots/conversation.png)
+
+### Category
+General purpose, Desktop
+
+### Description
+- ClawBox wraps OpenClaw AI agent in a sandboxed Linux VM with a native macOS interface
+- The AI can browse the web, write code, manage files - all isolated from your host system
+- 5-minute setup with no CLI required - just a setup wizard
+- Supports Claude and GPT models
+- Built with Tauri + React, uses Lima for VM management
+
+### Links
+- [GitHub](https://github.com/coderkk1992/clawbox)
+- [Website](https://coderkk1992.github.io/clawbox/)
+
+</details>
+
 ## [CAMEL](https://github.com/camel-ai/camel)
-Architecture for “Mind” Exploration of agents
+Architecture for "Mind" Exploration of agents
 
 <details>
 
