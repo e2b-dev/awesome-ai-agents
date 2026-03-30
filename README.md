@@ -2574,6 +2574,31 @@ General purpose
 </details>
 
 
+## [SwarmX](https://github.com/SolTwizzy/swarms-x402)
+Multi-agent AI orchestration with native x402 micropayments
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Multi-agent AI orchestration platform with native x402 micropayments on Solana
+- 49 x402-gated endpoints across 12 categories: contract audits, token diligence, DeFi risk rating, deep research, code audits, and real-time Solana data
+- 39 MCP tools for agent-to-agent discovery and integration
+- Dual LLM routing (Gemini 2.5 Flash + OpenAI GPT-4o) with knowledge/RAG via pgvector
+- ElizaOS v2 plugin for seamless integration into existing agent frameworks
+- $0.001–$5/call USDC pricing with automatic payment via HTTP 402
+
+### Links
+- [Website](https://swarmx.io)
+- [GitHub](https://github.com/SolTwizzy/swarms-x402)
+- [npm](https://www.npmjs.com/package/swarms-x402)
+- [API Catalog](https://swarmx.io/x402/catalog)
+
+</details>
+
+
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
 
