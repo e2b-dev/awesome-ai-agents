@@ -2458,6 +2458,22 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [SoulPass](https://github.com/soulpassai/soulpass-skill)
+Hardware-secured Solana wallet, trading terminal, and agent identity layer
+
+<details>
+
+### Category
+Crypto, DeFi, Multi-agent
+
+### Description
+Hardware-secured Solana wallet, trading terminal, and agent identity layer — Jupiter DEX swaps, meme coin trading, DeFi yield, trading bots, encrypted agent-to-agent messaging, service discovery. Keys in Apple Secure Enclave.
+
+### Links
+- [GitHub](https://github.com/soulpassai/soulpass-skill)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
