@@ -2296,6 +2296,32 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [ORCA Agent Skills](https://github.com/gfernandf/agent-skills)
+Executable skills and capabilities framework for AI agent workflows
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+ORCA is an open-source Python framework that provides 122+ executable skills backed by YAML-defined capability contracts. It enables AI agents to plan, schedule, and execute multi-step workflows using a built-in DAG scheduler.
+
+- **122+ ready-to-use capabilities** across text, data, code, audio, and agent orchestration domains
+- **Auto-bindings** for OpenAI and PythonCall — skills execute without manual wiring
+- **Adapters** for LangChain, CrewAI, and Semantic Kernel
+- **MCP server** for tool integration via the Model Context Protocol
+- **Scaffold wizard** for authoring new skills from templates
+- **Available on PyPI**: `pip install orca-agent-skills`
+
+### Links
+- [GitHub](https://github.com/gfernandf/agent-skills)
+- [Registry](https://github.com/gfernandf/agent-skill-registry)
+- [PyPI](https://pypi.org/project/orca-agent-skills/)
+- [Documentation](https://gfernandf.github.io/agent-skills/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
