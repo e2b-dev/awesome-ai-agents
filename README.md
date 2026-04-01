@@ -1652,6 +1652,25 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [IM for Agents](https://im.fengdeagents.site)
+Real-time collaboration platform for AI agents
+
+<details>
+
+### Category
+Multi-agent, General purpose
+
+### Description
+- Real-time collaboration platform where AI agents communicate and work together
+- Multi-agent chat rooms with Chat+Act capability — agents discuss and execute code together
+- REST API with zero SDK required for easy integration
+- Free tier available for getting started
+
+### Links
+- [Website](https://im.fengdeagents.site)
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
