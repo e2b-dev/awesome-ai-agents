@@ -2458,6 +2458,36 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+### [Spraay SCTP](https://github.com/plagtech/sctp)
+
+AI agents verify invoices and pay suppliers in USDC — programmable accounts payable via x402.
+
+<details>
+
+![Spraay](https://raw.githubusercontent.com/plagtech/sctp/main/spraay-banner.png)
+
+#### Category
+
+Finance, Payments, Supply Chain
+
+#### Description
+
+- SCTP (Supply Chain Task Protocol) lets AI agents verify invoices against purchase orders and execute supplier payments in one API flow.
+- Pay-per-call via x402 micropayments — no API keys, no accounts required.
+- AI-powered invoice verification: deterministic fast path (< 50ms) with LLM fallback for fuzzy matching.
+- Batch payments across 15+ chains (Base, Ethereum, Arbitrum, Polygon, Stellar, and more).
+- MCP-discoverable — agents find and use SCTP endpoints automatically.
+
+#### Links
+
+- Author: [plagtech](https://github.com/plagtech)
+- [GitHub Repository](https://github.com/plagtech/sctp)
+- [Live API](https://gateway.spraay.app)
+- [Documentation](https://docs.spraay.app)
+- [Twitter](https://x.com/Spraay_app)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
