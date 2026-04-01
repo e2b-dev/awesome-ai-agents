@@ -5186,7 +5186,29 @@ Productivity, Research, Ecommerce
 
 ### Links
 - [Web](https://shoppal.ai)
-  
+
+</details>
+
+## [SigParser](https://www.sigparser.com)
+Email relationship data extraction and CRM enrichment platform with MCP server
+
+<details>
+
+### Category
+Data processing, Sales, CRM, Email
+
+### Description
+- SigParser connects to email and calendar systems (Google Workspace, Microsoft 365) to extract contacts, enrich company data, and score relationship warmth
+- Extracts names, emails, titles, and phone numbers from email signatures going back years
+- Generates relationship warmth and interaction scores showing who knows whom
+- Syncs enriched contact and company data to CRMs like Salesforce, HubSpot, and Dynamics
+- Includes an MCP server for AI agent integration with email relationship data
+- SOC 2 certified with no email body storage
+
+### Links
+- [Website](https://www.sigparser.com)
+- [Support](https://support.sigparser.com)
+
 </details>
 
 ## [Spell](https://spell.so/)
