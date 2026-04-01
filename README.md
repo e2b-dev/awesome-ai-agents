@@ -2296,6 +2296,28 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Overloop CLI](https://github.com/sortlist/overloop-cli)
+AI-powered outbound engine for AI agents
+
+<details>
+
+### Category
+Sales & Outbound
+
+### Description
+- Source prospects from 450M+ contacts database
+- Launch email + LinkedIn multi-channel campaigns
+- Manage conversations and replies
+- JSON output designed for agent integration
+- $69-99/mo
+
+### Links
+- [GitHub](https://github.com/sortlist/overloop-cli)
+- [npm](https://www.npmjs.com/package/overloop-cli)
+- [Web](https://agent.overloop.ai)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
@@ -2424,6 +2446,27 @@ Productivity, Research
 ### Links
 - [Web](https://www.hyperwriteai.com/self-operating-computer)
 - [GitHub](https://github.com/OthersideAI/self-operating-computer)
+
+</details>
+
+## [Signals CLI](https://github.com/sortlist/signals-cli)
+Intent signal monitoring for AI agents
+
+<details>
+
+### Category
+Sales & Outbound
+
+### Description
+- Detect LinkedIn engagers, keyword posters, job changers, funding events
+- Monitor buying intent signals across multiple sources
+- JSON output designed for agent pipelines
+- Feed signals into outbound campaigns automatically
+
+### Links
+- [GitHub](https://github.com/sortlist/signals-cli)
+- [npm](https://www.npmjs.com/package/signals-sortlist-cli)
+- [Web](https://agent.overloop.ai)
 
 </details>
 
