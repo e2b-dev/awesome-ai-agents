@@ -474,6 +474,27 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [AXME](https://github.com/AxmeAI/axme)
+Durable execution where agents, services, and humans coordinate as equals
+
+<details>
+
+### Category
+Infrastructure, Multi-agent, Human-in-the-loop
+
+### Description
+- Durable intent delivery with built-in crash recovery, retries, and timeouts
+- Human approval gates as a first-class primitive, not bolted on
+- Agent control plane with health monitoring, policies, and kill switch
+- Open protocol (AXP) for agent-to-agent and agent-to-human coordination
+- Managed cloud available at [cloud.axme.ai](https://cloud.axme.ai)
+- SDKs: Python, TypeScript, Go, Java, .NET
+
+### Links
+- [GitHub](https://github.com/AxmeAI/axme)
+- [Website](https://cloud.axme.ai)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
