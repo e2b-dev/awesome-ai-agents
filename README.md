@@ -114,6 +114,33 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentContract](https://github.com/agentcontract/spec)
+Open specification + enforcement for behavioral contracts on AI agents
+
+<details>
+
+### Category
+Build your own, Safety
+
+### Description
+- **AgentContract** is an open specification for declaring what an AI agent must, must not, and can do — enforced on every run.
+- Define behavioral contracts in plain YAML: `must_not`, `must`, `assert`, `limits`, and `on_violation` clauses.
+- Python (`pip install agentcontract`), TypeScript (`npm install @agentcontract/core`), and Rust reference implementations.
+- Framework-agnostic — wraps LangChain, CrewAI, OpenAI Agents SDK, or any custom agent with a single decorator.
+- Violations are caught, logged to a tamper-evident JSONL audit trail, and blocked or warned based on policy.
+- GitHub Action (`agentcontract/agentcontract-action@v1`) for CI/CD enforcement on every push.
+- Apache 2.0. Audit trail maps to EU AI Act and 21 CFR Part 11 traceability requirements.
+
+### Links
+- [Spec](https://github.com/agentcontract/spec)
+- [Python](https://github.com/agentcontract/agentcontract-py)
+- [TypeScript](https://github.com/agentcontract/agentcontract-ts)
+- [Rust](https://github.com/agentcontract/agentcontract-rs)
+- [GitHub Action](https://github.com/agentcontract/agentcontract-action)
+- [PyPI](https://pypi.org/project/agentcontract/)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
