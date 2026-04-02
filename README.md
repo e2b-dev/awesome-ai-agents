@@ -1268,6 +1268,27 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
+## [Deskhand](https://github.com/YUHAO-corn/Deskhand)
+An AI desktop agent that reads your local context and invokes tools to help non-technical users get things done
+
+<details>
+
+![Image](https://github.com/YUHAO-corn/Deskhand/raw/main/assets/readme/01-disk-cleanup.png)
+
+### Category
+Desktop app, General purpose, Open source
+
+### Description
+- An AI desktop agent that reads your local context — files, clipboard, screen — and invokes tools to help users get things done
+- Powered by Claude, runs entirely locally on your machine
+- Features generative UI for structured interactive input, skill insight for friction point detection, and clipboard intelligence for contextual awareness
+- Supports file operations, Excel analysis, document translation, and disk cleanup — all with user confirmation before execution
+
+### Links
+- [GitHub](https://github.com/YUHAO-corn/Deskhand)
+- [Showcase](https://yuhao-corn.github.io/deskhand-showcase/)
+- [Builder's QA Column](https://yuhao-corn.github.io/column/)
+
 ## [dotagent](https://github.com/dot-agent/dotagent)
 Deploy agents on cloud, PCs, or mobile devices
 
