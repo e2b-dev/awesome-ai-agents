@@ -2296,6 +2296,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OSOP](https://osop.ai)
+Open standard for AI agent workflows (the OpenAPI of workflows)
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- OSOP (Open Standard for Operations and Processes) is a YAML-based open standard for defining, sharing, and executing AI agent workflows — like OpenAPI, but for workflows.
+- Bidirectional converters for CrewAI, LangGraph, and AutoGen so you can import/export workflows across frameworks.
+- 12-tool MCP server for integrating with any MCP-compatible AI agent.
+- VS Code extension with visual editing and validation.
+- Python and JavaScript/TypeScript SDKs for programmatic workflow creation and execution.
+- Visual workflow editor with drag-and-drop canvas and real-time YAML sync.
+
+### Links
+- [Website](https://osop.ai)
+- [GitHub](https://github.com/Archie0125/osop-spec)
+- [Editor](https://osop-editor.vercel.app)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
