@@ -1443,6 +1443,25 @@ Coding
 
 </details>
 
+## [Genomic Agent Discovery](https://github.com/HelixGenomics/Genomic-Agent-Discovery)
+Multi-agent MCP server for local genomic analysis
+
+<details>
+
+### Category
+Science, Research, Multi-agent
+
+### Description
+- Multi-agent MCP server for genomic analysis — specialized AI agents analyze raw DNA files across 12 databases (ClinVar, GWAS, AlphaMissense, CPIC, gnomAD, etc.) and coordinate findings through shared MCP tools.
+- Privacy-first architecture that runs 100% locally — no data ever leaves the user's machine.
+- Supports 23andMe, AncestryDNA, and VCF file formats.
+- Agents collaborate through shared MCP tools to cross-reference findings across databases for comprehensive variant analysis.
+
+### Links
+- [GitHub](https://github.com/HelixGenomics/Genomic-Agent-Discovery)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
