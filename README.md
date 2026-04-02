@@ -781,6 +781,25 @@ Coding
 
 </details>
 
+## [Blueprint](https://github.com/JuliusBrussee/blueprint)
+Specification-driven development plugin for AI coding agents
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software
+- Features automated iteration, validation, and dual-model adversarial review (Claude + Codex)
+- Supports parallel task execution with dependency-aware wave-based builds
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/JuliusBrussee/blueprint)
+
+</details>
+
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
