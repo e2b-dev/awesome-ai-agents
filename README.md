@@ -790,10 +790,11 @@ Specification-driven development plugin for AI coding agents
 Coding
 
 ### Description
-- Claude Code plugin that turns natural language into blueprints, blueprints into parallel build plans, and build plans into working software
-- Features automated iteration, validation, and dual-model adversarial review (Claude + Codex)
-- Supports parallel task execution with dependency-aware wave-based builds
-- MIT licensed
+- Claude Code plugin that turns natural language into blueprints (documents with numbered requirements and testable acceptance criteria), blueprints into parallel build plans, and build plans into working software
+- Automated iteration loop with validation at every step — each task committed only after build, tests, and acceptance criteria pass
+- Wave-based parallel execution dispatches independent tasks to concurrent subagents
+- Dual-model adversarial review: Claude builds, Codex challenges specs and reviews code at every tier gate
+- MIT licensed, open source
 
 ### Links
 - [GitHub](https://github.com/JuliusBrussee/blueprint)
