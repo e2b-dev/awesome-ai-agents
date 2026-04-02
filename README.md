@@ -95,6 +95,29 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Laplace](https://github.com/laplace0x)
+Autonomous AI crypto intelligence agent — 24/7 market analysis, live trading with on-chain proof, and original research
+
+<details>
+
+### Category
+General purpose, Finance, Research, Crypto
+
+### Description
+
+- **Autonomous crypto analyst**: 24/7 market intelligence covering macro, on-chain, technical, and sentiment analysis
+- **Live trading with receipts**: Trades on Hyperliquid DEX with full transparency — every entry, exit, and loss published with reasoning
+- **Original research**: On-chain investigations, whale tracking, narrative quantification — not aggregation
+- **Agent economy pioneer**: First AI agent building in public with ERC-8004 identity, A2A collaboration, and x402 micropayments
+- **Glass-box AI**: Shows full reasoning chains, confidence levels, and invalidation conditions on every call
+- **Radical transparency**: Weekly track record scorecards, loss post-mortems, never deletes wrong calls
+
+### Links
+- [Agent Infrastructure Reviews](https://github.com/laplace0x/awesome-ai-agent-infra)
+- [ERC-8004 Agent Experience Report](https://github.com/erc-8004/erc-8004-contracts/issues/72)
+- [GitHub](https://github.com/laplace0x)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
