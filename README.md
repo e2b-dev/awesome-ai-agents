@@ -2427,6 +2427,28 @@ Productivity, Research
 
 </details>
 
+
+## [SidClaw](https://github.com/sidclawhq/platform)
+
+<details>
+
+### Category
+
+Governance, compliance, security
+
+### Description
+
+The approval and accountability layer for AI agents. SidClaw wraps agent tool calls with policy evaluation, human approval workflows, and tamper-proof audit trails. Works across 18+ frameworks including LangChain, OpenAI Agents, CrewAI, MCP, Claude Agent SDK, and Google ADK. Also functions as a governance proxy for any MCP server.
+
+### Links
+
+- [GitHub](https://github.com/sidclawhq/platform)
+- [Docs](https://docs.sidclaw.com)
+- [npm](https://www.npmjs.com/package/@sidclaw/sdk)
+- [PyPI](https://pypi.org/project/sidclaw/)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
