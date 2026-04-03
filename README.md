@@ -207,6 +207,26 @@ General purpose
   
 </details>
 
+## [AgentProbe](https://github.com/NeuZhou/agentprobe)
+Playwright for AI Agents — test, record, and replay agent behaviors
+
+<details>
+
+### Category
+Testing, Developer tools
+
+### Description
+
+- Test framework for AI agents inspired by Playwright's approach to browser testing
+- Record agent interactions and replay them deterministically for regression testing
+- Supports behavior assertions, snapshot testing, and session replay
+- TypeScript-based with a simple API for writing agent test suites
+
+### Links
+- [GitHub](https://github.com/NeuZhou/agentprobe)
+
+</details>
+
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
 Library/framework for building language agents
