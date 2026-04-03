@@ -2427,6 +2427,28 @@ Productivity, Research
 
 </details>
 
+## [Signbee MCP](https://www.npmjs.com/package/signbee-mcp)
+E-signature primitive for autonomous agent workflows
+
+<details>
+
+### Category
+Productivity, Build-your-own
+
+### Description
+MCP server that gives AI agents the ability to send documents for legally binding e-signatures. Designed as the signing primitive in agent-driven deal-closing pipelines.
+- Send contracts and agreements for two-party signing via API
+- SHA-256 audit certificates for legal compliance
+- Webhook callbacks on signature completion for downstream automation
+- Works as one step in multi-MCP pipelines (Firecrawl → Email → Cal.com → Signbee)
+- Free tier available for testing
+
+### Links
+- [npm](https://www.npmjs.com/package/signbee-mcp)
+- [Web](https://signbee.com)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
