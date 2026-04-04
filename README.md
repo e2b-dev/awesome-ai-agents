@@ -2509,7 +2509,8 @@ Superagent is not a single agent, but a tool that allows creating agents without
 
 </details>
 
-
+## [smolagents] – A lightweight library by Hugging Face for building AI agents with minimal code.  
+  https://github.com/huggingface/smolagents
 ## [SuperAGI](https://superagi.com/)
 Framework to develop and deploy AI agents
 <details>
