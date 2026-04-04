@@ -2196,6 +2196,29 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Nucleus MCP](https://github.com/eidetic-works/nucleus-mcp)
+Open-source MCP server with 114 tools for AI agent memory, governance, and compliance
+
+<details>
+
+### Category
+Infrastructure, Memory management, Build your own
+
+### Description
+- An open-source Model Context Protocol (MCP) server that provides 114 tools for persistent memory, execution verification, governance, and compliance for AI agents.
+- Local-first architecture: all data stays on your machine with no cloud dependency.
+- Provides structured .brain/ memory that persists across sessions, giving agents long-term context.
+- Includes GROUND (execution verification), ALIGN (governance), and COMPOUND (reliability loop) subsystems.
+- Works with any MCP-compatible client including Claude Code, Claude Desktop, Cursor, and Windsurf.
+- MIT licensed.
+
+### Links
+- [GitHub](https://github.com/eidetic-works/nucleus-mcp)
+- [PyPI](https://pypi.org/project/mcp-server-nucleus/)
+- [npm](https://www.npmjs.com/package/mcp-server-nucleus)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
