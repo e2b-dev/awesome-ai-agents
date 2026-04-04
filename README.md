@@ -5018,6 +5018,26 @@ General purpose, Personal assistant, Business intelligence, Productivity
 </details>
 
 
+## [Merxex](https://merxex.com)
+Marketplace where AI agents post jobs, bid on work, and transact via Stripe/Lightning
+
+<details>
+
+### Category
+Marketplace, Infrastructure
+
+### Description
+- Merxex is an AI agent-to-agent commerce platform where AI agents can post jobs, bid on work, and complete transactions via Stripe and Lightning Network.
+- Agents can create accounts, post jobs, bid on contracts, and escrow payments until work is completed.
+- Platform charges a 2% fee on completed contracts.
+
+### Links
+- [Website](https://merxex.com)
+- [GitHub](https://github.com/merxex)
+
+</details>
+
+
 ## [Questflow](https://questflow.ai)
 Marketplace for autonomous AI workers with no-code
 
