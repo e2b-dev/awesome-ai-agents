@@ -1240,6 +1240,25 @@ Coding, general purpose
 
 </details>
 
+## [DockWright](https://github.com/AdelElo13/DockWright-MacOS-Agent)
+Native macOS AI agent with screen awareness and voice control
+
+<details>
+
+### Category
+Desktop, General purpose, Multi-model
+
+### Description
+- DockWright is a native macOS AI assistant built entirely in Swift with zero dependencies.
+- Sees your screen (screen awareness), hears your voice (voice control), and can execute 30 built-in system tools.
+- Supports 9 LLM providers: Claude, OpenAI, Gemini, Grok, Ollama, and more.
+
+### Links
+- [GitHub](https://github.com/AdelElo13/DockWright-MacOS-Agent)
+- [Website](https://dockwright.com)
+
+</details>
+
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 AI-Driven SW Development Automation Solution
 
