@@ -5360,6 +5360,30 @@ Coding
   
 </details>
 
+## [ToolPipe](https://toolpipe.dev)
+120+ developer utility tools accessible via MCP for AI coding agents
+
+<details>
+
+### Category
+Coding, Developer Tools, MCP
+
+### Description
+- ToolPipe MCP Server provides AI agents with 120+ developer utility tools via Model Context Protocol
+- Tools include: code review, formatting, minification, QR codes, hashing, DNS lookup, WHOIS, SSL check, security headers, fake data generation, JSON Schema validation, TypeScript generation, Docker Compose generation, and more
+- Works with Claude, Cursor, Windsurf, VS Code, Cline, or any MCP-compatible client
+- Zero-config setup: just add the MCP URL to your agent config
+- Also available as REST API at toolpipe.dev with 120+ endpoints
+- Open source (MIT license)
+
+### Links
+- [Website](https://toolpipe.dev)
+- [npm](https://www.npmjs.com/package/@cosai-labs/toolpipe-mcp-server)
+- [GitHub](https://github.com/COSAI-Labs/toolpipe-mcp-server)
+
+</details>
+
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
