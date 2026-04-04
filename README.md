@@ -1375,6 +1375,26 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 - [GitHub](https://github.com/airtai/fastagency)
 
 </details>
+## [Forge](https://github.com/LucasDuys/forge)
+Autonomous spec-driven development loop for Claude Code
+
+<details>
+
+### Category
+Coding
+
+### Description
+Forge is a Claude Code plugin that turns ideas into shipped code via a three-command pipeline:
+- **brainstorm** - Interactive spec generation with numbered requirements and acceptance criteria
+- **plan** - Decomposes specs into ordered task frontiers with dependency DAGs
+- **execute** - Autonomous implementation loop with TDD, token budget management, and circuit breakers
+
+Features context survival across sessions, backpropagation (traces runtime bugs to spec gaps), adaptive complexity detection, and Claude-on-Claude code review. Zero dependencies, MIT licensed.
+
+- [GitHub](https://github.com/LucasDuys/forge)
+
+</details>
+
 
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
