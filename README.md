@@ -1602,6 +1602,28 @@ GPT Researcher is a GPT-based autonomous agent that does online comprehensive re
 
 </details>
 
+## [AutoSearch](https://github.com/0xmariowu/Autosearch)
+Self-evolving deep research agent for Claude Code
+
+<details>
+
+### Category
+Research, Search
+
+### Description
+AutoSearch is a self-evolving research agent that runs as a Claude Code plugin. It searches 32 dedicated channels in parallel (arXiv, Semantic Scholar, GitHub, Reddit, HN, 12 Chinese platforms, and more), evaluates results with LLM scoring, and synthesizes cited reports.
+- Learns from every session: records winning/losing query patterns and channel yield per topic
+- 6-block pipeline: Prepare → Search → Evaluate → Synthesize → Quality Check → Evolve
+- 12 native Chinese platform channels (only research tool covering the Chinese internet)
+- Fixed evaluator prevents gaming own metrics — only search strategy evolves
+- Zero API keys required, MIT licensed
+
+### Links
+- [Repository](https://github.com/0xmariowu/Autosearch)
+- Author: [0xmariowu](https://github.com/0xmariowu)
+
+</details>
+
 ## [GPT Runner](https://github.com/nicepkg/gpt-runner)
 Agent that converses with your files
 
