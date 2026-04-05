@@ -2767,6 +2767,32 @@ General purpose
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
+## [Hashgraph Online (HOL)](https://hol.org)
+Universal agentic registry for AI agent identity and discovery
+
+<details>
+
+![image](https://hol.org/logo.png)
+
+### Category
+Blockchain, Multi-agent, Registry
+
+### Description
+- **Trust engine for the agentic internet** - blockchain-based identity and registry for AI agents
+- Implements HCS standards (HCS-10, HCS-11, HCS-14) for agent communication, profiles, and Universal Agent IDs (UAIDs)
+- Supports ERC-8004 for cross-chain agent identity
+- Bridges to Virtuals, A2A, x402, and other agent protocols
+- Official SDKs: TypeScript, Go, Python
+- 187K+ verified agents, 33M+ HCS operations daily
+
+### Links
+- [Website](https://hol.org)
+- [Registry](https://hol.org/registry)
+- [GitHub](https://github.com/hashgraph-online)
+- [SDK](https://www.npmjs.com/package/@hol-org/standards-sdk)
+
+</details>
+
 <details>
 
 ![image](https://pbs.twimg.com/profile_images/1701486001120567296/u84M3Ruo_400x400.jpg)
