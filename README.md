@@ -1062,6 +1062,28 @@ Coding
 
 </details>
 
+## [ContrastAPI](https://github.com/UPinar/contrastapi)
+Security intelligence MCP server for AI agents — 23 tools for CVE lookup, domain recon, threat intel, and code security
+
+<details>
+
+### Category
+Security, Developer tools, MCP server
+
+### Description
+- 23 MCP tools and 35+ REST API endpoints for security intelligence
+- CVE/EPSS/KEV lookup, domain reconnaissance, SSL analysis, IP reputation, threat intel, email security, phone validation, code security scanning
+- Available as remote MCP server (one-line config) or REST API
+- Free to use: 100 req/hr, no API key required
+- AI-native: LLM-optimized summaries, structured JSON, OpenAPI spec
+
+### Links
+- [Live API](https://api.contrastcyber.com)
+- [Quick Start](https://api.contrastcyber.com/quickstart)
+- [MCP Setup](https://api.contrastcyber.com/mcp-setup)
+- [GitHub](https://github.com/UPinar/contrastapi)
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
