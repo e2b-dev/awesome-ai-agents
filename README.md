@@ -959,6 +959,30 @@ Science, Chemistry
 
 </details>
 
+## [clideck](https://github.com/rustykuntz/clideck)
+WhatsApp-like dashboard for managing multiple AI coding agents
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- clideck is a local browser dashboard for running multiple AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one window
+- WhatsApp-like interface with live status detection, session resume, and projects
+- Autopilot routes work between agents autonomously (~50 tokens per routing decision) — set it up, go to sleep
+- Mobile remote to check on agents from a phone while away
+- Does not sit in the middle rewriting prompts or output — watches lightweight OpenTelemetry status signals
+- Everything runs locally, no data leaves the machine
+
+### Links
+- [GitHub](https://github.com/rustykuntz/clideck)
+- [Website](https://clideck.dev)
+- [Docs](https://docs.clideck.dev)
+- [Demo](https://youtu.be/hICrtjGAeDk)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
