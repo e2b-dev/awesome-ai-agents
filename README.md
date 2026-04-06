@@ -2879,6 +2879,28 @@ There are four key principles that we followed when developing WrenAI:
 
 </details>
 
+## [x402 Agent Kit](https://github.com/hypeprinter007-stack/x402-agent-kit)
+Python SDK for AI agents to pay for APIs with USDC on Base via the x402 protocol
+
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+Build your own, Payments, Infrastructure
+
+### Description
+- Python SDK that enables AI agents to pay for APIs using USDC on Base via the x402 HTTP payment protocol.
+- Works with CrewAI, LangChain, or any Python agent framework — drop-in `httpx` transport.
+- No API keys, no KYC — pure on-chain micropayments for autonomous agent commerce.
+- Agents can discover, negotiate, and pay for services without human intervention.
+- Built on the open x402 standard for HTTP-native payments.
+
+### Links
+- [GitHub Repository](https://github.com/hypeprinter007-stack/x402-agent-kit)
+
+</details>
+
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
 
