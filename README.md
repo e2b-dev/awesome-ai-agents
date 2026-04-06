@@ -1443,6 +1443,30 @@ Coding
 
 </details>
 
+## [Guardian AI](https://github.com/milkomida77/guardian-agent-prompts)
+Multi-agent orchestrator coordinating 57 specialized AI agents across coding, security, trading, OSINT, and business automation
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Hub-and-spoke architecture: one orchestrator routes all tasks to 57 specialized agents
+- Task registry with SQLite-based anti-duplication prevents agents from doing the same work
+- Quality gates require verification evidence (test output, diffs) before marking tasks done
+- Identity blocks in every agent define what it IS and IS NOT, reducing task drift ~35%
+- Includes 49 production-tested system prompts and 7 n8n workflow templates
+- Model-agnostic: works with Claude, GPT, Gemini, Llama, and Mistral
+- 10,000+ tasks completed in production over 6+ months
+
+### Links
+- [GitHub](https://github.com/milkomida77/guardian-agent-prompts)
+- [Free Orchestrator Prompt](https://github.com/milkomida77/guardian-agent-prompts/blob/main/prompts/orchestrator.md)
+- [Documentation](https://milkomida77.github.io/guardian-agent-prompts/)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
