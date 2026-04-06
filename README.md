@@ -4531,6 +4531,23 @@ Data analysis, Research, Business intelligence, web UI
 
 </details>
 
+## [joshua-agent](https://github.com/jorgevazquez-vagojo/joshua-agent)
+Autonomous gated software sprints for LLM coding tools
+
+<details>
+
+Multi-agent sprint framework: work agents implement, a gate agent reviews and issues **GO / CAUTION / REVERT** verdicts. Auto-deploys on GO, auto-reverts on REVERT via git. Works with Claude Code, Aider, Codex, or any LLM CLI.
+
+- **Gated cycles**: every sprint cycle ends with a quality gate before deploy
+- **Auto-revert**: REVERT verdict triggers automatic git rollback
+- **Any LLM CLI**: Claude Code, Aider, Codex, or custom command template
+- **YAML config**: define your team as skills, no code required
+
+Tags: Coding, Multi-agent, Autonomous
+
+</details>
+
+
 ## [Kompas AI](https://kompas.ai/)
 Pick your LLM & build custom conversational agent
 
