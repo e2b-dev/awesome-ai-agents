@@ -936,6 +936,30 @@ Coding, Multi-agent
 
 </details>
 
+## [Contemplative Agent](https://github.com/shimo4228/contemplative-agent)
+Self-improving AI agent running entirely on a local 9B model
+
+<details>
+
+### Category
+General purpose, Research
+
+### Description
+- Three-layer memory distillation: episode logs → knowledge patterns → identity
+- Security by absence: no shell execution, no arbitrary network access, no code generation
+- 11 ethical framework templates (Stoic, Buddhist, Ubuntu, etc.) for agent simulation
+- Runs on Ollama + local 9B model, no cloud API required
+- Single runtime dependency (requests + numpy)
+- Based on the Contemplative AI paper (Laukkonen et al., 2025)
+
+### Links
+- [GitHub](https://github.com/shimo4228/contemplative-agent)
+- [DOI](https://doi.org/10.5281/zenodo.19212119)
+- [Live Agent](https://www.moltbook.com/u/contemplative-agent)
+- [Paper (Laukkonen et al., 2025)](https://arxiv.org/abs/2504.15125)
+
+</details>
+
 ## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
 LangChain agent for chemistry-related tasks
 
