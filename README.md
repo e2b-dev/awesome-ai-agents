@@ -1,3 +1,5 @@
+- [Awesome AI Tools](https://github.com/formatho/awesome-ai-tools) - Auto-updating curated list of 200+ AI tools with freshness tracking. Updates every 6 hours. ![GitHub Repo stars](https://img.shields.io/github/stars/formatho/awesome-ai-tools?style=social)
+
 <!--
 TBD:
 - Add to visual:
