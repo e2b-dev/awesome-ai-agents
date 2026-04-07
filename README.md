@@ -2408,6 +2408,26 @@ Coding
 
 </details>
 
+## [RemoteOpenClaw](https://remoteopenclaw.com)
+Open marketplace for AI skills and personas built on OpenClaw
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- RemoteOpenClaw is an open marketplace for discovering, sharing, and distributing AI skills and personas built on OpenClaw
+- Enables developers and AI enthusiasts to discover community-built AI agent skills and personas
+- Share and distribute their own AI skills
+- Buy and sell premium AI capabilities
+- Built on the open-source OpenClaw standard
+
+### Links
+- [Website](https://remoteopenclaw.com)
+</details>
+
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
