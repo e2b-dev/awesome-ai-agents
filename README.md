@@ -1966,6 +1966,24 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Master-skill](https://github.com/xr843/Master-skill)
+Chinese Buddhist master AI teaching agents powered by FoJin
+
+<details>
+
+### Category
+Build your own, Education, Vertical AI Agents
+
+### Description
+- Chinese Buddhist master AI teaching agents powered by FoJin. 8 pre-built masters with RAG-powered CBETA source citations across 7 Buddhist traditions.
+- Each master agent embodies a distinct doctrinal tradition (Chan, Pure Land, Tiantai, Huayan, Yogacara, Madhyamaka, Vinaya), answering questions grounded in classical Chinese Buddhist texts.
+- Powered by CBETA digital canon with authoritative source citations for scholarly and practice use.
+
+### Links
+- [GitHub](https://github.com/xr843/Master-skill)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
