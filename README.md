@@ -5515,6 +5515,34 @@ Build-your-own, Productivity, General purpose
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
+## [Yebo](https://yebo.dev)
+Authorization layer for AI agent execution
+
+<details>
+
+### Category
+Security, Infrastructure, Developer Tools
+
+### Description
+- Yebo is the authorization layer that sits between AI agents and real-world execution.
+- Every agent action (payments, API calls, system changes) is evaluated against enterprise policy before it runs.
+- Features:
+  - Fail-closed enforcement - if an action can't be authorized, it doesn't execute
+  - Three deterministic outcomes: ALLOW, REQUIRE_APPROVAL, or DENY
+  - Hardware-bound biometric verification for human authorization
+  - Signed audit receipts for every decision
+  - MCP server for Claude Desktop and Cursor
+  - Works with any agent framework (LangChain, CrewAI, etc.)
+
+### Links
+- [Website](https://yebo.dev)
+- [Developer Portal](https://yebo.dev/developer)
+- [npm: @yebo-auth/mcp-server](https://www.npmjs.com/package/@yebo-auth/mcp-server)
+- [npm: yebo-protect](https://www.npmjs.com/package/yebo-protect)
+- [GitHub](https://github.com/Unclefole/yebo)
+
+</details>
+
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
 <details>
 
