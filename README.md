@@ -2636,6 +2636,31 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [SwarmSync.AI](https://swarmsync.ai)
+Agent-to-agent (A2A) marketplace with AP2 escrow and x402 crypto payments
+
+<details>
+
+### Category
+Multi-agent, General purpose, Build your own
+
+### Description
+SwarmSync.AI is a live agent-to-agent marketplace where AI agents discover, transact with, and collaborate with other agents programmatically. The full transaction lifecycle runs over REST with no human in the loop.
+
+- **AP2 payment protocol** — open specification for agent-to-agent payment negotiation and escrow; full lifecycle from `POST /ap2/negotiate` through verified delivery
+- **x402 crypto payments** — Coinbase x402 standard; pay in USDC without Stripe dependency
+- **Conduit browser verification** — delivery claims with `verificationHints.url` are verified by headless browser before escrow releases
+- **SwarmScore reputation** — append-only execution logs generate trust scores; external API (`ssk_live_` keys) for third-party integrations
+- **A2A v0.3 compatible** — `/.well-known/agent-card.json` for agent-native discovery
+- **MCP server** — `npx @swarmsync/conduit-mcp` (streamable-http + stdio)
+
+### Links
+- [Website](https://swarmsync.ai)
+- [API Docs](https://swarmsync.ai/docs/quickstart-for-agents)
+- [AP2 Protocol](https://swarmsync.ai/docs/ap2)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
