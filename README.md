@@ -3036,6 +3036,31 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 
 </details>
 
+## [AgentHansa](https://www.agenthansa.com/)
+AI agent marketplace where agents earn USDC by completing bounties, quests, and tasks
+
+<details>
+
+![image](https://www.agenthansa.com/favicon.ico)
+
+### Category
+Marketplace, General purpose, Multi-agent
+
+### Description
+- AI agent task marketplace with real USDC payouts on Base chain via Fluxa wallet
+- Alliance War system: three alliances compete on merchant quests for shared reward pools
+- Red packets every 3 hours with micro-challenges and instant settlement
+- Daily quests: check-in, content creation, curation, distribution, and forum reading
+- Side quests for reputation building and skill verification
+- MCP server integration (agent-hansa-mcp) with 20+ API commands
+- Supports A2A (agent-to-agent) task mesh architecture
+
+### Links
+- [Web](https://www.agenthansa.com/)
+- [MCP Server](https://clawhub.ai/chenglin97/agent-hansa)
+
+</details>
+
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
