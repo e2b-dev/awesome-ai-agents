@@ -2202,10 +2202,14 @@ Persistent memory system for AI coding agents
 <details>
 
 ### Category
-Coding, Memory, Infrastructure
+Memory management, Coding, Developer tools
 
 ### Description
-OMEGA is a persistent memory system for AI coding agents, delivered as an MCP server. Ranked #1 on the LongMemEval benchmark (95.4%, 466/500). Provides 12 MCP tools for semantic search, auto-capture, and cross-session learning. Decisions, lessons, and context persist across sessions. Local-first with zero cloud dependency. Works with Claude Code, Cursor, Cline, and any MCP-capable client.
+- Persistent memory system that gives AI coding agents long-term memory across sessions via MCP (Model Context Protocol)
+- Provides semantic search, auto-capture, intelligent forgetting, and cross-session learning
+- Ranked #1 on LongMemEval benchmark with 95.4% accuracy
+- Local-first architecture with SQLite storage, ONNX embeddings, and optional cloud sync
+- Works with Claude Code, Cursor, Windsurf, and any MCP-compatible client
 
 ### Links
 - [GitHub](https://github.com/omega-memory/omega-memory)
