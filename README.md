@@ -315,8 +315,29 @@ General purpose, Personal assistant, Productivity
 - There is an interaction mechanism between agents to ensure fault tolerance.
 - External interaction modules can be automatically built for self-expansion.
 
-### Links  
+### Links
 - [GitHub](https://github.com/myshell-ai/AIlice)
+
+</details>
+
+## [Asqav](https://github.com/jagmarques/asqav-sdk)
+Open-source SDK for AI agent governance with tamper-evident audit trails
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- Governance SDK that wraps any AI agent with tamper-evident audit trails
+- Provides compliance tooling for teams building autonomous agents
+- Tracks agent decisions and actions with cryptographic integrity
+- Open source and installable via pip
+
+### Links
+- [GitHub](https://github.com/jagmarques/asqav-sdk)
+- [Website](https://asqav.com)
+- [PyPI](https://pypi.org/project/asqav/)
 
 </details>
 
