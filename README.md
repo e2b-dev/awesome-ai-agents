@@ -141,6 +141,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Todo](https://todo.formatho.com)
+API-first task management for AI agents
+
+<details>
+
+### Category
+Agent infrastructure, Task management, Multi-agent
+
+### Description
+- API-first task management system built specifically for AI agents
+- Persistent task queues that survive agent restarts and session boundaries
+- Agent identity tracking — know which agent did what
+- Priority-based task lifecycle: pending → in_progress → completed → blocked
+- Full audit trails for multi-agent workflow coordination
+- Works with any agent framework (crewAI, AutoGen, LangChain, custom)
+
+### Links
+- [GitHub](https://github.com/formatho/agent-todo)
+- [Web](https://todo.formatho.com)
+- [API Docs](https://todo.formatho.com/docs)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
