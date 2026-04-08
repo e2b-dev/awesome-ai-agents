@@ -5486,6 +5486,26 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [zcash-ika](https://github.com/Frontier-Compute/zcash-ika)
+Agent custody infrastructure for Zcash, Bitcoin, and EVM
+
+<details>
+
+### Category
+Crypto, Infrastructure, Multi-agent
+
+### Description
+- Split-key wallets via 2PC-MPC (Ika network on Sui)
+- On-chain spend policy enforcement for AI agents
+- Privacy attestation and shielded transaction support
+- ZIP 244 transaction builder, 54 npm exports
+- Deployed across 7 chains (ETH, Arbitrum, Base, Hyperliquid, NEAR, Sui, Sepolia)
+
+### Links
+- [GitHub](https://github.com/Frontier-Compute/zcash-ika)
+- [npm](https://www.npmjs.com/package/@frontiercompute/zcash-ika)
+
+</details>
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
