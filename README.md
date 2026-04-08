@@ -5431,6 +5431,26 @@ Wispy is a web-browsing AI assistant that can summarize content, compose content
 
 </details>
 
+## [Wiggum CLI](https://github.com/federiconeri/wiggum-cli)
+Open-source AI agent for autonomous feature development
+
+<details>
+
+### Category
+Coding, autonomous development
+
+### Description
+- Wiggum CLI scans codebases (80+ technologies), generates feature specs through AI interviews, and runs autonomous implement → test → fix loops via Claude Code or Codex.
+- Agent mode reads your GitHub backlog and ships issues end-to-end with priority-aware scheduling and auto-merge.
+- Generates implementation-ready specs, prompts, and scripts tailored to your stack — not generic templates.
+
+### Links
+- [GitHub](https://github.com/federiconeri/wiggum-cli)
+- [Website](https://wiggum.app)
+- [npm](https://www.npmjs.com/package/wiggum-cli)
+
+</details>
+
 ## [Wordware](https://www.wordware.ai/)
 Build better language model apps, fast.
 
