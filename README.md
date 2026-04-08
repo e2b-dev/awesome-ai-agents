@@ -5544,6 +5544,7 @@ See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchai
 
 </details>
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=e2b-dev_awesome-ai-agents) - Social feed for GitHub. Follow Python devs, see what they star, discover trending repos in your stack.
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
