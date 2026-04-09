@@ -2322,6 +2322,30 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Playwright-Praman](https://praman.dev)
+Agent-first SAP UI5, Fiori & S/4HANA test automation plugin for Playwright
+
+<details>
+
+### Category
+Coding, Testing
+
+### Description
+- Agent-first SAP UI5 test automation plugin for Playwright with built-in Claude Code agents for test planning, generation, and healing
+- Three specialized AI agents: planner (explores SAP apps and produces test plans), generator (creates compliant Playwright tests), and healer (auto-fixes failing tests)
+- 199 typed control proxies covering all SAP UI5 control types with full IntelliSense and type safety
+- Supports OData V2/V4, SAP Fiori Elements, SAP Fiori Launchpad, and 6 authentication strategies
+- Enforces SAP-specific best practices: setValue + fireChange + waitForUI5 patterns, dialog search, and no raw DOM selectors
+- Open source, TypeScript-first, ESM+CJS dual build
+
+### Links
+- [Website](https://praman.dev)
+- [GitHub](https://github.com/mrkanitkar/playwright-praman)
+- [npm](https://www.npmjs.com/package/playwright-praman)
+- [Documentation](https://praman.dev/docs)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
