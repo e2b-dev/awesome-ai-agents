@@ -5360,6 +5360,27 @@ Coding
   
 </details>
 
+## [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)
+Universal CLI for AI agents — 167 sites, self-repairing adapters
+
+<details>
+
+### Category
+Developer tools, General purpose
+
+### Description
+- Agent infrastructure that lets AI agents touch, sense, and control any internet application (via Chrome) and local software (via subprocess)
+- 756 commands across 167 sites — web APIs, desktop apps, Electron apps, browser automation
+- Self-repairing 20-line YAML adapters: when a selector or API changes, agents read the structured error, edit the YAML, and retry
+- Auto-JSON output in piped/non-TTY mode, ~80 tokens per CLI call
+- TypeScript, Apache-2.0 licensed
+
+### Links
+- [GitHub](https://github.com/olo-dot-io/Uni-CLI)
+- [npm](https://www.npmjs.com/package/@zenalexa/unicli)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
