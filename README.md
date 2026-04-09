@@ -2944,6 +2944,24 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 
 </details>
 
+## [Zcash MCP](https://github.com/Frontier-Compute/zcash-mcp)
+MCP server for Zcash blockchain operations
+
+<details>
+
+### Category
+Crypto, Privacy, Blockchain
+
+### Description
+- 18-tool MCP server for Zcash shielded transactions, memo decoding, attestation, and proof verification.
+- Enables AI agents to interact with the Zcash blockchain via the Model Context Protocol.
+- Supports shielded send, transparent operations, block scanning, and ZAP1 attestation.
+
+### Links
+- [GitHub](https://github.com/Frontier-Compute/zcash-mcp)
+- [npm](https://www.npmjs.com/package/@frontiercompute/zcash-mcp)
+</details>
+
 ## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
 Swift implementation of BabyAGI
 
