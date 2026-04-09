@@ -711,6 +711,27 @@ Data analysis
 
 </details>
 
+## [Base Layer](https://base-layer.ai)
+Open-source behavioral compression for AI agents
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- Compresses conversations into portable behavioral specifications that teach AI how a specific person thinks, communicates, and makes decisions.
+- 5-step pipeline: import, extract (47 behavioral predicates), embed, author layers, compose unified brief.
+- Provenance-traced claims with recall/search/trace/verify tools.
+- MCP server for Claude integration. Apache 2.0 licensed.
+- 57+ subjects modeled. 3-6K token specs.
+
+### Links
+- [GitHub](https://github.com/agulaya24/BaseLayer)
+- [Website](https://base-layer.ai)
+
+</details>
+
 
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
