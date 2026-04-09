@@ -1915,6 +1915,25 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [Maestro Orchestrate](https://github.com/josstei/maestro-orchestrate)
+Multi-agent development orchestration platform with 22 specialized agents
+
+<details>
+
+### Category
+Multi-agent, Coding, Build your own
+
+### Description
+- Maestro Orchestrate coordinates 22 specialized AI agents through structured 4-phase workflows (Design, Plan, Execute, Complete) for software development tasks
+- Classifies task complexity to choose between Express (simple) and Standard (complex) workflows, each with appropriate ceremony
+- Features native parallel execution, MCP-based session persistence, least-privilege security tiers, and standalone commands for code review, debugging, security audit, performance analysis, and more
+- Runs on Gemini CLI, Claude Code, and Codex from a single canonical source tree
+- Agents span 8 domains: Engineering, Product, Design, Content, SEO, Compliance, Internationalization, and Analytics
+
+### Links
+- [GitHub](https://github.com/josstei/maestro-orchestrate)
+</details>
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
