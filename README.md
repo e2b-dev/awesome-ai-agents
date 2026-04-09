@@ -4988,6 +4988,30 @@ Build-your-own, no-code, web UI
 
 </details>
 
+## [Polymarket Trader MCP](https://github.com/demwick/polymarket-trader-mcp)
+AI-powered prediction market trading agent for Polymarket
+
+<details>
+
+### Category
+Finance, trading, prediction markets, MCP
+
+### Description
+- 48-tool MCP server for Polymarket prediction market trading
+- Market discovery, smart money flow detection, and AI opportunity scoring
+- Copy trading with auto-monitor, conviction scoring, and backtesting
+- Direct trading with buy/sell/batch orders and limit orders
+- Portfolio optimization with stop-loss/take-profit automation
+- Works with Claude Code, Cursor, or any MCP-compatible AI client
+- Preview mode (simulation) and live mode (real orders)
+- TypeScript, MIT license, 205+ tests
+
+### Links
+- [GitHub](https://github.com/demwick/polymarket-trader-mcp)
+- [npm](https://www.npmjs.com/package/polymarket-trader-mcp)
+
+</details>
+
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
 AI workforce on Slack for under-resourced SMEs
 
