@@ -2296,6 +2296,31 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Pay](https://pay-skill.com)
+Payment infrastructure for AI agents — USDC on Base
+
+<details>
+
+### Category
+Infrastructure, Payments, Agents
+
+### Description
+
+- Three payment primitives: direct transfers ($1 min), pre-funded tabs ($5 min), and x402 HTTP paywall negotiation
+- Agents pay for APIs per-call without API keys using the x402 protocol
+- Service discovery lets agents search for paid APIs by keyword or category
+- CLI (`pay`), TypeScript SDK, Python SDK, and MCP server available
+- Built on Base using USDC — agents never hold ETH
+- Open-source: MIT (SDKs, CLI, MCP) and BSL-1.1 (contracts, gateway)
+
+### Links
+- [Web](https://pay-skill.com)
+- [Docs](https://pay-skill.com/docs/)
+- [GitHub](https://github.com/pay-skill)
+- [npm](https://www.npmjs.com/package/@pay-skill/mcp)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
