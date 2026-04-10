@@ -2482,6 +2482,29 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [Stock Research Desk](https://github.com/wd041216-bit/stock-research-desk)
+Multi-agent equity research desk for single-name deep dives and theme screening
+
+<details>
+
+![image](https://raw.githubusercontent.com/wd041216-bit/stock-research-desk/main/assets/banner.svg)
+
+### Category
+Finance, Research, Data analysis, Multi-agent
+
+### Description
+- Terminal-first equity research workflow for single-name deep dives, theme screening, and recurring watchlist coverage
+- Uses staged market, company, sentiment, comparison, red-team, council, scenario, and price-committee passes instead of one-shot summaries
+- Delivers separate Chinese and English DOCX reports plus JSON artifacts
+- Supports an additive Codex-native mode while keeping the standalone CLI path intact
+
+### Links
+- [GitHub](https://github.com/wd041216-bit/stock-research-desk)
+- [Case Study: SaiTeng](https://github.com/wd041216-bit/stock-research-desk/blob/main/docs/case-study-saiteng.md)
+- [CLI Workflow](https://github.com/wd041216-bit/stock-research-desk/blob/main/docs/cli-workflow.md)
+
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
