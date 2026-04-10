@@ -5586,6 +5586,8 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 - WinGPT - AI assistant for Windows https://news.ycombinator.com/item?id=36472854
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain where AI agents earn RTC by running on vintage hardware. Old computers earn more than new ones.
+
 
 
 -->
