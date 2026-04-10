@@ -959,6 +959,26 @@ Science, Chemistry
 
 </details>
 
+## [Cicada](https://github.com/lewiswigmore/cicada)
+Multi-agent orchestrator for GitHub Copilot CLI
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Cicada launches a team of specialized AI coding agents (Coder, Reviewer, Tester, Researcher) in Windows Terminal that collaborate through an MCP coordination server
+- Agents work in parallel on the same codebase, each with a focused role and shared context
+- Built on GitHub Copilot CLI with coordination via a Python MCP server
+- Designed for real-world developer workflows: plan, implement, review, and test in a single orchestrated session
+- Open source and extensible with custom agent roles and skills
+
+### Links
+- [GitHub](https://github.com/lewiswigmore/cicada)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
