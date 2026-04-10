@@ -4480,6 +4480,25 @@ Data analysis
 
 </details>
 
+## [Knowledge Graph](https://github.com/hilyfux/knowledge-graph)
+Persistent memory layer for AI coding agents
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Built on Anthropic internal engineering practices and Karpathy's AutoResearch methodology.
+- A zero-dependency, git-native memory layer that persists learned context across sessions.
+- Pure bash with ~3ms/event overhead, privacy-first, and no vector DB, Neo4j, or Docker required.
+- Helps AI coding agents avoid losing project memory between sessions by synthesizing durable context into git-tracked knowledge.
+
+### Links
+- [GitHub](https://github.com/hilyfux/knowledge-graph)
+
+</details>
+
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
 
