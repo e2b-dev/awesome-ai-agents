@@ -301,6 +301,45 @@ Coding, GitHub
 
 </details>
 
+## [AI Agent Starter Kit](https://github.com/theihtisham/ai-agent-starter-kit)
+Production-ready Next.js 14 starter with multi-agent orchestration, streaming UI, auth, Stripe payments.
+
+<details>
+
+### Category
+Coding, Build your own, Multi-agent
+
+### Description
+- Production-ready Next.js 14 starter template for building AI agent applications
+- Multi-agent orchestration with streaming UI
+- Built-in authentication and Stripe payments integration
+- Open-source and customizable
+
+### Links  
+- [GitHub](https://github.com/theihtisham/ai-agent-starter-kit)
+
+</details>
+
+## [AI PR Reviewer](https://github.com/theihtisham/ai-pr-reviewer)
+AI-powered code review with bug detection and security scanning for GitHub Actions
+
+<details>
+
+### Category
+Coding, GitHub
+
+### Description
+- AI-powered automated code review for GitHub pull requests
+- Bug detection and security vulnerability scanning
+- Works with Ollama (completely free) or OpenAI/Anthropic APIs
+- Easy GitHub Actions integration
+- Open-source and self-hostable
+
+### Links  
+- [GitHub](https://github.com/theihtisham/ai-pr-reviewer)
+
+</details>
+
 ## [AIlice](https://github.com/myshell-ai/AIlice)
 Create agents-calling tree to execute your tasks
 <details>
