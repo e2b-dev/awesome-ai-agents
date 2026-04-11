@@ -813,6 +813,28 @@ Coding
 
 </details>
 
+## [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api)
+Social media API with MCP server for AI agents
+
+<details>
+
+### Category
+Social media, Marketing, Productivity, API
+
+### Description
+- Social media API covering 11 platforms (Facebook, Instagram, X/Twitter, LinkedIn, TikTok, YouTube, Pinterest, Threads, Bluesky, Mastodon, Tumblr)
+- AI-native MCP server with 29 tools — lets AI agents create posts, schedule content, upload media, and track analytics
+- REST API with Python and Node.js SDKs
+- Available on npm as `@bulkpublish/mcp-server`
+
+### Links
+- [GitHub](https://github.com/azeemkafridi/bulkpublish-api)
+- [MCP Server](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server)
+- [npm](https://www.npmjs.com/package/@bulkpublish/mcp-server)
+- [API](https://app.bulkpublish.com/api)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
