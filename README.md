@@ -968,11 +968,11 @@ Multi-agent orchestrator for GitHub Copilot CLI
 Coding, Multi-agent
 
 ### Description
-- Cicada launches a team of specialized AI coding agents (Coder, Reviewer, Tester, Researcher) in Windows Terminal that collaborate through an MCP coordination server
+- Cicada launches a team of specialized AI agents (PM, Engineer, Reviewer, Tester) in Windows Terminal that collaborate through an MCP coordination server
 - Agents work in parallel on the same codebase, each with a focused role and shared context
 - Built on GitHub Copilot CLI with coordination via a Python MCP server
 - Designed for real-world developer workflows: plan, implement, review, and test in a single orchestrated session
-- Open source and extensible with custom agent roles and skills
+- Open source and extensible with custom agent roles
 
 ### Links
 - [GitHub](https://github.com/lewiswigmore/cicada)
