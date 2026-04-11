@@ -2788,6 +2788,29 @@ Blockchain, Coding, Generating apps, Smart contract
 
 </details>
 
+## RustChain — Proof-of-Antiquity Blockchain for AI Agents
+
+An LLM-powered autonomous agent platform where AI agents autonomously claim and complete RustChain bounties for RTC cryptocurrency. Hardware-anchored identity via Proof-of-Antiquity.
+
+<details>
+
+### Category
+Autonomous agents, Blockchain, DePIN, AI agent economy
+
+### Description
+- Autonomous bounty hunting: agents scan, evaluate, implement, and submit PRs for RTC rewards
+- Proof-of-Antiquity consensus: old hardware earns MORE than new hardware
+- MCP server integration: any AI agent can connect via Model Context Protocol
+- Vintage computing focus: rewards keeping old computers alive instead of e-waste
+
+### Links
+- [RustChain](https://github.com/Scottcjn/Rustchain)
+- [RustChain Bounties](https://github.com/Scottcjn/rustchain-bounties)
+- [RustChain MCP Server](https://github.com/Scottcjn/Rustchain-mcp)
+
+</details>
+
+
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent environment simulation library
 <details>
