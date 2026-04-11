@@ -70,6 +70,26 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [10000 Mentors Research Workflow](https://github.com/wd041216-bit/10000-mentors-research-workflow)
+Source-gated expert council, submission advisor, and small-step autonomous research loop
+
+<details>
+
+### Category
+Science, Research, Build your own, Multi-agent
+
+### Description
+- Turns a GitHub research repo into a repeatable agentic research loop.
+- Combines a source-gated AI luminary council, submission advisor, and bounded execution packet.
+- Uses small-step handoffs so each cycle critiques, executes, reflects, and writes artifacts back to GitHub.
+- Includes expert-forum coverage checks and source-gated candidate expert expansion.
+- Supports Ollama Cloud and local-model routing with thinking-required workflow contracts.
+
+### Links
+- [GitHub](https://github.com/wd041216-bit/10000-mentors-research-workflow)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
