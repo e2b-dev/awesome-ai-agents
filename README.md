@@ -683,6 +683,26 @@ General purpose
 
 
 
+## [Base Token Safety Scanner](https://base-token-scanner.onrender.com)
+Free API to analyze Base chain tokens for rug pull risks
+
+<details>
+
+### Category
+Security, Crypto / Web3
+
+### Description
+- Free, open-source API that analyzes Base chain ERC-20 tokens for rug pull risks, honeypots, ownership issues, and security flags.
+- Built for AI agents and DeFi traders who need programmatic token safety checks.
+- Checks ownership renouncement, hidden mints, transfer restrictions, liquidity locks, and more.
+- Returns structured risk assessments that AI agents can use to make autonomous trading decisions.
+
+### Links
+- [Website](https://base-token-scanner.onrender.com)
+- [GitHub](https://github.com/0xVarius/base-token-scanner)
+
+</details>
+
 ## [BambooAI](https://github.com/pgalko/BambooAI)
 Data exploration and analysis for non-programmers
 
