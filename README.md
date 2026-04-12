@@ -2322,6 +2322,29 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PoolPulse](https://poolpulse.poolpulse.workers.dev)
+Pre-trade DEX execution signals API for autonomous DeFi agents on Base
+
+<details>
+
+### Category
+DeFi, Data API, Autonomous agents
+
+### Description
+
+- **CLMM slippage oracle**: Pre-computes size-aware slippage across full tick ranges for 33 Uniswap V3 + Aerodrome Slipstream pools on Base — not spot-price estimates.
+- **MEV risk scoring**: Sandwich attack probability scoring with private relay routing recommendations.
+- **Pre-trade simulation**: Cross-pool routing optimization to find the best execution path.
+- **Post-trade forensics**: Compares actual vs expected slippage after execution.
+- **Agent-native payment**: x402 USDC micropayments ($0.001–$0.25/call). No API keys, no accounts. Wallet = identity.
+- **Machine-discoverable**: agent.json, OpenAPI 3.1, llms.txt, Virtuals ACP marketplace integration.
+
+### Links
+- [Live API](https://poolpulse.poolpulse.workers.dev)
+- [OpenAPI Spec](https://poolpulse.poolpulse.workers.dev/openapi.json)
+- [GitHub Examples](https://github.com/HadiFrt20/poolpulse-agent-example)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
