@@ -2041,6 +2041,27 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 
 </details>
 
+## [Metis Gateway](https://github.com/Kenny1338/claude-telegram-gateway)
+Self-managing Telegram gateway for Claude Code
+
+<details>
+
+### Category
+Coding, Messaging, Automation
+
+### Description
+Metis Gateway is an open-source Telegram gateway that routes messages through `claude -p` (the Claude Code CLI). Built after Anthropic restricted third-party harnesses from subscriptions, it lets you interact with Claude Code from Telegram with persistent sessions per chat.
+- Self-managing scheduled triggers — Claude edits its own cron config
+- Voice transcription (Whisper) and TTS (ElevenLabs)
+- Budget tracking and control API
+- Single Python file, systemd-ready
+- Works with Pro/Max subscriptions
+
+### Links
+- [GitHub](https://github.com/Kenny1338/claude-telegram-gateway)
+
+</details>
+
 
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
