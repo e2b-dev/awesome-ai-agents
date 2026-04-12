@@ -139,6 +139,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentForge Marketplace](https://github.com/doggychip/agentforge)
+Unified API gateway and marketplace for 300+ AI agents
+
+<details>
+
+### Category
+Agent Platform, Marketplace, API Gateway
+
+### Description
+- One API key to access hundreds of AI agents through a single REST endpoint
+- Creators publish agents and earn 90% revenue share via Stripe Connect
+- Supports self-hosted agents and HuggingFace Inference
+- Streaming responses, rate limiting, health monitoring
+- Self-hostable with MIT license
+- Built with React, Express, PostgreSQL, Stripe
+
+### Links
+- [GitHub](https://github.com/doggychip/agentforge)
+- [Web](https://patreon.zeabur.app)
+- [API Docs](https://patreon.zeabur.app/#/docs)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
