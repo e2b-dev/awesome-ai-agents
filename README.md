@@ -1268,6 +1268,37 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
+## [Dexto](https://github.com/truffle-ai/dexto)
+Open agent harness with production-ready coding agent
+
+<details>
+
+![Image](https://dexto.ai)
+
+### Category
+Coding, General purpose, Build your own
+
+### Description
+- An open agent harness that turns LLMs into reliable, stateful agents
+- Ships with a production-ready coding agent for CLI and Web
+- YAML-based agent configuration for easy customization
+- Support for 50+ LLMs with model-agnostic architecture
+- Built-in MCP tools for filesystem, process, task, and plan management
+- Persistent memory across sessions
+
+### Features
+- CLI and Web UI interfaces
+- Multi-agent orchestration support
+- Session management and observability
+- Modular tool providers
+
+### Links
+- [GitHub](https://github.com/truffle-ai/dexto)
+- [Website](https://dexto.ai)
+- [Documentation](https://dexto.ai/docs)
+
+</details>
+
 ## [dotagent](https://github.com/dot-agent/dotagent)
 Deploy agents on cloud, PCs, or mobile devices
 
