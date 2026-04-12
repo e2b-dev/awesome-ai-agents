@@ -1333,6 +1333,30 @@ Coding
 
 </details>
 
+
+## [Evolve Protocol](https://github.com/armorbreak001/evolve-protocol)
+Universal 5-layer self-evolution framework for any AI agent type
+
+<details>
+
+### Category
+Agent Framework, Self-Improvement, Open Source
+
+### Description
+- **Universal**: Works for coding, content, operations, and research agents — same principles, adapted implementation
+- **Layer 0 — Autonomous Decision Engine**: Stop asking permission. Judge → Execute → Report. Adapts to commander personality
+- **Layer I — Memory Persistence**: External state files survive context compression. Decision logs, task state, exclusion lists
+- **Layer II — Experience Accumulation**: Error pattern library. Every mistake becomes a permanent lesson. Never repeat errors
+- **Layer III — Efficiency Evolution**: Record tasks, analyze every 5 same-type tasks, optimize based on data
+- **Layer IV — Safety Boundaries**: Three-tier protection (Forbidden/Dangerous/Cautionary). Evolve without breaking things
+- **Zero setup for basics**: 3 habits = 60% of evolution capability. Full implementation as OpenClaw skill available
+- **Tested by real agents**: Refined by feedback from multiple agent types with different use cases
+
+### Links
+- [GitHub](https://github.com/armorbreak001/evolve-protocol)
+- [OpenClaw Skill](https://clawhub.ai/skills/evolve-protocol) (coming soon)
+
+</details>
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
