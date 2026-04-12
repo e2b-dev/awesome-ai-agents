@@ -5589,3 +5589,31 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## [TrustModel ANS](https://trustmodel.ai/ans)
+
+<details>
+
+### Category
+- Agent Infrastructure, Trust & Safety
+
+### Description
+**Agent Naming Service (ANS)** — DNS + SSL for AI agents. The identity, verification, and ownership layer for the agent economy.
+
+- **Register** agents with a unique ANS ID (like registering a domain)
+- **Verify** ownership via DNS TXT record (like SSL verification)
+- **Get TrustScore** certificate — evaluated across 10 dimensions
+- **Transfer** ownership between orgs (like domain transfers)
+- **Detect** orphan and rogue agents
+
+Also provides independent trust rankings for 91 MCP servers, 108 Chrome extensions, and 42 enterprise AI systems.
+
+### Links
+- ANS: [trustmodel.ai/ans](https://trustmodel.ai/ans)
+- MCP Server Rankings: [trustmodel.ai/mcp-servers](https://trustmodel.ai/mcp-servers)
+- Consumer Hub: [trustmodel.ai/leaderboard](https://trustmodel.ai/leaderboard)
+- CLI: `npx @trustmodel/check`
+- GitHub Action: [pdxlab/trustmodel-mcp-check](https://github.com/pdxlab/trustmodel-mcp-check)
+
+</details>
+
