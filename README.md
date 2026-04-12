@@ -4988,7 +4988,7 @@ Build-your-own, no-code, web UI
 
 </details>
 
-## [Polymarket Trader MCP](https://github.com/demwick/polymarket-trader-mcp)
+## [Polymarket Agent MCP](https://github.com/demwick/polymarket-agent-mcp)
 AI-powered prediction market trading agent for Polymarket
 
 <details>
@@ -5007,8 +5007,8 @@ Finance, trading, prediction markets, MCP
 - TypeScript, MIT license, 205+ tests
 
 ### Links
-- [GitHub](https://github.com/demwick/polymarket-trader-mcp)
-- [npm](https://www.npmjs.com/package/polymarket-trader-mcp)
+- [GitHub](https://github.com/demwick/polymarket-agent-mcp)
+- [npm](https://www.npmjs.com/package/polymarket-agent-mcp)
 
 </details>
 
