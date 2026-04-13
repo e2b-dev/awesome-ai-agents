@@ -18,6 +18,7 @@ Add to readme list:
 - Codeium
 - tinybio
 - Semantix AI Agents - add when they have english version
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old hardware earns more than new. ([Source Code](https://github.com/Scottcjn/Rustchain))
 - NoteWizard - only if it's AI agent - TBD test
 - Postbot (TBD - check more)
 	-->
