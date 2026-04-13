@@ -23,7 +23,7 @@ Add to readme list:
 	-->
 
 <h1 align="center">
-	🔮 Awesome AI Agents
+	ð® Awesome AI Agents
 	<p align="center">
 		<a href="https://discord.gg/U7KEcGErtQ" target="_blank">
 			<img src="https://img.shields.io/static/v1?label=Join&message=%20discord!&color=mediumslateblue">
@@ -37,8 +37,8 @@ Add to readme list:
   Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App
 </h3>
 
-<h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
-<h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
+<h5 align="center">ð <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
+<h5 align="center">ð <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
@@ -47,7 +47,7 @@ We structured the list into two parts:
 - [Open source projects](#open-source-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
-To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
+To filter the products by categories and use-cases, see the ð [web version of this list](https://e2b.dev/ai-agents). ð
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
@@ -467,7 +467,7 @@ HR, Business intelligence, Productivity
 	- Calculator
 
 ### Links
-- Medium: [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChain’s Agents and Tools](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
+- Medium: [Creating a (mostly) Autonomous HR Assistant with ChatGPT and LangChainâs Agents and Tools](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 - [GitHub](https://github.com/stepanogil/autonomous-hr-chatbot)
 - Author: [Stephen Bonifacio](https://twitter.com/Stepanogil)
 - [YouTube demo](https://www.youtube.com/watch?v=id7XRcEIBvg&ab_channel=StephenBonifacio)
@@ -546,7 +546,7 @@ General purpose
 	- Execution Agent loops through tasks
 	- Task dependencies for pulling relevant results
 	- Two tools: search tool and text completion
-	- “Mini-agent” as tool
+	- âMini-agentâ as tool
 	- Search tool combines search, scrape, chunking, and extraction.
 	- Results combined to create summary report
 
@@ -667,11 +667,11 @@ General purpose
   	- You can chat w BabyAGI! It has an experimental UI where the chat is separate from the tasks/output panel, allowing you to request multiple tasks in parallel
   	- The Chat UI can use a single skill quickly, or chain multiple skills together using a tasklist
 -  New skills
-	- 🎨 DALLE skill with prompt assist
- 	- 🎶 Music player w Deezer
-	- 📊 Airtable search (add your own table/base ID)
-	- 🔍 Startup Analyst (example of beefy function call as a skill)
--  It’s own README
+	- ð¨ DALLE skill with prompt assist
+ 	- ð¶ Music player w Deezer
+	- ð Airtable search (add your own table/base ID)
+	- ð Startup Analyst (example of beefy function call as a skill)
+-  Itâs own README
 
 
 ### Links
@@ -859,7 +859,7 @@ Productivity
 
 
 ## [CAMEL](https://github.com/camel-ai/camel)
-Architecture for “Mind” Exploration of agents
+Architecture for âMindâ Exploration of agents
 
 <details>
 
@@ -871,19 +871,19 @@ General purpose
 ### Description
 - CAMEL is an open-source library designed for the study of autonomous and communicative agents.
 1)AI user agent: give instructions to the AI assistant with the goal of completing the task.
-2) AI assistant agent: follow AI user’s instructions and respond with solutions to the task
+2) AI assistant agent: follow AI userâs instructions and respond with solutions to the task
 - CAMEL also has an open-source community dedicated to the study of autonomous and communicative agents
 
 ### Links
 - [Web](https://www.camel-ai.org/)
-- [Paper - CAMEL: Communicative Agents for “Mind”
+- [Paper - CAMEL: Communicative Agents for âMindâ
 Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 - [Colab demo](https://colab.research.google.com/drive/1AzP33O8rnMW__7ocWJhVBXjKziJXPtim?usp=sharing)
 - [GitHub](https://github.com/camel-ai/camel)
 - [Hugging face datasets](https://huggingface.co/camel-ai)
 - [Slack](https://camel-kwr1314.slack.com/join/shared_invite/zt-1vy8u9lbo-ZQmhIAyWSEfSwLCl2r2eKA#/shared-invite/email)
 - [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2F1508613885-atari-embeds.googleusercontent.com%2F&ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5ECamelAIOrg&screen_name=CamelAIOrg)
-- Authors: Guohao Li∗ Hasan Abed Al Kader Hammoud* Hani Itani* Dmitrii Khizbullin, Bernard Ghanem
+- Authors: Guohao Liâ Hasan Abed Al Kader Hammoud* Hani Itani* Dmitrii Khizbullin, Bernard Ghanem
 
 </details>
 
@@ -950,7 +950,7 @@ Science, Chemistry
 - ChemCrow is an open source package for the accurate solution of reasoning-intensive chemical tasks
 - It integrates 13 expert-design tools to augment LLM performance in chemistry and demonstrate effectiveness in automating chemical tasks
 - Built with Langchain
-- The LLM is provided with a list of tool names, descriptions of their utility, and details about the expected input/output. It is then instructed to answer a user-given prompt using the tools provided when necessary. The instruction suggests the model to follow the ReAct format - Thought, Action, Action Input, Observation. One interesting observation is that while the LLM-based evaluation concluded that GPT-4 and ChemCrow perform nearly equivalently, human evaluations with experts oriented towards the completion and chemical correctness of the solutions showed that ChemCrow outperforms GPT-4 by a large margin. This indicates a potential problem with using LLM to evaluate its own performance on domains that requires deep expertise. The lack of expertise may cause LLMs not knowing its flaws and thus cannot well judge the correctness of task results. (Source: [Weng, Lilian. (Jun 2023). LLM-powered Autonomous Agents". Lil’Log. https://lilianweng.github.io/posts/2023-06-23-agent/.](https://lilianweng.github.io/posts/2023-06-23-agent/))
+- The LLM is provided with a list of tool names, descriptions of their utility, and details about the expected input/output. It is then instructed to answer a user-given prompt using the tools provided when necessary. The instruction suggests the model to follow the ReAct format - Thought, Action, Action Input, Observation. One interesting observation is that while the LLM-based evaluation concluded that GPT-4 and ChemCrow perform nearly equivalently, human evaluations with experts oriented towards the completion and chemical correctness of the solutions showed that ChemCrow outperforms GPT-4 by a large margin. This indicates a potential problem with using LLM to evaluate its own performance on domains that requires deep expertise. The lack of expertise may cause LLMs not knowing its flaws and thus cannot well judge the correctness of task results. (Source: [Weng, Lilian. (Jun 2023). LLM-powered Autonomous Agents". LilâLog. https://lilianweng.github.io/posts/2023-06-23-agent/.](https://lilianweng.github.io/posts/2023-06-23-agent/))
 
 ### Links
 - [Paper](https://arxiv.org/abs/2304.05376)
@@ -1047,7 +1047,7 @@ Open-source autopilot for software development
 Coding
 
 ### Description
-- An open-source autopilot for software development—bring the power of ChatGPT to VS Code
+- An open-source autopilot for software developmentâbring the power of ChatGPT to VS Code
 - Features:
 	- Answer coding questions
    	- Edit in natural language
@@ -1324,7 +1324,7 @@ Coding
 
 ### Description
 - OC AI based Compiler, for converting english based markdown specs, into functional code
-- "We know that all great™ projects start with awesome™ detailed functional specifications. Which is typically written in English, or its many other spoken language alternatives.
+- "We know that all greatâ¢ projects start with awesomeâ¢ detailed functional specifications. Which is typically written in English, or its many other spoken language alternatives.
 - So what if, instead of writing code from functional specs, we simply compile it directly to code?
 - Into a future, where we replace nearly everything, with just written text."
 
@@ -1464,7 +1464,7 @@ General purpose
 
 ### Links
 - [GitHub](https://github.com/FOLLGAD/Godmode-GPT)
-- Authors: [Emil Ahlbäck](https://twitter.com/emilahlback), [Lonis](https://twitter.com/_Lonis_)
+- Authors: [Emil AhlbÃ¤ck](https://twitter.com/emilahlback), [Lonis](https://twitter.com/_Lonis_)
 - [Discord](https://discord.com/invite/vSzCcDDwz3)
 - [Tweet](https://twitter.com/_Lonis_/status/1646641412182536196)
 
@@ -1637,7 +1637,7 @@ Language Agents as Optimizable Graphs
 Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-agent
 
 ### Description
-- 🐝 GPTSwarm is a graph-based framework for LLM-based agents, providing two high-level features:
+- ð GPTSwarm is a graph-based framework for LLM-based agents, providing two high-level features:
   - It lets you build LLM-based agents from graphs.
   - It enables the customized and automatic self-organization of agent swarms with self-improvement capabilities.
 - Various human-designed prompt engineering techniques have been proposed to improve problem solvers based on Large Language Models (LLMs), yielding many disparate code bases. We unify these approaches by describing LLM-based agents as computational graphs. Each node implements a function to process multimodal data or query other LLMs. Each edge describes the information flow between operations and agents. Graphs can be recursively combined into larger composite graphs representing hierarchies of inter-agent collaboration. Our novel automatic graph optimizers (1) refine node-level LLM prompts (node optimization) and (2) improve agent orchestration by changing graph connectivity (edge optimization). Experiments demonstrate that our framework can be used to efficiently develop, integrate, and automatically improve diverse LLM agents.
@@ -1759,10 +1759,10 @@ Productivity, Coding
 Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and reproducable workflow automation
 - A standalone supervised Plan and Solve Agent specialized on performing read and write operations on various tools like GitHub, HubSpot or Airtable _(ACL 2023 Paper "[Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091)")_
 - **Separation of tasks and human-in-the-loop interactions**: Lemon Agent is currently holding a Planner Agent and a Solver Agent to keep the agents focussed and increase accuracy. We are planning on adding additional agents real soon. In addition, Lemon Agent will ask for approval at relevant workflow steps to make sure the intended actions are executed.
-- **Unlimited configuration options**: Lemon Agent gives you unlimited configuration options (see example here) when defining your workflow. For instance, you can tell Lemon Agent to ask for permission before executing a workflow step or to drop a 🧔‍♀️ dad joke every time the model executes a workflow step.
+- **Unlimited configuration options**: Lemon Agent gives you unlimited configuration options (see example here) when defining your workflow. For instance, you can tell Lemon Agent to ask for permission before executing a workflow step or to drop a ð§ââï¸ dad joke every time the model executes a workflow step.
 - **UI flexibility**: Build any UI on top or engage with Lemon Agent via the built-in CLI.
 - **[Soon] Model & framework agnostic operations**: Lemon Agent is a standalone agent, but can easily be integrated into frameworks like LangChain and be used with any model.
-- **Bonus**: Identify weak spots in your agent’s decision-making capabilities and move to a more deterministic behavior by further configuring your Lemon Agent workflows. **(.html file that can be run without any additional installation)**
+- **Bonus**: Identify weak spots in your agentâs decision-making capabilities and move to a more deterministic behavior by further configuring your Lemon Agent workflows. **(.html file that can be run without any additional installation)**
 
 ### Links
 
@@ -2186,12 +2186,12 @@ Science, Multimodal, Social, Multi-agent
 - Agents can be either LLMs, NN-based experts, APIs and role-players. They all communicate in natural language.
 - To solve tasks, these agents use a collaborative "Mindstorm" process involving mutual interviews.
 - Additional components for NLSOM can be easily added in a modular way.
-- "What magical trick makes us intelligent? The trick is that there is no trick. The power of intelligence stems from our vast diversity, not from any single, perfect principle." — Marvin Minsky, The Society of Mind, p. 308
+- "What magical trick makes us intelligent? The trick is that there is no trick. The power of intelligence stems from our vast diversity, not from any single, perfect principle." â Marvin Minsky, The Society of Mind, p. 308
 
 ### Links
 - [GitHub](https://github.com/mczhuge/NLSOM)
 - [Paper](https://arxiv.org/pdf/2305.17066.pdf)
-- [Author's X - Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
+- [Author's X - JÃ¼rgen Schmidhuber](https://twitter.com/SchmidhuberAI)
 - [Author's X - Mingchen Zhuge](https://twitter.com/MingchenZhuge)
 
 </details>
@@ -2587,9 +2587,9 @@ Coding, general purpose
 - This Devin alternative scores 12.3% on the FULL swe benchmark
 - ["An open source Devin getting 12.29% on 100% of the SWE Bench test set vs Devin's 13.84% on 25% of the test set!"](https://x.com/danielhanchen/status/1775120334305607781)
 - SWE-agent works by interacting with a specialized terminal, which allows it to:
-	- 🔍 Open, scroll and search through files
-	- ✍️ Edit specific lines w/ automatic syntax check
-	- 🧪 Write and execute tests
+	- ð Open, scroll and search through files
+	- âï¸ Edit specific lines w/ automatic syntax check
+	- ð§ª Write and execute tests
 - This custom-built interface is critical for good performance. Simply connecting an LM to a vanilla bash terminal does not work well.
 - ["Our key insight is that LMs require carefully designed agent-computer interfaces (similar to how humans like  good UI design). E.g. When the LM messes up indentation, our editor prevents it and gives feedback."](https://x.com/jyangballin/status/1775114448513958134)
 - SWE-agent was released by the Princeton NLP team.
@@ -2597,7 +2597,7 @@ Coding, general purpose
 - It is important to say that the performance [varies](https://www.swebench.com/) based on the model used by the agent.
 - The changes and innovations in SWE-agent compared to Devin are:
   - The code in SWE Agent is executed locally via Docker.
-  - It uses “Agent-Computer Interface” (ACI) - constraining the interface makes the agent easier to use for LMs. Only a few commants are allowed: run code, look for code, edit code and submit changes to GitHub.
+  - It uses âAgent-Computer Interfaceâ (ACI) - constraining the interface makes the agent easier to use for LMs. Only a few commants are allowed: run code, look for code, edit code and submit changes to GitHub.
 - Any code the agent writes goes through a syntax check (linter) before being submitted. If the syntax is incorrect, the agent gets feedback and is forced to redo the code.
 - The agent can only read 100 lines of code at a time, rather than the entire file. This makes it easier for the language model to understand the code.
 
@@ -2725,7 +2725,7 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 - Vanna helps you generate and run accurate SQL for your database using LLMs via Retrieval-Augmented Generation
 - Vanna works in two easy steps - train a RAG "model" on your data, and then ask questions which will return SQL queries that can be set up to automatically run on your database
 - The Vanna Python package and the various frontend integrations are all open-source
-- Vanna’s capabilities are tied to the training data you give it. More training data means better accuracy for large and complex datasets
+- Vannaâs capabilities are tied to the training data you give it. More training data means better accuracy for large and complex datasets
 - Your database contents are never sent to the LLM. The metadata storage layer only sees schemas, documentation, and queries
 - As you use Vanna more, your model continuously improves as we augment your training data
 
@@ -2788,7 +2788,7 @@ Blockchain, Coding, Generating apps, Smart contract
 
 </details>
 
-## [“Westworld” simulation](https://theolvs.github.io/westworld/)
+## [âWestworldâ simulation](https://theolvs.github.io/westworld/)
 A multi-agent environment simulation library
 <details>
 
@@ -2901,11 +2901,11 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 - **Universal Language - Function Calling**:
   - **ToolAgent & ReACT**: Optimal action series for subtasks.
 - **Tools**:
-  - 📝 File Editor
-  - 📘 Python Notebook
-  - 🌏 Web Browser
-  - 🖥️ Shell
-  - 🧩 Rapid API 
+  - ð File Editor
+  - ð Python Notebook
+  - ð Web Browser
+  - ð¥ï¸ Shell
+  - ð§© Rapid API 
 
 ### Links
 - [Twitter](https://twitter.com/XAgentTeam)
@@ -2997,7 +2997,7 @@ General purpose
 - An AI teammate for everyone
 - "Adept is building an entirely new way to get things done. It takes your goals, in plain language, and turns them into actions on the software you use every day."
 - In early stage
-- "We’re building a machine learning model that can interact with everything on your computer."
+- "Weâre building a machine learning model that can interact with everything on your computer."
 
 
 ### Links
@@ -3192,7 +3192,7 @@ Multiple AI Agents for the integration of APIs.
 Productivity, Multi-agent, Coding
 
 ### Description
-- "At APIDNA, we're connecting software companies to connect the world.  And we're doing this with our proprietary no-code multiple Autonomous AI Agent platform, to address one of the major pain points in software development today – the integration of API endpoints."
+- "At APIDNA, we're connecting software companies to connect the world.  And we're doing this with our proprietary no-code multiple Autonomous AI Agent platform, to address one of the major pain points in software development today â the integration of API endpoints."
 - "Our multiple Autonomous AI Agents instantly integrate API endpoints. This simplifies and accelerates the software integration process, typically taking only three steps - and completing within minutes. A task that traditionally could take hours, days, weeks, or even months."
 
 ### Links
@@ -3553,19 +3553,19 @@ AI-powered Business, Work, Study Assistant
 Data analysis, Content creation, Productivity, Research, Marketig, Sales, Business intelligence
 
 ### Description
-- 👉 Chat with Private AI Knowledge Base - Increase daily work efficiency, by having an AI assistant, who knows everything about your business & competitors, your work or studies...
-- 👉 Save time & money on customer support. Drive more sales, by letting AI interact with potential customers 24/7, via Website Chat Widget. Train AI with your Website data & other documentation!
-- 👉 100+ Unique AI Tools, for all your Business, Work & Study needs. Like, AI Writing Assistant & WordPress Auto Poster.
-- 🔜 Understand your customers better with AI-powered Feedback, Voting & Survey Widgets! 
+- ð Chat with Private AI Knowledge Base - Increase daily work efficiency, by having an AI assistant, who knows everything about your business & competitors, your work or studies...
+- ð Save time & money on customer support. Drive more sales, by letting AI interact with potential customers 24/7, via Website Chat Widget. Train AI with your Website data & other documentation!
+- ð 100+ Unique AI Tools, for all your Business, Work & Study needs. Like, AI Writing Assistant & WordPress Auto Poster.
+- ð Understand your customers better with AI-powered Feedback, Voting & Survey Widgets! 
 
-✔️ Supported file formats: pdf, doc, docx, ppt, pptx, xls, xlsx, csv, json, epub, mp3, jpg, jpeg, png
-✔️ WordPress Plugin
-✔️ Youtube Transcripts
-✔️ Analyze Yelp Reviews
-✔️ +175 Languages
-✔️ Create an AI-powered Website Chat Widget.
-✔️ Create a Custom AI-powered Knowledge Base
-🔜 Zapier, Notion, ZenDesk, Hubspot, Trello, Monday.com, Slack, Gmail & Google Doc. support."
+âï¸ Supported file formats: pdf, doc, docx, ppt, pptx, xls, xlsx, csv, json, epub, mp3, jpg, jpeg, png
+âï¸ WordPress Plugin
+âï¸ Youtube Transcripts
+âï¸ Analyze Yelp Reviews
+âï¸ +175 Languages
+âï¸ Create an AI-powered Website Chat Widget.
+âï¸ Create a Custom AI-powered Knowledge Base
+ð Zapier, Notion, ZenDesk, Hubspot, Trello, Monday.com, Slack, Gmail & Google Doc. support."
 
 
 ### Links
@@ -3639,7 +3639,7 @@ Coding, Multi-agent, GitHub
 - [Docs](https://docs.codeautopilot.com/)
 - [X](https://twitter.com/code_autopilot)
 - [Gustavo Silva - co-founder of Code Autopilot](https://twitter.com/Gsandec)
-- [Fábio Zé Domingues - co-founder of Code Autopilot](https://twitter.com/fjrdomingues)
+- [FÃ¡bio ZÃ© Domingues - co-founder of Code Autopilot](https://twitter.com/fjrdomingues)
   
 </details>
 
@@ -3886,7 +3886,7 @@ Sales
 ### Description
 - Docket AI is your personal AI Sales Engineer, empowers AEs to win more.
 - It provides instant sales answers, automated RFP responses, and insights from top producers.
-- Powered by the Sales Knowledge Lake™, Docket unifies your company’s sales data with genAI. Transforming sales productivity and win rates.
+- Powered by the Sales Knowledge Lakeâ¢, Docket unifies your companyâs sales data with genAI. Transforming sales productivity and win rates.
 
 ### Links
 - [Web](https://docketai.net/)
@@ -3906,8 +3906,8 @@ Coding, Productivity
 ### Description
 - Dosu is an AI teammate that lives in your github repo, helping you respond to issues, triage bugs, and build better documentation.
 - Dosu responds to issues within minutes in the user's native language.
-- Dosu is a wizard when it comes to documentation, even when there is none. Not only will it remind you to update your documentation and help you write it, but Dosu can also ride shotgun as you code that next big feature, answering questions about external code as if you’re sitting next to the author.
-- Dosu keeps a watchful eye on open issues, resolving those that you might have missed and deprecating issues that no longer exist. It’ll even ask you if it’s not sure.
+- Dosu is a wizard when it comes to documentation, even when there is none. Not only will it remind you to update your documentation and help you write it, but Dosu can also ride shotgun as you code that next big feature, answering questions about external code as if youâre sitting next to the author.
+- Dosu keeps a watchful eye on open issues, resolving those that you might have missed and deprecating issues that no longer exist. Itâll even ask you if itâs not sure.
 
 ### Links
 - [Web](https://dosu.dev/)
@@ -4020,7 +4020,7 @@ Coding
 
 ### Description
 - In aplha stage
-- It’s not supposed to be just another coding copilots like GitHub Copilot or Codeium, but autonomous agents capable of autonomously building software from end to end
+- Itâs not supposed to be just another coding copilots like GitHub Copilot or Codeium, but autonomous agents capable of autonomously building software from end to end
 
 ### Links
 - [CEO](https://twitter.com/matangrinberg)
@@ -4141,7 +4141,7 @@ Coding, GitHub
 - AI pair programmer
 - Chat and terminal interfaces
 - Support for pull requests
-- Early adoption of OpenAI’s GPT-4
+- Early adoption of OpenAIâs GPT-4
 
 ### Links
 - [Community](https://github.com/orgs/community/discussions/)
@@ -4188,7 +4188,7 @@ Coding
 - GitWit uses a GPT-based agent to generate code and git to track changes made to files
 - GitWit ties together large language models and modern developer tools
 - It can spawn and modify codebases using just a single prompt
-- GitWit is primarily aimed at full-stack developers, and is particularly loved by those with a learning mindset—such as those learning a new stack or technology
+- GitWit is primarily aimed at full-stack developers, and is particularly loved by those with a learning mindsetâsuch as those learning a new stack or technology
 - It is in early beta and may require some experimentation with the prompts you enter
 - You are offered to choose from code bases:
 	- React + NextJS
@@ -4333,9 +4333,9 @@ Coding, Data analysis
 ### Description
 - "A suite of powerful AI features meant to augment data people"
 - Hex can explain and document your code
-- Hex Magic features know about database schemas, past operations, and the project’s execution graph, so they can make deeper, more insightful recommendations
+- Hex Magic features know about database schemas, past operations, and the projectâs execution graph, so they can make deeper, more insightful recommendations
 
-You can see more – and sign up for the waitlist – over here.
+You can see more â and sign up for the waitlist â over here.
 
 ### Links
 - [Launch post](https://hex.tech/blog/magic-private-beta/)
@@ -4440,7 +4440,7 @@ Build-your-own (agent-builing frameworks and platforms), Multi-agent
 
 ### Description
 - Your AI autopilot, not just a co-pilot.
-- In-sync Knowledge Base: Notion, Google Drive, URLs, all file types and more
+- In-sync Knowledge Base: Notion, GoogleÂ Drive, URLs, all file types andÂ more
 - Self-improving: They get better with each interaction and collaboration.
 - LLM Agnostic. Use the best LLMs from OpenAI, Google, Mistral, and Anthropic, etc.
 - Deploy agents where your team is: Zendesk, Slack, Discord, etc.
@@ -4518,7 +4518,7 @@ AI-led user interviews for rich human insights
 Data analysis, Research, Business intelligence, web UI
 
 ### Description
-- Meet Juno! An AI-moderated research platform that conducts research and collects human insights. It’s unsupervised, multilingual and autonomous. Trained by veteran researchers, Juno empowers everyone to conduct in-depth qualitative research, without prior experience.
+- Meet Juno! An AI-moderated research platform that conducts research and collects human insights. Itâs unsupervised, multilingual and autonomous. Trained by veteran researchers, Juno empowers everyone to conduct in-depth qualitative research, without prior experience.
 - LLMs/model providers supported
   - OpenAI
 
@@ -4581,7 +4581,7 @@ Coding, Productivity, Debugging
 3. Auto-run relevant test suites at any stage of your CI/CD pipeline."
 - Works on your Postman collections
 
-"At KushoAI, we believe that the job of technology is to empower people. We’re building AI agents trained for specific problems to unlock value at a pace faster than ever before."
+"At KushoAI, we believe that the job of technology is to empower people. Weâre building AI agents trained for specific problems to unlock value at a pace faster than ever before."
 
 ### Links
 
@@ -5064,6 +5064,24 @@ General purpose, Generating apps, Build-your-own
 
 </details>
 
+## [RapidClaw](https://rapidclaw.dev/)
+Managed OpenClaw AI agent hosting. Deploy agents in under 60 seconds with enterprise security, smart model routing, and automated scaling.
+
+<details>
+
+### Category
+Hosting, Deployment, Infrastructure
+
+### Description
+- Managed AI agent deployment platform built on OpenClaw
+- Enterprise-grade security with smart model routing
+- Deploy agents in under 60 seconds with automated scaling
+
+### Links
+- [Web](https://rapidclaw.dev/)
+
+</details>
+
 ## [Relevance AI](https://relevanceai.com/)
 Build your AI Workforce
 
@@ -5180,7 +5198,7 @@ AI assistant, enhance shopping experience.
 Productivity, Research, Ecommerce
 
 ### Description
-- "🛍️ShopPal: Your Curated AI Shopping Assistant🥂💰💳
+- "ðï¸ShopPal: Your Curated AI Shopping Assistantð¥ð°ð³
 - Curated AI shopping assistant, aiming to enhance and accompany your shopping experience.
 - To enhance and accompany your shopping experience, ShopPal delivers summary insights, tailored recommendations, visual comparisons, and the best deals, which are all personalized just for you! "
 
@@ -5502,7 +5520,7 @@ Build-your-own, Productivity, General purpose
   - Give your bot access to your company's source of truth to get instant answers.
   - Ask bots to act in 6,000+ apps
   - Central runs on Zapier's ecosystem to help you automate the tools you already use.
-  - Teach your bot once, then watch it work—even when you're not around.
+  - Teach your bot once, then watch it workâeven when you're not around.
   - Everything in one workspace
 
 ### Links
