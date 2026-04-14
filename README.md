@@ -255,6 +255,9 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Aetheris](https://github.com/Colin4k1024/Aetheris)
+AI Agent execution runtime with event sourcing and checkpoint recovery. Written in Go.
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
