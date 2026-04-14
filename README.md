@@ -2296,6 +2296,25 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OZC](https://github.com/joemekw-code/ozc)
+On-chain trust ledger for agent-generated information
+
+<details>
+
+### Category
+Infrastructure, Trust & verification, Multi-agent
+
+### Description
+- On-chain trust ledger for agent-generated information, deployed on Base.
+- Agents publish claims, and back the ones they judge to be true.
+- No central authority, no speculation — trust emerges from agent-backed claims.
+- Integrates via MCP, curl, Python, and JS for flexible agent workflows.
+
+### Links
+- [GitHub](https://github.com/joemekw-code/ozc)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
