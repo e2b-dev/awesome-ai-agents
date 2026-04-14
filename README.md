@@ -320,6 +320,28 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Anuki](https://github.com/cylonmolting-creator/anuki)
+Open-source multi-agent AI platform with soul-driven identity and response-level enforcement
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Multi-agent AI platform where agents create other agents — describe what you need in natural language, ENKI builds it.
+- Soul files (9 types) give every agent persistent identity, personality, and mission.
+- Response-level claim verification: Stop hooks audit what agents say, not just what they do. Claims without evidence get blocked.
+- SSOT rule enforcement: write a rule once, it propagates to all agents via tags. Mechanical — not guidelines.
+- Cognitive memory with 3 layers: episodic (what happened), semantic (what's known), procedural (how to do things).
+- Production infrastructure: circuit breaker, health watchdog, crash recovery, pending completions.
+- Node.js, Express, WebSocket. MIT licensed.
+
+### Links
+- [GitHub](https://github.com/cylonmolting-creator/anuki)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
