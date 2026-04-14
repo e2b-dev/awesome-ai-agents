@@ -5406,6 +5406,26 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 </details>
 
+## [War Room Setup-as-a-Service](https://warroom-landing.vercel.app)
+Deploy 7 coordinated AI agents for your business in 5 days
+
+<details>
+
+### Category
+Multi-agent, Business automation, General purpose
+
+### Description
+- War Room deploys a coordinated system of 7 specialized AI agents (strategy, finance, marketing, sales, research, content, DevOps) for your business
+- Each agent handles a specific domain while sharing persistent context through a unified coordination layer
+- Agents coordinate autonomously and develop emergent error-correction behaviors (e.g., finance agent flags marketing overclaims)
+- Battle-tested in production for 17+ weeks with 190+ autonomous dispatch cycles
+- Pricing: $2,500 one-time setup + $220/month ongoing
+
+### Links
+- [Web](https://warroom-landing.vercel.app)
+
+</details>
+
 ## [Wispy](https://wispy.technicalmagic.ai/)
 Summarize content, compose content, create quizzes
 
