@@ -712,6 +712,31 @@ Data analysis
 </details>
 
 
+## [Bernstein](https://github.com/chernistry/bernstein)
+Open-source multi-agent orchestrator for AI coding agents. Spawns parallel agents in isolated git worktrees, routes to optimal models, verifies via quality gates.
+
+<details>
+
+### Category
+Coding, Multi-agent, Open source, Build your own
+
+### Description
+
+- **Deterministic scheduling**: Pure Python orchestrator — zero LLM tokens on coordination. Every decision is auditable code.
+- **21 CLI agent adapters**: Claude Code, Codex, Gemini CLI, Cursor, Aider, Cloudflare Agents, and 15 more. Mix models in one run.
+- **Git worktree isolation**: Each agent works in its own worktree. No merge conflicts between parallel agents.
+- **Quality gates**: Lint, type check, tests, security scan on every agent output before merge. Failed work retries with escalated models.
+- **Cost-aware routing**: Epsilon-greedy bandit learns which model works best per task type.
+- **Cloudflare cloud execution**: Run agents on Workers with Durable Workflows, V8 sandboxes, R2 sync.
+
+### Links
+- [Documentation](https://bernstein.readthedocs.io/)
+- [Website](https://bernstein.run)
+- [GitHub](https://github.com/chernistry/bernstein)
+- [PyPI](https://pypi.org/project/bernstein/)
+</details>
+
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
