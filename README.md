@@ -1686,6 +1686,25 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 </details>
 
 
+## [KiCad Happy](https://github.com/aklofas/kicad-happy)
+AI-powered electronics design review agent for KiCad
+
+<details>
+
+### Category
+Coding, Build your own
+
+### Description
+- AI-powered schematic analysis, PCB layout review, EMC pre-compliance, and component sourcing for KiCad.
+- 11 agent skills covering schematic analysis, PCB layout checks, BOM management, SPICE simulation, and manufacturing preparation (JLCPCB/PCBWay).
+- Integrates DigiKey, Mouser, LCSC, and element14 APIs for component sourcing and datasheet retrieval.
+- Zero-dependency Python 3.8+ stdlib-only scripts. Works as a Claude Code plugin and Codex plugin.
+
+### Links
+- [GitHub](https://github.com/aklofas/kicad-happy)
+
+</details>
+
 ## [JARVIS](https://github.com/microsoft/JARVIS)
 System that connects LLMs with the ML community
 
