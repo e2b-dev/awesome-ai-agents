@@ -2296,6 +2296,30 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenClaw](https://openclaw.ai/)
+Self-hosted personal AI assistant across chat apps
+
+<details>
+
+![Image](https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text.svg)
+
+### Category
+General purpose, Personal assistant, Productivity, Coding
+
+### Description
+- Self-hosted AI assistant and agent gateway that runs on your own machine or server.
+- Message it from WhatsApp, Telegram, Discord, Slack, Signal, iMessage, and many other chat surfaces.
+- Supports coding agents, tool use, memory, scheduling, multi-agent routing, and local or provider-backed models.
+
+### Links
+- [Web](https://openclaw.ai/)
+- [Docs](https://docs.openclaw.ai/start/getting-started)
+- [ClawHub](https://clawhub.ai/)
+- [Trust](https://trust.openclaw.ai/)
+- [GitHub](https://github.com/openclaw/openclaw)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
