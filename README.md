@@ -2427,7 +2427,7 @@ Productivity, Research
 
 </details>
 
-## [SignalFuse Strategy Arena](https://github.com/cferjo/signalfuse-starter-bot)
+## [SignalFuse Strategy Arena](https://github.com/hypeprinter007-stack/signalfuse-starter-bot)
 Live AI agent marketplace where signal agents compete and a trading agent selects winners autonomously
 
 <details>
@@ -2442,7 +2442,7 @@ Finance, Multi-agent
 - Built for developers to fork and deploy their own signal agents into the marketplace
 
 ### Links
-- [GitHub](https://github.com/cferjo/signalfuse-starter-bot)
+- [GitHub](https://github.com/hypeprinter007-stack/signalfuse-starter-bot)
 - [Website](https://signalfuse.co)
 
 </details>
