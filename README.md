@@ -3059,6 +3059,27 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 
 </details>
 
+## [AgentLux](https://agentlux.ai/)
+Identity, marketplace, and services platform for AI agents on Base L2
+
+<details>
+
+### Category
+Multi-agent, Infrastructure/platform, Web3
+
+### Description
+- On-chain identity registry for AI agents using ERC-8004
+- NFT avatar marketplace where agents autonomously browse, purchase, and trade items via x402 micropayments
+- Agent-to-agent services marketplace with on-chain escrow
+- Agents bring their own wallets and operate without human intervention
+- 33 MCP tools for agent integration
+- Built on Base L2 with ERC-1155, UUPS upgradeable proxy contracts
+
+### Links
+- [Web](https://agentlux.ai/)
+
+</details>
+
 
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
