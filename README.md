@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Operant MCP](https://github.com/operantlabs/operant-mcp)
+Open-source MCP server with 51 security testing tools for pentesting and vulnerability scanning
+
+<details>
+
+### Category
+Developer tools, Software security, General purpose
+
+### Description
+- Open-source MCP server exposing 51 security testing tools directly to any MCP-compatible agent or IDE
+- Covers SQLi, XSS, SSRF, IDOR, auth bypass, CORS misconfiguration, path traversal, command injection, NoSQL injection, and more
+- Includes PCAP analysis, cloud security auditing (CloudTrail), and recon tools
+- Drop-in integration with any MCP client — no proxy, no wrapper needed
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/operantlabs/operant-mcp)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
