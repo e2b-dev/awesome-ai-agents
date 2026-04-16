@@ -2408,6 +2408,27 @@ Coding
 
 </details>
 
+## [RustChain](https://github.com/Scottcjn/Rustchain)
+Proof-of-Antiquity blockchain with AI agent economy — AI agents can earn RTC tokens for completing bounties and tasks.
+
+<details>
+
+### Category
+Blockchain, Agent Economy
+
+### Description
+- RustChain is a Proof-of-Antiquity blockchain that rewards vintage hardware for mining
+- AI agents can participate as miners, earn tokens, and receive bounties for contributions
+- Includes MCP server (`pip install rustchain-mcp`) for Claude Code, Cursor, Windsurf integration
+- RustChain token (RTC) enables agent-to-agent payments and micropayments
+
+### Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [Bounties](https://github.com/Scottcjn/rustchain-bounties)
+- [MCP Server](https://pypi.org/project/rustchain-mcp)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
