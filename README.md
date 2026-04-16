@@ -2408,6 +2408,26 @@ Coding
 
 </details>
 
+## [Rove](https://roveapi.com)
+Hosted Playwright browser automation for AI agents
+
+<details>
+
+### Category
+Infrastructure, Browser automation, Tool for agents
+
+### Description
+- Hosted Playwright API and MCP server for AI agents
+- Returns accessibility trees instead of screenshots, reducing token usage by 77%
+- MCP-native, zero infrastructure required
+- Provides browser automation capabilities that AI agents can use without managing their own browser instances
+
+### Links
+- [Web](https://roveapi.com)
+- [GitHub](https://github.com/noncelogic/rove)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
