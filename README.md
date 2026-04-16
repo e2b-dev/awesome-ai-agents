@@ -95,6 +95,29 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Express](https://agent-express.ai)
+Middleware framework for AI agents — like Express.js but for LLM agent loops
+
+<details>
+
+### Category
+Build your own, SDK for agents
+
+### Description
+
+- TypeScript framework that applies the Express.js middleware pattern to AI agents
+- One interface — `(ctx, next)` — for all concerns: retry, budget caps, memory compaction, tool approval, observability
+- 5 composable hooks: agent, session, turn, model, tool
+- Built-in middleware: `guard.budget()`, `model.retry()`, `memory.compaction()`, `guard.approve()`, `observe.usage()`, `tools.mcp()`
+- Structured output with Zod schemas, SSE streaming via `createHandler()`
+- 258 tests, TypeScript strict, ESM only, MIT licensed
+
+### Links
+- [GitHub](https://github.com/agent-express-ai/agent-express)
+- [Documentation](https://agent-express.ai)
+- [Blog: Agent Express vs Alternatives](https://agent-express.ai/blog/agent-express-vs-alternatives/)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
