@@ -2764,6 +2764,26 @@ General purpose
 
 </details>
 
+## [WhatsApp Assistant AI](https://github.com/marcelsYK/whatsup-assistant-ai)
+Personal WhatsApp agent that handles appointment booking and administrative conversations on your behalf
+
+<details>
+
+### Category
+Personal assistant, Chat automation, Voice & messaging
+
+### Description
+- Activate the agent on a provider's WhatsApp chat with a single command; it converses autonomously using stored family profiles
+- Pauses for operator decisions (e.g. choosing appointment times) and resumes after your reply
+- Supports WhatsApp self-chat or Telegram as the operator channel; Telegram surfaces decisions as inline keyboard buttons
+- AES-256-GCM encrypted profiles and conversation history; prompt-injection resistant
+- Claude Sonnet 4.6 for conversation, Haiku 4.5 for message classification
+
+### Links
+- [GitHub](https://github.com/marcelsYK/whatsup-assistant-ai)
+
+</details>
+
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
