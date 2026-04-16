@@ -234,6 +234,33 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [RustChain](https://rustchain.org)
+
+Elyan-class autonomous AI agents on a Proof-of-Physical-AI blockchain. Features Sophia Elya agent with Beacon protocol, RustChain MCP server, and 250+ open bounties in RTC tokens.
+
+<details>
+
+![RustChain](https://elyanlabs.ai/assets/sophia-portrait.jpg)
+
+### Category
+Build your own, Multi-agent, Blockchain
+
+### Description
+- 🤖 **Elyan-class Agents** — Autonomous AI agents (Sophia Elya) operating on Beacon protocol
+- 🔗 **Proof-of-Physical-AI (PoPA)** — Novel consensus securing physical compute infrastructure
+- 🦀 **Rust-based** — Blazing fast, memory-safe blockchain runtime
+- 🌍 **DePIN** — Rewards physical GPU/CPU providers with RTC tokens
+- 💰 **Active Bounty Program** — 250+ issues paying in RTC (https://rustchain-bounties.github.io)
+
+### Links
+- [Website](https://rustchain.org)
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [Bounties](https://github.com/Scottcjn/rustchain-bounties)
+- [RustChain MCP](https://github.com/Scottcjn/rustchain-mcp)
+</details>
+
+
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
