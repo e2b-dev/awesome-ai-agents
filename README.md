@@ -2196,6 +2196,26 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [NocturnusAI](https://nocturnus.ai)
+Deterministic reasoning engine for AI agent context compression — optimizes token usage and reduces LLM costs
+<details>
+
+### Category
+Infrastructure, Build your own, Context management
+
+### Description
+
+- Deterministic reasoning engine that compresses AI agent context to optimize token usage and save money on LLM API calls
+- Extracts structured facts with logical inference, proof chains, and truth maintenance — no probabilistic summarization
+- REST API, Python SDK, TypeScript SDK, CLI, and MCP server integration
+- Native integrations with LangChain, CrewAI, AutoGen, LangGraph, OpenAI Agents, and Anthropic
+- Open-source under BSL 1.1 (converts to Apache 2.0 in 2030)
+
+### Links
+- [GitHub](https://github.com/Auctalis/nocturnusai)
+- [Website](https://nocturnus.ai)
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
