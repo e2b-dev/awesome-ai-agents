@@ -255,7 +255,7 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
-## [AGX](https://github.com/anthropics/agx)
+## [AGX](https://github.com/ramarlina/agx)
 Local-first agent orchestrator for coding
 
 <details>
@@ -272,7 +272,7 @@ Coding, Multi-agent, Developer tools
 
 ### Links
 - [Website](https://runagx.com)
-- [GitHub](https://github.com/anthropics/agx)
+- [GitHub](https://github.com/ramarlina/agx)
 
 </details>
 
