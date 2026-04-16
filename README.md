@@ -4361,6 +4361,26 @@ Productivity
 
 </details>
 
+## [Hive Civilization](https://thehiveryiq.com)
+57-service autonomous agent trust, identity, legal, and settlement infrastructure
+
+<details>
+
+### Category
+Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-agent
+
+### Description
+- Hive Civilization is a 57-service autonomous agent infrastructure network providing W3C DID identity, HAHS 1.0.0 legal contracts, and USDC settlement for autonomous agents.
+- W3C DID identity issuance for agents, HAHS 1.0.0 employment contracts, 4-rail USDC settlement on Base L2, EU AI Act Article 12 ATG audit trail generation.
+- Native integrations: LangChain, CrewAI, AutoGen, MCP, A2A.
+
+### Links
+- [Web](https://thehiveryiq.com)
+- [SDK](https://github.com/srotzin/hive-agent-sdk)
+- [Live endpoint](https://hivegate.onrender.com)
+
+</details>
+
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
