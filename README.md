@@ -96,6 +96,10 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
+- [FutureAGI simulate-sdk](https://github.com/future-agi/simulate-sdk)
+- [FutureAGI traceAI](https://github.com/future-agi/traceAI)
+- [FutureAGI agent-opt](https://github.com/future-agi/agent-opt)
+
 Recommender system simulator with 1,000 agents
 
 <details>
