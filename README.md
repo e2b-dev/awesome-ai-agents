@@ -234,6 +234,36 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)
+
+The AI Agent Workforce Platform — self-hostable multi-agent orchestration with remote AI workstations.
+
+<details>
+
+![Image](https://github.com/AgentsMesh/AgentsMesh/raw/main/docs/images/logo.svg)
+
+### Category
+Multi-agent, Build your own, Coding agent
+
+### Description
+- **AgentPods**: remote AI workstations with PTY sandbox, web terminal, and git worktree isolation for safe parallel execution.
+- **Multi-agent collaboration**: coordinate agents through channels and pod bindings, with real-time topology visualization.
+- **Built-in Kanban**: task management with ticket-pod binding, progress tracking, and MR/PR integration.
+- **Self-hosted runners**: deploy runners on your own infrastructure — your code never leaves your environment.
+- **Multi-agent support**: works with Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode, and any custom terminal-based agent.
+- **Multi-Git provider**: GitLab, GitHub, and Gitee integration.
+- **Enterprise-ready**: multi-tenant (Org > Team > User), SSO, RBAC, audit logs, air-gapped deployment support.
+- **BYOK**: bring your own AI API keys — no usage caps, full cost control.
+
+### Links
+- [Website](https://agentsmesh.ai)
+- [Documentation](https://agentsmesh.ai/docs)
+- [GitHub](https://github.com/AgentsMesh/AgentsMesh)
+- [Demo Video](https://youtu.be/VaXImaly3dM)
+- [Discord](https://discord.gg/3RcX7VBbH9)
+
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
