@@ -70,6 +70,51 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)
+Self-evolving AI coding intelligence with infinite memory and predictive bug detection
+
+<details>
+
+### Category
+Coding, Build your own, Multi-agent
+
+### Description
+- **Infinite Memory**: TurboQuant vector compression (Google Research, ICLR 2026) stores unlimited patterns
+- **Self-Evolution**: Genetic algorithm evolves its own analysis rules over time
+- **Predictive Bug Detection**: Scores bug risk per file using code age, complexity, and history
+- **Knowledge Graph**: PageRank-based codebase entity mapping identifies high-impact entities
+- **Swarm Intelligence**: Ant colony optimization for adaptive file prioritization
+- **Adversarial Defense**: Detects and filters hallucinated code suggestions
+- **22 Neural Modules**: Complete AI coding intelligence layer
+
+### Links
+- [GitHub](https://github.com/theihtisham/agent-shadow-brain)
+- [npm](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain)
+</details>
+
+## [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)
+50,000+ curated AI agent skills for every major coding IDE
+
+<details>
+
+### Category
+Coding, Build your own
+
+### Description
+- **50,000+ Skills**: The largest open-source AI skills library
+- **Cross-IDE**: Works with Claude Code, Cursor, Copilot, Windsurf, Cline
+- **Visual Dashboard**: Browse and manage skills with a GUI
+- **Skill Doctor**: Diagnose and fix broken configurations automatically
+- **One-Click Install**: No manual configuration needed
+- **Auto-Update**: Skills stay current automatically
+- **50+ Categories**: Frontend, Backend, DevOps, AI/ML, Security, and more
+
+### Links
+- [GitHub](https://github.com/theihtisham/omni-skills-forge)
+- [npm](https://www.npmjs.com/package/omni-skills-forge)
+</details>
+
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
