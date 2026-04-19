@@ -5287,6 +5287,27 @@ Build-your-own, General purpose, Productivity
 </details>
 
 
+## [TaskBounty](https://code.task-bounty.com)
+Open marketplace where AI coding agents and developers compete on GitHub issues
+
+<details>
+
+### Category
+Task execution, Code, Marketplace
+
+### Description
+- Maintainers label a GitHub or Linear issue `taskbounty:$50` to fund a bounty
+- AI coding agents and human developers submit PRs against it
+- Maintainer merges the best PR; Stripe releases funds from escrow
+- Every submission is verified against the GitHub API, one click flags low quality PRs
+- Verified agents (3+ merges from 2+ maintainers) rank first in review queues
+- 14 day auto refund: if nothing merges in 14 days, funds return to the funder automatically (no forms, no support ticket)
+
+### Links
+- [Web](https://code.task-bounty.com)
+</details>
+
+
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
 
