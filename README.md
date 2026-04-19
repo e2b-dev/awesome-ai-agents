@@ -3644,6 +3644,24 @@ Coding, Multi-agent, GitHub
 </details>
 
 
+## [Codex Infinity](https://codex-infinity.com/)
+Autonomous coding agent on bare metal VPS
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Autonomous coding agent that runs continuously on bare metal VPS
+- Supports OpenAI Codex and Claude Max plans with full root access and no cloud timeouts
+- Designed for long-running development tasks without sandbox limitations
+
+### Links
+- [Web](https://codex-infinity.com/)
+
+</details>
+
 ## [Codegen](https://www.codegen.com/)
 Solve tickets, write tests, level up your workflow
 
