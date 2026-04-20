@@ -114,6 +114,31 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)
+Autonomous AI coding intelligence layer with neural mesh networking, pattern memory, and self-evolving analysis
+
+<details>
+
+### Category
+Coding, Development tools, Multi-agent
+
+### Description
+
+- **Autonomous code analysis**: Continuously monitors your codebase and generates real-time insights without manual triggers.
+- **Neural mesh networking**: Multi-node distributed intelligence with automatic peer discovery and encrypted communication.
+- **Pattern memory engine**: Learns recurring code patterns, file correlations, and development workflows over time.
+- **Self-evolving rules**: Genetic algorithm-based rule optimization that improves analysis accuracy with each session.
+- **Predictive bug detection**: Scores bug risk using code age, complexity metrics, and change frequency analysis.
+- **Knowledge graph with PageRank**: Maps code entity relationships and identifies high-impact files using graph algorithms.
+- **Swarm intelligence**: Ant-colony-inspired file prioritization with pheromone trails for adaptive focus.
+- **Cross-agent protocol**: Real-time insight sharing between multiple AI coding agents via UDP broadcast.
+
+### Links
+- [npm package](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain)
+- [GitHub](https://github.com/theihtisham/agent-shadow-brain)
+</details>
+
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
