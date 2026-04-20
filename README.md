@@ -255,6 +255,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)
+AI-powered background code analysis agent with 60+ cognitive modules, infinite memory, and self-evolving intelligence
+
+<details>
+
+### Category
+Coding, Developer tools, Build your own
+
+### Description
+- Background code analysis agent that runs autonomously alongside your IDE
+- 60+ cognitive modules for deep code understanding and pattern detection
+- Infinite memory system with knowledge graph for cross-session persistence
+- Self-evolving intelligence that learns from your codebase over time
+- npm package: `@theihtisham/agent-shadow-brain`
+
+### Links
+- [GitHub](https://github.com/theihtisham/agent-shadow-brain)
+- [npm](https://www.npmjs.com/package/@theihtisham/agent-shadow-brain)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
