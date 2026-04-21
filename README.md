@@ -1651,6 +1651,30 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 </details>
 
+## [Immortal](https://github.com/Nagendhra-web/Immortal)
+Self-healing engine with a ReAct-style agentic loop that safely recovers production services.
+
+<details>
+
+### Category
+DevOps, Infrastructure, Site Reliability, Multi-agent safety
+
+### Description
+
+- **Agentic healing**: multi-step Plan → Act → Observe → Re-plan ReAct loop for novel failures not covered by static rules.
+- **Digital twin simulation**: every healing plan is validated against a shadow state machine before it touches production.
+- **Post-quantum signed audit**: every action leaves a Merkle-rooted, cryptographically signed receipt.
+- **Causal root-cause**: PCMCI + do-calculus identifies true drivers, not spurious correlations.
+- **Cost-tier safety gates**: tools declare impact (read / reversible / disruptive / destructive) and must pass prerequisite reads before destructive actions fire.
+- **LLM-optional**: default deterministic planner ships working agents without any LLM. Plug in Claude / OpenAI / Ollama / OpenRouter when you want richer reasoning.
+
+### Links
+- [Documentation](https://github.com/Nagendhra-web/Immortal#readme)
+- [Landing page](https://nagendhra-web.github.io/Immortal/)
+- [GitHub](https://github.com/Nagendhra-web/Immortal)
+</details>
+
+
 
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
