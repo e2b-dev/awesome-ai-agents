@@ -2296,6 +2296,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [open-multi-agent](https://github.com/JackChen-me/open-multi-agent)
+TypeScript multi-agent framework with one-call task decomposition
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+
+- TypeScript-native, Node.js 18+
+- `runTeam(goal)` decomposes a goal into a task DAG via one LLM call and executes independent tasks in parallel
+- Three runtime dependencies (`@anthropic-ai/sdk`, `openai`, `zod`)
+- Structured output with Zod validation and one-shot retry
+- Built-in tools (bash, file I/O, grep, glob) plus a custom tool registry
+- Shared memory across agents, inter-agent messaging, task retries, concurrency control
+
+### Links
+- [GitHub](https://github.com/JackChen-me/open-multi-agent)
+- [npm](https://www.npmjs.com/package/@jackchen_me/open-multi-agent)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
