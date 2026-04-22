@@ -2019,6 +2019,32 @@ Memory management, Data analysis
 
 </details>
 
+## [MoAI-ADK](https://github.com/modu-ai/moai-adk)
+SPEC-first agentic development kit for Claude Code with 24 specialized agents
+
+<details>
+
+### Category
+Orchestration, Frameworks, Multi-agent
+
+### Description
+MoAI-ADK is a SPEC-driven multi-agent orchestration kit designed for Claude Code. It features:
+- 24 specialized AI agents across 8 domains (backend, frontend, security, testing, docs, design, UX, devops)
+- 52 reusable skills for common development tasks
+- Enforced Plan → Run → Sync workflow with TRUST 5 quality gates
+- Agent Teams parallel execution mode for concurrent development
+- 16-language project support with automatic language detection
+- Zero-dependency Go CLI single binary
+- Apache 2.0 licensed
+
+### Links
+- [GitHub](https://github.com/modu-ai/moai-adk)
+- [Documentation](https://adk.mo.ai.kr)
+- [CHANGELOG](https://github.com/modu-ai/moai-adk/blob/main/CHANGELOG.md)
+
+</details>
+
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
