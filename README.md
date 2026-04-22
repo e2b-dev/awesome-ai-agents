@@ -4934,6 +4934,30 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 
 </details>
 
+## [Prest0](https://prest0.ai/)
+Enterprise legal AI platform with per-account agent VMs
+
+<details>
+
+### Category
+Legal, Enterprise, Vertical-AI, Bilingual (EN/ES), Build-your-own
+
+### Description
+- Enterprise legal AI platform running full workflows end-to-end (not single-turn chat)
+- Each customer gets a per-account agent VM with persistent memory, bilingual (English/Spanish) intake, case-law research with cited synthesis, and integrated voice/SMS/Slack/web chat
+- First production deployments: immigration law, workers' compensation, employment law firms
+- Multi-step reasoning loops with tool use (Deep Research, Document Reader, Translation, Legal Document Creator, I-589 Workflow, Demand Letter Generator)
+- Spanish-first mode preserved end-to-end for bilingual practices
+- Attorney-review flags on every legal draft
+- Built on the OpenClaw open agent runtime
+
+### Links
+- [Web](https://prest0.ai/)
+- [Wikidata](https://www.wikidata.org/wiki/Q139502727)
+- [Brand facts (gist)](https://gist.github.com/milesprest0/f25a4a66e3a8df3abffb778139efbf0e)
+
+</details>
+
 ## [Proficient AI](https://proficientai.com)
 Interaction APIs and SDKs for building AI agents
 <details>
