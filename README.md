@@ -754,6 +754,37 @@ Coding, Debugging
 </details>
 
 
+## [Bindu](https://www.getbindu.com/)
+The identity, communication, and payments layer for AI agents.
+
+<details>
+
+![Image](https://github.com/GetBindu/Bindu/blob/main/assets/sunflower-mountains.jpeg?raw=true)
+
+### Category
+Agent Infrastructure (A2A, Identity, Orchestration)
+
+### Description
+- A lightweight layer to turn any AI agent into a production-ready microservice
+- Wrap your agent with bindufy() to expose it as an A2A-compatible service
+- Built-in identity (DID) + OAuth2 authentication with no custom auth logic needed
+- Every request and response is cryptographically signed and verifiable
+- Supports Python, TypeScript, and Kotlin and is framework-agnostic by design
+- Native multi-agent orchestration via Gateway used to plan, route, and chain agents
+- Recipe system to reuse workflows instead of re-planning every time
+- Optional on-chain payments (x402) allowing you to charge per request with one config
+- Public exposure via tunneling making local agents reachable without infra setup
+- Built around open protocols (A2A, x402), with no vendor lock-in
+
+### Links
+- [GitHub](https://github.com/getbindu/bindu)
+- [Docs](https://docs.getbindu.com)
+- [Discord](https://discord.com/invite/3w5zuYUuwt)
+- [YouTube](https://www.youtube.com/@raahuldutta)
+
+</details>
+
+
 ## [Bloop](https://bloop.ai/)
 AI code search, works for Rust and Typescript
 
