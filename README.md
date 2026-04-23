@@ -4361,6 +4361,27 @@ Productivity
 
 </details>
 
+## [Hive Intelligence](https://hiveintelligence.xyz)
+Crypto market infrastructure for AI agents
+
+<details>
+
+![image](https://www.hiveintelligence.xyz/og-image.png)
+
+### Category
+Data analysis, Build-your-own (agent-builing frameworks and platforms), Business intelligence, Finance
+
+### Description
+- Institutional-grade crypto market infrastructure for AI — a managed MCP server, REST API, and CLI that connect AI agents to live crypto prices, DeFi activity, wallet positions, and token risk across every major chain.
+- Hundreds of normalized tools across 14 category-scoped endpoints covering market data, on-chain DEX analytics, DeFi protocol data, wallet positions, token risk signals, derivatives, and news.
+- Works with Claude Desktop, Claude Code, Cursor, ChatGPT Desktop, Windsurf, VS Code (GitHub Copilot Chat), Gemini CLI, and any MCP-compatible client.
+
+### Links
+- [Web](https://hiveintelligence.xyz)
+- [GitHub](https://github.com/hive-intel/hive-crypto-mcp)
+
+</details>
+
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
