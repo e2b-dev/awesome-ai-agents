@@ -2427,6 +2427,29 @@ Productivity, Research
 
 </details>
 
+## [ShuLing](https://github.com/AI-flower/shuling)
+Xiaohongshu (RED) creator-growth AI agent with a self-evolving preference loop
+
+<details>
+
+### Category
+Content creation, Social media, Build your own, Self-improving
+
+### Description
+
+- **Full creator loop**: single agent drives topic research, dual-stage drafting (outline + body in the RedInk style), two-phase image generation (Gemini 3 Pro Image + cover reference), publish, and five-dimension NoteRx retrospect.
+- **Self-evolving**: learns a Laplace-smoothed preference vector from every publish outcome, with ε-greedy exploration to avoid local optima, and a pattern lifecycle that promotes/retires creative templates automatically.
+- **Two onboarding paths**: cold-start (3-question persona interview + competitor seeding) and existing-creator mode (batch-import up to 200 past notes → AI-inferred persona → pattern-seed mining).
+- **Runs anywhere**: the same skill works across Claude Code, Codex, and Hermes — no framework lock-in.
+- **Fully local, MIT-licensed**: state lives in `.shuling/`, no telemetry, no cloud sync.
+
+### Links
+- [GitHub](https://github.com/AI-flower/shuling)
+- [Website](https://shuling.pages.dev)
+- [SKILL.md (1208 lines, the "brain")](https://github.com/AI-flower/shuling/blob/main/SKILL.md)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
