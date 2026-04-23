@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [REG-Vault](https://regvault.org) - Retro-gaming metadata MCP server. 91k games with box art, manuals and gameplay previews. JSON-RPC 2.0 at `api.regvault.org/mcp`.
