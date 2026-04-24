@@ -1312,6 +1312,27 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [Emdash Skills](https://github.com/megabytespace/claude-skills)
+14-category autonomous product-building OS for AI coding tools
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- A 14-category skills system that turns one-line prompts into deployed products on Cloudflare Workers.
+- Ships with 18 specialized autonomous agents: architect, test-writer, deploy-verifier, security-reviewer, visual-qa, code-simplifier, completeness-checker, dependency-auditor, meta-orchestrator, migration-agent, content-writer, performance-profiler, incident-responder, accessibility-auditor, cost-estimator, changelog-generator, seo-auditor, and computer-use-operator.
+- Agents self-coordinate through parallel phases: architect (single) -> build (3-5 parallel) -> verify (parallel deploy+seo+visual) -> fix (targeted).
+- Full-stack: CF Workers+Hono, Angular+Ionic+PrimeNG, D1/Neon, Drizzle, Clerk, Stripe, Inngest, Resend, Bun, Playwright.
+- Includes value extraction, auto-memory, prompt caching, model routing, and self-improving skill loops.
+
+### Links
+- [GitHub](https://github.com/megabytespace/claude-skills)
+- [npm](https://www.npmjs.com/package/@megabytespace/claude-skills)
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
