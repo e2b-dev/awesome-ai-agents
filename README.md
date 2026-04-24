@@ -1312,6 +1312,20 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent)
+
+### Category
+Security / Privacy / MCP
+
+### Description
+Keep AI agent credentials encrypted locally. Browser extension + MCP server that resolves {{PLACEHOLDER}} references at submit time. Secrets never reach the LLM. Uses AES-256-GCM + Argon2id encryption.
+
+### Links
+- [GitHub](https://github.com/Agnuxo1/EnigmAgent)
+- [npm (MCP server)](https://www.npmjs.com/package/enigmagent-mcp)
+- [npm (library)](https://www.npmjs.com/package/enigmagent-vault)
+- [PyPI](https://pypi.org/project/enigmagent/)
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
