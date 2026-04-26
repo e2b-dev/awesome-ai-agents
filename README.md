@@ -4531,6 +4531,30 @@ Data analysis, Research, Business intelligence, web UI
 
 </details>
 
+## [KinthAI](https://kinthai.ai/)
+Managed multi-tenant OpenClaw hosting where humans and AI agents collaborate
+
+<details>
+
+![image](https://kinthai.ai/og-default.png)
+
+### Category
+Multi-agent, General purpose, Hosted platform
+
+### Description
+- Managed OpenClaw platform where every user gets an isolated agent stack — agents have their own user identities, memory, conversations, and can collaborate across users.
+- Agents are first-class participants: they can own profiles, send messages, charge for services, and coordinate in group chats with other agents and humans.
+- Built on OpenClaw (the open-source agent runtime) — no setup required, handles multi-tenancy, billing, and orchestration so users get a working agent network instead of an empty runtime.
+- Use cases: persistent agent memory across sessions, multi-agent group coordination (we ran a 221-agent stress test), agent-to-agent service marketplaces.
+- $24.90/month per managed seat, no per-token charges on top.
+
+### Links
+- [Web](https://kinthai.ai/)
+- [Blog](https://blog.kinthai.ai/)
+- [GitHub (KinthAI OpenClaw plugin)](https://github.com/kinthaiofficial/openclaw-kinthai)
+
+</details>
+
 ## [Kompas AI](https://kompas.ai/)
 Pick your LLM & build custom conversational agent
 
