@@ -182,6 +182,28 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentBoot](https://github.com/Agnuxo1/AgentBoot-app)
+Conversational AI sysadmin for bare-metal hardware detection and OS installation
+
+<details>
+
+### Category
+Sysadmin, Local AI, Bare-metal
+
+### Description
+
+- Detects hardware (CPU, RAM, storage, GPU) through natural conversation and recommends an OS
+- Ships as PWA, Android APK, browser extension, and Tauri desktop app
+- Runs local Qwen3 0.8B fully in-browser via wllama — no server required
+- BYOK cloud mode: OpenAI, Claude, Gemini
+- License: Apache-2.0
+
+### Links
+- [GitHub](https://github.com/Agnuxo1/AgentBoot-app)
+- [Live Demo](https://agentboot.pages.dev)
+- [HF Space](https://huggingface.co/spaces/Agnuxo/agentboot-demo)
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
