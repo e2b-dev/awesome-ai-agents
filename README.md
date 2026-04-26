@@ -3940,6 +3940,24 @@ Data analysis, Business intelligence
 
 </details>
 
+## [Drevon](https://drevon.dev)
+Mac desktop workspace for running GTM agents powered by Claude Code, Codex, or Copilot
+
+<details>
+
+### Category
+Sales, Marketing, GTM, Business intelligence, Multi-agent
+
+### Description
+- Drevon is a Mac desktop workspace for GTM engineers that runs parallel AI agents powered by Claude Code, Codex, or Copilot.
+- Build target lists, score accounts, and pull prospect intel from LinkedIn, CRM, and sales tools.
+- Automate go-to-market workflows including prospecting, outreach, and account research.
+
+### Links
+- [Website](https://drevon.dev)
+
+</details>
+
 ## [Duckie AI](https://duckie.ai/)
 Team of AI SW development companions (Ducklings)
 
