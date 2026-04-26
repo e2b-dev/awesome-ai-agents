@@ -4560,6 +4560,31 @@ Productivity, Build-your-own, Business intelligence
 
 </details>
 
+## [KubeStellar Console](https://github.com/kubestellar/console)
+AI-powered multi-cluster Kubernetes operations agent
+
+<details>
+
+### Category
+DevOps, Infrastructure
+
+### Description
+KubeStellar Console is an open-source multi-cluster Kubernetes dashboard with an AI operations agent (kc-agent) that bridges AI assistants to live Kubernetes clusters via the Model Context Protocol (MCP). It enables AI-assisted troubleshooting, observability, and management across edge and cloud clusters.
+
+### Features and Benefits
+* AI agent (kc-agent) connects LLMs to Kubernetes clusters via MCP for real-time operations
+* Multi-cluster management across edge and cloud environments
+* Integrates with 20+ CNCF projects (Argo, Kyverno, Istio, and more)
+* Real-time observability with streaming metrics and health monitoring
+* CNCF Sandbox project with Apache-2.0 license
+
+### Links
+- [Demo](https://console.kubestellar.io)
+- [GitHub](https://github.com/kubestellar/console)
+- [KubeStellar Project](https://kubestellar.io)
+
+</details>
+
 ## [Kusho](https://kusho.ai/)
 AI agent for API testing
 
