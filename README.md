@@ -48,6 +48,7 @@ We structured the list into two parts:
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI Agent状态监控，监控多智能体协作运行状态。Vue 3 + ECharts | [Demo](http://47.109.47.116/)
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
