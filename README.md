@@ -2636,6 +2636,32 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Tap](https://github.com/LeonTing1010/tap)
+Compile your AI agent's browser-acting trajectory into a deterministic program that replays at zero LLM tokens
+
+<details>
+
+![Image](https://github.com/LeonTing1010/tap/raw/main/docs/logo-400.png)
+
+### Category
+Browser automation, Tooling
+
+### Description
+- Compile a successful agent run (browser-use AgentHistory, Stagehand flow, or Playwright/Puppeteer source) into a deterministic `.tap.json` plan
+- The plan replays without re-invoking an LLM: pure CDP actions for the deterministic ops, opt-in `allowUnverifiable` exec for AI-driven steps
+- Includes a doctor that verifies plans against current site state via 4-layer semantic cross-validation, and a heal pipeline that compiles drift fixes when sites change
+- MCP-native: works in Claude Code, Cursor, Cline, and any MCP host. Ships as CLI + Python SDK + W3C Annotation envelope spec. 140+ pre-built taps across 60+ sites
+
+### Links
+- [Website](https://taprun.dev/)
+- Author: [Leon Ting](https://github.com/LeonTing1010) (GitHub)
+- [npm @taprun/cli](https://www.npmjs.com/package/@taprun/cli)
+- [PyPI taprun](https://pypi.org/project/taprun/)
+- [MCP Registry](https://registry.modelcontextprotocol.io/) (Anthropic-curated)
+- [Plan format spec](https://taprun.dev/spec/plan-v1/)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
