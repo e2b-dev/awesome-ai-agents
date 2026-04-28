@@ -5210,6 +5210,29 @@ General purpose
 
 </details>
 
+## [Suede](https://suedeai.ai/)
+The ownership infrastructure layer for the AI era
+
+<details>
+
+### Category
+Build your own, Multi-agent, Voice, IP Infrastructure, Creator Economy
+
+### Description
+- Full vertical stack closing the gap between AI's ability to generate content at infinite scale and the absence of infrastructure for ownership, provenance, and programmable rights
+- **SuedeMic** — hardware microphone that cryptographically signs audio at point of capture; closes chain-of-custody before content touches any server
+- **VoicePrint** — patented biometric identity (zero-knowledge, no stored biometrics); verifies authorship without surveillance
+- **Registry Layer** — 6 live smart contracts on Base, plus Solana and Avalanche; cross-chain settlement via LayerZero; registers stems, tracks, lyrics, voices, images, and datasets
+- **Agent Layer** — autonomous agents negotiate licenses and route royalties via x402 and ERC-8004 protocols; Suede Conduit runtime proxy manages IP transactions at machine speed
+- $2.3M+ paid directly to creators; 3,500+ ambassadors; 7 provisional patents
+- Token: $SUEDE (Solana, 1B supply, 53% burned); trading on MEXC, AscendEX, BTSE, ApeX
+
+### Links
+- [Website](https://suedeai.ai/)
+- [Twitter](https://twitter.com/suede)
+
+</details>
+
 ## [Superluminal](https://superluminal.dev)
 AI copilot to your product's data dashboard
 
