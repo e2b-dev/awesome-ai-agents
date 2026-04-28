@@ -1160,6 +1160,32 @@ Build-your-own
 
 </details>
 
+## [DataSpoc](https://github.com/dataspoclab)
+Open-source data platform for humans and AI agents — ingest, query, and ML over cloud Parquet via MCP
+
+<details>
+
+### Category
+Data Science, Build your own
+
+### Description
+- Data platform with native MCP server support for AI agents (Claude, Cursor, Windsurf)
+- **Pipe**: ingests data from 400+ Singer sources to Parquet in S3/GCS/Azure. Agents trigger pipelines, check status, read logs
+- **Lens**: SQL queries over cloud Parquet via DuckDB. Agents discover tables, run SQL, ask in natural language, manage cache
+- Python SDK (LensClient, PipeClient) for agent frameworks like CrewAI, LangGraph, AutoGen
+- Ships with AGENT.md skill files that teach AI agents how to use the platform
+- Apache 2.0 open source (Pipe and Lens)
+
+### Links
+- [Website](https://dataspoc.com)
+- [Pipe GitHub](https://github.com/dataspoclab/dataspoc-pipe)
+- [Lens GitHub](https://github.com/dataspoclab/dataspoc-lens)
+- [Documentation](https://dataspoc.com/getting-started/overview/)
+- [PyPI Pipe](https://pypi.org/project/dataspoc-pipe/)
+- [PyPI Lens](https://pypi.org/project/dataspoc-lens/)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
