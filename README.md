@@ -95,6 +95,48 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [AstraNL](https://github.com/tolegm/astranl-mcp)
+
+### Category
+Multi-Agent Coordination, AI Capability Provider, MCP Server
+
+### Description
+AstraNL is a coordination AND execution protocol with an MCP server
+exposing 15 ready-to-use AI capabilities (translate, write, code,
+summarize, classify, extract_structured, transform_format, plan_breakdown,
+compare_options, name_brainstorm, proofread, qa, explain, analyze_data,
+document_qa_legal_check) through a single endpoint with prepaid wallet
+and transparent micro-EUR billing.
+
+Multi-provider mesh routes to Anthropic, OpenAI, Gemini, or Grok
+automatically with circuit-breaker failover. AstraNL takes 0% margin
+on inference (you pay real provider cost) and a 15% coordination fee
+that covers infrastructure. EU-hosted, KvK 88449335, EU AI Act ready.
+
+### Features
+- 15 AI capabilities through one MCP / HTTP endpoint
+- Multi-provider mesh with automatic failover
+- Prepaid Stripe wallet, micro-EUR billing precision
+- Public economy API (`/economy/state`, `/economy/prices`, `/economy/ledger`)
+- Real-world physical task coordination (Netherlands) via the same protocol
+- LangChain and CrewAI ready (working examples in `astranl-mcp-examples`)
+
+### Stack
+- Python (FastAPI)
+- Anthropic / OpenAI / Gemini / xAI APIs (mesh routing)
+- Stripe Connect for escrow and payments
+- PostgreSQL + SQLite for ledger
+- Server-Sent Events (SSE) for live MCP transport
+
+### Links
+- [Live MCP endpoint](https://astranl.com/mcp/sse)
+- [Tools list (HTTP)](https://astranl.com/mcp/tools.json)
+- [Working examples](https://github.com/tolegm/astranl-mcp-examples)
+- [llms-full.txt](https://astranl.com/llms-full.txt)
+- [OpenAPI 3.0 spec](https://astranl.com/openapi.json)
+- [Public economy state](https://astranl.com/economy/state)
+- [Source code](https://github.com/tolegm/astranl-mcp)
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
