@@ -114,6 +114,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agentic Operator](https://github.com/Clawdlinux/agentic-operator-core)
+Kubernetes operator for running AI agents as first-class workloads
+
+<details>
+
+### Category
+Build your own, Multi-agent, Infrastructure
+
+### Description
+- Kubernetes-native operator that treats AI agents as a CRD (`AgentWorkload`) instead of bespoke deployments.
+- Every agent-proposed action is gated through an OPA policy before execution, with `autoApproveThreshold` and human-in-the-loop approval via `agentctl approve / reject`.
+- Per-workload cost attribution exposed as Prometheus metrics for FinOps.
+- Multi-step orchestration via Argo Workflows + LangGraph (durable execution, checkpointing, suspend/resume for approval gates).
+- Supports running fully offline against Ollama; production-ready Helm chart for cloud install.
+
+### Links
+- [Landing](https://clawdlinux.org)
+- [Discord](https://discord.gg/2yJsjhPe)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
