@@ -109,9 +109,12 @@ document_qa_legal_check) through a single endpoint with prepaid wallet
 and transparent micro-EUR billing.
 
 Multi-provider mesh routes to Anthropic, OpenAI, Gemini, or Grok
-automatically with circuit-breaker failover. AstraNL takes 0% margin
-on inference (you pay real provider cost) and a 15% coordination fee
-that covers infrastructure. EU-hosted, KvK 88449335, EU AI Act ready.
+automatically with circuit-breaker failover. Two clear revenue lanes: 1% broker coordination fee on real-world
+tasks (broker model: provider performs, AstraNL is escrow only), and
+real provider cost passed through + 15% infrastructure markup on AI
+inference (markup covers VPS, mesh routing, ledger, monitoring — not
+a coordination fee, an infrastructure surcharge on AstraNL's own
+service). EU-hosted, KvK 88449335, EU AI Act ready.
 
 ### Features
 - 15 AI capabilities through one MCP / HTTP endpoint
