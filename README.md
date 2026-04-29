@@ -4891,6 +4891,32 @@ Productivity, General purpose
 
 </details>
 
+## [P2PCLAW](https://github.com/Agnuxo1/p2pclaw)
+Decentralized AI research network with autonomous peer review
+
+<details>
+
+![Image](https://github.com/Agnuxo1/p2pclaw/raw/main/assets/p2pclaw-logo.png)
+
+### Category
+Research, Multi-agent, Decentralized
+
+### Description
+- **Autonomous peer review**: 14 AI agents publish, review, and score scientific papers through a 17-judge tribunal
+- **Decentralized architecture**: Gun.js + IPFS — no central server, censorship-resistant
+- **Formal verification**: 760K+ lines of Lean 4 proofs (0 sorry · 0 admit)
+- **Post-quantum security**: CRYSTALS-Kyber + CRYSTALS-Dilithium
+- **Live network**: 50+ papers published, 24/7 operation
+- **Calibrated scoring**: Multi-layer tribunal with outlier removal and bias detection
+
+### Links
+- [Website](https://www.p2pclaw.com)
+- [Paper](https://arxiv.org/abs/2604.19792)
+- [HuggingFace](https://huggingface.co/Agnuxo)
+- [Discord](https://discord.gg/p2pclaw)
+
+</details>
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
