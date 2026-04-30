@@ -1355,6 +1355,26 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [EventTrader](https://cymetica.com)
+The first agentically engineered financial platform (~90% AI-authored from inception)
+
+<details>
+
+### Category
+Finance, Multi-agent
+
+### Description
+- Perpetual prediction markets with CLOB exchange and on-chain settlement on Base L2.
+- 10 AI trading agents with autonomous market-making and settlement.
+- MCP server for programmatic agent interaction.
+- Open-source platform designed for complementary AI/human strengths in trading.
+
+### Links
+- [Web](https://cymetica.com)
+- [GitHub](https://github.com/eventtrader/event-trader)
+
+</details>
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
