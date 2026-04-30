@@ -2689,6 +2689,31 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [two_brains](https://github.com/kholovmasrur2007-netizen/two_brains)
+3-brain AI agent (planner → critic → executor) with a deterministic regex-driven SafetyCritic that blocks `rm -rf`, `sudo`, traversal *before* execution.
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+General purpose / agent framework
+
+### Description
+two_brains is an open-source 3-brain pipeline. A primary critic checks the plan for correctness; a deterministic `SafetyCritic` runs alongside and scans every step for dangerous tokens (`rm -rf`, `sudo`, `chmod 777`, `curl|wget`, `subprocess`, sandbox traversal, fuzzy success criteria, writes without declared risks). The combined score is `min(both)`, so a confident-sounding correctness pass cannot override a safety failure. Below the 85-point bar the executor refuses to run.
+- Per-user sandbox with traversal protection (parametrised tests cover `/etc/passwd`, `C:/Windows`, `..\escape`, multi-level escapes)
+- 300 s wall-clock timeout in the agent loop, disk-space pre-flight on `write_file`
+- WebSocket per-IP rate limit, JWT auth, daily quotas, audit log, Prometheus metrics
+- Web UI streams every pipeline phase live; Telegram bot included
+- Providers: deterministic, mock, Anthropic, OpenAI, agent (Claude tool-use), local-agent (offline pattern matcher)
+- 238 tests, CI green on Python 3.11 + 3.12, MIT-licensed
+
+### Links
+- Repo: https://github.com/kholovmasrur2007-netizen/two_brains
+- Release: https://github.com/kholovmasrur2007-netizen/two_brains/releases/tag/v3.0.0
+- One-line install: `curl -fsSL https://raw.githubusercontent.com/kholovmasrur2007-netizen/two_brains/main/install.sh | bash`
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
