@@ -4127,6 +4127,31 @@ Productivity
 
 </details>
 
+## [Frigade](https://frigade.com/)
+AI assistant that lives inside your SaaS product
+
+<details>
+
+![image](https://frigade.com/images/frigade-logo.svg)
+
+### Category
+In-product assistant, Customer support, Product adoption
+
+### Description
+- An AI assistant embedded in a SaaS company's own product, not a standalone chatbot.
+- Learns the customer's product end-to-end on its own — no scripted flows or manually authored docs.
+- Answers user questions in-context and takes real actions on the user's behalf (opens modals, navigates to settings, walks through multi-step workflows).
+- Detects product changes automatically and updates its guidance.
+- Used by SaaS companies for in-app onboarding, feature adoption, and reducing support load.
+
+### Links
+- [Web](https://frigade.com/)
+- [LinkedIn](https://www.linkedin.com/company/frigade)
+- [X (Twitter)](https://x.com/FrigadeHQ)
+- [GitHub](https://github.com/FrigadeHQ)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
