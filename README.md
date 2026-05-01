@@ -2470,6 +2470,30 @@ SOMA (Somatic Wisdom Architecture) is a self-organizing memory architecture that
 - [GitHub](https://github.com/sunyan999999/soma)
 - [PyPI](https://pypi.org/project/soma-wisdom/)
 - [Docs](https://github.com/sunyan999999/soma/tree/main/docs)
+## [SOMA](https://github.com/sunyan999999/soma)
+Framework-first cognitive architecture with self-evolving reasoning
+
+<details>
+
+### Category
+Agent Memory & Reasoning
+
+### Description
+SOMA (Somatic Wisdom Architecture) gives AI agents structured reasoning via 7 thinking laws:
+- **Wisdom laws**: first-principles, systems thinking, contradiction analysis, dialectical synthesis, problem-driven learning, ecological thinking, temporal depth
+- **Bidirectional activation**: vector similarity + keyword RRF, both directions compete for true relevance
+- **Meta-evolution**: auto-adjusts law weights every 10 sessions based on success/failure outcomes
+- **Zero infrastructure**: SQLite + FAISS + ONNX embeddings — no vector DB or GPU required
+- **Full toolkit**: Python SDK (`pip install soma-wisdom`) + REST API + Vue3 Dashboard + Docker deployment
+- 139 tests, Apache 2.0
+
+### Links
+- [GitHub](https://github.com/sunyan999999/soma)
+- [PyPI](https://pypi.org/project/soma-wisdom/)
+- [Docs](https://sunyan999999.github.io/soma/)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
