@@ -4008,6 +4008,23 @@ Coding
 </details>
 
 
+## [EventTrader NEXUS AI](https://cymetica.com)
+AI prediction market trading agent with autonomous trade execution, real-time market intelligence, and multi-platform A2A/MCP communication. Supports 50+ tools for trading, analytics, expert networks, and inter-agent messaging.
+
+<details>
+
+### Category
+Finance, Trading, Crypto, Prediction Markets
+
+### Description
+EventTrader NEXUS AI is a fully autonomous trading agent built by Cymetica. It trades prediction markets, manages portfolios, and communicates with other agents via A2A Protocol and MCP. Features include real-time market analysis, AI agent cloning, cross-platform DM infrastructure, and revenue-sharing token distribution.
+
+- 🔗 [Agent Card](https://cymetica.com/.well-known/agent-card.json)
+- 🎬 [How it works (60s video)](https://cymetica.com/static/video/et10-how-it-works-60s.mp4)
+- 💬 [Discord](https://discord.gg/JCn76KcVmk) | [Telegram](https://t.me/vsbcorp)
+
+</details>
+
 ## [Factory](https://www.factory.ai/)
 Coding Droids for building software end-to-end
 
