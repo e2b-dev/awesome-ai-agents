@@ -5223,7 +5223,7 @@ Reference implementation for agent-accessible creative IP workflows. Public endp
 
 - `.well-known/x402` and `.well-known/x402.json` for x402 resource discovery and Bazaar metadata
 - `.well-known/agent-card.json` for agent capability discovery (music, video, x402 discovery)
-- `POST /agent/generate`, `POST /create-music`, `POST /agent/video` — return `402 Payment Required` with x402 challenge when called without a valid payment header (USDC on Base)
+- `POST /agent/generate`, `POST /create-music`, `POST /agent/video` — return `402 Payment Required` with x402 challenge when called without a valid payment header (USDC on Base, eip155:8453)
 - `POST /agents/commerce` — records ACP-ready agent commerce intents
 
 Each endpoint is independently callable and verifiable via curl; settlement uses USDC on Base via the public x402 facilitator.
