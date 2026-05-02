@@ -959,6 +959,27 @@ Science, Chemistry
 
 </details>
 
+## [Claude Skills](https://github.com/heymegabyte/claude-skills)
+14-category autonomous product-building OS for 32+ AI coding tools
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Code generation
+
+### Description
+- 14-category autonomous OS that turns one-line prompts into deployed products
+- Bundles 18 specialized agents (architect, test-writer, deploy-verifier, security-reviewer, visual-qa, performance-profiler, accessibility-auditor, content-writer, completeness-checker, dependency-auditor, migration-agent, incident-responder, computer-use-operator, meta-orchestrator, seo-auditor, cost-estimator, changelog-generator, code-simplifier) with parallel orchestration
+- Cross-tool compatible: Claude Code, Codex, Cursor, Copilot, Gemini CLI, Windsurf, opencode, Cline, Aider — single source of truth ships to every assistant
+- Hard quality gates: Playwright E2E at 6 breakpoints, axe-core 0 violations, Lighthouse ≥95 a11y, AI vision ≥8/10, Yoast GREEN, zero TODOs/stubs
+- Deploys to Cloudflare Workers + Hono + D1 + Drizzle + Clerk + Stripe stack out of the box
+
+### Links
+- [GitHub](https://github.com/heymegabyte/claude-skills)
+- [Website](https://claude.megabyte.space)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
