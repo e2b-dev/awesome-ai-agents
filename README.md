@@ -4897,7 +4897,7 @@ Autonomous AI engineering agents that clear your backlog while following your te
 <details>
 
 
-![image](https://www.outcomeops.ai/images/outcomeops_logol.png)
+<img src="https://www.outcomeops.ai/images/outcomeops_logol.png" alt="OutcomeOps logo" width="300">
 
 ### Category
 Coding, Organizational Intelligence
