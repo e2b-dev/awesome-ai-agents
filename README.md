@@ -4912,6 +4912,7 @@ Coding, Organizational Intelligence
 - [What Is Context Engineering?](https://www.outcomeops.ai/context-engineering)
 - [How It Works](https://www.outcomeops.ai/how-it-works)
 - [Blog](https://www.outcomeops.ai/blogs)
+- [Founder's LinkedIn - Brian Carpio](https://www.linkedin.com/in/briancarpio/)
 
 </details>
 
