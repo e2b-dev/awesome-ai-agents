@@ -4342,6 +4342,25 @@ You can see more – and sign up for the waitlist – over here.
 
 </details>
 
+## [Hlido](https://hlido.eu/)
+Independent review desk for AI agents
+
+<details>
+
+### Category
+Evaluation, Benchmarking
+
+### Description
+- Reviews and scores AI agents with public claim-vs-evidence tables, C2PA-signed screenshots, and a live Laddoo Score.
+- Publishes 329 agent reviews, a Hugging Face dataset, and a 9-tool MCP server for agent-readable trust checks.
+
+### Links
+- [Reviews](https://hlido.eu/reviews/)
+- [MCP server](https://hlido.eu/mcp)
+- [Dataset](https://huggingface.co/datasets/hlido-eu/agent-benchmark)
+
+</details>
+
 ## [Heymoon.ai](https://heymoon.ai/)
 Keep you on top of your calendar, tasks and info
 
