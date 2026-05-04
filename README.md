@@ -53,6 +53,9 @@ The list is done according to our best knowledge, although definitely not compre
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI Agent Monitoring Dashboard for OpenClaw | [Demo](http://47.109.47.116/)
+
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
 For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
