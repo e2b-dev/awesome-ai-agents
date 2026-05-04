@@ -4320,6 +4320,26 @@ Productivity
 </details>
 
 
+## [Helix](https://github.com/Thitic9203/helix)
+Full-cycle QA + dev lifecycle orchestrator for AI coding tools
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Plugin/skill pack that guides any AI through the complete software development lifecycle
+- **14 dedicated QA skills** built around ISO 25010, ISTQB CTFL v4.0, IEEE 829, and ISO 31000
+- 3-tier test system: Functional (unit/integration/E2E/contract) → Quality (security/a11y/visual) → Performance (load/stress/soak/db/frontend)
+- Enforces staging-first deploys, asks before breaking changes, and free-tier tools by default
+- Works with Claude Code, GitHub Copilot CLI, Gemini CLI, Cursor, Windsurf, Aider — skills are plain Markdown, no vendor lock-in
+
+### Links
+- [GitHub](https://github.com/Thitic9203/helix)
+
+</details>
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 AI tools for doing amazing things with data
 
