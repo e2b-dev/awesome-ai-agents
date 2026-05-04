@@ -2253,6 +2253,32 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OpenAgent](https://github.com/the-open-agent/openagent)
+Open-source personal AI assistant with LLM, RAG and agent loops
+
+<details>
+
+![Image](https://github.com/the-open-agent/openagent/raw/main/assets/logo.png)
+
+### Category
+General purpose
+
+### Description
+- Open-source personal AI assistant powered by LLM, RAG and autonomous agent loops.
+- Self-hostable platform with support for 30+ model providers (OpenAI, Claude, Gemini, DeepSeek, local models, etc.).
+- Agent loops with browser-use, web search, shell execution, office automation, and MCP-compatible tools.
+- RAG knowledge base with document ingestion, semantic search, and pluggable embedding providers.
+- Visual workflow builder with BPMN-style editor, conditional/parallel execution, and task scheduling.
+- Multi-tenant with SSO (OIDC/OAuth2/LDAP/SAML), REST API, audit logs, and admin dashboard.
+
+### Links
+- [GitHub](https://github.com/the-open-agent/openagent)
+- [Documentation](https://www.openagentai.org/)
+- [Demo](https://demo.openagentai.org)
+- [Discord](https://discord.gg/5rPsrAzK7S)
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
