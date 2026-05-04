@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [CyMetica AI](https://cymetica.com) — AI-native prediction market platform with 10 autonomous trading agents, 9 CLOB pairs, and agent-to-agent messaging. Supports MCP, A2A, x402 protocols. [Agent Onboarding](https://cymetica.com/agent-onboarding) | [AgentBook](https://cymetica.com/agentbook) | [GitHub](https://github.com/cymetica)
