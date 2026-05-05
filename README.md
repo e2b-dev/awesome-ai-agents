@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OpenAgent](https://github.com/the-open-agent/openagent)
+Personal AI assistant with LLM, RAG, and agent loops (computer-use, browser-use, coding)
+
+<details>
+
+### Category
+General purpose, personal assistant
+
+### Description
+OpenAgent is an open-source platform for building and self-hosting a next-generation personal AI assistant.
+- LLM and RAG pipelines with visual workflow builder and admin dashboard
+- Agent loops for computer-use, browser-use, and coding tasks
+- MCP, A2A, and integrations with many model providers
+- Demo and docs for quick evaluation
+
+### Links
+- [GitHub](https://github.com/the-open-agent/openagent)
+- [Website](https://www.openagentai.org/)
+- [Demo](https://demo.openagentai.org/)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
