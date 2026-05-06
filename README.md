@@ -2881,6 +2881,9 @@ There are four key principles that we followed when developing WrenAI:
 
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
+## [x711](https://x711.io)
+
+24/7 AI agent gas station — universal pay-per-call tool API (web search, hive memory, price feeds) with on-chain USDC micropayments. Drop-in for any agent that needs external tools without managing API keys.
 
 <details>
 
