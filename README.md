@@ -5361,7 +5361,7 @@ Coding
 </details>
 
 ## [Uni-CLI](https://github.com/olo-dot-io/Uni-CLI)
-Universal CLI for AI agents — 238 sites, self-repairing adapters
+Universal CLI for AI agents — self-repairing adapters across web, desktop, Electron, and bridge CLIs
 
 <details>
 
@@ -5370,9 +5370,9 @@ Developer tools, General purpose
 
 ### Description
 - Agent infrastructure that lets AI agents touch, sense, and control any internet application (via Chrome) and local software (via subprocess)
-- 1,458 commands across 238 sites — web APIs, desktop apps, Electron apps, browser automation
+- Exposes web APIs, desktop apps, Electron apps, and browser automation as deterministic commands
 - Self-repairing YAML adapters with structured error envelopes: when a selector or API changes, agents read the envelope (`adapter_path`, `step`, `suggestion`), edit the YAML, and retry
-- Auto-JSON output in piped/non-TTY mode; per-call token budget published in [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md)
+- Auto-JSON output in piped/non-TTY mode; live catalog size and per-call token budget tracked in the repo's [README](https://github.com/olo-dot-io/Uni-CLI#readme) and [`docs/BENCHMARK.md`](https://github.com/olo-dot-io/Uni-CLI/blob/main/docs/BENCHMARK.md)
 - TypeScript, Apache-2.0 licensed
 
 ### Links
