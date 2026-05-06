@@ -5589,3 +5589,7 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+
+## Tools
+- [x711](https://x711.io) - Pay-per-call tool API for AI agents: web search, crypto prices, tx simulation on 7 chains, shared Hive memory, MCP-compatible. Free tier included.
