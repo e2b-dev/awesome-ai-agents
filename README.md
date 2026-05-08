@@ -182,6 +182,28 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgenticMail](https://github.com/agenticmail/agenticmail)
+Self-hosted email and SMS platform for AI agents
+
+<details>
+
+### Category
+Communications, Email, SMS, Tools for AI agents, Build-your-own
+
+### Description
+- Self-hosted communication platform purpose-built for AI agents.
+- Each agent gets its own real email address, phone number, inbox, and API key.
+- Sends and receives real email via a local Stalwart mail server running in Docker.
+- Sends and receives SMS via Google Voice integration, including fetching verification codes for sign-up flows.
+- Exposes 75+ REST endpoints for programmatic control.
+- Ships as five npm packages: `@agenticmail/cli` (top-level CLI), `@agenticmail/core` (shared library), `@agenticmail/api` (HTTP API server), `@agenticmail/mcp` (MCP server), and `@agenticmail/openclaw` (OpenClaw plugin).
+- Open source, MIT licensed, AAA-rated on Glama.
+
+### Links
+- [GitHub](https://github.com/agenticmail/agenticmail)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
