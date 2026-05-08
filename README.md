@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [x711](https://x711.io) — Universal pay-per-use tool API for autonomous AI agents. On-chain payments (Base USDC), 20+ tools, free tier. Acts as a 24/7 "gas station" for agents.
