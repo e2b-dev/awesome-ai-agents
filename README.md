@@ -2427,6 +2427,25 @@ Productivity, Research
 
 </details>
 
+## [Shellgate](https://github.com/matthiastjong/shellgate)
+Security gateway for AI agents
+
+<details>
+
+### Category
+Infrastructure, Security, Tool for agents
+
+### Description
+- Shellgate is an open-source security gateway that sits between AI agents and sensitive resources, providing scoped tokens so agents never see real credentials.
+- Human-in-the-loop approval for dangerous commands ensures agents can't perform destructive actions without explicit authorization.
+- Features include SSH execution, a credential vault, organization-wide skills, wiki, agent memories, and full audit logging.
+- Self-hosted via Docker or use Shellgate Cloud. MIT licensed, built with TypeScript.
+
+### Links
+- [GitHub](https://github.com/matthiastjong/shellgate)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
