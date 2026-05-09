@@ -2825,6 +2825,32 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
 
+## [WebOperator](https://github.com/KazKozDev/WebOperator)
+A Chrome extension browser agent with a pure agent loop (observe → decide → act → verify). Runs locally on Ollama.
+
+<details>
+
+![image](https://raw.githubusercontent.com/KazKozDev/WebOperator/main/icons/icon128.png)
+
+### Category
+Browser automation, Personal assistant, General purpose
+
+### Description
+- Chrome extension that turns natural language into browser actions
+- Pure agent loop: observe page → LLM decides one action → execute → verify → repeat
+- Plan enforcement — must commit to a plan before acting
+- Accessibility-tree based observation with stable element refs
+- Runs locally with Ollama, or any OpenAI-compatible endpoint (xAI, OpenRouter, MLX)
+- Local HTTP bridge on port 8765 for external agents
+- Built-in credential vault, password masking, safety rails
+- TypeScript, MIT license
+
+### Links
+- [GitHub](https://github.com/KazKozDev/WebOperator)
+- [Developer docs](https://github.com/KazKozDev/WebOperator/blob/main/docs/developer-notes.md)
+
+</details>
+
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
