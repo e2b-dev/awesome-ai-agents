@@ -1422,6 +1422,27 @@ Coding
 
 </details>
 
+## [Future AGI](https://github.com/future-agi/future-agi)
+Open-source agent engineering and optimization platform
+
+<details>
+
+### Category
+Build your own, Observability, Evaluation, Self-improving
+
+### Description
+- Open-source, self-hostable end-to-end platform for evaluating, observing, and improving LLM and AI agent applications.
+- Unifies tracing, evals, simulations, datasets, gateway, and guardrails in one feedback loop.
+- Simulate edge cases pre-launch, evaluate production behavior, guardrail unsafe outputs in real time.
+- Turn every trace into signal for the next agent version, self-improving by design.
+- Apache 2.0 licensed.
+
+### Links
+- [GitHub](https://github.com/future-agi/future-agi)
+- [Website](https://futureagi.com)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
