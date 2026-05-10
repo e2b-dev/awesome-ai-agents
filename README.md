@@ -4296,6 +4296,32 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [great_cto](https://github.com/avelikiy/great_cto)
+Engineering management layer for 34 specialist AI agents — runs the full SDLC pipeline (architect, planning, code, review, QA, security, deploy, support) coordinated through a local kanban board.
+
+<details>
+
+### Category
+Multi-agent, Code generation, Engineering management, Build your own
+
+### Description
+
+- **34 specialist agents** for the full SDLC: architect, pm, senior-dev, code-reviewer, qa-engineer, security-officer, devops, l3-support, plus 18 archetype-specific reviewers (PCI, oracle/web3, gov-public, edtech, etc.)
+- **25 archetypes auto-detected** from `package.json` / `pyproject.toml` / `Cargo.toml` — picks compliance gates (PCI-DSS, HIPAA, FedRAMP, GDPR, EU AI Act, etc.) automatically
+- **Multi-platform** — runs in Claude Code, Cursor, Codex CLI, Aider, Continue via AGENTS.md + MCP
+- **Local kanban board** (`great-cto board`) — see all agent activity, gates, costs, and decisions in one screen at `localhost:3141`. No SaaS, no cloud, just files in your git
+- **Honest cost metrics** — €0.27/AI-hr · €75/human-hr · ~270× cheaper for typical pipelines (configurable rates, math is auditable)
+- **Built-in security scanner** — OWASP LLM Top 10 + 24 rules + SARIF for GitHub Code Scanning
+- MIT licensed, no telemetry
+
+### Links
+- [GitHub](https://github.com/avelikiy/great_cto)
+- [npm](https://www.npmjs.com/package/great-cto)
+- [Documentation / Blog](https://velikiy.hashnode.dev)
+- [Demo](https://greatcto.systems)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
