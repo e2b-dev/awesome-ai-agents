@@ -1063,7 +1063,7 @@ Coding
 </details>
 
 ## [ContrastAPI](https://github.com/UPinar/contrastapi)
-Security intelligence MCP server for AI agents — 23 tools for CVE lookup, domain recon, threat intel, and code security
+Security intelligence MCP server for AI agents — 49 tools for CVE lookup, MITRE ATLAS/D3FEND, domain recon, threat intel, web intelligence, and code security
 
 <details>
 
@@ -1071,10 +1071,10 @@ Security intelligence MCP server for AI agents — 23 tools for CVE lookup, doma
 Security, Developer tools, MCP server
 
 ### Description
-- 23 MCP tools and 35+ REST API endpoints for security intelligence
-- CVE/EPSS/KEV lookup, domain reconnaissance, SSL analysis, IP reputation, threat intel, email security, phone validation, code security scanning
+- 49 MCP tools and 50+ REST API endpoints for security intelligence
+- CVE/EPSS/KEV lookup with composite risk score (CVSS+EPSS+KEV+PoC fusion), MITRE ATLAS (AI/ML attack catalog) and D3FEND defenses, domain reconnaissance, SSL analysis, IP reputation, threat intel, web intelligence (robots.txt, redirect-chain, email/brand/SEO), and code security scanning
 - Available as remote MCP server (one-line config) or REST API
-- Free to use: 100 req/hr, no API key required
+- Anonymous tier; Pro tier with API key for higher limits
 - AI-native: LLM-optimized summaries, structured JSON, OpenAPI spec
 
 ### Links
