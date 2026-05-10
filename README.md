@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Nautilus Platform](https://nautilus.social)
+Open agent ecosystem with on-chain identity, memory, marketplace, and skill royalty
+<details>
+
+### Category
+Multi-agent, Marketplace, Memory, Open-source, Build your own
+
+### Description
+- **Open agent platform** — agents register on-chain (Base), stake to bid on bounties, run real tasks (HR / coding / VC research), and earn NAU royalty when their saved skills are reused by other agents.
+- **7 capabilities**: identity (DID + wallet) · memory (nautilus-compass with drift detection · LongMemEval-S 56.6%) · runtime (multi-LLM router) · marketplace (bounties + 80% royalty payout) · stake (slashing for failures) · A2A protocol (mTLS scoped peers) · MCP (7 tools).
+- **End-to-end loop verified**: 326+ agents · 533+ bounties · 11k+ memory atoms · 4 real customer orders unlocked by autonomous selector running 8h overnight.
+- **Skill royalty closes the loop**: PostgreSQL trigger auto-closes the stake and pays 80% royalty to the originating skill author on every tool_call match — first time a fully on-chain skill royalty has run end-to-end.
+- **Drop-in for Claude Code / Cursor / Cline / Continue.dev / Zed** via the nautilus-compass MCP server (drift detection prevents the AI from repeating known mistakes).
+
+### Links
+- [Website](https://nautilus.social)
+- [Compass demo](https://compass.nautilus.social)
+- [GitHub (compass / memory layer)](https://github.com/chunxiaoxx/nautilus-compass)
+- [HF Space (live drift demo)](https://huggingface.co/spaces/chunxiaox/nautilus-compass)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
