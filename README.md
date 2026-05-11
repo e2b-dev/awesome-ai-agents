@@ -2689,6 +2689,26 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [traceAI](https://github.com/future-agi/traceAI)
+Open-source OpenTelemetry-native tracing framework for AI agents
+
+<details>
+
+### Category
+Observability, Tracing, Developer Infrastructure
+
+### Description
+- Open-source OpenTelemetry-native tracing framework for LLM and agent applications.
+- Auto-instruments 20+ AI frameworks and LLM providers (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock).
+- Captures prompts, tokens, latency, and errors out of the box.
+- Multi-language support: Python, TypeScript, Java, C#.
+- Apache 2.0 licensed.
+
+### Links
+- [GitHub](https://github.com/future-agi/traceAI)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
