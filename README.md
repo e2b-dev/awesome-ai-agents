@@ -1160,6 +1160,30 @@ Build-your-own
 
 </details>
 
+## [Dakera](https://github.com/dakera-ai/dakera-mcp)
+Self-hosted MCP-native agent memory server
+
+<details>
+
+### Category
+Memory, Infrastructure, MCP
+
+### Description
+- Production-grade self-hosted agent memory server with 83 dedicated MCP tools — store, recall, session management, namespace isolation, and decay configuration
+- Decay-weighted vector recall: memories fade by importance over time, preventing stale context flooding
+- Hybrid retrieval combining BM25 full-text search and HNSW approximate nearest-neighbor vector search
+- RocksDB + HNSW backend — durable key-value store with production-grade vector indexing
+- Achieves 87.8% on the LoCoMo long-term conversational memory benchmark
+- Zero cloud dependency: runs fully offline, no external LLM API required
+- Multi-SDK support: Python, JavaScript, Rust, Go official clients
+
+### Links
+- [GitHub](https://github.com/dakera-ai/dakera-mcp)
+- [Web](https://dakera.ai)
+- [Docs](https://docs.dakera.ai)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
