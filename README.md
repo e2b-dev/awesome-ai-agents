@@ -2372,6 +2372,43 @@ Productivity, General purpose
 </details>
 
 
+## [ProtoLink](https://github.com/nMaroulis/protolink)
+Lightweight framework for building autonomous multi-agent systems with native LLMs, tool-calling, MCP integration, and A2A-based agent communication.
+
+<details>
+
+![image](https://raw.githubusercontent.com/nMaroulis/protolink/main/docs/assets/banner.png)
+
+### Category
+- Multi-Agent Systems, AI Agents, Agent Frameworks, Python
+
+### Description
+- ProtoLink is a lightweight Python framework for building autonomous, LLM-powered agents that communicate directly, manage context, and integrate tools seamlessly.
+
+- Implements and extends Google’s A2A (Agent-to-Agent) protocol while providing a unified runtime for LLMs, tools, transports, memory, and agent orchestration.
+
+- Designed around explicit primitives (`Task`, `Message`, `Part`) to replace fragile prompt-driven orchestration with inspectable and deterministic execution flows.
+
+### Features
+- Native multi-agent communication
+- Unified client/server agent architecture
+- Built-in tool calling & MCP integration
+- Support for OpenAI, Anthropic, Gemini, Ollama, llama.cpp and more
+- HTTP, WebSocket and in-memory transports
+- Minimal boilerplate & production-oriented architecture
+- OpenTelemetry support
+- Runtime & distributed agent execution
+
+### Links
+- [Documentation](https://nmaroulis.github.io/protolink/)
+- [PyPI](https://pypi.org/project/protolink/)
+- [GitHub](https://github.com/nMaroulis/protolink)
+- [Level Up Coding Demo #1](https://levelup.gitconnected.com/your-first-autonomous-agent-mesh-easier-than-you-think-ce697b3dd87a)
+- [Level Up Coding Demo #2](https://levelup.gitconnected.com/build-easily-your-own-claude-code-with-three-agents-brain-hands-and-coordinator-5236b392ddf0)
+
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
