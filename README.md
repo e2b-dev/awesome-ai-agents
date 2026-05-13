@@ -255,6 +255,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [APort](https://aport.io/)
+Pre-action authorization and guardrails for AI agents
+
+<details>
+
+### Category
+Developer tools, Software security, Build your own
+
+### Description
+- Adds pre-action authorization for agent tool calls before they reach the underlying framework or runtime.
+- Supports agent guardrails for OpenClaw, LangChain, CrewAI, Cursor, Claude Code, and related agent workflows.
+- Provides local or hosted policy checks for blocking risky tool use patterns and enforcing task-specific permissions.
+
+### Links
+- [Website](https://aport.io/)
+- [Quickstart](https://aport.io/quickstart/)
+- [GitHub](https://github.com/aporthq/aport-agent-guardrails)
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
