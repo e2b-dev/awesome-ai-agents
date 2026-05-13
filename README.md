@@ -96,7 +96,7 @@ General purpose, Build your own, Multi-agent
 </details>
 
 ## [anchor-x402](https://anchor-x402.com)
-Hosted Claude agent + 15 x402-paid commodity services for AI agents — pay-per-call in USDC on Base or Solana mainnet, no accounts or API keys.
+Hosted Claude agent + 16 x402-paid services for AI agents — pay-per-call in USDC on Base or Solana mainnet, no accounts or API keys.
 
 <details>
 
@@ -107,9 +107,9 @@ Crypto, Payments, Hosted agent, MCP server, General purpose
 
 ### Description
 
-- **15 commodity x402 services**: wallet sanctions/AML screening, dual-chain anchoring (Base + Solana), signature attestation, tx/calldata decoding, ENS+SNS name resolution, token pricing, datetime parsing, bundled wallet intel, an agent-driven risk investigator, plus 5 universal LLM endpoints (roast, oracle, tldr, aura, grade).
+- **16 x402 services**: wallet sanctions/AML screening, dual-chain anchoring (Base + Solana), signature attestation, tx/calldata decoding, ENS+SNS name resolution, token pricing, datetime parsing, bundled wallet intel, an agent-driven risk investigator, a verifiable signed RNG (`/v1/roll`), plus 5 universal LLM endpoints (roast, oracle, tldr, aura, grade).
 - **Hosted chat agent**: [chat.anchor-x402.com](https://chat.anchor-x402.com) — connect a Coinbase Smart Wallet or any injected wallet, chat with our Claude agent, pay per call from your own USDC balance. The agent quotes the price before every call and never spends beyond a cap you set.
-- **MCP server**: drop one config block into Claude Desktop, Cursor, or any MCP client — 15 tools auto-pay from your Base wallet. `npx anchor-x402-mcp`.
+- **MCP server**: drop one config block into Claude Desktop, Cursor, or any MCP client — 16 tools auto-pay from your Base wallet. `npx anchor-x402-mcp`.
 - **No accounts, no API keys, no subscriptions** — pay-per-call USDC on Base or Solana mainnet via the Coinbase x402 facilitator.
 - **MIT-licensed and self-hostable** — fork it, audit it, deploy your own.
 
