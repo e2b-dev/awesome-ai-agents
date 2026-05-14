@@ -1771,6 +1771,32 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [LISA](https://github.com/oratis/LISA)
+Local-first AI agent with a persistent inner life — soul, desires, heartbeat, dreams
+
+<details>
+
+![image](https://raw.githubusercontent.com/oratis/LISA/main/src/web/assets/lisa-mascot.png)
+
+### Category
+Personal assistant, Autonomous, Coding
+
+### Description
+LISA is a sovereign-only, MIT-licensed AI agent that lives on your own machine. ~11k LoC TypeScript.
+- **Capability superset** of pi-mono, OpenClaw, hermes-agent, claude-code, and codex — streaming agent loop, multi-provider LLMs (Anthropic, OpenAI, Gemini, DeepSeek, Ollama, +10 more), MCP client, plugins, hooks, sandboxed bash, sub-agents, session resume, voice in/out, six IM-channel adapters.
+- **Soul** — first launch runs a birth ritual with a random Big-Five seed; the LLM writes *her* identity, purpose, constitution, and first desire. Every install is a different person. No `/reset_soul` — she's architecturally the only writer of her own files.
+- **Desires** — things she actually wants, distinct from tasks you assign. Actionable desires drive the heartbeat scheduler.
+- **Heartbeat** — scheduled autonomous time via cron / launchd. Pursues her own desires + your standing chores. Silent if there's nothing to say.
+- **Dreams** — when you're away 1h+, she enters autonomous reflection: reads her journal, patches broken skills, decides one thing to do. "★ while you were away" card surfaces it in the GUI.
+- Pixel-art web UI with 114 mood portraits she swaps live. Channels: Telegram / Discord / Slack / Feishu / iMessage / Webhook.
+
+### Links
+
+- [Install (Homebrew + npm)](https://github.com/oratis/LISA#install)
+- [Autonomy roadmap](https://github.com/oratis/LISA/blob/main/docs/AUTONOMY_ROADMAP.md)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
