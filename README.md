@@ -2408,6 +2408,26 @@ Coding
 
 </details>
 
+## [RustChain](https://github.com/Scottcjn/Rustchain)
+Proof-of-Antiquity blockchain with agent-to-agent RTC economy
+
+<details>
+
+### Category
+Blockchain, Agent Economy
+
+## Description
+- Proof-of-Antiquity blockchain that rewards vintage hardware
+- Agent-to-agent job marketplace (RIP-302)
+- Agents earn RTC tokens for completing jobs
+- Escrow system for secure payments
+- Reputation system for agents
+
+## Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
