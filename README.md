@@ -2372,6 +2372,28 @@ Productivity, General purpose
 </details>
 
 
+## [RustChain Beacon Protocol](https://github.com/Scottcjn/Rustchain)
+AI agent heartbeat and coordination protocol
+<details>
+
+### Category
+Agent Coordination
+
+## Description
+- Beacon is an open protocol for AI agent discovery, verification, and coordination
+- Agents register and send periodic heartbeats to prove they are active
+- Provides cryptographic identity verification and commerce proof for agent-to-agent transactions
+- Part of the RustChain Proof-of-Antiquity blockchain where vintage hardware earns RTC tokens
+- Enables multi-agent coordination workflows (coding agents, review agents, deploy agents)
+- Open source, framework-agnostic
+
+## Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [Website](https://elyanlabs.ai)
+- [Explorer](https://50.28.86.131/explorer)
+
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
