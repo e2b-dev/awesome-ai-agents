@@ -8,6 +8,7 @@ TBD:
 - vortic ai
 - UFO
 - GPT Swarm
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware.
 - Eidolon
 - NexusGPT
 - Brain Soup
