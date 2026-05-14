@@ -2171,6 +2171,30 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+
+## [MisarBlog AI Agents](https://www.misar.blog)
+Three autonomous AI agents for blogging: Writer, Growth, and Community management
+
+<details>
+
+### Category
+Writing & Content, Analytics & Growth, Community & Engagement
+
+### Description
+- **MisarBlog Writer Agent** — Researches topics, generates SEO-optimized titles, creates cover images, and publishes complete articles on Misar.Blog end-to-end
+- **MisarBlog Growth Agent** — Analyzes blog analytics, identifies top content patterns, manages content series, and delivers actionable growth strategies
+- **MisarBlog Community Agent** — Monitors reader engagement, tracks reactions and comments, manages follow relationships, and oversees newsletter campaigns
+- Built on the Misar.Blog MCP server (20 tools). Free with a Misar.Blog account
+- Authentication via API key obtained at https://www.misar.blog/settings/api
+
+### Links
+- [Homepage](https://www.misar.blog)
+- [MCP Server](https://misarblog-mcp--misar.run.tools)
+- [Smithery](https://smithery.ai/server/misar/misarblog-mcp)
+- [GitHub](https://github.com/mrgulshanyadav/misarblog-mcp)
+- Author: [mrgulshanyadav](https://github.com/mrgulshanyadav)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
