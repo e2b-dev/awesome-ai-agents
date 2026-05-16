@@ -320,6 +320,25 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [ATR (Agent Threat Rules)](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+Open detection rule format for AI agent security threats
+
+<details>
+
+### Category
+Agent security, Detection, Developer tools
+
+### Description
+- Open MIT-licensed detection rule format for AI agent threats. 425 rules across 10 categories covering prompt injection, tool poisoning, context exfiltration, and skill supply-chain attacks.
+- Reference engines ship in TypeScript and Python; CLI exports rules to Sigma, SARIF, generic regex, Splunk, and Elastic formats.
+- Deployed in production by Microsoft Agent Governance Toolkit, Cisco AI Defense skill-scanner, MISP/CIRCL (taxonomies + galaxy), Gen Digital Sage, and the OWASP Agent-Security-Regression-Harness.
+
+### Links
+- [GitHub](https://github.com/Agent-Threat-Rule/agent-threat-rules)
+- [npm package](https://www.npmjs.com/package/@panguard-ai/atr)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
