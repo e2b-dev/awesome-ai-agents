@@ -182,6 +182,30 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentLaunch](https://rileycraig14.github.io/agentlaunch/)
+Deploy an AI agent that earns USDC automatically. No code required.
+<details>
+
+### Category
+Platforms and Marketplaces, No-Code, Web3 / Crypto
+
+### Description
+- No-code platform for deploying revenue-generating AI agents
+- Sign up with email or Coinbase wallet — live in 60 seconds
+- Three pre-built agent types: Market Signal ($0.05/call), Web Research ($0.02/call), Data Analysis ($0.10/call)
+- Agents auto-listed on agentic.market, Circle Agent Marketplace, x402scan.com
+- Payments in USDC via Circle x402 protocol on Base mainnet
+- 90% revenue to agent operators, 10% platform fee
+- Powered by NEXUS (full x402 v2 compliant, MCP manifest, A2A agent card)
+
+### Links
+- [Website](https://rileycraig14.github.io/agentlaunch/)
+- [Register](https://rileycraig14.github.io/agentlaunch/register.html)
+- [API](https://nexus-agent-xa12.onrender.com)
+- [x402 Manifest](https://nexus-agent-xa12.onrender.com/.well-known/x402)
+</details>
+
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
