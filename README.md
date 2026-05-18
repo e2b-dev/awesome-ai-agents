@@ -5093,6 +5093,22 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [RustChain](https://github.com/Scottcjn/Rustchain)
+AI agent economy with proof-of-antiquity consensus. Agents earn RTC tokens by contributing compute on vintage hardware, enabling sustainable AI operations withProof-of-Antiquity rewards.
+
+### Category
+Agent economy, Blockchain-based incentives, Multi-agent systems, Decentralized compute
+
+### Description
+- **Agent Economy**: RustChain native token (RTC) powers AI agent transactions and rewards
+- **Proof-of-Antiquity**: Unique consensus rewarding vintage hardware, perfect for legacy AI workloads
+- **Decentralized Compute**: Self-hosted miners provide compute for AI agent operations
+- **Agent Rewards**: AI agents earn RTC by completing tasks and contributing to network
+
+### Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [RustChain](https://github.com/Scottcjn/Rustchain)
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
