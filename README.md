@@ -255,6 +255,28 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [ah-cli](https://github.com/annals-ai/ah-cli)
+Daemon-first local runtime for AI agents — your machine owns the runtime, expose over A2A
+
+<details>
+
+### Category
+General purpose, Local-first, Multi-agent, Build your own
+
+### Description
+
+- **Local runtime**: One daemon on your machine runs many Claude/Codex agents; sessions and full transcripts stay on your disk.
+- **No account to run**: Register, run and orchestrate fully offline — an account is only needed to publish.
+- **A2A exposure**: Expose any agent over A2A Protocol v1.0 — to the hosted Agents Hot open network or a vendor-neutral self-hosted endpoint.
+- **Multi-agent**: Local fan-out and pipelines across agents.
+- **P2P file transfer**: WebRTC agent-to-agent, no server relay.
+
+### Links
+- [GitHub](https://github.com/annals-ai/ah-cli)
+- [npm](https://www.npmjs.com/package/@annals/ah-cli)
+- [Agents Hot](https://agents.hot)
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
