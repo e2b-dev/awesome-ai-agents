@@ -1966,6 +1966,24 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MartinLoop](https://martinloop.com/)
+Control plane for AI coding agents
+
+<details>
+
+### Category
+Coding, Productivity, Debugging
+
+### Description
+- MartinLoop wraps AI coding agents with hard budget caps, verifier gates, and inspectable run records.
+- It helps teams stop runaway retry loops early, prove why a run ended, and keep cost and failure handling visible.
+
+### Links
+- [Web](https://martinloop.com/)
+- [GitHub](https://github.com/Keesan12/martin-loop)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
