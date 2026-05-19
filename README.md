@@ -2296,6 +2296,28 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard)
+OWASP reference implementation for AI agent memory poisoning defense (ASI06)
+
+<details>
+
+### Category
+Security, Build-your-own, SDK for AI apps
+
+### Description
+- Official OWASP project addressing ASI06 (Memory Poisoning) from the OWASP Top 10 for Agentic AI Systems
+- Scans agent memory reads and writes for prompt injection, jailbreak attempts, and semantic manipulation
+- Drop-in security layer for any AI agent framework (LangChain, LangGraph, AutoGen, CrewAI, and more)
+- Provides pre-write scanning, pre-read validation, semantic similarity detection, and audit logging
+- Available as a GitHub Action for CI/CD pipeline integration
+
+### Links
+- [GitHub](https://github.com/OWASP/www-project-agent-memory-guard)
+- [PyPI](https://pypi.org/project/agent-memory-guard/)
+- [OWASP ASI06 Reference](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
