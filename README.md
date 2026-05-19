@@ -234,6 +234,28 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentsKit](https://github.com/AgentsKit-io/agentskit)
+AgentsKit: A composable toolkit for building AI agents in JavaScript
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+
+- **Small composable core**: A lightweight foundation built around six contracts (Adapter, Tool, Skill, Memory, Retriever, Runtime).
+- **UI bindings for many frameworks**: React, Vue, Svelte, Angular, React Native and the terminal (Ink) share the same core.
+- **Standalone runtime**: ReAct loop, planning and multi-agent orchestration with no UI required.
+- **Tools, memory and RAG**: Built in, plugged into the same contracts.
+- **Provider agnostic**: Works with OpenAI, Anthropic, Gemini and others through adapters.
+- **MIT licensed and solo-built**: Maintained by a single developer and open to contributors.
+
+### Links
+- [Documentation](https://www.agentskit.io)
+- [GitHub](https://github.com/AgentsKit-io/agentskit)
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
