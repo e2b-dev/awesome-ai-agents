@@ -63,6 +63,7 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 --->
 
 ## Check out E2B - Code Interpreting for AI apps
+* [Ano](https://ano.chat) - A collaborative shell with built-in AI integration (Claude Code) and custom CLI/MCP automations designed for elite devs.
 - Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk)
 - Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
 - Read our [docs](https://e2b.dev/docs?ref=awesome-sdks)
