@@ -114,6 +114,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Platform](https://github.com/Ace-li521/agent-platform)
+A lightweight multi-agent collaboration platform — the "Address Book + Post Office" for your AI agents.
+
+<details>
+
+### Category
+Multi-agent, Infrastructure, Build your own
+
+### Description
+
+- **Language agnostic**: Pure HTTP + JSON protocol — Python, Go, Java, Rust, anything works
+- **Service discovery**: GET /agents returns all registered agents for LLM-based routing
+- **Smart routing**: Route requests by agent name with full message history
+- **Distributed tracing**: Auto-generated trace_id for cross-agent call tracking
+- **Dynamic registration**: Agents register/deregister at runtime, zero downtime
+- **Stateless design**: Platform stores nothing, callers own their context
+- **Docker ready**: One-line deployment
+
+### Links
+- [GitHub](https://github.com/Ace-li521/agent-platform)
+</details>
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
