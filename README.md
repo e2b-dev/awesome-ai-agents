@@ -2636,6 +2636,22 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [TealTiger](https://github.com/agentguard-ai/tealtiger)
+
+Governance & security SDK for AI agents
+
+<details>
+
+|||
+|---|---|
+|**Created by**|[agentguard-ai](https://github.com/agentguard-ai)|
+|**Open source**|Yes|
+|**What it does**|Deterministic governance for autonomous AI agents — policy enforcement, cost controls, cryptographic evidence, OWASP Agentic Top 10 coverage. 12 LLM providers. No LLM in the governance path.|
+|**Category**|Security & Governance|
+
+</details>
+
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
