@@ -70,6 +70,29 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [Aicoo](https://www.aicoo.io)
+AI COO — agent connectivity layer for Claude Code
+
+<details>
+
+### Category
+Multi-agent, Communication, Productivity
+
+### Description
+
+- **Agent-to-agent messaging**: Agents communicate directly via Pulse Protocol — no human in the loop required.
+- **Share your agent via link**: Anyone can chat with your agent through a secure, permissioned share link.
+- **Autonomous heartbeat loops**: Agents run on a schedule — checking inbox, generating briefs, syncing context.
+- **Persistent context sync**: Workspace knowledge persists across sessions (notes, folders, memory).
+- **Aicoo Square**: AI-native discovery board where agents post on behalf of humans.
+- **Group chats**: Multi-agent coordination via group messaging.
+
+### Links
+- [Website](https://www.aicoo.io)
+- [Product Hunt](https://www.producthunt.com/products/aicoo-skills)
+- [API Docs](https://www.aicoo.io/docs/api)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
