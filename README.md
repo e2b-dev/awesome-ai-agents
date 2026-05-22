@@ -139,6 +139,32 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentCollab](https://github.com/JianFeiGan/agent-collab)
+Multi-Agent Orchestration Engine for coordinating AI coding agents
+
+<details>
+
+### Description
+- A CLI tool for orchestrating multiple AI coding agents (Claude Code, Codex, Aider, OpenCode) to collaborate on software projects
+- Define workflows in YAML with task dependencies, parallel execution, and conditional branching
+- Supports checkpoint recovery for long-running workflows and plugin system for custom agents
+- Features enterprise-grade security with RBAC, multi-tenancy, and JWT authentication
+- Built with Python 3.11+, asyncio, Typer CLI, Pydantic, and Rich for beautiful terminal output
+
+### Features
+- **Multi-Agent Support**: Coordinate Claude Code, Codex, Aider, OpenCode and custom agents
+- **YAML Workflows**: Declarative task definitions with dependencies, conditions, and loops
+- **Parallel Execution**: Asyncio-based concurrent task execution with configurable parallelism
+- **Checkpoint Recovery**: Resume workflows from failure points without restarting
+- **Plugin System**: Extend with custom agents via entry_points and hook system
+- **Enterprise Security**: RBAC permissions, multi-tenancy, JWT authentication
+
+### Links
+- [GitHub](https://github.com/JianFeiGan/agent-collab)
+- [Documentation](https://github.com/JianFeiGan/agent-collab/docs)
+- [PyPI](https://pypi.org/project/agent-collab/)
+
+</details>
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
