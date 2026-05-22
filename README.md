@@ -5512,6 +5512,28 @@ Build-your-own, Productivity, General purpose
 </details>
 
 
+## [Prestyj](https://prestyj.com/)
+AI agents for marketing and sales — instant lead response, AI receptionists, and batch AI video ad production for home services and real estate
+
+<details>
+
+### Category
+Productivity, Marketing & Sales
+
+### Description
+- Prestyj ships AI agents that capture inbound leads in under 60 seconds, qualify them via voice/SMS/email, and book meetings — built for home services (HVAC, plumbing, roofing, solar), real estate brokerages, and agencies.
+- Also produces batch AI video ads (100 ads in 24 hours from one recording) for paid social testing.
+- Publishes an open CC BY 4.0 statistics dataset (58 cite-worthy stats on speed-to-lead, video ad performance, AI adoption in sales, and CPL by industry): [prestyj.com/data](https://prestyj.com/data) · [GitHub mirror](https://github.com/Gahroot/prestyj-statistics-dataset)
+
+### Links
+- [Web](https://prestyj.com/)
+- [Open dataset](https://prestyj.com/data)
+- [Platform](https://prestyj.com/platform)
+- [LinkedIn](https://www.linkedin.com/company/prestyj/)
+- [Wikidata](https://www.wikidata.org/wiki/Q139892537)
+
+</details>
+
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
