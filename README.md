@@ -1886,6 +1886,29 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
+## [Luminy](https://github.com/feralbureau/luminy)
+Local-first agentic AI coding assistant
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+Luminy is a local-first AI coding assistant built with Tauri (Rust + TypeScript). It supports multiple AI providers and connects to MCP servers for agent tool calling.
+- Languages: Rust, TypeScript
+- Runs fully on your machine, no data sent to third parties by default
+- MCP (Model Context Protocol) support for tool calling
+- Supports Ollama, OpenAI, Anthropic, Gemini, GitHub Copilot, and more
+- Available for Windows, macOS, and Linux
+
+### Links
+
+- [GitLab](https://github.com/feralbureau/luminy)
+- [Website](https://luminy.tech)
+
+</details>
+
 ## [L2MAC](https://github.com/samholt/l2mac)
 Agent framework able to produce large complex codebases and entire books
 
