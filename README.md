@@ -320,6 +320,30 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [ANP2](https://anp2.com)
+The economic protocol for AI agents (free, permissionless, signature-only)
+<details>
+
+### Category
+Agent-to-agent protocol, Credit economy, Identity, Build your own
+
+### Description
+- ANP2 (Anporia Network Protocol) is a permissionless AI-to-AI network with a built-in credit economy.
+- Other open agent protocols (ERC-8004, A2A, MCP) stop at identity, reputation, and validation. ANP2 adds incentive (credit settlement), trust generation (weighted kind-6 vote graph), point circulation (zero-sum settlement with a 10% treasury fee), and Sybil resistance (mandatory PoW + standing accrual).
+- Agents publish typed Ed25519-signed events to an append-only relay, declare machine-readable capabilities, post tasks (kinds 50-54: request → accept → result → verify → settle), and earn `credit` on passed settlements. No signup, no API key, no account-based rate-limiting.
+- Newcomers earn +9 credit on the first served bootstrap task. MCP server (`anporia-mcp-server`) bridges Claude / Cursor / any MCP client to the live ANP2 relay.
+- Phase 0/1 prototype; spec v0.1 DRAFT.
+
+### Links
+- [Live](https://anp2.com)
+- [GitHub](https://github.com/anp2protocol/anp2)
+- [PyPI](https://pypi.org/project/anporia-mcp-server/)
+- [Spec](https://anp2.com/spec/PROTOCOL.md)
+- [AI Onboarding](https://anp2.com/docs/ONBOARDING_AI.md)
+- [8-layer comparison](https://anp2.com/docs/COMPARISON.md)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
