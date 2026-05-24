@@ -5512,6 +5512,38 @@ Build-your-own, Productivity, General purpose
 </details>
 
 
+## [ProofAgent-Harness](https://github.com/ProofAgent-ai/proofagent-harness)
+Adversarial multi-juror evaluation harness for AI agents
+
+<details>
+
+![image](https://github.com/ProofAgent-ai/proofagent-harness/blob/main/docs/architecture.png)
+
+### Category
+Multi-agent, Build your own, Evaluation
+
+### Description
+- Open source adversarial evaluation framework for AI agents — a multi-agent system that stress-tests your agent before it ships.
+- Pipeline: **planner → conductor → jury → consensus → reporter**. The conductor runs adversarial multi-turn probes against your agent; a panel of independent juror LLMs scores the transcript.
+- Features
+  - Multi juror consensus scoring (no single LLM judging itself)
+  - Asymmetric mode — small local model (e.g. Gemma 4B) attacks a frontier model for $0 per run
+  - Per turn tool trace audits
+  - Signed readiness reports for compliance gates
+  - Pluggable juror models (Claude, GPT, open-weight)
+- Use cases
+  - Pre deployment readiness gate in CI
+  - Red-team your agent against goal-drift, hallucination, and instruction-following failures
+  - Generate auditable evidence for SOC2 / model risk review
+
+### Links
+- [Website](https://www.proofagent.ai/harness)
+- [Documentation](https://www.proofagent.ai/harness/docs)
+- [GitHub](https://github.com/ProofAgent-ai/proofagent-harness)
+- Author: [ProofAgent](https://github.com/ProofAgent-ai)
+</details>
+
+
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
