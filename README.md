@@ -2482,6 +2482,28 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [sticky-widget](https://github.com/CharlesTThe/sticky-widget)
+Drop-in browser widget for capturing user feedback on AI-generated UIs
+
+<details>
+
+### Category
+Tool for agents, UI, Feedback
+
+### Description
+Companion to [vent-widget](https://github.com/CharlesTThe/vent-widget) on the user side: vent-widget captures agent-side friction, sticky-widget captures user-side friction on the UIs your agents generate.
+
+- **Click any element to annotate it.** Users hover to highlight, click to select, type a comment in the popover. Works on any DOM — no framework integration required.
+- **Rich entry shape.** Stable CSS selector, bounding rect, page URL, viewport, user agent, recent `console.error/warn` output, optional logged-in user identity — all sent in one POST.
+- **Shadow-DOM isolated.** Widget styles never leak; host page CSS never affects the widget. Survives in messy SPA codebases.
+- **Bring-your-own backend or use the bundled one.** Includes an Express + Postgres router (`stickyRouter(pool)`) with parametrized SQL, Helmet, rate-limiting, body-size caps. Or omit `postUrl` and use the `onSubmit` callback to wire to anything.
+- **Tiny.** ~6KB gzipped, zero runtime deps, ES2020. Vanilla JS — works in React/Vue/Angular/plain HTML alike.
+
+### Links
+- [GitHub](https://github.com/CharlesTThe/sticky-widget)
+- [npm](https://www.npmjs.com/package/sticky-widget)
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
