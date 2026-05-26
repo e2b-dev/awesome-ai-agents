@@ -278,6 +278,28 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [APort](https://aport.io/)
+Pre-action authorization guardrails for AI agents (LangChain, CrewAI, Claude Code, Cursor, OpenClaw)
+
+<details>
+
+![Image](https://opengraph.githubassets.com/1/aporthq/aport-agent-guardrails)
+
+### Category
+Security, Build your own, Multi-agent
+
+### Description
+- Policy-based **pre-tool-call** authorization so agents cannot run destructive tools without an explicit passport decision
+- Works locally with a JSON passport or via optional hosted evaluation at aport.io
+- One-command setup: `npx @aporthq/aport-agent-guardrails <framework>`
+
+### Links
+- [Website](https://aport.io/)
+- [GitHub](https://github.com/aporthq/aport-agent-guardrails)
+- [npm](https://www.npmjs.com/package/@aporthq/aport-agent-guardrails)
+
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
