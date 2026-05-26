@@ -2738,6 +2738,29 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [vent-widget](https://github.com/CharlesTThe/vent-widget)
+MCP server that lets AI agents log recurring friction to `.vents/` markdown files in your repo
+
+<details>
+
+### Category
+Tool for agents, Observability, Feedback
+
+### Description
+Open-source implementation of [Lovable's vent-tool pattern](https://lovable.dev/blog/we-gave-our-agent-a-vent-tool). Agents call a `vent` tool when they hit repeated blockers or rediscover the same friction; the message is saved as YAML-frontmatter markdown in the repo so humans (or a triage agent) can review later.
+
+- **Closes the feedback loop on agent friction.** Captures the kind of "this keeps failing" signal that would otherwise evaporate at the end of a session.
+- **Full git enrichment.** Branch, short SHA, project name, agent label written into frontmatter automatically.
+- **Auto-stage or auto-commit modes.** Vents land in your normal git history with `vent: <summary>` messages so triage is a real workflow.
+- **Never-lose-a-vent.** On primary write failure (EACCES, ENOSPC, locked dir), falls back to `os.tmpdir/vent-widget-fallback/` and reports both the failure reason and fallback path back to the agent.
+- **Drop-in for any MCP host.** Claude Code, claude.ai, Cursor, Continue — `npx -y vent-widget`. TypeScript, MIT, 42 tests, CI green.
+
+### Links
+- [GitHub](https://github.com/CharlesTThe/vent-widget)
+- [npm](https://www.npmjs.com/package/vent-widget)
+- [Lovable's original blog post](https://lovable.dev/blog/we-gave-our-agent-a-vent-tool)
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
