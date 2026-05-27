@@ -2825,6 +2825,33 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
 
+## [WinkTerm](https://github.com/Cznorth/winkterm)
+AI that shares your terminal PTY session
+
+<details>
+
+![image](https://github.com/Cznorth/winkterm/raw/main/assets/logo.svg)
+
+### Category
+DevOps, Productivity, Terminal
+
+### Description
+- Self-hosted AI terminal where the agent and user share the same PTY — no copy-paste chat sidecar
+- In-terminal chat: type `#` at the shell prompt; AI replies in the PTY stream and can pre-fill commands on your input line
+- Human-in-the-loop ops: press Enter to run AI-suggested commands, edit freely, or cancel
+- Built-in SSH connections with file transfer; multi-tab web UI and desktop app (Windows/macOS)
+- HTTP Agent API for external agents (Cursor, Claude Code, etc.): atomic exec with exit codes, SSE streaming, server-side grep, one-shot SSH run
+- Installable skill: `curl http://host:8000/api/agent/skill.md` — agents learn the API automatically
+- BYO LLM via OpenAI-compatible endpoints (Anthropic, Ollama, OpenRouter, etc.)
+
+### Links
+- [GitHub](https://github.com/Cznorth/winkterm)
+- [Demo GIF](https://github.com/Cznorth/winkterm#-demo)
+- [Case study: XMR miner cleanup via Agent API](https://github.com/Cznorth/winkterm/blob/main/docs/case-study-xmr-miner-cleanup.en.md)
+- [Dev.to article](https://dev.to/cznorth/winkterm-ai-that-shares-your-terminal-session-not-just-command-suggestions-8p9)
+
+</details>
+
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
