@@ -182,6 +182,19 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentHUD](https://github.com/IAMMARBIT/AgentHUD)
+
+### Category
+Developer Tools / Observability
+
+### Description
+Game-style HUD overlay for AI agent observability. Live animated cards per agent showing tool calls, tokens, cost, latency, success rate, and a sparkline. Drop-in callback handlers for LangChain, OpenAI Agents SDK, Claude Agent SDK, CrewAI, and AutoGen — 3 lines of code per framework. Ships with 14 polished skins (anime, matrix code rain, holographic foil, Iron Man HUD, Persona 5, Dead Space, Cyberpunk, Steampunk, Borderlands, more) plus a community skin marketplace. Designers ship custom skins from Photoshop, Blender, After Effects, or Midjourney by dropping a folder + manifest.json. Native plugin support for Rust / Go / Zig / C binaries (no Python required). Localhost-only, no telemetry, MIT licensed.
+
+### Links
+- [Main repo](https://github.com/IAMMARBIT/AgentHUD)
+- [Community skin registry](https://github.com/IAMMARBIT/agenthud-skins)
+- [Framework adapter docs](https://github.com/IAMMARBIT/AgentHUD/blob/main/docs/ADAPTERS.md)
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
