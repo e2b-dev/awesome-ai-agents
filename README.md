@@ -5512,6 +5512,29 @@ Build-your-own, Productivity, General purpose
 </details>
 
 
+## [MediaCraft AI](https://mediacraft-x402-api.onrender.com)
+Chinese content compliance review and translation API for AI agents
+
+<details>
+
+### Category
+Developer Tools, Compliance, Translation
+
+### Description
+- MediaCraft AI provides content compliance review against Chinese Advertising Law and 17 platform rules for cross-border creators and e-commerce.
+- Features:
+  - Chinese content compliance: check content against Douyin, Bilibili, Xiaohongshu, TikTok, YouTube, Amazon rules
+  - EN↔CN translation with cultural adaptation
+  - SEO optimization for e-commerce platforms
+  - Pay-per-call via x402 protocol (Solana USDC)
+  - First 10 calls free
+
+### Links
+- [Website](https://mediacraft-x402-api.onrender.com)
+- [GitHub](https://github.com/xinchuan/auto-token-earn)
+
+</details>
+
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
