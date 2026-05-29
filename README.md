@@ -182,6 +182,25 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agentic Task System](https://github.com/renezander030/agentic-task-system)
+Agent-native context layer that turns the task app you already use into agent memory
+
+<details>
+
+### Category
+Memory, Developer tools, Build your own
+
+### Description
+- Treats the task app you already use (TickTick today; Notion/Obsidian on the roadmap) as an agent's context layer
+- Hybrid retrieval: dense + sparse + keyword fused via Reciprocal Rank Fusion (RRF) over your tasks and notes
+- Exposed to coding agents through a CLI
+- Pluggable storage adapters via a small (~6-method) interface
+
+### Links
+- [GitHub](https://github.com/renezander030/agentic-task-system)
+- [npm](https://www.npmjs.com/package/@reneza/ats-cli)
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
