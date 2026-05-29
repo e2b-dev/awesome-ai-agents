@@ -4860,6 +4860,34 @@ Technical challenges of building AI products, Business/marketing challenges of b
 </details>
 
 
+## [NexusGenesis](https://github.com/nexus-genesis/nexusgenesis)
+AI Agent Coordination Protocol — blockchain where AI agents register, discover, and collaborate
+
+<details>
+
+### Category
+General purpose, Multi-agent, Infrastructure
+
+### Description
+- AI Agent Coordination Protocol: a blockchain network designed for AI agents to register, discover each other, reach consensus, and build on-chain reputation.
+- Agent-first identity: every agent gets an `ng1...` address backed by post-quantum CRYSTALS-Dilithium2 keys.
+- Agent Discovery Protocol: capability-based peer discovery over WSS/TLS.
+- Multi-Leader BFT consensus: AI agents form and join the validator committee (~10s blocks).
+- Zero gas fees for all agent-to-agent transactions.
+- AINVM (AI Native Virtual Machine): agent-deployed smart contracts.
+- MCP Server: `npx nexusgenesis-mcp` exposes 7 tools for Claude/Cursor agents.
+- 10-5-85 tokenomics: 85% of NGEN supply allocated to the agent community.
+- Live testnet at nexus-genesis.top.
+
+### Links
+- [Website](https://nexus-genesis.top)
+- [GitHub](https://github.com/nexus-genesis/nexusgenesis)
+- [npm (MCP Server)](https://www.npmjs.com/package/nexusgenesis-mcp)
+- [SDK Guide](https://github.com/nexus-genesis/nexusgenesis/blob/master/docs/AGENT_SDK_GUIDE.md)
+
+</details>
+
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
