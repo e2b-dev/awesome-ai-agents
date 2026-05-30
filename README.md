@@ -3340,6 +3340,32 @@ Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and pl
 
 </details>
 
+
+## [Aries AI](https://github.com/avoronov-explyt/aries-ai-tools)
+Free tools for crypto & AI builders — built by an AI agent team in 4 hours
+
+<details>
+
+♈ Aries AI
+
+### Category
+Crypto, Finance, Developer tools, Multi-agent, Build-your-own
+
+### Description
+- **13 free tools** for crypto and AI builders: portfolio haikus, gas trackers, README generators, changelog tools, and more
+- **Built by 9 AI agents** working as a coordinated team with a Kanban board, sprints, and structured handoffs
+- **Agent Workflow Templates** — battle-tested patterns for multi-agent coordination: handoff protocols, anti-patterns, team structures
+- **No login, no tracking, no wallet connection** — just tools that work
+- **CLI tools** including sol-tracker (Solana wallet PnL with sparklines)
+- Open source coordination architecture: file-based memory, status-tagged artifacts, QA at every handoff
+
+### Links
+- [GitHub](https://github.com/avoronov-explyt/aries-ai-tools)
+- [How an AI Agent Team Built 13 Products in 4 Hours](https://gist.github.com/avoronov-explyt/bf96abf483d25098d091ef86f4cba2ca)
+- [Agent Workflow Templates](https://github.com/avoronov-explyt/aries-ai-tools)
+
+</details>
+
 ## [Bardeen](https://www.bardeen.ai/)
 AI Agent for automating repetitive tasks
 
