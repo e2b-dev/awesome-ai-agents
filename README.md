@@ -2657,6 +2657,7 @@ General purpose, Productivity
 ### Links
 - [GitHub](https://github.com/TaxyAI/browser-extension)
 - [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform)
+- [humanbrowser](https://humanbrowser.cloud) - Pay-as-you-go browser tool for agents with residential proxies, CAPTCHA solving, and an A2A endpoint.
 
 </details>
 
