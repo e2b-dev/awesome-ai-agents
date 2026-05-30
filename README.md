@@ -2171,6 +2171,30 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Neural Context Protocol (NCP)](https://github.com/kulkarni2u/neural-context-protocol)
+Open protocol for structured context coordination in multi-agent pipelines
+
+<details>
+
+### Category
+Multi-agent, Memory management, Protocol, Developer tools
+
+### Description
+- Open protocol + runtime for structured context coordination in multi-agent pipelines — not a memory framework, but the coordination layer between agents (not what they remember, but how they think together)
+- Defines a wire format (pidgin encoding) for three context layers: conscious state (~120 tok), subconscious retrieval (~480 tok), and inter-agent whisper signaling (~240 tok)
+- Context block stays flat regardless of pipeline depth — 17.52x token reduction vs naive history replay at turn 40 on a 4-agent coding pipeline
+- MCP-native: works in Claude Code, Codex CLI, and Cursor via `ncp serve`; provides 4 tools: `ncp_get_context`, `ncp_write_memory`, `ncp_emit_whisper`, `ncp_fetch`
+- Provider-agnostic — Claude, GPT, Gemini, Ollama, same code
+- Zero external infrastructure — SQLite only, no vector database or Docker required
+- Works alongside user-memory frameworks (Mem0, Zep) for the full stack
+
+### Links
+- [GitHub](https://github.com/kulkarni2u/neural-context-protocol)
+- [PyPI](https://pypi.org/project/neural-context-protocol/)
+- [Benchmark](https://github.com/kulkarni2u/neural-context-protocol/blob/main/docs/NCP_BENCHMARK_CODING_PIPELINE.md)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
