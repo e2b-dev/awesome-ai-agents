@@ -1915,6 +1915,28 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [Macrokit](https://github.com/macrokit/core)
+Run weak/local LLMs on narrow workflows by routing to pre-encoded macros instead of reasoning at runtime
+
+<details>
+
+### Category
+Framework, Build your own
+
+### Description
+
+- **Design-time/runtime split**: a strong model encodes a workflow once as a deterministic, tested "macro"; at runtime a small local model only classifies intent and routes to it — no live multi-step reasoning.
+- **Runs weak/local models reliably**: BYO-model, OpenAI-compatible + Ollama out of the box; keyless in-browser demo.
+- **The distillation gate**: a CLI that fails the build if a session did multi-step work without encoding a macro, so the library compounds.
+- **Not an agent framework in the usual sense**: it removes the runtime reasoning loop rather than scaffolding it ("an agent that routes, not thinks").
+
+### Links
+- [Demo](https://studio.macrokit.dev)
+- [Website + benchmark](https://macrokit.dev)
+- [GitHub](https://github.com/macrokit/core)
+
+</details>
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
