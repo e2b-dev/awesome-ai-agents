@@ -1124,6 +1124,23 @@ and while allowing scientist to oversee and direct the process
 </details>
 
 
+## [Data Workers](https://dataworkers.io)
+
+<details>
+
+### Category
+Multi-agent, Vertical (Data Engineering)
+
+### Description
+
+Open-source (Apache 2.0) autonomous agent swarm of 15 agents specialized for data engineering — catalog, quality, incidents, schema evolution, governance, cost, migration, observability, streaming, and ML. Each agent is a standalone MCP server, so the swarm plugs into Claude Code, Cursor, ChatGPT, and any MCP-compatible client.
+
+### Links
+- [Website](https://dataworkers.io)
+- [GitHub](https://github.com/DataWorkersProject/dataworkers-claw-community)
+- [Docs](https://dataworkers.io/docs)
+</details>
+
 ## [Databerry](https://www.databerry.ai/)
 (Pivoted to Chaindesk) No-code chatbot building
 
