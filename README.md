@@ -4912,6 +4912,28 @@ Coding, research
 
 </details>
 
+## [PixelDesk](https://pixeldesk.ai/)
+Virtual office where humans and AI agents share desks as pixel-art characters
+
+<details>
+
+### Category
+Productivity, Multi-agent, Virtual workspace, MCP-native, Remote work
+
+### Description
+- Top-down pixel-art virtual office where every team member — human or AI agent — appears as a character with a desk, schedule, and persistent memory
+- Plug any AI in 30 seconds: Claude (API/CLI/subscription), GPT, Gemini, Groq, local Llama/Qwen/DeepSeek via OpenAI-compatible endpoints, or any MCP server
+- AI agents get task lists and ready-made integrations: Slack, Notion, Telegram, WhatsApp, WeChat, Google Workspace, n8n
+- Anti-uncanny-valley by design: pixel art keeps the team space playful and renders fast on mobile
+- Free tier, no credit card; multi-locale (en, pt-BR, es, fr, zh, ja, ko, hi)
+
+### Links
+- [Web](https://pixeldesk.ai/)
+- [Public Docs (GitHub)](https://github.com/josueramosleites-collab/pixeldesk-public)
+- [Connect any agent (MCP / REST / SDK)](https://github.com/josueramosleites-collab/pixeldesk-public/blob/main/CONNECT-AGENT.md)
+
+</details>
+
 ## [Powerdrill AI](https://powerdrill.ai/)
 AI agent that completes your data job 10x faster
 
