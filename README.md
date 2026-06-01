@@ -320,6 +320,32 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Anahata ASI](https://github.com/anahata-os/anahata-asi)
+Stateful, air-gapped AI agent container with metabolic memory (CwGC) and JIT-compiled JVM tools.
+
+<details>
+
+![Anahata ASI Logo](https://asi.anahata.uno/assets/logo-transparent.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- **Stateful Runtime**: Passivates the entire execution memory graph to disk via binary Kryo serialization, enabling seamless session recovery across restarts.
+- **Metabolic Memory (CwGC)**: Two-stage Context Window Garbage Collector dynamically soft-prunes older messages and intermediate thinking logs into semantic ghosts to support infinitely running sessions.
+- **The JIT Singularity**: In-process child-first ClassLoader compiles, loads, and executes generated Java classes on-the-fly against your active project classpath and external Maven dependencies.
+- **Granular Security**: Command Center enforces strict, per-tool prompt/always/deny execution permissions, following the 'Butler Principle' of explicit consent.
+- **100% Air-Gapped**: Runs completely offline with local models (via Ollama or vLLM) or routes to premium cloud adapters (Claude 3.7, Gemini 2.0).
+
+### Links
+- [Website](https://asi.anahata.uno)
+- [GitHub](https://github.com/anahata-os/anahata-asi)
+- [Discord](https://discord.gg/gwGWWxPUXE)
+- [Anahata TV (YouTube)](https://www.youtube.com/@anahata108)
+- [Twitter / X](https://x.com/AnahataASI)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
