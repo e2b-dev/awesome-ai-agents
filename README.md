@@ -5589,3 +5589,4 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+- [AI Tools Hub](https://cloud1-d4g787x2022795b0b-1435432994.tcloudbaseapp.com/hub.html) - 21 free AI tools, one-time crypto payment, no subscriptions.
