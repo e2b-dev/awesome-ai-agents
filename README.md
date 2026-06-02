@@ -2427,6 +2427,29 @@ Productivity, Research
 
 </details>
 
+## [Serac](https://github.com/serac-labs/serac)
+Open-source AI build agent for ServiceNow developers
+
+<details>
+
+### Category
+Coding, Domain-specific (ServiceNow)
+
+### Description
+
+- **ServiceNow-native**: Builds scoped apps, business rules, flows, and widgets on the Now Platform, opening an update set for every change.
+- **Story to update set**: Describe a user story in natural language; Serac plans the work and builds the solution, with the developer reviewing before anything ships.
+- **400+ MCP tools**: Acts on ServiceNow through a unified Model Context Protocol tool catalogue.
+- **Bring your own LLM**: Works with Claude, GPT, Gemini, Bedrock, Azure OpenAI, or local Ollama.
+- **Open-source & self-hostable**: CLI/TUI under the Elastic License v2.
+
+### Links
+- [Documentation](https://docs.serac.build)
+- [Website](https://serac.build)
+- [GitHub](https://github.com/serac-labs/serac)
+</details>
+
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
