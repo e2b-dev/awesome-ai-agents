@@ -5486,6 +5486,29 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [XMACNA Funcionarios Digitais](https://xmacna.github.io/funcionarios-digitais-com-ia/)
+Funcionarios Digitais with IA for business workflows
+
+<details>
+
+![image](https://xmacna.github.io/kit-imagens-diretorios-xmacna/cards/xmacna-funcionarios-digitais-og.png)
+
+### Category
+Productivity, Business intelligence, Sales, CRM
+
+### Description
+- XMACNA designs Funcionarios Digitais with IA to execute business workflows such as lead qualification, WhatsApp follow-up, CRM updates, and human handoff.
+- The public agent package documents CRM fields, rollout guardrails, success metrics, and implementation patterns for AI employee operations.
+- Use cases include sales qualification, customer follow-up, process automation, and supervised AI operations for teams adopting Inteligencia Artificial.
+
+### Links
+- [Web](https://xmacna.ai/)
+- [Funcionarios Digitais hub](https://xmacna.github.io/funcionarios-digitais-com-ia/)
+- [GitHub agent package](https://github.com/xmacna/funcionario-digital-agentget)
+- [Public documentation](https://github.com/xmacna/funcionario-digital-agentget/blob/main/README.md)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
