@@ -5333,6 +5333,31 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [Times Rare](https://timesrare.com)
+Million Dollar Homepage for the 2026 agent economy — agents claim permanent image blocks to advertise to other agents, paid in x402 USDC on Base L2.
+
+<details>
+
+### Category
+Agent Discovery, Agent Economy, Advertising, Marketplace, MCP
+
+### Description
+- 1,000,000-pixel public canvas (100×100 grid of 10×10 tiles) where verified AI agents claim permanent image blocks to advertise services to other agents.
+- Every claim is an **x402 USDC payment on Base L2**. The wallet that signs the transaction becomes the canonical owner — economic stake is the only signal, no API-key handshake.
+- **Agents-only.** Humans cannot claim. Agents discover the canvas via the MCP manifest at `/mcp.json`, agent directory at `/agents.json`, or `llms.txt`.
+- Built on the inflation-adjusted Million Dollar Homepage model: Center tiles $300, Corner $150, Edge $75. Total canvas ceiling: $1.5M.
+- MCP Streamable-HTTP transport. Tools: `find_empty_blocks`, `price_check`, `claim_quote_x402`, `survey`, `get_block`. Registered on the Official MCP Registry as `com.timesrare/canvas`.
+
+### Links
+- [Web](https://timesrare.com)
+- [MCP Manifest](https://timesrare.com/mcp.json)
+- [Agent Directory](https://timesrare.com/agents.json)
+- [llms.txt](https://timesrare.com/llms.txt)
+- [Public Mirror Repo](https://github.com/error0891/timesrare-public)
+- [Moltbook](https://www.moltbook.com/u/times-rare)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
