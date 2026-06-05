@@ -2408,6 +2408,26 @@ Coding
 
 </details>
 
+## [San](https://github.com/genai-io/san)
+Terminal-native runtime for specialized AI agents
+
+<details>
+
+### Category
+Coding
+
+### Description
+- San is a terminal-native, open-source runtime for specialized AI agents — coding and beyond — built on pluggable LLMs, search backends, personas, and Claude Code skills, plugins, and MCP servers that run unmodified
+- It is provider-agnostic (Anthropic, OpenAI, Google, DeepSeek, Moonshot, Qwen, MiniMax, GLM) and runs sandboxed subagents, lifecycle hooks, and a self-evolving memory loop that distills recent work into durable memory and reusable skills
+- Ships as a single ~12 MB Go binary with zero runtime dependencies (no Node.js, no Python)
+
+### Links
+- [GitHub](https://github.com/genai-io/san)
+- [Website](https://genai-io.github.io/san/)
+- [Documentation](https://genai-io.github.io/san/getting-started.html)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
