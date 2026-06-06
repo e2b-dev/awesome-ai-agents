@@ -2689,7 +2689,7 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
-## [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)
+## [TWZRD Agent Intel](https://intel.twzrd.xyz)
 Solana-native trust scoring and x402 receipt MCP server for AI agents
 
 <details>
@@ -2705,7 +2705,6 @@ Infrastructure, Web3, Payments
 - Supports A2A and autonomous payment flows via the x402 open protocol.
 
 ### Links
-- [GitHub](https://github.com/twzrd-sol/wzrd-final)
 - [MCP Endpoint](https://intel.twzrd.xyz/mcp)
 - [Intel Portal](https://intel.twzrd.xyz)
 
