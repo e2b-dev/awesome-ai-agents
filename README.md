@@ -5540,6 +5540,7 @@ E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.c
 - Install system packages dynamically during runtime
 - Run shell commands
 - Upload and download files.
+- [vybing.dev](https://vybing.dev) - AI dev tool directory with benchmark-backed rankings; covers coding assistants, LLM APIs, agents, and dev tooling.
 See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchain-and-e2b).
 
 </details>
