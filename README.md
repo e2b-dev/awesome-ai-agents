@@ -732,6 +732,34 @@ General purpose, Productivity
 </details>
 
 
+## [Beever Atlas](https://github.com/Beever-AI/beever-atlas)
+Open-source LLM Knowledge Base for teams — turns Slack/Discord/Teams/Mattermost chat into a typed Neo4j knowledge graph + auto-generated wiki, with native MCP server access.
+
+<details>
+
+![Image](https://raw.githubusercontent.com/Beever-AI/beever-atlas/main/assets/banner.png)
+
+### Category
+Knowledge & Memory, Multi-platform, MCP-native, Self-hosted
+
+### Description
+
+- **Chat-native ingestion**: Pulls history from Slack, Discord, Microsoft Teams, and Mattermost. Resumable, rate-limit aware, on-demand or scheduled.
+- **Typed Neo4j knowledge graph**: Extracts atomic facts, deduplicates, clusters into topic pages with citations. Links people, decisions, and projects across channels.
+- **Auto-generated wiki**: Self-maintaining knowledge base that grows from your team's existing chat. Answers questions in natural language, citations back to source messages.
+- **Native MCP server**: 16-tool catalog exposed over Model Context Protocol — plugs into Claude Code, Cursor, AWS Kiro, Qwen Code. Standalone stdio mode for MCP registries (Glama).
+- **BYO LLM via LiteLLM**: Works with Ollama, Qwen, ERNIE, SEA-LION, Claude, GPT, Gemini — no vendor lock-in.
+- **On-premise deployable**: Apache 2.0, Docker compose, single-tenant by default. Built on Cantonese-LLM stack.
+
+### Links
+- [GitHub](https://github.com/Beever-AI/beever-atlas)
+- [Docs](https://docs.beever.ai/atlas)
+- [Glama MCP listing](https://glama.ai/mcp/servers/Beever-AI/beever-atlas)
+- [Discord](https://discord.gg/VshBCUUX)
+- [X / @Beever_AI](https://x.com/Beever_AI)
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
