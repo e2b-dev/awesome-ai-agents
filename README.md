@@ -2689,6 +2689,28 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [TWZRD Agent Intel](https://github.com/twzrd-sol/wzrd-final)
+Solana-native trust scoring and x402 receipt MCP server for AI agents
+
+<details>
+
+### Category
+Infrastructure, Web3, Payments
+
+### Description
+- TWZRD Agent Intel is production infrastructure for AI agent trust verification on Solana.
+- Provides trust preflight assessment — free checks of an agent's on-chain reputation before interactions.
+- Issues cryptographic x402 payment receipts (signed V5 trust receipts) anchored to Solana transactions.
+- MCP server at https://intel.twzrd.xyz/mcp (Streamable-HTTP) — compatible with any MCP-capable agent.
+- Supports A2A and autonomous payment flows via the x402 open protocol.
+
+### Links
+- [GitHub](https://github.com/twzrd-sol/wzrd-final)
+- [MCP Endpoint](https://intel.twzrd.xyz/mcp)
+- [Intel Portal](https://intel.twzrd.xyz)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
