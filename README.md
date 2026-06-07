@@ -1289,6 +1289,28 @@ Build-your-own
 
 </details>
 
+## [Due Diligence Agents](https://github.com/zoharbabin/due-diligence-agents)
+Multi-agent forensic M&A due diligence over a data room
+
+<details>
+
+![Image](https://raw.githubusercontent.com/zoharbabin/due-diligence-agents/main/docs/marketing/assets/logo-512.png)
+
+### Category
+Multi-agent, Business intelligence, Research, Productivity
+
+### Description
+- 13 specialist agents (Legal, Finance, Commercial, Product/Tech, Cybersecurity, HR, Tax, Regulatory, ESG, plus synthesis & judge roles) read an entire M&A data room across 9 domains.
+- Cross-references findings no single-domain reviewer would connect (e.g. a Legal change-of-control clause against a Finance revenue-concentration risk), then traces every finding to an exact page and a verbatim quote for auditability.
+- A quality gate halts the pipeline rather than emit unverified output; runs locally (documents leave only as API calls to your own LLM provider). Built on the Claude Agent SDK.
+- Produces interactive HTML and 14-sheet Excel reports. Open-source (Apache-2.0): `pip install dd-agents` or run via Docker.
+
+### Links
+- [GitHub](https://github.com/zoharbabin/due-diligence-agents)
+- [Releases](https://github.com/zoharbabin/due-diligence-agents/releases)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
