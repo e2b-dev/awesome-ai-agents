@@ -4296,6 +4296,30 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [HagiCode](https://hagicode.com/)
+Proposal-driven AI coding workspace with multi-agent execution
+
+<details>
+
+![image](https://raw.githubusercontent.com/HagiCode-org/site/main/src/assets/img/readme-sync/workspace-overview.png)
+
+### Category
+Coding, General purpose, Productivity, Multi-agent
+
+
+### Description
+- Proposal-driven AI coding workspace that turns requests into scoped proposals, tasks, implementation, review, and archive.
+- Supports parallel execution across mainstream coding agents and multi-repository coordination in one workspace.
+- Ships with integrated commit workflows, reusable knowledge capture, and desktop or container deployment paths.
+
+### Links
+- [Web](https://hagicode.com/)
+- [Product Overview](https://docs.hagicode.com/product-overview/)
+- [Desktop](https://hagicode.com/desktop/)
+- [GitHub](https://github.com/HagiCode-org)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
