@@ -474,6 +474,29 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Browser-CLI](https://github.com/zmysysz/browser-cli)
+CLI browser automation tool for AI agents, powered by Playwright
+
+<details>
+
+### Category
+Browser automation, AI agent tool
+
+### Description
+
+- **CLI-first**: Control browsers from the command line, designed for AI agents and automation scripts.
+- **Playwright-powered**: Built on Playwright for reliable cross-browser automation.
+- **Stealth mode**: Built-in anti-detection to bypass browser automation detection.
+- **State persistence**: Save and restore login sessions (cookies + localStorage).
+- **AI agent integration**: Designed as a browser tool for AI coding agents like Claude Code, Cursor, and Codex.
+- **Multiple modes**: Headless, headed, and CDP connection to external browsers.
+
+### Links
+- [GitHub](https://github.com/zmysysz/browser-cli)
+- [Documentation](https://github.com/zmysysz/browser-cli#readme)
+</details>
+
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
