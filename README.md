@@ -1652,6 +1652,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Inalpha](https://github.com/mirror29/inalpha)
+Audit-grade quant agents: factor timing, LLM-written strategies, sandboxed evolution, machine-approved orders
+
+<details>
+
+### Category
+Finance, Multi-agent, Research
+
+### Description
+- Conversation-driven multi-agent framework covering the full quant loop: data → research → backtest → paper trading (Next.js + Mastra agents + Python services)
+- Factor timing: agents rank the currently-effective factors by time-series rank IC instead of relying on a fixed indicator set
+- LLM agents write complete Python strategy code, which must pass a sandboxed audit before backtesting
+- Strategies evolve under multi-objective fitness
+- Machine approval on every order: Plan/Exec split with one-time approval tokens — the LLM never gets a direct order-placement path, and every decision is logged and reviewable
+- Multi-market: crypto, US / CN / HK equities, global single stocks and indices, FRED macro data
+
+### Links
+- [GitHub](https://github.com/mirror29/inalpha)
+- [Website](https://inalpha.dev)
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
