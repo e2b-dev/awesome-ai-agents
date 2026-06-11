@@ -959,6 +959,27 @@ Science, Chemistry
 
 </details>
 
+## [Chief of Staff](https://github.com/sinabarimd/chief-of-staff)
+A multi-agent personal operating system: eight Claude-based domain agents + a fully local voice frontend
+
+<details>
+
+### Category
+Personal assistant, Multi-agent, Reference implementation
+
+### Description
+
+- **Multi-agent personal OS**: eight Claude-based domain agents (one per slice of life), coordinated by an executive Notification Agent that consolidates them into calendars, a daily task sync, and a morning briefing.
+- **Fully local voice frontend**: WhisperLive (TensorRT Whisper small.en FP16) + Llama 3.1 8B INT4 via vLLM + Kokoro TTS, all on a single consumer GPU (12 GiB VRAM, ~300 ms time-to-first-audio).
+- **Loop prevention modeled on routing protocols**: causality chain + hop counter + idempotency keys + agent-of-record, enforced independently per inbox plus a weekly executive sweep.
+- **"Voice is a terminal, not a reasoner"**: the 8B never composes content; it reads pre-baked TTS strings verbatim from a shared `daily.json` package, eliminating hallucination-by-paraphrase by moving formatting upstream.
+- **Reference implementation, not a product**: includes the custom Python orchestrator (~2,900 lines), n8n workflow exports, both wake-word models (microWakeWord TFLite + openWakeWord ONNX), latency budget, the architectural decision log, and a reproducible token-cost methodology.
+
+### Links
+- [Article writeup](https://sinabarimd.com/articles/chief-of-staff-personal-operating-system.html)
+- [GitHub](https://github.com/sinabarimd/chief-of-staff)
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
