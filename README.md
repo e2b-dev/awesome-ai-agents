@@ -1289,6 +1289,28 @@ Build-your-own
 
 </details>
 
+## [DvalinCode](https://github.com/arthurpanhku/dvalincode)
+Local-first coding agent: any model, safe by default, small enough to audit
+
+<details>
+
+![Image](https://raw.githubusercontent.com/arthurpanhku/dvalincode/main/assets/hero.png)
+
+### Category
+Coding, Open Source
+
+### Description
+- Open-source (MIT) local-first AI coding agent that runs any OpenAI-compatible model — Ollama, DeepSeek, Claude via OpenRouter, Groq — with zero vendor lock-in
+- Three trust modes: Chat (strict read-only Q&A), Cowork (numbered plan → per-file diff approval), Code (autonomous with undo stack + Routines)
+- Safe by default: macOS `sandbox-exec` for shell commands, `.dvalincodeignore` for secrets, explicit approval flow for write operations
+- Embeddable agent runtime exposing a REST + WebSocket API; the web GUI is its own reference consumer
+- ~25MB single binary, 7 runtime dependencies, TypeScript, v0.3.0
+
+### Links
+- [GitHub](https://github.com/arthurpanhku/dvalincode)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
