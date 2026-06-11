@@ -1036,6 +1036,27 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [completely](https://github.com/23ag1/completely)
+Quality-first harness for autonomous coding agents — done is earned, not asserted
+
+<details>
+
+### Category
+Coding · Developer tools
+
+### Description
+- A Claude Code plugin harness that makes an autonomous coding loop trustworthy: an independent, read-only **default-FAIL evaluator** sits in the close path — every acceptance criterion stays FAIL until evidence is re-run, so tasks close on proof rather than agent self-report
+- Deterministic gate hooks the agent cannot talk past: per-edit lint/type gate, dangerous-command block, edit-time write-zone fencing, commit-before-close, binding reviewer findings
+- Tasks live in a Beads queue (single source of truth); a fresh-context worker runs per task, in parallel over disjoint write-zones, with heartbeat-based orphan recovery and a post-batch integration gate
+- Evaluator dimensions: path-exercised (the real runtime path ran, with a negative control), exercised-as-a-user, and code-read (the grader reads the diff itself)
+- Built through its own engine; behavior pinned by a 77-test contract suite
+
+### Links
+- [GitHub](https://github.com/23ag1/completely)
+- [Field report: Done is earned](https://github.com/23ag1/completely/blob/main/docs/DONE-IS-EARNED.md)
+
+</details>
+
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
