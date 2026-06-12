@@ -5589,3 +5589,6 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+
+- [PR Pilot](https://github.com/tcconnally/pr-pilot) - AI-native code quality service. 5 autonomous agents (Reviewer, Fixer, Tester, Verifier, Escalator) handle the entire PR review pipeline autonomously.
