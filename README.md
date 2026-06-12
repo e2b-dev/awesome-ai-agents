@@ -712,6 +712,25 @@ Data analysis
 </details>
 
 
+## [Boardroom](https://github.com/jamiejhouston-commits/boardroom)
+Run a local autonomous company of AI agents from iPhone
+
+<details>
+
+### Category
+General purpose, Multi-agent, Productivity
+
+### Description
+- iOS app that turns Hermes Agent running on a Mac into an autonomous company controlled from an iPhone.
+- Agents scout market trends, debate in a boardroom, produce deliverables on the Mac, and request owner greenlights for key decisions.
+- Supports agent voice calls, fast chat, scheduled meetings, prep memos, and a CEO/department/specialist org structure.
+- Local-first setup using iPhone, Mac, and Hermes Agent.
+
+### Links
+- [GitHub](https://github.com/jamiejhouston-commits/boardroom)
+
+</details>
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
