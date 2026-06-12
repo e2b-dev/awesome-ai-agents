@@ -3781,6 +3781,24 @@ Coding
 
 
 
+## [CreatorSkills](https://creatorskills.co)
+Marketplace of downloadable AI skills for content creators
+
+<details>
+
+### Category
+Content creation, General purpose
+
+### Description
+CreatorSkills is a marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Skills work with Claude and ChatGPT.
+
+### Links
+- [Website](https://creatorskills.co)
+
+</details>
+
+
+
 ## [Cursor](https://www.cursor.so/)
 AI-powered Code Editor with VSCode-like UI
 
