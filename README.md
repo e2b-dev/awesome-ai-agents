@@ -4934,6 +4934,30 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 
 </details>
 
+## [PrimeClaws](https://primeclaws.com)
+Managed cloud hosting for the OpenClaw Hermes autonomous AI agent
+
+<details>
+
+![image](https://primeclaws.com/logo.png)
+
+### Category
+Productivity, DevOps, AI hosting, Autonomous agents
+
+### Description
+- **Managed hosting for OpenClaw Hermes**: Run your autonomous AI agent 24/7 in the cloud with one-click deployment — no Mac mini, no Docker, no server management.
+- **Free frontier AI models included**: Every plan includes GPT-5.4, Mistral Large 3, Kimi K2.5, and Deepseek V3.2 at no extra cost. Bring your own API key for even more flexibility.
+- **Always-on with auto-recovery**: Auto-restart on crash, automatic updates, health monitoring, and security patches — your agent never sleeps.
+- **Multi-channel connectivity**: Connect via Telegram, WhatsApp, Slack, Discord, Signal, or iMessage.
+- **Full privacy**: Isolated Docker containers, persistent memory, SSH terminal access, and export-anytime data ownership.
+
+### Links
+- [Web](https://primeclaws.com/)
+- [GitHub](https://github.com/vadimen/awesome_openclaw_hosting_vps_providers)
+- [Twitter](https://x.com/Vad1c111)
+
+</details>
+
 ## [Proficient AI](https://proficientai.com)
 Interaction APIs and SDKs for building AI agents
 <details>
