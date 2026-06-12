@@ -781,6 +781,26 @@ Coding
 
 </details>
 
+## [Boardroom](https://github.com/jamiejhouston-commits/boardroom)
+Boardroom: iOS command center that turns Hermes Agent into an autonomous AI company with boardroom debates, approvals, and Demo Day shipping.
+
+<details>
+
+### Category
+General purpose, Multi-agent, Autonomous agent, Productivity
+
+### Description
+
+- **Autonomous company workflow**: Scout → research → boardroom debate → owner greenlight → build → Demo Day ship/no-ship decision.
+- **Human-in-the-loop control**: Budgets, quiet hours, and a kill switch keep the agent organization under owner control.
+- **iPhone command center**: Chat, voice calls, boardroom view, scheduled meetings, memos, and approvals from iOS.
+- **Local-first relay**: Pairs an iPhone with Hermes Agent running on a Mac over the local network.
+- **Multi-agent organization**: CEO, department heads, specialists, personas, offices, debates, and recorded dissent.
+
+### Links
+- [GitHub](https://github.com/jamiejhouston-commits/boardroom)
+</details>
+
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
