@@ -1289,6 +1289,30 @@ Build-your-own
 
 </details>
 
+## [Eidentic](https://eidentic.dev/)
+TypeScript SDK for AI agents with self-improving memory
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/292272603?v=4)
+
+### Category
+Build-your-own (agent-building frameworks and platforms), SDK for AI apps
+
+### Description
+- Eidentic is an open-source (Apache-2.0) TypeScript SDK for AI agents with self-improving memory and production fundamentals built in.
+- Memory is a four-tier engine: lexical + vector recall, self-editing memory blocks, a temporal knowledge graph (facts carry validity over time; contradictions resolve instead of piling up), and sleep-time consolidation. Recall returns citations.
+- Production fundamentals are first-class: durable checkpoint/resume, enforced cost ceilings, rate limits and quotas, multi-tenant isolation, sandboxed tools, one-call GDPR erasure, and an eval harness that gates CI.
+- Ports-and-adapters: swap the store (SQLite/libSQL/Postgres), vector backend (pgvector/Qdrant/LanceDB/Pinecone), or model without touching agent code. MCP (with OAuth) + A2A; React hooks and a Next.js handler. Runs on Node, Bun, Deno, and the edge.
+
+### Links
+- [Web](https://eidentic.dev/)
+- [GitHub](https://github.com/eidentic/eidentic)
+- [Docs](https://docs.eidentic.dev/)
+- [npm](https://www.npmjs.com/package/eidentic)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
