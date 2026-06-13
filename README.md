@@ -813,6 +813,24 @@ Coding
 
 </details>
 
+## [Boardroom](https://github.com/jamiejhouston-commits/boardroom)
+Don't use an AI. Employ one. An iOS command center for running Hermes-style AI agent organizations.
+
+<details>
+
+### Category
+General purpose, Multi-agent, Productivity
+
+### Description
+- Provides a boardroom-style interface for organizing AI agents as an operating team.
+- Built as a SwiftUI iOS app for owners who want to supervise agent roles, workstreams, and decisions.
+- Focuses on operator control: the user stays Chairman while agents execute coordinated work.
+- Designed around Hermes-style agent organizations and local-first founder workflows.
+
+### Links
+- [GitHub](https://github.com/jamiejhouston-commits/boardroom)
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
