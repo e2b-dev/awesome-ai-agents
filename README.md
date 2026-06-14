@@ -1422,6 +1422,28 @@ Coding
 
 </details>
 
+## [Future AGI](https://github.com/future-agi/future-agi)
+Open-source platform for engineering and optimizing self-improving AI agents.
+
+<details>
+
+### Category
+Observability, Evaluation
+
+### Description
+- Simulate edge cases with persona- and scenario-driven testing 
+- Evaluate production behavior continuously with 70+ eval metrics
+- Protect users from unsafe outputs in real time with guardrails
+- Auto-optimize prompts and agents from real production failures
+- OpenTelemetry-native tracing across 50+ frameworks
+
+### Links
+- [Website](https://futureagi.com/)
+- [Documentation](https://docs.futureagi.com/)
+- [GitHub](https://github.com/future-agi/future-agi)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
