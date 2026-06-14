@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OpenAcme](https://github.com/sandydasari/openacme)
+Local-first AI workforce platform
+
+<details>
+
+### Category
+Multi-agent, Autonomous Agents, Local-first
+
+### Description
+- Named agents with roles, personas, tools, memory, and per-agent MCP servers
+- Agents delegate tasks to each other via a shared task board with dependency tracking
+- Supports Anthropic, OpenAI, Google, OpenRouter, Ollama — one model per agent
+- Sign in with an existing Claude Pro or ChatGPT Plus subscription — no extra API bill
+- All sessions, tasks, memories, and OAuth tokens stay on your machine; no telemetry
+- Web UI, terminal TUI, and a background daemon with launchd/systemd auto-start
+
+### Links
+- [GitHub](https://github.com/sandydasari/openacme)
+
+</details>
+
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
