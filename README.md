@@ -2197,7 +2197,7 @@ Science, Multimodal, Social, Multi-agent
 </details>
 
 ## [OpenAcme](https://github.com/sandydasari/openacme)
-Local-first AI workforce platform
+An AI workforce. You're in charge.
 
 <details>
 
@@ -2205,11 +2205,13 @@ Local-first AI workforce platform
 Multi-agent, Autonomous Agents, Local-first
 
 ### Description
-- Named agents with roles, personas, tools, memory, and per-agent MCP servers
-- Agents delegate tasks to each other via a shared task board with dependency tracking
-- Supports Anthropic, OpenAI, Google, OpenRouter, Ollama — one model per agent
-- Sign in with an existing Claude Pro or ChatGPT Plus subscription — no extra API bill
-- All sessions, tasks, memories, and OAuth tokens stay on your machine; no telemetry
+Not a single assistant. Not a fixed team of four. A workforce — named agents with roles, models, tools, and memory — that scales the way you want and self-organizes through delegation. Hand the top of the org chart a goal; it breaks the work down, assigns it, and runs it. You steer.
+
+- Each agent has a role, a persona, tools, memory, and its own MCP servers
+- Agents assign tasks to each other via a shared board; the scheduler wakes coworkers when dependencies clear
+- One model per agent: Anthropic, OpenAI, Google, OpenRouter, Ollama, or any OpenAI-compatible endpoint
+- Sign in with an existing Claude Pro or ChatGPT Plus subscription — the plan drives the whole workforce, no extra API bill
+- Local-first: sessions, tasks, memories, and OAuth tokens stay on your machine; no telemetry, no cloud sync
 - Web UI, terminal TUI, and a background daemon with launchd/systemd auto-start
 
 ### Links
