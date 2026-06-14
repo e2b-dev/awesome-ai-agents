@@ -781,6 +781,26 @@ Coding
 
 </details>
 
+## [Boardroom](https://github.com/jamiejhouston-commits/boardroom)
+Turn your AI agent into an autonomous company controlled from iPhone
+
+<details>
+
+### Category
+Multi-agent orchestration / personal AI company
+
+### Description
+- iOS app for running a local, Hermes-powered multi-agent organization from an iPhone.
+- Uses a boardroom workflow: scout market trends, research opportunities, debate options, request owner greenlight, build deliverables, and schedule Demo Day.
+- Includes voice calls, fast chat, out-loud agent debates, Apple Calendar meetings/memos, budgets, quiet hours, and kill-switch controls.
+- Runs through a Mac relay with Hermes Agent; no third-party cloud account or telemetry required.
+
+### Links
+- [GitHub Repository](https://github.com/jamiejhouston-commits/boardroom)
+- [Hermes Agent](https://hermes-agent.nousresearch.com)
+
+</details>
+
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
