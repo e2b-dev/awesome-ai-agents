@@ -2196,6 +2196,31 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OpenClacky](https://openclacky.com)
+The most token-efficient open-source AI agent
+
+<details>
+
+### Category
+Coding agent, General purpose, Open source
+
+### Description
+
+- **Most token-efficient AI agent**: Achieves a 7-day global Prompt Cache hit rate of **93.8%** through frozen system prompts, dual cache markers, idle-time context compression (Insert-then-Compress), and a stable 16-tool schema — delivering Claude Code-class task execution at **~0.8× the cost**.
+- **BYOK + full model freedom**: Bring your own API key and connect any OpenAI-compatible endpoint — Claude, GPT, DeepSeek, Kimi, Gemini, Minimax, OpenRouter, or self-hosted models.
+- **16 core tools + Skill extensions**: File ops, terminal, web search, browser automation, task manager, and more. Extend via Skills — reusable agent workflow packages described in plain language.
+- **Long-term memory & session persistence**: Remembers context across sessions for continuous, stateful workflows.
+- **IM integrations**: Feishu, WeCom, Discord, Telegram, DingTalk — run agents directly from your team chat.
+- **Scheduled (cron) tasks**: Set agents to run autonomously on a schedule without manual triggers.
+- **Browser automation**: Full Chrome DevTools Protocol support for real-browser automation tasks.
+- **MIT licensed, local-first**: No vendor lock-in, no telemetry, runs entirely on your machine.
+
+### Links
+- [Website](https://openclacky.com)
+- [GitHub](https://github.com/clacky-ai/open-clacky)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
