@@ -70,6 +70,25 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [ADA](https://github.com/kvpratama/agentic-data-analytics)
+Multi-agent EDA workflow
+
+<details>
+
+### Category
+Data analysis, Multi-agent
+
+### Description
+- An orchestrator delegates to three specialized subagents — profiler, cleaner, and analyst — to profile a CSV dataset, fix data quality issues, and produce an insights report with visualizations.
+- Agents run inside isolated Modal microVMs for safe execution of LLM-generated code.
+- Includes an interactive CLI with thread-scoped persistence and LangGraph Studio integration.
+- SubAgentMiddleware patterns and skill files are independently reusable in other LangGraph projects.
+
+### Links
+- [GitHub](https://github.com/kvpratama/agentic-data-analytics)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
