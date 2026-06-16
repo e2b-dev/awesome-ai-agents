@@ -813,6 +813,31 @@ Coding
 
 </details>
 
+## [BuyWhere](https://github.com/BuyWhere/buywhere-mcp)
+AI shopping agent with live product search, price comparison, and affiliate deeplinks
+
+<details>
+
+### Category
+E-commerce / Shopping
+
+### Description
+- MCP server and agent skill that exposes a cross-border product catalog (1.5M+ products across Shopee, Lazada, Amazon, Walmart, and 20+ retailers in Singapore, SEA, and the US).
+- Live price comparison and inventory signals from 2,000+ merchants in a single call.
+- Native affiliate deeplink generation with currency formatting and regional routing.
+- Six production tools: `search_products`, `get_product`, `get_price`, `compare_prices`, `get_affiliate_link`, `get_catalog`.
+- Universal MCP transport (stdio + streamable-HTTP at `https://api.buywhere.ai/mcp`).
+- Companion packages: `@buywhere/langchain` (npm), `@buywhere/paperclip` (npm), `llama-index-tools-buywhere` (PyPI), `@buywhere/n8n-nodes-mcp` (npm), `@buywhere/mcp-server` (npm).
+
+### Links
+- [BuyWhere Homepage](https://buywhere.ai)
+- [MCP Server Repository](https://github.com/BuyWhere/buywhere-mcp)
+- [npm: @buywhere/mcp-server](https://www.npmjs.com/package/@buywhere/mcp-server)
+- [PyPI: llama-index-tools-buywhere](https://pypi.org/project/llama-index-tools-buywhere/)
+- [API Documentation](https://buywhere.ai/docs)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
