@@ -5513,6 +5513,25 @@ Build-your-own, Productivity, General purpose
 
 
 
+## Local Code Execution Backends
+
+### [cowork-to-code-bridge](https://github.com/abhinaykrupa/cowork-to-code-bridge)
+
+<details>
+
+MCP server exposing Claude Code subscription as local execution backend for agents. Enables agents to escalate code execution tasks locally without API key management or separate billing.
+
+**Features:**
+- JSONRPC 2.0 via stdio (MCP standard)
+- Zero network ports, token-authenticated
+- Full local context (repos, environment, secrets)
+- Production-ready (570 lines, 9 unit tests)
+- Used in Crew.ai, Hermes, Open Claw
+
+**Use case:** Agents orchestrating multi-step code tasks (testing, debugging, building) with full repo context and no separate API costs.
+
+</details>
+
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
