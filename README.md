@@ -2322,6 +2322,31 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Pinchy](https://github.com/heypinchy/pinchy)
+Self-hosted enterprise platform for running AI agents with permissions, roles, and an audit trail
+
+<details>
+
+ ![image](https://heypinchy.com/screenshots/chat-interface.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Enterprise layer on top of OpenClaw: adds the multi-user accounts, governance, and deployment story the runtime leaves out
+- Per-agent tool permissions (allow-list): each agent may use only the tools you grant it, a "read Odoo sales orders" tool, not raw shell access
+- Role-based access control over who can use which agent, with personal and shared agents per team
+- Cryptographically signed (HMAC) audit trail of every agent action: who, what, when
+- Self-hosted and offline-capable: Anthropic, OpenAI, Google, or fully local models via Ollama; one Docker Compose deployment
+- Reach agents through a web chat UI or Telegram; integrates with Odoo, Gmail, and web search
+
+### Links
+- [Website](https://heypinchy.com)
+- [Documentation](https://docs.heypinchy.com)
+- [GitHub](https://github.com/heypinchy/pinchy)
+- Author: [Clemens Helm](https://clemenshelm.com)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
