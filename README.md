@@ -5210,6 +5210,62 @@ General purpose
 
 </details>
 
+## [SqueezeOS](https://github.com/Timwal78/SqueezeOS)
+Institutional market intelligence MCP server for autonomous AI trading agents
+
+<details>
+
+### Category
+Multi-modal Agents / Finance / MCP Server
+
+### Description
+SqueezeOS is a 33-tool institutional-grade MCP server exposing short-squeeze detection, FTD cycle analysis, earnings intelligence, and real-time market signals. AI agents connect via streamable-HTTP and pay per-call via x402 on XRPL/RLUSD or Base/USDC. Free tier: demo_council, signal_preview, convergence_check.
+
+### Links
+- [GitHub](https://github.com/Timwal78/SqueezeOS)
+- [MCP Endpoint](https://squeezeos-api.onrender.com/mcp)
+- [Glama](https://glama.ai/mcp/servers/Timwal78/SqueezeOS)
+
+</details>
+
+---
+
+## [SML Agent OS](https://github.com/Timwal78/sml-agent-os)
+Claude Code native agentic OS for institutional trading and content operations
+
+<details>
+
+### Category
+Multi-modal Agents / Developer Tools / Agentic OS
+
+### Description
+SML Agent OS is an institutional-grade agentic system built on Claude Code. Features persistent memory via CLAUDE.md, self-improving skills, multi-goal CLI (T.I.R., audit, backtest, squeeze scan, KDP, Discord), scheduled tasks via Render cron, and an approval queue with decision log. BYOK — your keys, your control.
+
+### Links
+- [GitHub](https://github.com/Timwal78/sml-agent-os)
+
+</details>
+
+---
+
+## [ZeroQuery Protocol](https://github.com/Timwal78/zeroquery-protocol)
+Proof-of-Intent open protocol for autonomous AI agent identity
+
+<details>
+
+### Category
+Multi-modal Agents / Infrastructure / Identity
+
+### Description
+ZeroQuery is an open Proof-of-Intent protocol enabling autonomous AI agents to declare, sign, and verify intent before executing paid actions. Solves agent authentication for x402 and MCP payment rails without OAuth or API keys. x402-compatible open spec.
+
+### Links
+- [GitHub](https://github.com/Timwal78/zeroquery-protocol)
+
+</details>
+
+---
+
 ## [Superluminal](https://superluminal.dev)
 AI copilot to your product's data dashboard
 
