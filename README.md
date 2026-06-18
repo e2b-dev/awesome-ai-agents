@@ -70,6 +70,29 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [AetherOS](https://github.com/AFKmoney/aether-engine)
+A Sovereign Rust Inference Engine & Flagship Agentic OS
+
+<details>
+
+![Image](https://github.com/AFKmoney/aether-engine/raw/main/desktop_screenshot.png)
+
+### Category
+General purpose, Build your own, Multi-agent, Supports open-source models, Coding
+
+### Description
+- **100% Offline Sovereign Execution**: Designed for local offline models (1.2B to 8B GGUFs) executing on edge hardware at zero latency and zero API cost.
+- **Twin Duet Parallel Buffers (`Innovation #14`)**: Runs two communicating models simultaneously in parallel, streaming through CPU L1/L2 ring buffers with zero garbage collection memory leaks.
+- **Triple Cognitive Reactor**: Recurrent thought rollouts evaluated by Asymmetric Tensor Dueling (ATD: Likelihood vs Structural Entropy collision) and Monte Carlo Thought Search (MCTS).
+- **Nano-SIREN Recurrent Hat (`Innovation #13`)**: Periodic sine activation projections (`sin(w*W*x + b)`) for exact derivative phase synchronization.
+- **Active Secure VFS Side-Effects**: Integrated Virtual File System (VFS) and 24 active tools (`git_orchestrate`, sandboxed evaluation, autonomous planning).
+- **Interactive Cyber Web IDE (`GET /desktop`)**: Beautiful dark integrated workspace with interactive Akasha network visualizers and capabilities docks.
+
+### Links
+- [GitHub](https://github.com/AFKmoney/aether-engine)
+- [Official Release Notes](https://github.com/AFKmoney/aether-engine/blob/main/RELEASE_NOTES.md)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
