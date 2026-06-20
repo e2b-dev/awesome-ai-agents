@@ -2963,6 +2963,27 @@ General purpose
 
 # Closed-source projects and companies
 
+## [AFK](https://afk.mooglest.com)
+Browser-based command center for persistent coding-agent sessions
+
+<details>
+
+![image](https://afk.mooglest.com/pwa-512.png)
+
+### Category
+Software development, Productivity, General purpose
+
+### Description
+- Browser UI for supervising persistent coding-agent sessions.
+- Connects to a daemon on your machine so agents can work on local or remote project directories.
+- Supports bring-your-own API keys across multiple LLM providers, model selection per session, tool usage, diffs, session history, sub-agents, and workspace isolation.
+
+### Links
+- [Web](https://afk.mooglest.com)
+- [Docs](https://docs.mooglest.com)
+
+</details>
+
 ## [Ability AI](https://ability.ai/)
 Secure, People-Centric Autonomous AI Agents
 
