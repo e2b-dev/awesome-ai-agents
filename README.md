@@ -1355,6 +1355,26 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [EGC](https://github.com/Fmarzochi/EGC)
+Persistent cross-session memory for AI coding agents
+
+<details>
+
+### Category
+Developer tools, Memory, AI coding agents
+
+### Description
+- Cross-session persistent memory layer for AI coding agents (Claude Code, Cursor, Gemini CLI, Codex, Windsurf, Amp, Kiro, and more)
+- SQLite-backed state survives context resets and keeps 13+ AI coding tools in sync
+- Local-first MCP server with persistent memory across sessions and tools
+- Install with `npm install -g @egchq/egc`
+
+### Links
+- [GitHub](https://github.com/Fmarzochi/EGC)
+- [npm](https://www.npmjs.com/package/@egchq/egc)
+
+</details>
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
