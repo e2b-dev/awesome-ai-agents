@@ -5589,3 +5589,25 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## [GeneTech Knowledge Engine](https://genetech.tools)
+
+### Category
+Knowledge Base / RAG / Data API
+
+### Description
+12 domain-specific structured knowledge bases with 4,000+ entities for AI agent consumption. Free REST API with OpenAPI 3.1 spec, llms.txt for AI agent discovery, and MCP-compatible endpoints. Domains include gene technology, quantum computing, nuclear energy, brain science, deep-sea tech, exo-science, alien minerals, new energy, life science, AI agent ecosystem, robot parts, and TCM.
+
+### Features
+- Free REST API (30 calls/hour, no signup)
+- 4,000+ structured JSON entities across 12 domains
+- OpenAPI 3.1 specification
+- llms.txt for AI agent auto-discovery
+- Cross-domain entity references
+- MCP-compatible endpoints
+
+### Links
+- [Website](https://genetech.tools)
+- [GitHub](https://github.com/lm203688/kb-ecosystem)
+- [API Docs](https://genetech-tools.pages.dev/api/openapi.json)
+- [Try API](https://genetech-tools.pages.dev/api/entities.json)
