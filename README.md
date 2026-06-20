@@ -813,7 +813,7 @@ Coding
 
 </details>
 
-## [BuyWhere](https://github.com/BuyWhere/buywhere-mcp)
+## [BuyWhere](https://github.com/BuyWhere/buywhere-mcp?utm_source=directory&utm_medium=referral&utm_campaign=june30_25k&utm_content=e2b_awesome_ai_agents)
 AI shopping agent with live product search, price comparison, and affiliate deeplinks
 
 <details>
@@ -830,11 +830,11 @@ E-commerce / Shopping
 - Companion packages: `@buywhere/langchain` (npm), `@buywhere/paperclip` (npm), `llama-index-tools-buywhere` (PyPI), `@buywhere/n8n-nodes-mcp` (npm), `@buywhere/mcp-server` (npm).
 
 ### Links
-- [BuyWhere Homepage](https://buywhere.ai)
-- [MCP Server Repository](https://github.com/BuyWhere/buywhere-mcp)
+- [BuyWhere Homepage](https://buywhere.ai?utm_source=directory&utm_medium=referral&utm_campaign=june30_25k&utm_content=e2b_awesome_ai_agents)
+- [MCP Server Repository](https://github.com/BuyWhere/buywhere-mcp?utm_source=directory&utm_medium=referral&utm_campaign=june30_25k&utm_content=e2b_awesome_ai_agents)
 - [npm: @buywhere/mcp-server](https://www.npmjs.com/package/@buywhere/mcp-server)
 - [PyPI: llama-index-tools-buywhere](https://pypi.org/project/llama-index-tools-buywhere/)
-- [API Documentation](https://buywhere.ai/docs)
+- [API Documentation](https://buywhere.ai/docs?utm_source=directory&utm_medium=referral&utm_campaign=june30_25k&utm_content=e2b_awesome_ai_agents)
 
 </details>
 
