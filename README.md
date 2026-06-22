@@ -5588,4 +5588,13 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 
+
+## [AgentGuard](https://github.com/dockfixlabs/agentguard)
+
+Autonomous security scanner for AI agents. Detects prompt injection, tool abuse, data exfiltration, and all 10 OWASP ASI Top 10 vulnerabilities in agent code. MCP server mode included.
+
+- GitHub: https://github.com/dockfixlabs/agentguard
+- PyPI: pip install dfx-agentguard
+- License: MIT
+
 -->
