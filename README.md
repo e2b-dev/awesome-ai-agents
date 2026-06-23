@@ -114,6 +114,22 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentCourt](https://github.com/vbkotecha/agentcourt-api)
+
+### Category
+
+Agent infrastructure
+
+### Description
+
+Policy-driven dispute resolution API for AI agent commerce. When agents transact via x402 and things go wrong (schema mismatch, non-delivery, SLA breach), AgentCourt evaluates structured evidence and returns a deterministic ruling in under 500ms. 7 policy templates, 39 rules, $0.05/dispute on Base. Non-custodial, MIT licensed, with Python SDK, JavaScript SDK, MCP server, and ElizaOS plugin.
+
+### Links
+
+- [GitHub](https://github.com/vbkotecha/agentcourt-api)
+- [API Docs](https://agentcourt-api-production.up.railway.app/docs)
+- [Live Demo](https://github.com/vbkotecha/agentcourt-api/blob/main/demo.py)
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
