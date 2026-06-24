@@ -2196,6 +2196,21 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+
+## [Nobulex](https://github.com/arian-gogani/nobulex)
+
+### Category
+Governance, Compliance, Audit
+
+### Description
+Cryptographic receipt layer for AI agents. Produces Ed25519-signed, JCS-canonical (RFC 8785) bilateral receipts for every agent action — pre-execution admission + post-execution outcome, hash-chained. Independently verifiable without operator trust. EU AI Act Article 12 compliance primitive.
+
+### Links
+- [GitHub](https://github.com/arian-gogani/nobulex)
+- [PyPI](https://pypi.org/project/nobulex/) — `pip install nobulex`
+- [npm](https://www.npmjs.com/package/@nobulex/core) — `npm install @nobulex/core`
+- [Demo](https://nobulex.com/demo)
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
