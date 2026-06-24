@@ -2738,6 +2738,26 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [VibeKit](https://vibekit.bot)
+Phone-first AI app builder where every app gets its own persistent coding agent
+<details>
+
+### Category
+Coding
+
+### Description
+- Each app you create gets its own persistent AI coding agent that builds, hosts, and keeps improving it over time — not a one-shot generation you babysit
+- Driven from a native iOS app, Telegram, or CLI; the agent runs server-side, so it keeps working when your device sleeps or your connection drops
+- Every app ships with a git repo and a live domain
+- BYOK: bring your own Anthropic or OpenAI key with no markup, or pay-as-you-go credits; free tier to start
+- Also ships an MCP server (vibekit-mcp) and a remote-agent CLI (vibekit-agent)
+
+### Links
+- [Website](https://vibekit.bot)
+- [iOS App](https://apps.apple.com/us/app/vibekit-agent-devops/id6760206636)
+- [npm: vibekit-mcp](https://www.npmjs.com/package/vibekit-mcp)
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
