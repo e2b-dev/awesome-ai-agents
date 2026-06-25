@@ -5511,6 +5511,29 @@ Build-your-own, Productivity, General purpose
   
 </details>
 
+## [Zara Agent](https://github.com/aldok10/zara-agent-opc)
+Empathetic AI engineering partner with cognitive memory and multi-agent orchestration
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- Zara is a persistent, self-improving AI engineering partner built on the Model Context Protocol (MCP).
+- Multi-agent orchestration: 10 coordinated agents (orchestrator + 9 domain specialists) with servant leadership.
+- 3-layer cognitive memory (episodic/semantic/procedural) with MiniLM-L6-v2 semantic embeddings.
+- 132-signal adaptive skill routing across 27+ project skills and 100+ global skills.
+- Self-improving: outcome-weighted reflection, micro-tool crystallization, blindspot detection.
+- Trust-calibrated: source-gated ceilings, evidence-required success claims, temporal decay.
+- Multi-agent debate for complex decisions. Doom-loop detection forces strategy pivots.
+- 24+ MCP tools across 9 domains. SQLite + FTS5. Zero external service dependencies.
+
+### Links
+- [GitHub](https://github.com/aldok10/zara-agent-opc)
+
+</details>
+
 
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
