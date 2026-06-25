@@ -3319,6 +3319,27 @@ Data analysis, Business intelligence
 
 </details>
 
+## [Atris](https://atris.ai)
+An operating system for AI work that turns any repo or business into a workspace agents operate
+
+<details>
+
+### Category
+General purpose, Coding, Business ops, Multi-agent
+
+### Description
+- Turns any repo or business into a workspace an agent reads before it acts: shared context, a navigation map, durable tasks, and daily logs.
+- Runs a strict plan, do, review loop where work ends on a real verification check instead of a promise.
+- Keeps durable local task state, project memory, skills, and team members, and runs the same way on your machine or a hosted cloud computer.
+- Install with `npm i -g atris`, then `atris signup <handle>` and `atris play`.
+
+### Links
+- [Website](https://atris.ai)
+- [GitHub](https://github.com/atrislabs/atris)
+- [npm](https://www.npmjs.com/package/atris)
+
+</details>
+
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
