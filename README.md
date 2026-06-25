@@ -2273,6 +2273,28 @@ Coding, general purpose
 </details>
 
 
+## [OpenDraft](https://github.com/federicodeponte/opendraft)
+OpenDraft: open-source multi-agent engine for drafting academic research papers
+
+<details>
+
+### Category
+Multi-agent, Research, Writing
+
+### Description
+- **19 specialized agents** collaborate across research, structure, writing, citation, and export phases to produce long-form academic drafts (10,000–20,000+ words).
+- **Verified citations**: every source is checked against CrossRef, OpenAlex, Semantic Scholar, and arXiv, so references are never hallucinated.
+- **Model-agnostic**: runs on Gemini, OpenAI, or Anthropic models via your own API keys.
+- **Export to PDF, Microsoft Word, and LaTeX.**
+- A hosted version is available at [OpenPaper.dev](https://openpaper.dev?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-ai-agents).
+
+### Links
+- [GitHub](https://github.com/federicodeponte/opendraft)
+- [Website](https://openpaper.dev?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome-ai-agents)
+
+</details>
+
+
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
 
