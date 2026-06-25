@@ -5117,6 +5117,24 @@ Productivity, Content creation
 
 </details>
 
+## [SeaOtter](https://seaotter.ai/?utm_source=awesome-ai-agents)
+Hostile-by-default critic agents that grade AI agent work before it ships
+<details>
+
+### Category
+Evaluation, Developer tools
+
+### Description
+- OtterScore is a hostile-by-default critic that grades AI agent output (code, docs, decisions — any modality) and its trajectory against your acceptance policy
+- Returns a score, a band (ship / route to fix / quarantine / block), located flaws, and concrete fixes, so agents iterate until they clear the gate
+- Free self-serve API key + a hosted MCP server
+
+### Links
+- [Web](https://seaotter.ai/?utm_source=awesome-ai-agents)
+- [Docs](https://seaotter.ai/developers)
+
+</details>
+
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
