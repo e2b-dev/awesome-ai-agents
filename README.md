@@ -997,6 +997,29 @@ Coding
 
 </details>
 
+
+## [cc-code](https://github.com/cc-claws/cc-code)
+Open-source Rust terminal coding agent, Claude Code compatible
+
+<details>
+
+### Category
+Coding, CLI, Terminal
+
+### Description
+- Rust-native terminal coding assistant with ~50MB memory usage
+- Fully compatible with Claude Code configurations (.claude/, agents, skills, hooks, MCP)
+- Supports multiple open-source models: DeepSeek, Xiaomi MiMo, Zhipu GLM
+- Prompt caching with 95-99% hit rate for dramatic cost savings
+- ACP protocol for IDE integration (Zed, etc.)
+
+### Links
+- [GitHub](https://github.com/cc-claws/cc-code)
+- [npm](https://www.npmjs.com/package/@cc-claw/code)
+- [Website](https://cc-claw.com)
+
+</details>
+
 ## [Cody by ajhous44](https://github.com/ajhous44/cody)
 Query and navigate your codebase
 
