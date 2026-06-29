@@ -4403,7 +4403,7 @@ Customer support, Sales, Daily life
 - No-code setup, copilot mode (AI suggests, you approve) and multi-business support. Strong focus on Spanish/LatAm markets.
 
 ### Links
-- [Web](https://inbox-ia.com/)
+- [Web](https://inbox-ia.com/en)
 - [App](https://app.inbox-ia.com/)
 - [X (Twitter)](https://twitter.com/InBox_IA)
 - [LinkedIn](https://www.linkedin.com/in/inbox-ia)
