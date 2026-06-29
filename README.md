@@ -4387,7 +4387,7 @@ Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms
 
 </details>
 
-## [InBoxIA](https://inbox-ia.com/)
+## [InBoxIA](https://inbox-ia.com/en)
 Multi-agent AI CRM that serves WhatsApp, Instagram & Messenger 24/7 and books appointments
 
 <details>
