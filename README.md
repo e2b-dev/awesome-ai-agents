@@ -1312,6 +1312,20 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [EDC](https://github.com/almogdepaz/EDC)
+
+### Category
+
+Developer tooling / Coding agents
+
+### Description
+
+EDC is a local repo-context generator for coding agents. It builds an `edc-context/` tree with module docs, invariants, trust boundaries, review notes, and routing metadata, then uses that context during review, audit, and debugging workflows for Claude Code, Cursor, Codex, and pi.
+
+### Links
+
+- [GitHub](https://github.com/almogdepaz/EDC)
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
