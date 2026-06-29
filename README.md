@@ -2070,6 +2070,29 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 </details>
 
+## [MindGenius AI](https://github.com/xianjianlf2/MindGeniusAI)
+An AI agent that reads your PDFs and draws editable mind maps live, with a visible tool-calling loop
+
+<details>
+
+![Image](https://github.com/xianjianlf2/MindGeniusAI/raw/main/docs/assets/demo.gif)
+
+### Category
+Productivity, General purpose, Build your own
+
+### Description
+
+- **Real agent, not a prompt wrapper**: a multi-step tool loop (Vercel AI SDK v5) decides when to search docs, generate the map, and expand branches, each shown as a live tool card.
+- **Reads your PDFs**: attach one or more PDFs and in-memory RAG retrieval grounds the map in your documents (no LangChain).
+- **Two-way editable canvas**: rename, add, drag, and delete nodes by hand; the agent sees exactly what you changed and builds on it like a collaborator.
+- **Bring your own key**: OpenAI / Claude / DeepSeek / Kimi or any OpenAI-compatible endpoint; keys never touch the server.
+- **Self-hostable**: ships as a single Docker image; live demo available.
+
+### Links
+- [GitHub](https://github.com/xianjianlf2/MindGeniusAI)
+- [Live demo](https://mindgenius.onrender.com)
+</details>
+
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 General-purpose agent based on GPT-3.5 / GPT-4
 
