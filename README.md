@@ -5189,6 +5189,12 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [SNTL — Helium Intelligence](https://a2a.sntl.site)
+Pay-per-call Helium/Solana DePIN threat & wallet intelligence over the x402 rail — threat classification, anomaly scoring, wallet intel, forensic event chains. $0.01 USDC, first tier free, no signup.
+
+- [Agent-card](https://a2a.sntl.site/.well-known/agent-card.json)
+- [Source](https://github.com/substreambc/my-agent)
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
