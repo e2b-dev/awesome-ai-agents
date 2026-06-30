@@ -2042,6 +2042,27 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 </details>
 
 
+## [Metis](https://github.com/chenlomis/metis)
+Local CLI agent for job-search triage
+
+<details>
+
+![image](https://raw.githubusercontent.com/chenlomis/metis/main/docs/assets/metis-demo-thumbnail.png)
+
+### Category
+Productivity, Personal assistant, Career, Open Source
+
+### Description
+- Metis monitors job alerts and company career pages, scores roles against a local profile with Claude, and sends a ranked email digest.
+- It tracks applications and keeps local `runs.jsonl` scoring traces for debugging, explainability, and future calibration.
+- Designed as a privacy-first, CLI-centric workflow that runs locally and stores user state outside the repository.
+
+### Links
+- [GitHub](https://github.com/chenlomis/metis)
+
+</details>
+
+
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
