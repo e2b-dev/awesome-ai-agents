@@ -1240,6 +1240,26 @@ Coding, general purpose
 
 </details>
 
+## [Dispatch](https://github.com/sparklingneuronics/sparkling-skills)
+Claude Code plugin that delegates tasks to Codex CLI and Antigravity CLI
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- A Claude Code plugin that delegates tasks to external AI CLIs — OpenAI Codex and Google Antigravity (multi-model: Gemini, Claude, GPT-OSS)
+- Say "check with codex" or "ask gemini for a second opinion" and Claude runs the other agent, keeps a topic-aware session, and critiques the result
+- Claude stays the driver: it synthesizes disagreements between models rather than deferring to either
+- Per-CLI safety models: Codex defaults to read-only sandbox, Antigravity is agentic
+- Cross-platform (Windows/macOS/Linux), pure markdown skills, no API keys
+
+### Links
+- [GitHub](https://github.com/sparklingneuronics/sparkling-skills)
+
+</details>
+
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 AI-Driven SW Development Automation Solution
 
