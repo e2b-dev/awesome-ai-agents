@@ -2710,6 +2710,26 @@ Multi-agent, GUI Agent
 
 </details>
 
+## [UACOS](https://github.com/caotiensinh/uacos)
+Local-first safety and context layer that sits underneath any coding agent or LLM
+
+<details>
+
+### Category
+Build-your-own, Coding
+
+### Description
+- UACOS is not an agent itself — it's infrastructure that any coding agent (Aider, Cline, OpenHands, Claude Code, local Ollama models, etc.) can run underneath to make AI-driven repo changes safer and cheaper.
+- AST-based context compression (Python full outline, JS/TS parser) instead of raw file dumps, plus a typed, queryable local memory of decisions/errors/regression rules.
+- A patch safety gate (file/dir scope allowlists, added-line caps, secret scanning on diff-added-lines) and a git-independent transaction/rollback engine for applied changes.
+- Ships a local-only MCP server so any MCP-compatible client can use the same repo intelligence.
+
+### Links
+- [GitHub](https://github.com/caotiensinh/uacos)
+- [Docs](https://caotiensinh.github.io/uacos/)
+
+</details>
+
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
