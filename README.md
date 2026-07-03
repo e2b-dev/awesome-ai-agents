@@ -2196,6 +2196,25 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OpenAgentic](https://github.com/agentic-work/openagentic)
+Self-hosted platform for building, running, and orchestrating production AI agents
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Self-hosted platform for building, running, and orchestrating production AI agents, deployable via Docker Compose or Helm/Kubernetes.
+- Chat, no-code Flows (visual workflow builder), and a headless `oa` CLI/TUI for driving agents from the terminal.
+- Ships 11 built-in MCP tool servers: AWS, Azure, GCP, Kubernetes, Prometheus, Loki, GitHub, Microsoft 365, Google Workspace, and web.
+- Human-approval gate and append-only audit log over mutating tool calls.
+- Runs on a local Ollama or any cloud LLM (AWS Bedrock, Google Vertex, Azure OpenAI, OpenAI). Zero telemetry and air-gap capable.
+
+### Links
+- [GitHub](https://github.com/agentic-work/openagentic)
+- [Website](https://openagentics.io)
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
