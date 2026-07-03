@@ -1333,6 +1333,26 @@ Coding
 
 </details>
 
+## [Ensemble Simulator](https://github.com/SarahXu31/ensemble-simulator)
+Open-source multi-agent character simulation framework
+
+<details>
+
+![Image](https://raw.githubusercontent.com/SarahXu31/ensemble-simulator/main/assets/preview-concept-1.png)
+
+### Category
+Multi-agent, Role-playing, Simulation
+
+### Description
+- Open-source AI-driven multi-character simulation framework for placing multiple OCs or fictional characters into the same world.
+- Characters autonomously interact through dialogue, relationship changes, and world events in a shared environment.
+- Focused on simulation-oriented storytelling rather than single-turn chat.
+
+### Links
+- [GitHub Repository](https://github.com/SarahXu31/ensemble-simulator)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
