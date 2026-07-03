@@ -5589,3 +5589,6 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## Helium Open Benchmarks
+- [Market Resolution](https://huggingface.co/datasets/HeliumTrades/helium-market-resolution-benchmark) | [Model Worldview](https://huggingface.co/datasets/HeliumTrades/helium-model-worldview-benchmark) — https://heliumtrades.com/benchmarks/
