@@ -959,6 +959,27 @@ Science, Chemistry
 
 </details>
 
+## [claims-ledger](https://github.com/isatimur/claims-ledger)
+Source-anchored claims for agent decisions and docs — CI fails when pointers go stale
+
+<details>
+
+### Category
+Developer Tools, Verification
+
+### Description
+- Source-anchored claims ledgers for codebases and AI agents — every strong claim carries a verbatim quote anchor
+- CI exits 11 when anchors go stale; `edt mcp serve` exposes ledger tools for agent harnesses
+- GitHub Action + CLI + MCP; born from a 794-video practitioner corpus ([evidence graph](https://fromcopilottocolleague.com/read/graph))
+- Demo: https://github.com/isatimur/claims-ledger/blob/main/demo/demo.gif
+
+### Links
+- [GitHub](https://github.com/isatimur/claims-ledger)
+- [Sandbox template](https://github.com/isatimur/claims-ledger-sandbox)
+- [Event ledgers](https://fromcopilottocolleague.com/ledgers)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
