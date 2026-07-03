@@ -1854,6 +1854,30 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
+## [Loop Engineer](https://github.com/SollanSystems/loop-engineer)
+Proof-of-done layer for AI agent loops — typed terminal states and held-out verification gates so a loop proves "done" instead of asserting it
+
+<details>
+
+![image](https://raw.githubusercontent.com/SollanSystems/loop-engineer/main/docs/social-card.png)
+
+### Category
+Build your own
+
+### Description
+Loop Engineer gives long-running agent loops an operating contract whose completion claims require evidence
+- 7 typed terminal states: `Succeeded` requires attached evidence; `FailedUnverifiable`, `FailedBlocked`, `FailedBudget`, `FailedSafety`, `FailedSpecGap`, `AbortedByHuman` replace the silent "completed"
+- Contract validator (`doctor`) and inspector (`inspect`) grade a loop's proof machinery on invocation evidence, not self-asserted flags
+- Held-out verification gate + anti-cheat scan built to catch a loop gaming its own verifier
+- Pure-stdlib Python core over files on disk — runtime-neutral contract format; 9 Claude Code skills ship as the reference runner
+- Languages: Python
+
+### Links
+- [GitHub](https://github.com/SollanSystems/loop-engineer)
+- [Worked example (weak vs strong loop)](https://github.com/SollanSystems/loop-engineer/tree/main/examples)
+
+</details>
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 Re-implementation of AutoGPT as a Python package
 
