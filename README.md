@@ -592,7 +592,9 @@ General purpose
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1666313838868992001)
 - [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyDeerAGI.py)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 - [Replit](https://replit.com/@YoheiNakajima/BabyDeerAGI)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
@@ -2501,11 +2503,15 @@ Superagent is not a single agent, but a tool that allows creating agents without
 
 ### Links
 - [GitHub](https://github.com/homanp/superagent)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 - [Documentation](https://docs.superagent.sh/introduction)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
 - Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
 - [Interview: Discussing agents' tracing, observability, and debugging with Ismail Pelaseyed, the founder of Superagent](https://e2b.dev/blog/discussing-agents-challenges-with-ismail-pelaseyed-the-founder-of-superagent)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 - [Blog post: What Ismail from Superagent and other developers predict for the future of AI Agents](https://e2b.dev/blog/ai-agents-in-2024)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 
 </details>
 
@@ -2542,9 +2548,11 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 
 ### Links
 - [YouTube](https://www.youtube.com/@_superagi)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 - [Discord](https://discord.com/invite/dXbRe5BHJC)
 - [Subreddit](https://www.reddit.com/r/Super_AGI/)
 - [Twitter](https://twitter.com/_superAGI)
+- [Regulated RAG](https://github.com/yuzhaopeng-up/regulated-rag) - Zero-dependency RAG toolkit for regulated industries using BM25 + TF-IDF + RRF. No vector DB, no embedding model needed.
 - Author: [Ishaan Bhola](https://twitter.com/ishaanbhola)
 
 </details>
