@@ -1398,6 +1398,27 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [For3s OS](https://github.com/for3slabs/for3s)
+Self-hosted AI second brain built on Claude
+
+<details>
+
+### Category
+Build-your-own (agent-builing frameworks and platforms), Multi-agent, Personal assistant
+
+### Description
+- For3s OS is a self-hosted AI agent — a second brain built on Claude, not a stateless chatbot.
+- Real semantic memory (pgvector) + a knowledge graph (Apache AGE) that consolidates itself at night.
+- A living, layered identity that adapts to you on its own, with a blinded core.
+- Runs code in a sandbox, reads/writes GitHub, coordinates a multi-agent team, and can safely edit its own code.
+- Enterprise-grade trust: immutable audit, offline key management, signed releases, SBOM. Your data, your server.
+
+### Links
+- [GitHub](https://github.com/for3slabs/for3s)
+- [Web](https://for3slabs.github.io/for3s/)
+
+</details>
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
