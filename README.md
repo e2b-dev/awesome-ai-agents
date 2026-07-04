@@ -95,6 +95,30 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aetheris](https://github.com/Colin4k1024/Aetheris)
+Temporal-style durable execution runtime for AI agents
+
+<details>
+
+### Category
+Build your own, Multi-agent
+
+### Description
+
+- **At-most-once tool execution**: Idempotency ledger prevents double side effects (double charges, duplicate emails) on crash and retry.
+- **Event-sourced crash recovery**: Agents resume from checkpoints, not from scratch. Full execution history is replayable.
+- **Deterministic replay**: Reconstruct any agent run step-by-step for debugging and auditing.
+- **Lease-fenced scheduling**: Multi-worker coordination with lease fencing prevents duplicate work.
+- **DAG-based planning**: Goals are compiled into TaskGraphs with typed dependencies between steps.
+- **Eino ADK integration**: Built on CloudWeGo's Eino agent framework with a config-driven AgentFactory.
+
+### Links
+- [GitHub](https://github.com/Colin4k1024/Aetheris)
+- [Documentation](https://github.com/Colin4k1024/Aetheris#quickstart)
+- [Crash Recovery Example](https://github.com/Colin4k1024/Aetheris/tree/main/examples/crash_recovery)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
