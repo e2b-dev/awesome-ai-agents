@@ -3173,6 +3173,34 @@ Coding, General purpose
 </details>
 
 
+
+## [AIServices](https://aiservices.to/)
+Paid APIs for AI agents — data, crypto, and dispute resolution
+
+<details>
+
+### Category
+Data analysis, Business intelligence, Supports open-source models
+
+### Description
+- Paid APIs designed specifically for AI agents, with built-in trust and dispute resolution
+- Data endpoints: crypto prices, technical indicators, DeFi yields, fear-greed index, search, trending, news, social signals, gas prices, predictions, global market data
+- Governance endpoints: policy-driven dispute resolution ($0.05/dispute) for agent commerce — freelance delivery, milestone payments, SLA monitoring, API quality, bug bounties, scope disputes, physical commerce
+- x402 payment protocol: micropayments in USDC on Base (L2) — agents pay per API call autonomously
+- MCP (Model Context Protocol) server: 8 tools available via remote SSE transport at /mcp endpoint
+- 21 endpoints total: 4 paid via x402, 17 free
+- Differentiator: combines data APIs with a trust/governance layer — agents get both the data they need and the dispute resolution to trust transactions built on it
+
+### Links
+- [Web](https://aiservices.to/)
+- [API Docs](https://api.aiservices.to/docs)
+- [GitHub](https://github.com/vbkotecha/aiservices-api)
+- [MCP Server](https://api.aiservices.to/mcp)
+- [X (Twitter)](https://x.com/vbkotecha)
+
+</details>
+
+
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
 
