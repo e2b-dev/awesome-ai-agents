@@ -1088,6 +1088,25 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [Darkmoon](https://github.com/ASCIT31/Dark-Moon)
+Darkmoon: Autonomous AI penetration testing engine
+
+<details>
+
+### Category
+Multi-agent, Cybersecurity
+
+### Description
+
+- **Autonomous offensive security**: Continuously tests web, cloud, Active Directory and Kubernetes environments without human intervention.
+- **Agentic reasoning**: Orchestrates 80+ offensive tools through Markdown playbooks and multi-agent reasoning to build and follow attack paths.
+- **Proof-based findings**: Executes real exploits and attaches an evidence trace to every reported vulnerability.
+- **Model-agnostic**: Works with any capable LLM, optimized for Claude Opus.
+- **Open source**: Released under GPL-3.0.
+
+### Links
+- [GitHub](https://github.com/ASCIT31/Dark-Moon)
+</details>
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
