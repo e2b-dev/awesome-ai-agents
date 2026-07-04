@@ -45,6 +45,7 @@ Add to readme list:
 Welcome to our list of AI agents.
 We structured the list into two parts:
 - [Open source projects](#open-source-projects)
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts (PCAs): structured Markdown templates + Claude Code skills for giving AI agents deep personal context. Used in a real 28-agent autonomous system. Open-source, MIT licensed.
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
