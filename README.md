@@ -1333,6 +1333,27 @@ Coding
 
 </details>
 
+## [ENLIL](https://github.com/conchaestradamiguelangel-droid/enlil)
+Self-hosted multi-agent LLM council: 9 AI models deliberate in parallel on every query
+
+<details>
+
+### Category
+Multi-agent, Research, Security
+
+### Description
+- 9 AI models (GPT-4o, Claude, Llama, Gemini, Mistral...) receive the same query and reason independently in parallel
+- ENLIL synthesizes a consensus and surfaces dissenting views
+- Every decision is signed with ML-DSA-87 post-quantum cryptography (NIST FIPS 204) - verifiable PQC-signed LLM outputs
+- BYOK (Bring Your Own Keys) - runs on your infrastructure with your API keys
+- Self-hosted, GPL v3, FastAPI backend + React dashboard
+
+### Links
+- [Web](https://enlil-council.com/dashboard)
+- [GitHub](https://github.com/conchaestradamiguelangel-droid/enlil)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
