@@ -95,6 +95,96 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [agent-drift](https://github.com/alvabillwu/agent-drift)
+Production LLM output drift detector -- 4 metrics, library
+
+<details>
+
+### Category
+Agent Frameworks, Observability
+
+### Description
+- Catch silent LLM output regressions, distribution shifts, and semantic drift
+- 4 detection metrics for production monitoring
+- Zero dependencies, pure Python library
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agent-drift)
+
+</details>
+
+## [agent-memory](https://github.com/alvabillwu/agent-memory)
+Standardized agent memory layer -- JSONL + TF-IDF, zero deps
+
+<details>
+
+### Category
+Agent Frameworks, Memory
+
+### Description
+- Persistent JSONL-based memory store with TF-IDF retrieval
+- Standardized memory layer for AI agents
+- Zero dependencies, pure Python stdlib
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agent-memory)
+
+</details>
+
+## [agent-trace](https://github.com/alvabillwu/agent-trace)
+OTLP-compatible tracer for AI agents -- zero deps, pure stdlib
+
+<details>
+
+### Category
+Agent Frameworks, Observability
+
+### Description
+- Lightweight OTLP-compatible distributed tracing for AI agent runs
+- Zero dependencies, pure Python stdlib
+- Export traces to any OTLP-compatible backend
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agent-trace)
+
+</details>
+
+## [agent2agent](https://github.com/alvabillwu/agent2agent)
+Cross-agent delegation protocol -- task envelopes, routing
+
+<details>
+
+### Category
+Agent Frameworks, Multi-agent
+
+### Description
+- Standardized task envelope format for inter-agent communication
+- Routing and delegation between AI agents
+- Protocol-level interoperability
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agent2agent)
+
+</details>
+
+## [agent2ci](https://github.com/alvabillwu/agent2ci)
+CI/CD pipeline for AI agents -- regression testing, drift gates
+
+<details>
+
+### Category
+Agent Frameworks, CI/CD
+
+### Description
+- Automated CI/CD pipeline for AI agent testing and deployment
+- Regression testing and drift detection gates
+- Pass/fail reports for agent quality assurance
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agent2ci)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
@@ -111,6 +201,26 @@ General purpose, Build your own, Multi-agent
 
 ### Links
 - [Paper](https://arxiv.org/abs/2310.10108)
+
+</details>
+
+## [agentest](https://github.com/alvabillwu/agentest)
+Lightweight test framework for AI agents -- define tests, get pass/fail
+
+<details>
+
+### Category
+Agent Frameworks, Testing
+
+### Description
+- Define test cases with keywords, regex, latency, and length assertions
+- Run your agent callable against test suites
+- Structured pass/fail reports with CLI and programmatic API
+- CI-ready with non-zero exit on failure
+- Zero dependencies, pure Python stdlib
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agentest)
 
 </details>
 
@@ -181,6 +291,42 @@ General purpose
 </details>
 
 <!-- This is a comment that appears only in the raw text -->
+
+## [agentguard](https://github.com/alvabillwu/agentguard)
+Shell-command safety gate for AI agents -- 16 rules, block/review/pass
+
+<details>
+
+### Category
+Agent Frameworks, Security
+
+### Description
+- Flags destructive shell commands (rm -rf, git reset --hard, force-push, curl|sh, mkfs, fork bombs)
+- 16 built-in safety rules with block/review/pass verdicts
+- Zero dependencies, pure Python stdlib
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agentguard)
+
+</details>
+
+## [agentlog](https://github.com/alvabillwu/agentlog)
+Structured logging + replay for AI agent runs -- JSONL, zero deps
+
+<details>
+
+### Category
+Agent Frameworks, Observability
+
+### Description
+- Structured JSONL logging for every LLM call, tool use, and agent step
+- Replay, summarize, and audit agent runs
+- Zero dependencies, pure Python stdlib
+
+### Links
+- [GitHub](https://github.com/alvabillwu/agentlog)
+
+</details>
 
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
@@ -1355,6 +1501,24 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [eval-suite](https://github.com/alvabillwu/eval-suite)
+LLM output evaluation -- 5 metrics, zero deps
+
+<details>
+
+### Category
+Evaluation, LLM Tools
+
+### Description
+- 5 evaluation metrics: faithfulness, relevance, hallucination, coherence, and more
+- Lightweight, zero-dependency design
+- Evaluate LLM outputs against reference or context
+
+### Links
+- [GitHub](https://github.com/alvabillwu/eval-suite)
+
+</details>
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
@@ -1709,6 +1873,25 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [judgekit](https://github.com/alvabillwu/judgekit)
+LLM-as-judge harness -- rubrics, pluggable judges, ensembling
+
+<details>
+
+### Category
+Evaluation, LLM Tools
+
+### Description
+- Reusable LLM-as-judge evaluation harness
+- Define rubrics with pluggable judges (mock/proxy/LLM)
+- Judge ensembling and calibration against ground truth
+- Zero core dependencies, pure Python library
+
+### Links
+- [GitHub](https://github.com/alvabillwu/judgekit)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
@@ -2016,6 +2199,25 @@ Memory management, Data analysis
 - [Documentation](https://memgpt.readthedocs.io/)
 - [Discord](https://discord.gg/9GEQrxmVyE)
 - [Hugging Face](https://huggingface.co/MemGPT)
+
+</details>
+
+## [mcp-guard](https://github.com/alvabillwu/mcp-guard)
+MCP tool security scanner -- 10 rules, risk scoring
+
+<details>
+
+### Category
+MCP, Security
+
+### Description
+- Scan MCP server tool manifests for dangerous capabilities
+- 10 built-in security rules with risk scoring
+- Detect risky tool patterns before connecting to MCP servers
+- Zero dependencies
+
+### Links
+- [GitHub](https://github.com/alvabillwu/mcp-guard)
 
 </details>
 
