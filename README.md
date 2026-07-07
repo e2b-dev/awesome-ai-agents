@@ -1966,6 +1966,34 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MDMA](https://mdma.software)
+Markdown Document with Mounted Applications — turn agent responses into interactive UI
+
+<details>
+
+### Category
+SDK for AI apps, Build-your-own
+
+### Description
+MDMA (Markdown Document with Mounted Applications) is an open-source format that lets an agent respond with interactive components instead of plain text.
+
+- **Structured output, not free text**: the agent emits forms, tables, approval gates, charts, callouts and webhooks in fenced ` ```mdma ` blocks, validated against a schema your app already knows how to render.
+- **Human-in-the-loop built in**: approval gates and forms let an agent pause for user input or sign-off mid-flow.
+- **MCP server included**: `@mobile-reality/mdma-mcp` exposes the spec, authoring prompts, and docs so any MCP-compatible assistant (Claude Desktop, Cursor, VS Code) can author valid MDMA.
+- **Model-specialized prompts**: prompt-pack ships variants tuned for OpenAI, Anthropic, Google, and xAI, selected automatically per model.
+- **Own fine-tuned model**: a dedicated MDMA authoring model, `mdma-gemma4-26b-dsl-unsloth-v1` (Gemma-based, fine-tuned for the MDMA DSL), published on Hugging Face — so you can generate MDMA without depending on a frontier API.
+- **Bring your own UI**: headless runtime (state, bindings, policy, audit log, PII redaction) with React and React Native renderers.
+
+### Links
+- [Website](https://mdma.software)
+- [GitHub](https://github.com/MobileReality/mdma)
+- [Model on Hugging Face](https://huggingface.co/MobileReality/mdma-gemma4-26b-dsl-unsloth-v1)
+- [Docs](https://mobilereality.github.io/mdma/#/docs)
+- [npm](https://www.npmjs.com/package/@mobile-reality/mdma-renderer-react)
+- [Built by Mobile Reality](https://themobilereality.com)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
