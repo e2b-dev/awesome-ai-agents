@@ -1652,6 +1652,26 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Heym](https://heym.run)
+AI-native workflow automation platform
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Visual workflow canvas for building agent, RAG, and tool-using automations without writing code.
+- Supports agent nodes, sub-agents, human-in-the-loop steps, evals, traces, cost tracking, and MCP connections.
+- Self-hostable with Docker and source-available under MIT with Commons Clause.
+
+### Links
+- [Website](https://heym.run)
+- [GitHub](https://github.com/heymrun/heym)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
