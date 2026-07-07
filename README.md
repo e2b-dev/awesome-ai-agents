@@ -1398,6 +1398,29 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [Flynn](https://github.com/ionalpha/flynn)
+A secure, self-improving agent operating system in a single Go binary
+
+<details>
+
+### Category
+General purpose, Autonomous, Multi-agent, Self-hosted
+
+### Description
+- Single static Go binary, no runtime: `curl | sh` drops one file that runs from a laptop to a $5 VPS
+- Bring your own model: provider-agnostic across hosted and local open-weight models, with hardware-fit checks for fully-local runs
+- Orchestrates rather than just chats: turns a goal into a plan and fans it out into concurrent, governed agent runs under a shared token and cost budget
+- Self-improving: captures skills and memory from each session and reinforces them based on real outcomes
+- Governed autonomy: every action is sandboxed and capability-scoped, then sealed into a verifiable, tamper-evident run record
+- Long-lived service mode (`flynn serve`) answers messages from your chat channels
+
+### Links
+- [GitHub](https://github.com/ionalpha/flynn)
+- [Documentation](https://pkg.go.dev/github.com/ionalpha/flynn)
+
+</details>
+
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
