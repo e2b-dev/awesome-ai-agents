@@ -1443,6 +1443,26 @@ Coding
 
 </details>
 
+## [githug](https://githug.ai)
+Agentic Q&A over the open-source world — ask "what's the modern replacement for X" or "is this repo still maintained" and get a synthesized, cited answer
+
+<details>
+
+### Category
+Research, GitHub
+
+### Description
+- Live retrieval, not a static index: an LLM is given the GitHub and Hugging Face APIs as tools and decides per-question what to search and read — no crawler, no vector DB, no stale cache.
+- Judges real maintenance signals (last push, latest release, open issues, contributors) instead of just repo popularity.
+- Connects the GitHub and Hugging Face graphs — e.g. "can I use this model commercially, and is the repo serving it still maintained?"
+- Every answer ships as a public, cited, shareable permalink.
+
+### Links
+- [Website](https://githug.ai)
+- [GitHub](https://github.com/dereksantos/githug)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
