@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Paperclip](https://github.com/paperclipai/paperclip)
+Platform for managing coding agents as workers
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+Paperclip is an open-source platform for running coding agents such as Claude Code and Codex as managed workers.
+- Assigns work as tasks with approvals, budgets, and status tracking.
+- Provides managed workspaces for agent execution.
+- Supports local and cloud-style agent adapter workflows.
+
+### Links
+- [GitHub](https://github.com/paperclipai/paperclip)
+- [Docs](https://docs.paperclip.ing)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
