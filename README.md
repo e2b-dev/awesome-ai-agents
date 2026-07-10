@@ -95,6 +95,28 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aeon](https://github.com/aaronjmars/aeon)
+Autonomous agent framework that runs unattended on GitHub Actions
+
+<details>
+
+![Image](https://github.com/aaronjmars/aeon/raw/main/assets/aeon.jpg)
+
+### Category
+General purpose, Productivity, Multi-agent, Build-your-own
+
+### Description
+- Configure-once-and-forget autonomous agent: no approval loops, runs unattended on GitHub Actions via cron or reactive triggers.
+- Orchestrates Claude across 90+ built-in skills spanning research, dev tooling, crypto monitoring, social, and productivity — skills are readable Markdown, not code.
+- Self-healing loop: scores its own output (1–5 via Haiku), detects degraded skills, and auto-patches them through PRs.
+- Persistent, version-controlled memory lives in the repo, plus a "fleet" model for spawning specialized sub-agents.
+- MCP and A2A integrations; flexible LLM routing across multiple providers with automatic failover. MIT licensed.
+
+### Links
+- [GitHub](https://github.com/aaronjmars/aeon)
+- [X](https://x.com/aeonframework)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
@@ -2093,6 +2115,28 @@ General purpose
 
 </details>
 
+
+## [MiroShark](https://github.com/aaronjmars/MiroShark)
+Universal swarm-intelligence engine for social simulation
+
+<details>
+
+![Image](https://github.com/aaronjmars/MiroShark/raw/main/miroshark-nobg.png)
+
+### Category
+Multi-agent, Research, Data analysis
+
+### Description
+- Drop in a scenario (press release, article, policy draft, or just a question) and hundreds of grounded LLM personas simulate the public reaction hour-by-hour.
+- Runs interconnected Twitter, Reddit, and a Polymarket-style prediction market simultaneously — traders react to social sentiment while social agents see market prices.
+- Builds a Neo4j knowledge graph from your input and grounds every persona in it; tracks per-agent belief state (stance, confidence, trust) across rounds.
+- Counterfactual timeline branching, per-agent MCP tools, an interactive analytical report, and a public gallery of finished runs.
+- Simulate anything for ~$1 in under 10 minutes; OpenAI-compatible (works with OpenRouter or fully local via Ollama).
+
+### Links
+- [GitHub](https://github.com/aaronjmars/MiroShark)
+- [X](https://x.com/miroshark_)
+</details>
 
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
