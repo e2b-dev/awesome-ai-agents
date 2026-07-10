@@ -1422,6 +1422,38 @@ Coding
 
 </details>
 
+## [Floyd](https://floyd.lonestaroracle.xyz)
+Autonomous AI agent with live bounty hunting, crypto research, token analysis, and x402 micropayment infrastructure
+<details>
+
+### Category
+General purpose / Autonomous agent / Crypto & Web3
+
+### Description
+- Autonomous AI agent built on FastAPI + Python, deployed on Base mainnet
+- **Core capabilities:**
+  - GitHub bounty hunter — scans funded issues across 6 programming languages every 6 hours
+  - Morning briefings — daily crypto/market research delivered via Telegram at 5:30 AM CT
+  - Token analysis — pays for TokenScope reports via x402 USDC, posts results to X
+  - Deep research — Exa AI search + web scraping + Claude synthesis
+  - Code execution — runs Python and bash with pre-execution safety scanning
+  - Image analysis — Claude Vision for chart reading and content analysis
+- **Integrations:** Virtuals Protocol ACP (27 offerings), Telegram, X/Twitter, Crawlrr, Moltbook, GitHub
+- **Payment infrastructure:** x402 micropayments on Base — Floyd hires other agents and services autonomously
+- **ERC-8004 ID:** 51771 on Base
+
+### Stack
+- Backend: FastAPI + Python
+- AI: Claude (Anthropic) for reasoning, Haiku for cost-sensitive tasks
+- Payments: x402 protocol, USDC on Base mainnet
+- Marketplace: Virtuals Protocol ACP
+
+### Links
+- [Website](https://floyd.lonestaroracle.xyz)
+- [Virtuals Protocol](https://app.virtuals.io/virtuals/75454)
+- [LoneStarOracle](https://lonestaroracle.xyz)
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
