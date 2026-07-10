@@ -2408,6 +2408,23 @@ Coding
 
 </details>
 
+## [SAM](https://github.com/richhabits/sam)
+Private, local-first AI assistant with a team of specialist agents
+
+<details>
+
+### Category
+General purpose, Productivity, Multi-agent
+
+### Description
+- Runs on your own machine and takes real actions (web, files, terminal, email, GitHub) across 173 tools. A model-free cascade router sends each task to the cheapest capable brain — your local Ollama model or free cloud tiers first — and for big jobs it assembles a team of specialist agents that work in parallel. Dangerous actions always ask first. MIT-licensed, local-first, zero telemetry.
+
+### Links
+- [GitHub](https://github.com/richhabits/sam)
+- [Website](https://richhabits.github.io/sam/)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
