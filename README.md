@@ -69,6 +69,9 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 - Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
 # Open-source projects
+n## [A2X](https://github.com/CanadianCowboy/a2x)
+A2X: AI-native programming language and runtime. Sigma ISA, Omega compiler, CCS cognitive VM. Built for AI agents — humans and AI as first-class contributors. AGPL-3.0.
+
 
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
