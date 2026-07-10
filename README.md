@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Off Grid AI Desktop](https://github.com/off-grid-ai/off-grid-ai-desktop)
+Local-first AI assistant for macOS that runs entirely on your Mac
+
+<details>
+
+### Category
+General purpose, Productivity, Supports open-source models
+
+### Description
+Off Grid AI Desktop is an open-source macOS app that runs a full AI suite on-device, with no account, no telemetry, and no cloud.
+- Local LLM chat via llama.cpp, plus on-device image generation
+- Voice dictation and transcription via whisper
+- Personal memory and RAG search over your own data
+- MCP connectors with approval-gated actions for agentic tasks
+- All processing stays on the user's device
+
+### Links
+- [GitHub](https://github.com/off-grid-ai/off-grid-ai-desktop)
+- [Website](https://getoffgridai.co/desktop)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
