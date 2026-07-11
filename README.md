@@ -2171,6 +2171,27 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Nika](https://github.com/supernovae-st/nika)
+Nika: open-source workflow engine for AI — agent work captured as reviewable `.nika.yaml` files, statically checked before execution, tamper-evident traces after
+
+<details>
+
+### Category
+Build-your-own, Supports open-source models
+
+### Description
+- **Intent-as-code**: repeatable AI work lives in plain `.nika.yaml` DAG files — four verbs (infer · exec · invoke · agent), reviewable, diffable, runnable in CI
+- **Checked before a token is spent**: `nika check` audits the schema, the DAG, permits (default-deny), secret flows and the cost floor (unpriced is never $0)
+- **Native agent loop**: the `agent` verb runs budget-capped agent tasks; every run leaves a hash-chained trace (`nika trace verify`)
+- **Local-first**: the mock and Ollama/llama.cpp/vLLM paths need no API key; multi-provider catalog, the user picks
+- **Agent-ready surfaces**: `AGENTS.md` contract, a read-only MCP oracle (`nika mcp`), and a GitHub Action that posts the plan with receipts on every PR
+
+### Links
+- [Website](https://nika.sh)
+- [Documentation](https://docs.nika.sh)
+- [GitHub](https://github.com/supernovae-st/nika)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
