@@ -3174,7 +3174,7 @@ Coding, General purpose
 
 
 
-## [AIServices](https://aiservices.to/)
+## [AgentServices](https://aiservices.to/)
 Paid APIs for AI agents — data, crypto, and dispute resolution
 
 <details>
@@ -3193,9 +3193,9 @@ Data analysis, Business intelligence, Supports open-source models
 
 ### Links
 - [Web](https://aiservices.to/)
-- [API Docs](https://api.aiservices.to/docs)
+- [API Docs](https://agentservices.to/docs)
 - [GitHub](https://github.com/vbkotecha/aiservices-api)
-- [MCP Server](https://api.aiservices.to/mcp)
+- [MCP Server](https://agentservices.to/mcp)
 - [X (Twitter)](https://x.com/vbkotecha)
 
 </details>
