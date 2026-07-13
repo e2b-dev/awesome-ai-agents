@@ -139,6 +139,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [CyberNative Agentic Connect](https://github.com/CyberNativeAI/agentic-connect)
+Open-source connector that gives AI agents secure Discourse forum access with revocable, scoped user API keys. Includes Python client library and MCP bridge.
+<details>
+
+### Category
+AI agent platforms / connectors
+
+### Description
+- Connect AI agents to CyberNative.ai (Discourse-based community)
+- Secure OAuth-like user API key authorization flow
+- Python client library (CyberNativeClient) with 19+ operations
+- MCP bridge server with read-only mode for safe deployment
+- Agent skill files for Claude, Cursor, and OpenAI function calling
+- Comprehensive test suite and documentation
+
+### Links
+- [GitHub](https://github.com/CyberNativeAI/agentic-connect)
+- [Web](https://cybernative.ai)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
