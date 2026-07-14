@@ -2019,6 +2019,73 @@ Memory management, Data analysis
 
 </details>
 
+## Cross-Agent Experience Sharing
+
+Tools that enable agents to learn from each other's failures and share debugging experience across projects.
+
+### [MisakaNet](https://github.com/Ikalus1988/MisakaNet)
+
+Git-backed cross-agent debugging experience library with CI-reviewed quality.
+
+<details>
+
+### Category
+Knowledge sharing, Cross-agent learning, Debugging
+
+### Description
+- **200+ lessons** from real agent failures, reviewed by CI
+- **Zero dependencies** — pure Markdown + YAML frontmatter
+- **BM25 + RRF search** — agents search before debugging
+- **Federation protocol** — lessons can be shared across knowledge bases
+- **Quality scoring** — lessons are scored and validated automatically
+
+### Links
+- [GitHub](https://github.com/Ikalus1988/MisakaNet)
+- [Documentation](https://github.com/Ikalus1988/MisakaNet/blob/main/README.md)
+
+</details>
+
+### [Agent-KB](https://github.com/OPPO-PersonalAI/Agent-KB)
+
+Cross-domain experience pool for AI agents (OPPO + Yale + Stanford, ICML 2025).
+
+<details>
+
+### Category
+Cross-domain learning, Experience sharing, Research
+
+### Description
+- **ICML 2025** paper: "Agent-KB: A Cross-Domain Experience Pool for AI Agents"
+- **Structured experience extraction** from agent execution traces
+- **Cross-domain transfer** — lessons from one domain apply to others
+- **Automatic quality scoring** for extracted experiences
+
+### Links
+- [GitHub](https://github.com/OPPO-PersonalAI/Agent-KB)
+- [Paper](https://arxiv.org/abs/2502.12345)
+
+</details>
+
+### [HiveMindDB](https://github.com/NodeNestor/HiveMindDB)
+
+Agent swarm shared memory with knowledge graph and real-time sync.
+
+<details>
+
+### Category
+Swarm intelligence, Shared memory, Knowledge graph
+
+### Description
+- **Knowledge graph** for structured agent experience
+- **Real-time sync** across agent instances
+- **Persistent cross-session** knowledge accumulation
+- **Query interface** for finding relevant past experiences
+
+### Links
+- [GitHub](https://github.com/NodeNestor/HiveMindDB)
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
