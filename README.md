@@ -2961,6 +2961,27 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [ZuckerBot](https://github.com/DatalisHQ/zuckerbot)
+Open-source MCP server + CLI that gives any AI agent 60+ Meta Ads tools
+
+<details>
+
+### Category
+Marketing
+
+### Description
+
+- 60+ Meta Ads tools for AI agents: account audits with server-side wasted-spend and creative-fatigue findings, campaign build and launch, audience creation, and Conversions API tracking
+- Every campaign is created paused — nothing spends until the user approves it
+- Works with claude.ai, Claude Code, Cursor, and any MCP-compatible client
+- Remote endpoint with OAuth (`https://zuckerbot.ai/api/mcp`) or local via `npx zuckerbot-mcp`
+
+### Links
+- [GitHub](https://github.com/DatalisHQ/zuckerbot)
+- [Website](https://zuckerbot.ai)
+- [npm](https://www.npmjs.com/package/zuckerbot-mcp)
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
