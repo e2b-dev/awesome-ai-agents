@@ -2879,6 +2879,27 @@ There are four key principles that we followed when developing WrenAI:
 
 </details>
 
+## [Writing-Driven Autoresearch](https://github.com/happyhappy-jun/writing-driven-autoresearch)
+Multi-agent harness where autonomous agents write a research paper end-to-end
+
+<details>
+
+### Category
+Research, Multi-agent
+
+### Description
+Writing-Driven Autoresearch is a multi-agent harness in which autonomous LLM agents keep a submittable paper from minute zero and drive experiments from the claims in that draft
+- Separate master / experiment / writing agents that communicate only through files on disk
+- Build-time integrity checks separate measured values from unverified placeholders
+- Runs a full topic-to-paper cycle in ~3 hours; 1st place at Ralphthon@ICML 2026
+
+### Links
+- [GitHub](https://github.com/happyhappy-jun/writing-driven-autoresearch)
+- [Blog](https://byungjunyoon.ai/writing-driven-autoresearch/)
+- [Ralphthon@ICML 2026](https://luma.com/hjuo7auc)
+
+</details>
+
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
 
