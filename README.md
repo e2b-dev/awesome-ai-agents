@@ -2171,6 +2171,24 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+
+## [Manifest](https://omfang.io/manifest-overview)
+
+### Category
+
+Web Interaction / Agent Infrastructure
+
+### Description
+
+Manifest converts any URL into a structured JSON action manifest — every button, form, and input on the page, with resolved locators, input types, required-field flags, and cross-action dependencies. Built so AI agents can act on a page deterministically instead of guessing from screenshots or breaking on selector changes.
+
+### Links
+
+- [Homepage](https://omfang.io/manifest-overview)
+- [Docs](https://omfang.io/manifest-docs)
+- [Demo](https://demo.manifest.omfang.io/demo)
+- [PyPI](https://pypi.org/project/manifest-api/)
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
