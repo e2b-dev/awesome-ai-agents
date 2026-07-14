@@ -683,6 +683,27 @@ General purpose
 
 
 
+## [Bamboo](https://github.com/bigduu/Bamboo-agent)
+Local-first AI agent harness & runtime in Rust
+
+<details>
+
+### Category
+Build your own, General purpose, Personal assistant
+
+### Description
+- A local-first AI agent harness & runtime written in Rust — embed it as a crate, or run it as a server behind one HTTP + WebSocket API
+- Persistent memory (lexical + semantic recall), 22 built-in tools, skills, sub-agents, workflows and scheduled runs
+- MCP client support and a plugin system that bundles skills, MCP servers, prompts and workflows
+- Multi-provider (Anthropic, OpenAI, Gemini and compatible endpoints) with prompt caching and outbound secret masking
+- Powers [Bodhi](https://github.com/bigduu/Bodhi-AI), a local-first desktop AI agent, and drives sessions from Telegram/Feishu via [Magpie](https://github.com/bigduu/Magpie)
+
+### Links
+- [GitHub](https://github.com/bigduu/Bamboo-agent)
+
+</details>
+
+
 ## [BambooAI](https://github.com/pgalko/BambooAI)
 Data exploration and analysis for non-programmers
 
