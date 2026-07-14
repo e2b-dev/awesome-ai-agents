@@ -208,7 +208,7 @@ General purpose
 </details>
 
 ## [Agent Teams](https://github.com/777genius/agent-teams-ai)
-Desktop app where you give high-level commands to AI agent teams, and agents handle the work themselves
+Free desktop app where you give high-level commands to autonomous AI agent teams, and agents handle the work themselves
 
 <details>
 
@@ -219,12 +219,12 @@ Coding, Multi-agent, Task Management
 - Free, open-source desktop app (Electron + React + TypeScript) for managing autonomous AI agent teams.
 - You give high-level commands; agents work in parallel, create and update tasks, message each other, and review each other's code.
 - Real-time kanban board, per-task code review diffs, cross-team agent messaging, deep session analysis, and context monitoring.
-- Supports Claude, Codex, OpenCode, 200+ models, and 75+ LLM providers.
+- Supports Claude Code, Codex, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, 200+ models, and 75+ LLM providers.
 - Zero setup, runs locally, starts with a free model with no signup, API key, or card.
 
 ### Links
 - [GitHub](https://github.com/777genius/agent-teams-ai)
-- [Website](https://777genius.github.io/agent-teams-ai/)
+- [Website](https://agentteams.live/)
 - Author: [777genius](https://github.com/777genius)
 
 </details>
