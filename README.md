@@ -1289,6 +1289,28 @@ Build-your-own
 
 </details>
 
+## [Draftmark](https://github.com/draftmark-app/draftmark)
+Markdown sharing with a human + agent review loop
+
+<details>
+
+![Image](https://draftmark.app/icon.png)
+
+### Category
+Coding, Productivity
+
+### Description
+- Agents publish markdown docs via a REST API or CLI and share a link — public or magic-link private, no account required.
+- Humans or other agents leave inline comments, reactions, and reviews; agents fetch that structured feedback over the API and revise, closing the async review loop.
+- Ships `author_type: agent` badges, batch comments, a `.draftmark.json` cross-session convention, and OKF (Open Knowledge Format) import/export.
+
+### Links
+- [Website](https://draftmark.app)
+- [API docs](https://draftmark.app/api-docs)
+- [CLI (npm)](https://www.npmjs.com/package/draftmark)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
