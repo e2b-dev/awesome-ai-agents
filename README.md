@@ -712,6 +712,28 @@ Data analysis
 </details>
 
 
+## [bbarit-oss](https://github.com/bbarit/bbarit-agent-oss)
+Open-source AI coding agent for your terminal — one Rust binary, any LLM
+
+<details>
+
+![Image](https://bbarit.com/img/oss-demo.gif)
+
+### Category
+Coding
+
+### Description
+- Terminal-native AI coding agent that reads, writes, and edits your code, runs your shell, does semantic code search, and pair-programs in an autonomous loop.
+- Ships as a single static Rust binary (no Node, no Python); works with 15+ LLM providers (Anthropic, OpenAI, Gemini, OpenRouter, Groq, Bedrock, or a local model via Ollama) — 1,000+ models from one registry.
+- MIT-licensed and fully self-hostable. `/interop` reuses your existing Claude Code and Codex MCP servers and skills.
+
+### Links
+- [GitHub](https://github.com/bbarit/bbarit-agent-oss)
+- [Website](https://bbarit.com/agent)
+
+</details>
+
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
