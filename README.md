@@ -320,6 +320,23 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [ambient-claude](https://github.com/chriswangcq/ambient-claude)
+Claude Code, but it texts you first — turns a live Claude Code session into an ambient agent over Telegram, WeChat, or Discord
+
+<details>
+
+### Category
+Personal assistant, Productivity
+
+### Description
+- A tiny (~300 lines) zero-dependency Claude Code skill that connects your live session to Telegram, WeChat, or Discord and lets it message you proactively
+- Reuses your existing Claude Code subscription — no extra API key needed
+
+### Links
+- [GitHub](https://github.com/chriswangcq/ambient-claude)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
