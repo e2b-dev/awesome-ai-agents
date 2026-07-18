@@ -1160,6 +1160,31 @@ Build-your-own
 
 </details>
 
+## [DataBuff](https://databuff.ai/)
+AI-native OpenTelemetry APM with a multi-agent workspace for natural-language observability diagnosis
+
+<details>
+
+![Image](https://raw.githubusercontent.com/databufflabs/databuff/master/ai-apm-frontend/public/img/logo_login.png)
+
+### Category
+Multi-agent, Monitoring, Observability, SRE
+
+### Description
+- Open-source AI-native APM built on OpenTelemetry. Natively ingests OTLP traces, metrics, and logs.
+- An LLM-powered multi-agent workspace (AI brain orchestrating specialized agents such as an intelligent query agent and an inspection/patrol expert) lets engineers ask questions in natural language and get answers grounded in real telemetry data — traces, service topology, RED metrics, and alerts.
+- Bidirectional MCP: the platform exposes an MCP server for tools like Cursor / Claude to query observability data, and can also consume external MCP servers (Prometheus, SkyWalking, etc.).
+- Built-in alerting with threshold and anomaly detection, scheduled evaluation, and alert event recording.
+- Skill + Tool extensibility: built-in skills can be overridden, custom digital experts can be added without touching core code.
+- Three-component architecture (Ingest + Doris + Web); runs on Docker or Kubernetes with a single command. Supports OpenAI-compatible and Anthropic models, plus Kimi, DeepSeek, GLM, Ollama, etc.
+
+### Links
+- [GitHub](https://github.com/databufflabs/databuff)
+- [Web](https://databuff.ai/)
+- [Demo](https://demo.databuff.ai)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
