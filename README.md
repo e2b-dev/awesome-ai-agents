@@ -2636,6 +2636,30 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [SyntheticBrew](https://github.com/syntheticinc/syntheticbrew)
+Provision grounded, embeddable AI chat agents for websites from your coding agent
+
+<details>
+
+![image](https://avatars.githubusercontent.com/u/264214828?s=200&v=4)
+
+### Category
+Build-your-own, Supports open-source models
+
+### Description
+- Self-hostable agent engine (Go + PostgreSQL) with RAG, knowledge graphs and long-term memory built in
+- Remote MCP server with OAuth 2.1 (34 tools) lets your coding agent provision and configure agents end-to-end
+- Agents are grounded in your own documents and systems, not guesswork
+- Embeddable chat widget adds the agent to any website with a single script tag
+- No-code admin dashboard to build, test and run agents
+
+### Links
+- [GitHub](https://github.com/syntheticinc/syntheticbrew)
+- [Web](https://syntheticbrew.ai)
+- [Documentation](https://syntheticbrew.ai/docs)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
