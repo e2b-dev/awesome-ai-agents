@@ -1771,6 +1771,32 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [LingShu](https://royzhao1991.github.io/LingShu/)
+Open-source, model-agnostic macOS execution agent for verified deliverables beyond code
+
+<details>
+
+![LingShu task replay](https://raw.githubusercontent.com/RoyZhao1991/LingShu/main/Docs/media/lingshu-social-preview.png)
+
+### Category
+General purpose, Coding, Content creation, Productivity, Multi-agent, Supports open-source models
+
+### Description
+- Apache-2.0 native Swift app and agent runtime for macOS
+- Uses OpenAI, Anthropic, DeepSeek, MiniMax, or compatible custom endpoints through one replaceable model gateway
+- Turns requests into traceable goals and tasks with isolated workers, tools, human checkpoints, and an independent checker
+- Produces real local artifacts including code, editable PPTX and DOCX files, PDFs, media, and authorized computer actions
+- Registers and previews deliverables instead of treating a filename in chat as proof of completion
+- Ships as a signed and notarized Universal macOS app with a Homebrew installation path
+
+### Links
+- [GitHub](https://github.com/RoyZhao1991/LingShu)
+- [Website and task replay](https://royzhao1991.github.io/LingShu/#deliverables)
+- [Signed alpha release](https://github.com/RoyZhao1991/LingShu/releases/tag/v0.1.0-alpha.6)
+- [Reproducible PPTX and DOCX sample](https://github.com/RoyZhao1991/LingShu/tree/main/Examples/project-aurora)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
