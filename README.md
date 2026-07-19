@@ -2372,6 +2372,9 @@ Productivity, General purpose
 </details>
 
 
+## [railward](https://github.com/Ourbando/railward)
+A fail-closed gate for untrusted AI coding agents that attacks itself and signs a re-runnable proof of what it blocked
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
