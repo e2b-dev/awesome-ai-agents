@@ -5486,6 +5486,29 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Xquik](https://xquik.com)
+X/Twitter research and automation platform for AI agents
+
+<details>
+
+### Category
+Data analysis, Automation, Productivity
+
+### Description
+- Proprietary hosted X/Twitter data and automation service for AI agents
+- 126 REST operations and 118 MCP operations through 2 tools
+- Streamable HTTP MCP, OAuth 2.1, API keys, HMAC webhooks, SDKs, and CLI
+- Public MIT-licensed agent Skill for endpoint selection and safe workflows
+
+### Links
+- [Web](https://xquik.com)
+- [Documentation](https://docs.xquik.com)
+- [Open-source agent Skill](https://github.com/Xquik-dev/x-twitter-scraper)
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
