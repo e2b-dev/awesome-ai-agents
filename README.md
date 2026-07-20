@@ -3006,6 +3006,29 @@ General purpose
 
 </details>
 
+## [AgentGrid](https://agentgrid.sh)
+Infinite canvas for orchestrating multiple AI coding agents
+
+<details>
+
+![image](https://agentgrid.sh/og.png)
+
+### Category
+Coding, Multi-agent, Productivity
+
+### Description
+- Desktop app (macOS, Linux, Windows) with a free tier
+- Infinite, zoomable canvas for running multiple AI coding agents side by side
+- A master orchestrator pane spawns role-based worker agents (builder, QA, reviewer), messages them, and collects their results
+- Each worker can run in its own git worktree
+- Integrated terminals and Playwright-driven browser panes live on the same canvas
+- Runs Claude Agent SDK and OpenAI Codex SDK behind a shared worker protocol
+
+### Links
+- [Web](https://agentgrid.sh)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
