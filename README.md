@@ -2961,6 +2961,33 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [ZYRAXON](https://github.com/onelpawarai/ZYRAXON-AI)
+Desktop AI Agent with Beast Mode
+
+<details>
+
+![Image](https://github.com/onelpawarai/ZYRAXON-AI/raw/main/docs/screenshots/hero.png)
+
+### Category
+General purpose, Coding
+
+### Description
+
+- **Beast Mode** - Maximum power agent with 3-level deep subagent army
+- **Persistent Memory** - Remembers everything across sessions (SQLite-backed)
+- **Self-Evolution** - Installs its own MCP servers and tools at runtime
+- **Voice Input** - Click the mic, speak naturally via Whisper
+- **Auto-Approve** - All permissions auto-approved. No interruptions!
+- **20+ AI Models** - OpenAI, Anthropic, Gemini, DeepSeek, Meta
+
+ZYRAXON is an open-source desktop AI agent built on Electron + SolidJS + Bun. Unlike chatbots that just talk, ZYRAXON takes action - it has full access to your filesystem, terminal, browser, and more.
+
+### Links
+- [GitHub](https://github.com/onelpawarai/ZYRAXON-AI)
+- [Website](https://zyraxonai.lovable.app/)
+- [YouTube](https://youtube.com/@zyraxon-aix)
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
