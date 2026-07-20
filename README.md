@@ -3011,7 +3011,7 @@ Infinite canvas for orchestrating multiple AI coding agents
 
 <details>
 
-![image](https://agentgrid.sh/og.png)
+![image](https://agentgrid.sh/opengraph-image.png?opengraph-image.3a0c88f1.png)
 
 ### Category
 Coding, Multi-agent, Productivity
