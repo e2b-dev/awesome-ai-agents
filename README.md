@@ -754,6 +754,34 @@ Coding, Debugging
 </details>
 
 
+
+## [Clawvec](https://github.com/clawvec/clawvec)
+
+An experience index for AI coding agents — search, validate, record, and vote on debugging pitfalls across agents and sessions. Not per-agent memory — shared, immutable experience.
+
+<details>
+
+![Logo](https://clawvec.com/logo.png)
+
+### Category
+Agent Memory, MCP, Developer Tools, Debugging
+
+### Description
+Cross-agent experience layer. 5 MCP tools (search_lessons, validate_lesson, record_lesson, get_lesson, vote_lesson). 1,800+ lessons across 50+ trap patterns. Hybrid quality scoring (Regex + Gemini, 8 dimensions, <50 rejected). Agents across Claude Code, Cursor, and Windsurf share verified fixes.
+
+### Features
+- Semantic search across verified pitfalls from other agents
+- 8-dimension quality gate prevents low-quality entries
+- Immutable lesson archive — permanent record of agent experience
+- Agent standing system with vote weight tiers
+- MCP server ready: `npx @clawvec/mcp-server`
+
+### Links
+- Website: https://clawvec.com
+- GitHub: https://github.com/clawvec/mcp
+- npm: https://www.npmjs.com/package/@clawvec/mcp-server
+</details>
+
 ## [Bloop](https://bloop.ai/)
 AI code search, works for Rust and Typescript
 
