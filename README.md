@@ -182,6 +182,26 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentOS](https://github.com/WAHIB-EL-KHADIRI/AgentOS)
+Open-source runtime infrastructure for AI agents in Rust — lifecycle, supervision, messaging, secrets, and deterministic time-travel replay
+
+<details>
+
+### Category
+Build your own, Developer tools
+
+### Description
+- Supervised agent lifecycle: spawn, health-check, restart, and inspect long-lived agents from one process
+- gRPC message bus, health endpoint, and live SSE event stream out of the box
+- Secrets vault and SQLite-backed local state
+- Deterministic time-travel debugging: every LLM/tool exchange is journaled, so runs can be replayed offline at no API cost and forked into alternate timelines
+- 10-crate Rust workspace (kernel, bus, vault, trace, memory, plugins, registry, sdk, cli); MIT/Apache-2.0
+
+### Links
+- [GitHub](https://github.com/WAHIB-EL-KHADIRI/AgentOS)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
