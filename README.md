@@ -712,6 +712,26 @@ Data analysis
 </details>
 
 
+## [BenchGen](https://benchgen.com)
+AI agent benchmarking and evaluation platform
+
+<details>
+
+### Category
+Evaluation Frameworks
+
+### Description
+- Runs structured benchmark suites against AI agents and scores performance across multiple quality dimensions.
+- Scores tool-call accuracy, goal completion, skill coverage, memory utilisation, and regression stability.
+- Exports filtered trajectory data for LoRA fine-tuning.
+- Supports multi-agent and agentic workflow evaluation.
+
+### Links
+- [Website](https://benchgen.com)
+
+</details>
+
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
