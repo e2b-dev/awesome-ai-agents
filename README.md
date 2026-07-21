@@ -2700,9 +2700,12 @@ Multi-agent code evolution — LLMs compete, a JIT compiler judges
 Coding, Multi-agent, Build your own
 
 ### Description
-- Takes solutions from multiple LLMs (Claude, GPT, Gemini, etc.), compiles them through a real JIT compiler (Vitalis), benchmarks them with statistical rigor, then breeds the winners together — crossover, mutation, selection — across many generations.
-- The result is code that's measurably better than any single model wrote on its own.
-- Includes a governance layer (SHA-256 provenance, policy engine, circuit breaker), a memory/skills system (working → episodic → semantic with decay), a self-improvement engine (LLM-driven patching with AST validation and fitness gating), and a native desktop bridge (file explorer, VS Code, PowerShell, clipboard sync).
+- Takes solutions from multiple LLMs (Claude, GPT, Gemini, etc.) and compiles them through a JIT compiler (Vitalis).
+- Benchmarks candidate solutions, then breeds the top performers together — crossover, mutation, selection — across multiple generations.
+- Includes a governance layer (SHA-256 provenance, policy engine, circuit breaker).
+- Includes a memory/skills system (working → episodic → semantic, with decay).
+- Includes a self-improvement engine (LLM-driven patching with AST validation and fitness gating).
+- Includes a native desktop bridge (file explorer, VS Code, PowerShell, clipboard sync).
 
 ### Links
 - [GitHub](https://github.com/ModernOps888/the-forge)
