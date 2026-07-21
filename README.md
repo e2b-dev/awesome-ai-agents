@@ -4127,6 +4127,29 @@ Productivity
 
 </details>
 
+## [Gamut](https://gamut.so/)
+Persistent AI agents that work as autonomous digital employees
+
+<details>
+
+### Category
+Productivity, Business automation, General purpose
+
+### Description
+- Persistent AI agents that run 24/7 as autonomous digital employees
+- Agents connect to 130+ integrations via MCP (Model Context Protocol) — Gmail, Slack, Notion, GitHub, and more
+- Each agent gets its own workspace with file system, browser, and tools
+- Skills system lets agents learn and reuse workflows
+- Template marketplace with 130+ pre-built agent templates for common business tasks
+
+### Links
+- [Web](https://gamut.so/)
+- [Agent Templates](https://gamut.so/agent-templates)
+- [Blog](https://gamut.so/blog)
+- [GitHub](https://github.com/SkillfulAgents/gamut-templates)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
