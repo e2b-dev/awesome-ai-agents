@@ -2574,6 +2574,27 @@ General purpose
 </details>
 
 
+## [SwarmDo](https://github.com/SwarmDo/swarmdo)
+Agent-swarm orchestration for Claude Code
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Open-source orchestration layer that turns Claude Code's isolated agents into coordinated swarms (`npx swarmdo init`).
+- Coordinates 100+ specialized subagents (coding, testing, security, docs) that self-organize with shared state.
+- Vector memory with HNSW-indexed recall, hive-mind consensus, and self-learning hooks; coordination is exposed as MCP tools.
+- Self-hostable and MIT-licensed, with agent federation across machines.
+
+### Links
+- [GitHub](https://github.com/SwarmDo/swarmdo)
+- [Website](https://swarmdo.com)
+
+</details>
+
+
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
 
