@@ -474,6 +474,24 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [analyze-longevity](https://github.com/liveforeverbetter/agentic-longevity-analysis)
+Agent-native local-first healthspan analysis pipeline
+
+<details>
+
+### Category
+Health, Bioinformatics, Personal
+
+### Description
+- Agent-native local-first healthspan analysis pipeline for personal health data.
+- Supports WGS genomics, 168+ biomarkers, and wearable file imports (WHOOP, Oura, Garmin).
+- Runs fully locally — no cloud required.
+- MIT licensed.
+
+### Links
+- [GitHub](https://github.com/liveforeverbetter/agentic-longevity-analysis)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
@@ -2762,6 +2780,24 @@ General purpose
 - [YouTube video](https://www.youtube.com/watch?v=uTg39rNMojo)
 - [Tweet](https://twitter.com/DrJimFan/status/1662115266933972993)
 
+</details>
+
+## [wellnizz](https://github.com/liveforeverbetter/wellnizz)
+Agent-native healthspan API with 21 MCP tools
+
+<details>
+
+### Category
+Health, Bioinformatics, Personal
+
+### Description
+- Agent-native healthspan API exposing 21 MCP tools for biomarkers (168+ markers), wearables (WHOOP, Oura, Garmin), and genomics (WGS, ClinVar, CPIC, PRS).
+- Self-hostable via Docker or hosted at app.wellnizz.com.
+- AGPL-3.0 licensed.
+
+### Links
+- [GitHub](https://github.com/liveforeverbetter/wellnizz)
+- [Website](https://app.wellnizz.com)
 </details>
 
 ## [Web3 GPT](https://w3gpt.ai/)
