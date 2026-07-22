@@ -475,7 +475,7 @@ HR, Business intelligence, Productivity
 </details>
 
 ## [analyze-longevity](https://github.com/liveforeverbetter/agentic-longevity-analysis)
-Agent-native local-first healthspan analysis pipeline
+Agent-first local-first healthspan analysis pipeline
 
 <details>
 
@@ -483,7 +483,7 @@ Agent-native local-first healthspan analysis pipeline
 Health, Bioinformatics, Personal
 
 ### Description
-- Agent-native local-first healthspan analysis pipeline for personal health data.
+- Agent-first local-first healthspan analysis pipeline for personal health data.
 - Supports WGS genomics, 168+ biomarkers, and wearable file imports (WHOOP, Oura, Garmin).
 - Runs fully locally — no cloud required.
 - MIT licensed.
@@ -2783,7 +2783,7 @@ General purpose
 </details>
 
 ## [wellnizz](https://github.com/liveforeverbetter/wellnizz)
-Agent-native healthspan API with 21 MCP tools
+Agent-first API for genetics, biomarkers, and wearables. 21 MCP tools for biomarkers (168+ markers), wearables (WHOOP, Oura, Garmin), and genomics (WGS, ClinVar, CPIC, PRS).
 
 <details>
 
@@ -2791,7 +2791,7 @@ Agent-native healthspan API with 21 MCP tools
 Health, Bioinformatics, Personal
 
 ### Description
-- Agent-native healthspan API exposing 21 MCP tools for biomarkers (168+ markers), wearables (WHOOP, Oura, Garmin), and genomics (WGS, ClinVar, CPIC, PRS).
+- Agent-first API for genetics, biomarkers, and wearables with 21 MCP tools for biomarkers (168+ markers), wearables (WHOOP, Oura, Garmin), and genomics (WGS, ClinVar, CPIC, PRS).
 - Self-hostable via Docker or hosted at app.wellnizz.com.
 - AGPL-3.0 licensed.
 
