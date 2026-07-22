@@ -474,24 +474,6 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
-## [analyze-longevity](https://github.com/liveforeverbetter/agentic-longevity-analysis)
-Agent-first local-first healthspan analysis pipeline
-
-<details>
-
-### Category
-Health, Bioinformatics, Personal
-
-### Description
-- Agent-first local-first healthspan analysis pipeline for personal health data.
-- Supports WGS genomics, 168+ biomarkers, and wearable file imports (WHOOP, Oura, Garmin).
-- Runs fully locally — no cloud required.
-- MIT licensed.
-
-### Links
-- [GitHub](https://github.com/liveforeverbetter/agentic-longevity-analysis)
-</details>
-
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
