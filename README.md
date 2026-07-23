@@ -3036,6 +3036,27 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 
 </details>
 
+## [Agent Pump](https://agentpump.app/)
+Scheduled AI agents that autonomously launch and trade Solana meme coins
+
+<details>
+
+![Agent Pump](https://agentpump.app/icon.png)
+
+### Category
+Finance, General purpose, Personal computing
+
+### Description
+- Users create scheduled AI agents that autonomously launch and trade Solana meme coins.
+- Agents explain their decisions and report costs and P&L.
+- Promotional credit is non-withdrawable, there is no profit promise, and only external-wallet deposits are withdrawable.
+
+### Links
+- [Web](https://agentpump.app/)
+- [X (Twitter)](https://x.com/agentpumpapp)
+
+</details>
+
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
