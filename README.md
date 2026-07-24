@@ -447,6 +447,27 @@ Coding, GitHub
 
 </details>
 
+## [Autopunk Media Skills](https://github.com/ur-grue/autopunk-media-skills)
+6 specialized AI agents for journalists, TV producers, podcasters, and YouTubers
+
+<details>
+
+### Category
+Content creation, Media production
+
+### Description
+- Six production-ready agents built for media professionals: magazine editor, investigative reporter, documentary development, YouTube channel operator, podcast producer, and PR crisis response
+- Each agent chains multiple skills into a single-instruction workflow — the podcast producer agent, for example, orchestrates pre-interview research, episode scripting, show notes, and distribution
+- Backed by 394 quality-tested skills across 21 categories (TV documentary, journalism, YouTube, podcast, radio, newsletter, PR, screenwriting, data journalism, and more)
+- Every agent scored on a seven-dimension G-Eval rubric with a 4.0/5 minimum to ship as stable (library mean: 4.38/5)
+- Skills are plain markdown prompts — they work with Claude, ChatGPT, Cursor, Codex CLI, and Gemini CLI
+- MIT licensed, no API keys or accounts required
+
+### Links
+- [GitHub](https://github.com/ur-grue/autopunk-media-skills)
+
+</details>
+
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
 Agent that answers HR-related queries using tools
 
