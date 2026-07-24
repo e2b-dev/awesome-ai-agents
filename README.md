@@ -5594,3 +5594,8 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 ## Community Additions
 
 - [CinéVague — Auteur Cinema Designer](https://github.com/zfryrgnci/CineVague-Film-Project-Designer) - A multi-agent arthouse filmmaking desktop application simulating a virtual studio.
+
+
+## Community Additions
+
+- [CinéVague — Auteur Cinema Designer](https://github.com/zfryrgnci/CineVague-Film-Project-Designer) - A multi-agent arthouse filmmaking desktop application simulating a virtual studio.
