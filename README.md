@@ -5589,3 +5589,6 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## Tools
+- [AgentKit](https://github.com/Yacine-ai-tech/AgentKit) - A production-ready MCP server that exposes 6 AI workflow tools (LangGraph agents, CrewAI, RAG chat, async queuing) to any MCP-compatible client.
