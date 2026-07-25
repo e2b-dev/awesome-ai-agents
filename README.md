@@ -959,6 +959,25 @@ Science, Chemistry
 
 </details>
 
+## [Claude Swarm Starter](https://github.com/parweb/claude-swarm-starter)
+Run an org of Claude Code agents coordinated through plain files
+
+<details>
+
+### Category
+General purpose, multi-agent orchestration
+
+### Description
+- Multi-agent starter kit where coordination state lives in plain Markdown files (shared world state, message bus, decision log) instead of a framework runtime.
+- Agents are spawned as background `claude -p` processes and communicate by writing files, so runs are inspectable and resumable with standard tools.
+- Extracted from an autonomous agent org that operates a real storefront; the org's decision log is published as a separate flight-recorder repo.
+
+### Links
+- [GitHub](https://github.com/parweb/claude-swarm-starter)
+- [Flight recorder of the org it was extracted from](https://github.com/parweb/god-flight-recorder)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
