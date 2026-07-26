@@ -1312,6 +1312,25 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [engram-mcp](https://github.com/lalithbuilds/engram-mcp)
+Zero-dependency persistent memory for AI agents
+
+<details>
+
+### Category
+General purpose, Build your own, SDK for AI apps
+
+### Description
+- A zero-dependency, pure Python stdlib MCP server for persistent AI agent memory.
+- Uses SQLite FTS5 for full-text search and knowledge retrieval.
+- Fully local and auto-initializing, supporting standalone CLI usage.
+- Ideal for coding agents to persist architectural decisions and context.
+
+### Links
+- [GitHub](https://github.com/lalithbuilds/engram-mcp)
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
