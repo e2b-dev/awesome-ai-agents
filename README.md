@@ -5207,6 +5207,7 @@ Finance
 ### Links
 - [Website](https://www.signalview.xyz)
 - [How it works](https://www.signalview.xyz/about)
+- [GitHub (perpsignal — the open-source signal engine, Apache-2.0)](https://github.com/mokshyaprotocol/signalview)
 - [Twitter](https://x.com/signalview_xyz)
 
 </details>
