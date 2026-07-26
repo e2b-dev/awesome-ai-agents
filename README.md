@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+- [IHUI-AI](https://github.com/IHUI-INF-AI/IHUI-AI) - 8-end open-source AI platform with 176 LLM models, LangGraph + MCP + A2A triple stack, RAG knowledge base, and agent marketplace. Apache 2.0.
