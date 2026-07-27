@@ -5360,6 +5360,23 @@ Coding
   
 </details>
 
+
+## [UnblockAPI](https://unblockapi.com)
+
+API for AI agents providing captcha solving (40+ types), headless browser rendering, temp email, SMS verification, screenshots, and web search — all through a single API key with flat pricing from $0.05/call.
+
+### Category
+API / Developer Tools / Agent Infrastructure
+
+### Description
+UnblockAPI gives AI agents capabilities they lack natively. When your agent hits a captcha, needs JS-rendered content, or requires email/SMS verification — UnblockAPI handles it. Ships with a native MCP server (11 tools) for Claude Desktop, Cursor, and VS Code. 5 free calls, no credit card.
+
+### Links
+- [Website](https://unblockapi.com)
+- [GitHub](https://github.com/unblockapi/unblockapi)
+- [API Docs](https://api.unblockapi.com/docs)
+- [MCP Server](https://github.com/unblockapi/unblockapi/tree/master/mcp_server)
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
