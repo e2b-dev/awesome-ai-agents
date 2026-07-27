@@ -3542,6 +3542,32 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Bride Cognitive Engine](https://tools.gracestack.se/bride-api.html)
+Cognitive API for AI agents — HDC, Active Inference, Ebbinghaus memory
+
+<details>
+
+![image](https://tools.gracestack.se/favicon.ico)
+
+### Category
+Build-your-own (agent-building frameworks and platforms), SDK for AI apps, Multi-agent
+
+### Description
+- Bride is a cognitive engine that adds genuine cognition to AI agents — not just text generation
+- Combines Hyperdimensional Computing (10k-dim vectors), Active Inference (Bayesian belief updating), Ebbinghaus memory (forgetting curves), and Dream Weaver (creative synthesis)
+- REST API with 5 endpoints: cognitive state, anomaly detection (120+ anomalies), hypotheses, associative memory, dreams
+- Runs 24/7 on Azure infrastructure in Stockholm. 12 active cognitive modules, 65+ dreams, real-time anomaly detection
+- Design Partner Program for AI agent builders who need cognition (not just LLM wrappers)
+
+### Links
+- [Web](https://tools.gracestack.se/bride-api.html)
+- [Live Dashboard](https://tools.gracestack.se/bride-live.html)
+- [GitHub](https://github.com/cedendahlkim)
+- [X (Twitter)](https://x.com/gracestack)
+- [LinkedIn](https://www.linkedin.com/company/gracestack)
+
+</details>
+
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
