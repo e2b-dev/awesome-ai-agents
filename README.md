@@ -5540,6 +5540,7 @@ E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.c
 - Install system packages dynamically during runtime
 - Run shell commands
 - Upload and download files.
+- [Trends MCP](https://github.com/trendsmcp-ai/Trends-MCP) - Live trend data MCP/API for AI agents across 25+ platforms.
 See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchain-and-e2b?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents).
 
 </details>
