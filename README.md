@@ -1709,6 +1709,27 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [langhost](https://github.com/langhost/langhost)
+MIT self-hosted LangGraph Agent Server on Postgres and Redis
+
+<details>
+
+![Image](https://cdn.jsdelivr.net/gh/langhost/langhost@main/docs/assets/langhost-quickstart.svg)
+
+### Category
+Build your own
+
+### Description
+- Open-source runtime to deploy the LangGraph Agent Server on your own Postgres and Redis without a commercial license key
+- Keeps stock `langgraph-api` and works with LangSmith Studio, `langgraph-sdk`, and existing `langgraph.json` projects without code changes
+- `langhost serve` wires durable persistence and ops; clients stay on the standard Agent Server API
+
+### Links
+- [GitHub](https://github.com/langhost/langhost)
+- [Documentation](https://langhost.github.io/langhost/)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
