@@ -255,6 +255,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [ClawBench](https://github.com/reacher-z/ClawBench)
+Benchmarking framework for evaluating web agents on realistic, long-horizon tasks across live websites.
+<details>
+
+### Category
+Evaluation and benchmarks
+
+### Description
+- Reproducible Docker task suites for browser agents, with V1 and V2 cases spanning real-world websites.
+- Captures browser actions, screenshots, network traffic, session recordings, and agent messages for analysis.
+- Supports multiple agent harnesses, including OpenClaw, Claude Code, Codex, and browser-use.
+
+### Links
+- [GitHub Repository](https://github.com/reacher-z/ClawBench)
+- [Project website](https://claw-bench.com/)
+- [Paper](https://arxiv.org/abs/2604.08523)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
