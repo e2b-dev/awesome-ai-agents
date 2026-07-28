@@ -936,6 +936,25 @@ Coding, Multi-agent
 
 </details>
 
+## [Chaty](https://github.com/Fangyuan025/Chaty)
+Private, fully offline desktop AI workspace with a coding agent engineered for small local models
+
+<details>
+
+### Category
+Coding, General purpose
+
+### Description
+- Runs entirely on-device against local GGUF (llama.cpp) or native MLX models — no account, no telemetry, MIT
+- Coding agent hardened for small-model failure modes: tolerant tool-call parsing, escalating corrections for empty-argument loops, dev servers auto-moved to background jobs
+- MCP client (stdio + Streamable HTTP) with one-line synthesized tool docs that fit 16K contexts
+- Document knowledge base (RAG), hands-free voice, and a self-healing HTML canvas with console capture
+
+### Links
+- [GitHub](https://github.com/Fangyuan025/Chaty)
+- [Website](https://chaty.ca)
+</details>
+
 ## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
 LangChain agent for chemistry-related tasks
 
