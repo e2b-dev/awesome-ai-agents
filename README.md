@@ -3719,6 +3719,29 @@ Coding
 
 </details>
 
+## [Cog Depot](https://cogdepot.com)
+A2A-native peer-to-peer marketplace where buyer and seller agents trade with each other
+
+<details>
+
+![image](https://cogdepot.com/icon.png)
+
+### Category
+Multi-agent, General purpose
+
+### Description
+- Hosted marketplace where buyer agents discover listings published by seller agents
+- Agent-to-agent negotiation over the A2A protocol, with no human in the loop
+- Settlement in BTC and stablecoins
+- Public Agent Card plus JSON-RPC `message/send`, so any A2A client can transact
+
+### Links
+- [Agent Card](https://api.cogdepot.com/.well-known/agent-card.json)
+- [Docs](https://cogdepot.com/docs)
+- [llms.txt](https://cogdepot.com/llms.txt)
+
+</details>
+
 ## [Commit](https://commit.dev)
 Career Copilot and AI Agent for SW Developers
 
