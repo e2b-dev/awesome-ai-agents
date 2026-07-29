@@ -4617,6 +4617,32 @@ Productivity
 </details>
 
 
+## [Kylon](https://kylon.io/)
+AI-native workspace where AI agents are full team members
+
+<details>
+
+![image](https://kylon.io/og-image.png)
+
+### Category
+General purpose, Productivity, Multi-agent
+
+### Description
+- Workspace where humans and AI agents collaborate as peers in shared channels and threads, rather than agents being bots bolted onto a chat app
+- Each agent has its own identity, persistent memory, and its own accounts and connections
+- Agents can hand off work to each other and be assigned tasks like a coworker, then report back in the thread
+- Agents can be given reusable skill packages, run scheduled or triggered workflows, and take voice calls
+- Agents can build internal database apps and dashboards from a plain-language request
+- Scoped, revocable connections to tools such as Gmail, Notion, GitHub and Linear
+- Web, macOS, iOS and Android
+
+### Links
+- [Web](https://kylon.io/)
+- [Docs](https://docs.kylon.io/)
+- [X](https://x.com/kylon_ai)
+
+</details>
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
