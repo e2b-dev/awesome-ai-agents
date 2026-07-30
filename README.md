@@ -3825,6 +3825,27 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [Dahrk](https://dahrk.ai/)
+Turn a Linear issue into a multi-stage agent workflow
+
+<details>
+
+### Category
+Coding, GitHub, Productivity
+
+### Description
+- A hub dispatches each stage of a workflow to a node you run, and the node executes that stage in its own git worktree
+- Each stage gets its own runtime (Claude Code, Codex, Pi), model, prompt, and tools, with approval gates between stages
+- Plain TypeScript sequences the stages, so no model picks the next step
+- The node client is Apache-2.0; the hub is hosted
+- Use-case: taking a Linear issue to a reviewed pull request
+
+### Links
+- [Web](https://dahrk.ai/)
+- [Docs](https://dahrk.ai/docs)
+- [GitHub](https://github.com/dahrkai/dahrk-node)
+</details>
+
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
