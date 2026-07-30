@@ -2171,6 +2171,25 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Nimbus](https://github.com/nimbus-agent/Nimbus)
+Local-first AI agent for on-call and platform engineers
+
+<details>
+
+### Category
+Productivity, GitHub, Supports open-source models
+
+### Description
+- Nimbus runs as a headless gateway plus CLI on your own machine and builds a private SQLite index of your work across ~80 developer and infrastructure services — GitHub, GitLab, Jira, Slack, PagerDuty, Datadog, Sentry, Snowflake and more — through first-party MCP connectors
+- It answers cross-tool questions in a single query — last deploy, triggering commit, CI result, owning team, blast radius — and runs multi-step workflows on your behalf
+- Every destructive or outbound action passes a human-in-the-loop consent gate that lives in the executor rather than the prompt, so it cannot be prompted away. Credentials stay in the OS keystore, and the index and audit log never leave the machine. Pointing it at a local Ollama model keeps prompts local too
+
+### Links
+- [Website](https://nimbus-agent.dev)
+- Author: [Asaf Golombek](https://github.com/asafgolombek) (Github)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
