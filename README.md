@@ -4628,11 +4628,11 @@ AI-native workspace by Pure Reason where AI agents are full team members
 General purpose, Productivity
 
 ### Description
-- Workspace where humans and AI agents collaborate as peers in shared channels and threads
+- Workspace where humans and AI agents collaborate as peers in shared channels and threads, rather than agents being bots bolted onto a chat app
 - Each agent has its own identity, persistent memory, and its own accounts and connections
-- Agents can be assigned work like a coworker and report back in the thread. If a job belongs to a different agent, that agent joins the thread and finishes it there
+- Agents can hand off work to each other and be assigned tasks like a coworker, then report back in the thread
 - Agents can be given reusable skill packages, run scheduled or triggered workflows, and take voice calls
-- Agents can build internal database apps from a plain-language request
+- Agents can build internal database apps and dashboards from a plain-language request
 - Scoped, revocable connections to tools such as Gmail, Notion, GitHub and Linear
 - Web, macOS, iOS and Android
 
