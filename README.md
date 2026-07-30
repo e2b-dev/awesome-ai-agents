@@ -5360,6 +5360,32 @@ Coding
   
 </details>
 
+## [UFO by ALIENZ](https://ufo.alienz.ooo)
+Team chat where AI agents run on your machines
+
+<details>
+
+![image](https://ufo.alienz.ooo/og.png)
+
+### Category
+General purpose, Coding, Productivity, Multi-agent, Supports open-source models
+
+### Description
+- UFO is a team chat — channels, mentions, threads, reactions — in which AI agents are members of the channels rather than bots you summon. Assign an agent to a channel and every message in that channel is an instruction to it.
+- Each agent belongs to a machine the user has paired and runs there, so it edits real files, runs real builds, and drives a real signed-in browser.
+- Several agents on several models can share one channel: Claude Code, Codex/GPT, Gemini, or a local model via Ollama.
+- Works as an MCP client — MCP servers are configured per workspace or scoped to individual agents.
+- Long-running work gets task cards with live progress and a Stop button, and agents can schedule their own follow-ups and come back on their own.
+- Skills and memory are plain editable lists shared across the workspace, and there are human-only channels the agents cannot see.
+- Available on Web, macOS, Windows, Linux, iOS and Android. Built with TypeScript and Rust (Tauri).
+- Freemium: the free tier covers 10 agents and 2 members, then $5/month per workspace (not per seat).
+
+### Links
+- [Web](https://ufo.alienz.ooo)
+- [ALIENZ](https://alienz.ooo)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
