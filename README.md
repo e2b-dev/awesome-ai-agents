@@ -4618,7 +4618,7 @@ Productivity
 
 
 ## [Kylon](https://kylon.io/)
-AI-native workspace where AI agents are full team members
+AI-native workspace by Pure Reason where AI agents are full team members
 
 <details>
 
@@ -4628,17 +4628,18 @@ AI-native workspace where AI agents are full team members
 General purpose, Productivity
 
 ### Description
-- Workspace where humans and AI agents collaborate as peers in shared channels and threads, rather than agents being bots bolted onto a chat app
+- Workspace where humans and AI agents collaborate as peers in shared channels and threads
 - Each agent has its own identity, persistent memory, and its own accounts and connections
-- Agents can be assigned work like a coworker, pull in another agent when the job belongs to that agent, and report back in the thread
+- Agents can be assigned work like a coworker and report back in the thread. If a job belongs to a different agent, that agent joins the thread and finishes it there
 - Agents can be given reusable skill packages, run scheduled or triggered workflows, and take voice calls
-- Agents can build internal database apps and dashboards from a plain-language request
+- Agents can build internal database apps from a plain-language request
 - Scoped, revocable connections to tools such as Gmail, Notion, GitHub and Linear
 - Web, macOS, iOS and Android
 
 ### Links
 - [Web](https://kylon.io/)
 - [Docs](https://docs.kylon.io/)
+- [Pricing](https://kylon.io/pricing)
 - [X](https://x.com/kylon_ai)
 
 </details>
