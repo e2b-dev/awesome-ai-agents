@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Ouroboros](https://github.com/razzant/ouroboros)
+General-purpose agent with persistent identity, memory, and reviewed self-modification
+
+<details>
+
+### Category
+General purpose, Coding, Multi-agent, Supports open-source models
+
+### Description
+- Keeps its identity, memory, dialogue, and Git history across tasks and restarts.
+- Runs as a native desktop app or through a headless CLI, using configured model APIs or a local GGUF model.
+- Works on external projects and coordinates specialist agents in parallel.
+- Evolution campaigns can change its code, architecture, prompts, tools, and dependencies, with review, restart verification, and rollback paths.
+
+### Links
+- [GitHub](https://github.com/razzant/ouroboros)
+- [Website](https://ouroboros-agent.ai/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
