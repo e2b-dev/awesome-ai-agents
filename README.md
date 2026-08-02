@@ -2094,6 +2094,28 @@ General purpose
 </details>
 
 
+## [MisakaNet](https://github.com/Ikalus1988/MisakaNet)
+Git-backed debugging lessons for AI coding agents
+
+<details>
+
+### Category
+Knowledge management, Coding, Debugging
+
+### Description
+- Curates 200+ verified debugging lessons from real-world open-source contributions across 33 repositories
+- Provides BM25 + vector hybrid search for retrieving relevant past failures and solutions
+- MCP server integration allows coding agents to query lessons contextually during development
+- Each lesson follows Problem → Root Cause → Solution → Verification structure with quality scoring
+
+### Links
+- [GitHub](https://github.com/Ikalus1988/MisakaNet)
+- [MCP Server](https://github.com/Ikalus1988/MisakaNet#mcp-server)
+- [Glama](https://glama.ai/mcp/servers/@Ikalus1988/MisakaNet)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
