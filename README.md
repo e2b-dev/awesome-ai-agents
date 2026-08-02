@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Albatross](https://github.com/morganlinton/Albatross)
+Terminal coding agent with transparent multi-model routing across local and cloud models
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Albatross is an open source (MIT), terminal-first coding agent written in Rust that routes each task across multiple models at the execution layer
+- A selector model picks the orchestrator, coder, and reviewer tier per task, blending local backends (Ollama, LM Studio, MLX, llama.cpp) with cloud providers (OpenRouter, OpenAI, or ChatGPT/Grok subscription OAuth)
+- Every routing decision is recorded in an auditable ledger: candidates, scores, cost estimates, confidence, policy exclusions, and outcomes, replayable with /route explain
+- Per-turn cost on the status line, real /undo for agent file mutations, session forking to compare fixes, and a generate-evaluate loop with a separate critic model
+
+### Links
+- [Website](https://albatross.sh)
+- [GitHub](https://github.com/morganlinton/Albatross)
+- Author: [Morgan Linton](https://x.com/morganlinton) (X)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
