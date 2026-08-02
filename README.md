@@ -114,6 +114,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+
+## [Agent Console](https://github.com/Perseon-Lab/agent-console)
+Open-source browser mission control for Hermes-powered AI agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/Perseon-Lab/agent-console/main/screenshots/agent-console-coo.webp)
+
+### Category
+General purpose, Build your own
+
+### Description
+
+- Agent Console gives builders a clean local web UI for running and supervising one Hermes-powered AI agent.
+- It includes chat, session visibility, cron jobs, skills, voice controls, and read-only mission runs.
+- The app is a small Python server with no frontend build step, designed for private deployment behind Tailscale or another trusted access layer.
+
+### Links
+- [GitHub](https://github.com/Perseon-Lab/agent-console)
+- [Website](https://perseon.ai/)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
