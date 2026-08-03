@@ -2253,6 +2253,27 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OpenCandle](https://github.com/Kahtaf/OpenCandle)
+Evidence-first financial research agent with live market data
+
+<details>
+
+### Category
+Finance, Research, Data analysis
+
+### Description
+- Uses LLM tool calls to gather current quotes, filings, options, macro, crypto, and sentiment data before answering.
+- Exposes sources, timestamps, and stale or unavailable providers in terminal and local browser interfaces.
+- Stores watchlists, portfolios, and alerts locally and does not place trades.
+- Runs with OpenAI, Anthropic, or Google models and optional market-data provider keys.
+
+### Links
+- [Website](https://opencandle.app/)
+- [Documentation](https://opencandle.app/docs/getting-started.html)
+- [GitHub](https://github.com/Kahtaf/OpenCandle)
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
