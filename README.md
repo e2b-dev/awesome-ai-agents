@@ -95,6 +95,27 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aeon](https://github.com/aeonfun/aeon)
+Autonomous agent framework that runs unattended on GitHub Actions
+
+<details>
+
+### Category
+Coding, GitHub
+
+### Description
+- Open-source framework for autonomous agents that run unattended on GitHub Actions, on a cron schedule or reactive repo triggers, with no approval loops
+- Defines agent behavior as Markdown "skills" (60+ across research, dev, crypto, and productivity)
+- Dispatches each skill to one of six coding-agent harnesses behind a single contract: Claude Code, Codex, Grok, Pi, Vibe, and Kimi
+- Scores its own run output (1-5 via Haiku) and self-heals by rewriting underperforming skills
+- Persists memory in the git repository; ships an MCP server that exposes every skill as a tool
+
+### Links
+- [GitHub](https://github.com/aeonfun/aeon)
+- [Website](https://www.aeon.fun/)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
