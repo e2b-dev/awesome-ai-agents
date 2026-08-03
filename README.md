@@ -2296,6 +2296,37 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Personal Jarvis](https://github.com/PersonalJarvis/PersonalJarvis)
+Voice-driven orchestrator that delegates work to coding agents
+<details>
+
+### Category
+General purpose, Coding, Multi-agent
+
+### Description
+- Self-hosted voice assistant that dispatches spoken requests to agents instead of answering them itself
+- Three tiers handle a turn, and the handover is invisible to the user:
+	- A realtime speech model carries the conversation
+	- A slower tool model runs anything that touches the system
+	- Heavy work becomes a background mission run by a coding agent
+- Missions run in an isolated git worktree. A critic model reviews the result for up to three rounds before it is spoken back
+- Drives Claude Code, Codex CLI and Gemini CLI on their subscription logins, or an in-process worker on a plain API key
+- Provider-agnostic across Gemini, Claude, OpenAI and OpenRouter, with fallback across provider families when a key is dead or rate-limited
+- Wake word and speech recognition can run locally, so audio does not have to leave the machine
+- Every tool call passes a four-tier risk policy, and tool output is treated as data rather than instructions
+- Runs headless on a VPS with the browser acting as microphone, or as a desktop app on Windows, macOS and Linux
+- Memory is a folder of Markdown files, readable in Obsidian
+
+### Stack
+- Python 3.11+, FastAPI, React, pywebview
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/PersonalJarvis/PersonalJarvis)
+- [Website](https://personaljarvis.ai/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
