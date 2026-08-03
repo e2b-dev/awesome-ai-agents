@@ -2019,6 +2019,30 @@ Memory management, Data analysis
 
 </details>
 
+## [MemClaw](https://github.com/caura-ai/memclaw)</details>
+Long-term memory engine for AI agents
+
+<details>
+
+![image](https://github.com/caura-ai.png)
+
+### Category
+Build-your-own, Multi-agent
+
+### Description
+MemClaw is an open-source long-term memory engine for AI agents designed to provide persistent, searchable memory across agent workflows.
+- Enables durable semantic memory for long-running AI agents.
+- Supports contextual retrieval and memory management across sessions.
+- Framework-agnostic and integrates with existing agent stacks.
+- Optimized for scalable, production-ready agent memory.
+
+### Links
+- [GitHub](https://github.com/caura-ai/memclaw)
+- [Documentation](https://docs.caura.ai/)    <!-- replace if different -->
+- [Website](https://caura.ai/)               <!-- optional -->
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
