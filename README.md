@@ -278,6 +278,27 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [Aidelly](https://www.aidelly.ai)
+Agent-operated social media management for agencies
+
+<details>
+
+### Category
+Digital workers, Productivity, Marketing
+
+### Description
+- AI agents (Claude, ChatGPT, or any MCP client) run social media end to end: draft, schedule, approve, publish, and analyze
+- 11 networks: Instagram, Facebook, LinkedIn, X, TikTok, YouTube, Pinterest, Bluesky, Threads, Mastodon, Google Business
+- Approval workflows keep humans in the loop; agencies get client workspaces and white-label client reporting
+- Remote MCP server with OAuth 2.1 one-click sign-in, plus CLI and REST API
+- Claude Code plugin: `/plugin marketplace add Aidelly/claude-plugin`
+
+### Links
+- [Website](https://www.aidelly.ai)
+- [GitHub](https://github.com/Aidelly/claude-plugin)
+- [MCP & API docs](https://www.aidelly.ai/developers/mcp)
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
