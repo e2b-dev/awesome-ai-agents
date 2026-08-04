@@ -95,6 +95,30 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent4API](https://github.com/apoet/Agent4API)
+Turn OpenAPI operations into AI agents
+
+<details>
+
+![Agent4API logo](https://raw.githubusercontent.com/apoet/Agent4API/main/logo.png)
+
+### Category
+General purpose, Build your own
+
+### Description
+- Imports Swagger 2.0 and OpenAPI 3.x definitions from URLs or JSON/YAML files.
+- Uses an LLM to identify business capabilities and generate governed tools, skills, and agents.
+- Exposes imported tools through MCP and serves agents through OpenAI- and Anthropic-compatible APIs.
+- Includes built-in browser chat, embeddable chat, and human-in-the-loop handling for write or high-impact workflows.
+- Supports OpenAI-compatible and Anthropic-compatible LLM providers.
+
+### Links
+- [Demo](https://agent4api.ecrfs.com/admin)
+- [Documentation](https://github.com/apoet/Agent4API/wiki)
+- [GitHub](https://github.com/apoet/Agent4API)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
