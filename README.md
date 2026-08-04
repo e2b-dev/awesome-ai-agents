@@ -1398,6 +1398,25 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [Foundry](https://github.com/harelos/foundry)
+Zero-dependency local AI worker control room & multi-agent task runner
+
+<details>
+
+### Category
+General purpose, Build-your-own (agent-building frameworks and platforms), Multi-agent
+
+### Description
+- Zero-dependency local AI worker control room and multi-agent task runner built on Node.js
+- Supports native CLI engines (Claude Code, Antigravity, Codex, Hermes, OpenClaw, 9Router) with model failover and per-turn reasoning effort controls
+- Autonomous teammate delegation and multi-agent coordination over HTTP/stdio
+
+### Links
+- [GitHub](https://github.com/harelos/foundry)
+
+</details>
+
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
