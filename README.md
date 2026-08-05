@@ -1160,6 +1160,24 @@ Build-your-own
 
 </details>
 
+## [DeepSight](https://github.com/Reality-Shifting-Tech/deepsight)
+Device-native vision and desktop control for text-only LLMs
+
+<details>
+
+### Category
+Computer use, Vision
+
+### Description
+- DeepSight gives text-only LLMs (DeepSeek, Llama, any OpenAI-compatible model) eyes and hands: look, OCR, zoom, locate, and count on any image, plus live screen capture, web grounding, and desktop automation (click, type, key, scroll, open, focus, apps, window)
+- Vision runs fully on-device: Apple Vision on macOS (zero tokens, zero GPU, no image data ever leaves the machine), PIL + optional Tesseract OCR on Windows
+- Agent-agnostic: OpenAI-compatible orchestrator plus a one-command installable skill for Hermes, Claude Code, and Codex
+
+### Links
+- [GitHub](https://github.com/Reality-Shifting-Tech/deepsight)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
