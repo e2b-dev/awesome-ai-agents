@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Ordewell](https://github.com/ordewell/ordewell)
+Plan-first orchestration of CLI coding agents
+
+<details>
+
+### Category
+Coding
+
+### Description
+Ordewell turns one goal into an ordered plan of coding-agent tasks, each with its own runner (Claude Code, Codex, OpenCode), model, thinking effort and mode — editable before any execution token is spent. A read-only planner reads the repo and returns the plan; each task then runs as one agent session and is marked done only when its own completion marker appears in the output.
+- Runs one agent session per task
+- No model grades its own work — completion is evidence-based
+- CLI, TUI and VS Code extension
+
+### Links
+- [GitHub](https://github.com/ordewell/ordewell)
+- [Web](https://ordewell.ai)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
