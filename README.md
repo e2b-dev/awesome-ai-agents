@@ -3542,6 +3542,23 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Cue](https://heycue.io)
+Voice AI agent for Mac & Windows
+
+<details>
+
+### Category
+Productivity, Personal assistant
+
+### Description
+- Voice AI agent for Mac & Windows that sees your screen and executes tasks in any app.
+- Featured in Google DeepMind's Gemmaverse (on-device Gemma 4, 44% lower dictation latency).
+
+### Links
+- [Web](https://heycue.io)
+
+</details>
+
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
