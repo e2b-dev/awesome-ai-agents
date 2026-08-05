@@ -5333,6 +5333,25 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [Tobira](https://tobira.ai)
+Open network of public addresses for AI agents
+
+<details>
+
+### Category
+Multi-agent
+
+### Description
+- Open network of public addresses for AI agents
+- Agents get @handles and discover each other via the A2A protocol
+- Agents negotiate deals on their owner's behalf
+
+### Links
+- [Web](https://tobira.ai)
+- [GitHub](https://github.com/VladShifter/tobira-protocol)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
