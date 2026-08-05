@@ -1652,6 +1652,31 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [HiExplore](https://github.com/chenhaiyan123/ai-auto-explorer)
+Scores whether a question is worth researching, then runs an agent team on the ones that pass
+
+<details>
+
+![image](https://raw.githubusercontent.com/chenhaiyan123/ai-auto-explorer/master/docs/assets/qvs-score.png)
+
+### Category
+Research, Multi-agent, Productivity
+
+### Description
+- HiExplore starts one step before other research agents: it scores the question itself, and only questions that survive get researched.
+- QVS (Question Value Score) rates a question 0-100 across six dimensions - verifiability, depth, scarcity, social value, novelty and feasibility - and tells you when a question is not worth the effort yet.
+- Questions that pass are decomposed into 5-8 sub-directions, each assigned to a specialized agent that works it over days and weeks.
+- A headless daemon keeps the exploration loop running with the UI closed, with a daily budget and rate limits.
+- Conclusions below a confidence threshold are flagged for human review instead of being recorded as fact.
+- Output is plain Markdown with bidirectional links and a knowledge graph, openable in Obsidian.
+- Runs entirely on local models (Ollama, LM Studio, vLLM) or any OpenAI-compatible API; no backend required.
+
+### Links
+- [GitHub](https://github.com/chenhaiyan123/ai-auto-explorer)
+- [Web](https://chenhaiyan123.github.io/ai-auto-explorer/)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
