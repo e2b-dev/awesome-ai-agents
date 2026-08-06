@@ -2296,6 +2296,28 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [PaperDetective](https://github.com/Zensoro/paperdetective)
+AI agent that screens academic papers for research-integrity signals: data fabrication, image manipulation, citation fraud, retraction flags, internal inconsistency, and cross-paper duplication
+<details>
+
+### Category
+Research, Science
+
+### Description
+PaperDetective screens academic papers for six classes of research-integrity signals:
+- Data fabrication: GRIM (mean x sample-size integer consistency), Benford's first-digit, p-curve
+- Image manipulation: pHash perceptual hashing (in-paper figure reuse), ELA error-level analysis
+- Citation fraud: DOI format + doi.org existence resolution
+- Retraction flags: retraction keyword / metadata cross-check
+- Internal inconsistency: relative deviation comparison of numerical claims (pluggable NLI)
+- Cross-paper duplication: cross-document pHash comparison and data fingerprints
+
+All conclusions come from deterministic algorithms and rule extraction - no free-form model inference, no hallucination risk. Confidence is layered (hard evidence 0.85+, soft signals corroborated, internal knowledge capped at 0.60), and output is Pydantic-validated JSON or pretty Markdown reports. The free tier runs fully offline; networked checks live in an optional PRO extension.
+
+### Links
+- [GitHub](https://github.com/Zensoro/paperdetective)
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
