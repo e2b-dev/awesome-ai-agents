@@ -278,6 +278,29 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [AI Workflow Builder](https://github.com/slashman413/ai-workflow-builder)
+Turn a plain-language prompt into a validated, dependency-checked multi-agent AI workflow
+
+<details>
+
+![Image](https://raw.githubusercontent.com/slashman413/ai-workflow-builder/main/workflow-builder-demo.png)
+
+### Category
+Multi-agent, Build-your-own, Prompt-to-workflow
+
+### Description
+- Converts a single natural-language prompt into a versioned spec via an interactive **Grill-Me** clarification loop — ambiguity is resolved up front, not discovered in production
+- Scaffolds a validated workflow DAG (no cycles, no dangling dependencies) and generates runnable Python orchestration code with typed interfaces and LLM retry/fallback handling
+- Ships a REST API + React studio as an npm-workspaces monorepo with hexagonal architecture; OpenAPI contract with automated drift tests
+- Includes pre-flight static validation (reachability, schema matching, tool boundaries, security) and pre-GA security gates (secret scan, 96% line coverage)
+- Free tier: 10 Grill sessions/month with mocked previews; self-hostable with Node 22.5+ and SQLite
+
+### Links
+- Author: [slashman413](https://github.com/slashman413)
+- [GitHub](https://github.com/slashman413/ai-workflow-builder)
+- [Website](https://workflow-builders.com)
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
