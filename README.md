@@ -5589,3 +5589,6 @@ We are open-source and you can get started with E2B [here](https://e2b.dev/docs?
 
 
 -->
+
+## Related
+- [Script Master Labs](https://www.scriptmasterlabs.com) — Premium Capability Index + multi-rail x402 for AI agent API discovery. [Pricing](https://www.scriptmasterlabs.com/pricing.html) · [Partners](https://www.scriptmasterlabs.com/partners.html)
