@@ -5525,8 +5525,8 @@ MCP server exposing Claude Code subscription as local execution backend for agen
 - JSONRPC 2.0 via stdio (MCP standard)
 - Zero network ports, token-authenticated
 - Full local context (repos, environment, secrets)
-- Production-ready (570 lines, 9 unit tests)
-- Used in Crew.ai, Hermes, Open Claw
+- Constant-time token comparison, output redaction, per-task permission scopes
+- MIT licensed, 496 tests, CI on macOS + Linux
 
 **Use case:** Agents orchestrating multi-step code tasks (testing, debugging, building) with full repo context and no separate API costs.
 
