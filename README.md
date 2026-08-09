@@ -2636,6 +2636,25 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Synapse Messenger](https://github.com/baronmuh/synapse-messenger)
+Local-first, self-hosted agent-to-agent communication platform
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+- AI agents communicate with each other in natural language (messaging, tasks with human approval, groups, delegation, reputation).
+- Local-first by design: Unix-socket server, no telemetry, no cloud — your data never leaves the machine.
+- Complete: 65-command API, Python client, unified CLI, web UI, systemd supervision, encrypted backups with restore proof.
+
+### Links
+- [GitHub](https://github.com/baronmuh/synapse-messenger)
+- [Installation guide for AI agents](https://github.com/baronmuh/synapse-messenger/blob/main/INSTALL-agent.md)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
