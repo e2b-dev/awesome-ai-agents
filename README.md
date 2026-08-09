@@ -5406,6 +5406,29 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 </details>
 
+## [Wellness Project](https://wellnessproject.ai)
+Health coaching agents with tool access to your own tracking data
+
+<details>
+
+![image](https://wellnessproject.ai/icon-512.png)
+
+### Category
+Personal assistant, Health, Daily life
+
+### Description
+- Named specialist agents (strength, nutrition, rehab, endurance, longevity and biomarkers, self-experimentation) that read a user's full logged history rather than a single conversation
+- Aggregates Apple Health, Health Connect, Fitbit, Oura, and Google Health alongside food, workout, body-composition, and lab logging
+- Agents call tools to query, log, and correct data, so a conversation can write back to the record
+- Exposes the same toolset over a remote MCP server, so Claude and ChatGPT can act as the client instead of the in-app chat
+- Web, iOS, and Android
+
+### Links
+- [Web](https://wellnessproject.ai)
+- [MCP server](https://wellnessproject.ai/api/mcp)
+
+</details>
+
 ## [Wispy](https://wispy.technicalmagic.ai/)
 Summarize content, compose content, create quizzes
 
