@@ -114,6 +114,20 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Builder Skill](https://github.com/weed33834/agent-builder-skill)
+A TRAE Skill that generates production-ready AI agents from natural-language requirements. 10-layer architecture (LangGraph v1.0+, MCP, A2A), config-driven code generation with 5 agent type templates.
+
+<details>
+
+### Category
+Open source, Tools & Frameworks
+
+### Website
+https://github.com/weed33834/agent-builder-skill
+
+</details>
+
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
