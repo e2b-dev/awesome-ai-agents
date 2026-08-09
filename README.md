@@ -2019,6 +2019,31 @@ Memory management, Data analysis
 
 </details>
 
+
+
+## [MemVault](https://github.com/wjy9902/memvault)
+Production-ready long-term memory server for AI agents
+
+<details>
+
+### Category
+Memory management, AI agents
+
+### Description
+- Built on memU with Ebbinghaus memory decay — memories fade over time, frequently accessed ones stay strong
+- Strength-weighted retrieval: results ranked by `similarity × strength`, matching how human recall works
+- 100% local: Ollama LLM + PostgreSQL + pgvector + local embeddings. No API keys needed
+- Multi-agent support with source_agent tracking
+- Battle-tested: 3+ weeks in production with 12,000+ memories
+- One-command setup via Docker Compose or native install
+- HTTP API + CLI tool for easy integration
+
+### Links
+- [GitHub](https://github.com/wjy9902/memvault)
+- Built on [memU](https://github.com/NevaMind-AI/memU)
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
