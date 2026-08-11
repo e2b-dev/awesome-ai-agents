@@ -100,6 +100,8 @@ Autonomous agent framework that runs unattended on GitHub Actions
 
 <details>
 
+![Image](https://repository-images.githubusercontent.com/1172886754/252dd10d-8fad-4b26-a762-017a7b59217b)
+
 ### Category
 Coding, GitHub
 
