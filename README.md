@@ -1966,6 +1966,28 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [memcode](https://github.com/memcode-ai/memcode)
+The coding agent that remembers your repo
+
+<details>
+
+### Category
+Coding, Open source
+
+### Description
+
+- **Persistent repo memory**: keeps a per-project model in a local `.memcode` store (subsystems, prior work, failed approaches, corrected preferences), so sessions don't start from zero.
+- **Terminal-native**: a single Go binary with a full TUI.
+- **Bring your own models**: runs on your own API keys, a hosted gateway, or a local endpoint like Ollama.
+- **MCP memory server**: exposes its repo memory to other agents (Claude Code, Cursor) over the Model Context Protocol.
+- **Self-hostable**, MIT.
+
+### Links
+- [GitHub](https://github.com/memcode-ai/memcode)
+- [Website](https://memcode.ai)
+- [Docs](https://memcode.ai/docs)
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
