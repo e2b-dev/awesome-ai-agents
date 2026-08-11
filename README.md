@@ -329,13 +329,13 @@ Open detection rule format for AI agent security threats
 Agent security, Detection, Developer tools
 
 ### Description
-- Open MIT-licensed detection rule format for AI agent threats. 425 rules across 10 categories covering prompt injection, tool poisoning, context exfiltration, and skill supply-chain attacks.
+- Open MIT-licensed detection rule format for AI agent threats, covering prompt injection, tool poisoning, context exfiltration, and skill supply-chain attacks across ten categories.
 - Reference engines ship in TypeScript and Python; CLI exports rules to Sigma, SARIF, generic regex, Splunk, and Elastic formats.
-- Deployed in production by Microsoft Agent Governance Toolkit, Cisco AI Defense skill-scanner, MISP/CIRCL (taxonomies + galaxy), Gen Digital Sage, and the OWASP Agent-Security-Regression-Harness.
+- Adopters with merged integrations include Cisco AI Defense skill-scanner, Microsoft Agent Governance Toolkit, MISP/CIRCL (taxonomies + galaxy), Gen Digital Sage, and the OWASP Agent Security Regression Harness; each is listed with its PR as evidence in the project's ADOPTERS.md.
 
 ### Links
 - [GitHub](https://github.com/Agent-Threat-Rule/agent-threat-rules)
-- [npm package](https://www.npmjs.com/package/@panguard-ai/atr)
+- [npm package](https://www.npmjs.com/package/agent-threat-rules)
 
 </details>
 
