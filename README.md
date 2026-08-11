@@ -234,6 +234,29 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentShield](https://github.com/kindrat86/agentshield)
+
+Per-transaction spend firewall for AI agents
+
+<details>
+
+### Category
+Ops, Cost control, Build your own
+
+### Description
+- AgentShield is a spend firewall that evaluates every AI agent transaction against composable rules **before** the API call executes — enforcement, not post-facto observability.
+- 9 rule types: transaction limits, daily totals, velocity/burst detection, merchant allowlists, category blocks, session budgets with decay tightening, and cascade-cost (expected-value) estimation.
+- Evaluates rules per-transaction in under 1ms, first match by priority wins.
+- Pure Python 3.11 standard library — zero dependencies; runs on 256MB RAM, self-hostable in 60 seconds.
+- Ships a 56-scenario open-source eval gym (MIT) to validate any spend-control engine, plus LangChain callback and CrewAI tool integrations.
+
+### Links
+- Author: [Maryan Kondratyuk](https://github.com/kindrat86)
+- [GitHub Repository](https://github.com/kindrat86/agentshield)
+- [Website & live demo](https://agentshield.fly.dev)
+- [Eval gym spec](https://agentshield.fly.dev/eval-gym-spec)
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
