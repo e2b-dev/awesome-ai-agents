@@ -182,6 +182,21 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentShield](https://github.com/kindrat86/agentshield)
+
+### Category
+⚡ Cost Control
+
+### Description
+AgentShield is a firewall for AI agent spending. It evaluates each API transaction against composable spend rules before the call executes — blocking runaway costs in under 1ms. Pure Python 3.11 stdlib, zero dependencies. 9 rule types including transaction limits, daily caps, velocity detection, merchant allowlists, session-scoped budgets with decay, and cascade cost estimation. 56-scenario eval gym proving correctness across edge cases.
+
+### Links
+- [GitHub](https://github.com/kindrat86/agentshield)
+- [Live Demo](https://agentshield.fly.dev)
+- [PyPI](https://pypi.org/project/agentshield/)
+- [Eval Gym Spec](https://agentshield.fly.dev/eval-gym-spec)
+
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
