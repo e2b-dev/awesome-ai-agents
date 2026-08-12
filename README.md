@@ -1745,6 +1745,29 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [Lantern](https://github.com/Lantern-svg/lantern)
+Auditable evidence/belief engine and inter-instance exchange protocol for AI agents
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+
+- Lantern gives an agent a durable, hash-chained record (the `Chronicle`) of what it observed and why it changed its mind, so beliefs are always traceable back to evidence rather than collapsed into unverified trust.
+- Receiving a claim from another agent never automatically becomes a belief; each Lantern node evaluates evidence locally before updating what it believes, even under high claimed confidence from the sender.
+- Supports real MCP (Model Context Protocol) client integration: MCP tool discovery is treated as capability discovery only, never as authorization, and a tool's reported success is never treated as sufficient verification on its own.
+- Cryptographic node identity (Ed25519) and a capability-authorization model keep "who this is," "what they're allowed to do," and "what I actually believe" as separate, inspectable layers instead of one conflated trust score.
+- v0.84, MIT licensed, 698 passing tests, install/run instructions for a real Lantern node included.
+
+### Links
+- [GitHub](https://github.com/Lantern-svg/lantern)
+- [Getting started](https://github.com/Lantern-svg/lantern/blob/master/lantern-babel-codex-bridge/EXTERNAL_BOOTSTRAP.md)
+- [Architecture](https://github.com/Lantern-svg/lantern/blob/master/lantern-babel-codex-bridge/ARCHITECTURE.md)
+
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
