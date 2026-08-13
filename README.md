@@ -4531,6 +4531,29 @@ Data analysis, Research, Business intelligence, web UI
 
 </details>
 
+## [Job Seeker](https://github.com/galiprandi/job-seeker)
+Open source markdown skills that turn any coding agent into a job search assistant
+
+<details>
+
+### Category
+Productivity, Career, Developer tools
+
+### Description
+- Job Seeker is a collection of markdown skills, guides, and browser automation scripts that any coding agent (Claude Code, Cursor, Devin, opencode) consumes to search, apply, and track jobs on your behalf.
+- It searches LinkedIn with Must/Strong/Nice preference filters, fills Easy Apply forms from a Postgres database, tracks applications in a kanban pipeline, and drafts recruiter replies that pass an anti-LLM style checklist.
+- Candidate-agnostic: no personal data in the repo. Everything lives in the user's own Postgres (Neon free tier works).
+- Strategy system with 4 levels (passive, selective, active, aggressive) controls search aggressiveness.
+- Human-in-the-loop: the agent does the grunt work, the user approves messages and applications.
+- MIT licensed.
+
+### Links
+
+- [GitHub](https://github.com/galiprandi/job-seeker)
+- [Docs](https://galiprandi.github.io/job-seeker/)
+
+</details>
+
 ## [Kompas AI](https://kompas.ai/)
 Pick your LLM & build custom conversational agent
 
