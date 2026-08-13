@@ -320,6 +320,31 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)
+Local-first CLI and TUI coding agent for open-weight models
+
+<details>
+
+![Image](https://github.com/AtomicBot-ai/atomic-agent/raw/main/assets/demo.gif)
+
+### Category
+Coding, General purpose, Productivity, Supports open-source models
+
+### Description
+- Atomic Agent is a local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine through a llama.cpp fork, so no account or API key is required to install and run it.
+- Ships 56 built-in tools covering the browser, filesystem, git, memory and vision, and supports MCP (Model Context Protocol) servers for extending the agent with your own tooling.
+- Uses a five-layer local memory system to keep context across long sessions, with a TUI built on React and ink.
+- Cross-platform on macOS, Linux and Windows. Install with `curl -fsSL https://atomicagent.io/install | sh`
+
+### Links  
+- [Website](https://atomicagent.io)
+- [Documentation](https://atomicagent.io/docs)
+- [GitHub](https://github.com/AtomicBot-ai/atomic-agent)
+- [Discord](https://discord.gg/Us7qXtDGw)
+- [X (Twitter)](https://x.com/atomicagent_io)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
