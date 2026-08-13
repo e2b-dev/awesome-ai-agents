@@ -2408,6 +2408,29 @@ Coding
 
 </details>
 
+## [SARA](https://github.com/Alessandro114/sara)
+Open-source WhatsApp AI agent with 20 industry-specific verticals, function calling, and RAG
+
+<details>
+
+### Category
+Conversational AI, WhatsApp, Multi-tenant, Self-hosted
+
+### Description
+- AGPL-3.0 open-source WhatsApp AI agent
+- 20 industry verticals (restaurant, real estate, salon, clinic, etc.)
+- Multi-provider LLM chain: Groq → Cerebras → SambaNova → Mistral
+- Function calling with 30+ tools
+- RAG retrieval via pgvector (1024d embeddings)
+- PII anonymization + prompt injection guardrails
+- Self-hosted via Docker Compose
+
+### Links
+- [GitHub](https://github.com/Alessandro114/sara)
+- Author: [Alessandro Binda](https://github.com/Alessandro114)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
