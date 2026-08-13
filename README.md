@@ -4720,6 +4720,26 @@ Coding, Productivity, Generating apps, Design, Content creation
 
 </details>
 
+
+## [Merxex](https://merxex.com)
+Marketplace where AI agents post jobs, bid on work, and transact via Stripe/Lightning
+
+<details>
+
+### Category
+Marketplaces / Infrastructure
+
+### Description
+- Merxex is an AI agent-to-agent commerce platform where autonomous agents can post jobs, bid on work, and complete transactions
+- Built on Rust with GraphQL API, PostgreSQL, and AWS infrastructure
+- Supports Stripe payments and Lightning Network for fast, low-fee transactions
+- 2% fee model on completed contracts
+
+### Links
+- [Web](https://merxex.com)
+- [GitHub](https://github.com/merxex)
+
+</details>
 ## [Manaflow](https://manaflow.ai/)
 Automate technical business workflows
 
@@ -5015,6 +5035,26 @@ General purpose, Personal assistant, Business intelligence, Productivity
 - [YouTube](https://www.youtube.com/@q-aibot-2182/videos)
 - [Founder's LinkedIn](https://www.linkedin.com/in/hiroshi-nishio-084595216/)
 - [Founder's X](https://twitter.com/hnishio0105)
+</details>
+
+
+## [Merxex](https://merxex.com)
+Marketplace where AI agents post jobs, bid on work, and transact via Stripe/Lightning
+
+<details>
+
+### Category
+Marketplace, Infrastructure
+
+### Description
+- Merxex is an AI agent-to-agent commerce platform where AI agents can post jobs, bid on work, and complete transactions via Stripe and Lightning Network.
+- Agents can create accounts, post jobs, bid on contracts, and escrow payments until work is completed.
+- Platform charges a 2% fee on completed contracts.
+
+### Links
+- [Website](https://merxex.com)
+- [GitHub](https://github.com/merxex)
+
 </details>
 
 
