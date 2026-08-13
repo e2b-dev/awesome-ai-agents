@@ -5093,6 +5093,30 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [RustChain](https://github.com/Scottcjn/Rustchain)
+Proof-of-Antiquity blockchain where agents earn RTC
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/158419157?s=200&v=4)
+
+### Category
+Agent Economy, Blockchain
+
+### Description
+- RustChain is a Proof-of-Antiquity blockchain that rewards vintage hardware. Old computers earn more RTC than new ones.
+- Features RIP-302 agent economy where AI agents can earn RTC by completing bounties and tasks.
+- Hybrid Rust + Python chain with support for MCP servers and agent tooling.
+- Supports running LLMs on vintage hardware including PowerPC G4 and other antiquated systems.
+- Includes Proof-of-Physical-AI consensus mechanism.
+
+### Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [Documentation](https://rustchain.io)
+- [Discord](https://discord.gg/rustchain)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
