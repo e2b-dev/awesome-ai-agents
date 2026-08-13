@@ -2408,6 +2408,33 @@ Coding
 
 </details>
 
+## [SafeNode](https://safenode.tech)
+Policy firewall for AI agent actions — evaluate what an agent is about to do, before it does it
+
+<details>
+
+### Category
+Security / Guardrails
+
+### Description
+SafeNode evaluates a proposed agent action against policies you configure, and returns allow, warn, review, or deny. It ships three ways:
+- **MCP gateway** — a proxy that sits between your MCP client and your MCP servers. Every `tools/call` is evaluated before it is forwarded; a denial never reaches the downstream server. No code changes: `npx safenode-mcp-gateway`
+- **Python and TypeScript SDKs** — for gating actions inside your own code, sharing the same policy engine
+- Weighted 0–100 impact and risk scores banded into four outcomes, rather than a boolean
+- Client-side redaction that reports what it removed, so server-side rules can still act on the presence of sensitive data without receiving it
+- `metadata_only` mode sends no payload values at all
+- MIT licensed, no telemetry, free tier
+
+Policy evaluation is a hosted API call, so it requires network access — there is no offline mode.
+
+### Links
+- [MCP gateway](https://github.com/sp3ak/safenode-mcp-gateway)
+- [Python SDK](https://github.com/sp3ak/safenode-tech)
+- [TypeScript SDK](https://github.com/sp3ak/safenode-js)
+- [Docs](https://safenode.tech/docs)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
