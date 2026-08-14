@@ -52,6 +52,29 @@ To filter the products by categories and use-cases, see the 🌟 [web version of
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
 
+## [Clickyy](https://github.com/jayamitkatariya/clickyyy)
+Clickyy: Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS.
+
+<details>
+
+### Category
+Desktop Automation, Computer Use, Personal Assistant
+
+### Description
+
+- **Screen-aware AI agent**: Sees your screen and understands context
+- **Cursor shake activation**: Shake mouse to summon the overlay
+- **Click, type, drag, scroll**: Performs real actions on your Mac
+- **Safety by default**: Shows every action; destructive operations pause for approval
+- **Multiple AI providers**: OpenAI, Anthropic Claude, Xiaomi MiMo
+- **Project memory**: Keeps notes about projects across sessions
+- **macOS native**: Menu bar app, notarized, auto-updates
+
+### Links
+- [GitHub](https://github.com/jayamitkatariya/clickyyy)
+- [Releases](https://github.com/jayamitkatariya/clickyyy/releases)
+</details>
+
 ## Have anything to add?
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
