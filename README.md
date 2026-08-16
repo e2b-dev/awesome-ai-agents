@@ -95,6 +95,28 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Adv-Harness](https://github.com/fango19961106-dotcom/adv-harness)
+Adv-Harness: Agent harness with a built-in adversarial review gate
+
+<details>
+
+### Category
+Build your own, Multi-agent, Reliability & evaluation
+
+### Description
+
+- **Adversarial review gate (MOA)**: every irreversible decision passes a blind 3-role review — Auditor, Steward, Devil's Advocate — with evidence closure; a Devil kill is only overruled by new evidence, never by majority vote.
+- **P0-P5 workflow state machine**: hard gates throughout — nothing dispatches before out-of-scope is extracted, every result is stamped PROVEN/PARTIAL/REFUTED before review.
+- **Risk-tiered funnel**: read-only actions get a single reviewer; destructive/external actions get the full triad. Unknown risk defaults to high.
+- **Deterministic reducer**: pure-code dedup, validation, and "confirmed by N independent workers" confidence signaling between worker outputs and synthesis (the −86% synthesis-cost pattern).
+- **Compounding knowledge store**: findings, dead ends, and patterns persist in an FTS5 store across runs.
+- **Zero dependencies**: stdlib-only Python; any agent backend (ollama, OpenAI-compatible API, or any CLI agent) plugs in via adapters.
+
+### Links
+- [GitHub](https://github.com/fango19961106-dotcom/adv-harness)
+- [Research background — workflow archetypes & the 60-engagement extraction](https://github.com/fango19961106-dotcom/agent-knowledge-graph)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
