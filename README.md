@@ -2710,6 +2710,27 @@ Multi-agent, GUI Agent
 
 </details>
 
+## [UIZZE](https://github.com/uizze/uizze)
+UI reference and quality workflow for coding agents
+
+<details>
+
+### Category
+Coding, GUI Agent, Build your own
+
+### Description
+- A free MIT `anti-ui-slop` Skill and UI Slop Gate that help coding agents define UI intent, required states, and finish checks before shipping.
+- Full UIZZE adds live search across 800,000+ real web and iOS screens, product-specific design contracts, implementation validation, audits, and rendered critique.
+- Works with Codex, Claude Code, Cursor, GitHub Copilot, and other coding agents.
+
+### Links
+- [Website](https://uizze.com)
+- [GitHub](https://github.com/uizze/uizze)
+- [Free Skill](https://uizze.com/ai-ui-slop)
+- [Free preview MCP](https://uizze.com/mcp/preview)
+
+</details>
+
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
