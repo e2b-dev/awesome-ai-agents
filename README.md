@@ -4027,6 +4027,29 @@ Coding
 
 </details>
 
+## [FidelicAI](https://fidelic.ai/)
+Hire role-based AI workers for recurring business work
+
+<details>
+
+### Category
+Productivity, Business intelligence, Marketing, Sales, Multi-agent
+
+### Description
+- FidelicAI offers a catalog of fourteen role-based AI workers for finance, operations, marketing, sales, research, and customer work.
+- Buyers can hire each agent for a Day Pass, Sprint, or Monthly Retainer.
+- Fidelic agents handle internal requests, scheduled work, and external events, then report completed work through Slack, WhatsApp, or Microsoft Teams.
+- Each agent publishes its limits, approval boundary, integrations, and fixed public rates.
+- External or binding actions require owner approval.
+
+### Links
+- [Web](https://fidelic.ai/)
+- [Agent catalog](https://fidelic.ai/agents)
+- [Pricing](https://fidelic.ai/pricing)
+- [LinkedIn](https://www.linkedin.com/company/fidelicai/)
+
+</details>
+
 ## [Fine](https://www.fine.dev/)
 Build Software with AI Agents
 
