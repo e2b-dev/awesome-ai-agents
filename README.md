@@ -1966,6 +1966,30 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard)
+Deterministic payment policy guardrail for AI agents
+
+<details>
+
+### Category
+Security, Guardrails, Agentic Commerce, Policy Engine
+
+### Description
+
+Deterministic payment policy enforcement for AI agents with tool access. Prevents prompt injection wallet drains and unauthorized money movement with zero LLM in the decision path.
+
+- **Deterministic Pre-Action Gate**: Evaluates tool calls against budgets, allowlists, and rate limits before execution.
+- **Signed Ed25519 Mandates**: Issuer-signed authority ensuring agents only spend within cryptographic bounds.
+- **Tamper-Evident Audit Ledger**: SHA-256 chained hash ledger for verifiable compliance (EU AI Act, SOC 2).
+- **Official MCP Server**: Published on the official Model Context Protocol Registry (14 tools).
+
+### Links  
+- [GitHub](https://github.com/ezequiellich44-cmd/MandateGuard)
+- [Website](https://ezequiellich44-cmd.github.io/MandateGuard/)
+- [Live Demo](https://ezequiellich44-cmd.github.io/MandateGuard/demo.html)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
