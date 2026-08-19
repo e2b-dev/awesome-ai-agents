@@ -34,10 +34,10 @@ Add to readme list:
 	</p>
 </h1>
 <h3 align="center">
-  Add <a href="https://e2b.dev/docs?ref=awesome-sdks">Code Interpreter</a> to your AI App
+  Add <a href="https://e2b.dev/docs?ref=awesome-sdks&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents">Code Interpreter</a> to your AI App
 </h3>
 
-<h5 align="center">🌟 <a href="https://e2b.dev/ai-agents">See this list in web UI</a></h5>
+<h5 align="center">🌟 <a href="https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents">See this list in web UI</a></h5>
 <h5 align="center">👉 <a href="https://forms.gle/UXQFCogLYrPFvfoUA">Submit new product here</a></h5>
 
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
@@ -47,7 +47,7 @@ We structured the list into two parts:
 - [Open source projects](#open-source-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
-To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents). 🌟
+To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents). 🌟
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
@@ -63,9 +63,9 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 --->
 
 ## Check out E2B - Code Interpreting for AI apps
-- Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk)
+- Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
-- Read our [docs](https://e2b.dev/docs?ref=awesome-sdks)
+- Read our [docs](https://e2b.dev/docs?ref=awesome-sdks&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
 # Open-source projects
@@ -1967,7 +1967,7 @@ Coding, Productivity, Debugging, Multi-agent
 - [Web](https://maige.app)
 - [GitHub](https://github.com/RubricLab/maige)
 - [Video - testing Maige](https://www.youtube.com/watch?v=YN-y-iweZTc&ab_channel=TerezaTizkova)
-- [Interview - founder about building Maige](https://e2b.dev/blog/building-open-source-codebase-copilot-with-code-execution-layer)
+- [Interview - founder about building Maige](https://e2b.dev/blog/building-open-source-codebase-copilot-with-code-execution-layer?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - [X (Twitter)](https://twitter.com/rubriclabs)
 - [Founder's X - Ted Spare](https://twitter.com/tedspare)
 </details>
@@ -2538,8 +2538,8 @@ Superagent is not a single agent, but a tool that allows creating agents without
 - [Documentation](https://docs.superagent.sh/introduction)
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
 - Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
-- [Interview: Discussing agents' tracing, observability, and debugging with Ismail Pelaseyed, the founder of Superagent](https://e2b.dev/blog/discussing-agents-challenges-with-ismail-pelaseyed-the-founder-of-superagent)
-- [Blog post: What Ismail from Superagent and other developers predict for the future of AI Agents](https://e2b.dev/blog/ai-agents-in-2024)
+- [Interview: Discussing agents' tracing, observability, and debugging with Ismail Pelaseyed, the founder of Superagent](https://e2b.dev/blog/discussing-agents-challenges-with-ismail-pelaseyed-the-founder-of-superagent?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+- [Blog post: What Ismail from Superagent and other developers predict for the future of AI Agents](https://e2b.dev/blog/ai-agents-in-2024?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 
 </details>
 
@@ -2664,7 +2664,7 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 ### Links
 - [GitHub](https://github.com/sweepai)
 - [Discord](https://discord.com/invite/sweep-ai)
-- [Interview: Sweep founders share learnings from building an AI coding assistant](https://e2b.dev/blog/sweep-founders-share-learnings-from-building-an-ai-coding-assistant)
+- [Interview: Sweep founders share learnings from building an AI coding assistant](https://e2b.dev/blog/sweep-founders-share-learnings-from-building-an-ai-coding-assistant?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - [Tricks for prompting Sweep](https://sweep-ai.notion.site/Tricks-for-prompting-Sweep-3124d090f42e42a6a53618eaa88cdbf1)
 
 
@@ -3210,7 +3210,7 @@ Business intelligence
 
 ### Links
 - [Discord](https://discord.com/invite/a367ncqEsm/?utm_source=awesome-ai-agents)
-- [Interview: David Zhang from Aomni gives his view agents' reliability, debugging and orchestration](https://e2b.dev/blog/david-zhang-from-aomni-gives-his-view-on-ai-agents)
+- [Interview: David Zhang from Aomni gives his view agents' reliability, debugging and orchestration](https://e2b.dev/blog/david-zhang-from-aomni-gives-his-view-on-ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 
 </details>
 
@@ -3790,7 +3790,7 @@ General purpose, Research
 
 ### Links
 - Author: [Sully Omarr](https://twitter.com/SullyOmarr)
-- [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai)
+- [Interview: About deployment, evaluation, and testing of agents with Sully Omar, the CEO of Cognosys AI](https://e2b.dev/blog/about-deployment-evaluation-and-testing-of-agents-with-sully-omar-the-ceo-of-cognosys-ai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 
 </details>
 
@@ -5555,11 +5555,11 @@ Build-your-own, Productivity, General purpose
 Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
 </details>
 
-### :eight_pointed_black_star: [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/)
+### :eight_pointed_black_star: [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 <details>
 
 You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
-To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai#java-script). 
+To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#java-script). 
 
 </details>
 
@@ -5574,14 +5574,14 @@ E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.c
 - Install system packages dynamically during runtime
 - Run shell commands
 - Upload and download files.
-See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchain-and-e2b).
+See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchain-and-e2b?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents).
 
 </details>
 
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
-We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks).
+We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents).
 
 <!-- 
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
