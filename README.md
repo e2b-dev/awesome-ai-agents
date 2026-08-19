@@ -95,6 +95,27 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aegis Invariant Kernel](https://github.com/Snehgabani/aegis-kernel)
+Deterministic <0.25ms in-process safety firewall & Merkle audit ledger for autonomous AI agent tool execution
+
+<details>
+
+### Category
+Security, Guardrails, Invariants, Tool clearance
+
+### Description
+- **Sub-0.25ms AST Invariant Clearance**: Deterministic Discrete AST validation of SQL, financial operations, and tool parameters before execution.
+- **Zero-Egress Salted PII Vault**: Replaces PII and API credentials with HMAC-salted tokens locally with zero cloud API latency.
+- **Model Context Protocol (MCP) Gateway**: Validates schemas and blocks indirect prompt injections and invisible Unicode characters.
+- **Tamper-Evident Merkle Ledger**: Computes SHA-256 Merkle root hash chains for continuous SOC 2, ISO 42001, and HIPAA compliance auditing.
+- **Polyglot Ecosystem**: Native zero-dependency implementations across TypeScript, Python, Go, and Rust.
+
+### Links
+- [GitHub](https://github.com/Snehgabani/aegis-kernel)
+- [Interactive Studio](https://snehgabani.github.io/aegis-kernel/playground.html)
+- [Documentation](https://snehgabani.github.io/aegis-kernel/)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
