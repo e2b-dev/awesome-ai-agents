@@ -5544,6 +5544,15 @@ See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchai
 
 </details>
 
+## [Agent Tools & MCP Hub](https://github.com/tarunjandra/agent-tools-mcp-hub)
+### Category
+- Developer Tools
+- AI Integrations & Tooling
+### Description
+A curated, modular collection of plug-and-play AI Agent tools and Model Context Protocol (MCP) server connectors in Python and TypeScript.
+### Links
+- [GitHub](https://github.com/tarunjandra/agent-tools-mcp-hub)
+
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
