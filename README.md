@@ -298,6 +298,25 @@ Coding, GitHub
 - [Website](https://aider.chat/)
 - Author: [Paul Gauthier](https://github.com/paul-gauthier) (Github)
 - [Discord Invite](https://discord.com/invite/Tv2uQnR88V)
+</details>
+
+## [Vedika API](https://vedika.io)
+AI-powered Vedic astrology API with multi-agent swarm intelligence
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- Multi-agent swarm architecture with 6 specialized AI agents
+- 108+ API endpoints for Vedic astrology calculations
+- Supports 22 languages
+- AI chatbot with domain-specific knowledge
+
+### Links
+- [Website](https://vedika.io)
+- [Documentation](https://vedika.io/docs)
 
 </details>
 
