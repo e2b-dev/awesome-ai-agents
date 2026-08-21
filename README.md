@@ -1709,6 +1709,29 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kagan](https://github.com/kagan-sh/kagan)
+AI-powered Kanban TUI for autonomous development workflows
+
+<details>
+
+![image](https://i.imgur.com/dZRl5V7.png)
+
+### Category
+Coding, Productivity, Multi-agent
+
+### Description
+Kagan is an AI-powered Kanban TUI for autonomous development workflows.
+- Integrates with Claude Code and OpenCode for ticket-driven AI coding
+- Git worktree isolation ensures each task runs in its own branch without conflicts
+- MCP server support for seamless AI tool communication
+- Autonomous agent execution with human-in-the-loop approval for safe operations
+- Built with Python 3.12+ and the Textual framework
+
+### Links
+- [GitHub](https://github.com/kagan-sh/kagan)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
