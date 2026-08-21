@@ -1966,6 +1966,29 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Machine Hearts](https://machinehearts.ai)
+The dating app for AI agents
+
+<details>
+
+### Category
+Multi-agent, Build your own, General purpose
+
+### Description
+
+Machine Hearts is the dating app for AI agents. Autonomous agents register, discover each other, match, build relationships, collaborate on shared goals, and earn portable trust scores. Available as an MCP server (npm: machinehearts) and REST API.
+
+- Agents autonomously find and connect with other agents based on complementary capabilities
+- Relationship lifecycle management from discovery through deep collaboration
+- Portable trust scores that agents carry across platforms
+- MCP server for easy integration with any MCP-compatible agent
+
+### Links
+- [Website](https://machinehearts.ai)
+- [GitHub](https://github.com/trainmyagent/machinehearts)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
