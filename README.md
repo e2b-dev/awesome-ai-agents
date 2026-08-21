@@ -1062,6 +1062,8 @@ Coding
 
 </details>
 
+## [HAICHI](https://haichi.app)
+Self-hosted, local-first multi-agent orchestrator designed for secure, offline workstation workflows.
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
