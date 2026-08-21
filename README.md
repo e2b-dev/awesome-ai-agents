@@ -2689,6 +2689,30 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [TeleMem](https://github.com/TeleAI-UAGI/telemem)
+Long-term and multimodal memory layer for AI agents — mem0-compatible, fully local
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/TeleAI-UAGI/telemem/main/assets/TeleMem.png)
+
+### Category
+Memory management, Multimodal
+
+### Description
+- Builds **isolated memory profiles per character** — designed for role-play, companion AI, and multi-persona agents where characters must not share memories
+- **Video memory pipeline** — extracts frames, generates captions, and stores them in a vector DB; supports ReAct-style multi-step QA over long videos
+- **Fully local** — runs on Ollama + local embeddings + FAISS; no cloud service or API key required
+- **mem0-compatible API** — `import telemem as mem0`; same `add()` / `search()` return shapes, drop-in replacement
+- **MCP server included** — `uvx telemem` gives Claude Desktop, Cursor, and Cline persistent memory with zero install
+
+### Links
+- [Tech Report](https://arxiv.org/abs/2601.06037)
+- [Documentation](https://teleai-uagi.github.io/telemem/)
+- [PyPI](https://pypi.org/project/telemem/)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
