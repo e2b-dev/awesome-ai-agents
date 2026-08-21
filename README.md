@@ -5589,3 +5589,6 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## Directories
+- [TutuoAI](https://www.tutuoai.com/) — $1 agent marketplace for agent skills/tools/configs
