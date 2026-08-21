@@ -2944,6 +2944,30 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 
 </details>
 
+
+## [Xenon](https://github.com/xianyu-sheng/Xenon)
+Terminal AI coding agent with 40.0% on SWE-bench Lite
+
+<details>
+
+### Category
+Coding, General purpose
+
+### Description
+Xenon is an extensible terminal AI coding agent built around an Evidence Runtime architecture that achieves 40.0% on SWE-bench Lite using the cheapest model tier.
+- **40.0% on SWE-bench Lite** (12/30 instances, official harness, reproducible)
+- **Evidence-constrained architecture**: Treats LLM output as claims to be verified against real tool results
+- **7 inference paradigms**: direct, ReAct, Plan-Execute, Reflection, and combinations
+- **MCP-native tool layer**: Built-in support for Model Context Protocol
+- **Cost-efficient**: ~1/100 the cost of Claude 3.5 Sonnet using deepseek-v4-flash
+- **Well-tested**: 2000+ unit tests with CI on every commit
+- **Reproducible benchmarks**: Full methodology, sampling seed, and per-engine breakdown published
+
+### Links
+- [GitHub Repository](https://github.com/xianyu-sheng/Xenon)
+- [SWE-bench Report](https://github.com/xianyu-sheng/Xenon/blob/main/evals/results/SWEBENCH_REPORT.md)
+
+</details>
 ## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
 Swift implementation of BabyAGI
 
