@@ -1062,6 +1062,28 @@ Coding
 
 </details>
 
+## [Coop](https://github.com/dcluomax/coop)
+Open-source AI agent farm OS — raise autonomous agents on hardware you own
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+
+- **Coop** is an AI agent farm OS written in Rust. You run autonomous agents — called **Hens** — on hardware you own (a Raspberry Pi, a Mac, a Windows box, or a fleet of nodes), shipped as a single static binary with no Python or Docker required.
+- **Self-hosted & BYOK**: a sealed `xchacha20poly1305` vault holds your model keys (or pulls them from Azure Key Vault). Bring your own Anthropic, OpenAI, or any OpenAI-compatible endpoint (Ollama, vLLM, OpenRouter).
+- **Per-hen OS isolation**: each agent runs in its own sandbox (macOS Seatbelt / Linux Bubblewrap), confined to its workdir with a scrubbed environment and a fail-closed network egress policy (`off` / `allowlist` / `open`).
+- **Real autonomy**: hens get a tool ABI (`bash`, `file_read`, `file_write`, `http`), a sandboxed PTY shell, and a pluggable brain with SSE streaming and automatic provider fallback.
+- **Farm UI**: a single-page web UI to watch your flock's live state and drop into any hen's terminal.
+
+### Links
+- [GitHub](https://github.com/dcluomax/coop)
+- [Documentation](https://github.com/dcluomax/coop/wiki)
+- [Quickstart](https://github.com/dcluomax/coop#-quickstart)
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
