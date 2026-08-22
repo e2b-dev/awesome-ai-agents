@@ -3319,6 +3319,29 @@ Data analysis, Business intelligence
 
 </details>
 
+## [Atlas Ally](https://atlasally.net)
+Personal AI agent running on a dedicated EU server
+
+<details>
+
+![image](https://atlasally.net/opengraph-image.png)
+
+### Category
+General purpose, Productivity
+
+### Description
+- Managed personal AI agent that runs 24/7 on its own dedicated EU server — one person, one agent, one server
+- Triage your inbox and draft replies in your voice, send morning briefs, manage your calendar, research topics with sources, and watch for changes 24/7
+- Connects to 100+ apps (Gmail, Notion, Slack, Telegram, Google Sheets, LinkedIn, Airtable)
+- Anything that writes to your apps waits for your approval; the full audit trail stays on your own server
+- Free 7-day trial, no credit card
+
+### Links
+- [Web](https://atlasally.net)
+- [Security](https://atlasally.net/security)
+
+</details>
+
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
