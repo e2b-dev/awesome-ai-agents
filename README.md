@@ -1160,6 +1160,25 @@ Build-your-own
 
 </details>
 
+## [DeepSeek Harness Desktop](https://github.com/fendouai/deepseek-harness-desktop)
+Tauri 2 desktop app packaging the DeepSeek Harness AI agent workspace
+<details>
+
+![Image](https://raw.githubusercontent.com/fendouai/deepseek-harness-desktop/master/assets/screenshots/desktop-home.png)
+
+### Category
+Desktop App, Agent Workspace, Personal assistant
+
+### Description
+- DeepSeek Harness Desktop packages DeepSeek Harness — a plugin-native AI agent workspace — as a self-contained Tauri 2 desktop app
+- Bundles the complete Web UI, a supervised local sidecar, and an official Node.js 24 runtime; everything runs locally on 127.0.0.1
+- Cross-platform builds for macOS (Apple Silicon & Intel), Linux (x64 & ARM64), and Windows (x64 & ARM64); MIT licensed
+
+### Links  
+- [GitHub](https://github.com/fendouai/deepseek-harness-desktop)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
