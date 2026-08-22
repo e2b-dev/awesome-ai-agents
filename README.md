@@ -2296,6 +2296,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenOutreach](https://github.com/eracle/OpenOutreach)
+Open-source B2B lead finder that qualifies every lead and writes down why
+
+<details>
+
+### Category
+Sales
+
+### Description
+OpenOutreach turns a product description into qualified B2B leads, each carrying the reason it was chosen.
+- Discovers candidates from a licensed data source — browserless, no scraping, no social-network account
+- An LLM judges each candidate against the ICP and records its verdict in plain language
+- A per-campaign Gaussian Process learns from those verdicts, picks who to judge next, and rations the one paid step
+- Self-hosted CLI bounded by a goal: `uvx openoutreach find 10 > leads.csv` prints the campaign as CSV and exits
+- Exports in the column names Instantly and Smartlead already read, so the file imports without mapping
+- Ships a Claude Code plugin, so leads can be pulled from inside an agent session
+
+### Links
+- [GitHub](https://github.com/eracle/OpenOutreach)
+- [Web](https://openoutreach.app)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
