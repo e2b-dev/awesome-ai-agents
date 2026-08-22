@@ -2788,7 +2788,31 @@ Blockchain, Coding, Generating apps, Smart contract
 
 </details>
 
-## [“Westworld” simulation](https://theolvs.github.io/westworld/)
+## [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit)
+Open-source framework for autonomous AI agents on blockchain
+
+<details>
+
+### Category
+Blockchain, DeFi, AI Agents, Multi-chain, LLM
+
+### Description
+- Python framework for building autonomous AI agents that interact with DeFi protocols
+- Multi-chain support: Ethereum, Base, Arbitrum, Optimism, Polygon, Avalanche, BSC
+- LLM-powered reasoning with cascade fallback (OpenAI, Anthropic, Groq, DeepSeek, OpenRouter)
+- Uniswap V2 swaps with quotes, approvals, and slippage protection
+- Cross-chain bridges via Li.Fi and Socket aggregators
+- Token sniper with risk assessment and auto-buy
+- Portfolio tracking with P&L across chains
+- Natural language goal execution
+
+### Links
+- [GitHub](https://github.com/ulsreall/web3-agent-kit)
+- [Author's X](https://twitter.com/itseywacc)
+
+</details>
+
+## ["Westworld" simulation](https://theolvs.github.io/westworld/)
 A multi-agent environment simulation library
 <details>
 
