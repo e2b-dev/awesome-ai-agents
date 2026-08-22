@@ -4007,6 +4007,26 @@ Coding
 - demo: https://encode.software/demo
 </details>
 
+## [Enconvo](https://enconvo.com)
+AI Agent Launcher for macOS
+
+<details>
+
+### Category
+Personal assistant, Productivity
+
+### Description
+- The always-online AI companion that knows you best
+- Context-aware AI assistant with SmartBar, PopBar, voice input, live captions, TTS, and knowledge base
+- 100+ open-source plugins for extensibility
+- Supports multiple LLM providers
+- Free tier (10 uses/day), Standard $49, Premium $99, Cloud $10/mo
+- Requires macOS 14+
+
+### Links
+- [Website](https://enconvo.com)
+
+</details>
 
 ## [Factory](https://www.factory.ai/)
 Coding Droids for building software end-to-end
