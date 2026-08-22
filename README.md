@@ -4560,6 +4560,27 @@ Productivity, Build-your-own, Business intelligence
 
 </details>
 
+## [Kolega Code](https://github.com/kolega-ai/kolega-code)
+Agentic coding in the terminal, provider-agnostic and local-first
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Terminal coding agent where the model writes its own multi-agent workflows (Gigacode).
+- Sessions are journaled to disk, so resuming replays unchanged tool calls without spending tokens again.
+- Runs 15+ model providers through one interface.
+- MCP client over streamable HTTP, SSE, stdio, and OAuth.
+- Includes a browser agent and web search.
+- Textual TUI with Plan/Build modes, one-shot `ask` mode, and local-first state.
+
+### Links
+- [GitHub](https://github.com/kolega-ai/kolega-code)
+
+</details>
+
 ## [Kusho](https://kusho.ai/)
 AI agent for API testing
 
