@@ -1422,6 +1422,29 @@ Coding
 
 </details>
 
+## [FunASR](https://github.com/modelscope/FunASR)
+Open-source speech recognition toolkit for voice-enabled agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/modelscope/FunASR/main/docs/images/logo.png)
+
+### Category
+SDK for AI apps, Supports open-source models
+
+### Description
+- FunASR provides local and server-side speech recognition for voice-enabled AI agents and assistants.
+- Includes SenseVoice, Paraformer, streaming ASR, punctuation, timestamps, speaker-related workflows, and an OpenAI-compatible transcription API.
+- Useful when agent applications need self-hosted voice input, meeting/audio ingestion, or multilingual CJK speech support without sending audio to a hosted STT API.
+
+### Links
+- [GitHub](https://github.com/modelscope/FunASR)
+- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice)
+- [Fun-ASR](https://github.com/FunAudioLLM/Fun-ASR)
+- [Hugging Face Space](https://huggingface.co/spaces/FunAudioLLM/SenseVoice)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
