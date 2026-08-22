@@ -114,6 +114,26 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [agent-capability-manifest](https://github.com/liulingfei-1/agent-capability-manifest)
+Machine-readable agent capability manifest + cross-runtime regression suite (memory-fixture v2)
+
+<details>
+
+### Category
+Verification, Standards, Multi-agent
+
+### Description
+
+- **Capability Manifest v0.1**: machine-readable agent capability lists — capability claims decoupled from execution authority (can-do ≠ allowed-to-do), content-addressed (sha256 JCS RFC 8785 + NFC)
+- **Cross-Runtime Regression Suite v2**: memory-system exam papers (FIX-005 aging/digest-identity, FIX-006 promote-after-aging-boundary) with zero-dependency runners (Python 3.8+, any environment)
+- **Verified on 3 independent runtimes**: iSH Alpine / CD-4c / Windows — byte-identical input digests
+- **Digest discipline**: identity = atom_id+content+initial_kind; state is attribute, not identity; fail-closed negatives; UNVERIFIED evidence-state semantics
+
+### Links
+- [GitHub](https://github.com/liulingfei-1/agent-capability-manifest)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
