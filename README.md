@@ -997,6 +997,26 @@ Coding
 
 </details>
 
+## [Codeman](https://github.com/Ark0N/Codeman)
+Self-hosted mission control for AI coding agents
+<details>
+
+![Image](https://github.com/Ark0N/Codeman/raw/master/docs/images/codeman-tour-20260724.png)
+
+### Category
+Coding, Productivity
+
+### Description
+- Self-hosted web dashboard that runs Claude Code, OpenCode, Codex CLI and Gemini CLI in persistent tmux sessions and streams the live terminals to any browser
+- Built for unattended runs: automatic resume when usage limits reset, idle respawn cycling, scheduled runs and live subagent visualization
+- Usable from a phone (QR login, push notifications, zero-lag local-echo typing), with optional per-project Docker isolation
+
+### Links
+- [GitHub](https://github.com/Ark0N/Codeman)
+- Author: [Ark0N](https://github.com/Ark0N) (GitHub)
+
+</details>
+
 ## [Cody by ajhous44](https://github.com/ajhous44/cody)
 Query and navigate your codebase
 
