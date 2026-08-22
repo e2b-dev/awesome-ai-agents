@@ -5333,6 +5333,29 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [Thunderbit](https://thunderbit.com/)
+AI web scraper for structured data extraction
+
+<details>
+
+![image](https://storage.googleapis.com/thunderbit-public-resources/thunderbit_image.png)
+
+### Category
+Browser Use / Web Agents, Data extraction, Productivity
+
+### Description
+- AI web scraper that extracts structured data from websites with natural-language instructions
+- Turns web pages into tables, clean Markdown, or JSON for agent workflows, research, and data enrichment
+- Supports JavaScript-heavy pages, pagination, and subpages without maintaining selectors
+- Exports data to tools such as Google Sheets, Airtable, Notion, CSV, and the Thunderbit Open API
+
+### Links
+- [Web](https://thunderbit.com/)
+- [API Docs](https://thunderbit.com/docs/introduction)
+- [Chrome Extension](https://chromewebstore.google.com/detail/thunderbit-ai-web-scraper/hbkblphniphagnbhfbepooohdghnhmak)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
