@@ -3006,6 +3006,25 @@ General purpose
 
 </details>
 
+## [Agent37](https://agent37.com)
+Managed hosting for open-source AI agents
+
+<details>
+
+![image](https://www.agent37.com/opengraph-image)
+
+### Category
+Managed AI agents / agent hosting
+
+### Description
+- Managed hosting for open-source AI agents: hosted OpenClaw and Hermes instances managed from the browser (task board, web terminal, live Linux desktop, scheduled jobs, 1,000+ app integrations), plus an API for always-on agent instances.
+
+### Links
+- [Website](https://agent37.com)
+- [Docs](https://agent37.com/docs)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
