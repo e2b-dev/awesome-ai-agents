@@ -2296,6 +2296,28 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Octopal](https://github.com/pmbstyle/Octopal)
+Secure multi-agent runtime with isolated workers and policy-controlled execution
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/pmbstyle/Octopal/main/logo.png)
+
+### Category
+General purpose, Coding, Security
+
+### Description
+Octopal is a local-first multi-agent runtime built for safe autonomous execution.
+- Uses a persistent coordinator that plans work and delegates side effects to short-lived sandboxed workers
+- Restricts filesystem access through allowlists and keeps secrets outside worker context by default
+- Supports shell, browser, web, MCP tools, recurring tasks, skills, and a private dashboard
+
+### Links
+- [Web](https://octopal.ca)
+- [GitHub](https://github.com/pmbstyle/Octopal)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
