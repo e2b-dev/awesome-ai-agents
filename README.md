@@ -2322,6 +2322,26 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Persona](https://github.com/jayamitkatariya/personacli)
+Local-first personal workspace: notes, tasks, and a chat assistant grounded in your own Markdown files
+
+<details>
+
+### Category
+Personal assistant, Productivity
+
+### Description
+
+- **Local-first**: Everything is plain Markdown on your machine — no accounts, no cloud, no database.
+- **AI that knows your files**: Chat is grounded in your workspace, so answers cite your actual notes and tasks.
+- **Plain Markdown**: Notes stay portable `.md` files that any editor can read.
+- **Tasks with context**: Personal task list with project tags, queryable by the AI.
+- **One command to start**: `persona` boots the local server and opens your browser.
+
+### Links
+- [GitHub](https://github.com/jayamitkatariya/personacli)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
