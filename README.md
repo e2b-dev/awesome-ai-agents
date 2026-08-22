@@ -474,6 +474,30 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Awareness](https://github.com/everest-an/Awareness)
+Universal external memory for AI agents — hybrid retrieval, conflict detection, bi-temporal graph memory
+
+<details>
+
+![Image](https://github.com/everest-an.png)
+
+### Category
+Memory management, Coding, Multi-agent, MCP
+
+### Description
+- Universal external memory for every AI agent and IDE: hybrid retrieval (Qdrant + pgvector, BM25 + vector RRF), conflict detection (5-way classifier), knowledge cards, and bi-temporal graph memory.
+- 95.6% recall@5 on LongMemEval_S, running locally on an Apple M1 with zero LLM calls at retrieval (1.7s/query). Benchmarks published with full methodology: https://awareness.market/benchmarks
+- Local-first and free forever (SQLite + ONNX embeddings) or cloud (pgvector); works with Claude Code, Cursor, Windsurf and 12+ IDEs via MCP.
+- Imports Google Drive / Notion / Feishu documents via OAuth.
+- Verifiable on-chain memory state via ERC-8350 (Sepolia).
+
+### Links
+- [GitHub](https://github.com/everest-an/Awareness)
+- [Website](https://awareness.market)
+- [Benchmarks](https://awareness.market/benchmarks)
+- [Docs](https://awareness.market/docs)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
