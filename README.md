@@ -5486,6 +5486,36 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [ZettelForge](https://github.com/rolandpg/zettelforge)
+CTI-specific agentic memory system
+
+<details>
+
+### Category
+Open source, Cybersecurity, Memory, Knowledge Graph
+
+### Description
+- ZettelForge is the only agentic memory system built specifically for cyber threat intelligence.
+- Features:
+  - Entity extraction: CVEs, threat actors, IOCs, MITRE ATT\&CK techniques, campaigns
+  - Knowledge graph with alias resolution (APT28 = Fancy Bear)
+  - STIX 2.1 ontology throughout
+  - Blended retrieval: vector similarity + graph traversal
+  - Intent-classified queries (factual, temporal, relational, exploratory, causal)
+  - RAG synthesis from stored memories
+  - MCP server for Claude Code integration
+  - Offline/local-first: no API keys needed
+  - OCSF audit logging (FedRAMP AU controls)
+
+### Links
+
+- [GitHub](https://github.com/rolandpg/zettelforge)
+- [Docs](https://docs.threatrecall.ai)
+- [PyPI](https://pypi.org/project/zettelforge/)
+
+</details>
+
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
