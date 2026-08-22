@@ -2689,6 +2689,30 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+
+## [Uteke](https://github.com/codecoradev/uteke)
+Offline-first semantic memory engine for AI agents — single binary, zero dependencies
+
+<details>
+
+### Category
+Memory, RAG, MCP, Build your own
+
+### Description
+- **Offline-first**: Local ONNX embeddings (EmbeddingGemma, 768d). No API keys, no cloud, no telemetry
+- **Hybrid search**: HNSW vector similarity + FTS5 full-text + Reciprocal Rank Fusion
+- **MCP-native**: Built-in MCP server (JSON-RPC + HTTP). Works with Claude Code, Cursor, Hermes
+- **Single binary**: Written in Rust. No Docker, no Python runtime, zero external dependencies
+- **Multi-agent rooms**: Shared memory spaces with author attribution
+- **Memory lifecycle**: Hot/warm/cold tiering, auto-aging, deduplication, dream cycle maintenance
+- **Time-travel queries**: Recall memories as they existed at any point in time
+
+### Links
+- [GitHub](https://github.com/codecoradev/uteke)
+- [Web](https://codecora.dev)
+- [Docs](https://github.com/codecoradev/uteke/tree/develop/docs)
+
+</details>
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
