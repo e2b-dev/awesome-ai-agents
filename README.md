@@ -2296,6 +2296,24 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Orkas](https://github.com/Orkas-AI/Orkas)
+Open-source multi-agent AI desktop client
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Multi-agent team in one chat: a commander LLM assembles agents and dispatches them in parallel or in series, with visibility slicing so each agent only sees its own slice of the conversation.
+- Self-evolving agents: each agent reflects after tasks and crystallizes successful approaches into its own private, reusable skill library.
+- Local-first: conversations, files, API keys, knowledge bases, custom agents/skills, and memory all stay on your machine; model API calls go directly to providers and are never archived.
+- Cross-platform desktop app (macOS / Windows / Linux) with visual agent/skill management and BYO LLM keys (Claude, OpenAI, Gemini, etc.).
+
+### Links
+- [GitHub](https://github.com/Orkas-AI/Orkas)
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
