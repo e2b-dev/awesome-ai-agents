@@ -2273,6 +2273,30 @@ Coding, general purpose
 </details>
 
 
+## [Open Index](https://github.com/DrDroidLab/open-index)
+Structured context layer for domain-specialized AI agents
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/110093317?s=280&v=4)
+
+### Category
+Memory management, Build your own, General purpose
+
+### Description
+- Builds searchable context graphs from domain-specific schemas, entities, and relationships.
+- Gives agents structured context through an MCP server, with read and validated write tools.
+- Supports local SQLite and FTS5 storage as well as OpenSearch for production deployments.
+- Includes connectors, bulk imports, scheduled ingestion, and analytics for continuously improving agent context.
+
+### Links
+- [GitHub](https://github.com/DrDroidLab/open-index)
+- [Documentation](https://github.com/DrDroidLab/open-index/blob/main/README.md)
+- [Discord](https://discord.gg/AQ3tusPtZn)
+
+</details>
+
+
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
 
