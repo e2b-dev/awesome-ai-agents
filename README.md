@@ -1652,6 +1652,28 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [InkOS](https://github.com/Narcooo/inkos)
+Autonomous novel-writing CLI agent with 10-agent collaborative pipeline
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- InkOS orchestrates 10 specialized agents (planner, writer, auditor, style-checker, etc.) to produce novel-length fiction autonomously
+- 33-dimension continuity auditing catches plot holes, character inconsistencies, and timeline errors
+- Anti-AI-slop filtering ensures natural prose without repetitive LLM patterns
+- Style cloning learns from reference texts to maintain consistent voice
+- Cross-chapter repetition detection and length governance
+- Dialogue-driven narrative guidance for interactive story development
+- Built with Node.js/TypeScript, supports multiple LLM backends
+
+### Links
+- [GitHub](https://github.com/Narcooo/inkos)
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
