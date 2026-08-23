@@ -1470,6 +1470,27 @@ General purpose
 
 </details>
 
+## [GolemBot](https://github.com/0xranx/golembot)
+Unified AI assistant framework wrapping multiple Coding Agent CLIs
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- A unified framework that wraps Claude Code, Cursor, OpenCode, and Codex behind a single API.
+- Features a Skill system for modular prompt extensions, IM channel adapters (Feishu, Slack, Telegram, Discord, DingTalk, WeCom), and fleet mode for running multiple bots in parallel.
+- Includes an interactive onboard wizard for zero-config setup.
+- Supports session management, streaming events, and an HTTP API for embedding.
+
+### Links
+- [GitHub](https://github.com/0xranx/golembot)
+- [Docs](https://0xranx.github.io/golembot/)
+- [npm](https://www.npmjs.com/package/golembot)
+
+</details>
+
 ## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
 The ultimate AI agent integration for Discord
 
