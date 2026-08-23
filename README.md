@@ -1685,6 +1685,27 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 
 </details>
 
+## [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)
+Open-source AI coding orchestrator with plan-based lifecycle
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Ivy Tendril is an open-source AI coding orchestrator that manages multiple coding agents (Claude Code, Codex, Antigravity, Copilot, OpenCode) through a structured plan-based lifecycle
+- Features verification gates that validate each step before proceeding, ensuring reliable multi-step code changes
+- Includes self-improving memory that learns from past tasks to produce better plans over time
+- Agent-agnostic architecture allows switching between or combining different AI coding tools
+- Runs locally with full control over your codebase and development workflow
+
+### Links
+- [Website](https://tendril.ivy.app)
+- [GitHub](https://github.com/Ivy-Interactive/Ivy-Tendril)
+
+</details>
+
 
 ## [JARVIS](https://github.com/microsoft/JARVIS)
 System that connects LLMs with the ML community
