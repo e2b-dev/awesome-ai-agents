@@ -1398,6 +1398,27 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [foldkeep](https://github.com/jaknola923-blip/market_research)
+Lossless context folding engine for long agent sessions
+<details>
+
+### Category
+Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
+
+### Description
+- Rolls old conversation turns into compressed form while a pinned-fact
+  layer keeps every decision reachable inside any token budget
+- Zero-tolerance routing: code fences, JSON payloads and tool-call shapes
+  are never lossy-compressed
+- Lossless base: expand(name, seq) recovers any turn byte-for-byte after
+  rolling or merging
+- Pure Python stdlib, deterministic, millisecond latency, SQLite-backed,
+  pip install foldkeep
+
+### Links
+- [PyPI](https://pypi.org/project/foldkeep/)
+</details>
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
