@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+Autonomous ML research agent that runs experiments while you sleep
+
+<details>
+
+### Category
+Research, Science, Multi-agent
+
+### Description
+- 8 Claude Code skills for autonomous ML research workflows
+- Cross-model collaboration: Claude Code drives execution (reads papers, writes code, deploys GPU experiments) while an external LLM (via Codex MCP) acts as critical reviewer
+- The auto-review-loop skill iterates review→fix→re-review overnight — a real run improved a paper from 5/10 to 7.5/10 across 4 rounds with 20+ GPU experiments, zero human intervention
+- Includes skills for literature search, novelty checking, experiment deployment, result analysis, and experiment monitoring
+
+### Links
+- [GitHub](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)
+- Author: [wanshuiyin](https://github.com/wanshuiyin)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
