@@ -5189,6 +5189,29 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [Signalview](https://www.signalview.xyz)
+Non-custodial AI trading agents for Hyperliquid perpetuals
+
+<details>
+
+### Category
+Finance
+
+### Description
+- AI agents execute backtested trading signals on Hyperliquid perpetual futures 24/7
+- Every strategy is backtested over 18 months and compressed into one score (−100 to +100)
+- Before each trade an LLM reviews the signal against live market context and can veto the setup
+- Non-custodial: agents use Hyperliquid's scoped agent keys — they can place perp orders but can never withdraw; funds stay in the user's wallet
+- Free to run; users pay only normal exchange fees; signal authors earn builder fees
+
+### Links
+- [Website](https://www.signalview.xyz)
+- [How it works](https://www.signalview.xyz/about)
+- [GitHub (perpsignal — the open-source signal engine, Apache-2.0)](https://github.com/mokshyaprotocol/signalview)
+- [Twitter](https://x.com/signalview_xyz)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
