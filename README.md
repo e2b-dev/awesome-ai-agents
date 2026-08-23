@@ -3319,6 +3319,28 @@ Data analysis, Business intelligence
 
 </details>
 
+## [atrium](https://getatrium.dev)
+Desktop workspace for running multiple AI coding agents side by side
+
+<details>
+
+![image](https://getatrium.dev/og/default)
+
+### Category
+Coding, Productivity
+
+### Description
+- Native macOS workspace where CLI coding agents (Claude Code, Codex, Gemini CLI, and others) run side by side with terminals, editors, and an embedded browser
+- Workspace layout, terminals, and agent sessions survive restarts and resume where they left off
+- Past agent sessions are searchable across tools
+- Free during early access
+
+### Links
+- [Web](https://getatrium.dev)
+- [X (Twitter)](https://x.com/atrium_dev)
+
+</details>
+
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
