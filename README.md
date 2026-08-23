@@ -5486,6 +5486,24 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Workforce Wave](https://www.workforcewave.com/)
+AI voice agents for inbound call handling and customer support
+
+<details>
+
+### Category
+Business intelligence, Productivity
+
+### Description
+- AI voice agent / virtual receptionist platform for small and mid-sized businesses.
+- Handles inbound calls, answers customer questions, books appointments, and captures leads 24/7, including after-hours.
+- Based in Mount Pleasant, SC.
+
+### Links
+- [Web](https://www.workforcewave.com/)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
