@@ -70,6 +70,25 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [Antigravity Elite Harness](https://github.com/42Nekit123/antigravity-elite-harness)
+Claude-grade engineering rules, 7-vector code review & zero-AI-slop design system for Google Antigravity
+
+<details>
+
+### Category
+Coding, Developer Tools, UI/UX Design
+
+### Description
+- **9 Global Engineering Invariants**: Strict rules against hacky bandaids, style mimicry, tool discipline, and honest failure reporting.
+- **Zero-AI-Slop UI Design System**: Enforces 400/500 typography weights only, WCAG AA contrast, and token-first dark/light architecture.
+- **7-Vector Code Review**: Multi-angle diff auditing with confidence scoring.
+- **Read-Only Architect Planner**: Analyzes dependencies and blast radius before modifying code.
+
+### Links
+- [Live Interactive Demo](https://42nekit123.github.io/antigravity-elite-harness/)
+- [GitHub](https://github.com/42Nekit123/antigravity-elite-harness)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
