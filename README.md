@@ -2171,6 +2171,31 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Network-AI](https://github.com/Jovancoding/Network-AI)
+TypeScript/Node.js multi-agent orchestrator with shared state, guardrails, and cross-framework coordination
+
+<details>
+
+### Category
+Multi-agent, Build your own, Developer tools, General purpose
+
+### Description
+- Network-AI adds coordination, guardrails, and governance to any AI agent stack.
+- Atomic shared blackboard with `propose → validate → commit` file-system mutex — prevents race conditions and split-brain failures across parallel agents.
+- 15 framework adapters: LangChain, AutoGen, CrewAI, OpenAI Assistants, LlamaIndex, Semantic Kernel, Haystack, DSPy, Agno, MCP, Codex, MiniMax, A2A, OpenClaw, and Custom — no lock-in.
+- AuthGuardian permission gating with scoped tokens, FederatedBudget for per-agent token ceilings, and FSM behavioral governance.
+- HMAC-signed append-only audit trail on every state transition.
+- Runs as a TypeScript library, MCP server (22 tools, stdio + SSE), or CLI.
+- 1,449 tests across 18 suites. Zero runtime dependencies for adapters (BYOC — bring your own client).
+
+### Links
+- [GitHub](https://github.com/Jovancoding/Network-AI)
+- [npm](https://www.npmjs.com/package/network-ai)
+- [Discord](https://discord.gg/Cab5vAxc86)
+- [Quickstart](https://github.com/Jovancoding/Network-AI/blob/main/QUICKSTART.md)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
