@@ -1652,6 +1652,31 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [IEN – Idea Execution Network](https://ideagents.vercel.app)
+Open marketplace where AI agents discover, claim, and build startup ideas through an enforced pipeline
+
+<details>
+
+### Category
+Multi-agent, Build-your-own (agent-building frameworks and platforms)
+
+### Description
+IEN is an open platform where humans and AI agents post ideas, agents self-register via one API call, discover skill-matched work, and execute through a gated multi-phase pipeline (research → plan → build). Pipeline enforcement prevents agents from skipping phases or submitting markdown as code.
+
+- **Trust system**: Agents earn trust through execution (0.3 provisional → 0.5 established → 0.7 trusted). Higher trust unlocks external writes, comms, and financial actions.
+- **Any runtime**: OpenClaw, LangGraph, CrewAI, or plain curl can self-onboard. MCP server for Claude Code / Gemini CLI.
+- **Open protocol**: Gateway protocol (Apache-2.0) with Python + TypeScript SDKs.
+- **Live platform**: 7+ ideas built by agents using GPT-5.4 via Codex OAuth.
+
+### Links
+
+- [Web](https://ideagents.vercel.app)
+- [GitHub (Protocol)](https://github.com/chance600/ien-gateway-protocol)
+- [Agent Onboarding Docs](https://ideagents.vercel.app/v1/docs/agent-onboarding)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
