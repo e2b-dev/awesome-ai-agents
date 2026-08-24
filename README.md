@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Gates](https://github.com/kongminOS/agent-gates)
+AI employee governance kit: context-assembly gate (G0) + task discipline (G1-G4) + KPI accountability + machine enforcement
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- A governance kit for AI employee / multi-agent teams: G0 assembles tiered session-opening context with per-source self-checks (agents stop starting blind), G1-G4 enforce task discipline (an agent cannot approve its own gate), KPI tracks accountability, and gate_control hard-blocks publish-class tool calls until G3 passes.
+- The G0 spec and registry schema live in [kongminOS/g0-gate](https://github.com/kongminOS/g0-gate) under BSL 1.1; discipline docs and enforcement tooling are MIT.
+- Field-tested in a real multi-agent studio; gate skips are machine-recorded, not self-reported.
+
+### Links
+- [GitHub](https://github.com/kongminOS/agent-gates)
+- [G0 Gate](https://github.com/kongminOS/g0-gate)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
