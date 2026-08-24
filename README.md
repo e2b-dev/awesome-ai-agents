@@ -781,6 +781,29 @@ Coding
 
 </details>
 
+## [BundleDex](https://bundledex.net)
+Directory of Open Knowledge Format (OKF) bundles for AI agents and knowledge systems
+
+<details>
+
+### Category
+Knowledge & Memory, Developer Tools
+
+### Description
+- The definitive registry for Open Knowledge Format (OKF) bundles
+- 400+ bundles across 177 OKF-conformant repositories (3,889 stars indexed)
+- MCP tools for AI agents to discover and query bundles
+- REST API endpoints for programmatic access
+- llms.txt endpoint for LLM-friendly directory listing
+- Designed to help AI agents discover reusable knowledge packages
+
+### Links
+- [Website](https://bundledex.net)
+- [MCP Server / Tools](https://bundledex.net)
+- [API Documentation](https://bundledex.net)
+
+</details>
+
 ## [BondAI](https://bondai.dev/)
 Code interpreter with CLI & RESTful/WebSocket API
 
