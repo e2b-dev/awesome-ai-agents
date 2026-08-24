@@ -2738,6 +2738,33 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [VeritasGraph](https://github.com/bibinprathap/VeritasGraph)
+Enterprise GraphRAG framework for building knowledge graphs from research papers
+
+<details>
+
+### Category
+Research, Data analysis, General purpose
+
+### Description
+- Enterprise GraphRAG framework with MCP server for building knowledge graphs from research papers and documents
+- Combines hierarchical tree-search retrieval (PageIndex) with typed entity relationships and graph-based navigation
+- Provides 100% verifiable source attribution - every answer includes exact citations to source documents (zero hallucination)
+- Designed for medical research, policy analysis, and secure air-gapped deployments
+- Runs entirely offline via Ollama integration for privacy and security
+- Production-ready with MCP server, Gradio UI, Python SDK, Docker support, and REST API
+- Extracts typed entities (Person, Organization, Event, Concept, etc.) and relationships into queryable Neo4j property graphs
+- Supports complex research queries through dual navigation: tree-based exploration + typed relationship queries
+- Published as `veritasgraph-mcp` on PyPI for easy integration into AI agent workflows
+- Open source (MIT license) with comprehensive documentation and examples
+
+### Links
+- [GitHub](https://github.com/bibinprathap/VeritasGraph)
+- [PyPI Package](https://pypi.org/project/veritasgraph-mcp/)
+- [Documentation](https://github.com/bibinprathap/VeritasGraph#readme)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
