@@ -474,6 +474,27 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Konsey](https://github.com/eMediquality/konsey)
+Multi-agent, evidence-weighted orchestration CLI; vendor-neutral + local-first; producer-cannot-verify cross-validation.
+
+<details>
+
+	### Category
+	General purpose, Multi-agent
+
+	### Description
+	- A multi-LLM orchestration CLI where a model can't verify its own output
+	- Independent providers each plan, an adversarial critic attacks the plans, and a different provider verifies the result
+	- Vendor-neutral: Claude, Codex, Gemini, or local Ollama models
+	- Local-first with layered PHI/KVKK-aware safety
+	- MIT licensed
+
+	### Links
+	- [GitHub](https://github.com/eMediquality/konsey)
+
+	</details>
+	
+</details>
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
