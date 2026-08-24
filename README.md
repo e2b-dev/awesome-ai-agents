@@ -5210,6 +5210,28 @@ General purpose
 
 </details>
 
+## [Suede Agent Studio](https://suedeai.ai/)
+Creator-owned media agents and programmable-IP commerce
+
+<details>
+
+### Category
+General purpose, Content creation, Build-your-own, Multi-agent, Agent commerce
+
+### Description
+- Suede Agent Studio is an AI agent platform for generating, registering, licensing, and monetizing music/video/IP workflows with provenance and rights metadata in the loop.
+- Its live agent card and OpenAPI expose agent-facing creator workflows, while x402 metadata publishes paid resources for full-length music generation, video generation, rights lookup, and audio analysis.
+- The platform focuses on creator ownership, programmable IP, royalty routing, and agent-native commerce instead of generic content generation.
+
+### Links
+- [Web](https://suedeai.ai/)
+- [App](https://app.suedeai.ai/)
+- [Agent card](https://app.suedeai.ai/.well-known/agent-card.json)
+- [x402 metadata](https://app.suedeai.ai/.well-known/x402.json)
+- [GitHub](https://github.com/Suede-AI)
+
+</details>
+
 ## [Superluminal](https://superluminal.dev)
 AI copilot to your product's data dashboard
 
