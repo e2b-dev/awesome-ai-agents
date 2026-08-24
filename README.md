@@ -4743,6 +4743,25 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [Mentioned](https://mentioned.to/)
+Done-for-you Reddit growth for SEO and AI search visibility
+
+<details>
+
+### Category
+Marketing/Growth
+
+### Description
+- Mentioned finds the Reddit threads that already rank on Google for a customer's keywords, and the threads where competitors get recommended.
+- It then writes and publishes native posts and comments in those threads from managed Reddit accounts, and reports the customer's share of voice against competitors.
+- It is a paid managed service rather than self-serve software: the customer sets keywords, competitors, and subreddits and reviews the output, while the accounts and publishing are operated for them.
+
+### Links
+- [Web](https://mentioned.to/)
+
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
