@@ -1398,6 +1398,31 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [Forgeo](https://github.com/lucaGazzola/forgeo)
+Scheduled, agent-driven software factory for your coding agent
+
+<details>
+
+![Image](https://raw.githubusercontent.com/lucaGazzola/forgeo/main/docs/img/og.png)
+
+### Category
+Coding
+
+### Description
+- Keep a plain JSON backlog of tasks; Forgeo runs your coding agent (Claude Code, Codex, opencode, or any CLI agent) on each task and commits the result straight to main.
+- Works the backlog on a schedule, one task at a time, with automatic retry on transient failures.
+- When the backlog is empty, the same agent runs a refactoring pass to keep the codebase tidy.
+- Pauses and writes BLOCKER.md when only a human can make the call.
+- Plain files for all state, plus a web dashboard for every instance.
+
+### Links
+- [Web](https://forgeo.org)
+- [Docs](https://forgeo.org/docs/)
+- [GitHub](https://github.com/lucaGazzola/forgeo)
+
+</details>
+
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
