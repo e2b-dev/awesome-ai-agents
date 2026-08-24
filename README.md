@@ -1,3 +1,49 @@
+## [Octomind](https://github.com/Muvon/octomind)
+Open-source agent runtime — plug-and-play AI agents for any domain
+
+<details>
+
+
+![Image](https://github.com/Muvon/octomind/raw/master/assets/logo.png)
+
+### Category
+Coding, Automation
+
+### Description
+- Octomind is an open-source AI agent runtime written in Rust: plug-and-play agents for any domain, driven by MCP tools
+- Works with any provider — OpenRouter, Anthropic, OpenAI, Bedrock or local models via Ollama; single binary, Apache 2.0
+- On octobench (25 tasks from real merged PRs) Octomind with GLM-5.2 solved 24/25 at $63.43, vs Claude Code (Opus-5) 23/25 at $81.79 and opencode (same model) 19/25 at $129.54
+- Optional cloud runs agents 24/7 with persistent sessions across devices — free tier, no card required
+
+### Links  
+- [Website](https://octomind.run/)
+- [GitHub](https://github.com/Muvon/octomind)
+- [Benchmark](https://github.com/Muvon/octobench)
+</details>
+
+## [Octomind](https://github.com/Muvon/octomind)
+Open-source agent runtime — plug-and-play AI agents for any domain
+
+<details>
+
+
+![Image](https://github.com/Muvon/octomind/raw/master/assets/logo.png)
+
+### Category
+Coding, Automation
+
+### Description
+- Octomind is an open-source AI agent runtime written in Rust: plug-and-play agents for any domain, driven by MCP tools
+- Works with any provider — OpenRouter, Anthropic, OpenAI, Bedrock or local models via Ollama; single binary, Apache 2.0
+- On octobench (25 tasks from real merged PRs) Octomind with GLM-5.2 solved 24/25 at $63.43, vs Claude Code (Opus-5) 23/25 at $81.79 and opencode (same model) 19/25 at $129.54
+- Optional cloud runs agents 24/7 with persistent sessions across devices — free tier, no card required
+
+### Links  
+- [Website](https://octomind.run/)
+- [GitHub](https://github.com/Muvon/octomind)
+- [Benchmark](https://github.com/Muvon/octobench)
+</details>
+
 <!--
 TBD:
 - Add to visual:
