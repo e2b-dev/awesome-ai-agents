@@ -320,6 +320,25 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [AppHandoff](https://apphandoff.com/)
+Multi-agent coordination platform where AI coding agents and humans share one board
+<details>
+
+### Category
+Multi-agent
+
+### Description
+- Shared kanban board of handoff tickets for AI coding agents (Claude Code, Cursor, Codex, Lovable) and humans — each ticket carries a payload, an owner, and an acceptance check
+- Hosted MCP server so agents work the board natively: claim lanes, file and complete tickets, publish contracts, report progress
+- Lane claims stop two agents from editing the same slice at once; collisions become impossible or visible instead of silent
+- GitHub sync auto-closes tickets when the resolving pull request merges; deploy signals tie board state to what actually shipped
+
+### Links
+- [Website](https://apphandoff.com/)
+- [MCP server](https://apphandoff.com/mcp-server)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
