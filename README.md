@@ -255,6 +255,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [agent-wallet](https://github.com/pxlcrtiv/agent-wallet)
+An AI agent for safe testnet transactions - inspects a wallet, dry-runs a transaction, and explains the risk in plain English before anything is signed.
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- **Safety by design**: chain guards refuse mainnet; testnet-only by default.
+- **Dry-run first**: every transfer is simulated with eth_call and decoded revert reasons before signing.
+- **Plain-English risk notes**: allowances, balances, and fee estimates explained before confirmation.
+- **Unsigned EIP-1559 builder**: inspect and sign the exact transaction, never a surprise payload.
+- **Zero-API-key demo**: runs fully offline on bundled fixtures or a local anvil chain.
+
+### Links
+- [GitHub](https://github.com/pxlcrtiv/agent-wallet)
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
