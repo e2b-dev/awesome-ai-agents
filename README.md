@@ -1088,6 +1088,29 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [DSH Studio](https://github.com/Moresyl/dsh-studio)
+Manage DeepSeek Harness from a local cross-platform desktop app
+
+<details>
+
+![Image](https://raw.githubusercontent.com/Moresyl/dsh-studio/main/assets/screenshot-launcher.png)
+
+### Category
+Coding, General purpose
+
+### Description
+- Install and manage DeepSeek Harness locally
+- Start and stop processes with health checks and process supervision
+- Inspect runtime logs from the desktop interface
+- Native releases for macOS (Apple Silicon and Intel), Windows, and Linux
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/Moresyl/dsh-studio)
+- [Latest release](https://github.com/Moresyl/dsh-studio/releases/tag/v0.1.1)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
