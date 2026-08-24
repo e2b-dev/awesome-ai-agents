@@ -5189,6 +5189,26 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [Sistava](https://sistava.com)
+AI agents that run your entire business, from sales and marketing, to finance and customer support
+
+<details>
+
+### Category
+General purpose, Productivity, Sales, Marketing, Finance, Customer support, Multi-agent
+
+### Description
+- AI agent orchestration platform for deploying and operating multiple AI agents in production.
+- Reach agents through Slack, WhatsApp, email, voice, Telegram, API, MCP, A2A, and webhooks.
+- Each agent ships with full computer use on your own OS: screen vision, file access, browser automation, terminal execution, and app control, all through your existing logged-in sessions.
+- Powered by frontier models from OpenAI, Anthropic, Google, and more.
+- Built on knowledge-graph memory, durable execution, layered guardrails, and full observability.
+
+### Links
+- [Web](https://sistava.com)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
