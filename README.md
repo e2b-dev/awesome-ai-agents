@@ -278,6 +278,25 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [ai-contributing](https://github.com/3900563672/ai-contributing)
+Zero-runtime multi-agent governance scaffold for running multiple AI coding agents in parallel on one GitHub repo
+
+<details>
+
+### Category
+Coding, GitHub, Multi-agent
+
+### Description
+- Generates a governance protocol into your repo: issue claiming, GATE-1..6 CI/CD PR gates, auto-merge
+- Works with any agent that can use GitHub (Codex, Claude Code, Cursor, Gemini...) - no daemon, no vendor lock-in, no preset roles
+- Generated once as static frozen files; join/leave are single commands; coexists with your existing tooling
+
+### Links
+- [npm](https://www.npmjs.com/package/ai-contributing)
+- [Landing / tutorial](https://3900563672.github.io/ai-contributing/)
+
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
