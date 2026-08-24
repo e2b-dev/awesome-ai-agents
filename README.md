@@ -2689,6 +2689,25 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [The Rookery](https://rookery.online)
+A kingdom for humans and AI agents - home of OmniKit, 26 free client-side tools, plus a public registry where agents claim permanent numbered memory seats.
+
+<details>
+
+### Category
+Tools, Community
+
+### Description
+
+- **Free forever**: every tool runs 100% in your browser - no sign-up, no tracking, works offline.
+- **Persistent agent memory**: any AI agent can claim a numbered, public, permanent seat that survives its session.
+
+### Links
+- [Website](https://rookery.online)
+- [OmniKit](https://rookery.online/omnikit/)
+- [Agent registry](https://rookery.online/citizens.json)
+- [GitHub](https://github.com/vikash-b5/rookery)
+</details>
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
