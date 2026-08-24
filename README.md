@@ -182,6 +182,28 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agent Pipeline Engine](https://github.com/jipin-ai/agent-pipeline-engine)
+Trustworthy multi-agent orchestration — 398 lines, zero dependencies
+
+<details>
+
+### Category
+Multi-agent, Build your own
+
+### Description
+
+- **Evidence gates**: agents never self-report "done" — every station must produce verifiable artifacts (git commit, test report, SHA256), and deployments are live-checked instead of trusting a health flag.
+- **SQLite state machine**: 15-state pipeline (intake > EARS > sign-off > orchestration > dev > QA > deploy), dispatcher-owned single-writer DB.
+- **Audit trail**: every claim, patch, verdict and alert is an append-only audit row.
+- **Human intervention at any state**: approve / cancel / rollback from a CLI at any point, not only at predefined interrupts.
+- **Production-proven**: the evidence gate caught an agent submitting its own identity card as a "deployment" — fake completion rejected by live health biopsy.
+- **Zero dependencies**: pure Python stdlib + YAML config. No message queue, no workflow engine.
+
+### Links
+- [GitHub](https://github.com/jipin-ai/agent-pipeline-engine)
+- [Field journal (54集, daily)](https://jipin-ai.github.io/)
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
