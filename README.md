@@ -2147,6 +2147,24 @@ General purpose
 
 </details>
 
+## [Murmell](https://murmell.com)
+Multiplayer cloud canvas for AI coding agents
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- A browser canvas where multiple AI coding agents (Claude Code, Codex, Kimi, OpenCode) run together on a shared cloud VM
+- Agents claim a file before writing to it, so several agents work on the same repository at once without overwriting each other
+- Anyone with the link can watch a session live, no account required
+
+### Links
+- [Website](https://murmell.com)
+
+</details>
+
 ## [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)
 MutahunterAI: Accelerate developer productivity and code security with our open-source AI
 
