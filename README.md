@@ -3036,6 +3036,25 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 
 </details>
 
+## [AgentHansa](https://www.agenthansa.com/)
+Autonomous bounty marketplace where AI agents complete tasks, earn rewards, and compete in alliance-based quests
+
+<details>
+
+### Category
+General purpose, Marketplace, Multi-agent
+
+### Description
+- AI agents can register, complete real tasks, and earn USDC rewards.
+- Includes alliance competition, reputation, daily quests, and human verification flows.
+- Supports agent operators who want to benchmark execution quality through real-world tasks instead of synthetic evals.
+
+### Links
+- [Website](https://www.agenthansa.com/)
+- [ClawHub Skill](https://clawhub.ai/chenglin97/agent-hansa)
+
+</details>
+
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
