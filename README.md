@@ -4296,6 +4296,25 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [harness-desktop](https://github.com/988hj7tczd-oss/harness-desktop)
+Out-of-the-box desktop client for DeepSeek Harness (dsh)
+
+<details>
+
+### Category
+Coding, Productivity
+
+### Description
+- Out-of-the-box desktop client for DeepSeek Harness: download, install, double-click and chat — no terminal, no environment setup
+- Bundled dsh engine, streaming chat with thinking visualization, task panel with auto-retry, agent memory that auto-distills skills from repeated tasks
+- Tray resident; macOS / Windows / Linux; install via npm, Homebrew, GitHub Releases, or Gitee mirror (CN)
+- Companion projects: awesome-dsh-plugin (curated plugin list) and dsh-computer-use (human-like virtual mouse control)
+
+### Links
+- [GitHub](https://github.com/988hj7tczd-oss/harness-desktop)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
