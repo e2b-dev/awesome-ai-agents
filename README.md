@@ -2982,6 +2982,9 @@ General purpose, Productivity, Business intelligence
 
 </details>
 
+## [Bee by HEOSSI](https://bee.heossi.com)
+Governed specialist-LLM platform with autonomous agent orchestration, post-quantum (FIPS 203/204/205) trust controls, and an independently reproduced streaming-guardrails artifact (arXiv:2608.10279).
+
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 ML research and product lab building intelligence
 
