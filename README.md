@@ -139,6 +139,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentGuard](https://github.com/bmdhodl/agent47)
+Runtime guards and observability SDK for AI agents
+
+<details>
+
+### Category
+Developer tools, Monitoring, Multi-agent, Build your own
+
+### Description
+- A lightweight Python SDK for AI agent observability with runtime guards — loop detection, budget enforcement, cost tracking, and timeout protection.
+- Guards raise exceptions to stop runaway agents in real time, not just log after the fact.
+- Zero dependencies (Python stdlib only), with optional integrations for LangChain, LangGraph, CrewAI, and OpenTelemetry.
+- Includes tracing with JSONL export, async support, and an evaluation suite for trace analysis.
+
+### Links
+- [GitHub](https://github.com/bmdhodl/agent47)
+- [PyPI](https://pypi.org/project/agentguard47/)
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
