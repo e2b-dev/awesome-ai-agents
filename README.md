@@ -2147,6 +2147,25 @@ General purpose
 
 </details>
 
+## [Musaeus](https://github.com/MUSE-CODE-SPACE/musaeus)
+Local-first LLM agent and teaching codebase — every core concept in its own readable module
+
+<details>
+
+### Category
+Build your own, Personal assistant
+
+### Description
+- Runs fully local on Ollama by default; switches to Claude, GPT, or Gemini with one flag
+- Framework-free: ~2K lines of Python, four dependencies, Apache-2.0
+- One concept per module: tool registry, ReAct loop, RAG, structured output, guardrails, LLM-as-judge eval, cost-aware routing, and a minimal MCP client
+- Ships as a terminal REPL (`musaeus chat`) and a streaming FastAPI server
+- Offline test suite — the whole spine runs without keys or network
+
+### Links
+- [GitHub](https://github.com/MUSE-CODE-SPACE/musaeus)
+</details>
+
 ## [MutahunterAI](https://github.com/codeintegrity-ai/mutahunter)
 MutahunterAI: Accelerate developer productivity and code security with our open-source AI
 
