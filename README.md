@@ -2296,6 +2296,27 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Operator](https://github.com/iishyfishyy/operator-oss)
+Web control room that runs many Claude Code or Codex sessions in parallel
+
+<details>
+
+### Category
+Coding
+
+### Description
+Operator is an open-source, local-first web app for running many coding-agent sessions in parallel across multiple projects from one screen
+- Each task is its own agent session in an isolated git worktree on its own branch
+- Diff review, branch sync, conflict resolution, and merge built into the UI
+- Supports Claude Code and OpenAI Codex via the user's existing subscription login — no API key required
+- Self-hostable; the same workspace is reachable from a laptop, tablet, or phone
+
+### Links
+- [GitHub](https://github.com/iishyfishyy/operator-oss)
+- [Web](https://getoperator.dev)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
