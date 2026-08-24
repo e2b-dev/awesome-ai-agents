@@ -1854,6 +1854,33 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
+## [Loop Engineering](https://github.com/cobusgreyling/loop-engineering)
+Practical patterns, starters & CLI tools for designing loops that prompt your AI coding agents
+
+<details>
+
+![image](https://raw.githubusercontent.com/cobusgreyling/loop-engineering/main/assets/visuals/loop-engineering-logo.svg)
+
+### Category
+Coding, Productivity, Build your own
+
+### Description
+Loop engineering replaces you as the person who prompts the agent — you design the system that does it instead. Open-source reference with 7 production patterns, tool-specific starters (Grok, Claude Code, Codex, Cursor, Windsurf, Opencode), and npm CLIs (`loop-init`, `loop-audit`, `loop-cost`, `loop-sync`, `loop-context`) that scaffold projects and score Loop Readiness (0–100).
+
+- Patterns cover daily triage, PR babysitter, dependency sweeper, changelog drafter, and more
+- MCP server exposes patterns, skills, and state as runtime-queryable resources
+- Interactive showcase + pattern picker for choosing your first loop
+
+### Links
+
+- [GitHub](https://github.com/cobusgreyling/loop-engineering)
+- [Interactive showcase](https://cobusgreyling.github.io/loop-engineering/)
+- [Quickstart](https://github.com/cobusgreyling/loop-engineering/blob/main/docs/QUICKSTART.md)
+- [Essay](https://cobusgreyling.substack.com/p/loop-engineering)
+
+</details>
+
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 Re-implementation of AutoGPT as a Python package
 
