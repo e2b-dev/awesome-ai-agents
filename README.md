@@ -2094,6 +2094,29 @@ General purpose
 </details>
 
 
+## [mnemo](https://github.com/sattyamjjain/mnemo)
+MCP-native embedded memory database for AI agents with REMEMBER/RECALL/FORGET/SHARE primitives.
+
+<details>
+
+### Category
+Infrastructure, Memory, Multi-agent
+
+### Description
+- Embedded Memory Database: Built in Rust for AI agent persistent memory
+- MCP-Native: Core primitives exposed as Model Context Protocol tools
+- Hybrid Search: Combines semantic vectors, keyword matching, and recency scoring
+- Security: AES-256-GCM encryption, SHA-256 hash chains, memory poisoning detection
+- Flexible Forgetting: Soft/hard delete, decay, consolidation, and archive strategies
+- Multi-Protocol Access: MCP (stdio), REST API, gRPC, and pgwire
+- Multi-Agent Sharing: Cross-agent memory sharing with access control
+- Integrates with OpenAI Agents, LangGraph, CrewAI, PydanticAI, and 10+ other frameworks
+
+### Links
+- [GitHub](https://github.com/sattyamjjain/mnemo)
+- Author: [Sattyam Jain](https://github.com/sattyamjjain)
+</details>
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
