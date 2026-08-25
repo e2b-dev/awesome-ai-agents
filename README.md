@@ -1966,6 +1966,31 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Melaya Trading Crew](https://melaya.org/product/agentic-trading-crew)
+
+### Description
+A 7-persona multi-agent trading crew (Macro, TA, Quant, Sentiment, Risk, Portfolio, Execution) plus 4 sidecar watchers (Drawdown Sentinel, Macro Blackout, Funding Flip, Liquidation Cascade). Risk holds veto. Every order pauses for human approval. Runs end to end in dry-run mode on live market data before flipping any live key. Wired to a Rust trading engine at 420 ns per bar across 65 CEX and 6 prediction markets.
+
+### Author
+[Melaya](https://github.com/melaya-labs)
+
+### Category
+Multi-Agent, Trading
+
+### Industries
+Finance, Trading, Crypto, Quant
+
+### Access
+Hosted SaaS, Open benchmarks, SDKs on npm/PyPI/crates/Maven/NuGet/RubyGems/Go
+
+### Pricing
+Free Sandbox tier. Pro $49/mo. Crew $129/mo. Enterprise from $490/mo.
+
+### Links
+- [Trading Crew](https://melaya.org/product/agentic-trading-crew)
+- [Public benchmarks](https://melaya.org/benchmarks)
+- [Open-source SDKs and engine](https://github.com/melaya-labs/melaya)
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
