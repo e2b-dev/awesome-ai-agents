@@ -95,6 +95,31 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Airlock](https://github.com/sattyamjjain/agent-airlock)
+Open-source security firewall for AI agents -- validates tool calls, strips ghost arguments, enforces type safety, PII masking, RBAC, and sandbox isolation.
+
+<details>
+
+### Category
+Security, Infrastructure, Multi-framework
+
+### Description
+- Ghost Argument Stripping: Silently removes LLM-invented parameters before tool execution
+- Strict Type Validation: Rejects type mismatches without implicit coercion
+- PII & Secret Masking: Auto-redacts 12+ PII types including SSNs, credit cards, and API keys
+- Role-Based Access Control: Granular permission management per agent role
+- E2B Sandbox Execution: Runs untrusted code in isolated Firecracker MicroVMs
+- Cost Tracking: Output size limits and budget enforcement
+- Circuit Breaker: Fault tolerance pattern for failing tool services
+- OpenTelemetry Observability: Full distributed tracing
+- Works with LangChain, OpenAI Agents SDK, PydanticAI, and CrewAI via simple decorators
+
+### Links
+- [GitHub](https://github.com/sattyamjjain/agent-airlock)
+- [PyPI](https://pypi.org/project/agent-airlock/)
+- Author: [Sattyam Jain](https://github.com/sattyamjjain)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
