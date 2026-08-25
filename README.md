@@ -2196,6 +2196,30 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [no_human](https://github.com/no-human-ai/no_human)
+From ticket to reviewed pull request. Free and open-source, on your machine
+
+<details>
+
+### Category
+Coding, SWE, Multi-agent
+
+### Description
+- You know the loop: the agent comes back confident and wrong, and you are the one checking it ran the tests. no_human closes that loop instead.
+- Pulls tickets from Jira, Linear, monday.com, GitHub and GitLab — or takes a sentence you type — and plans the work, writes the change, and runs your tests.
+- **A second model that never saw the code being written reviews it**, is told to refute "done", and must cite the file and line for any finding it grades critical, high or medium. A fail blocks the pull request; a reviewer that cannot run fails closed.
+- **A tamper guard runs first**: a net drop in tests or assertions, a new skip, a tautological assertion or a deleted test file stops the run before a reviewer token is spent.
+- **It opens the pull request and cannot merge it.** The merge commands are denied to its sessions and pushes to protected branches are refused. Merging stays a human command.
+- Every task carries a spend cap set before it starts, and turning on the worker pool runs several at once. When it cannot finish, it stops and asks one specific question instead of inventing a diff.
+- Nothing to deploy: it runs on the developer's machine on SQLite and your existing git host, on your own Claude subscription (OpenAI Codex is a second backend option). Desktop apps for macOS, Windows and Linux; MIT.
+
+### Links
+- [GitHub](https://github.com/no-human-ai/no_human)
+- [Web](https://getnohuman.com)
+- [Docs](https://getnohuman.com/docs)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
