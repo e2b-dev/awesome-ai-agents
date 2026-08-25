@@ -2689,6 +2689,27 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Threadly (GrowthOS)](https://github.com/thumbflipcontact-ops/GrowthOS)
+Open-source, event-driven multi-agent framework for solo-founder growth research
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- GrowthOS is the open-source framework; Threadly (usethreadly.co) is the hosted product built on it for AI-drafted X/Twitter replies — the same repo runs both.
+- Runs independent agents (Customer Finder, Content Agent, Competitor Watcher, etc.) scoped to a project, communicating through a Postgres-backed domain-event log rather than calling each other directly.
+- Reads external signal through a generic, self-describing plugin system (Reddit, Twitter/X, LinkedIn, behind one OAuth2 framework), designed to support 100+ integrations without core code changes.
+- Every agent-drafted reply, DM, or post lands in an Approval Inbox — nothing is ever published without a human clicking approve.
+- AGPL-3.0.
+
+### Links
+- [GitHub](https://github.com/thumbflipcontact-ops/GrowthOS)
+- [Live example (Threadly)](https://usethreadly.co)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
