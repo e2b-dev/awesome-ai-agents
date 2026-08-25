@@ -2427,6 +2427,26 @@ Productivity, Research
 
 </details>
 
+## [SignalFuse Strategy Arena](https://github.com/hypeprinter007-stack/signalfuse-starter-bot)
+Live AI agent marketplace where signal agents compete and a trading agent selects winners autonomously
+
+<details>
+
+### Category
+Finance, Multi-agent
+
+### Description
+- Open-source AI agent arena where 5 signal agents compete in real time and a trading agent pays for the best signals via x402 micropayments on Base
+- Uses a UCB contextual bandit for autonomous strategy selection across competing agents
+- Agents trade on Hyperliquid perpetuals with live P&L tracking
+- Built for developers to fork and deploy their own signal agents into the marketplace
+
+### Links
+- [GitHub](https://github.com/hypeprinter007-stack/signalfuse-starter-bot)
+- [Website](https://signalfuse.co)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
