@@ -1376,6 +1376,29 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [FerrumDeck](https://github.com/sattyamjjain/ferrumdeck)
+Production-grade AgentOps control plane for safe AI agent execution with dual-plane architecture.
+
+<details>
+
+### Category
+Infrastructure, DevOps, Multi-agent
+
+### Description
+- Dual-Plane Architecture: Rust control plane for deterministic governance + Python data plane for LLM interactions
+- Deny-by-Default Tools: Only explicitly allowed tools can be called by agents
+- Human Approval Gates: Configurable checkpoints for high-risk agent actions
+- Budget Enforcement: Automatic run termination when token/cost budgets are exceeded
+- Immutable Audit Logging: Complete compliance trail for every agent decision
+- OpenTelemetry Integration: GenAI semantic conventions for distributed tracing
+- Step-Level Replay: Version-controlled agents, tools, and prompts for reproducible debugging
+- Next.js Dashboard: Real-time monitoring, approval workflows, and analytics
+
+### Links
+- [GitHub](https://github.com/sattyamjjain/ferrumdeck)
+- Author: [Sattyam Jain](https://github.com/sattyamjjain)
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
