@@ -4407,6 +4407,29 @@ Coding, Multi-agent, GitHub
 
 </details>
 
+## [InstaSeer](https://www.instaseer.com/mcp)
+Instagram/TikTok/Facebook audience analysis for AI agents
+
+<details>
+
+![image](https://www.instaseer.com/brand/og-default-1200x630-v2.png)
+
+### Category
+Data analysis, Marketing, Social media, Business intelligence
+
+### Description
+- InstaSeer is an Instagram MCP server that lets AI agents run social media analysis on any public profile.
+- Pull full public post timelines, engagement stats, and posting-calendar heatmaps for Instagram, TikTok, and Facebook.
+- Connects to Claude, ChatGPT, and any MCP client over Streamable HTTP with OAuth 2.1 or API keys; 5 tools, free tier included (50 credits/month).
+
+### Links
+- [Web](https://www.instaseer.com/mcp)
+- [Guide](https://www.instaseer.com/instagram-analysis-in-claude-chatgpt)
+- [GitHub](https://github.com/singaporeandurian/instaseer-mcp)
+
+</details>
+
+
 ## [Instrukt](https://github.com/blob42/Instrukt)
 Terminal env for interacting with with AI agents
 
