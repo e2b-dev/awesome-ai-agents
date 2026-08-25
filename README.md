@@ -1470,6 +1470,29 @@ General purpose
 
 </details>
 
+## [Governance-Guard](https://github.com/MetaCortex-Dynamics/governance-guard)
+Structural authority separation for autonomous AI agents. PROPOSE ≠ DECIDE ≠ PROMOTE.
+
+<details>
+
+### Category
+Safety, Guardrails, Agent governance
+
+### Description
+- Deterministic policy engine that enforces authority separation between an AI agent's intent and tool execution
+- Three-phase pipeline: PROPOSE (structured intent extraction with SHA-256 hashing), DECIDE (evaluate against YAML policies — no LLM, no interpretation ambiguity), PROMOTE (execute approved actions, block denied ones, escalate uncertain cases)
+- Ships with three policy presets (minimal, standard, strict) covering seven action types (read, write, execute, network, destructive, credential, unknown)
+- Hash-chained witness log for full audit trail
+- Zero runtime dependencies — custom YAML parser, Node.js crypto only
+- 146 tests including adversarial prompt injection and policy bypass scenarios
+- Designed for Claude Code hooks (PreToolUse) but architecture is framework-agnostic
+
+### Links
+- [GitHub](https://github.com/MetaCortex-Dynamics/governance-guard)
+- Built by [MetaCortex Dynamics](https://github.com/MetaCortex-Dynamics)
+
+</details>
+
 ## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
 The ultimate AI agent integration for Discord
 
