@@ -2093,6 +2093,26 @@ General purpose
 
 </details>
 
+## [Monk](https://github.com/monk-io/monk-plugin)
+Autonomous DevOps agent as a coding-agent plugin - your agent writes the app, Monk deploys and runs it on your own cloud
+
+<details>
+
+### Category
+DevOps, Cloud, Multi-agent
+
+### Description
+- Monk pairs with coding agents (Claude Code, Cursor, Codex, Antigravity) as a plugin: the coding agent writes the app, Monk reads the code, derives the deployment, and builds the whole stack - frontend, backend, databases, APIs, caches, TLS, secrets, CI/CD, monitoring, scaling, backups.
+- Runs on your own cloud (AWS, Azure, GCP, DigitalOcean, Hetzner) and wires in whatever the app calls for from a catalog of 200+ integrations: native cloud services, managed services and SaaS (MongoDB Atlas, Supabase, Neon, Clerk, Auth0, Stripe), PaaS (Vercel, Netlify), and self-hosted open source (PostgreSQL, Redis, Kafka, Prometheus + Grafana).
+- After deploy, Monk keeps operating the system instead of standing it up and walking away - catching drift and failures, rolling out whatever you push next.
+- A deterministic layer under the AI holds the credentials, checks every action against live runtime state, and queues anything destructive or expensive for human approval.
+
+### Links
+- [GitHub](https://github.com/monk-io/monk-plugin)
+- [Website](https://monk.io)
+- [Docs](https://docs.monk.io)
+
+</details>
 
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
