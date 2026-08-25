@@ -70,6 +70,30 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [8004scan Risk Scorer](https://github.com/JleviEderer/risk-api)
+Smart contract risk scoring agent for EVM chains
+
+<details>
+
+### Category
+Security, Blockchain, DeFi
+
+### Description
+- AI-powered smart contract risk scoring agent that analyzes EVM bytecode patterns, proxy structures, and deployer reputation
+- Returns a 0-100 risk score with per-detector breakdowns (8 detectors: 7 bytecode pattern + 1 deployer reputation)
+- Pay-per-call via x402 protocol ($0.10/query in USDC on Base) — no API key or signup needed
+- Supports A2A (Agent-to-Agent) protocol for autonomous agent discovery and interaction
+- Automatic proxy implementation resolution (EIP-1967, EIP-1822, OpenZeppelin)
+- Registered as ERC-8004 agent #19074 on Base mainnet
+
+### Links
+- [GitHub](https://github.com/JleviEderer/risk-api)
+- [Web](https://risk-api.life.conway.tech)
+- [Agent Card](https://risk-api.life.conway.tech/.well-known/agent-card.json)
+- [8004scan Profile](https://8004scan.io/agents/base/19074)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
