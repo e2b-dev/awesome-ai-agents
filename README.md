@@ -2636,6 +2636,26 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Symphony](https://github.com/itsloganmann/symphony)
+Live dashboard and 3D map of AI coding agents across a team
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Streams every edit that Claude Code, Codex, or opencode agents make, on every machine on a team, onto one live board through a single hook
+- Flags two agents that touch the same file before merge time, and warns the agent itself before it saves over the work of a teammate
+- Shows a shared repository tree, a live 3D map of the system, a token leaderboard, and per-person work summaries
+- Self-hosts on a free Supabase project; optional LLM features run on the user's own OpenAI or Anthropic key; MIT license
+
+### Links
+- [GitHub](https://github.com/itsloganmann/symphony)
+- [Article](https://itsloganmann.substack.com/p/symphony-a-live-map-of-your-ai-coding)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
