@@ -980,6 +980,28 @@ Coding
 
 </details>
 
+## [ClawPier](https://github.com/SebastianElvis/clawpier)
+Native desktop app for running AI agent instances in Docker sandboxes
+
+<details>
+
+### Category
+Infrastructure, Deployment, Build your own
+
+### Description
+
+- **Each bot is sandboxed**: Every OpenClaw agent runs in its own Docker container with `--network none` — network access is opt-in per bot.
+- **No CLI required**: Full GUI for chat, config, terminal, logs, file browsing, and resource monitoring.
+- **ClawHub skill browser**: Browse 50+ bundled skills, search the ClawHub registry, one-click install/uninstall.
+- **Health checks**: Configurable per-bot health commands with automatic restart on failure.
+- **Cross-platform**: macOS (signed & notarized), Linux (.AppImage, .deb), Windows (.exe, .msi).
+- **Built with Tauri v2** (Rust + React) — ~10x smaller than Electron.
+
+### Links
+- [GitHub](https://github.com/SebastianElvis/clawpier)
+- [Homebrew](https://github.com/SebastianElvis/homebrew-clawpier) — `brew install --cask clawpier`
+- [Releases](https://github.com/SebastianElvis/clawpier/releases)
+</details>
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
