@@ -2019,6 +2019,30 @@ Memory management, Data analysis
 
 </details>
 
+## [MemClaw](https://github.com/caura-ai/memclaw)</details>
+Long-term memory engine for AI agents
+
+<details>
+
+![image](https://github.com/caura-ai.png)
+
+### Category
+Build-your-own, Multi-agent
+
+### Description
+MemClaw is an open-source long-term memory engine for AI agents designed to provide persistent, searchable memory across agent workflows.
+- Enables durable semantic memory for long-running AI agents.
+- Supports contextual retrieval and memory management across sessions.
+- Framework-agnostic and integrates with existing agent stacks.
+- Optimized for scalable, production-ready agent memory.
+
+### Links
+- [GitHub](https://github.com/caura-ai/memclaw)
+- [Documentation](https://docs.caura.ai/)    <!-- replace if different -->
+- [Website](https://caura.ai/)               <!-- optional -->
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
@@ -2479,6 +2503,33 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 - [X](https://twitter.com/stackwiseai)
 - [Founder's X - Wayne](https://twitter.com/merwanehamadi)
 - [Founder's X - Silen Naihin](https://twitter.com/silennai)
+
+</details>
+
+## [Statewave](https://github.com/smaramwbc/statewave)</details>
+Memory runtime for long-running AI agents
+
+<details>
+
+![image](https://github.com/smaramwbc.png)
+
+### Category
+Build-your-own, Multi-agent
+
+### Description
+Statewave is an open-source memory runtime for AI agents that helps maintain durable, evolving memory across long-running workflows.
+- Transforms interactions and events into structured memories.
+- Supports memory consolidation, supersession, and memory lifecycle management.
+- Enables persistent memory across sessions and agent workflows.
+- Designed for multi-agent systems that require shared context and consistent knowledge over time.
+- Reduces stale and conflicting context by allowing memories to evolve rather than accumulate indefinitely.
+- Framework-agnostic and can be integrated into existing agent architectures.
+
+### Links
+- [GitHub](https://github.com/smaramwbc/statewave)
+- [Documentation](https://github.com/smaramwbc/statewave-docs/tree/main)
+- [Whitepaper](https://www.statewave.ai/whitepaper/compiled-memory.pdf)
+- [Blog](https://www.statewave.ai/blog)
 
 </details>
 
