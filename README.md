@@ -1312,6 +1312,24 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [EvalView](https://github.com/hidai25/eval-view)
+Open-source pytest-style testing framework for AI agents (LangGraph, CrewAI, OpenAI Assistants, Anthropic & more)
+<details>
+	
+![EvalView CLI Summary](https://github.com/hidai25/eval-view/blob/main/docs/imgs/runclisummary.png?raw=true)
+### Category
+Testing & Evaluation, Frameworks, LangGraph, CrewAI, OpenAI Assistants, Anthropic
+### Description
+- Fully open-source (Apache 2.0) framework that lets you write YAML tests for agents → assert exact tool calls, LLM-as-judge scoring, cost & latency thresholds → fail CI on hallucinations or surprise bills
+- Record real user sessions → auto-generate hundreds of regression tests in minutes
+- No database required for local runs or CI; works out-of-the-box with LangGraph, CrewAI, OpenAI Assistants, Anthropic Claude, custom APIs and more
+### Links
+- [Website](https://evalview.com)
+- [GitHub](https://github.com/hidai25/eval-view)
+- [Reddit launch – 4k+ views in hours](https://www.reddit.com/r/LangChain/comments/1pe3ivc/how_i_stopped_langgraph_agents_from_breaking_in/)
+</details>
+
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
