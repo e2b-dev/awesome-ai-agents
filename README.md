@@ -1657,6 +1657,29 @@ Agents building, debugging, and deploying platform
 
 <details>
 
+
+## [GuardRail](https://github.com/FvdHMBAI/guardrail)
+Pre-execution security for AI coding agents
+
+<details>
+
+### Category
+Security, DevOps, AI Safety
+
+### Description
+- 172 production-tested guards that block dangerous commands before they execute
+- One-command install: `npx guardrail-agent init`
+- Native Claude Code hook integration (pre-bash, post-bash, pre-tool)
+- Self-bypass detection — guards that watch the guards
+- EU AI Act compliance mapping (Art. 9, 10, 12, 14, 15)
+- Pen-test framework with 50+ attack patterns
+- <1ms per guard, zero developer friction
+
+### Links
+- [GitHub](https://github.com/FvdHMBAI/guardrail)
+- [npm](https://www.npmjs.com/package/guardrail-agent)
+
+</details>
 ![image](https://github.com/kreneskyp/ix/raw/master/ix_350.png)
 
 ### Category
