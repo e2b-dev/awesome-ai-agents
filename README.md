@@ -1062,6 +1062,28 @@ Coding
 
 </details>
 
+## [council-diff](https://github.com/alex-jb/council-diff)
+5-voice AI council for any decision · Brier-audited
+
+<details>
+
+### Category
+General purpose, Multi-agent, Decision support
+
+### Description
+- A small TypeScript library that uses a **single Claude Sonnet 4.6 call** to produce 5 specialist verdicts on any decision in 1 structured JSON response.
+- Counter-intuitively, asking for 5 voices in one call produces better disagreement than 5 parallel calls — the voices "see" each other in the model's context and push back. 1/5 the cost too.
+- 6 built-in domains: `founder` / `engineer` / `investor` / `career` / `product` / `quant`. Plus `custom` for fully user-defined voice rosters.
+- Includes a **persistence-agnostic Brier audit module** that scores recommendations honestly at resolution. Anyone can build a council; few will get scored.
+- ~$0.03 per deliberation. MIT, bilingual README (EN + 中文). Python port available at [council-diff-py](https://github.com/alex-jb/council-diff-py).
+
+### Links
+- [GitHub](https://github.com/alex-jb/council-diff)
+- [Live demo](https://www.vibexforge.com/council)
+- [Python port](https://github.com/alex-jb/council-diff-py)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
