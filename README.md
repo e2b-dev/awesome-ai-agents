@@ -4320,6 +4320,28 @@ Productivity
 </details>
 
 
+## [Hermes Agent France](https://hermesagentfrance.com/)
+Managed personal AI agents for French users, on Telegram or email
+
+<details>
+
+### Category
+General purpose, Productivity
+
+### Description
+- Installs, hosts and manages personal AI agents based on the open-source Hermes Agent software, for French individuals and small businesses
+- Each customer gets a private instance hosted in Europe; the agent runs continuously and writes to you when a deadline is coming
+- Interaction happens in French, on Telegram or by email — no server, setting or file is exposed to the user
+- For sensitive messages (a payment reminder, a customer reply), the agent drafts and the user validates before anything is sent
+- Customer data is never used to train AI models, and can be exported or deleted at any time
+
+### Links
+- [Web](https://hermesagentfrance.com/)
+- [Hermes Agent (open-source software it is based on)](https://github.com/NousResearch/hermes-agent)
+
+</details>
+
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 AI tools for doing amazing things with data
 
