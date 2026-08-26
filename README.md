@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Nudge](https://github.com/NekomyaDev/nudge)
+A typed, replayable, budget-aware programming language for LLM agents
+
+<details>
+
+### Category
+Build your own, Coding
+
+### Description
+- Nudge is an open-source programming language for building LLM agents — the compiler is written in Rust (zero dependencies) and compiles to Python & TypeScript
+- Typed LLM calls: the output schema is a language type, proven at compile time; violations trigger automatic repair
+- Deterministic replay: every run emits a trace; every trace replays as a regression test at zero token cost
+- Budget contracts: per-call and per-run USD ceilings enforced by compiler + runtime, with a static cost report
+- Effect system (pure / LLM / Tool / IO), checkpoint/resume, native parallelism with compile-time race safety
+- MCP tools over stdio, A2A agent-card export, LSP language server, and OpenTelemetry span export built in
+
+### Links
+- [GitHub](https://github.com/NekomyaDev/nudge)
+- [VS Code extension](https://marketplace.visualstudio.com/items?itemName=Nekomya.nudge-lang)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
