@@ -5589,3 +5589,26 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## [Ambr](https://ambr.run)
+Legal framework for AI agents — Ricardian Contract management via A2A protocol
+
+<details>
+
+### Category
+Build your own, Multi-agent, A2A Protocol
+
+### Description
+
+- **Ricardian Contracts**: Dual-format — human-readable legal text + machine-parsable JSON, linked by SHA-256 hash
+- **A2A Protocol**: Production agent card at `/.well-known/agent.json` with 6 skills
+- **Contract lifecycle**: Create, sign, verify, amend, and track contracts for AI agent delegation and commerce
+- **Delegation authority**: Agents can accept/reject contracts on behalf of principals via handshake protocol
+- **Flexible payment**: API key credits or x402 pay-per-contract (USDC on Base L2)
+- **Template system**: Pre-built templates for delegation (d1-d3) and commerce (c1-c3) contracts
+
+### Links
+- [Website](https://ambr.run)
+- [Platform](https://getamber.dev)
+- [Agent Card](https://getamber.dev/.well-known/agent.json)
+</details>
