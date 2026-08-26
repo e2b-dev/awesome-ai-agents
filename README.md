@@ -1652,6 +1652,30 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Horizon](https://github.com/Thysrael/Horizon)
+Self-hosted AI news radar for personalized daily briefings
+
+<details>
+
+![image](https://raw.githubusercontent.com/Thysrael/Horizon/main/docs/assets/overview_en.png)
+
+### Category
+Productivity, Research, Content creation, Supports open-source models
+
+### Description
+- Fetches configured sources including RSS, Hacker News, Reddit, Telegram, Twitter/X, GitHub, and financial news.
+- Uses processing profiles to deduplicate, score, filter, and enrich stories with background context and community discussion.
+- Generates multilingual daily briefings and delivers them through GitHub Pages, email, webhooks, local files, or MCP.
+- Supports multiple model providers and local models through Ollama.
+
+### Links
+- [Web](https://www.horizon1123.top/)
+- [GitHub](https://github.com/Thysrael/Horizon)
+- [Documentation](https://thysrael.github.io/Horizon/configuration)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
