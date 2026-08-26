@@ -4480,6 +4480,26 @@ Data analysis
 
 </details>
 
+## [Kilo-Kit](https://github.com/VoDaiLocz/kilo-kit-mcp)
+Kilo-Kit: All-in-one MCP Runtime & 177-Skill Library with C4 Workflow Gates
+
+<details>
+
+### Category
+Development, Coding, Multi-agent, MCP Runtime
+
+### Description
+
+- **Protocol-level C4 Workflow Gates:** Enforces systematic brainstorming, planning, and verification before code modification to prevent AI hallucinations.
+- **5 Cognitive Reasoning Engines:** Built-in Tree-of-Thoughts DAG (`kilo_think_step`), Adversarial Red-Team planning (`kilo_grill_plan`), 5-Whys Diagnostic Root-Cause Tracer (`kilo_trace_root_cause`), Context Compactor, and Self-Evolution skill generator.
+- **177 Curated Skills:** Validated expert skills covering clean code, architecture, security, TDD, and agent orchestration.
+- **1-Click Universal Auto-Setup:** Instantly integrates into Cursor, Claude Code, Windsurf, Antigravity, and OpenAI Codex via `npx -y @vodailoc/kilo-kit-mcp setup`.
+
+### Links
+- [GitHub](https://github.com/VoDaiLocz/kilo-kit-mcp)
+- [NPM Package](https://www.npmjs.com/package/@vodailoc/kilo-kit-mcp)
+</details>
+
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
 
