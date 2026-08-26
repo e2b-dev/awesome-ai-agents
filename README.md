@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [AI Quant Agents](https://github.com/demandai/ai-quant-agents)
+12 AI agents debate stock picks in real-time — Bull vs Bear with Risk Manager veto
+
+<details>
+
+### Category
+Multi-agent, Finance, Trading
+
+### Description
+- 12 specialized AI agents (Market Analyst, Bull/Bear Researchers, Risk Manager, Investment Judge) analyze stocks through structured debate
+- Real-time WebSocket streaming — watch agents think and argue live
+- Risk Manager has veto power to block risky trades
+- Supports US equities and China A-shares
+- Built on TradingAgents (Apache 2.0) by Tauric Research
+
+### Links
+- [Live Demo](https://dream.hmyk.ai/?tab=live)
+- [GitHub](https://github.com/demandai/ai-quant-agents)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
