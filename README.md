@@ -2427,6 +2427,22 @@ Productivity, Research
 
 </details>
 
+## [SelfHeal](https://selfheal.dev)
+Self-healing API proxy for AI agents
+
+<details>
+
+### Category
+Developer tools, Infrastructure
+
+### Description
+- Self-healing API proxy for AI agents. Intercepts failed API calls and returns LLM-powered fix instructions. SDKs for Python and Node.js.
+
+### Links
+- [Web](https://selfheal.dev)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
