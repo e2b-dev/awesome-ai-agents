@@ -445,6 +445,22 @@ Coding, GitHub
 ### Links
 - [Discord](https://discord.com/invite/ykk7Znt3K6)
 
+## [Anycode](https://github.com/anycode-ade/anycode)
+Web-based IDE with custom fast virtual-rendering code editor, Rust backend, and ACP agent support
+
+<details>
+
+### Category
+Coding, IDE, Agent Host
+
+### Description
+- **Custom Fast Code Editor**: Built with Tree-Sitter WASM syntax parsing and virtual rendering DOM.
+- **Agent Client Protocol (ACP)**: Native support for connecting and interacting with AI coding agents.
+- **Full LSP Integration**: Language intelligence and code intelligence for multiple languages.
+- **High Performance Backend**: Async Rust server powered by Axum, Tokio, and WebSockets.
+
+### Links
+- [GitHub](https://github.com/anycode-ade/anycode)
 </details>
 
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
