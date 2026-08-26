@@ -5064,6 +5064,29 @@ General purpose, Generating apps, Build-your-own
 
 </details>
 
+## [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot)
+Production-grade self-hosted QQ ↔ AI bridge for OneBot 11
+
+<details>
+
+![Image](https://github.com/happysnaker/qq-ai-bot/raw/main/assets/progress-demo.png)
+
+### Category
+General purpose, Personal assistant
+
+### Description
+- Self-hosted QQ ↔ AI bridge built for OneBot 11 / NapCat / LLOneBot deployments.
+- Keeps QQ transport, session orchestration, and ACP-compatible agent execution clearly separated.
+- Supports persistent sessions, progress streaming back into QQ, image pass-through, and a Docker demo stack.
+- Includes Prometheus-style `/metrics`, health endpoints, and build/version info in status surfaces.
+
+### Links
+- [GitHub](https://github.com/happysnaker/qq-ai-bot)
+- [Project page](https://happysnaker.github.io/qq-ai-bot/)
+- [Docker quickstart](https://github.com/happysnaker/qq-ai-bot/blob/main/docs/docker-quickstart.md)
+
+</details>
+
 ## [Relevance AI](https://relevanceai.com/)
 Build your AI Workforce
 
