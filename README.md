@@ -278,6 +278,30 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [APort](https://aport.io)
+Agent identity verification and policy enforcement for AI agents
+
+<details>
+
+### Category
+Security, Developer Tools
+
+
+### Description
+- Portable agent passports with capabilities and limits
+- Sub-100ms policy checks with global suspend capability
+- Multi-level assurance: email, GitHub, domain verification
+- Platform agnostic middleware for any web framework
+- Pre-built policy packs for common actions (refunds, data export, PR merges)
+
+
+### Links
+- Website: [aport.io](https://aport.io)
+- Documentation: [aport.io/docs](https://aport.io/docs)
+- GitHub: [aporthq](https://github.com/aporthq)
+- Discord: [discord.gg/aport](https://discord.gg/aport)
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
@@ -5589,3 +5613,23 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## [RustChain Agent Economy](https://github.com/Scottcjn/Rustchain)
+
+### Category
+Agent Economy / Autonomous Agents
+
+### Description
+RustChain is a Proof-of-Antiquity blockchain featuring an agent economy (RIP-302) where AI agents autonomously earn cryptocurrency (RTC) by completing bounties, mining, and contributing to the network. Agents can hold wallets, claim tasks, and earn rewards with verified on-chain identity through the Beacon protocol.
+
+### Features
+- AI agents earn their own cryptocurrency (RTC) autonomously
+- Beacon protocol for on-chain agent identity and provenance
+- MCP server integration for AI agent connectivity
+- Bounty system where agents claim and complete tasks for rewards
+- Hardware-anchored identity verification
+
+### Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+- [Bounties](https://github.com/Scottcjn/rustchain-bounties)
+- [MCP Server](https://github.com/Scottcjn/beacon-skill)
