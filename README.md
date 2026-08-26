@@ -34,7 +34,7 @@ Add to readme list:
 	</p>
 </h1>
 <h3 align="center">
-  Add <a href="https://e2b.dev/docs?ref=awesome-sdks&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents">Code Interpreter</a> to your AI App
+  Add <a href="https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents">Code Interpreter</a> to your AI App
 </h3>
 
 <h5 align="center">🌟 <a href="https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents">See this list in web UI</a></h5>
@@ -63,9 +63,9 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 --->
 
 ## Check out E2B - Code Interpreting for AI apps
-- Check out [Code Interpreter SDK](https://e2b.dev/docs?ref=awesome-sdk&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+- Check out [Code Interpreter SDK](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
-- Read our [docs](https://e2b.dev/docs?ref=awesome-sdks&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+- Read our [docs](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
 # Open-source projects
@@ -5542,11 +5542,11 @@ Build-your-own, Productivity, General purpose
 Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
 </details>
 
-### :eight_pointed_black_star: [OpenAI's Assistants](https://e2b.dev/docs/llm-platforms/openai/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+### :eight_pointed_black_star: [OpenAI's Assistants](https://docs.e2b.dev/llm-platforms/openai/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 <details>
 
 You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
-To [try the OpenAI Assistants with E2B](https://e2b.dev/docs/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents), you can follow our guide in [Python](https://e2b.dev/docs/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#python) or [JavaScript](https://e2b.dev/docs/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#java-script). 
+To [try the OpenAI Assistants with E2B](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents), you can follow our guide in [Python](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#python) or [JavaScript](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#java-script). 
 
 </details>
 
@@ -5568,7 +5568,7 @@ See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchai
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
-We are open-source and you can get started with E2B [here](https://e2b.dev/docs?ref=awesome-sdks&utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents).
+We are open-source and you can get started with E2B [here](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents).
 
 <!-- 
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
