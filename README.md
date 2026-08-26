@@ -3157,6 +3157,30 @@ Coding, General purpose
 </details>
 
 
+## [alfred_ (get-alfred.ai)](https://get-alfred.ai)
+AI executive assistant for your email and calendar
+
+<details>
+
+![image](https://get-alfred.ai/brand/alfred-mark-512.png)
+
+### Category
+Personal assistant, Productivity
+
+### Description
+- alfred_ is an AI executive assistant for your email and calendar. It triages your inbox, drafts replies, tracks what needs a response, and manages your calendar.
+- Connects to Gmail or Outlook / Microsoft 365 through OAuth; drafts wait for approval and nothing is sent unless the user says so
+- Delivers a morning Daily Brief by SMS or email; chat on the web or over SMS
+- Remote MCP server, so it also works from Claude, ChatGPT and other MCP clients
+- One flat plan at $29.99 a month with a free trial; SOC 2 Type 2
+
+### Links
+- [Web](https://get-alfred.ai)
+- [MCP server docs](https://get-alfred.ai/mcp)
+- [Blog](https://get-alfred.ai/blog)
+
+</details>
+
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
 
