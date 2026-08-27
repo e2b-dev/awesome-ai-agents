@@ -2094,6 +2094,29 @@ General purpose
 </details>
 
 
+## [mini-agent](https://github.com/miles990/mini-agent)
+Perception-driven personal AI agent that sees before it acts
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- Most agent frameworks are goal-driven (give a task, get steps). mini-agent is **perception-driven** — it continuously observes the environment, then decides whether and how to act
+- Shell scripts define what the agent can see (workspace changes, Docker health, browser tabs, Telegram messages). Claude CLI does the thinking
+- No database, no embeddings — just Markdown files, JSONL logs, and shell scripts. Human-readable, git-versionable
+- Identity-driven: agents have a SOUL.md that defines personality, interests, and growth trajectory — not just a tool, but a persistent entity
+- Includes **mushi**, a System 1 triage layer using a small local model for sub-second filtering — skips unnecessary reasoning cycles, saving ~54% of compute
+- Multi-lane organic parallelism inspired by slime mold (Physarum): explore multiple directions simultaneously, reinforce productive paths, prune dead ends
+- ~29K lines of TypeScript (vs AutoGPT's 181K). Every line has a reason to exist
+
+### Links
+- [GitHub](https://github.com/miles990/mini-agent)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
