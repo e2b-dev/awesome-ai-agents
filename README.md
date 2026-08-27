@@ -2689,6 +2689,27 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Tracefold](https://github.com/TraceFold/tracefold)
+Verified transformation calculus and undo engine for AI agents
+
+<details>
+
+### Category
+Coding, Infrastructure & Sandboxing, Safety & Verification
+
+### Description
+- Verified transformation calculus and undo engine in Rust for AI agent tool executions and filesystem mutations.
+- Constructs and checks an exact inverse operation before mutating actions land on the system.
+- Produces signed DSSE audit receipts anchored in an append-only Rekor-style Merkle tile log for offline verification.
+- Enforces pre-commit authorization via Cedar policy evaluation with deterministic verdict states (admit, deny, escalate, error).
+- Ships as a CLI (`gx`) and MCP proxy wrapper (`gx wrap`).
+
+### Links
+- [GitHub](https://github.com/TraceFold/tracefold)
+- [Documentation](https://github.com/TraceFold/tracefold/blob/main/docs/TRACEFOLD_TR.md)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
