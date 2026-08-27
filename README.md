@@ -2689,6 +2689,27 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [The Factory](https://github.com/akashgit/remote-factory)
+Self-evolving, stateful meta-harness for autonomous software development and research
+
+<details>
+
+### Category
+Coding, Research, Multi-agent
+
+### Description
+- **Turn any codebase into an autoresearch project in one command** — auto-discovers eval dimensions, generates the scoring harness, and starts running keep/revert experiment loops
+- **Go from a plain-English idea to a running, continuously improving project** — describe what you want and it researches, scaffolds, builds, tests, and sets up continuous improvement end-to-end
+- **Research mode wraps any measurable metric into a full optimization loop** — failure analysis, targeted hypotheses, monotonic improvement enforcement, and leakage guards against ground truth contamination
+- **Self-evolving agents** — behavioral playbooks evolve from experiment outcomes; rules from kept experiments get reinforced, rules from reverts get pruned
+- Used daily to ship iOS apps, solve math competition problems, optimize chip designs, build production enterprise features, and improve itself
+
+### Links
+- [GitHub](https://github.com/akashgit/remote-factory)
+- [Documentation](https://github.com/akashgit/remote-factory/tree/main/docs)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
