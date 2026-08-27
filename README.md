@@ -2901,6 +2901,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 - **Universal Language - Function Calling**:
   - **ToolAgent & ReACT**: Optimal action series for subtasks.
 - **Tools**:
+- [APort](https://aport.io) - Open-source AI agent safety platform with policy-based verification, passports, and real-time guardrails.
   - 📝 File Editor
   - 📘 Python Notebook
   - 🌏 Web Browser
