@@ -2408,6 +2408,32 @@ Coding
 
 </details>
 
+## [RoboCo](https://github.com/rennf93/roboco)
+An AI software company: 25 role-based agents and one human CEO running a real git delivery lifecycle
+
+<details>
+
+![Image](https://roboco.tech/og-image.png)
+
+### Category
+Coding, Multi-agent
+
+### Description
+- RoboCo is a self-hosted virtual software company: developers, QA, documenters, PMs, a PR reviewer, an auditor and a board, organized in cells, with a human CEO as the only merge authority.
+- Every task runs a real git workflow: per-agent clones and per-task worktrees, branch, PR, QA review with structured file:line findings, documentation, PM review and CEO approval; nothing merges to master without the human. Works with GitHub, Gitea and GitLab.
+- Agents talk to the system through a gateway of intent verbs that returns what to do next and how to fix mistakes, so weaker or cheaper models can still drive the lifecycle safely.
+- Governance built in: signed per-agent identities, an audit log, per-task and per-project cost budgets, rework metrics, and an in-repo architectural conventions standard enforced at the pre-submit gate.
+- Beyond single tasks: MegaTask batch intake across repos with collision-aware sequencing, Board Programs (roadmap, bug hunts, gap audits, quality reports), and CEO-gated autonomy engines (self-healing CI, dependency updates, release manager), plus organizational memory with curated playbooks and Telegram and Obsidian integrations.
+- Also ships: on-demand sandboxed Postgres/Redis/Mongo for agents, a Remotion-based video engine (release explainers and feature spotlights with an in-fleet QA gate), a CEO-approved X account voice, optional behavioral doctrine layers for cheaper models, and cookie-based cloud auth for exposing the panel beyond localhost.
+- Model-agnostic runtime: Claude Code, Codex, Gemini, Grok and Kimi CLIs, with OpenRouter support in progress; ships as Docker Compose with a Next.js control panel, runs on your own hardware. AGPL-3.0.
+
+### Links
+- [GitHub](https://github.com/rennf93/roboco)
+- [Docs](https://docs.roboco.tech)
+- [Website](https://roboco.tech)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
