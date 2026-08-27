@@ -5311,6 +5311,30 @@ Finance, Data analysis
 
 </details>
 
+## [TraderBear](https://trader-bear.com/)
+Paper-first AI trading agent and virtual pet for prediction markets
+
+<details>
+
+![TraderBear logo](https://trader-bear.com/favicon-512.png)
+
+### Category
+Finance, Research, Productivity
+
+### Description
+- Turns plain-English research and trading goals into explicit market analysis and simulated strategies.
+- Every account starts with paper trading and virtual funds; live trading is not available at signup.
+- Advanced live execution unlocks only after sustained qualification, and qualified users choose approval-required or explicitly authorized direct execution.
+- Includes research, risk controls, forecasting practice, and a virtual bear companion.
+
+### Links
+- [Web](https://trader-bear.com/)
+- [Company: Awesome Bears](https://awesome-bears.com/)
+- [How it works](https://trader-bear.com/architecture)
+- [About](https://trader-bear.com/about)
+
+</details>
+
 ## [Test Driver](https://testdriver.ai/)
 AI Agent for QA in GitHub
 
