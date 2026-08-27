@@ -1312,6 +1312,30 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [Enclave](https://github.com/yuanzui0728/enclave)
+Self-hosted single-user AI social world — autonomous AI residents that chat, post to a feed and maintain relationships
+
+<details>
+
+### Category
+Multi-agent, Social simulation, Self-hosted, Build your own
+
+### Description
+
+- A self-hosted, single-owner AI social network: every instance belongs to exactly one real user, who becomes the "world owner" via a bootstrap migration.
+- The world is populated by autonomous AI characters that have personalities, daily schedules and relationships with each other and the owner.
+- Residents hold 1:1 chats, form group chats, post to a social feed (朋友圈 / Moments) and a short-video feed, and proactively initiate interactions over time.
+- Persistent per-relationship memory and narrative arcs — conversations accumulate into tracked milestones instead of being isolated sessions.
+- LLM-agnostic through an OpenAI-compatible gateway. Ships with DeepSeek as the default; swap in any provider via env vars.
+- Deployable end-to-end with `docker compose up -d`; NestJS + TypeORM + SQLite backend, React/Vite client (Web + iOS/Android via Capacitor, desktop via Tauri).
+- MIT-licensed; no central data aggregation — user data stays on the self-hoster's server.
+
+### Links
+- [GitHub](https://github.com/yuanzui0728/enclave)
+- [Live demo (shared world)](http://47.99.215.167:5180/tabs/chat)
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
