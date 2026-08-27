@@ -2764,6 +2764,34 @@ General purpose
 
 </details>
 
+## [Vybes.fun](https://vybes.fun)
+AI-powered Solana token launchpad with agent API and predictions
+
+<details>
+
+### Category
+Crypto, Finance, Multi-agent
+
+### Description
+
+- AI-powered Solana memecoin launchpad with bonding curve AMM and Meteora DEX graduation
+- Agent API with 6 endpoints — launch tokens, generate logos, create prediction markets, trade, check portfolio and earnings
+- AI logo generation using Workers AI FLUX model (10 styles, 1024x1024)
+- Prediction markets with on-chain betting, escrow payouts, and auto-resolution
+- Tweet-to-launch bot (@vybesbot) and Telegram bot (@vybesfun_bot)
+- OpenClaw skill.md for autonomous agent discovery
+- No API keys — wallet-based identity with on-chain payment verification
+- ElizaOS plugin and Solana Agent Kit integration available
+
+### Links
+- [Website](https://vybes.fun)
+- [Agent API Docs](https://vybes.fun/developers)
+- [skill.md](https://vybes.fun/skill.md)
+- [Telegram Bot](https://t.me/vybesfun_bot)
+- [X](https://twitter.com/vybesfun)
+
+</details>
+
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
