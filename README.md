@@ -5486,6 +5486,31 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Yad](https://github.com/holistis/al-yad)
+An open-source Windows agent that runs inside your own logged-in browser session, not a fresh empty one
+
+<details>
+
+![image](https://yadagent.com/yad-og-image.png)
+
+### Category
+Productivity, Personal assistant, General purpose
+
+### Description
+- Two parts: a browser extension (the hand, clicks and types) and a local companion app (the brain, turns a plain-language instruction into a sequence of actions). Live on Chrome and Brave today, Edge in review.
+- There is also an early, standalone desktop-app prototype that runs Yad as its own program window with no browser extension needed, for anyone who wants to try it without touching their everyday browser. Real and tested, not yet a one-click installer.
+- Runs inside the user's real, logged-in browser session with cookies and logins intact, instead of starting a fresh browser per task like most agents.
+- Repeated tasks are cached and replay with zero further LLM calls, so cost and latency drop the more it's used on the same site.
+- Local-first: nothing leaves the machine unless the user picks a cloud model, and passwords/card numbers are masked before anything is sent either way.
+- Free and open source (MIT), with a fully reproducible open benchmark suite checked into the repo. Windows only for now.
+
+### Links
+- [Website](https://yadagent.com)
+- [GitHub](https://github.com/holistis/al-yad)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/dacfhekkemkiikecbjffmbdcohddodea)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
