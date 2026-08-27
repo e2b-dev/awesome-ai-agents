@@ -5311,6 +5311,27 @@ Finance, Data analysis
 
 </details>
 
+## [ThunderPhone](https://thunderphone.com/)
+Self-serve platform for building AI phone agents — from $0.02/min with models included, 99.4% on Big Bench Audio
+
+<details>
+
+### Category
+Voice AI, phone agents
+
+### Description
+- Build, test, and monitor AI phone agents without leaving the platform
+- AI-caller simulations and regression suites for testing agents like software
+- Live call monitoring and steering; automatic issue detection with proposed fixes
+- 47 languages; API + MCP support; HIPAA/GDPR compliant
+
+### Links
+- [Website](https://thunderphone.com/)
+- [Docs](https://docs.thunderphone.com/)
+- [Launch announcement](https://thunderphone.com/blog/thunderphone-self-serve)
+
+</details>
+
 ## [Test Driver](https://testdriver.ai/)
 AI Agent for QA in GitHub
 
