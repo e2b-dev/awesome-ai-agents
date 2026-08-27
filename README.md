@@ -2510,6 +2510,26 @@ Superagent is not a single agent, but a tool that allows creating agents without
 </details>
 
 
+## [Stoneforge](https://stoneforge.ai)
+Open-source orchestration for AI coding agents with automatic dispatch, merge, and recovery
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Stoneforge orchestrates multiple AI coding agents working in parallel on your codebase
+- Automatic task dispatch, merge conflict resolution, and error recovery
+- Supports any AI coding agent (Claude Code, Codex, etc.) with isolated git worktrees
+- Event-sourced architecture with SQLite caching for fast queries
+- Built-in role system: Director plans work, Workers execute, Stewards review and merge
+
+### Links
+- [GitHub](https://github.com/stoneforge-ai/stoneforge)
+- [Website](https://stoneforge.ai)
+</details>
+
 ## [SuperAGI](https://superagi.com/)
 Framework to develop and deploy AI agents
 <details>
