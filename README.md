@@ -2024,6 +2024,22 @@ Assists you with coding task from command line
 
 <details>
 
+## [mix2](https://github.com/elleryfamilia/mix2)
+Terminal app that turns two coding agents into one team
+
+<details>
+
+### Category
+Coding agent, Multi-agent
+
+### Description
+mix2 is a terminal app that runs two frontier coding agents as one engineering team. You ask one question; both investigate in parallel, independently; they compare notes, argue when they should, and hand you a single answer — signed by the team, not by either of them. Disagreements are disclosed, never smoothed over. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI.
+
+### Links
+- [GitHub](https://github.com/elleryfamilia/mix2)
+
+</details>
+
  ![image](https://assets-global.website-files.com/64bad175c3f1fe8957a06faf/64bef0d57ca34f97c26b2c63_abante-ai-icon_transparent_271.png)
 
 ### Category
