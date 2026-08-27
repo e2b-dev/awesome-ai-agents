@@ -4008,6 +4008,28 @@ Coding
 </details>
 
 
+## [Explyt](https://github.com/explyt/explyt)
+AI agent for JetBrains IDEs that uses native IDE tools instead of the terminal
+
+<details>
+
+![image](assets/explyt-logo-with-icon.svg)
+
+### Category
+Coding
+
+### Description
+- AI agent for JetBrains IDEs (IntelliJ IDEA, PyCharm, Rider, GoLand, WebStorm, PhpStorm, Android Studio)
+- Uses native IDE tools - debugger, refactorings, static analysis, symbol navigation - instead of terminal commands
+- Can run configured tests and builds, and review code with IDE static analysis
+
+### Links
+- [GitHub](https://github.com/explyt/explyt)
+- [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/27979-explyt-ai-agent)
+- [Website](https://explyt.ai)
+
+</details>
+
 ## [Factory](https://www.factory.ai/)
 Coding Droids for building software end-to-end
 
