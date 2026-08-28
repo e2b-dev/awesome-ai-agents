@@ -2296,6 +2296,24 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OPOS](https://github.com/Koroqe/OPOS)
+Company-in-a-repo operating system where the org chart is markdown files executed by Claude Code agents
+
+<details>
+
+### Category
+Multi-agent, Productivity
+
+### Description
+- Encodes a company — mission, departments, roles, and tasks — as plain markdown in a single git repository
+- Claude Code agents decompose goals and carry out the work; decisions like shipping or spending come back to the founder for approval
+- Scaffolded as a Copier template; aimed at one-person companies
+
+### Links
+- [GitHub](https://github.com/Koroqe/OPOS)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
