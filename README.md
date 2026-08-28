@@ -2408,6 +2408,24 @@ Coding
 
 </details>
 
+## [SandBase CLI](https://github.com/sandbaseai/cli)
+Agent-first CLI and local MCP bridge for connecting coding agents to 2,000+ AI models and APIs.
+
+<details>
+
+### Category
+Coding, Tool for agents
+
+### Description
+- Configures 25 AI clients with one onboarding workflow.
+- Provides six MCP tools for model discovery, inspection, invocation, run history, and account status.
+
+### Links
+- [GitHub](https://github.com/sandbaseai/cli)
+- [Documentation](https://sandbase.ai/docs)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
