@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Notte](https://github.com/nottelabs/notte)
+Notte is the fastest, most reliable framework for Browser Using Agents.
+<details>
+
+### Category
+Browser, LLMs, Navigation, Web, Agent
+
+### Description
+Notte is the fastest, most reliable framework for Browser Using Agents. We provide an open-core browser infrastructure with a perception layer turning webpages into an action API in text—making it simple for LLMs to read, understand, and act on sites. [Our tech wins](https://github.com/nottelabs/open-operator-evals) on speed, cost, and task success, letting you build smaller, faster, and smarter agents—ready for production.
+
+- ⚡️ Outperforms other browser using agents in all benchmarks
+- 🧠 Cuts LLM cognitive load with our perception layer
+- 🚀 Built for fast agent deployment with full-stack APIs
+- 🔐 Handles cookies, CAPTCHAs, and anti-bot protection
+- 🔧 Ships with live replays, session control, and scripting tools
+
+### Links
+- [GitHub](https://github.com/nottelabs/notte)
+- [Website](https://notte.cc)
+- [X](https://x.com/nottecore)
+
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
