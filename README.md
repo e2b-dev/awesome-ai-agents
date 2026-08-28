@@ -2372,6 +2372,29 @@ Productivity, General purpose
 </details>
 
 
+## [RetainDB](https://retaindb.com)
+Persistent memory infrastructure for AI agents
+
+<details>
+
+### Category
+Memory management, Infrastructure
+
+### Description
+- SOTA on LongMemEval: 88% preference recall (+18pp over next best), 79% overall accuracy across 5 categories
+- One-line integration with Vercel AI SDK, LangChain, and LangGraph — memories retrieved and stored automatically
+- Typed memory extraction (factual, preference, event, relationship, goal) with 13ms avg retrieval latency
+- Free tier available; self-host option coming
+
+### Links
+- [Website](https://retaindb.com)
+- [Documentation](https://retaindb.com/docs)
+- [npm](https://www.npmjs.com/package/@retaindb/sdk)
+- [Benchmark](https://retaindb.com/benchmark)
+
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
