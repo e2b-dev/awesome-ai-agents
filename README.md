@@ -278,7 +278,7 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
-## [Aider](https://github.com/paul-gauthier/aider)
+## [Aider](https://github.com/Aider-AI/aider)
 Use command line to edit code in your local repo
 
 <details>
@@ -1062,7 +1062,7 @@ Coding
 
 </details>
 
-## [CrewAI](https://github.com/joaomdmoura/crewai)
+## [CrewAI](https://github.com/crewAIInc/crewAI)
 Framework for orchestrating role-playing agents
 <details>
 
@@ -1079,7 +1079,7 @@ Build-your-own, SDK for agents, Multi-agent
 
 
 ### Links
-- [GitHub](https://github.com/joaomdmoura/crewai)
+- [GitHub](https://github.com/crewAIInc/crewAI)
 - [Founder's X](https://twitter.com/joaomdmoura)
 - [Blog post: How to use Crew AI](https://crewai.net/posts/how-to-use-crew-ai)
 - [Crew AI Wiki with examples and guides](https://github.com/joaomdmoura/CrewAI/wiki)
@@ -1350,7 +1350,7 @@ General purpose, Research, Multi-agent
 
 ### Links
 - [Web](https://evo.ninja/)
-- [GitHub](https://github.com/polywrap/evo.ninja/)
+- [GitHub](https://github.com/agentcoinorg/evo.ninja/)
 - [Discord](https://discord.com/invite/r3rwh69cCa)
 
 </details>
@@ -1372,7 +1372,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 ### Links
 - [Web](https://fastagency.ai/latest/)
-- [GitHub](https://github.com/airtai/fastagency)
+- [GitHub](https://github.com/ag2ai/fastagency)
 
 </details>
 
@@ -1526,7 +1526,7 @@ GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 
 </details>
 
-## [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
+## [GPT Migrate](https://github.com/joshpxyne/gpt-migrate)
 Migrate codebase between frameworks/languages
 
 <details>
@@ -1542,7 +1542,7 @@ GOT Migrate easily migrates your codebase from one framework or language to anot
 - Ability to allow GPT Migration to generate and run unit tests for the new codebase
 - Ability to select source and target language of the migration
 - Ability to customize the agent's workflow (setup -> migrate -> test)
-- GPT Migrate team is working on adding [benchmarks](https://github.com/0xpayne/gpt-migrate#-benchmarks) for the agent
+- GPT Migrate team is working on adding [benchmarks](https://github.com/joshpxyne/gpt-migrate#-benchmarks) for the agent
 
 ### Links
 - [Website](https://gpt-migrate.com/)
@@ -2042,12 +2042,12 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 </details>
 
 
-## [MetaGPT](https://github.com/geekan/MetaGPT)
+## [MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
 <details>
 
- ![image](https://github.com/geekan/MetaGPT/raw/main/docs/resources/MetaGPT-new-log.png)
+ ![image](https://github.com/FoundationAgents/MetaGPT/raw/main/docs/resources/MetaGPT-new-log.png)
 
 ### Category
 Multi-agent, Coding, Build your own
@@ -2063,7 +2063,7 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 
 ### Links  
-- [GitHub](https://github.com/geekan/MetaGPT)
+- [GitHub](https://github.com/FoundationAgents/MetaGPT)
 - [Discord](https://discord.com/invite/4WdszVjv)
 - [Twitter](https://twitter.com/DeepWisdom2019)
 - [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
@@ -2291,7 +2291,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 ### Links
 - [Web](https://openinterpreter.com/)
-- [GitHub](https://github.com/KillianLucas/open-interpreter)
+- [GitHub](https://github.com/openinterpreter/openinterpreter)
 - [Author's Twitter](https://twitter.com/hellokillian)
 
 </details>
@@ -2500,7 +2500,7 @@ Superagent is not a single agent, but a tool that allows creating agents without
 - There are two main types of agents: action agents and plan-and-execute agents
 
 ### Links
-- [GitHub](https://github.com/homanp/superagent)
+- [GitHub](https://github.com/superagent-ai/superagent)
 - [Documentation](https://docs.superagent.sh/introduction)
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
 - Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
@@ -2574,12 +2574,12 @@ General purpose
 </details>
 
 
-## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
+## [SWE Agent](https://github.com/SWE-agent/SWE-agent)
 Open-source Devin alternative
 
 <details>
 
-![Image](https://github.com/princeton-nlp/SWE-agent/raw/main/assets/swe-agent-banner.png)
+![Image](https://github.com/SWE-agent/SWE-agent/raw/main/assets/swe-agent-banner.png)
 ### Category
 Coding, general purpose
 
@@ -2603,7 +2603,7 @@ Coding, general purpose
 
 
 ### Links
-- [GitHub](https://github.com/princeton-nlp/SWE-agent)
+- [GitHub](https://github.com/SWE-agent/SWE-agent)
 - [Web](https://swe-agent.com/)
 - [Demo](https://swe-agent.com/demo)
 - [Discord](https://discord.com/invite/AVEFbBn2rH)
@@ -3796,7 +3796,7 @@ Cursor is the AI-first Code Editor. Build software faster in an editor designed 
 
 ### Links
 - [Website](https://www.cursor.so/)
-- [GitHub (Issue Only)](https://github.com/getcursor/cursor)
+- [GitHub (Issue Only)](https://github.com/cursor/cursor)
 - [Discord](https://discord.com/invite/PJEgRywgRy)
 
 </details>
