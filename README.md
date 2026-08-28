@@ -2408,6 +2408,26 @@ Coding
 
 </details>
 
+## [RoboCo](https://github.com/rennf93/roboco)
+Not a loop. Not a harness. Not a workflow. An AI Agents Organization — RoboCo is a 25-agent software company with a role-gated git delivery lifecycle. Self-hosted. AGPL.
+
+<details>
+
+### Category
+General purpose, Agentic-workflow, Multi-agent
+
+### Description
+- 25-agent organization providing role-gated lifecycle for autonomous agents and workflows.
+- Designed for self-hosted deployments; emphasizes reproducible delivery and governance.
+- Focuses on orchestrating multi-agent systems with clear role boundaries.
+
+### Links
+- [GitHub](https://github.com/rennf93/roboco)
+- [Website](http://roboco.tech/)
+- Author: [rennf93](https://github.com/rennf93)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
