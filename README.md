@@ -3340,6 +3340,23 @@ Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and pl
 
 </details>
 
+## [Avelina AI](https://avelina.ai/)
+Self-hosted personal AI assistant that lives in your Telegram
+
+<details>
+
+### Category
+Personal assistant, Productivity, Chat, Self-hosted
+
+### Description
+- Avelina is a self-hosted personal AI assistant that runs on your own VPS and talks to you through a Telegram bot, so your data never leaves your server.
+- It has persistent long-term memory of your life, local semantic recall, a voice and an evolving personality — a private alternative to cloud AI companions. Installs in about 30 minutes.
+
+### Links
+- [Web](https://avelina.ai/)
+
+</details>
+
 ## [Bardeen](https://www.bardeen.ai/)
 AI Agent for automating repetitive tasks
 
