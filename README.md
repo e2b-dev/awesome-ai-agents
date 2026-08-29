@@ -1709,6 +1709,28 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [JT-AI](https://github.com/JTCodeRRigan/JT-AI)
+Autonomous AI browser agent in a Chrome Side Panel with a multi-agent loop and 2Captcha auto-solver
+
+<details>
+
+### Category
+Browser Automation, Chrome Extension, Multi-agent
+
+### Description
+Autonomous browser agent controlled through local or API-based LLMs.
+- **Collaborative Multi-Agent loop**: Uses a Planner to draft actions, an Executor to act, and a Supervisor to monitor and redirect the agent if it gets stuck.
+- **Unrestricted Mode**: Operating prompt override allowing the agent to handle logins, passwords, and form submissions without safety refusals.
+- **Auto-Captcha solving**: Detects hCaptcha, reCAPTCHA, and Turnstile, automatically solving them via 2Captcha API integration.
+- **Native tool-calling**: Interacts with the browser using Chrome DevTools Protocol (CDP) for trusted input events (clicks, typing, scrolling).
+- **Network & Console monitoring**: Intercepts fetch/XHR requests and response bodies, as well as capturing JS console errors.
+
+### Links
+- [GitHub](https://github.com/JTCodeRRigan/JT-AI)
+- [Releases](https://github.com/JTCodeRRigan/JT-AI/releases)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
