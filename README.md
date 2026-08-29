@@ -2636,6 +2636,28 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Talos](https://github.com/talos-kernel/talos)
+Talos is an agent you can hand a shell to, because it can prove what it will not do
+
+<details>
+
+### Category
+General purpose, Local-first, CLI
+
+### Description
+
+- **The model proposes, the kernel decides**: every tool call passes a deterministic permission kernel before it runs, and forgetting to call the gate produces no effect rather than an unchecked one.
+- **Authority is a token, not a list**: each effect is authorised individually, bound to its exact arguments, valid once and for thirty seconds.
+- **Runs on your own machine**: takes instructions over a chat channel or the terminal, thinks through a local or hosted model, and keeps a readable event log of everything it did.
+- **Provable, not asserted**: an adversarial suite runs on every change and tries to get an effect past the kernel; the installer runs it in front of you before it finishes.
+- **Honest about its limits**: a security policy states what is out of scope and which weaknesses no patch removes.
+
+### Links
+- [Website](https://talos-agent.ch)
+- [Documentation](https://talos-agent.ch/docs/)
+- [GitHub](https://github.com/talos-kernel/talos)
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
