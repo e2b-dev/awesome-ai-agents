@@ -1652,6 +1652,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Hail](https://github.com/hail-hq/hail)
+Give an AI agent phone, SMS & email
+
+<details>
+
+![Hail](https://avatars.githubusercontent.com/u/277142400?v=4)
+
+### Category
+Communication, Agent tooling, Open-source
+
+### Description
+Give an AI agent phone, SMS & email — one remote MCP server exposing call, email, and event tools, inbound and outbound, so an agent can actually reach people. Also usable via CLI, Python SDK, and OpenAPI. Self-hostable.
+
+### Links
+- [GitHub](https://github.com/hail-hq/hail)
+- [Website](https://hail.so)
+- [MCP endpoint](https://mcp.hail.so)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
