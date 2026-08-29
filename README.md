@@ -1422,6 +1422,26 @@ Coding
 
 </details>
 
+## [Gait](https://github.com/davidahmann/gait)
+Signed run receipts and policy gates for tool-using AI agents
+
+<details>
+
+### Category
+Developer tools, Safety, Testing
+
+### Description
+- Generates signed runpacks for agent runs to support reproducibility and incident evidence.
+- Verifies run artifacts, diffs runs, and replays safely with deterministic stub mode.
+- Converts incidents into deterministic CI regressions with stable exit codes.
+- Evaluates high-risk tool calls against local policy with approvals and signed traces.
+
+### Links
+- [GitHub](https://github.com/davidahmann/gait)
+- [Documentation](https://github.com/davidahmann/gait#readme)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
