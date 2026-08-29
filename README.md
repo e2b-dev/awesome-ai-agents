@@ -139,6 +139,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentCollab](https://github.com/JianFeiGan/agent-collab)
+Multi-agent orchestration engine for AI coding assistants
+
+<details>
+
+### Category
+General purpose, Multi-agent, CLI
+
+### Description
+- A CLI tool that orchestrates multiple AI coding assistants (Claude Code, Codex, Aider) to collaborate on software projects.
+- Define workflows in YAML with DAG-based scheduling, file locking, and async execution.
+- Supports parallel execution, task dependencies, variable substitution, and conditional branching.
+- Provides Rich-based TUI for real-time progress monitoring and execution log persistence.
+- Enterprise features: checkpoint/resume, plugin system, HITL nodes, RBAC security, and token tracking.
+
+### Links
+- [GitHub Repository](https://github.com/JianFeiGan/agent-collab)
+- [PyPI](https://pypi.org/project/agent-collab/)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
