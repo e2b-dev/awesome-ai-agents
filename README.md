@@ -1017,6 +1017,29 @@ Coding
 
 </details>
 
+## [Consequence Gate](https://github.com/zilianglab/consequence-gate)
+A governance layer that gates agent tool calls on what being wrong costs
+
+<details>
+
+### Category
+Tool for agents, Build-your-own
+
+### Description
+
+- **Consequence over confidence**: Each tool declares reversibility, blast radius, who absorbs the error, and detection latency — calls resolve on those, not on model confidence.
+- **Four autonomy tiers**: execute, execute-and-notify, propose-and-wait, or refuse.
+- **Confidence tightens, never loosens**: low confidence reduces autonomy; high confidence can't lift an irreversible action out of human review.
+- **Replayable audit trail**: every decision records a human-readable reason and can be replayed without re-running the agent.
+- **Override loop**: a human rejection is treated as evidence the context was misread, so the gate re-examines other calls in the same trace.
+- **Wraps your existing loop**: adapters for the Anthropic and OpenAI SDKs. Python, MIT.
+
+### Links
+- [GitHub](https://github.com/zilianglab/consequence-gate)
+- [Visual walkthrough](https://zilianglab.github.io/consequence-gate/)
+
+</details>
+
 ## [Cody by Sourcegraph](https://docs.sourcegraph.com/cody)
 Agent that writes code and answers your questions
 
