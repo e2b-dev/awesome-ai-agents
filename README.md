@@ -2764,6 +2764,28 @@ General purpose
 
 </details>
 
+
+## [WAIaaS](https://github.com/minhoyoo-iotrust/WAIaaS)
+Self-hosted wallet-as-a-service for AI agents with multi-chain blockchain support and DeFi operations
+
+<details>
+
+### Category
+Infrastructure, Blockchain, DeFi
+
+### Description
+- Self-hosted local wallet daemon for AI agents
+- Multi-chain: EVM (Ethereum, Base, Arbitrum, Optimism, Polygon) + Solana
+- Built-in DeFi: swap, bridge, staking, lending (Aave V3)
+- 3-tier security with owner approval workflows
+- MCP server with 30+ tools
+- Admin Web UI for monitoring
+
+### Links
+- [GitHub](https://github.com/minhoyoo-iotrust/WAIaaS)
+
+</details>
+
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
