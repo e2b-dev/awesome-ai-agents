@@ -182,6 +182,27 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+
+## [Arch Tools](https://archtools.dev)
+
+<a href="https://archtools.dev" target="_blank">
+  <img alt="Arch Tools" src="https://archtools.dev/og-image.png" height="100">
+</a>
+
+### Category
+<table>
+  <tr><td>Developer tool</td><td>API platform</td><td>AI agent tooling</td></tr>
+</table>
+
+### Description
+58 API tools behind one key — web scraping, AI generation (Claude/GPT-4/Grok/Gemini), crypto data, voice, email, and more. Native MCP server for Claude Desktop, Cursor, and Windsurf. First API platform with x402 USDC autonomous agent payments on 15 blockchains.
+
+### Links
+- [Website](https://archtools.dev)
+- [GitHub](https://github.com/Deesmo/Arch-AI-Tools)
+- [MCP Server](https://arch-tools-mcp.onrender.com/mcp)
+- [Getting Started](https://archtools.dev/docs/getting-started)
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
