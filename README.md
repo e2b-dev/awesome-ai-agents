@@ -2343,6 +2343,28 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 </details>
 
+## [ProofBets](https://proofbets.com)
+Gambling intelligence MCP server — 13 tools for crypto casino data, bonus verification, EV calculation, and P2P prediction market comparisons
+
+<details>
+
+### Category
+Tools, Data, Finance
+
+### Description
+- **13 MCP Tools**: search_casinos, get_casino, search_bonuses, check_bonus_code, calculate_ev, compare_casinos, get_world_cup_odds, search_p2p_platforms, compare_platforms, get_platform_fees
+- **Data**: 50+ crypto casinos, 7 P2P platforms (Polymarket, Kalshi, Azuro, BetDEX)
+- **Unique**: On-chain wallet verification via Etherscan, live TVL via DeFi Llama
+- **Auth**: Free tier 20 req/min, API key 100 req/min
+- **Transport**: SSE + stdio
+
+### Links
+- [Website](https://proofbets.com)
+- [Developers](https://proofbets.com/developers/)
+- [GitHub](https://github.com/proofbets/proofbets-mcp)
+
+</details>
+
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
