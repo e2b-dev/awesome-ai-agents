@@ -114,6 +114,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Brain](https://github.com/kaderosio/agent-brain)
+7-layer cognitive memory system for AI agents
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- A 7-layer cognitive memory system for AI agents with perception gating, forgetting curves, and predictive alerts.
+- Implements Ebbinghaus-inspired Dream Cycle for memory consolidation and decay.
+- Includes a Perception Gate that scores incoming memories (1-5) to filter noise.
+- Knowledge graph extraction with entity and relationship tracking.
+- No LLM required - uses sentence-transformers and spaCy for all processing.
+- Self-hostable with PostgreSQL, pgvector, and FastAPI.
+
+### Links
+- [GitHub](https://github.com/kaderosio/agent-brain)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
