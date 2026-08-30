@@ -62,6 +62,9 @@ For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome 
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 --->
 
+## Related Lists
+- [Awesome Agent Services](https://github.com/farol-team/awesome-agent-services) — Not agents themselves, but **services agents use**: email (AgentMail), payments (Skyfire), browsers (Lightpanda, Browserbase), memory (Mem0, Zep), identity, observability, and more.
+
 ## Check out E2B - Code Interpreting for AI apps
 - Check out [Code Interpreter SDK](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
