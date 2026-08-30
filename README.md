@@ -1088,6 +1088,27 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [ctrl by bulletproof-sh](https://ctrl.bulletproof.sh)
+Pixel-art office that visualizes AI coding agents working in real time
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Pixel-art office environment that visualizes AI coding agents (Claude Code, Codex, Gemini CLI) working in real time.
+- Standalone web app and daemon — the daemon watches local JSONL session files and streams agent activity to the web UI over WebSocket.
+- Relay sharing lets you share a live view of your agents with teammates or spectators remotely, with end-to-end encryption.
+- Supports multiple agents simultaneously; each agent appears as a character moving around the office.
+- Currently in beta. Repo not yet public.
+
+### Links
+- [Website](https://ctrl.bulletproof.sh)
+- Author: [bulletproof-sh](https://github.com/bulletproof-sh)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
