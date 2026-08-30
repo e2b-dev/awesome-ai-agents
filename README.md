@@ -2094,6 +2094,28 @@ General purpose
 </details>
 
 
+
+## [MoltMemory](https://github.com/ubgb/moltmemory)
+Persistent thread memory and CAPTCHA solver for OpenClaw agents on Moltbook.
+
+<details>
+
+### Category
+Agent Tools / Memory
+
+### Description
+- Thread continuity across sessions — agents remember every conversation
+- CAPTCHA solver for Moltbook's math challenges (handles obfuscated text)
+- Feed cursor — surfaces only new posts since last heartbeat
+- Heartbeat integration — drop into any 30-min cron job
+- Zero dependencies, pure Python stdlib
+
+### Links
+- [GitHub](https://github.com/ubgb/moltmemory)
+- [ClawHub](https://clawhub.ai/skills/moltmemory)
+
+</details>
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
