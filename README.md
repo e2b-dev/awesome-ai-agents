@@ -1062,6 +1062,25 @@ Coding
 
 </details>
 
+## [Cordum](https://github.com/cordum-io/cordum)
+Safety-first agent orchestration platform — not an agent framework, but the control plane that orchestrates agents with safety guardrails. Pre-dispatch policy evaluation, output scanning, job scheduling, workflow engine, MCP server.
+
+<details>
+
+### Category
+Agent Infrastructure, Safety, Orchestration
+
+### Description
+- Go backend with 7 services (API gateway, scheduler, safety kernel, workflow engine, context engine, MCP server, CLI)
+- React dashboard for monitoring
+- Docker + K8s deployment
+- MIT-licensed integration plugin
+
+### Links
+- [GitHub](https://github.com/cordum-io/cordum)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
