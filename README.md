@@ -3006,6 +3006,34 @@ General purpose
 
 </details>
 
+## [AdaptOrDie.io](https://adaptordie.io/)
+Independent analysis of AI commerce and ecommerce transformation
+
+<details>
+
+![image](https://adaptordie.io/images/adaptordie-icon.svg)
+
+### Category
+Research, Data analysis, Business intelligence, General purpose
+
+### Description
+- Independent analysis platform covering agentic commerce, AI agents in ecommerce, and digital transformation
+- 30+ in-depth articles analyzing the business implications of AI agents and autonomous commerce systems
+- Strategic insights on the transition from traditional ecommerce to agent-driven commerce
+- Coverage includes platform readiness assessments, market dynamics, and competitive analysis
+- Key focus areas:
+  - Agentic commerce patterns and implementations
+  - AI cost economics and infrastructure implications
+  - Platform evolution for autonomous systems
+  - Business model transformations in the AI era
+
+### Links
+- [Web](https://adaptordie.io/)
+- [Blog](https://adaptordie.io/blog/)
+- [X (Twitter)](https://twitter.com/adaptordie)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
