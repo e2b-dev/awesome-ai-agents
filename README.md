@@ -114,6 +114,22 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentCourt](https://github.com/vbkotecha/agentcourt-api)
+
+### Category
+
+Agent infrastructure
+
+### Description
+
+Policy-driven dispute resolution API for AI agent commerce. When agents transact via x402 and things go wrong (schema mismatch, non-delivery, SLA breach), AgentCourt evaluates structured evidence and returns a deterministic ruling in under 500ms. 7 policy templates, 39 rules, $0.05/dispute on Base. Non-custodial, MIT licensed, with Python SDK, JavaScript SDK, MCP server, and ElizaOS plugin.
+
+### Links
+
+- [GitHub](https://github.com/vbkotecha/agentcourt-api)
+- [API Docs](https://agentcourt-api-production.up.railway.app/docs)
+- [Live Demo](https://github.com/vbkotecha/agentcourt-api/blob/main/demo.py)
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
@@ -3153,6 +3169,34 @@ Coding, General purpose
 - [Documentation](https://docs.airplane.dev/?utm_source=awesome-ai-agents)
 - [Twitter](https://twitter.com/AirplaneDev/?utm_source=awesome-ai-agents)
 - [They're building an AI assistant here](https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents)
+
+</details>
+
+
+
+## [AgentServices](https://aiservices.to/)
+Paid APIs for AI agents — data, crypto, and dispute resolution
+
+<details>
+
+### Category
+Data analysis, Business intelligence, Supports open-source models
+
+### Description
+- Paid APIs designed specifically for AI agents, with built-in trust and dispute resolution
+- Data endpoints: crypto prices, technical indicators, DeFi yields, fear-greed index, search, trending, news, social signals, gas prices, predictions, global market data
+- Governance endpoints: policy-driven dispute resolution ($0.05/dispute) for agent commerce — freelance delivery, milestone payments, SLA monitoring, API quality, bug bounties, scope disputes, physical commerce
+- x402 payment protocol: micropayments in USDC on Base (L2) — agents pay per API call autonomously
+- MCP (Model Context Protocol) server: 8 tools available via remote SSE transport at /mcp endpoint
+- 21 endpoints total: 4 paid via x402, 17 free
+- Differentiator: combines data APIs with a trust/governance layer — agents get both the data they need and the dispute resolution to trust transactions built on it
+
+### Links
+- [Web](https://aiservices.to/)
+- [API Docs](https://agentservices.to/docs)
+- [GitHub](https://github.com/vbkotecha/aiservices-api)
+- [MCP Server](https://agentservices.to/mcp)
+- [X (Twitter)](https://x.com/vbkotecha)
 
 </details>
 
