@@ -4296,6 +4296,31 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [HarnessRouter](https://harnessrouter.ai)
+Unified API to run agent harnesses behind your product
+
+<details>
+
+![image](https://harnessrouter.ai/brand/harnessrouter-logo-mark-dark.png)
+
+### Category
+Coding, Build your own agents
+
+### Description
+- Hosted unified API for running agent harnesses (Codex, Claude Code, Hermes) behind a product
+- One contract for tasks, sandboxed sessions, streaming, files, and reviewable artifacts; switching harnesses is a request parameter
+- Same-task comparison across harness and model configurations on cost, quality, and latency
+- Free to build and integrate; credits are consumed only when tasks run
+
+### Links
+- [Web](https://harnessrouter.ai)
+- [Docs](https://harnessrouter.ai/docs)
+- [GitHub](https://github.com/HarnessRouter)
+- [X](https://x.com/HARNESSROUTER)
+- [Discord](https://discord.gg/nPcbwqVPb2)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
