@@ -2689,6 +2689,25 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [TraderHarness](https://github.com/HephaestLab/TraderHarness)
+Contamination-resistant A-share backtesting environment for LLM trading agents
+
+<details>
+
+### Category
+Finance, Build your own
+
+### Description
+- Strict point-in-time masking at every agent-facing data outlet, preventing look-ahead bias
+- Deterministic entity and date anonymization against memorization leakage
+- Progressive 5-minute market visibility with a single order-matching path
+- Full-fidelity agent trajectories with fingerprinted deterministic replay and SFT export
+
+### Links
+- [GitHub](https://github.com/HephaestLab/TraderHarness)
+- [Documentation](https://hephaestlab.github.io/TraderHarness/)
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
