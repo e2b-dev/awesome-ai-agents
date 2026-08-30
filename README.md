@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [areco](https://github.com/bb4407777/areco)
+Remote cockpit for CLI coding agents, drivable from browser or phone
+<details>
+
+### Category
+Coding, Productivity
+
+### Description
+- Drive terminal coding agents (Claude Code, Codex, Reasonix and others) remotely from a web UI on desktop or mobile
+- Server-side persistent pty sessions keep agents running through screen lock, sleep and network drops; resume the same session from any device
+- Chat transcript view renders each agent's on-disk session files as a clean bubble conversation
+- Project rooms group multiple agents into one chat with @mention routing for multi-agent collaboration
+- TypeScript/Vue, distributed as an npm package, Apache-2.0 licensed
+
+### Links
+- [GitHub](https://github.com/bb4407777/areco)
+- [npm](https://www.npmjs.com/package/areco)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
