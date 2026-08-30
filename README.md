@@ -1333,6 +1333,40 @@ Coding
 
 </details>
 
+
+
+## [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
+Building a Self-Evolving Ecosystem of AI Agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/EvoAgentX/EvoAgentX/main/assets/framework_en.jpg)
+
+### Category
+Multi-agent, Self-Evolving, Research
+
+### Description
+- Easy Agent and Workflow Customization
+- Workflow Optimization & Self-Evolving
+- Benchmarking & Evaluation
+- Execution Toolkit
+
+### Links
+- [Web](https://www.evoagents.org/)
+- [GitHub](https://github.com/EvoAgentX/EvoAgentX)
+- [Discord](https://discord.gg/SUEkfTYn)
+- [X](https://x.com/EvoAgentX)
+
+</details>
+
+
+
+
+
+
+
+
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
