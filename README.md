@@ -139,6 +139,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Agent Trust Stack](https://github.com/alexfleetcommander/agent-trust-stack-mcp)
+
+<a href="https://github.com/alexfleetcommander/agent-trust-stack-mcp">
+  <img src="https://img.shields.io/github/stars/alexfleetcommander/agent-trust-stack-mcp?style=social" alt="GitHub stars">
+</a>
+
+### Category
+<table><tr><td>Trust & Identity Infrastructure</td></tr></table>
+
+### Description
+7-protocol trust infrastructure for autonomous AI agents. Provides cryptographic provenance logging (Chain of Consciousness with Bitcoin OpenTimestamps anchoring), decentralized reputation scoring (Agent Rating Protocol with bilateral blind evaluation), dispute resolution, service agreements, lifecycle management, matchmaking, and cost accounting. Available as an MCP server (8 tools + 2 resources) and pip packages.
+
+### Links
+- [GitHub](https://github.com/alexfleetcommander/agent-trust-stack-mcp)
+- [Smithery](https://smithery.ai/server/@alexfleetcommander/agent-trust-stack-mcp)
+- [PyPI](https://pypi.org/project/agent-trust-stack-mcp/)
+- [Website](https://vibeagentmaking.com)
+
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
