@@ -1915,6 +1915,29 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [Maestro](https://github.com/Yigtwxx/Maestro)
+Self-hostable agent orchestration platform with bring-your-own-key providers and a live run view
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+- A deployable web application rather than a library: an Orchestrator classifies each prompt and routes it to one of 15 built-in domain squads, a Main Agent decomposes the work into atomic subtasks, subagents execute them with bounded tool sets, and an optional Reviewer audits every output before synthesis.
+- Bring-your-own-key across 25 chat providers and 42 service integrations, encrypted at rest with AES-256-GCM and never returned to the frontend.
+- Runs fully local and free on Ollama — Qwen3.5 for chat and nomic-embed-text for RAG embeddings — so the whole pipeline can run offline with no external call.
+- Durable execution: task state lives in PostgreSQL as checkpoints with leases and heartbeats, so a crashed worker resumes or finalizes instead of leaving a task stuck.
+- Tools include web search, a TLS-impersonating fetcher with CSS-selector extraction, GitHub repository intelligence, X search, Discord/Slack/Telegram reading, Google Places, and a Docker-sandboxed Python runtime.
+- Multi-user out of the box: authentication with TOTP two-factor, per-user RAG isolation, a token quota ledger, an agent Marketplace with security scanning, and an admin moderation surface.
+- Live Architect view streams inter-agent communication over WebSocket, and the Main Agent can pause mid-task to ask a clarifying question.
+- Stack: FastAPI and Next.js over PostgreSQL, MongoDB, Qdrant and Redis, deployed as a single Docker Compose stack behind Caddy.
+
+### Links
+- [GitHub](https://github.com/Yigtwxx/Maestro)
+
+</details>
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
