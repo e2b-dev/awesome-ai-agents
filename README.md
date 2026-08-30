@@ -1422,6 +1422,30 @@ Coding
 
 </details>
 
+## [GemmaCLI](https://github.com/SpdrByte/GemmaCLI)
+Professional PowerShell AI Workstation for Gemma 3 model family
+
+<details>
+
+![Gemma CLI Screenshot](https://github.com/SpdrByte/GemmaCLI/raw/main/assets/GemmaCLI_Screenshot.png)
+
+### Category
+Terminal / Productivity / Developer Tools
+
+### Description
+- A native PowerShell 7+ agent optimized for Google's Gemma 3 model family, bringing high-fidelity AI directly into the Windows terminal.
+- **Dynamic Tool-Calling:** Extensible plugin architecture—add new AI capabilities by simply dropping `.ps1` scripts into the `tools/` directory.
+- **Security-First:** Utilizes Windows User-level DPAPI for encrypted API key storage, ensuring zero plain-text secrets are stored on disk.
+-  **Reliability:** Features RPM-aware rate limiting, exponential backoff retries, and intelligent 128k context window management.
+
+### Links
+- **Author:** [Kevin Gulling](https://www.kevingulling.com)
+- **Organization:** [SpdrByte](https://github.com/SpdrByte)
+- **Model:** [Gemma 3](https://ai.google.dev/gemma)
+
+</details>
+
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
