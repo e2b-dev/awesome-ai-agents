@@ -2573,6 +2573,27 @@ General purpose
 
 </details>
 
+## [SWE-AF](https://github.com/Agent-Field/SWE-AF)
+Autonomous software engineering fleet that ships production-grade PRs
+
+<details>
+
+### Category
+Coding, Multi-agent, Software Development
+
+### Description
+- SWE-AF ("swee-AF") spins up a full autonomous engineering team from a single API call — product managers, architects, coders, reviewers, and testers — that scopes, builds, adapts, and ships complex software end-to-end.
+- Built on [AgentField](https://github.com/Agent-Field/agentfield) infrastructure. Supports single-repo and multi-repo orchestration modes.
+- Configurable runtimes and models per role (e.g. Sonnet for planning, Opus for coding/QA).
+- Adaptive factory control with learning capabilities across runs.
+- Apache 2.0 licensed.
+
+### Links
+- [GitHub](https://github.com/Agent-Field/SWE-AF)
+- [Architecture docs](https://github.com/Agent-Field/SWE-AF/blob/main/docs/ARCHITECTURE.md)
+
+</details>
+
 
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
