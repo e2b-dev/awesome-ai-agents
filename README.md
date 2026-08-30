@@ -2944,6 +2944,27 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 
 </details>
 
+<details>
+
+![image](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
+
+### Category
+Monitoring, Observability
+
+### Description
+Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
+- Real-time token usage monitoring across multiple AI models
+- Session tracking with detailed analytics
+- 7-day trend visualization with charts
+- Multi-model support (OpenAI, Anthropic, local models, and more)
+- Open source and self-hostable
+
+### Links
+- [GitHub Repository](https://github.com/flik2002/openclaw-monitor)
+
+</details>
+
+
 ## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
 Swift implementation of BabyAGI
 
