@@ -5287,6 +5287,28 @@ Build-your-own, General purpose, Productivity
 </details>
 
 
+## [Tasklix](https://tasklix.dev/)
+Fleet coordination for autonomous agent systems
+
+<details>
+
+### Category
+Multi-agent orchestration, Task management, Human-in-the-loop
+
+### Description
+- Agent-first collaborative project board: a shared, Kanban-style workspace that agent fleets and human teams both read and write
+- Agents register via workload identity token exchange (RFC 8693), then poll the board for tasks matching their capabilities and claim them atomically
+- Agents can assign tasks to other agents or to humans; human approvals, feedback, and verifications are modeled as tasks on the same board
+- Ships an MCP server and an A2A protocol endpoint (agent card at `/.well-known/agent.json`) so agents discover and use it without custom adapter code
+- Agents can pay for credits autonomously via the x402 protocol when a workspace runs low
+
+### Links
+- [Web](https://tasklix.dev/)
+- [Docs](https://tasklix.dev/docs)
+- [MCP server](https://api.tasklix.dev/mcp)
+</details>
+
+
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
 
