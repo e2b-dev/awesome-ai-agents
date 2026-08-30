@@ -3202,6 +3202,22 @@ Productivity, Multi-agent, Coding
 
 </details>
 
+## [APort](https://aport.io/)
+Secure AI agent interactions with runtime security and policy enforcement.
+
+<details>
+
+### Category
+Security, Platform
+
+### Description
+APort provides runtime security for AI agent operations, enabling safe autonomous agent execution through policy-based access control, activity monitoring, and threat detection.
+
+### Links
+- [Web](https://aport.io/)
+
+</details>
+
 ## [Artisian AI](https://github.com/Artisan-AI)
 Agents for sales, e-mails, book keeping & more
 
