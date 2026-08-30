@@ -2408,6 +2408,27 @@ Coding
 
 </details>
 
+## [Satori](https://github.com/MetcalfSolutions/Satori)
+Clinically informed AI wisdom companion that blends clinical psychology frameworks and eight philosophical traditions into a structured thinking partner.
+
+<details>
+
+### Category
+Conversational, Personal Development
+
+### Description
+
+- Blends IFS, DBT, CFT, Schema Therapy with Stoicism, Buddhism, Taoism, Sufi wisdom, and Jungian depth psychology
+- Jungian Shadow Work protocol (5-session arc)
+- Dark Night protocol (presence-only mode for non-clinical despair)
+- 211k+ characters of structured reference architecture
+- Free, open-source (Apache 2.0)
+
+### Links
+- [GitHub](https://github.com/MetcalfSolutions/Satori)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
