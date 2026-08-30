@@ -2301,6 +2301,27 @@ Development toolkit for prompt management & more
 
 <details>
 
+## [OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)
+Autonomous CLI agent for OSINT and threat intelligence
+
+<details>
+
+![image](https://raw.githubusercontent.com/OpenOSINT/OpenOSINT/main/assets/demo.gif)
+
+### Category
+General purpose, Build your own, Research
+
+### Description
+- OpenOSINT is a Python-based CLI framework that automates reconnaissance workflows using native LLM function calling (Anthropic/OpenAI).
+- Instead of static scripts, it uses an autonomous agent architecture to dynamically select, execute, and chain OSINT modules based on the target.
+- Specifically designed for cybersecurity researchers, penetration testers, and threat intelligence analysts.
+- Features a highly modular architecture, allowing developers to easily integrate custom local scripts as new tools for the LLM.
+
+### Links
+- [GitHub](https://github.com/OpenOSINT/OpenOSINT)
+
+</details>
+
  ![image](https://www.pezzo.ai/_next/static/media/Logo.b7e3878b.svg)
 
 ### Category
