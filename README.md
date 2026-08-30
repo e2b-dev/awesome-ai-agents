@@ -1333,6 +1333,26 @@ Coding
 
 </details>
 
+## [Evaligo](https://www.evaligo.com)
+Visual AI workflow and agent builder with prompt testing and one-click deployment
+<details>
+![Image](https://www.evaligo.com/docs-image.jpg)
+### Category
+Build-your-own (agent-builing frameworks and platforms), Low-code Agent builder, Multi-agent
+### Description
+- Evaligo is a visual no-code platform for building AI agents and workflows
+- Drag-and-drop builder with 100+ pre-built templates for SEO, marketing, sales, content, and developer use cases
+- Multi-model support (GPT, Claude, Gemini, and 20+ others) with side-by-side prompt evaluation
+- Deploy workflows as production APIs or embeddable apps
+- Free tier available
+### Links
+- [Web](https://www.evaligo.com)
+- [Blog](https://www.evaligo.com/blog)
+- [Templates](https://www.evaligo.com/templates)
+- [X (Twitter)](https://twitter.com/evaligoai)
+- [LinkedIn](https://linkedin.com/company/evaligo)
+- [Discord](https://discord.gg/evaligo)
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
