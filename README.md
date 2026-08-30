@@ -1218,8 +1218,7 @@ Coding, general purpose
 - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective.
 - Devika aims to be a competitive open-source alternative to Devin by Cognition AI.
 
-### Links
-- [GitHub](https://github.com/stitionai/devika)
+## [Do- [GitHub](https://github.com/stitionai/devika)
 
 </details>
 
@@ -1266,6 +1265,28 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 - [Creator Website](https://www.kuafuai.net/)
 - [Demo Video](https://youtu.be/IWUPbGrJQOU)
 
+</details>
+
+## [Dominion Observatory](https://github.com/vdineshk/daee-engine)
+Behavioral trust scoring and attestation registry for AI agents
+
+<details>
+
+	### Category
+	Agent safety, Trust scoring, Multi-agent
+
+	### Description
+	- Dominion Observatory is a live behavioral trust registry tracking 4,500+ MCP servers with real attestation data.
+	- Provides trust scoring based on interaction history, success rates, and latency for agent-to-agent trust decisions.
+	- Includes LangChain tool integration (langchain-trust-gate) to gate sensitive agent operations on trust evaluations.
+	- Implements the x402 Trust-Provider Interface spec for standardized trust evaluation in agent payment flows.
+	- Open-source MCP server that agents can query directly via Model Context Protocol.
+
+	### Links
+	- [Observatory](https://dominion-observatory.sgdata.workers.dev)
+	- [GitHub](https://github.com/vdineshk/daee-engine)
+	- [npm](https://www.npmjs.com/package/dominion-observatory)
+	- [x402 Spec](https://github.com/vdineshk/daee-engine/blob/main/specs/x402-trust-provider-interface/v0.1/SPEC.md)
 </details>
 
 ## [dotagent](https://github.com/dot-agent/dotagent)
