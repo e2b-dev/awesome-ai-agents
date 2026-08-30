@@ -114,6 +114,28 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentField](https://github.com/Agent-Field/agentfield)
+Open-source control plane for AI agents — Kubernetes for orchestration, Okta for identity
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Infrastructure
+
+### Description
+- AgentField is the backend infrastructure layer for autonomous AI — an open-source control plane that treats AI agents as first-class backend services.
+- Provides routing & discovery, async execution (minutes to days), durable state with built-in vector search, and automatic observability (workflow DAGs, Prometheus metrics, structured logs).
+- Includes a trust infrastructure layer with W3C DIDs for cryptographic agent identity, verifiable credentials for audit trails, and policy enforcement at the infrastructure level.
+- Write agents in Python, Go, TypeScript, or call via REST API.
+- Apache 2.0 licensed.
+
+### Links
+- [GitHub](https://github.com/Agent-Field/agentfield)
+- [Documentation](https://agentfield.ai/docs)
+- [Discord](https://discord.gg/aBHaXMkpqh)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
