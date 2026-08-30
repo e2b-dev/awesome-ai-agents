@@ -4560,6 +4560,29 @@ Productivity, Build-your-own, Business intelligence
 
 </details>
 
+## [Korra](https://korra.finance/groups)
+AI markets analyst that lives in your Telegram group as a member, not a tool
+
+<details>
+
+### Category
+Vertical (markets / finance), Conversational, Multi-channel
+
+### Description
+- Joins a Telegram group as a persistent member with her own identity, not a slash-command bot — she replies in-thread, posts proactively on significance, runs a daily NY-bell video, and ships a weekly room digest.
+- Synthesizes across macro releases, on-chain whale flows, news flow, and social sentiment into one analyst take in the group's voice.
+- Per-group personality dials (warmth, wit, formality, emoji, encouragement) plus a four-band social disposition (silent observer → ambient → active contributor → lead broadcast) plus a free-text style nudge — same Korra, different register per room.
+- Information mode only: descriptive about markets, never prescriptive about user holdings. Admins don't take on regulatory risk from her output.
+- Built by Mati Greenspan, 7.5-year Senior Market Analyst at eToro (CySEC Advanced). The agent inherits his daily analyst workflow.
+- Free during early access. No API keys, no exchange connect. 60-second setup, one-tap removal.
+
+### Links
+- [Web](https://korra.finance/groups)
+- [Telegram Bot](https://t.me/KorraAI_bot)
+- [Founder on X](https://twitter.com/MatiGreenspan)
+
+</details>
+
 ## [Kusho](https://kusho.ai/)
 AI agent for API testing
 
