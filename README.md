@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Not Human Search](https://nothumansearch.ai)
+Agent-first search engine for AI-accessible tools and APIs
+
+<details>
+
+### Category
+Developer tools, Agent infrastructure, Search
+
+### Description
+- Not Human Search is a search engine built for AI agents — indexes 9,000+ sites by how accessible they are to agents, not humans.
+- Every site is scored on agent-accessibility criteria: MCP server presence, OpenAPI spec, structured API, llms.txt, robots.txt compliance, and more.
+- Powers agent tool discovery: "find an API for X" returns ranked results with MCP endpoints and OpenAPI specs agents can immediately wire in.
+- Ships its own MCP server at `/mcp` — agents can search the index directly via JSON-RPC without any browser interaction.
+- Open source.
+
+### Links
+- [Website](https://nothumansearch.ai)
+- [GitHub](https://github.com/unitedideas/nothumansearch)
+- [MCP server](https://nothumansearch.ai/mcp)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
