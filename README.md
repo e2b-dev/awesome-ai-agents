@@ -2196,6 +2196,30 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [numasec](https://github.com/FrancescoStabile/numasec)
+AI-powered penetration testing platform with multi-agent orchestration
+
+<details>
+
+### Category
+Security, Penetration Testing, Multi-agent
+
+### Description
+
+- **10 specialized AI agents** (pentest, recon, hunt, review, report + sub-agents) that autonomously coordinate to plan and execute security assessments
+- **38 vulnerability scanners** covering OWASP Top 10: SQL injection, XSS, SSRF, SSTI, CSRF, IDOR, race conditions, HTTP smuggling, and more
+- **96% vulnerability detection** on OWASP Juice Shop benchmark (46/48 challenges)
+- **PTES methodology** — follows the Penetration Testing Execution Standard across 5 automated phases
+- **Interactive terminal UI** with real-time findings, attack chain visualization, and OWASP coverage heatmap
+- Install with `pip install numasec` — works on macOS, Windows, and Linux
+
+### Links
+- [GitHub](https://github.com/FrancescoStabile/numasec)
+- [PyPI](https://pypi.org/project/numasec/)
+- [Docker Hub](https://hub.docker.com/r/francescosta/numasec)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
