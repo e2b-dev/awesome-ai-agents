@@ -1709,6 +1709,32 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [KarnEvil9](https://github.com/oldeucryptoboi/KarnEvil9)
+Deterministic AI agent runtime with hash-chain journals and graduated authority
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+
+KarnEvil9 is the first public reference implementation of Google DeepMind's Intelligent AI Delegation framework (Tomasev, Franklin & Osindero, 2026). It is a deterministic AI agent runtime written in TypeScript.
+
+- **SHA-256 Hash-Chain Journals**: Every agent action is recorded in a tamper-evident hash-chain journal for full auditability
+- **Graduated Authority with Bayesian Trust Scoring**: Agents earn autonomy over time through a principled Bayesian trust model
+- **Escrow Bonds**: Economic mechanism ensuring agents have skin in the game before taking consequential actions
+- **Futility Monitoring**: Automatic detection and termination of unproductive agent loops
+- **P2P Delegation Mesh**: Agents can delegate tasks to peers in a decentralised peer-to-peer network
+- **Circuit Breakers**: Safety mechanisms that halt agent execution when anomalies are detected
+- **15 Plugins**: Extensible plugin architecture with 15 built-in plugins
+
+### Links
+- [GitHub](https://github.com/oldeucryptoboi/KarnEvil9)
+- [Website](https://oldeucryptoboi.com)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
