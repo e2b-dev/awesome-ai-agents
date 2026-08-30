@@ -1854,6 +1854,34 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
+## [Loki Mode](https://github.com/asklokesh/loki-mode)
+Autonomous spec-to-product coding agent with a built-in verification gate
+
+<details>
+
+![image](https://www.autonomi.dev/favicon.svg)
+
+### Category
+Coding, Multi-agent
+
+### Description
+Loki Mode takes a spec (a PRD, GitHub issue, OpenAPI doc, or one-line brief) toward a deployed product and is distinct in carrying an explicit completion-verification gate, so it does not mark work done on the model's self-report alone.
+
+- Verification gate: a blind-review completion council plus an evidence check can veto "done"
+- Spec to product: a reason/act/reflect/verify closure loop drives the build
+- Brownfield healing: loki heal for legacy and existing codebases
+- Local-first: runs with your own API keys, no data egress
+- 26-tool MCP server, reads AGENTS.md, provider-agnostic (Claude, Codex, Cline, Aider)
+- Source-available (BUSL-1.1)
+
+### Links
+
+- [GitHub](https://github.com/asklokesh/loki-mode)
+- [Documentation](https://github.com/asklokesh/loki-mode#readme)
+
+</details>
+
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 Re-implementation of AutoGPT as a Python package
 
