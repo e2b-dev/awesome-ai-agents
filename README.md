@@ -4988,6 +4988,29 @@ Build-your-own, no-code, web UI
 
 </details>
 
+## [ProofBets](https://proofbets.com/developers/)
+Free API (16 endpoints) and MCP server (13 tools) for AI agents to query verified crypto casino data, bonus codes, prediction market fees, and sports betting odds
+
+<details>
+
+### Category
+Data, APIs, Tools
+
+### Description
+- Free REST API with 16 endpoints for crypto casino and prediction market data
+- MCP server with 13 tools for AI agent integration (SSE and stdio transports)
+- Verified casino reviews, live bonus code status with multi-source confidence scoring
+- EV calculations, prediction market fee comparisons across 7 platforms (Polymarket, Kalshi, Azuro, etc.)
+- World Cup 2026 crypto sportsbook odds
+- On-chain data verification via Etherscan; every response includes a source_url for agent citation
+
+### Links
+- [API Documentation](https://proofbets.com/developers/)
+- [MCP Server](https://github.com/proofbets/proofbets-mcp)
+- [OpenAPI Spec](https://proofbets.com/openapi.yaml)
+
+</details>
+
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
 AI workforce on Slack for under-resourced SMEs
 
