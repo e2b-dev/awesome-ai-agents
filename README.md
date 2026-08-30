@@ -712,6 +712,26 @@ Data analysis
 </details>
 
 
+
+## [Become CEO](https://github.com/wanikua/become-ceo)
+Run a 7-agent AI executive team on Discord
+
+<details>
+
+### Category
+Multi-agent
+
+### Description
+- Run a full AI executive team on Discord with 7 specialized agents: Engineering, Finance, Marketing, DevOps, Legal, Management, and Chief of Staff.
+- Each agent is an independent bot with its own Claude model, running as separate Discord bots.
+- One-click setup on a free Oracle Cloud server — no paid cloud required.
+- Powered by [Clawdbot](https://github.com/wanikua/clawdbot), a multi-agent Discord bot framework.
+
+### Links
+- [GitHub](https://github.com/wanikua/become-ceo)
+
+</details>
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
