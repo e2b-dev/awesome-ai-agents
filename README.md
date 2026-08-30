@@ -1062,6 +1062,26 @@ Coding
 
 </details>
 
+## [CONTINUUM](https://github.com/Cyrax321/CONTINUUM)
+Verifiable semantic recovery for long-running AI agents
+
+<details>
+
+### Category
+Developer Tools, Framework, MCP
+
+### Description
+- Verifiable semantic recovery for long-running AI agents with semantic checkpoints, idempotent action ledger and hash chained log as a deny by default MCP server
+- Framework agnostic with adapters for LangGraph, LangChain, OpenAI, plus gateway and OTel
+- Universal adapter funnel plus deny by default MCP server, Python 3.11 plus
+
+### Links
+- [GitHub](https://github.com/Cyrax321/CONTINUUM)
+- [Website](https://continuum-nu-six.vercel.app)
+- [Documentation](https://github.com/Cyrax321/CONTINUUM/blob/main/README.md)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
