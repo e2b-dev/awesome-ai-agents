@@ -1062,6 +1062,25 @@ Coding
 
 </details>
 
+## [CorvinOS](https://github.com/CorvinLabs/CorvinOS)
+Self-hosted agentic OS connecting Ollama/cloud models to Discord, Telegram, WhatsApp, Slack & Email — GDPR/EU AI Act compliance built into the architecture
+<details>
+
+### Category
+Build-your-own (agent-builing frameworks and platforms), Multi-agent, Supports open-source models
+
+### Description
+- Self-hosted agentic OS that bridges local Ollama models and cloud providers to Discord, Telegram, WhatsApp, Slack, and Email
+- Hash-chained tamper-evident audit log, per-user consent gate (deny-by-default), and bot-disclosure notice built into the architecture
+- Runtime tool generation (Forge) and skill generation (Skill-Forge), sandboxed execution
+
+### Links
+- [GitHub](https://github.com/CorvinLabs/CorvinOS)
+- [Website](https://corvin-labs.com)
+- [PyPI](https://pypi.org/project/corvinos/)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
