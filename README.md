@@ -2171,6 +2171,35 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [NarraNexus](https://github.com/NetMindAI-Open/NarraNexus)
+Open-source AI agent team workspace by NetMind.AI — Apache 2.0
+
+<details>
+
+![Image](assets/narranexus-mainpage.png)
+
+### Category
+Multi-agent, General purpose, Persistent memory
+
+### Description
+- NarraNexus is a ready-to-run AI agent team workspace. It is not another framework for wiring agents together, but a team of agents that already remember, collaborate, and use tools from day one.
+- Agents can maintain persistent context across sessions and conversations through memory-aware design, helping them continue work instead of starting from scratch every time.
+- Licensed under Apache 2.0, providing enterprise-friendly permissive usage.
+- Features
+	- Memory-aware agents with persistent context across sessions and conversations.
+	- Multi-agent collaboration between PM, developer, deployment, research, and custom agents.
+	- Composable capabilities including Memory, Awareness, Chat, RAG, Jobs, Skills, Social Network, and Matrix.
+	- Matrix-based agent communication.
+	- MCP-style tool integrations for external tools and workflows.
+	- Cloud, macOS, and local source deployment options.
+
+### Links
+- [Portal](https://www.narra.nexus/)
+- [Cloud](https://agent.narra.nexus/)
+- [Discord](https://discord.gg/ReCMd6a2wf)
+- [GitHub](https://github.com/NetMindAI-Open/NarraNexus)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
