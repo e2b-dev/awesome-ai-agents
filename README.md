@@ -70,6 +70,33 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [A2A Registry](https://www.a2aregistry.org/)
+
+AI Agent Directory - Find & Connect to Best AI Agents
+
+<details>
+<p><img src="https://raw.githubusercontent.com/prassanna-ravishankar/a2a-registry/refs/heads/main/website/public/logo.svg" alt="a2aregistry logo" width="200" align="center" /></p>
+
+
+### Category
+Agent Platforms, Build your own
+
+### Description
+- **Production-ready agents**: Community-driven directory of live, hosted AI agents using the A2A Protocol
+- **Easy discovery**: Browse and search 15+ verified AI agents with detailed specifications and capabilities
+- **Python SDK integration**: Connect to agents programmatically with `a2a-registry-client` package
+- **Open source**: Fully open-source platform with Git-as-database model for agent submissions
+- **MCP support**: Model Context Protocol integration for Claude Desktop, Cline, Zed, and other AI assistants
+- **Protocol standardization**: All agents comply with A2A (Agent-to-Agent) Protocol for interoperability
+
+### Links
+- [Website](https://www.a2aregistry.org/)
+- [GitHub](https://github.com/prassanna-ravishankar/a2a-registry)
+- [Python Client (PyPI)](https://pypi.org/project/a2a-registry-client/)
+- [A2A Protocol Spec](https://a2a-protocol.org)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
