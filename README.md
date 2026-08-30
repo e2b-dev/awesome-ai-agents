@@ -114,6 +114,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentClear](https://agentclear.dev)
+API marketplace and commerce infrastructure for AI agents
+
+<details>
+
+### Category
+Infrastructure, Agent tooling
+
+### Description
+
+- AgentClear lets AI agents discover and call 60+ API services using semantic search
+- Agents describe what they need in natural language; AgentClear finds matching services ranked by trust score
+- Built-in micropayments — sub-cent per-call billing, no monthly subscriptions
+- Works with any agent framework: LangChain, CrewAI, AutoGen, PydanticAI, and more
+- Python SDK (`pip install agentclear`), Node SDK (`npm install @agentclear/sdk`), MCP Server
+- Includes a trust & security engine with automated scanning and trust tiers
+
+### Links
+- [Website](https://agentclear.dev)
+- [Documentation](https://agentclear.dev/docs)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
