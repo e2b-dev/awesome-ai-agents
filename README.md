@@ -5511,7 +5511,32 @@ Build-your-own, Productivity, General purpose
   
 </details>
 
+## [MindPal](https://mindpal.space)
+Turn your domain knowledge into sharable AI agents & multi-agent workflows.
 
+<details>
+
+![MindPal Logo](https://ph-files.imgix.net/9b89dafe-b565-431d-9093-23e626ae286a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=74&h=74&fit=max&frame=1&dpr=2)
+
+### Category
+Build-your-own, Automation, Productivity, AI Workforce, Multi-agent systems
+
+### Description
+- MindPal is a platform for building specialized AI agents and multi-agent workflows designed to automate business processes.
+- Features:
+  - **AI Agents:** Create specialized AI assistants trained on your specific data and knowledge sources (like PDFs, websites, notes) and equipped with tools (e.g., web search). You can define their behavior with system instructions and brand voice.
+  - **Multi-Agent Workflows:** Design automated processes where multiple AI agents collaborate. Build workflows using various nodes like Human Input, Agent Node, Logic Nodes (Loop, Router, Gate), and Integration Nodes (Webhook, Payment). Automate tasks following your defined procedures.
+  - **Publish & Share:** Deploy AI agents as public-facing chatbots or workflows as interactive forms. Embed them on websites or share via links.
+  - **Customization & White-labeling:** Customize the interface, use custom domains, and remove MindPal branding on paid plans.
+  - **Triggers & Integrations:** Start workflows automatically using schedules or public API calls. Connect with other apps via webhooks or MCP (Model Context Protocol).
+
+### Links
+- [Web](https://mindpal.io)
+- [Docs](https://docs.mindpal.io)
+- [Community (Facebook)](https://www.facebook.com/groups/mindpalhub)
+- [YouTube](https://www.youtube.com/@MindPalSpace)
+
+</details>
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
