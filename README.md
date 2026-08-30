@@ -234,6 +234,28 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentTrust](https://github.com/assister-xyz/quality-oracle)
+Challenge-response quality verification for AI agents and MCP servers
+
+<details>
+
+### Category
+Developer tools, Quality assurance, Build your own
+
+### Description
+- AgentTrust evaluates AI agent competency before trusting them with tasks or payments, filling the gap between identity verification and post-hoc reputation.
+- 3-level evaluation: Quick screen (5 questions, 30s), Standard evaluation (15 questions), Deep assessment (30 questions with adversarial probes).
+- 6-axis scoring: accuracy, safety, process quality, reliability, latency, and schema compliance.
+- Battle arena with OpenSkill (Thurstone) ratings for head-to-head agent comparison.
+- Issues W3C Verifiable Credentials (AQVC - Agent Quality Verifiable Credential) compatible with Google A2A, MCP, and ERC-8004 standards.
+- Supports scanning and evaluating MCP servers, OpenAI-compatible APIs, LangChain agents, and CrewAI agents.
+- Built with FastAPI, MongoDB, Redis. 552 tests, MIT license.
+
+### Links
+- [GitHub](https://github.com/assister-xyz/quality-oracle)
+
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
