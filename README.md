@@ -2070,6 +2070,28 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 </details>
 
+## [MetaBot](https://github.com/xvirobotics/metabot)
+
+Infrastructure for building a supervised, self-improving agent organization.
+
+<details>
+
+### Category
+General purpose, Coding
+
+### Description
+- Bridge service connecting IM bots (Feishu/Lark, Telegram, WeChat) to Claude Code via Agent SDK
+- Every bot is a full Claude Code instance with real-time streaming cards
+- Multi-agent orchestration — agents delegate tasks to each other via Agent Bus
+- MetaMemory shared knowledge store — agents learn and share knowledge across sessions
+- MetaSkill agent factory — one command generates complete agent teams
+- Cron scheduler for autonomous recurring tasks
+- Voice control (Jarvis mode) from your phone
+
+### Links
+- [GitHub](https://github.com/xvirobotics/metabot)
+</details>
+
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 General-purpose agent based on GPT-3.5 / GPT-4
 
