@@ -4361,6 +4361,32 @@ Productivity
 
 </details>
 
+## [Hyperbrowser](https://hyperbrowser.ai/)
+Browser Infrastructure for AI Agents and Apps
+
+<details>
+
+![image](https://hyperbrowser.ai/wordmark.svg)
+
+### Category
+Browser automation, Browser infrastructure, Web scraping, Web automation, Web crawling
+
+### Description
+- Platform for effortless, scalable browser automation
+- Launch and manage browser sessions with ease—no complicated setup required
+- Easy to use solutions for all webscraping needs, like scraping a single page or crawling an entire site
+- Spin up hundreds of browser sessions in seconds without infrastructure headaches
+- Works seamlessly with popular tools like Puppeteer, Playwright, and Selenium
+- Built-in stealth mode, ad blocking, automatic CAPTCHA solving, and rotating proxies
+
+### Links
+- [Web](https://hyperbrowser.ai/)
+- [X (Twitter)](https://x.com/hyperbrowser)
+- [Discord](https://discord.gg/zsYzsgVRjh)
+- [Documentation](https://docs.hyperbrowser.ai/)
+
+</details>
+
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
