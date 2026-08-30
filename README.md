@@ -2171,6 +2171,28 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Nanocoder](https://github.com/Nano-Collective/nanocoder)
+An open coding agent for your terminal, built by a community collective
+<details>
+
+ ![image](https://opengraph.githubassets.com/1/Nano-Collective/nanocoder)
+
+### Category
+Coding, CLI
+
+### Description
+- Nanocoder is a local-first CLI coding agent built with React and Ink, focused on keeping your code on your machine.
+- Bring your own model: works with Ollama, OpenRouter, or any OpenAI-compatible API.
+- Supports native tool calling plus an XML fallback for models without native tool support.
+- Includes MCP server integration, custom slash commands, and file-based custom tools.
+- Built and maintained by the Nano Collective, a community collective rather than a company.
+
+### Links
+- [GitHub](https://github.com/Nano-Collective/nanocoder)
+- [npm](https://www.npmjs.com/package/@nanocollective/nanocoder)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
