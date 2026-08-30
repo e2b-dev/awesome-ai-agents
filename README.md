@@ -1,3 +1,5 @@
+- [Awesome AI Tools](https://github.com/formatho/awesome-ai-tools) - Auto-updating curated list of 200+ AI tools with freshness tracking. Updates every 6 hours. ![GitHub Repo stars](https://img.shields.io/github/stars/formatho/awesome-ai-tools?style=social)
+
 <!--
 TBD:
 - Add to visual:
@@ -136,6 +138,29 @@ General purpose, Build your own, Multi-agent
 - [Web](https://www.agentforge.net/)
 - [Discord](https://discord.com/invite/ttpXHUtCW6)
 - [X](https://twitter.com/AgentForge)
+
+</details>
+
+## [Agent Todo](https://todo.formatho.com)
+API-first task management for AI agents
+
+<details>
+
+### Category
+Agent infrastructure, Task management, Multi-agent
+
+### Description
+- API-first task management system built specifically for AI agents
+- Persistent task queues that survive agent restarts and session boundaries
+- Agent identity tracking — know which agent did what
+- Priority-based task lifecycle: pending → in_progress → completed → blocked
+- Full audit trails for multi-agent workflow coordination
+- Works with any agent framework (crewAI, AutoGen, LangChain, custom)
+
+### Links
+- [GitHub](https://github.com/formatho/agent-todo)
+- [Web](https://todo.formatho.com)
+- [API Docs](https://todo.formatho.com/docs)
 
 </details>
 
