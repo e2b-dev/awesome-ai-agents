@@ -4560,6 +4560,29 @@ Productivity, Build-your-own, Business intelligence
 
 </details>
 
+## [Komos](https://www.komos.ai/)
+AI automation for regulated browser operations
+
+<details>
+
+![Image](https://www.komos.ai/images/logo.svg)
+
+### Category
+Productivity, Business intelligence, Workflow automation
+
+### Description
+- Komos turns short browser workflow demonstrations into reusable automations with schedules, API triggers, credentials, logs, and human review.
+- It is designed for operations teams that need to automate portal work such as background screening, insurance eligibility verification, finance operations, and case updates.
+- Tasks can browse websites, process documents, call integrations, and return auditable run history for review.
+
+### Links
+- [Web](https://www.komos.ai/)
+- [Docs](https://docs.komos.ai/)
+- [Background screening](https://www.komos.ai/solutions/background-screening)
+- [Browser automation tools](https://www.komos.ai/browser-automation-tools)
+
+</details>
+
 ## [Kusho](https://kusho.ai/)
 AI agent for API testing
 
