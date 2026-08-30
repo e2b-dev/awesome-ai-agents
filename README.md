@@ -887,6 +887,24 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [ClawSec](https://clawsec.cc)
+Security audit platform for AI agent skills
+
+<details>
+
+### Category
+Security, Coding
+
+### Description
+- ClawSec is a security audit platform for AI agent skills (Claude Code, MCP).
+- Provides 5-tier analysis: static analysis, pattern matching, dependency checking, LLM semantic review, and Firecracker sandbox execution.
+- Helps developers identify vulnerabilities, malicious patterns, and security risks in AI agent code before deployment.
+
+### Links
+- [Website](https://clawsec.cc)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
