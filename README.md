@@ -2427,6 +2427,26 @@ Productivity, Research
 
 </details>
 
+## [Silos Dashboard](https://github.com/cheapestinference/silos)
+Open-source web dashboard for OpenClaw AI agents
+
+<details>
+
+### Category
+Productivity, General purpose, Multi-agent
+
+### Description
+- Silos Dashboard is an open-source web dashboard for managing OpenClaw AI agents, self-hosted with Docker.
+- Shared browser with your agent — browse the web together in real time and see exactly what your agent sees.
+- Manage agents, skills, channels (WhatsApp, Telegram, Discord, Slack), and cron jobs from a single interface.
+- Live chat with tool call visualization, so you can follow your agent's reasoning step by step.
+- MIT License.
+
+### Links
+- [GitHub](https://github.com/cheapestinference/silos)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
