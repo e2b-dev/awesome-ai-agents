@@ -2825,6 +2825,26 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
 
+## [WhichModel](https://whichmodel.dev)
+AI model pricing & recommendation MCP server
+
+<details>
+
+### Category
+Developer tools, AI infrastructure, Model selection
+
+### Description
+- Helps AI agents automatically choose the right model for every task at the best price.
+- Provides cross-verified pricing and capability data updated every 4 hours.
+- Implements the Model Context Protocol (MCP) so agents can query model recommendations as a tool call.
+- Supports comparison across dozens of providers and models by cost, context length, speed, and capability.
+
+### Links
+- [Web](https://whichmodel.dev)
+- [GitHub](https://github.com/Which-Model/whichmodel-mcp)
+
+</details>
+
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
