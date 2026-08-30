@@ -836,6 +836,29 @@ Coding
 
 </details>
 
+## [Cadence](https://github.com/axledbetter/cadence)
+Autonomous Claude Code dev pipeline (brainstorm → spec → plan → implement → migrate → validate → PR → review → bugbot)
+
+<details>
+
+### Category
+Coding
+
+### Description
+- MIT-licensed CLI that drives Claude Code through a full autonomous pipeline: brainstorm → spec → plan → implement → migrate → validate → PR → review → bugbot
+- Multi-model role split — Claude writes code, Codex reviews the diff, Cursor bugbot triages PR comments
+- Risk-tiered review depth (1/2/3 sequential Codex passes per spec risk frontmatter; auto-escalated by keyword for auth/billing/secrets/migrations/RLS/IAM)
+- Concurrent multi-PR dispatch in worktree-isolated branches
+- 16+ provider adapters (Anthropic, OpenAI, Google, Groq, Ollama, AWS Bedrock, Azure OpenAI, Cohere, Mistral, plus OpenAI-compatible: Together, Fireworks, OpenRouter, Perplexity, DeepInfra)
+- User-type profiles (solo / small-team / enterprise / oss-maintainer / learning)
+- Every phase is a rewireable Claude Code skill
+
+### Links
+- [npm](https://www.npmjs.com/package/@delegance/cadence)
+- [Repo](https://github.com/axledbetter/cadence)
+
+</details>
+
 ## [Cal.ai](https://cal.ai)
 Open-source scheduling assistant built on Cal.com
 
