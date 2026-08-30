@@ -5235,6 +5235,25 @@ Coding, Data analysis
 
 </details>
 
+## [SureThing](https://surething.io)
+Proactive AI work assistant and digital twin
+
+<details>
+
+### Category
+Productivity, Workflow automation, General purpose
+
+### Description
+- AI digital twin that monitors email and calendar 24/7, drafts replies, schedules meetings, and executes workflows autonomously.
+- Connects to 800+ apps via integrations for cross-app automation.
+- Human-in-the-loop approval system for high-stakes actions.
+- Proactive task management with scheduled follow-ups and reminders.
+
+### Links
+- [Web](https://surething.io)
+
+</details>
+
 ## [TalktoData](https://talktodata.ai/)
 Data discovery, cleaing, analysis & visualization
 
