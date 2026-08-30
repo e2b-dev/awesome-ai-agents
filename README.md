@@ -1240,6 +1240,28 @@ Coding, general purpose
 
 </details>
 
+## [dotdog](https://github.com/specdog/dotdog)
+Spec-driven development CLI with MCP server for AI agents
+
+<details>
+
+### Category
+Developer tools, MCP servers, AI coding tools
+
+### Description
+
+- **Structured specs**: Write .dog files (Markdown + YAML) to define software specifications
+- **MCP server**: Agents query specs via getEntity, traverse, search — no hallucination
+- **Validation**: Scores spec completeness, detects staleness and contradictions
+- **Token efficiency**: Compiles specs to positional .dag graphs (94% smaller than source)
+- **Dogfooded**: The tool validates its own specs at 100% completeness
+
+### Links
+- [npm](https://www.npmjs.com/package/dotdog)
+- [GitHub](https://github.com/specdog/dotdog)
+- [Docs](https://specdog.github.io/dotdog)
+</details>
+
 ## [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 AI-Driven SW Development Automation Solution
 
