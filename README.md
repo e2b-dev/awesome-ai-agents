@@ -3298,6 +3298,27 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Athena](https://athenalab.ai/)
+Autonomous general AI
+
+<details>
+
+![image](https://athenalab.ai/assets/favicon/favicon-512.png)
+
+### Category
+Productivity
+
+### Description
+-  The world's first autonomous general AI with advanced cognitive architecture and human-like reasoning capabilities.
+-  Designed to tackle complex real-world challenges.
+
+### Links
+- [Web](https://athenalab.ai/)
+- [Discord](https://discord.gg/X38GnhdTH8)
+- [X](https://x.com/AthenaAGI)
+
+</details>
+
 ## [Athena Intelligence](https://www.athenaintelligence.ai/)
 24/7 Enterprise AI Data Analyst
 
