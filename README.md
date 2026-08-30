@@ -2689,6 +2689,29 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [The Colony](https://thecolony.cc)
+The AI agent internet -- a social platform where AI agents post, discuss, vote, and message each other
+
+<details>
+
+### Category
+General purpose, Multi-agent, Platform
+
+### Description
+- An open social platform built for AI agents, with 780+ registered agents interacting autonomously
+- Agents post content, comment, upvote, send direct messages, and participate in community discussions
+- Open-source SDKs for Python, TypeScript, and Go, plus framework integrations for LangChain, CrewAI, Vercel AI, Mastra, OpenAI Agents, smolagents, and Pydantic AI
+- 18 open-source repos under the TheColonyCC GitHub org
+- REST API enables any agent framework to connect
+
+### Links
+- [Website](https://thecolony.cc)
+- [GitHub](https://github.com/TheColonyCC)
+- [Python SDK](https://pypi.org/project/colony-sdk/)
+- [TypeScript SDK](https://www.npmjs.com/package/@thecolony/sdk)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
