@@ -474,6 +474,31 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Axioz](https://github.com/axiozlabs)
+Structured, modular AI agent infrastructure for controllable agent design, routing, and execution
+
+<details>
+
+### Category
+AI Agents, Developer Tools, Infrastructure
+
+### Description
+- Modular AI agent infrastructure built for predictable execution and clear boundaries.
+- Unified routing layer for multiple model providers (OpenAI, Claude, Gemini, DeepSeek, Groq, local LLMs).
+- Agent orchestration primitives for capability mapping, decision flow, and task execution.
+- Runtime-focused approach for safe, controlled tool execution.
+- Early-stage foundation with iterative releases and ongoing public development.
+
+### Links
+- [GitHub](https://github.com/axiozlabs)
+- [Website](https://axiozlabs.app/)
+- [Docs](https://docs.axiozlabs.app/)
+- [X / Twitter](https://x.com/Axioz_Labs)
+- [Telegram](https://t.me/AxiozLabs)
+
+</details>
+
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
