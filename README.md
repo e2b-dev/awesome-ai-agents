@@ -1062,6 +1062,30 @@ Coding
 
 </details>
 
+## [Corpo](https://api.corpo.llc)
+Legal infrastructure for AI agents — form and govern Wyoming DAO LLCs via API
+
+<details>
+
+### Category
+Legal, Infrastructure, Agent Economy
+
+### Description
+- API-native platform for AI agents to form, govern, and operate their own legal entities
+- Agents can programmatically form a Wyoming DAO LLC in under 30 minutes via REST API or MCP server
+- On-chain governance via Solana Realms — proposals, voting, and treasury management governed by code
+- Director marketplace for human oversight when compliance requires it
+- 16-tool MCP server for Claude Desktop, Cursor, Windsurf, and any MCP-compatible client
+- Solves the legal identity gap: agents need entities to hold bank accounts, sign contracts, limit liability, and comply with tax law
+- CLI-first, API-native — no web forms, no lawyers, no PDFs
+
+### Links
+- [Website](https://api.corpo.llc)
+- [GitHub (MCP Server)](https://github.com/corpollc/corpo-mcp)
+- [API](https://api.corpo.llc/api/v1/pricing)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
