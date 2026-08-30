@@ -320,6 +320,30 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [ATXP](https://github.com/atxp-dev/atxp)
+Agent identity platform — one command gives your AI agent a wallet, email, and 100+ paid tools
+
+<details>
+
+### Category
+Infrastructure, Finance, Autonomous Agents
+
+### Description
+- **Agent Transaction Protocol** — gives any AI agent a funded identity in one CLI command
+- Run `npx atxp@latest agent register` to self-register — no human login required
+- Agent gets: USDC wallet on Base, @atxp.email inbox, phone number, $5 free credits
+- 100+ paid MCP tools: web search, image generation, SMS, voice calls, 100+ LLM models
+- MCP servers: `search.mcp.atxp.ai`, `email.mcp.atxp.ai`, etc. — agent pays per call from its own balance
+- Works with Claude Desktop, Claude Code, Cursor, Windsurf, Gemini CLI, and any MCP client
+- Enables budget isolation: each agent has its own wallet, runaway loops consume the agent's own budget
+
+### Links
+- [GitHub](https://github.com/atxp-dev/atxp)
+- [npm](https://npmjs.com/package/atxp)
+- [Docs](https://docs.atxp.ai)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
