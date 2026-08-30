@@ -959,6 +959,25 @@ Science, Chemistry
 
 </details>
 
+## [claude-pr-reviewer](https://github.com/indoor47/claude-pr-reviewer)
+GitHub Action + CLI that uses Claude AI to automatically review pull requests
+
+<details>
+
+### Category
+Coding, GitHub
+
+### Description
+- GitHub Action and CLI tool that uses Claude AI (Anthropic) to automatically review pull requests, post inline comments on specific lines, and report token costs
+- Supports configurable strictness levels (lenient / balanced / strict) to tune review depth
+- Dual mode: runs as a GitHub Action to auto-post PR review comments, or as a CLI tool that outputs to stdout
+- Zero dependencies, Python 3.8+, works with Claude Sonnet, Opus, or Haiku
+
+### Links
+- [GitHub](https://github.com/indoor47/claude-pr-reviewer)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
