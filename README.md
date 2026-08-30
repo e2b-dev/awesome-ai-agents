@@ -1061,6 +1061,21 @@ Coding
 - [Twitter](https://twitter.com/continuedev)
 
 </details>
+## [claw-army/claude-node](https://github.com/claw-army/claude-node)
+Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json
+<details>
+
+### Category
+Integration
+
+### Description
+- Run Claude Code CLI as a Python subprocess with full native capability access
+- Built for embedding Claude Code into backends, workers, and internal tooling
+- Uses stream-json for efficient data streaming between Python and Claude Code
+
+### Links
+- [GitHub](https://github.com/claw-army/claude-node)
+- [PyPI](https://pypi.org/project/claude-node/)
 
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
