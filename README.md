@@ -3381,6 +3381,30 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 
 </details>
 
+## [Biel.ai](https://biel.ai/?utm_source=awesome-ai-agents)
+AI assistant for technical documentation with source-cited answers
+
+<details>
+
+![image](https://biel.ai/images/og-image.png)
+
+### Category
+Customer support, Documentation, Developer tools
+
+### Description
+- Answers user and developer questions using only the product's indexed documentation, with citations linking back to the source pages
+- Parses developer content as structured data: OpenAPI specifications, code samples, error codes, and configuration files
+- One knowledge base exposed through four surfaces: an Ask AI widget and AI search for docs sites (Docusaurus, Sphinx, MkDocs, and more), a hosted MCP server for Claude, Cursor, and GitHub Copilot, bots for Slack, Discord, and Microsoft Teams, and a REST API
+- Analytics surface unanswered questions and content gaps so documentation teams know what to fix
+- Multilingual, with each locale indexed separately; syncs content via crawls, GitHub, or API
+
+### Links
+- [Web](https://biel.ai/?utm_source=awesome-ai-agents)
+- [Documentation](https://docs.biel.ai)
+- [GitHub](https://github.com/TechDocsStudio)
+
+</details>
+
 ## [Blackbox AI](https://www.blackbox.ai/)
 Software That Builds Software
 
