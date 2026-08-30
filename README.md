@@ -836,6 +836,31 @@ Coding
 
 </details>
 
+## [Cabinet Agent Workstation](https://github.com/8676311081/cabinet)
+Self-hosted AI Agent workstation combining knowledge base with task scheduling
+
+<details>
+
+### Category
+Productivity, Coding, Knowledge Management
+
+### Description
+- Desktop app (macOS) that merges [Cabinet](https://github.com/hilash/cabinet) (AI knowledge base) with [Multica](https://github.com/multica-ai/multica) (agent task scheduler)
+- Create issues on a kanban board, agents auto-claim and execute tasks
+- Multi-agent parallel execution with real-time output streaming
+- Agent outputs automatically saved to a Markdown knowledge base with git versioning
+- 100% local, self-hosted alternative to Claude Managed Agents
+- Supports Claude Code, Codex, OpenCode as agent backends
+- Co-created with GPT-5 and Claude Opus 4.6
+
+### Links
+- [GitHub](https://github.com/8676311081/cabinet)
+- [Download DMG](https://github.com/8676311081/cabinet/releases)
+- Upstream: [hilash/cabinet](https://github.com/hilash/cabinet), [multica-ai/multica](https://github.com/multica-ai/multica)
+
+</details>
+
+
 ## [Cal.ai](https://cal.ai)
 Open-source scheduling assistant built on Cal.com
 
