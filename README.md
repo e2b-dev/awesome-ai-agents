@@ -732,6 +732,27 @@ General purpose, Productivity
 </details>
 
 
+## [bitcoin-mcp](https://github.com/Bortlesboat/bitcoin-mcp)
+Bitcoin MCP server with 49 tools for AI agents
+
+<details>
+
+### Category
+Finance, Cryptocurrency, Data analysis
+
+### Description
+- Bitcoin MCP server providing 49 tools for AI agents — fee intelligence, mempool analysis, block/transaction inspection, mining stats, and price data.
+- Zero config required — works out of the box with no API keys or setup.
+- Listed on the Anthropic MCP Registry.
+- MIT licensed.
+
+	
+### Links
+- [GitHub](https://github.com/Bortlesboat/bitcoin-mcp)
+</details>
+
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
