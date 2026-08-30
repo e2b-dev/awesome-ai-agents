@@ -2171,6 +2171,28 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [NEST](https://github.com/contextzero/nest_hub)
+Self-hosted AI workforce hub — coding agents, 700+ models (BYOK), computer-use automation, org memory, and full audit.
+
+<details>
+
+### Category
+Multi-agent, General purpose, Self-hosted, Coding
+
+### Description
+
+- **Self-hosted by default**: deploy on cloud, on-prem, or air-gapped — your data never leaves your perimeter.
+- **Coding agents (Forge)**: Claude Code, Cursor, Codex, OpenCode, KiloCode on a shared audit trail.
+- **Computer-use (Operator)**: the `annie computer` multi-tool agent under governance.
+- **700+ models (Nexus)**: BYOK across OpenRouter, Fal, and direct providers.
+- **Governance built-in**: per-project RBAC, approval flows, and a full audit log of every prompt and action.
+
+### Links
+- [GitHub](https://github.com/contextzero/nest_hub)
+- [npm CLI](https://www.npmjs.com/package/@contextzero/nest)
+- [Website](https://ctx0.io)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
