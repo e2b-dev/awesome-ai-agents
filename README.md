@@ -1160,6 +1160,30 @@ Build-your-own
 
 </details>
 
+## [DataFood](https://toughlovesec.win/agent-mesh)
+Universal data hub for AI agents — 17 cross-niche sources behind one paid bundle call.
+
+<details>
+
+### Category
+Tools-for-agents, Data, MCP
+
+### Description
+- Single MCP / HTTP endpoint that bundles **17 cross-niche public data sources** into one paid call: crypto prices (CoinGecko), Ethereum gas, weather (NWS + OpenWeather), news (HN, NewsAPI), GitHub trending, DeFi yield (DefiLlama), token-risk (GoPlus), HHS healthcare-breach feed, geocoding, more.
+- **Bundle micropayments save up to 92%** vs running 5+ paid SaaS APIs. Day pass $0.99 unlimited 24h, week pass $4.99, or per-bundle from $0.005.
+- **Agent-native auth:** payable via **x402 USDC on Base** *or* Stripe Checkout. The same `session_id` works across every tool call — no per-agent API keys.
+- **Free 1-row preview** at `/api/data/preview?type=…&q=…` so an agent can dry-run before paying.
+- Discoverable: `/.well-known/mcp.json`, `/.well-known/x402.json`, `/.well-known/ai-plugin.json`, `/.well-known/agent-card.json`, OpenAPI 3.0.
+- Operator: TOUGH LOVE SECURITY (solo, Atlanta).
+
+### Links
+- [Live demo + landing](https://toughlovesec.win/agent-mesh)
+- [MCP server (GitHub)](https://github.com/atmflow55/datafood-mcp)
+- [Source catalog (JSON)](https://toughlovesec.win/api/v1/catalog)
+- [x402 descriptor](https://toughlovesec.win/.well-known/x402.json)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
