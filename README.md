@@ -139,6 +139,32 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [Axon](https://axonfi.xyz)
+Non-custodial treasury and payment infrastructure for autonomous AI agents
+
+<details>
+
+### Category
+Finance, Infrastructure, Developer tools
+
+### Description
+- Lets bot operators deploy non-custodial vaults, register agent public keys, set spending policies, and let agents make gasless payments without holding funds or paying gas.
+- Agents sign EIP-712 payment intents. A relayer validates signatures, enforces spending limits, and submits transactions on-chain.
+- Per-agent spending policies: per-tx caps (on-chain), daily/weekly limits, destination whitelist/blacklist, velocity checks.
+- 3-agent AI verification system for suspicious transactions (safety + behavioral + reasoning with 2/3 consensus).
+- Multi-chain: Base and Arbitrum. USDC as base asset. Swap-and-pay for any ERC-20.
+- TypeScript SDK (@axonfi/sdk), Python SDK (axonfi), LangChain integration (langchain-axon).
+- Open source smart contracts audited with Medusa fuzzing (98 property tests).
+
+### Links
+- [GitHub](https://github.com/axonfi)
+- [npm](https://www.npmjs.com/package/@axonfi/sdk)
+- [PyPI](https://pypi.org/project/axonfi/)
+- [Docs](https://axonfi.xyz/docs)
+- [X](https://x.com/axonfixyz)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
