@@ -4743,6 +4743,32 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [Memex](https://memex.tech/)
+Build anything in natural language with AI
+
+<details>
+
+![Image](https://memex.tech/open-graph-3.png)
+
+### Category
+Coding, General purpose, Build-your-own
+
+### Description
+Memex is an AI-powered development environment that lets you build software by describing what you want in natural language. Key features:
+- Desktop app available for Mac, Linux, and Windows
+- Operates directly from your computer with iterative feedback
+- Integrates with your existing development tools and workflow
+- Can research topics, explain methodologies, and collect data to guide its actions
+- Supports both co-pilot and autonomous modes for flexible development
+- Used by engineers at leading organizations like Google, Samsung, and Salesforce
+
+### Links
+- [Web](https://memex.tech/)
+- [Documentation](https://docs.memex.tech/)
+- [X (Twitter)](https://twitter.com/memex_tech)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
