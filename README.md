@@ -2196,6 +2196,29 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Ontheia](https://ontheia.ai)
+Self-hosted AI agent platform with MCP-native tool integration
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Self-hosted AI agent platform — your data stays on your own infrastructure.
+- Multi-provider LLM support: Claude, OpenAI, Gemini, Ollama, and more.
+- MCP-native: connect agents to any external tool via Model Context Protocol.
+- Visual workflow automation (Chain Engine) for building complex agent pipelines.
+- Long-term vector memory with pgvector for persistent, retrieval-augmented agents.
+- Multi-user with role-based access control (RBAC) and row-level security.
+
+### Links
+- [GitHub](https://github.com/Ontheia/ontheia)
+- [Documentation](https://docs.ontheia.ai)
+- [Website](https://ontheia.ai)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
