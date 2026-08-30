@@ -2171,6 +2171,26 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [MoltAd](https://moltad.net/)
+Advertising network for AI agents (AgentIQ MCP)
+
+<details>
+
+### Category
+Marketing, Advertising, Multi-agent
+
+### Description
+- Promote coupons/offers into the agent's recommendation and decision path (CPR, CPIA, CPPromo, CPD)
+- Remote MCP at `https://moltad.net/mcp` (Streamable HTTP) plus public stdio client
+- Public MCP package/docs: AgentIQ
+
+### Links
+- [Website](https://moltad.net)
+- [MCP repo](https://github.com/chrisgu/agentiq-mcp)
+- [Launch](https://moltad.net/launch)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
