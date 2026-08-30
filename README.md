@@ -2611,6 +2611,28 @@ Coding, general purpose
 </details>
 
 
+## [Synkore](https://synkore.io/)
+One command installs a persistent Claude AI agent with synchronized memory across all devices
+
+<details>
+
+### Category
+Personal assistant, self-hosted
+
+### Description
+- One command installs a persistent Claude AI agent with synchronized memory across Mac, Linux, and Raspberry Pi
+- Memory auto-commits to a private GitHub repo on every write and syncs to every device every 5 minutes
+- Self-hosted — no cloud dependency beyond the user's own private GitHub repository
+- Works with Claude Code's native hooks API — no Anthropic account changes required
+- MIT license, open source
+
+### Links
+- [GitHub](https://github.com/MSFcodelang/synkore)
+- [Web](https://synkore.io/)
+
+</details>
+
+
 ## [Sweep](https://sweep.dev/)
 Github assistant that fixes issues & writes code
 
