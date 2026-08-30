@@ -959,6 +959,26 @@ Science, Chemistry
 
 </details>
 
+## [Ciana Parrot](https://github.com/emanueleielo/ciana-parrot)
+Self-hosted personal AI assistant with multi-channel support, scheduled tasks, and extensible skills
+
+<details>
+
+### Category
+General purpose, Personal assistant, Self-hosted
+
+### Description
+- Self-hosted, open-source AI assistant built on LangChain.
+- Multi-channel: Telegram bot, web interface, scheduled background tasks.
+- Extensible skill system — add new capabilities as plug-in skills.
+- Designed for personal/private use: no third-party data sharing, full local control.
+- Docker-based deployment for easy self-hosting.
+
+### Links
+- [GitHub](https://github.com/emanueleielo/ciana-parrot)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
@@ -1157,6 +1177,26 @@ Build-your-own
 - [Documentation](https://docs.chaindesk.ai/introduction)
 - [Discord](https://discord.com/invite/FSWKj49ckX)
 - [GitHub](https://github.com/gmpetrov/databerry)
+
+</details>
+
+## [DeepAgents Open Lovable](https://github.com/emanueleielo/deepagents-open-lovable)
+Open-source AI-powered frontend dev platform — generates React apps via natural-language conversation
+
+<details>
+
+### Category
+Coding, Build your own, Multi-agent
+
+### Description
+- Open-source alternative to Lovable / v0 / Bolt, built on top of [DeepAgents](https://github.com/langchain-ai/deepagents) and LangGraph.
+- Generates complete React applications from natural-language conversations.
+- Uses planning + filesystem subagents to scaffold, edit, and iterate on full projects.
+- Self-hostable; full control over the agent stack and model choice.
+- TypeScript codebase, designed to be extensible and forkable.
+
+### Links
+- [GitHub](https://github.com/emanueleielo/deepagents-open-lovable)
 
 </details>
 
