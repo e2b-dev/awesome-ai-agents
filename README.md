@@ -2879,6 +2879,25 @@ There are four key principles that we followed when developing WrenAI:
 
 </details>
 
+## [WritBase](https://github.com/Writbase/writbase)
+MCP-native task management for AI agent fleets
+
+<details>
+
+### Category
+General purpose, Multi-agent, Productivity
+
+### Description
+- An agent-first task management system — a control plane for AI agents and human supervisors
+- MCP-native access, Postgres-backed storage, multi-agent permissions, full provenance
+- Supports inter-agent task delegation with assignment tracking, delegation safety, and webhook notifications
+- Apache 2.0 licensed
+
+### Links
+- [GitHub](https://github.com/Writbase/writbase)
+
+</details>
+
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
 
