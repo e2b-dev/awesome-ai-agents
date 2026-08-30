@@ -5486,6 +5486,24 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Yume](https://github.com/aofp/yume)
+Desktop GUI for Claude Code with multi-agent orchestration
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Desktop GUI for Claude Code with 4 built-in agents (architect, explorer, implementer, guardian), background agent orchestration (4 concurrent), multi-tab sessions, context compaction, and plugin system
+- Built with Tauri 2 + React
+- Features include token tracking with cost analytics, memory system, skills system, hooks, and MCP support
+
+### Links
+- [GitHub](https://github.com/aofp/yume)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
