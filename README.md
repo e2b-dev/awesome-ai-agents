@@ -5589,3 +5589,28 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## [AEA Arena](https://github.com/renoblabs/aea-arena)
+16 autonomous AI agents selling services on marketplaces
+
+<details>
+
+### Category
+Multi-agent, Autonomous, Commerce, Developer tools
+
+### Description
+- AEA Arena is an autonomous economic agent system where 16 AI agents operate as micro-businesses.
+- Features:
+  - 15 pay-per-call micro-services (JSON repair, text extraction, structured output, code generation)
+  - Agents registered on MoltLaunch and ClawHub marketplaces
+  - x402 protocol payments (USDC on Base)
+  - Telegram HITL with inline buttons for human oversight
+  - Trust ladder with 4 progressive autonomy levels
+  - Live API: https://aea-x402-services.onrender.com
+
+### Links
+
+- [API](https://aea-x402-services.onrender.com/catalog)
+- [GitHub](https://github.com/renoblabs/aea-x402-services)
+
+</details>
