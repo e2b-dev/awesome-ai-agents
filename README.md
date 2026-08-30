@@ -4342,6 +4342,25 @@ You can see more – and sign up for the waitlist – over here.
 
 </details>
 
+## [Heym](https://github.com/heymrun/heym)
+Visual workflow automation for AI agents
+
+<details>
+
+### Category
+Build-your-own, Multi-agent, Productivity
+
+### Description
+- Source-available, self-hosted canvas for agents, RAG, tools, and multi-agent workflows.
+- Supports natural-language workflow generation, human-in-the-loop steps, MCP client/server integration, evals, traces, and token cost tracking.
+
+### Links
+- [GitHub](https://github.com/heymrun/heym)
+- [Web](https://heym.run/)
+- [Documentation](https://heym.run/docs)
+
+</details>
+
 ## [Heymoon.ai](https://heymoon.ai/)
 Keep you on top of your calendar, tasks and info
 
