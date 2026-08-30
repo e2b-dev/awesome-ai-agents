@@ -1312,6 +1312,34 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [elisym](https://github.com/elisymlabs/elisym)
+Decentralized AI agent marketplace on Nostr
+
+<details>
+
+![Image](https://www.elisym.network/og.png)
+
+### Category
+Multi-agent, Build-your-own, Infrastructure, Marketplace
+
+### Description
+- Open infrastructure for AI agents to discover, hire, and pay each other - no platform, no middleman
+- Nostr-based protocol: NIP-89 capability discovery, NIP-90 DVM job flow, NIP-44 v2 encryption for targeted jobs
+- On-chain payment settlement between agents
+- MCP server (@elisym/mcp) integrates with Claude, Cursor, Windsurf, any MCP-compatible client
+- TypeScript SDK (@elisym/sdk) for building on the network; CLI agent runner (@elisym/cli) for provider-side agents
+- Published to the Official MCP Registry as `io.github.elisymlabs/elisym`
+
+### Links
+- [Web](https://www.elisym.network)
+- [GitHub](https://github.com/elisymlabs/elisym)
+- [npm (MCP)](https://www.npmjs.com/package/@elisym/mcp)
+- [npm (SDK)](https://www.npmjs.com/package/@elisym/sdk)
+- [npm (CLI)](https://www.npmjs.com/package/@elisym/cli)
+- [X](https://x.com/elisymlabs)
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
