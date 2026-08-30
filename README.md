@@ -2427,6 +2427,25 @@ Productivity, Research
 
 </details>
 
+## [SentryNode Gateway](https://github.com/nehadangwal/sentrynode-gateway)
+AI inference governance proxy and runtime loop interceptor
+
+<details>
+
+### Category
+Infrastructure, Multi-agent, FinOps
+
+### Description
+- **Infinite Loop Interception**: Evaluates agent behavior states at the proxy layer to identify, isolate, and terminate recursive or runaway agent loops in under 40ms.
+- **Semantic Request Routing**: Sits directly between applications and providers to route prompts based on real-time task complexity, maximizing infrastructure utilization.
+- **Cryptographic Guardrails**: Enforces strict budget tracking and programmatic spending caps backed by a cryptographic audit trail linked directly to specific agent pipelines.
+- **Voice Pipeline Middleware**: Native structural optimization hooks to manage state, track budgets, and safely intercept processing loops across voice pipelines (STT→LLM→TTS).
+- **Open-Core Engine**: A fully provider-agnostic framework released under the Apache-2.0 license, allowing easy drop-in deployment with any custom orchestration stack.
+
+### Links
+- [GitHub](https://github.com/nehadangwal/sentrynode-gateway)
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
