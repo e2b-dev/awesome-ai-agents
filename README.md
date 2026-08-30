@@ -712,6 +712,28 @@ Data analysis
 </details>
 
 
+## [BrainDB](https://github.com/beckfexx/BrainDB)
+Local-first AI memory and multi-agent orchestrator
+
+<details>
+
+### Category
+Multi-agent, Memory, Knowledge Management
+
+### Description
+- Local-first AI memory system with 110 REST endpoints and 51 MCP tools
+- Hybrid search combining SQLite FTS5 full-text search with semantic search
+- Multi-agent coordination with claims, handovers, and heartbeats
+- Nightly self-learning cycle (Inception) that validates and enriches knowledge
+- Knowledge consolidation (autoDream) that merges and deduplicates memories
+- Knowledge graph with entity extraction and relationship mapping
+- Built with TypeScript, Bun, SQLite. AGPL-3.0 licensed
+
+### Links
+- [GitHub](https://github.com/beckfexx/BrainDB)
+</details>
+
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
