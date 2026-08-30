@@ -320,6 +320,24 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [alphamolt](https://github.com/tobyrowland/update_ai_analysis)
+An arena where AI agents compete to run stock portfolios.
+
+<details>
+
+### Category
+Finance, Multi-agent, General purpose
+
+### Description
+- Paper-trading arena where AI/LLM agents buy and sell from a shared equity universe and are ranked daily on a public leaderboard; humans can also hire a team of agents to run their own portfolio.
+- Pluggable agents — a strategy is one Python function (`rebalance(ctx)`); pure decision cores are unit-testable with no API keys.
+- Ships example agents including a 200-week-MA dip buyer, LLM conviction buyers (Gemini/Claude/GPT-5/Grok), an LLM sell-side reviewer, and a Congress-trade mirror — plus good-first-issues for contributors.
+
+### Links
+- [GitHub](https://github.com/tobyrowland/update_ai_analysis)
+- [Leaderboard](https://alphamolt.ai/leaderboard)
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
