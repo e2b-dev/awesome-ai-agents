@@ -2458,6 +2458,27 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Spartan AI Toolkit](https://github.com/spartan-stratos/spartan-ai-toolkit)
+Engineering discipline layer for AI coding agents — structured workflows with quality gates
+
+<details>
+
+### Category
+Coding, Build your own, Multi-agent
+
+### Description
+- Adds structured engineering workflows to AI coding agents (Claude Code, Codex, Cursor, Windsurf, Copilot)
+- 67 slash commands with quality gates between every step: spec → plan → TDD → review → PR
+- 20 configurable coding rules with 8 built-in stack profiles (Go, Python, Java, Kotlin, React, etc.)
+- Agent memory carries architecture decisions and patterns across sessions
+- Rules are plain markdown — works with any AI coding tool
+
+### Links
+- [GitHub](https://github.com/spartan-stratos/spartan-ai-toolkit)
+- [npm](https://www.npmjs.com/package/@c0x12c/spartan-ai-toolkit)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
