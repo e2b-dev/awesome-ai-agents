@@ -103,6 +103,7 @@ Recommender system simulator with 1,000 agents
 <details>
 <p><img src="https://github.com/LehengTHU/Agent4Rec/raw/master/assets/sandbox.png" alt="Image" /></p>
 
+- [ViBo-memory](https://github.com/vnbochkarev-netizen/ViBo-memory) - Persistent memory for AI agents: semantic search, L1/L2/L3 encryption, 50-150x token savings on context
 ### Category
 General purpose, Build your own, Multi-agent
 
