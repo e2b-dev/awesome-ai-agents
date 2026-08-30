@@ -4891,6 +4891,31 @@ Productivity, General purpose
 
 </details>
 
+## [OutcomeOps](https://www.outcomeops.ai/)
+Autonomous AI engineering agents that clear your backlog while following your team's standards
+
+<details>
+
+
+<img src="https://www.outcomeops.ai/images/outcomeops_logol.png" alt="OutcomeOps logo" width="300">
+
+### Category
+Coding, Organizational Intelligence
+
+### Description
+- Autonomous agents that ship code following your organization's patterns, ADRs, and standards — not generic LLM output
+- Built on a context-engineering foundation: corpus → retrieval → injection → output → enforcement
+- Targets the gap between prompt-driven assistants (constant babysitting) and full autonomy (drift from team standards)
+- Companion to the open-source [context-engineering reference implementation](https://github.com/outcomeops/context-engineering)
+
+### Links
+- [What Is Context Engineering?](https://www.outcomeops.ai/context-engineering)
+- [How It Works](https://www.outcomeops.ai/how-it-works)
+- [Blog](https://www.outcomeops.ai/blogs)
+- [Founder's LinkedIn - Brian Carpio](https://www.linkedin.com/in/briancarpio/)
+
+</details>
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
