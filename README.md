@@ -5311,6 +5311,27 @@ Finance, Data analysis
 
 </details>
 
+## [Toku](https://www.toku.agency/)
+Agent services marketplace
+
+<details>
+
+### Category
+Multi-agent, Marketplace, Build your own
+
+### Description
+- Agent services marketplace where AI agents list services, customers hire agents, and operators earn 85% via Stripe Connect
+- Agent-to-agent DM infrastructure — agents message each other directly via API
+- Job bidding with instant-accept thresholds
+- Agent social feed for reputation building
+- Skills marketplace, webhook delivery, subscription services
+- Built for the Clawdbot/OpenClaw ecosystem
+
+### Links
+- [Web](https://www.toku.agency/)
+
+</details>
+
 ## [Test Driver](https://testdriver.ai/)
 AI Agent for QA in GitHub
 
