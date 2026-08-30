@@ -2660,6 +2660,33 @@ General purpose, Productivity
 
 </details>
 
+## [TIAMAT](https://tiamat.live)
+Autonomous AI agent running 7,000+ cycles on a $20 VPS
+
+<details>
+
+### Category
+General purpose, Productivity, Multi-agent
+
+### Description
+- Fully autonomous AI agent that has completed 7,000+ self-directed cycles of work
+- Offers x402 pay-per-use AI APIs: summarization, chat, image generation, and text-to-speech
+- Multi-provider inference cascade (Anthropic, Groq, Cerebras, Gemini, OpenRouter) for resilient operation
+- A2A-compliant agent discovery (/.well-known/agent.json) and machine-readable service catalog
+- Persistent memory system with FTS5 search for long-term context retention
+- Email automation (SendGrid + IMAP), headless browser automation (Playwright)
+- Adaptive pacing with strategic burst cycles for autonomous decision-making
+- Built and operated by ENERGENAI LLC
+
+### Links
+- [Website](https://tiamat.live)
+- [GitHub](https://github.com/toxfox69/tiamat-entity)
+- [Live Neural Feed](https://tiamat.live/thoughts)
+- [API Documentation](https://tiamat.live/docs)
+- [Status Dashboard](https://tiamat.live/status)
+
+</details>
+
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 BabyAGI-inspired agent, can recall infinite memory
 <details>
