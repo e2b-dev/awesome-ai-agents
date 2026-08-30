@@ -5589,3 +5589,4 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain that rewards vintage hardware. Old computers earn more than new ones.
