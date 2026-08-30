@@ -2295,6 +2295,24 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 - [Author's Twitter](https://twitter.com/hellokillian)
 
 </details>
+## [Operum](https://github.com/alprimak/purely-agent-orchestrator)
+Open-source multi-agent orchestration system with production-tested templates for AI development teams
+
+<details>
+
+### Category
+Multi-Agent Framework
+
+### Description
+Operum provides production-tested CLAUDE.md templates for orchestrating 6 specialized AI agents (PM, Architect, Engineer, Tester, Marketing, Community) that coordinate asynchronously via file-based IPC. Built for teams using Claude Code that want true multi-agent automation.
+- Includes complete templates for 6 specialized agents
+- File-based IPC coordination (no complex infrastructure)
+- GitHub pipeline integration
+- Production-tested with real teams shipping real products
+- MIT licensed, fully open-source
+
+</details>
+
 
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
