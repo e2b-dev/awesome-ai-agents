@@ -320,6 +320,28 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [AMA-teras](https://github.com/moriwo-dev-ai/ama-teras)
+Self-evolving desktop AI agent that writes its own tools — every one gated by typecheck, tests, a smoke run, and human approval
+
+<details>
+
+### Category
+Coding, Build your own, Personal assistant
+
+### Description
+- Desktop (Electron) agent: ask for a capability in chat, and it writes a new tool plugin for itself
+- Every generated tool passes isolated-worktree verification (typecheck → unit tests → smoke run) and explicit human approval before it can run; failed health checks auto-rollback
+- The agent cannot modify its own approval mechanism or evolution engine (protected paths enforced by a tripwire gate)
+- Model-agnostic: Anthropic / OpenAI / Moonshot (Kimi), or free-tier OpenAI-compatible APIs — no vendor lock-in
+- Mobile remote control: approve, promote and publish from your phone
+- Community plugin registry where shared tools carry verification evidence
+
+### Links
+- [GitHub](https://github.com/moriwo-dev-ai/ama-teras)
+- [Write-up](https://dev.to/moriwodevai/i-built-a-desktop-ai-agent-that-writes-its-own-tools-behind-verification-gates-2jfl)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
