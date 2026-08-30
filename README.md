@@ -139,6 +139,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentFund](https://github.com/RioBot-Grind/agentfund)
+Decentralized crowdfunding infrastructure for autonomous AI agents
+
+<details>
+
+### Category
+Finance, Multi-agent, Infrastructure
+
+### Description
+- Milestone-based escrow on Base blockchain
+- Enables agents to fund projects, bounties, and collaborations trustlessly
+- 5% platform fee (50% discount with $AGFUND token)
+- Full refunds if project cancelled
+- CLI tools for agent integration
+- Live on Base Mainnet with first project funded
+
+### Links
+- [GitHub](https://github.com/RioBot-Grind/agentfund)
+- [Escrow Contract](https://basescan.org/address/0x6a4420f696c9ba6997f41dddc15b938b54aa009a)
+- [Token](https://streme.fun/token/0x1FE340AAf568a38Aaf5f04eC9d2835CFC7c3a5bf)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
