@@ -4320,6 +4320,28 @@ Productivity
 </details>
 
 
+## [Hermes](https://www.buildwithhermes.com)
+Operating platform for AI voice agencies
+
+<details>
+
+### Category
+Voice AI, Sales, Marketing Automation, Build-your-own
+
+### Description
+- Operating platform purpose-built for AI voice agencies, not another single-agent tool.
+- Replaces the duct-taped stack (Retell/Vapi for voice, GoHighLevel for CRM, Zapier, Stripe, Twilio, plus a developer) with one platform under the agency's own brand.
+- White-label by default, so an agency's clients never see the Hermes name.
+- Built-in CRM, campaign orchestration, telephony, and transparent usage-based billing.
+- Multi-tenant workspaces let a single agency run many clients in isolation.
+- Plans from $149/month with 300 included voice minutes, overage at $0.24/min.
+
+### Links
+- [Website](https://www.buildwithhermes.com)
+- [Founders' Beta](https://www.buildwithhermes.com/beta)
+
+</details>
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 AI tools for doing amazing things with data
 
