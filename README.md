@@ -2296,6 +2296,30 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Opik](https://github.com/comet-ml/opik)
+Open-source observability, tracing, and evaluation for LLM apps and agents
+
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+Monitoring and observability
+
+### Description
+Opik is an open-source platform for tracing, evaluation, and monitoring of LLM applications and agent workflows.
+- End-to-end traces for agent runs, tool calls, and prompts.
+- Dataset- and experiment-driven evaluation workflows.
+- Self-hosted and cloud deployment options.
+- Integrations for common agent frameworks and OpenTelemetry-based telemetry pipelines.
+
+### Links
+- [Web](https://www.comet.com/site/products/opik/)
+- [GitHub](https://github.com/comet-ml/opik)
+- [Documentation](https://www.comet.com/docs/opik/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
