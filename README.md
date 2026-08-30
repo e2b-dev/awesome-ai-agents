@@ -5036,6 +5036,8 @@ Build-your-own
 - Creators have the opportunity to transform their specialized knowledge into AI agents, expanding their reach and generating revenue.
 
 ### Links
+
+- [SkillDepot](https://skills.rehomi.com) - Open marketplace for AI Agent skills focused on cross-border ecommerce (Alibaba International, Amazon, Shopify).Skills are packaged as ZIP files with SKILL.md metadata, rated by community with anti-gaming leaderboard. Open source.
 - [Twitter](https://twitter.com/questflow)
 - [Telegram](https://t.me/+lAFNg26e5aA5NGNl)
 - [Discord](https://twitter.com/questflow)
