@@ -139,6 +139,23 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+
+## [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+The largest open-source collection of 750+ structured cybersecurity skills for AI agents.
+
+<details>
+
+### Category
+Cybersecurity, AI Agents, MITRE ATT&CK, NIST CSF 2.0
+
+### Description
+Anthropic-Cybersecurity-Skills provides AI agents (Claude Code, GitHub Copilot, etc.) with instant access to 750+ production-grade cybersecurity skills spanning 26 domains. Each skill follows the agentskills.io open standard, is mapped to MITRE ATT&CK, and aligned to NIST CSF 2.0.
+
+### Links
+- [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- [Landing Page](https://mahipal.engineer/Anthropic-Cybersecurity-Skills/)
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
