@@ -1036,6 +1036,28 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [CompozyOS](https://github.com/compozy/compozy)
+CompozyOS: an open-source operating system for AI agents
+
+<details>
+
+### Category
+Multi-agent, Build your own, General purpose
+
+### Description
+
+- **One system, not a stack**: loops, triggers, schedules, memory, permissions, approvals and audit come built in, instead of being assembled by hand.
+- **Runs the agents you already use**: 26 supported providers, including Claude Code, Codex, Gemini CLI and Cursor.
+- **Agents work as a team**: they split work and hand tasks to each other over a dedicated agent-to-agent network, sharing one project memory.
+- **Supervised from the browser**: a web shell shows what is running, and approvals gate anything sensitive.
+- **Local-first**: a single Go binary backed by SQLite, running on your own machine. MIT licensed.
+
+### Links
+- [GitHub](https://github.com/compozy/compozy)
+- [Website](https://www.compozy.com)
+
+</details>
+
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
