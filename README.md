@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [amux](https://github.com/mixpeek/amux)
+Open-source control plane for running parallel AI coding agent fleets
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- amux is an open-source control plane for running dozens of parallel AI coding agent sessions simultaneously — Claude Code, Codex, and Gemini CLI — from a single web dashboard or mobile app.
+- Built-in self-healing watchdog: automatically compacts context on exhaustion, restarts on crash, replays the last message, and unblocks stuck tool-approval prompts. Agents run overnight unattended.
+- Shared kanban board with atomic SQLite task-claiming prevents duplicate work across parallel sessions. Agents coordinate via a REST API, inter-session messaging, and shared global memory.
+- Single Python file, zero external dependencies. Works with tmux. MIT + Commons Clause licensed.
+
+### Links
+- [Website](https://amux.io)
+- [GitHub](https://github.com/mixpeek/amux)
+- [iOS App](https://apps.apple.com/us/app/amux-agent-multiplexer/id6760410435)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
