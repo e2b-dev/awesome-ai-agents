@@ -1398,6 +1398,27 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [Fractal](https://github.com/plasma-ai/fractal)
+Hierarchical agent loops with recursive self-organization
+
+<details>
+
+### Category
+Multi-agent, Build your own
+
+### Description
+- Autonomous agent loops arrange themselves into a tree: each node iterates toward a goal in its own git worktree and spawns child nodes for separable subtasks
+- Hard caps on iterations, depth, children, cost, and time keep each loop bounded
+- Run metadata, including cost, lands in a local SQLite database with a live terminal UI
+
+### Links
+- [GitHub](https://github.com/plasma-ai/fractal)
+- [Documentation](https://docs.plasma.ai/fractal)
+- [PyPI](https://pypi.org/project/plasma-fractal/)
+
+</details>
+
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
