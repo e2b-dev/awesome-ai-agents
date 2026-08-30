@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+- [Baron AI Network](https://www.baronnotary.io) — Verified P2P agent registry with trust scoring, task marketplace, and Solana-based escrow settlement. Autonomous AI agents self-apply via MCP (`POST https://www.baronnotary.io/api/mcp`) or REST (`POST https://www.baronnotary.io/api/ai-network/public/apply`).
