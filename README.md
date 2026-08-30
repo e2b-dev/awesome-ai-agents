@@ -2196,6 +2196,28 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OpenAgent](https://github.com/OpenBMB/OpenAct)
+LLM agent system that autonomously integrates specialized tools from GitHub repositories to solve open-domain tasks
+
+<details>
+
+ ![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- An LLM-based agent system that tackles evolving queries in open domains through autonomously integrating specialized tools from GitHub
+- Employs a hierarchical framework where specialized agents handle specific tasks and can assign tasks to inferior agents
+- Uses a bi-level experience learning mechanism to learn from both humans' and its own experiences to tackle tool flaws
+- Released together with OpenAct, a benchmark of 339 questions spanning 7 diverse domains that need to be solved with domain-specific methods
+
+### Links
+- [GitHub](https://github.com/OpenBMB/OpenAct)
+- [Paper](https://arxiv.org/abs/2312.17294)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
