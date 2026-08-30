@@ -1686,6 +1686,30 @@ the design of agents, chains, tools, retrieval functions, and collaborative work
 </details>
 
 
+
+
+## [issue-to-pr](https://github.com/4yDX3906/issue-to-pr)
+AI agent skill that automatically fixes GitHub issues end-to-end
+
+<details>
+
+### Category
+Coding, GitHub, Automation
+
+### Description
+- An AI agent skill that automatically fixes GitHub issues end-to-end: reads the issue, analyzes repository code, implements a fix, and submits a pull request.
+- Parses GitHub issue URLs and fetches issue details
+- Clones and analyzes the target repository
+- Implements minimal, targeted code fixes
+- Runs tests and verification before submitting
+- Creates a pull request with user approval
+
+### Links
+- [GitHub](https://github.com/4yDX3906/issue-to-pr)
+
+</details>
+
+
 ## [JARVIS](https://github.com/microsoft/JARVIS)
 System that connects LLMs with the ML community
 
