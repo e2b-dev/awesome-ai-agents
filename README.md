@@ -2296,6 +2296,32 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Permission Protocol](https://permissionprotocol.com)
+Cryptographic approval gates for AI agent actions
+
+<details>
+
+### Category
+<table>
+<tr><td>General purpose</td><td>No</td></tr>
+<tr><td>Research</td><td>No</td></tr>
+<tr><td>Coding</td><td>No</td></tr>
+<tr><td>Data Analysis</td><td>No</td></tr>
+<tr><td>Productivity</td><td>No</td></tr>
+<tr><td>Governance & Security</td><td>Yes</td></tr>
+</table>
+
+### Description
+Permission Protocol blocks AI agents from deploying to production, accessing sensitive data, or executing destructive tool calls without a named human signer's approval. Every approved action gets an Ed25519-signed cryptographic receipt that systems verify before execution proceeds. Fail-closed enforcement, <200ms latency, MIT-licensed.
+
+### Links
+- [Website](https://permissionprotocol.com)
+- [GitHub — Deploy Gate](https://github.com/permission-protocol/deploy-gate)
+- [GitHub — MCP Guard](https://github.com/permission-protocol/mcp-guard)
+- [Demo](https://app.permissionprotocol.com/demo/start)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
