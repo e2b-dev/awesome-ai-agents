@@ -1745,6 +1745,31 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+
+## [LastSaaS](https://github.com/jonradoff/lastsaas)
+AI-native SaaS platform with built-in MCP server for AI agent management
+
+<details>
+
+### Category
+Infrastructure, Build your own, SaaS
+
+### Description
+
+LastSaaS is an open-source, AI-native SaaS platform with a built-in MCP server exposing 26 tools that enable AI agents to monitor dashboards, users, tenants, financials, logs, and system health. Built with Go, React, and MongoDB, it provides a complete foundation for launching SaaS products where AI agents are first-class operators alongside human users.
+
+- **MCP Server (26 tools)**: AI agents can query dashboards, manage users and tenants, inspect financials, review logs, and check system health — all through a standardized tool interface.
+- **Multi-tenant architecture**: Full tenant isolation with per-tenant billing, user management, and configuration.
+- **Stripe billing integration**: Checkout, Billing Portal, and webhook support built in.
+- **Authentication and RBAC**: JWT-based auth with role-based access control (super-admin, admin, member).
+- **System logging and monitoring**: Structured logging with severity levels and injection detection.
+
+### Links
+
+- [GitHub](https://github.com/jonradoff/lastsaas)
+
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
