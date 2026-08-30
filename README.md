@@ -732,6 +732,30 @@ General purpose, Productivity
 </details>
 
 
+## [Bike4Mind](https://github.com/Bike4Mind/bike4mind)
+Open-core AI workbench with autonomous agents (Quest Master), persistent memory, RAG, and voice — runs any model, hosted or self-deployed in your own AWS
+
+<details>
+
+### Category
+General purpose
+
+### Description
+
+- Quest Master: autonomous multi-step task execution with plan and sub-task decomposition
+- Mementos: memory that persists across conversations
+- 60+ models across OpenAI, Anthropic, Google, xAI, Meta — plus self-hosted open-weight models via Ollama/vLLM; switch mid-conversation
+- RAG, voice agents, version-controlled Artifacts, in-browser Python
+- Agent-facing surface: public MCP server (`bike4mind.com/api/mcp`, no auth), REST API, and a published CLI (`@bike4mind/cli`)
+- Open core: BSL 1.1 auto-converting to Apache-2.0 on a two-year clock; deploy the full source in your own AWS
+
+### Links
+- [Website](https://bike4mind.com)
+- [GitHub](https://github.com/Bike4Mind/bike4mind)
+- [Docs](https://bike4mind.com/docs)
+- [For agents](https://bike4mind.com/agents)
+</details>
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
