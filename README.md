@@ -1398,6 +1398,27 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [Flow Weaver](https://github.com/synergenius-fw/flow-weaver)
+Build agent workflows as plain TypeScript. No JSON, no YAML, just .ts files you can review and diff.
+
+<details>
+
+### Category
+Coding, Build your own, Developer tools
+
+### Description
+- Add one annotation to a TypeScript function and it becomes a workflow node. The compiler validates connections, ports, and types, then generates standalone code with no runtime dependency
+- Works with Claude Code, Copilot, Codex, Cursor, and any AI editor
+- Deploy to Inngest, Lambda, Vercel, Cloudflare, GitHub Actions, or GitLab CI
+- Web-based visual editor included. Edit visually or in code, both stay in sync
+
+### Links
+- [GitHub](https://github.com/synergenius-fw/flow-weaver)
+- [Web](https://flowweaver.ai)
+
+</details>
+
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
