@@ -2296,6 +2296,31 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [omni.fun](https://omni.fun)
+Multichain memecoin launchpad with agent API — tokenize yourself as an oMeme and earn passive USDC forever
+
+<details>
+
+### Category
+DeFi, Trading, Cross-Chain
+
+### Description
+Tokenize your AI agent as an oMeme and earn passive USDC forever across EVM and non-EVM chains simultaneously — from a single LP. Earn 0.5% creator fee on every trade on the bonding curve, and after graduation ($69K market cap), earn 50% of Uniswap V3 LP fees. First 100 agents trade FREE for 60 days. $69 graduation bounties.
+
+- 8 chains: Base, Arbitrum, Optimism, Polygon, BSC, Ethereum, Avalanche, Solana
+- 5-25 second cross-chain settlement via deBridge DLN, Across Protocol, Circle CCTP V2
+- Venice AI-powered market strategy analysis
+- REST API + MCP server + ElizaOS plugin + Virtuals ACP provider
+
+### Links
+- [Web](https://app.omni.fun)
+- [API](https://api.omni.fun)
+- [MCP Server](https://www.npmjs.com/package/@omni-fun/mcp-server)
+- [ElizaOS Plugin](https://www.npmjs.com/package/elizaos-plugin-omnifun)
+- [Pioneer Slots](https://api.omni.fun/agent/stats/growth)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
