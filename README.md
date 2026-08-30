@@ -1355,6 +1355,36 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [Event Tracking Skill](https://github.com/jtrackingai/event-tracking-skill)
+AI-powered GA4 + GTM event tracking — from site analysis to publish
+
+<details>
+
+![Image](https://raw.githubusercontent.com/jtrackingai/event-tracking-skill/main/docs/assets/jtracking-social-preview-v4.png)
+
+### Category
+Data analysis, Marketing, Coding
+
+### Description
+- Automates the full GA4 + GTM event tracking workflow with a single natural-language prompt
+- Process:
+  - Crawl and analyze any website (platform detection, page structure, existing GTM)
+  - Organize pages into business-purpose groups
+  - Generate and validate GA4 event schema with CSS selector verification
+  - Sync tags, triggers, and variables to a GTM workspace via Google API
+  - Run GTM Preview Mode verification with tracking health scoring
+  - Publish the GTM container
+- Works as an AI agent skill (Cursor, Codex) or standalone Node.js CLI
+- Supports generic websites and Shopify storefronts
+- Local-first, no external service dependency, Google OAuth for GTM sync
+- Open source (Apache 2.0)
+
+### Links
+- [GitHub](https://github.com/jtrackingai/event-tracking-skill)
+- [Website](https://www.jtracking.ai/skills)
+
+<details>
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
