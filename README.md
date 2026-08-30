@@ -5589,3 +5589,4 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+- [AEGIS](https://github.com/cstamigo-droid/aegis-idempotency) - Reliability layer for production AI agents: exactly-once execution, HITL approval gates, per-event metered billing. Framework-agnostic REST API + Python SDK.
