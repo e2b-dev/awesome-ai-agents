@@ -1652,6 +1652,29 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+
+## [Hermit](https://github.com/heggria/Hermit)
+Local-first governed agent kernel with durable execution
+
+<details>
+
+### Category
+General purpose, Build your own, Infrastructure
+
+### Description
+- Local-first governed agent kernel with approval workflows, receipts, proofs, and rollback
+- Task-first execution where every action produces inspectable records
+- Event-sourced ledger for durable, auditable state
+- Plugin system with CLI, Feishu, scheduler, webhook, and MCP surfaces
+- Evidence-bound memory and artifact-native context
+- Scoped authority with capability grants for least-privilege execution
+
+### Links
+- [GitHub](https://github.com/heggria/Hermit)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
