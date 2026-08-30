@@ -95,6 +95,27 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Almanac](https://github.com/pjt222/agent-almanac)
+A composable library of 299 skills, 62 agents, and 12 teams for Claude Code
+
+<details>
+
+### Category
+Multi-agent, Build your own, Coding
+
+### Description
+- Agent Almanac is a composable library following the [Agent Skills](https://agentskills.io) open standard. Skills define *how* to do something, agents define *who* does it, teams define *who works together*.
+- 299 skills, 62 agents, and 12 teams spanning 50+ domains including R development, DevOps, security, compliance, and NLP.
+- 7 coordination patterns for teams: hub-and-spoke, sequential, parallel, adaptive, timeboxed, wave-parallel, and reciprocal.
+- Designed for Claude Code with slash-command skill invocation and subagent spawning. Skills are machine-consumable procedures with structured error handling.
+- MIT licensed.
+
+### Links
+- [GitHub](https://github.com/pjt222/agent-almanac)
+- [Agent Skills Standard](https://agentskills.io)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
