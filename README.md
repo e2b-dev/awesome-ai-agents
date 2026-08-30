@@ -1651,6 +1651,29 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 </details>
 
+## [Hanzi](https://github.com/hanzili/hanzi-in-chrome)
+
+MCP server + Chrome extension that gives AI agents your real signed-in browser.
+
+<details>
+
+### Category
+Developer tools, Browser Automation
+
+### Description
+- Task-level browser automation — one tool call delegates an entire workflow
+- Uses your real signed-in browser (not headless), so your logins and sessions just work
+- MCP server drives the agent loop, Chrome extension executes browser actions
+- Works with Claude Code, Cursor, Codex, Windsurf, and any MCP client
+- Built-in skills: LinkedIn prospecting, E2E testing, social posting
+- Open source, one-command setup: `npx hanzi-in-chrome setup`
+
+### Links
+- [GitHub](https://github.com/hanzili/hanzi-in-chrome)
+- [npm](https://www.npmjs.com/package/hanzi-in-chrome)
+- [Website](https://browse.hanzilla.co)
+
+</details>
 
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
