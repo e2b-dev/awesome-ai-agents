@@ -1289,6 +1289,30 @@ Build-your-own
 
 </details>
 
+## [Ebiose](https://github.com/ebiose-ai/ebiose)
+Agents that craft, test, and evolve other agents in a Darwinian survival-of-the-fittest framework.
+
+<details>
+
+### Category
+Build-your-own (agent-builing frameworks and platforms)
+
+### Description
+A Darwinian factory for AI ecosystems. Use Ebiose to build architect agents that will build agents who solve specific problems, and evolve over time.
+
+### Features and Benefits
+- Free credits to run your own forges (isolated labs for building agents tailored to specific tasks).
+- Hand-crafted architect agent that performs prompt engineering and assembles agent graphs.
+- Evolutionary engine.
+- Graph-based agents made of LLM nodes.
+- Persistent ecosystems where top agents live on and tackle new forges.
+- Initial LangGraph runtime (not wedded to it, but have to start somewhere).
+
+### Links
+- [Creator Website](https://ebiose.com)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
