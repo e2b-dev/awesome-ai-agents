@@ -3036,6 +3036,25 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 
 </details>
 
+## [Agent Gateway](https://agent-gateway-kappa.vercel.app)
+One API key for 39+ AI agent infrastructure services
+
+<details>
+
+### Category
+Infrastructure, Build your own, Multi-agent
+
+### Description
+- Unified API gateway providing a single key to access 39+ infrastructure services for AI agents
+- Services include memory, wallets, code execution, scheduling, webhooks, secrets management, and more
+- Built for developers who want to quickly scaffold autonomous agents without managing dozens of microservices
+- Free tier with 200 credits to get started
+
+### Links
+- [Web](https://agent-gateway-kappa.vercel.app)
+
+</details>
+
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
