@@ -1709,6 +1709,33 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [KAOS: K8s Agent Orchestration System]([https://github.com/microsoft/JARVIS](https://github.com/axsaucedo/kaos))
+Managing the KAOS in your distributed multi-agent system
+
+<details>
+
+![image](https://github.com/axsaucedo/kaos/raw/main/docs/public/demo.gif)
+
+### Category
+General purpose, Build your own, web UI, Multi-agent
+
+### Description
+KAOS is a Kubernetes-native framework for deploying and orchestrating AI agents with tool access, multi-agent coordination, and seamless LLM integration.
+- Agentic Graphs - Deploy distributed agents networks as Kubernetes resources
+- MCP Primitives - Tool integration via the Model Context Protocol standard
+- Multi-Agent Support - Hierarchical agent systems with automatic delegation
+- OpenAI-Compatible - All agents expose /v1/chat/completions endpoints
+- KAOS CLI - Install and manage agents and environments with kaos CLI
+- Visual Dashboard - UI to monitor agents, test chat, debug memory and tools
+
+### Links
+
+- [Github](https://github.com/axsaucedo/kaos)
+- [Documentation](https://axsaucedo.github.io/kaos/)
+- [Web UI](https://axsaucedo.github.io/kaos-ui/)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
