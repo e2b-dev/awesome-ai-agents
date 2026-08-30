@@ -1745,6 +1745,31 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [Kuberna Labs](https://github.com/kawacukennedy/kuberna-labs)
+Decentralized execution rails for AI agents
+
+<details>
+
+![Image](https://kubernalabs.vercel.app/og-image.png)
+
+### Category
+AI infrastructure, Web3, Agentic workflows, Build your own, SDK for agents, Multi-agent
+
+### Description
+- **TEE-Shielded AI Agents**: Deploy agents inside Intel TDX (Phala) or AMD SEV (Marlin Oyster) enclaves with cryptographic attestation
+- **Cross-Chain Intents (ERC-7683)**: Post intents in natural language. Solvers compete to fulfill them. Funds secured in escrow
+- **zkTLS Privacy**: Fetch verified Web2 data using zero-knowledge proofs for African financial inclusion
+- **Deploy in <60 Seconds**: One-command deployment to TEE enclaves across Ethereum, Solana, NEAR, Polygon, Arbitrum
+- **SDK**: TypeScript, Python, Rust SDKs with pre-built templates for trading bots, governance monitors
+- **250+ commits**, **37 stars**, production-ready with OpenZeppelin audited contracts
+
+### Links
+- [GitHub](https://github.com/kawacukennedy/kuberna-labs)
+- [Website](https://kubernalabs.vercel.app)
+- [Discord](https://discord.gg/kuberna)
+- [Twitter](https://x.com/Arnaud_Kennedy)
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
