@@ -474,6 +474,33 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [awaithumans](https://github.com/awaithumans/awaithumans)
+The human layer for AI agents — one function call lets your agent await a human's decision and resume with the typed response.
+
+<details>
+
+![Image](https://raw.githubusercontent.com/awaithumans/awaithumans/main/docs/images/hero-dashboard.png)
+
+### Category
+HITL primitive, Build your own, Agent infrastructure, Apache 2.0
+
+### Description
+
+- **One function call**: `await_human()` / `awaitHuman()` blocks like any Promise — the agent waits, a human decides, the agent resumes with the typed Pydantic / Zod response.
+- **Three channels**: Slack (broadcast + DM + NL replies parsed by an optional verifier), email with magic-link buttons, built-in web dashboard.
+- **Durable adapters**: Temporal (signal-based suspend) and LangGraph (interrupt/resume). Workflows park while waiting; survive worker restarts via Stripe-style deterministic idempotency keys.
+- **Optional AI verifier**: a Claude / OpenAI / Gemini / Azure OpenAI LLM gut-checks the human's submission before the agent trusts it. BYO key on the server — no inference markup.
+- **Routing**: assign tasks to specific people, pools, or roles with least-recently-assigned fairness.
+- **Self-host in one command**: `pip install "awaithumans[server]" && awaithumans dev` ships the API + bundled dashboard.
+- **Cross-language**: Python + TypeScript SDKs with matching wire format. A Python workflow can hand off webhooks to a TypeScript receiver and vice versa.
+
+### Links
+- [Documentation](https://docs.awaithumans.dev)
+- [Quickstart](https://docs.awaithumans.dev/quickstart)
+- [Discord](https://discord.gg/Kewdh7vjdc)
+- [GitHub](https://github.com/awaithumans/awaithumans)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
