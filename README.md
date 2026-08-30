@@ -2253,6 +2253,31 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+
+## [OpenClaw Smart Router](https://github.com/AtlasPA/openclaw-smart-router)
+Intelligent model selection for AI agents
+
+<details>
+
+### Category
+Cost optimization, Model routing, Agent infrastructure
+
+### Description
+OpenClaw Smart Router is an intelligent model selection system that automatically routes AI agent requests to optimal models based on task complexity, budget constraints, and learned patterns. It helps agents reduce costs while maintaining quality.
+
+Key features:
+- **4-factor weighted scoring**: Analyzes complexity (40%), budget (30%), patterns (20%), and performance (10%)
+- **Task complexity analysis**: Automatically classifies tasks as code, debugging, reasoning, query, or writing
+- **Pattern learning**: Creates routing patterns after 5+ similar successful tasks
+- **Cost tracking**: Analyzes savings vs. baseline with comprehensive analytics
+- **Free tier**: 100 routing decisions per day
+- **Pro tier**: Unlimited decisions via x402 payment protocol (0.5 USDT/month)
+
+### Links
+- [GitHub](https://github.com/AtlasPA/openclaw-smart-router)
+- [Documentation](https://github.com/AtlasPA/openclaw-smart-router#readme)
+
+</details>
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
