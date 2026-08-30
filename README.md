@@ -2272,6 +2272,30 @@ Coding, general purpose
 
 </details>
 
+## [Octomind](https://github.com/muvon/octomind)
+Open-source, model-agnostic AI agent runtime
+
+<details>
+
+![Session Demo](https://asciinema.org/a/wpZmOSOgFXp8HRzTltncgN7e3.svg)
+
+### Category
+Coding, CLI, Runtime
+
+### Description
+Octomind is an open-source, model-agnostic AI agent runtime written in Rust. Install agents, not frameworks.
+- **Tap Registry** — Community specialist agents (developer:rust, doctor:blood, lawyer:contracts, devops:kubernetes, finance:analyst, security:owasp)
+- **MCP Runtime Self-Extension** — Configure any agent as MCP tool, extend at runtime
+- **13+ Providers** — OpenRouter, OpenAI, Anthropic, Google, Amazon, Cloudflare, DeepSeek, and more
+- **Adaptive Compression** — Smart context management with semantic search, knowledge graph, persistent memory
+- **Zero Config** — Single binary, Homebrew/cargo/curl install, no setup required
+- **Multiple Run Modes** — Interactive session, WebSocket server, JSONL for CI/CD
+
+### Links
+- [GitHub](https://github.com/muvon/octomind)
+- [Website](https://octomind.run)
+
+</details>
 
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
