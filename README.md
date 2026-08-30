@@ -182,6 +182,26 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentMail Sanctions Agent](https://sanctionsai.dev)
+OFAC sanctions screening agent for payment workflows
+
+<details>
+
+### Category
+Finance, Security, Developer tools
+
+### Description
+- Screens names, wallets, countries, and entities against sanctions data before payment.
+- Exposes a public A2A Agent Card, MCP tools, an HTTP API, and a CLI.
+- Offers 5 free checks per day, $0.05 x402 checks, and a $19/month Dev key.
+
+### Links
+- [Agent Card](https://sanctionsai.dev/.well-known/agent-card.json)
+- [Documentation](https://sanctionsai.dev/docs)
+- [GitHub](https://github.com/kindrat86/agentmail)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
