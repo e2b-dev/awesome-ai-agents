@@ -4361,6 +4361,27 @@ Productivity
 
 </details>
 
+## [IdeaTwister](https://ideatwister.com)
+Locally-run multi-agent engine that mutates one business idea into 50+ scored variations
+
+<details>
+
+### Category
+Productivity, Multi-agent, Build-your-own (runs locally inside an AI coding CLI)
+
+### Description
+- IdeaTwister orchestrates 15 specialized AI agents in parallel to twist one rough business idea across 15 strategic angles — customer segments, pricing flips, adjacent niches, GTM moats, alternate use cases, and more.
+- Live web research is woven into every variation, and each variation is scored on five commercial dimensions (Buyer Urgency, Market Proof, Solo Executability, Revenue Speed, Defensibility).
+- Output is a self-contained interactive HTML dashboard with a top-5 picks section including GTM sketches and 30-day validation plans.
+- Runs entirely on the user's machine inside Claude Code, Cursor Agent, Codex, Gemini CLI, or OpenCode. Bring-your-own API keys, no SaaS, $39 one-time.
+
+### Links
+- [Web](https://ideatwister.com)
+- [X (Twitter)](https://x.com/IdeaTwisterAI)
+- [GitHub](https://github.com/ideatwister/ideatwister)
+
+</details>
+
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
