@@ -182,6 +182,24 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [agent-manager](https://github.com/fractalmind-ai/agent-manager-skill)
+tmux + Python agent lifecycle manager for running multiple CLI AI agents
+
+<details>
+
+### Category
+Build your own, Multi-agent, Dev tools
+
+### Description
+- Manage multiple AI agents via tmux sessions with a single Python CLI: start/stop/monitor/assign.
+- Cron-friendly scheduling (`schedule sync` writes crontab entries calling the installed `main.py` by absolute path).
+- Installation-agnostic: works from arbitrary install locations; no server required.
+
+### Links
+- [GitHub](https://github.com/fractalmind-ai/agent-manager-skill)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
