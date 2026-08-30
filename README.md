@@ -2689,6 +2689,26 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [TradingAgents-Pro](https://github.com/Veroq-api/TradingAgents-Pro)
+18 AI agents for automated trading with fact-checked financial intelligence
+
+<details>
+
+### Category
+Finance, Multi-agent, Trading
+
+### Description
+- **18 specialized AI agents** that collaborate on trading decisions — bull/bear researchers, technical analysts, risk managers, fact-checkers, and portfolio managers
+- Built on verified financial data with evidence chains and bias detection
+- Supports equities, crypto, ETFs, commodities, and indices (1,061+ tickers)
+- Includes live agent debate (bull vs bear) streamed via SSE
+- Forward predictions with confidence scores
+- 9 CLI modes for different analysis workflows
+
+### Links
+- [GitHub](https://github.com/Veroq-api/TradingAgents-Pro)
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
