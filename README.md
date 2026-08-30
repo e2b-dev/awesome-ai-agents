@@ -980,6 +980,29 @@ Coding
 
 </details>
 
+## [ClawWP](https://github.com/hifriendbot/clawwp)
+Ai agent that manages WordPress sites through natural conversation
+
+<details>
+
+### Category
+General purpose, Productivity
+
+### Description
+- A WordPress plugin that turns your site's admin dashboard into a conversational Ai agent
+- Runs a multi-step execution loop (up to 10 iterations) to complete tasks autonomously
+- 7+ built-in tools for content management, site configuration, plugin/theme management, user management, and more
+- Supports MCP (Model Context Protocol) for connecting external tool servers
+- Includes cost tracking, prediction market trading via Polymarket, and blockchain wallet management
+- Works with OpenAI and OpenRouter as LLM providers
+- Free tier available, open source (GPLv2)
+
+### Links
+- [GitHub](https://github.com/hifriendbot/clawwp)
+- [Website](https://hifriendbot.com/clawwp/)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
