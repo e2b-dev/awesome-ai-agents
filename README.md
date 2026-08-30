@@ -1652,6 +1652,25 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [issue-orchestrator](https://github.com/BruceBGordon/issue-orchestrator)
+Orchestrate AI coding agents across GitHub issues with enforced validation and review gates
+
+<details>
+
+### Category
+Coding, GitHub, Workflow automation
+
+### Description
+- Runs multiple AI coding agents (Claude, Codex, Gemini) in parallel against GitHub issues, each in its own isolated git worktree
+- Treats agent output as a claim, not authority: nothing advances until configured validation and a reviewer agent pass, otherwise it reworks, blocks, or escalates to a human
+- Crash-safe with state reconciled from GitHub labels, plus timelines, transcripts, validation artifacts, and session replay; agents can't push or open PRs directly, humans hold merge authority
+
+### Links
+- [GitHub](https://github.com/BruceBGordon/issue-orchestrator)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
