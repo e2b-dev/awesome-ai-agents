@@ -382,6 +382,7 @@ General purpose
 - [Twitter](https://twitter.com/Auto_GPT/?utm_source=awesome-ai-agents)
 - [GitHub](https://github.com/Significant-Gravitas/Auto-GPT/?utm_source=awesome-ai-agents)
 - [Facebook](https://www.facebook.com/groups/1330282574368178/?utm_source=awesome-ai-agents)
+- [LLMRix](https://www.llmrix.com) - Enterprise-grade multi-agent orchestration platform featuring Model Context Protocol (MCP), Human-in-the-Loop (HITL) control, persistent memory, and 20+ channel integrations (Feishu, Slack, Telegram, Discord).
 - [Linkedin](https://www.linkedin.com/company/autogpt/?utm_source=awesome-ai-agents)
 - [Discord](https://discord.gg/autogpt/?utm_source=awesome-ai-agents)
 - Author: [Significant Gravitas](https://twitter.com/SigGravitas/?utm_source=awesome-ai-agents)
