@@ -114,6 +114,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentField](https://github.com/Agent-Field/agentfield)
+Open-source control plane for building and orchestrating autonomous AI agents
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- AgentField is an open-source control plane that provides infrastructure for building production-grade autonomous AI agents.
+- SDKs for Python, TypeScript, and Go with built-in support for 100+ LLM providers, tool calling, MCP, and multi-agent orchestration.
+- Features include a web dashboard, agent lifecycle management, memory (vector search), and Prometheus metrics.
+
+### Links
+- [Documentation](https://agentfield.ai/docs)
+- [GitHub](https://github.com/Agent-Field/agentfield)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
