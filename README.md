@@ -50,6 +50,7 @@ We structured the list into two parts:
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents). 🌟
 
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
+- [Swiss Truth MCP](https://github.com/swisstruthorg/swiss-truth-mcp) - Verified knowledge infrastructure for AI agents. 3000+ certified facts across 38 domains with 5-stage human+AI validation. MCP server, LangChain/CrewAI/AutoGen integrations. Prevents hallucinations on regulatory topics. ![GitHub Repo stars](https://img.shields.io/github/stars/swisstruthorg/swiss-truth-mcp?style=social)
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
