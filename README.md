@@ -2764,6 +2764,27 @@ General purpose
 
 </details>
 
+## [Web3 Agent Kit](https://github.com/ulsreall/web3-agent-kit)
+Open-source Python SDK for building autonomous blockchain AI agents
+
+<details>
+
+### Category
+Blockchain, Framework, AI Agents, DeFi
+
+### Description
+- Open-source Python SDK for building autonomous blockchain AI agents with 565 tests and 25+ modules.
+- Supports 7+ blockchain networks including Ethereum, Base, Arbitrum, Optimism, Polygon, and more.
+- LLM integration with provider cascade (OpenAI, Anthropic, Groq, DeepSeek) for intelligent agent reasoning.
+- Features Uniswap V2 swaps, cross-chain bridges (Li.Fi, Socket), token sniper, and portfolio tracking.
+- Published on PyPI for easy installation: `pip install web3-agent-kit`.
+
+### Links
+- [GitHub](https://github.com/ulsreall/web3-agent-kit)
+- [PyPI](https://pypi.org/project/web3-agent-kit/)
+
+</details>
+
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
