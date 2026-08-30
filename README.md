@@ -813,6 +813,29 @@ Coding
 
 </details>
 
+## [RootCX](https://github.com/RootCX/RootCX)
+One place for every internal app and AI agent
+
+<details>
+
+### Category
+Agent infrastructure, Build your own, Multi-agent
+
+### Description
+- Production infrastructure where AI agents and internal apps share one PostgreSQL database, one auth layer, and one audit trail.
+- Agents act on real business data under the same RBAC as human users. Every action is logged.
+- Pilot your internal apps from Slack and Telegram through AI agents.
+- Plug in any MCP server to extend what your agents can do.
+- Integrations with Notion, Gmail, Salesforce, Slack, GitHub, Stripe.
+- Open source (FSL-1.1-ALv2, converts to Apache 2.0). Self-hostable with full feature parity.
+
+### Links
+- [GitHub](https://github.com/RootCX/RootCX)
+- [Web](https://rootcx.com)
+
+</details>
+
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
