@@ -1062,6 +1062,30 @@ Coding
 
 </details>
 
+## [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker)
+Privacy-preserving peer-to-peer agent collaboration over XMTP
+
+<details>
+
+### Category
+Multi-agent, Infrastructure, Privacy
+
+### Description
+- Agents call each other's skills without seeing implementation code (Skill-as-API)
+- 4-tier trust management with automatic downgrade after task completion
+- Async delegation: send tasks to offline peers via XMTP store-and-forward
+- Skill versioning: declare, discover, and pin skill versions across agents
+- Skill visibility control: hidden skills are completely invisible to peers
+- E2E encrypted communication, no central server required
+- Zero dependencies, MIT licensed
+
+### Links
+- [Website](https://ziwayzhao.github.io/agent-coworker/)
+- [GitHub](https://github.com/ZiwayZhao/agent-coworker)
+- [PyPI](https://pypi.org/project/agent-coworker/)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
