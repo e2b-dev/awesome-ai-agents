@@ -2196,6 +2196,27 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Nylas CLI](https://cli.nylas.com)
+Email, calendar, and contacts for AI agents
+<details>
+
+### Category
+Email, Calendar, Tools, Integration
+
+### Description
+- Gives AI agents a real email account and working calendar across 6 providers (Gmail, Outlook, Exchange, Yahoo, iCloud, IMAP).
+- 16 MCP tools spanning email send/receive, calendar event CRUD, contacts, OTP extraction, and webhooks. Works natively with Claude Code, Cursor, Codex CLI, Windsurf, and OpenClaw (via plugin).
+- One auth flow handles all providers — no per-provider OAuth juggling. CI-friendly with `nylas auth config --api-key`.
+- JSON output for scripting, MCP server built-in (`nylas mcp install`), HTTPS-based send that works through firewalls that block SMTP.
+
+### Links
+- [Docs](https://cli.nylas.com)
+- [GitHub](https://github.com/nylas/cli)
+- [Command reference](https://cli.nylas.com/docs/commands)
+- [MCP setup guide](https://cli.nylas.com/guides/give-ai-agent-email-address)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
