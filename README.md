@@ -2961,6 +2961,24 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [OpenRegistry](https://github.com/sophymarine/openregistry)
+
+### Category
+
+Agent skill / tool — company registry data
+
+### Description
+
+An MCP server that connects AI agents directly to 27 national company registries (UK Companies House, Norway Brønnøysund, France INSEE, Germany Handelsregister, Spain BORME, Korea OpenDART, Canada CBCA, and more) in real time. Covers KYC / KYB due diligence, cross-border UBO chain walking, director + officer search, corporate filing monitoring, XBRL financial statements, and shell-company detection. Returns the registry's own response verbatim — every field traceable to the official government source. Works with LangChain, LlamaIndex, CrewAI, Haystack, AutoGen, Vercel AI SDK, and every MCP-compatible client. Free tier (20 req/min, no API key).
+
+### Links
+
+- [Website](https://openregistry.sophymarine.com)
+- [Docs](https://openregistry.sophymarine.com/docs/)
+- [GitHub](https://github.com/sophymarine/openregistry)
+- [Glama](https://glama.ai/mcp/connectors/io.github.sophymarine/openregistry) (Grade A)
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.sophymarine%2Fopenregistry)
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
