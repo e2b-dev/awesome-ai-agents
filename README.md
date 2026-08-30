@@ -5589,3 +5589,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## Directories
+
+- [OpenRuna agents hub](https://www.openruna.com/hubs/ai-agents) — Searchable graph of AI agents, tools, prompts, and workflows.
