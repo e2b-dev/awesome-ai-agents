@@ -2408,6 +2408,25 @@ Coding
 
 </details>
 
+## [Reinsman](https://github.com/201924611/reinsman)
+Self-hosted agent harness — POST one goal and a resident orchestrator carries it out autonomously
+
+<details>
+
+### Category
+Multi-agent, Build-your-own
+
+### Description
+- One HTTP goal in: a 24/7 central orchestrator (Claude) plans, spawns disposable role sub-agents, and iterates a make-observe-score-retry verify loop until its own evaluator signs off
+- Benchmarks itself on a fixed goal suite and commits scores + replayable trace ids to a public ledger, regressions included
+- Persists what it learns into a local Obsidian-compatible knowledge graph; per-task tracing + LLM-judge evals; routine scheduler; built-in chat UI and Telegram bridge
+- Its own launch was executed by the tool as one goal, with a verifiable, one-command-reproducible provenance trail
+
+### Links
+- Author: [jinsu](https://github.com/201924611)
+- [GitHub](https://github.com/201924611/reinsman)
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
