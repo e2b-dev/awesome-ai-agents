@@ -1187,6 +1187,21 @@ Build-your-own, General purpose
 
 </details>
 
+## [DeepSeek Harness (dsh)](https://github.com/deepseek-ai/deepseek-harness)
+DeepSeek official open-source agent runtime — everything-is-a-plugin
+
+<details>
+
+### Category
+Framework, Coding, Multi-agent, Open source
+
+### Description
+- DeepSeek's official agent runtime (2026-08-13, MIT): an "everything is a plugin" framework on Cordis with web + headless profiles and a growing plugin ecosystem.
+- Community handbook (bilingual 中文/EN, 10 chapters + PDF + benchmark): https://github.com/Electricitysheep/dsh-handbook
+- Community plugins: dsh-tool-turbo (tool-call latency optimizer), DSH-better-sidebar (file/terminal/git sidebar)
+
+</details>
+
 ## [DevGPT](https://github.com/jina-ai/dev-gpt)
 Team of virtual developers
 
