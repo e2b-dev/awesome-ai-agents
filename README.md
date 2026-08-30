@@ -811,6 +811,29 @@ Coding
 - [Github Repository](https://github.com/krohling/bondai)
 - [Docker Image](https://hub.docker.com/r/krohling/bondai)
 
+## [BotVa](https://github.com/cohe4ko/BotVa)
+Self-hosted multi-bot Telegram platform powered by Claude AI
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Self-hosted AI assistant platform for Telegram built on Claude (Anthropic)
+- MCP (Model Context Protocol) integration with 5+ servers
+- Multi-bot architecture with team coordination between bots
+- Persistent semantic memory across sessions
+- 62 built-in tools (web search, image generation, smart home, CRM, calendar)
+- Admin panel with knowledge base, task management, and cron jobs
+- Written in strict TypeScript, MIT licensed
+
+### Links
+- [GitHub](https://github.com/cohe4ko/BotVa)
+
+</details>
+
+
 </details>
 
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
