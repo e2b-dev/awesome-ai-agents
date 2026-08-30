@@ -2408,6 +2408,25 @@ Coding
 
 </details>
 
+## [R-Mem](https://github.com/Adaimade/R-Mem)
+Lightweight Rust reimplementation of mem0's memory architecture
+
+<details>
+
+### Category
+Infrastructure, Memory, Build your own
+
+### Description
+
+- **SQLite-backed**: Vector + graph memory storage in a single SQLite database
+- **Lightweight**: Single binary, ~1,748 lines of Rust code
+- **Memory for AI agents**: Reimplements mem0's memory architecture for long-term agent memory
+- **Fast and efficient**: Built in Rust for high performance with minimal resource usage
+
+### Links
+- [GitHub](https://github.com/Adaimade/R-Mem)
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
