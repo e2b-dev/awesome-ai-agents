@@ -1886,6 +1886,26 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
+## [LoopFlow](https://github.com/tickets-forge-dev/loop-lang)
+Natural-language DSL for self-correcting AI coding loops
+
+<details>
+
+### Category
+Coding, Build your own, Autonomous
+
+### Description
+- An open, natural-language DSL for self-correcting AI coding loops: you describe what an AI coding agent should build and how to verify it in plain English.
+- The agent loops plan → act → observe → reflect until the verification check passes.
+- Runs inside Claude Code, Cursor, and GitHub Copilot; ships as the @loop-lang/loop npm package plus a VS Code extension.
+- Apache-2.0 licensed.
+
+### Links
+- [Website](https://loopflow.live)
+- [GitHub](https://github.com/tickets-forge-dev/loop-lang)
+
+</details>
+
 ## [L2MAC](https://github.com/samholt/l2mac)
 Agent framework able to produce large complex codebases and entire books
 
