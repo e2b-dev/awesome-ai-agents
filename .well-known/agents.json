@@ -1,0 +1,2099 @@
+{
+  "schema": "agentlookup-v1",
+  "registry": "https://agentlookup.dev",
+  "agents": [
+    {
+      "name": "Adala",
+      "endpoint": "https://github.com/HumanSignal/Adala",
+      "description": "Adala: Autonomous Data (Labeling) Agent framework",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Agent4Rec",
+      "endpoint": "https://github.com/LehengTHU/Agent4Rec",
+      "description": "Recommender system simulator with 1,000 agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentForge",
+      "endpoint": "https://github.com/DataBassGit/AgentForge",
+      "description": "LLM-agnostic platform for agent building & testing",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentGPT",
+      "endpoint": "https://agentgpt.reworkd.ai/",
+      "description": "Browser-based no-code version of AutoGPT",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentPilot",
+      "endpoint": "https://github.com/jbexta/AgentPilot",
+      "description": "Build, manage, and chat with agents in desktop app",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Agents",
+      "endpoint": "https://github.com/aiwaves-cn/agents",
+      "description": "Library/framework for building language agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentVerse",
+      "endpoint": "https://github.com/OpenBMB/AgentVerse",
+      "description": "Platform for task-solving & simulation agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AI Legion",
+      "endpoint": "https://github.com/eumemic/ai-legion",
+      "description": "Multi-agent TS platform, similar to AutoGPT",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Aider",
+      "endpoint": "https://github.com/paul-gauthier/aider",
+      "description": "Use command line to edit code in your local repo",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AIlice",
+      "endpoint": "https://github.com/myshell-ai/AIlice",
+      "description": "Create agents-calling tree to execute your tasks",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AutoGen",
+      "endpoint": "https://github.com/microsoft/autogen",
+      "description": "Multi-agent framework with diversity of agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AutoGPT",
+      "endpoint": "https://agpt.co/?utm_source=awesome-ai-agents",
+      "description": "Experimental attempt to make GPT4 fully autonomous",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Automata",
+      "endpoint": "https://github.com/emrgnt-cmplxty/automata",
+      "description": "Generate code based on your project context",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AutoPR",
+      "endpoint": "https://github.com/irgolic/AutoPR",
+      "description": "AI-generated pull requests agent that fixes issues",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Autonomous HR Chatbot",
+      "endpoint": "https://github.com/stepanogil/autonomous-hr-chatbot",
+      "description": "Agent that answers HR-related queries using tools",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyAGI",
+      "endpoint": "https://github.com/yoheinakajima/babyagi",
+      "description": "A simple framework for managing tasks using AI",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyBeeAGI",
+      "endpoint": "https://yoheinakajima.com/babybeeagi-task-management-and-functionality-expansion-on-top-of-babyagi/",
+      "description": "Task management & functionality BabyAGI expansion",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyCatAGI",
+      "endpoint": "https://replit.com/@YoheiNakajima/BabyCatAGI",
+      "description": "BabyCatAGI is a mod of BabyBeeAGI",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyDeerAGI",
+      "endpoint": "https://twitter.com/yoheinakajima/status/1666313838868992001",
+      "description": "Mod of BabyAGI with only ~350 lines of code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyElfAGI",
+      "endpoint": "https://twitter.com/yoheinakajima/status/1678443482866933760",
+      "description": "Mod of BabyDeerAGI, with ~895 lines of code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyCommandAGI",
+      "endpoint": "https://github.com/saten-private/BabyCommandAGI",
+      "description": "Test what happens when you combine CLI and LLM",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BabyFoxAGI",
+      "endpoint": "https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi",
+      "description": "Mod of BabyAGI with a new parallel UI panel",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BambooAI",
+      "endpoint": "https://github.com/pgalko/BambooAI",
+      "description": "Data exploration and analysis for non-programmers",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BeeBot",
+      "endpoint": "https://github.com/AutoPackAI/beebot",
+      "description": "Early-stage project for wide range of tasks",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Blinky",
+      "endpoint": "https://github.com/seahyinghang8/blinky",
+      "description": "An open-source AI debugging agent for VSCode",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Bloop",
+      "endpoint": "https://bloop.ai/",
+      "description": "AI code search, works for Rust and Typescript",
+      "capabilities": [
+        "web-search",
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BondAI",
+      "endpoint": "https://bondai.dev/",
+      "description": "Code interpreter with CLI & RESTful/WebSocket API",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest",
+        "websocket"
+      ]
+    },
+    {
+      "name": "bumpgen",
+      "endpoint": "https://github.com/xeol-io/bumpgen",
+      "description": "AI agent that keeps npm dependencies up-to-date",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Cal.ai",
+      "endpoint": "https://cal.ai",
+      "description": "Open-source scheduling assistant built on Cal.com",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CAMEL",
+      "endpoint": "https://github.com/camel-ai/camel",
+      "description": "Architecture for “Mind” Exploration of agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChatArena",
+      "endpoint": "https://www.chatarena.org/",
+      "description": "A chat tool for multi agent interaction",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChatDev",
+      "endpoint": "https://github.com/OpenBMB/ChatDev",
+      "description": "Communicative agents for software development",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChemCrow",
+      "endpoint": "https://github.com/ur-whitelab/chemcrow-public",
+      "description": "LangChain agent for chemistry-related tasks",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Clippy",
+      "endpoint": "https://github.com/ennucore/clippy/",
+      "description": "Agent that can plan, write, debug, and test code",
+      "capabilities": [
+        "code-generation",
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CodeFuse-ChatBot",
+      "endpoint": "https://github.com/codefuse-ai/codefuse-chatbot",
+      "description": "Agent serving entire SW development lifecycle",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Cody by ajhous44",
+      "endpoint": "https://github.com/ajhous44/cody",
+      "description": "Query and navigate your codebase",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Cody by Sourcegraph",
+      "endpoint": "https://docs.sourcegraph.com/cody",
+      "description": "Agent that writes code and answers your questions",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Continue",
+      "endpoint": "https://continue.dev/",
+      "description": "Open-source autopilot for software development",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CrewAI",
+      "endpoint": "https://github.com/joaomdmoura/crewai",
+      "description": "Framework for orchestrating role-playing agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "data-to-paper",
+      "endpoint": "https://github.com/Technion-Kishony-lab/data-to-paper",
+      "description": "AI-driven research from data to human-verifiable research papers",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Databerry",
+      "endpoint": "https://www.databerry.ai/",
+      "description": "(Pivoted to Chaindesk) No-code chatbot building",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DemoGPT",
+      "endpoint": "https://github.com/melih-unsal/DemoGPT",
+      "description": "Generates demo of a new app (of any purpose)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DevGPT",
+      "endpoint": "https://github.com/jina-ai/dev-gpt",
+      "description": "Team of virtual developers",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Devika",
+      "endpoint": "https://github.com/stitionai/devika",
+      "description": "Agentic AI Software Engineer",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Devon",
+      "endpoint": "https://github.com/entropy-research/Devon",
+      "description": "Open-source Devin alternative",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "DevOpsGPT",
+      "endpoint": "https://github.com/kuafuai/DevOpsGPT",
+      "description": "AI-Driven SW Development Automation Solution",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "dotagent",
+      "endpoint": "https://github.com/dot-agent/dotagent",
+      "description": "Deploy agents on cloud, PCs, or mobile devices",
+      "capabilities": [
+        "cloud-infrastructure",
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Eidolon",
+      "endpoint": "https://eidolonai.com/",
+      "description": "Multi Agent SDK with pluggable, modular components",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "English Compiler",
+      "endpoint": "https://github.com/uilicious/english-compiler",
+      "description": "Converting markdown specs into functional code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "evo.ninja",
+      "endpoint": "https://evo.ninja/",
+      "description": "AI agent that adapts its persona to achive tasks",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "FastAgency",
+      "endpoint": "https://fastagency.ai/latest/",
+      "description": "The fastest way to deploy multi-agent workflows",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Flowise",
+      "endpoint": "https://flowiseai.com/",
+      "description": "Low code Agent builder",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Friday",
+      "endpoint": "https://github.com/amirrezasalimi/friday/",
+      "description": "AI developer assistant for Node.js",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GeniA",
+      "endpoint": "https://github.com/genia-dev/GeniA",
+      "description": "Engineering platform engineering AI team member",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Godmode",
+      "endpoint": "https://godmode.space/",
+      "description": "Inspired by AutoGPT and BabyAGI, with nice UI",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Discord",
+      "endpoint": "https://github.com/Kav-K/GPTDiscord",
+      "description": "The ultimate AI agent integration for Discord",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Engineer",
+      "endpoint": "https://gptengineer.app/",
+      "description": "Generates entire codebase based on a prompt",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Migrate",
+      "endpoint": "https://github.com/0xpayne/gpt-migrate",
+      "description": "Migrate codebase between frameworks/languages",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Pilot",
+      "endpoint": "https://github.com/Pythagora-io/gpt-pilot",
+      "description": "Code the entire scalable app from scratch",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Researcher",
+      "endpoint": "https://github.com/assafelovic/gpt-researcher",
+      "description": "Agent that researches entire internet on any topic",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPT Runner",
+      "endpoint": "https://github.com/nicepkg/gpt-runner",
+      "description": "Agent that converses with your files",
+      "capabilities": [
+        "file-management"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GPTSwarm",
+      "endpoint": "https://gptswarm.org/",
+      "description": "Language Agents as Optimizable Graphs",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "IX",
+      "endpoint": "https://github.com/kreneskyp/ix",
+      "description": "Agents building, debugging, and deploying platform",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "JARVIS",
+      "endpoint": "https://github.com/microsoft/JARVIS",
+      "description": "System that connects LLMs with the ML community",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Langroid",
+      "endpoint": "https://github.com/langroid/langroid",
+      "description": "Multi-agent framework for building LLM apps",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Lemon Agent",
+      "endpoint": "https://github.com/felixbrock/lemon-agent",
+      "description": "Plan-Validate-Solve agent for workflow automation",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLM Agents",
+      "endpoint": "https://github.com/mpaepper/llm_agents",
+      "description": "Library for building agents, using tools, planning",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "LLM Stack",
+      "endpoint": "https://llmstack.ai/",
+      "description": "No-code platform to build LLM Agents",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Local GPT",
+      "endpoint": "https://github.com/PromtEngineer/localGPT",
+      "description": "Chat with documents without compromising privacy",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Loop GPT",
+      "endpoint": "https://github.com/farizrahman4u/loopgpt/tree/main",
+      "description": "Re-implementation of AutoGPT as a Python package",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "L2MAC",
+      "endpoint": "https://github.com/samholt/l2mac",
+      "description": "Agent framework able to produce large complex codebases and entire books",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Maige",
+      "endpoint": "https://maige.app",
+      "description": "Natural-language workflows for your GitHub repo.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Magick",
+      "endpoint": "https://www.magickml.com/",
+      "description": "AIDE for creating, deploying, monetizing agents",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MemFree",
+      "endpoint": "https://github.com/memfreeme/memfree",
+      "description": "Open Source Hybrid AI Search Engine",
+      "capabilities": [
+        "web-search"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MemGPT",
+      "endpoint": "https://github.com/cpacker/MemGPT",
+      "description": "Memory management system, providing context to LLM",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Mentat",
+      "endpoint": "https://github.com/biobootloader/mentat",
+      "description": "Assists you with coding task from command line",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MetaGPT",
+      "endpoint": "https://github.com/geekan/MetaGPT",
+      "description": "Agent framework returning Design, Tasks, or Repo",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Mini AGI",
+      "endpoint": "https://github.com/muellerberndt/mini-agi",
+      "description": "General-purpose agent based on GPT-3.5 / GPT-4",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Multiagent Debate",
+      "endpoint": "https://github.com/composable-models/llm_multiagent_debate",
+      "description": "Implementation of a paper on Multiagent Debate",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Multi GPT",
+      "endpoint": "https://github.com/rumpfmax/Multi-GPT",
+      "description": "Experimental multi-agent system",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MutahunterAI",
+      "endpoint": "https://github.com/codeintegrity-ai/mutahunter",
+      "description": "MutahunterAI: Accelerate developer productivity and code security with our open-source AI",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "NLSOM",
+      "endpoint": "https://github.com/mczhuge/NLSOM",
+      "description": "Natural Language-Based Societies of Mind",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "OpenAgents",
+      "endpoint": "https://github.com/xlang-ai/OpenAgents",
+      "description": "Multi-agent general purpose platform",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "OpenAGI",
+      "endpoint": "https://github.com/agiresearch/OpenAGI",
+      "description": "R&D agents platform",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "OpenDevin",
+      "endpoint": "https://github.com/OpenDevin/OpenDevin",
+      "description": "OpenDevin: Code Less, Make More",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Open Interpreter",
+      "endpoint": "https://openinterpreter.com/",
+      "description": "Code interpreter that lets LLMs execute code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Pezzo",
+      "endpoint": "https://www.pezzo.ai/",
+      "description": "Development toolkit for prompt management & more",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Private GPT",
+      "endpoint": "https://www.privategpt.io/",
+      "description": "Tool for private interaction with your documents",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "PromethAI",
+      "endpoint": "https://github.com/topoteretes/PromethAI-Backend",
+      "description": "AI agent that helps with nutrition and other goals",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "React Agent",
+      "endpoint": "https://reactagent.io/",
+      "description": "Open-source React.js Autonomous LLM Agent",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Self-operating computer",
+      "endpoint": "https://www.hyperwriteai.com/self-operating-computer",
+      "description": "Let multimodal models operate a computer",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Smol developer",
+      "endpoint": "https://github.com/smol-ai/developer",
+      "description": "Your own junior AI developer, deployed via E2B UI",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Stackwise",
+      "endpoint": "https://github.com/stackwiseai/stackwise",
+      "description": "VSCode extension that writes nodejs functions",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Superagent",
+      "endpoint": "https://www.superagent.sh/",
+      "description": "Tool that allows creating agents without coding",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SuperAGI",
+      "endpoint": "https://superagi.com/",
+      "description": "Framework to develop and deploy AI agents",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Suspicion Agent",
+      "endpoint": "https://github.com/CR-Gjx/Suspicion-Agent",
+      "description": "Paper on imperfect information games",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "SWE Agent",
+      "endpoint": "https://github.com/princeton-nlp/SWE-agent",
+      "description": "Open-source Devin alternative",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Sweep",
+      "endpoint": "https://sweep.dev/",
+      "description": "Github assistant that fixes issues & writes code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Taxy AI",
+      "endpoint": "https://github.com/TaxyAI/browser-extension",
+      "description": "Taxy AI is a full browser automation",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Teenage AGI",
+      "endpoint": "https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments",
+      "description": "BabyAGI-inspired agent, can recall infinite memory",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "UFO",
+      "endpoint": "https://github.com/microsoft/UFO",
+      "description": "A UI-Focused agent on Windows OS",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Vanna.AI",
+      "endpoint": "https://vanna.ai/",
+      "description": "Python-based AI SQL agent trained on your schema",
+      "capabilities": [
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Voyager",
+      "endpoint": "https://voyager.minedojo.org/",
+      "description": "LLM-powered lifelong learning agent in Minecraft",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Web3 GPT",
+      "endpoint": "https://w3gpt.ai/",
+      "description": "Write & deploy smart contracts to EVM blockchains",
+      "capabilities": [
+        "deployment"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "“Westworld” simulation",
+      "endpoint": "https://theolvs.github.io/westworld/",
+      "description": "A multi-agent environment simulation library",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "WorkGPT",
+      "endpoint": "https://github.com/team-openpm/workgpt",
+      "description": "GPT agent framework for invoking APIs",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Wren",
+      "endpoint": "https://www.getwren.ai/",
+      "description": "Natural Language Interface to Your Databases",
+      "capabilities": [
+        "data-analysis",
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "XAgent",
+      "endpoint": "https://github.com/OpenBMB/XAgent",
+      "description": "Experimental LLM agent that solves various tasks",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "yAgents",
+      "endpoint": "https://github.com/yeagerai/yeagerai-agent",
+      "description": "Capable of designing, coding and debugging tools",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Yourgoal",
+      "endpoint": "https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents",
+      "description": "Swift implementation of BabyAGI",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Ability AI",
+      "endpoint": "https://ability.ai/",
+      "description": "Secure, People-Centric Autonomous AI Agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Adept AI",
+      "endpoint": "https://www.adept.ai/?utm_source=awesome-ai-agents",
+      "description": "ML research and product lab building intelligence",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AGENTS.inc",
+      "endpoint": "https://www.agents.inc/",
+      "description": "Agents for company/regulations, search&monitoring",
+      "capabilities": [
+        "web-search",
+        "monitoring"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AgentScale",
+      "endpoint": "https://agentscale.ai/",
+      "description": "Your assistant, email writer, calendar scheduler",
+      "capabilities": [
+        "email"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Aide by Codestory",
+      "endpoint": "https://codestory.ai/",
+      "description": "AI code interpreter, AI-powered mod of VSCode",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AilaFlow",
+      "endpoint": "https://ailaflow.com",
+      "description": "No-code platform for building AI agents",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Airkit.ai",
+      "endpoint": "https://www.airkit.ai",
+      "description": "Platform for building, testing, deploying Agents",
+      "capabilities": [
+        "deployment",
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Airplane Autopilot",
+      "endpoint": "https://www.airplane.dev/autopilot/?utm_source=awesome-ai-agents/",
+      "description": "Autopilot AI assistant of the Airplane company",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Aomni",
+      "endpoint": "https://www.aomni.com/?utm_source=awesome-ai-agents",
+      "description": "AI agent designed for business intelligence",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "APIDNA",
+      "endpoint": "https://apidna.ai/",
+      "description": "Multiple AI Agents for the integration of APIs.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Artisian AI",
+      "endpoint": "https://github.com/Artisan-AI",
+      "description": "Agents for sales, e-mails, book keeping & more",
+      "capabilities": [
+        "email"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Ask Pandi",
+      "endpoint": "https://askpandi.com/ask",
+      "description": "Answer engine to search and generate knowledge",
+      "capabilities": [
+        "web-search"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AskToSell",
+      "endpoint": "https://asktosell.com/",
+      "description": "Meet autonomous AI sales agents that close deals",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "AskYourDatabase",
+      "endpoint": "https://www.askyourdatabase.com/",
+      "description": "Chat with SQL database, explore and visualize data",
+      "capabilities": [
+        "data-analysis",
+        "database"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Athena Intelligence",
+      "endpoint": "https://www.athenaintelligence.ai/",
+      "description": "24/7 Enterprise AI Data Analyst",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Avanzai",
+      "endpoint": "https://avanz.ai/",
+      "description": "AI agents for portfolio risk and asset allocation",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Bardeen",
+      "endpoint": "https://www.bardeen.ai/",
+      "description": "AI Agent for automating repetitive tasks",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Beam",
+      "endpoint": "https://beam.ai/",
+      "description": "A wide selection of AI agents automating workflows",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Blackbox AI",
+      "endpoint": "https://www.blackbox.ai/",
+      "description": "Software That Builds Software",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Blobr",
+      "endpoint": "https://www.blobr.io/",
+      "description": "AI business assistant connected to all your tools",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "BrainSoup",
+      "endpoint": "https://www.nurgo-software.com/products/brainsoup",
+      "description": "Build an AI team that works for you, on your PC",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "broadn",
+      "endpoint": "https://www.broadn.io/?utm_source=awesome-ai-agents",
+      "description": "No-code copilot that allows users to build AI apps",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Butternut AI",
+      "endpoint": "https://butternut.ai/",
+      "description": "Build fully-functioning, ready-to-launch website",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "B2 AI",
+      "endpoint": "https://www.b2.work/",
+      "description": "Autocomplete AI assistant for work",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ChatHelp",
+      "endpoint": "https://chathelp.ai/",
+      "description": "AI-powered Business, Work, Study Assistant",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Claros AI Shopper",
+      "endpoint": "https://www.claros.so/",
+      "description": "AI shopper that finds products for your taste",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Claygent",
+      "endpoint": "https://www.clay.com/learn/claygent",
+      "description": "Agent that scrapes and summarize data from the web",
+      "capabilities": [
+        "web-scraping",
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Code Autopilot",
+      "endpoint": "https://www.codeautopilot.com/",
+      "description": "AI Assistant for your project",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Codegen",
+      "endpoint": "https://www.codegen.com/",
+      "description": "Solve tickets, write tests, level up your workflow",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "CodeWP",
+      "endpoint": "https://codewp.ai/",
+      "description": "AI Agent for WordPress websites",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Codium AI",
+      "endpoint": "https://www.codium.ai/",
+      "description": "Coding multipurpose AI assistant for developers",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Commit",
+      "endpoint": "https://commit.dev",
+      "description": "Career Copilot and AI Agent for SW Developers",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Cognosys",
+      "endpoint": "https://cognosys.ai",
+      "description": "Web-based version of AutoGPT or BabyAGI",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ContextQA",
+      "endpoint": "https://contextqa.com/",
+      "description": "AI Agents for Software Testing",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "endpoint": "https://www.cursor.so/",
+      "description": "AI-powered Code Editor with VSCode-like UI",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Cykel",
+      "endpoint": "https://www.cykel.ai/",
+      "description": "Interact with any UI, website or API",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Devin",
+      "endpoint": "https://www.cognition-labs.com/introducing-devin",
+      "description": "The first AI software engineer",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Diagram",
+      "endpoint": "https://diagram.com/",
+      "description": "AI design tools for everyone, acquired by Figma",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Docket AI",
+      "endpoint": "https://docketai.net/",
+      "description": "AI Sales Engineer for somplex B2B sales",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Dosu",
+      "endpoint": "https://dosu.dev/",
+      "description": "GitHub repo AI teammate helping also with docs",
+      "capabilities": [
+        "documentation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Dot",
+      "endpoint": "https://www.getdot.ai/",
+      "description": "Virtual assistant that help with data analytics",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Duckie AI",
+      "endpoint": "https://duckie.ai/",
+      "description": "Team of AI SW development companions (Ducklings)",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Ellipsis",
+      "endpoint": "https://ellipsis.dev/?utm_source=awesome-ai-agents",
+      "description": "(Previously BitBuilder) \"Automated code reviews and bug fixes\"",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "encode",
+      "endpoint": "https://encode.software",
+      "description": "Fully autonomous AI SW engineer in early stage",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Factory",
+      "endpoint": "https://www.factory.ai/",
+      "description": "Coding Droids for building software end-to-end",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Fine",
+      "endpoint": "https://www.fine.dev/",
+      "description": "Build Software with AI Agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Fine Tuner",
+      "endpoint": "https://fine-tuner.ai/",
+      "description": "(Pivoted to Synthflow) No-code platform for agents",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Fixie",
+      "endpoint": "https://www.fixie.ai/",
+      "description": "Platform for creating LLM-powered AI apps",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Floode",
+      "endpoint": "https://floodehq.com/",
+      "description": "Executive agent automating communication busywork",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GitHub Copilot X",
+      "endpoint": "https://github.com/features/preview/copilot-x",
+      "description": "AI-powered software developer",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GitLab Duo",
+      "endpoint": "https://about.gitlab.com/gitlab-duo/",
+      "description": "AI for every step of SW development lifecycle",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GitWit",
+      "endpoint": "https://www.gitwit.dev/",
+      "description": "Automate code generation with AI. In beta version",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "GoCharlie",
+      "endpoint": "https://gocharlie.ai/",
+      "description": "Multimodal content creation autonomous agent",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Graphlit",
+      "endpoint": "https://www.graphlit.com/",
+      "description": "API-first data platform for building apps with AI",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Grit",
+      "endpoint": "https://www.grit.io/",
+      "description": "Automating code migrations and dependency upgrades",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Gumloop",
+      "endpoint": "https://www.gumloop.com/",
+      "description": "Automate any workflow",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Heights Platform",
+      "endpoint": "https://www.heightsplatform.com/",
+      "description": "For course creators, community builders & coaches",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Hex Magic",
+      "endpoint": "https://hex.tech/product/magic-ai/",
+      "description": "AI tools for doing amazing things with data",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Heymoon.ai",
+      "endpoint": "https://heymoon.ai/",
+      "description": "Keep you on top of your calendar, tasks and info",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "iMean.AI",
+      "endpoint": "https://www.imean.ai/",
+      "description": "AI personal assistant that automates browser task",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Input",
+      "endpoint": "https://useinput.com/",
+      "description": "AI-powered teammate that can collaborate on code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Instrukt",
+      "endpoint": "https://github.com/blob42/Instrukt",
+      "description": "Terminal env for interacting with with AI agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Invicta",
+      "endpoint": "https://invictai.io/",
+      "description": "Build your first team of Autonomous AI Agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Julius",
+      "endpoint": "https://julius.ai/",
+      "description": "AI data processing, analysis, and visualization",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Kadoa",
+      "endpoint": "https://www.kadoa.com/",
+      "description": "Web Scraping on Autopilot with AI",
+      "capabilities": [
+        "web-scraping"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Juno",
+      "endpoint": "https://heyjuno.co/",
+      "description": "AI-led user interviews for rich human insights",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Kompas AI",
+      "endpoint": "https://kompas.ai/",
+      "description": "Pick your LLM & build custom conversational agent",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Kusho",
+      "endpoint": "https://kusho.ai/",
+      "description": "AI agent for API testing",
+      "capabilities": [
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Kwal",
+      "endpoint": "https://www.kwal.ai/",
+      "description": "Voice Agents for Recruiting",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Lindy",
+      "endpoint": "https://www.lindy.ai/",
+      "description": "AI assistant that can help with daily tasks",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Lutra AI",
+      "endpoint": "https://lutra.ai/",
+      "description": "Platform for creating AI workflows and apps",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Magic Loops",
+      "endpoint": "https://magicloops.dev/",
+      "description": "Personal automations made easy",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Makedraft",
+      "endpoint": "https://makedraft.com/",
+      "description": "Generate + edit HTML components with text prompts",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Manaflow",
+      "endpoint": "https://manaflow.ai/",
+      "description": "Automate technical business workflows",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Minion AI",
+      "endpoint": "https://minion.ai/",
+      "description": "By creator of GitHub Copilot, in waitlist stage",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "MultiOn",
+      "endpoint": "https://multion.ai/",
+      "description": "Book a flight or order a burger with MultiOn",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Mutable AI",
+      "endpoint": "https://mutable.ai/",
+      "description": "AI-Accelerated Software Development",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Naut",
+      "endpoint": "https://www.naut.ai/",
+      "description": "Build your own agents. In early stage",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "NexusGPT",
+      "endpoint": "https://gpt.nexus/",
+      "description": "Build AI agents in minutes, without coding",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Otherside's AI Assistant - Hyperwrite",
+      "endpoint": "https://www.hyperwriteai.com/",
+      "description": "Chrome extension - general purpose AI agent",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Phind",
+      "endpoint": "https://www.phind.com/",
+      "description": "Personal programming and research AI assistant",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Powerdrill AI",
+      "endpoint": "https://powerdrill.ai/",
+      "description": "AI agent that completes your data job 10x faster",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Proficient AI",
+      "endpoint": "https://proficientai.com",
+      "description": "Interaction APIs and SDKs for building AI agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Promptly",
+      "endpoint": "https://www.trypromptly.com/",
+      "description": "Generative AI for Your Enterprise",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Q, ChatGPT for Slack",
+      "endpoint": "https://q-bot.suchica.com/",
+      "description": "AI workforce on Slack for under-resourced SMEs",
+      "capabilities": [
+        "slack-integration"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Questflow",
+      "endpoint": "https://questflow.ai",
+      "description": "Marketplace for autonomous AI workers with no-code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Rebyte",
+      "endpoint": "https://rebyte.ai/",
+      "description": "A Multi ai agents builder platform",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Relevance AI",
+      "endpoint": "https://relevanceai.com/",
+      "description": "Build your AI Workforce",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Saga",
+      "endpoint": "https://saga.so/ai",
+      "description": "Digital AI assistant for notes, tasks, and tools",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Second",
+      "endpoint": "https://www.second.dev/",
+      "description": "Automated migrations and upgrades for your code",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Sentius",
+      "endpoint": "https://www.sentius.ai/",
+      "description": "AI Agent operates browser to do your tasks for you",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ShopPal",
+      "endpoint": "https://shoppal.ai",
+      "description": "AI assistant, enhance shopping experience.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Spell",
+      "endpoint": "https://spell.so/",
+      "description": "AutoGPT agents with plugins",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Superluminal",
+      "endpoint": "https://superluminal.dev",
+      "description": "AI copilot to your product's data dashboard",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "TalktoData",
+      "endpoint": "https://talktodata.ai/",
+      "description": "Data discovery, cleaing, analysis & visualization",
+      "capabilities": [
+        "data-analysis"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Taskade",
+      "endpoint": "https://www.taskade.com/",
+      "description": "Create, train, and run custom AI agents",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "ThinkChain AI",
+      "endpoint": "https://www.thinkchain.ai/",
+      "description": "Financial AI agent platform",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Test Driver",
+      "endpoint": "https://testdriver.ai/",
+      "description": "AI Agent for QA in GitHub",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Tusk",
+      "endpoint": "https://usetusk.ai/",
+      "description": "AI engineer that pushes and tests code",
+      "capabilities": [
+        "code-generation",
+        "test-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Vortic",
+      "endpoint": "https://www.vortic.ai/",
+      "description": "AI agent helping Insurance Sales and Claims",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "v0 by Vercel",
+      "endpoint": "https://v0.dev/",
+      "description": "Get React code based on Shadcn UI & Tailwind CSS",
+      "capabilities": [
+        "code-generation"
+      ],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Wispy",
+      "endpoint": "https://wispy.technicalmagic.ai/",
+      "description": "Summarize content, compose content, create quizzes",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Wordware",
+      "endpoint": "https://www.wordware.ai/",
+      "description": "Build better language model apps, fast.",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "WorkBot",
+      "endpoint": "https://workhub.ai/",
+      "description": "The Only AI Platform you will ever need!",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    },
+    {
+      "name": "Zapier Central",
+      "endpoint": "https://zapier.com/central",
+      "description": "Work hand in hand with AI bots",
+      "capabilities": [],
+      "protocols": [
+        "http-rest"
+      ]
+    }
+  ]
+}
