@@ -1289,6 +1289,24 @@ Build-your-own
 
 </details>
 
+## [Dorothy](https://github.com/Charlie85270/Dorothy)
+Open-source desktop app to orchestrate multiple AI CLI agents simultaneously
+
+<details>
+
+### Category
+Multi-agent, coding, general purpose
+
+### Description
+- Dorothy is an open-source Electron desktop application that lets you orchestrate multiple AI CLI agents (Claude Code, Codex CLI, Gemini CLI) simultaneously from a single interface.
+- Features include automations, Kanban task management, remote control via Telegram, a skills marketplace, and 5 built-in MCP servers.
+- Supports running parallel agents across different projects with real-time terminal output, agent monitoring, and centralized memory management.
+
+### Links
+- [GitHub](https://github.com/Charlie85270/Dorothy)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
