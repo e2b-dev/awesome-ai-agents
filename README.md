@@ -5093,6 +5093,23 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [Remio](https://remio.ai/)
+Local-first AI memory and knowledge base app for users and agents
+
+<details>
+
+### Category
+Productivity, Personal assistant, Research, Knowledge base
+
+### Description
+- Remio is a desktop app that builds a local-first index over personal knowledge sources including notes, files, webpages, recordings, emails, messages, and images.
+- It pre-parses and vector-indexes knowledge so users and agents can retrieve relevant context semantically instead of repeatedly scanning raw files or loading whole documents into prompts.
+- Agent workflows can use Remio as a memory and retrieval layer through local app access, helping reduce token usage and context-building overhead.
+
+### Links
+- [Website](https://remio.ai/)
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
