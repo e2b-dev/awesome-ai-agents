@@ -5544,6 +5544,21 @@ See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchai
 
 </details>
 
+
+## [7-24-IDE](https://github.com/strmax195-hue/7-24-IDE)
+
+### Category
+- Coding Agent
+
+### Description
+- Desktop AI coding agent
+- Reads workspace files and writes code
+- Runs terminal commands autonomously
+- Shows live results directly to the user
+
+### Links
+- [GitHub](https://github.com/strmax195-hue/7-24-IDE)
+
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
