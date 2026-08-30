@@ -2825,6 +2825,25 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
 
+## [Wolfpack](https://github.com/almogdepaz/wolfpack)
+Mobile & desktop command center for AI coding agents
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Mobile and desktop command center for controlling AI coding agents (Claude, Codex, Gemini) across machines from your phone or desktop
+- Control tmux sessions, view terminal output, and manage multiple agent sessions from a unified UI
+- Secured by Tailscale — no open ports, no auth headaches
+- Fully self-hosted — your agents, your infrastructure
+
+### Links
+- [GitHub](https://github.com/almogdepaz/wolfpack)
+
+</details>
+
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
@@ -2876,6 +2895,28 @@ There are four key principles that we followed when developing WrenAI:
 - [X (Twitter)](https://x.com/getwrenai)
 - [Docs](https://docs.getwren.ai/overview/introduction)
 - [Blog](https://blog.getwren.ai/)
+
+</details>
+
+## [Wolfpack](https://github.com/almogdepaz/wolfpack)
+Mobile & desktop command center for AI coding agents
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Mobile & desktop PWA command center for controlling AI coding agents (Claude, Codex, Gemini, or custom) via tmux sessions
+- Access and control agent sessions across multiple machines from your phone or browser
+- Secured by Tailscale — zero-config encrypted access, no ports to open
+- Full terminal emulator (xterm.js) on desktop with multi-terminal grid view
+- Multi-machine support: one phone connects to multiple Wolfpack servers
+- Includes Ralph — an autonomous task runner that works through markdown plan files step by step
+- Single binary install: `bunx wolfpack-bridge` or shell script
+
+### Links
+- [GitHub](https://github.com/almogdepaz/wolfpack)
 
 </details>
 
