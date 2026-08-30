@@ -2196,6 +2196,31 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Orallexa](https://github.com/alex-jb/orallexa-ai-trading-agent)
+
+AI trading operating system with 9 ML models and Claude AI synthesis.
+
+<details><summary>Details</summary>
+
+### Category
+Finance, Trading, Multi-agent
+
+### Description
+- 9 ML models (RF, XGBoost, EMAformer, MOIRAI-2, Chronos-2, DDPM Diffusion, PPO RL, GNN, LR) scored and ranked by Sharpe ratio
+- Claude AI synthesis layer with dual-tier routing (Haiku + Sonnet), ~$0.003 per analysis
+- Real-time Next.js 16 dashboard with Art Deco theme and WebSocket streaming
+- Alpaca paper trading with automated bracket orders
+- Daily intelligence pipeline scanning 50+ tickers
+- Desktop AI coach with voice input (Whisper) and TTS
+- 277 automated tests, Docker deploy, EN/ZH bilingual
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/alex-jb/orallexa-ai-trading-agent)
+- [Live Demo](https://orallexa-ui.vercel.app)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
