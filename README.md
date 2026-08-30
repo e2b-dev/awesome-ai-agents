@@ -2272,6 +2272,28 @@ Coding, general purpose
 
 </details>
 
+## [OpenFinClaw](https://github.com/cryptoSUN2049/openFinclaw)
+Open-source AI-native hedge fund platform
+
+<details>
+
+### Category
+Finance, Multi-agent, Build-your-own
+
+### Description
+OpenFinClaw is an open-source autonomous financial agent platform. One prompt creates an entire fund — agent teams research markets, generate strategies, backtest, execute trades, and manage risk 24/7.
+
+- Autonomous financial agent teams (research, strategy, execution, risk management)
+- Natural language → quant strategy → backtest → live execution
+- Self-evolving strategy pipeline with alpha discovery
+- Multi-market support: US equity, HK, A-shares, Crypto
+- Built on [OpenClaw](https://github.com/openclaw/openclaw) (68K+ stars)
+
+### Links
+- [GitHub](https://github.com/cryptoSUN2049/openFinclaw)
+- [Demo](https://cloud.openfinclaw.ai)
+
+</details>
 
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
