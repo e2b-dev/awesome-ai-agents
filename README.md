@@ -2408,6 +2408,29 @@ Coding
 
 </details>
 
+## [Riverse](https://github.com/wangjiake/JKRiver)
+A personal AI agent with persistent memory powered by the River Algorithm
+
+<details>
+
+### Category
+Personal assistant, Memory management, General purpose
+
+### Description
+- Conversations flow like water — key information settles like riverbed sediment, progressively upgrading from "suspected" to "confirmed" through multi-turn verification
+- Features offline cognition (Sleep pipeline) that processes and consolidates memories between conversations
+- Contradiction detection identifies and resolves conflicting information across conversation history
+- Multi-channel support including Telegram, Discord, CLI, and REST API
+- All data stays local — no external services required for memory storage
+- Built with the River Algorithm for progressive memory consolidation
+- Written in Python, licensed under AGPL-3.0
+
+### Links
+- [GitHub](https://github.com/wangjiake/JKRiver)
+- [Documentation](https://wangjiake.github.io/riverse-docs/)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
