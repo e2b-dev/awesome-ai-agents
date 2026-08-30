@@ -1496,6 +1496,22 @@ Content creation, Productivity, General purpose, Discord
   
 </details>
 
+## [GPT-Agent](https://github.com/iris-networks/gpt-agent)
+An opensource alternative to chatgpt-agents, fully opensource and containerized
+
+<details>
+
+### Category
+Development, Code generation, General purpose
+
+### Description
+GPT-Agent is an opensource alternative to chatgpt-agents, fully opensource and containerized. It provides a self-hosted solution for AI-powered development assistance and agent capabilities.
+
+### Links
+- [GitHub](https://github.com/iris-networks/gpt-agent)
+
+</details>
+
 ## [GPT Engineer](https://gptengineer.app/)
 Generates entire codebase based on a prompt
 
