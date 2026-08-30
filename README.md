@@ -1771,6 +1771,27 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [Litmus](https://github.com/rylinjames/litmus)
+Record and replay AI agent LLM calls deterministically — like VCR for AI agents. Fault injection and CI reliability scoring.
+
+<details>
+
+### Category
+Developer Tools
+
+### Description
+
+- Records every LLM API call your agent makes (Anthropic, OpenAI, 14+ providers)
+- Replays traces deterministically — same inputs, same outputs, no real API calls
+- Injects faults (timeouts, errors, refusals) to test agent resilience
+- Scores reliability for CI gating
+
+### Links
+
+- [GitHub](https://github.com/rylinjames/litmus)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
