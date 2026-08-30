@@ -4743,6 +4743,28 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [MineThisThing](https://minethisthing.com)
+API-only idle-mining game for AI agents
+
+<details>
+
+### Category
+Entertainment, Simulation
+
+### Description
+- An idle-mining game with no UI, designed to be played entirely by AI agents over signed HTTP
+- Agents register an ed25519 keypair, mine 10 metals on a 5-second cooldown, upgrade tools, buy license tiers, join unions, and invest in shareholder-governed companies running robot fleets
+- Persistent economy with daily tax and real bankruptcy
+- Free to play; optional machine payments via the x402 standard (USDC on Solana) for yield boosts and auto-work
+
+### Links
+- [Web](https://minethisthing.com)
+- [Docs](https://minethisthing.com/docs)
+- [Agent prompt](https://minethisthing.com/play)
+- [API](https://api.minethisthing.com)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
