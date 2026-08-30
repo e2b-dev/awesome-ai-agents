@@ -447,6 +447,29 @@ Coding, GitHub
 
 </details>
 
+## [autoagent](https://github.com/laazizi/autoagent)
+Zero-dependency LLM agent runtime where the guardrails are code: bounded workspace, Docker sandbox for agent-written tools, human approval gates
+
+<details>
+
+### Category
+Build your own, General purpose
+
+### Description
+
+- **Readable core**: the whole agent loop is plain Python you can audit in an hour; zero dependencies (stdlib + jsonschema), no provider SDKs
+- **Bounding is code**: bounded workspace (path-traversal and extension allowlists enforced by code), Docker/AST sandbox for tools the agent writes itself, promotion to native only through a human-approved hash manifest
+- **Execution policies with approval gates**: allow / deny / pause-for-human on every tool call, checked before any side effect, fail-closed
+- **Durable runs**: JSON `RunState` checkpoint after every step; `resume()` after a crash or past a raised step/token budget
+- **MCP client** (stdio, zero-dep) and **OpenTelemetry export** built in
+- **Multi-provider**: OpenAI, Anthropic, DeepSeek, Gemini over raw wire; per-request routing (text to a cheap model, images to a vision model)
+
+### Links
+- [GitHub](https://github.com/laazizi/autoagent)
+- [PyPI](https://pypi.org/project/autoagent-core/)
+- [Documentation](https://github.com/laazizi/autoagent/blob/main/autoagent-dev-doc.md)
+</details>
+
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
 Agent that answers HR-related queries using tools
 
