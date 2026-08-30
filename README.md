@@ -3825,6 +3825,26 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [Dassi](https://dassi.ai)
+AI browser agent that automates work in Chrome
+
+<details>
+
+### Category
+Automation, Browser agent, Productivity
+
+### Description
+- AI browser agent Chrome extension that clicks, fills forms, and navigates pages on your behalf
+- Bring your own key (BYOK) — works with Claude, GPT, and Gemini
+- 14-day free trial, subscription pricing
+
+### Links
+- [Web](https://dassi.ai)
+- [Docs](https://docs.dassi.ai)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/dassi-ai-browser-agent/bjcngahpcjeililljmfegmlanlpgibdi)
+
+</details>
+
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
