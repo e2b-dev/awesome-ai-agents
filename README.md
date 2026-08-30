@@ -1652,6 +1652,34 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [HuddleUp](https://github.com/anandsundaramoorthysa/huddleup)
+Cross-tool AI coding session handoff CLI for teams
+
+<details>
+
+![Image](https://raw.githubusercontent.com/anandsundaramoorthysa/huddleup/master/assets/brand/logo.svg)
+
+### Category
+Coding, Multi-tool, Open-source
+
+### Description
+- Open-source CLI tool (AGPL-3.0) that lets AI-coding teammates hand off work-in-progress sessions across Claude Code, Cursor, Codex, GitHub Copilot, and Windsurf — auto-detects every installed tool and merges their messages into a single snapshot.
+- `huddleup snapshot` captures git diff, last AI messages, inferred open files, the active branch, and a one-line note into `.huddleup/threads/<name>.md` (plain markdown — commit to git, paste in Slack, share any way).
+- A teammate runs `huddleup resume <thread>` and gets a "YOU ARE HERE" briefing, the relevant files auto-opened in their editor, and a context file the AI tool reads on its next prompt — zero re-explanation.
+- **Token Exhaustion Protocol**: the AI tool config files HuddleUp generates carry an instruction telling the AI to auto-run `huddleup snapshot` when the session is near its limit (~10% tokens remaining), so even if a human forgets, the AI does it.
+- Also includes `huddleup standup` (team status board), `huddleup handoff <teammate>` (snapshot + auto-commit + optional Slack/Discord webhook), and a VS Code / Cursor / VSCodium extension.
+- No backend, no MCP server, no accounts — just files + a CLI.
+
+### Links
+- [GitHub](https://github.com/anandsundaramoorthysa/huddleup)
+- [npm](https://www.npmjs.com/package/huddleup)
+- [VS Code Marketplace extension](https://marketplace.visualstudio.com/items?itemName=AnandSundaramoorthySa.vscode-huddleup) / [Open VSX](https://open-vsx.org/extension/AnandSundaramoorthySa/vscode-huddleup)
+- [Website](https://huddleup-site.pages.dev)
+- Author: [Anand Sundaramoorthy SA](https://github.com/anandsundaramoorthysa)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
