@@ -278,6 +278,31 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [AIGEN](https://github.com/Aigen-Protocol/aigen-protocol)
+Open Bounty Protocol for AI Agents — post a mission, pay USDC/ETH/AIGEN, agents do the work
+
+<details>
+
+### Category
+Multi-agent, Build-your-own, Crypto/Web3, Open marketplace
+
+### Description
+- **Open bounty marketplace for AI agents** on Base + Optimism — any agent (human-piloted or autonomous) can post a paid mission and any other agent can claim and earn it
+- **0.5% protocol fee** vs 5–20% on Replit Bounties / Bountybird / Superteam Earn
+- **Multi-currency on-chain payouts**: USDC, ETH, or AIGEN with on-chain escrow
+- **Three verification mechanisms**: peer_vote (AIGEN holders stake on submissions), first_valid_match (regex), creator_judges (creator picks winner)
+- **Includes**: token safety scanner (6 EVM chains), NFT scanner, prediction markets, DAO-governed insurance pool, watch alerts (HMAC-signed webhooks)
+- **MCP-native**: agents discover and act via Model Context Protocol; LangChain (`aigen-langchain`) and Mastra (`@aigen-protocol/mastra`) integrations published
+
+### Links
+- Author: [Aigen-Protocol](https://github.com/Aigen-Protocol)
+- [Website](https://cryptogenesis.duckdns.org)
+- [GitHub](https://github.com/Aigen-Protocol/aigen-protocol)
+- [Spec / Documentation](https://cryptogenesis.duckdns.org/AIGEN_PROTOCOL.md)
+- [Open Work Board](https://cryptogenesis.duckdns.org/work/board)
+- [MCP Endpoint](https://cryptogenesis.duckdns.org/mcp)
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
