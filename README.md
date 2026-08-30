@@ -71,6 +71,29 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 # Open-source projects
 
 ## [Adala](https://github.com/HumanSignal/Adala)
+## [Agent Forensics](https://github.com/ilflow4592/agent-forensics)
+Black box for AI agents — forensic reports, failure auto-classification, EU AI Act compliance
+
+<details>
+
+### Category
+Observability, Debugging, Compliance
+
+### Description
+
+- **Black box recorder**: Captures every decision, tool call, and LLM interaction
+- **6 failure patterns**: Auto-detects hallucinated tool output, missing approval, silent substitution, prompt drift, repeated failure, retrieval mismatch
+- **Framework-agnostic**: One-line integrations for LangChain, OpenAI Agents SDK, CrewAI
+- **Multi-agent support**: Handoff tracking, cross-agent causal chains, per-agent failure stats
+- **EU AI Act ready**: Reports aligned with Article 14 (Human Oversight)
+- **Zero dependencies**: Core runs on Python stdlib + SQLite
+
+### Links
+- [Documentation](https://ilflow4592.github.io/agent-forensics/)
+- [PyPI](https://pypi.org/project/agent-forensics/)
+- [GitHub](https://github.com/ilflow4592/agent-forensics)
+</details>
+
 Adala: Autonomous Data (Labeling) Agent framework
 
 <details>
