@@ -2296,6 +2296,27 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Orchestra](https://github.com/vyn-store/orchestra-agents)
+Multi-agent orchestrator on the Claude API: one conductor plans, sub-agents execute in parallel, adversarial critics attack the work, the conductor synthesizes one deliverable
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+
+- **Conductor / worker architecture**: a conductor agent turns a goal into a structured plan (schema-enforced via the API's structured outputs), then casts specialist sub-agents (scout, analyst, writer) that run concurrently.
+- **Adversarial critics**: every result is attacked by an independent critic prompted to assume the work is wrong until proven right. Low-scoring work is dropped before synthesis.
+- **Runs on a Claude subscription**: a second engine executes each sub-agent as a headless Claude Code session, so it costs zero API credits.
+- **Visible cost meter**: real token counts and per-run spend printed live, with a full transcript saved for every run.
+- **Small and hackable**: the whole system is three files of plain JavaScript. Agent roles live in one file, so you can add your own.
+
+### Links
+- [GitHub](https://github.com/vyn-store/orchestra-agents)
+- [npm](https://www.npmjs.com/package/orchestra-agents)
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
