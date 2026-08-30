@@ -4891,6 +4891,26 @@ Productivity, General purpose
 
 </details>
 
+## [Parci](https://parci.eu/)
+Real-estate intelligence agent for the Portuguese property market
+
+<details>
+
+![image](https://www.digiton.ai/logo.png)
+
+### Category
+Real estate, research
+
+### Description
+- Parci analyzes any Portuguese property and returns a full feasibility and market report in about 47 seconds, covering 308 municipalities
+- Built by Digiton Dynamics, a Lisbon AI agency
+
+### Links
+- [Web](https://parci.eu/)
+- [Maker](https://www.digiton.ai/)
+
+</details>
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
