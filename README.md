@@ -2788,6 +2788,26 @@ Blockchain, Coding, Generating apps, Smart contract
 
 </details>
 
+## [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa)
+WeChat automation framework using multimodal AI vision instead of protocol reverse engineering
+
+<details>
+
+### Category
+General purpose, Desktop automation, Multi-agent
+
+### Description
+- **No protocol hacking**: Uses multimodal AI to visually perceive the WeChat interface instead of reverse-engineering protocols
+- **Memory system**: Vector-indexed chat history for context-aware responses
+- **Digital twin**: Learns and mimics the user's chatting style
+- **Skill system**: Extensible plugins for smart home control (Tuya), 3D printer management
+- **Multi-agent support**: Compatible with OpenClaw, Hermes, and other agent frameworks
+- **macOS native**: Built with AppleScript and Accessibility API
+
+### Links
+- [GitHub](https://github.com/wq19901103wq/wechat-mac-rpa)
+</details>
+
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent environment simulation library
 <details>
