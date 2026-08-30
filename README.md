@@ -2427,6 +2427,32 @@ Productivity, Research
 
 </details>
 
+
+## [SkillClaw](https://github.com/AMAP-ML/SkillClaw/?utm_source=awesome-ai-agents)
+Collective skill evolution for OpenClaw-style multi-user agent ecosystems
+
+<details>
+
+![image](https://raw.githubusercontent.com/AMAP-ML/SkillClaw/main/assets/skillclaw_logo.png)
+
+### Category
+General purpose, Build-your-own
+
+### Description
+SkillClaw is a Python framework that lets groups of OpenClaw-style agents **evolve and share reusable skills** from real session data with minimal change to how users already interact with their assistant.
+- **Client proxy** — Intercepts OpenAI-compatible endpoints (`/v1/chat/completions`, `/v1/messages`), records session artifacts, and syncs skills with shared storage.
+- **Evolve servers** — Fixed three-stage LLM workflow (Summarize → Aggregate → Execute) or an **agent-driven** path using OpenClaw to analyze sessions and write evolved skill files with tool access.
+- **Shared storage** — Alibaba OSS, S3, or local filesystem; common **SKILL.md** format so components stay interchangeable.
+- **Ecosystem** — Documented integration with PicoClaw, IronClaw, ZeroClaw, NanoClaw, NemoClaw, and related Claw-family stacks.
+- Includes experiment tooling around **WildClawBench** for evaluating iterative skill evolution.
+
+### Links
+- [GitHub Repository](https://github.com/AMAP-ML/SkillClaw/?utm_source=awesome-ai-agents)
+- [Paper (arXiv)](https://arxiv.org/abs/2604.08377/?utm_source=awesome-ai-agents)
+- [License: MIT](https://github.com/AMAP-ML/SkillClaw/blob/main/LICENSE/?utm_source=awesome-ai-agents)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
@@ -2960,6 +2986,8 @@ General purpose
 ### Links
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
+
+
 
 # Closed-source projects and companies
 
