@@ -2296,6 +2296,25 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Orla](https://orlaserver.github.io/)
+An open-source high-performance execution engine for agentic workflows
+
+<details>
+
+![Image](https://github.com/harvard-cns/orla/raw/main/share/orla_banner_no_caption.png)
+
+### Category
+General-purpose
+
+### Description
+Orla is a library for building and running LLM-based agentic systems. Modern agentic applications are workflows that combine multiple LLM calls, tool invocations, and heterogeneous infrastructure. Today, developers often stitch these pieces together manually using orchestration code, LLM serving engines, and tool execution logic. Orla simplifies this process by separating workflow-level decisions from request execution. Developers define workflows as stages, while Orla handles how those stages are mapped to models and backends, scheduled and executed, and coordinated through shared inference state. The system exposes three core components: a Stage Mapper for heterogeneous model routing, a Workflow Orchestrator for executing and scheduling stages, and a Memory Manager that manages KV cache across workflow stages. Orla is generously supported by a Slingshot grant from the [Laude Institute](http://laude.org/).
+
+### Links
+- [Web](https://orlaserver.github.io/)
+- [GitHub](https://github.com/harvard-cns/orla)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
