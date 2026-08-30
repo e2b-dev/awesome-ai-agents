@@ -1062,6 +1062,29 @@ Coding
 
 </details>
 
+## [CORTEX](https://github.com/ThankNIXlater/cortex)
+AI Agent OS with persistent memory, Ed25519 identity, dream mode, and multi-model support
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- **Persistent memory**: Structured memory that survives session restarts across reboots and model swaps.
+- **Ed25519 identity**: Cryptographic identity baked into the agent core. Every action is signed and verifiable.
+- **Dream mode**: Background reasoning during idle periods. CORTEX processes and consolidates while offline.
+- **Multi-model support**: Provider-agnostic routing across Claude, GPT-4o, Gemini, Llama, and more.
+- **Multi-agent coordination**: Built-in agent bus for orchestrating multiple CORTEX instances.
+- **Original architecture**: Not a Claude Code fork. Built from scratch for autonomous operation.
+
+### Links
+- [GitHub](https://github.com/ThankNIXlater/cortex)
+- [Website](https://nixus.pro/cortex/)
+
+</details>
+
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
