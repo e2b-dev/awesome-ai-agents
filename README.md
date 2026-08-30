@@ -887,6 +887,30 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [career-ops](https://github.com/santifer/career-ops)
+AI-powered job search orchestrator on top of Claude Code — 14-skill pipeline for evaluating job descriptions, generating ATS-optimized PDFs, and tracking applications end-to-end on the candidate side
+
+<details>
+
+### Category
+HR, Personal assistant, Productivity, Research
+
+### Description
+
+- Companies use AI to filter candidates. career-ops gives candidates AI to choose companies — running the same vector-matching machinery on the candidate's side.
+- 14-skill pipeline: scan job boards, evaluate JDs (0–5 alignment score with 4.0 = apply threshold), generate ATS-tailored PDFs, batch outreach, track applications, prep for interviews.
+- 100% local-first: CV and personal data never leave the candidate's machine. Only embeddings are sent to api.anthropic.com. No telemetry, no `--dangerously-skip-permissions` required.
+- MIT-licensed, community-funded via GitHub Sponsors (no premium tier, no SaaS upsell).
+- 46K+ GitHub stars (top 500 worldwide), 9.7K forks (1:5 ratio — infrastructure adoption pattern), 3.1K-dev Discord community spec'ing a candidate-side AI hiring protocol (SHVP draft 0.1, Q3 2026).
+
+### Links
+- [Website](https://career-ops.org)
+- [GitHub](https://github.com/santifer/career-ops)
+- [Business Insider feature](https://www.businessinsider.com/how-i-built-tool-filter-job-listings-landed-head-ai-2026-4)
+- [WIRED Greece feature](https://wired.com.gr/article/to-ai-ergaleio-pou-fernei-epanastasi-ston-tropo-pou-psachnoume-douleia/)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
