@@ -182,6 +182,30 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agentic Radar](https://github.com/splx-ai/agentic-radar)
+A Security Scanner for agentic workflows
+<details>
+
+![Image](https://raw.githubusercontent.com/splx-ai/agentic-radar/main/docs/logo.png)
+
+### Category
+Security, Developer tools, Visualization
+
+### Description
+- Open-source CLI tool for security analysis of agentic AI workflows.
+- Scans your source code and identifies security vulnerabilities (CVE, OWASP) in agent-based workflows before deployment.
+- Produces a report with interactive visualization of the workflow, along with vulnerability descriptions and remediation suggestions.
+- Supporting popular frameworks like CrewAI, LangGraph, n8n, OpenAI Agents and more.
+
+### Links
+- [GitHub](https://github.com/splx-ai/agentic-radar)
+- [Founder's X](https://x.com/SplxAI)
+- [Blog post: Introducing Agentic Radar](https://splx.ai/blog/introducing-agentic-radar-the-new-oss-tool-for-ai-workflow-transparency)
+- [Discord](https://discord.com/invite/QZQpef5PsD)
+- [Slack](https://join.slack.com/t/splxaicommunity/shared_invite/zt-31b3hc3mt-A0v78qztTIMSNBg6y~WOAA)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
