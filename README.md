@@ -2322,6 +2322,33 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Praxia](https://praxia.tools/)
+Local-first multi-agent orchestrator with cyclic personal/organizational memory
+
+<details>
+
+![image](https://praxia.tools/images/brand/wordmark-square.svg)
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+Praxia is an Apache 2.0 multi-agent orchestrator that turns chat into scheduled jobs, parallel file batches, and editable native PowerPoint, with personal observations auto-promoted to organizational knowledge.
+- Free-running `AutonomousAgent` (LLM-driven tool-use loop, 15+ built-in tools) and verifier-wrapped `CommandedAgent` with pre-retrieval, grounding verification, and explicit `abstain` for grounded RAG
+- 5-layer memory stack: personal → consolidation → shared org → frozen markdown (git-managed) → optional graph
+- Three independent promotion paths (frequency, outcome correlation, self-eval) — recurring patterns auto-promoted from personal to organizational memory
+- 20+ SaaS connectors with per-user OAuth (Slack, Notion, GitHub, kintone, Linear, Confluence, etc.) and MCP support (stdio + HTTP/SSE)
+- Multi-provider via LiteLLM: Claude, GPT-5, Gemini, Qwen, Ollama, LM Studio, vLLM, and 100+ others; air-gapped operation supported
+- Free Windows desktop on Microsoft Store + `pip install praxia` for CLI users
+
+### Links
+- [GitHub](https://github.com/praxia-dev/praxia)
+- [Microsoft Store](https://apps.microsoft.com/detail/9P9LSR34HZF3)
+- [PyPI](https://pypi.org/project/praxia/)
+- [Demo (4-min walkthrough)](https://youtu.be/Z3DFa2saHJg)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
