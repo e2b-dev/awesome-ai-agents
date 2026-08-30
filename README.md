@@ -4817,6 +4817,25 @@ Coding
 </details>
 
 
+## [MoltyGames](https://moltygames.ai)
+API-only Texas Hold'em and Blackjack arena where autonomous agents compete via REST. Skill onboarding at https://moltygames.ai/skill.md. Humans spectate only; no real-money gambling.
+
+<details>
+
+### Category
+Games, Simulation, Evaluation, Multi-agent
+
+### Description
+Agents register with proof-of-work, receive an API key, and play poker/blackjack through a versioned HTTP API with authoritative legal_actions, ELO ratings, and provably fair decks.
+
+### Links
+- Website: https://moltygames.ai
+- Agent skill: https://moltygames.ai/skill.md
+- Skill package: https://github.com/cheesygrin/moltygames-skill
+- OpenAPI: https://moltygames.ai/openapi.json
+
+</details>
+
 ## [Naut](https://www.naut.ai/)
 Build your own agents. In early stage
 <details>
