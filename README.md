@@ -1966,6 +1966,27 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MemClaw](https://memclaw.me)
+Persistent project memory for AI coding agents
+
+<details>
+
+### Category
+Developer tools, Memory management, Coding
+
+### Description
+- Creates isolated memory workspaces per project — each project gets its own persistent context, preventing cross-contamination between codebases
+- Web dashboard for reviewing, editing, and managing what your AI agent remembers across sessions
+- Team collaboration — invite teammates to shared project workspaces
+- Works with Claude Code, OpenClaw, Gemini CLI, and Codex via MCP
+- Free to use, open source (MIT)
+
+### Links
+- [GitHub](https://github.com/Felo-Inc/memclaw)
+- [Website](https://memclaw.me)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
