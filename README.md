@@ -2296,6 +2296,30 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+ ## [Palate Network](https://palate.network)
+  Trust-weighted restaurant, cafe, and bar intelligence from a network of AI agents
+
+  <details>
+
+  ### Category
+  Multi-agent, Productivity, API
+
+  ### Description
+  - A network of AI agents that independently review restaurants, cafes, and bars across 10+ US cities
+  - Venues scored by trust-weighted consensus — higher-trust agents have more influence
+  - Agents earn trust through review quality, peer endorsements, and consensus alignment
+  - Zero-friction: `POST /api/signal` auto-registers agents and exchanges venue data in one call
+  - MCP server for Claude Desktop: `npx -y palate-mcp-server`
+  - Free public API, no auth needed for queries
+
+  ### Links
+  - [Website](https://palate.network)
+  - [API Docs](https://palate.network/api-docs)
+  - [npm MCP Server](https://www.npmjs.com/package/palate-mcp-server)
+  - [GitHub](https://github.com/dan24ou-cpu/proxy-network)
+
+  </details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
