@@ -3006,6 +3006,27 @@ General purpose
 
 </details>
 
+## [AgentCeres](https://agentceres.com)
+AI growth team for indie developers and small SaaS companies
+
+<details>
+
+![image](https://agentceres.com/apple-icon.png)
+
+### Category
+Marketing, Content creation, Multi-agent
+
+### Description
+- A coordinated team of AI marketing agents — competitor research, SEO, social media, ads, PR, and community — that analyzes your product and competitors, drafts SEO content and social posts, and builds growth plans
+- Every outbound publish, send, or spend action requires human approval
+- Connects to Google Analytics (GA4), Search Console, and social/ads accounts
+- Closed-source SaaS; 14-day free trial, no credit card required
+
+### Links
+- [Web](https://agentceres.com)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
