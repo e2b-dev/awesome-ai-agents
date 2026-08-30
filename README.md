@@ -2458,6 +2458,42 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [SOMA](https://github.com/sunyan999999/soma)
+
+### Category
+Agent Cognitive Framework — Memory, Reasoning, Evolution
+
+### Description
+SOMA (Somatic Wisdom Architecture) is a self-organizing memory architecture that gives AI agents structured reasoning via an explicit wisdom framework of 7 thinking laws (First Principles, Systems Thinking, Contradiction Analysis, Pareto Principle, Inversion, Analogical Reasoning, Evolutionary Lens). v0.3.1b1 features: four-stage pipeline (decompose → activate → synthesize → evolve), bidirectional memory activation (RRF: semantic×2 + keyword×1), MMR diversity re-ranking, FTS5 trigram full-text search (<10ms @ 100K memories), WAL concurrent read/write, pluggable Hub architecture, autonomous law discovery via DBSCAN clustering, Vue 3 dashboard with ECharts visualizations. Zero-dependency deployment: SQLite + FAISS + ONNX. 100+ tests, 97% coverage. Python 3.10–3.13.
+
+### Links
+- [GitHub](https://github.com/sunyan999999/soma)
+- [PyPI](https://pypi.org/project/soma-wisdom/)
+- [Docs](https://github.com/sunyan999999/soma/tree/main/docs)
+## [SOMA](https://github.com/sunyan999999/soma)
+Framework-first cognitive architecture with self-evolving reasoning
+
+<details>
+
+### Category
+Agent Memory & Reasoning
+
+### Description
+SOMA (Somatic Wisdom Architecture) gives AI agents structured reasoning via 7 thinking laws:
+- **Wisdom laws**: first-principles, systems thinking, contradiction analysis, dialectical synthesis, problem-driven learning, ecological thinking, temporal depth
+- **Bidirectional activation**: vector similarity + keyword RRF, both directions compete for true relevance
+- **Meta-evolution**: auto-adjusts law weights every 10 sessions based on success/failure outcomes
+- **Zero infrastructure**: SQLite + FAISS + ONNX embeddings — no vector DB or GPU required
+- **Full toolkit**: Python SDK (`pip install soma-wisdom`) + REST API + Vue3 Dashboard + Docker deployment
+- 139 tests, Apache 2.0
+
+### Links
+- [GitHub](https://github.com/sunyan999999/soma)
+- [PyPI](https://pypi.org/project/soma-wisdom/)
+- [Docs](https://sunyan999999.github.io/soma/)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
