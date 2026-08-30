@@ -5554,6 +5554,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 -->
 
 ## Join the community
+- [GenAI DrawIO Creator](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) - AI agent that generates architecture diagrams from natural language. Supports MCP integration.
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
