@@ -95,6 +95,29 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aegis DQ](https://github.com/aegis-dq/aegis-dq)
+Agentic data quality framework — LLM-powered validation, root cause analysis, and SQL remediation across warehouses.
+
+<details>
+
+### Category
+Data, Build your own
+
+### Description
+
+- **LLM diagnosis**: Goes beyond pass/fail — explains *why* a check failed with root cause analysis and SQL fix proposals.
+- **Multi-warehouse**: Runs structured rules against DuckDB, BigQuery, Athena, Databricks, and Postgres.
+- **31 rule types**: Null checks, range validation, referential integrity, ML anomaly detection, custom SQL, and more.
+- **Full audit trail**: Every LLM decision is logged with cost, latency, and full prompt/response — searchable via FTS5.
+- **MCP server**: 9 tools for Claude Desktop and other MCP-compatible agents.
+- **LLM rule generation**: `aegis generate` writes draft rules from your schema and business docs.
+
+### Links
+- [GitHub](https://github.com/aegis-dq/aegis-dq)
+- [Documentation](https://aegis-dq.dev)
+- [PyPI](https://pypi.org/project/aegis-dq/)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
