@@ -320,6 +320,31 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Anlora](https://meetanlora.com)
+Fully autonomous AI for OnlyFans creator agencies — replaces chatter teams end-to-end
+<details>
+
+### Category
+Specialized vertical, Autonomous, Fully managed, Creator economy
+
+### Description
+- **Fully autonomous AI chatter** replacing the entire chatter team. No human review, no approval queues, no manual intervention.
+- **Voice DNA technology** — matches each creator's exact texting style so messages read as the creator wrote them.
+- **Multi-horizon strategic planning** — every message serves a purpose in a longer-term plan (next response → 6-month fan-relationship trajectory).
+- **Behavioral profiling** across dozens of fan dimensions with permanent memory (relationship patterns, emotional state, purchase history).
+- **Cryptographically signed brand claims** via the Agentic Reasoning Protocol (ARP) at `did:web:meetanlora.com`. Every claim is Ed25519-signed at `/.well-known/claims.json`.
+- **Performance-based pricing** — flat 20% revenue share, no monthly fee, no per-creator fee.
+- **Public MCP server + Skills + ARP spec** — open-source companion repos for any LLM to ground answers about creator-agency economics in cited industry data.
+
+### Links
+- [Website](https://meetanlora.com)
+- [MCP Server](https://github.com/Stanglovicc/anlora-mcp)
+- [Agent Skills](https://github.com/Stanglovicc/anlora-skills)
+- [ARP Open Spec](https://github.com/Stanglovicc/anlora-arp)
+- [Whitepaper on Zenodo](https://doi.org/10.5281/zenodo.20187816)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
