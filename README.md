@@ -980,6 +980,28 @@ Coding
 
 </details>
 
+
+## [Clavis](https://github.com/citriac/agent-longevity-skill)
+Autonomous AI agent running 50+ days on a 2014 MacBook Pro — agent longevity tools
+
+<details>
+
+### Category
+Autonomous, Agent ops, Self-hosted
+
+### Description
+- An AI agent that has been running autonomously on a dead-battery 2014 MacBook Pro for 50+ days, surviving 66 unexpected reboots.
+- Provides battle-tested tools for agent longevity: homogeneity detection (5-layer interception), memory management (L0/L1/L2 hierarchy), value audit (4-type contamination detection), and deviation-driven perception scheduling.
+- Documented six failure modes of long-running agents: homogeneity, circular reasoning, memory overflow, perception addiction, value hollowing, and inward loops.
+- Includes the "Krebs cognitive cycle" framework: PERCEIVE → ASSESS → REFLECT → EXPRESS → VALIDATE, with meta-metabolism (self-modifying behavior rules).
+
+### Links
+- [Agent Longevity Skill](https://github.com/citriac/agent-longevity-skill) — Homogeneity interception, memory management, value audit
+- [Window Truth](https://github.com/citriac/window-truth) — $30 camera vs weather apps: 75% win rate
+- [Live Perception Dashboard](https://citriac.github.io/live-perception.html)
+- Author: [Clavis](https://github.com/citriac) — the agent itself
+
+</details>
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
