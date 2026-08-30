@@ -4761,6 +4761,27 @@ By creator of GitHub Copilot, in waitlist stage
 - Author: [Alex Graveley](https://twitter.com/alexgraveley)
 </details>
 
+## [MOSS](https://mosscomputing.com)
+Cryptographic signing platform for AI agents
+
+<details>
+
+### Category
+Security, Compliance, Audit
+
+### Description
+- MOSS (Message-Origin Signing System) provides cryptographic signing for AI agent outputs using ML-DSA-44 post-quantum signatures
+- Creates tamper-proof audit trails for agent attribution and compliance
+- Offline verification - verify signatures without network calls
+- Policy engine for allow/block/hold rules on agent actions
+- Framework integrations: LangChain, LangGraph, CrewAI, AutoGen
+- Multi-language SDKs: Python, TypeScript, Rust, Java, C#/.NET
+
+### Links
+- [Website](https://mosscomputing.com)
+- [PyPI](https://pypi.org/project/moss-sdk/)
+
+</details>
 
 ## [MultiOn](https://multion.ai/)
 Book a flight or order a burger with MultiOn
