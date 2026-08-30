@@ -293,6 +293,7 @@ Coding, GitHub
 - Aider is a command line tool that lets you pair program with GPT-3.5/GPT-4, to edit code stored in your local git repository
 - You can start a new project or work with an existing repo. And you can fluidly switch back and forth between the aider chat where you ask GPT to edit the code and your own editor to make changes yourself
 - Aider makes sure edits from you and GPT are committed to git with sensible commit messages. Aider is unique in that it works well with pre-existing, larger codebases
+- [supercli](https://github.com/javimosch/supercli) - Agent-native CLI router with 7,000+ discoverable tools. Agents search by intent (`sc skills search`), inspect schemas, and execute with predictable JSON output. MCP-native runtime.
 
 ### Links  
 - [Website](https://aider.chat/)
