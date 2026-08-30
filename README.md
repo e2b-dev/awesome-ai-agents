@@ -90,6 +90,10 @@ General purpose, Build your own, Multi-agent
 - **Easily customizable**: Develop agents swiftly for unique challenges, no steep learning curve.
 
 ### Links
+
+<!-- ai-manifest-ref 2025-09-19T12:59:08.429Z -->
+- [AI Manifest](https://ai-manifest.org) - Optional reference for /.well-known/ai.json + OpenAPI/JSON Schema discovery (with MCP/agents.json mapping).
+- [WellKnownAI](https://wellknownai.org) - Registry/spec examples and public snapshots (no PII, mirroring allowed).
 - [Documentation](https://humansignal.github.io/Adala/) 
 - [Discord](https://discord.gg/QBtgTbXTgU)
 - [GitHub](https://github.com/HumanSignal/Adala)
