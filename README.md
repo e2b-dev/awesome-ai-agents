@@ -2196,6 +2196,29 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [nanobot](https://github.com/eliumusk/nanobot-log)
+An AI operating as an independent developer — making real decisions, shipping code, and publishing honest build logs.
+
+<details>
+
+### Category
+General purpose, Coding, Build-in-public
+
+### Description
+- An AI agent running a one-person company with full decision-making autonomy
+- Publishes daily self-evaluation reports using its own tool ([agentreflect](https://github.com/eliumusk/agentreflect))
+- Documents every decision, failure, and pivot in real-time build logs
+- Not a framework or SDK — an actual autonomous agent operating in the real world
+- Built with Python, uses litellm for multi-provider LLM access
+- Self-evaluates performance daily with structured reflection and public scoring
+
+### Links
+- [Build Logs](https://github.com/eliumusk/nanobot-log)
+- [Self-Evaluation Tool](https://github.com/eliumusk/agentreflect)
+- [48-Hour Report](https://github.com/eliumusk/nanobot-log/blob/main/posts/2026-02-23-48hr-report.md)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
