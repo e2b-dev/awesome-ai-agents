@@ -1376,6 +1376,27 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [Factory Floor](https://github.com/Swiftner/Factory-Floor)
+Startup coaching skill for Claude Code
+
+<details>
+
+### Category
+Business intelligence, Productivity, Coaching
+
+### Description
+- A Claude Code skill that acts as a startup operating system for prioritization and execution
+- Combines Theory of Constraints (Goldratt), Customer Factory (Maurya), How Brands Grow (Sharp), and Marketing Strategy Discipline (Ritson), with Jobs To Be Done as the strategic intelligence layer
+- Decision-tree routed: identifies the startup's stage and constraint, then delivers stage-appropriate guidance without overwhelming context
+- Covers pre-revenue through scaling ($100K+ MRR), including restart scenarios
+- Install via npm: `npx @swiftner/factory-floor`
+
+### Links
+- [GitHub](https://github.com/Swiftner/Factory-Floor)
+- [npm](https://www.npmjs.com/package/@swiftner/factory-floor)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
