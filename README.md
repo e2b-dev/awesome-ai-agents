@@ -731,6 +731,29 @@ General purpose, Productivity
 - [Tweet](https://twitter.com/Douglas_Schon/status/1681094815021187072?s=20)
 </details>
 
+## [Bitte.ai](https://bitte.ai)
+Cross-chain AI executions for DeFi and blockchain transactions
+
+<details>
+
+### Category
+Blockchain, DeFi, NFT, Smart Contracts, AI Agents
+
+### Description
+
+Bitte.ai is an innovative platform focusing on cross-chain AI executions, offering the first on-chain agent marketplace for building transactions. The platform's AI agents are designed to facilitate various decentralized finance (DeFi) and blockchain-related tasks. Users can use these agents to mint NFTs, swap tokens across different blockchains, or automate other smart contract transactions. These agents operate autonomously, handling tasks such as swapping NEAR for USDT or deploying smart contracts, making complex blockchain operations more accessible to users and developers alike.
+
+**Key features**:
+
+- **Cross-chain capabilities**: Agents work across different blockchain networks, enabling seamless interactions like token swaps and NFT minting.
+- **AI wallet integration**: Users can manage blockchain transactions without needing to install any additional applications. Transactions are non-custodial, meaning users retain control of their assets, and are passkey-supported for added security.
+- **Templates and developer tools**: The platform offers pre-built templates to launch AI agents within minutes, providing an easy entry point for developers to build and deploy their own solutions.
+
+### Links
+- [Website](https://bitte.ai)
+
+</details>
+
 
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
