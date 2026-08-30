@@ -3060,6 +3060,26 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+## [AI Agents Directory](https://aiagentautomation.site)
+Comprehensive directory of 2,800+ AI agents across 305 categories
+
+<details>
+
+### Category
+General purpose, Productivity, Research, Business intelligence
+
+### Description
+- Comprehensive directory tracking 2,800+ AI agents and tools across 305 categories
+- Weekly-updated guides, comparisons, and use-case breakdowns for each agent
+- Covers agents for coding, writing, research, automation, data analysis, and more
+- Free to browse with no sign-up required
+
+### Links
+- [AI Agents Directory](https://aiagentautomation.site)
+
+</details>
+
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
