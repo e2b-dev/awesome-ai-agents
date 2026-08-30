@@ -1036,6 +1036,32 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [Construct](https://github.com/construct-worlds/construct)
+Terminal-native agentic development environment
+
+<details>
+
+![Image](https://raw.githubusercontent.com/construct-worlds/construct/52849f56c902397d6729ec286293064c5b15bcfe/demos/lineage-program-run.gif)
+
+### Category
+Coding, Multi-agent, Productivity
+
+### Description
+- A terminal-native agentic development environment for managing fleets of coding agents from one TUI.
+- Orchestrates Codex, Claude Code, Antigravity (agy), Grok, and built-in smith sessions side by side.
+- Fork and merge sessions (including cross-harness forks) for parallel attempts and side quests.
+- Collaborative executable Markdown "Program" workflows for co-developing and running multi-step agent tasks.
+- Agent-to-agent orchestration via MCP tools: list sessions, read output, spawn helpers, send input, inspect diffs, drive Chrome.
+- ACP (Agent Client Protocol) server support, generative widgets, and phone-friendly remote control over a local web client.
+- Extensible harness protocol: adapters are separate processes speaking JSON-RPC over stdio.
+
+### Links
+- [GitHub](https://github.com/construct-worlds/construct)
+- [Documentation](https://github.com/construct-worlds/construct/tree/main/docs)
+- [Gallery](https://github.com/construct-worlds/construct/blob/main/gallery.md)
+
+</details>
+
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
