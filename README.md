@@ -2550,6 +2550,32 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 </details>
 
 
+## [Superset](https://github.com/superset-sh/superset)
+Agentic IDE for orchestrating 100+ parallel coding agents
+<details>
+
+### Category
+Coding
+
+### Description
+- Superset is an open-source agentic IDE for running many terminal coding agents (Claude Code, Codex, and others) in parallel on your own machine, with your own subscriptions
+- Each task runs in an isolated git-worktree workspace; you switch between agents as they need attention
+- Features
+	- Parallel agents in isolated workspaces (git worktrees)
+	- Works with any terminal coding agent
+	- Scheduled automations for recurring agent runs
+	- Multi-host: command agents on remote machines from one app
+	- Built-in diff viewer, editor, and browser
+	- MCP server and CLI
+
+### Links
+- [Website](https://superset.sh)
+- [Documentation](https://docs.superset.sh)
+- [X/Twitter](https://twitter.com/superset_sh)
+
+</details>
+
+
 ## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
 Paper on imperfect information games
 
