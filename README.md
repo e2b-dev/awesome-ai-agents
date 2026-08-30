@@ -2689,6 +2689,29 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Tura](https://github.com/Tura-AI/tura)
+Tura is a local, open-source coding agent for developers who are tired of vague skill claims, token-saving extensions with no evidence, and agents that change a repository before understanding it.
+
+<details>
+
+![Tura icon](https://raw.githubusercontent.com/Tura-AI/tura/main/assets/tura/128x128.png)
+
+### Category
+Coding, Productivity, Debugging, Testing
+
+### Description
+- Edits repositories, runs shell commands, and verifies changes in local workspaces
+- Uses task-scoped context and recursive task management for long-running development work
+- Supports CLI, TUI, and GUI entry points and is licensed under AGPL-3.0-or-later
+- Publishes reproducible long-horizon benchmark methodology, raw artifacts, and verifier results
+
+### Links
+- [GitHub](https://github.com/Tura-AI/tura)
+- [Documentation](https://turaai.net/)
+- [Benchmark](https://turaai.net/benchmark)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
