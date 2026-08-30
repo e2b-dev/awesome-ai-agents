@@ -1443,6 +1443,28 @@ Coding
 
 </details>
 
+## [grugbot420](https://github.com/grug-group420/grugbot420)
+Neuromorphic cognitive engine in Julia for multi-model AI orchestration
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+
+- **Neuromorphic architecture**: Novel approach to AI through biological-inspired cognitive patterns.
+- **Multi-model orchestration**: Coordinate multiple AI models through configurable expert hierarchies.
+- **Specimen-based deployment**: Deploy domain-expert AI specimens through architectural configuration rather than traditional training.
+- **Julia-native performance**: Built in Julia for high-performance scientific computing.
+- **MIT licensed**: Completely free and open source.
+
+### Links
+- [GitHub](https://github.com/grug-group420/grugbot420)
+- [Research Paper](https://github.com/grug-group420/grugbot420-paper)
+- [Organization](https://github.com/grug-group420)
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
