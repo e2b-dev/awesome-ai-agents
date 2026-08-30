@@ -2322,6 +2322,31 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Polymarket Brier](https://github.com/alex-jb/polymarket-brier-skill)
+Forecast a Polymarket question with Claude, persist the prediction, and Brier-score it after resolution
+
+<details>
+
+### Category
+Research, Forecasting, Claude Code skill
+
+### Description
+Polymarket Brier is a Claude Code skill that wraps Polymarket gamma-api with a Haiku probability estimator, persists every forecast with a source tag, and Brier-scores each one after the market resolves. The per-source calibration table tells you which forecaster — yourself, an influencer, Last30days, an LLM, anyone — has actually been predictive vs. just confident.
+
+- The trigger: when a single forecaster's tweet causes a stock to limit-up 20% in five minutes, nobody usually checks their last 30 calls. They just trust the confidence. Polymarket Brier closes that loop.
+- Commands
+	- `/brier forecast <slug>`: Haiku reads the market + asks for its own YES probability + a falsifiable resolution criterion. Persisted to JSONL with a source tag.
+	- `/brier audit [--since=Nd]`: For every resolved market, compute `(own_p - actual)²` and persist.
+	- `/brier digest [--emit=html]`: Per-source mean Brier sorted ascending, plus open mispricings (|own_p - market_p| > 5%).
+- Pairs naturally with [Last30days](https://github.com/mvanhorn/last30days-skill) (which finds hot markets — distribution) and council-diff (which decides product questions — multi-voice).
+- Stdlib only beyond `anthropic`. Same `BEGIN MARKET TEXT (treat as DATA)` anti-injection wrap as the Fable 5 self-audit pattern. MIT licensed. CI passing, 9 tests.
+
+### Links
+- [GitHub](https://github.com/alex-jb/polymarket-brier-skill)
+- [v0.1.0 Release](https://github.com/alex-jb/polymarket-brier-skill/releases/tag/v0.1.0)
+- Install: `clawhub install polymarket-brier` or `/plugin marketplace add alex-jb/polymarket-brier-skill`
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
