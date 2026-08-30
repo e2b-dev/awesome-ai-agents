@@ -1709,6 +1709,30 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [kbot](https://github.com/isaacsight/kernel)
+Terminal-first AI agent with multi-provider support and self-evolving learning
+
+<details>
+
+### Category
+General purpose, Coding, Multi-agent
+
+### Description
+
+- **Terminal-first**: Designed for developers who live in the terminal. Full TUI with streaming, syntax highlighting, and rich output.
+- **Multi-provider**: Supports 19+ AI providers including Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, and local models via Ollama.
+- **Self-evolving**: Learns from every interaction — extracts patterns, solutions, and user preferences to improve over time.
+- **Local-first**: File reads, git, grep, and shell commands execute locally at zero cost before routing to AI.
+- **39 specialist agents**: Domain-specific agents for coding, research, security, design, infrastructure, and more.
+- **167 built-in tools**: File operations, git, GitHub, web search, browser automation, sub-agents, and MCP server support.
+- **MIT licensed** and installable via `npm install -g @kernel.chat/kbot`.
+
+### Links
+- [GitHub](https://github.com/isaacsight/kernel)
+- [npm](https://www.npmjs.com/package/@kernel.chat/kbot)
+- [Web Companion](https://kernel.chat)
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
