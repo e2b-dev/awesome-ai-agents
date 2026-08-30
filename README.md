@@ -1966,7 +1966,27 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MCPSpy](https://github.com/harshkatakwar/mcpspy)
+Autonomous MCP Performance Analyzer
+
+<details>
+
+### Category
+Development, Debugging, Testing
+
+### Description
+- MCPSpy is an autonomous agent that connects to Model Context Protocol (MCP) servers and profiles them.
+- Benchmarks protocol-level latency for individual tools and generates heatmaps.
+- Automatically tracks retry storms and success/error rates, providing an LLM-driven diagnostic report.
+- An invaluable tool for any developer building or testing robust MCP backends.
+
+### Links
+- [GitHub](https://github.com/harshkatakwar/mcpspy)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
+
 Open Source Hybrid AI Search Engine
 
 <details>
