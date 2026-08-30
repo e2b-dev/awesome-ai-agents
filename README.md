@@ -2196,6 +2196,31 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Open Agent](https://github.com/Th0rgal/openagent)
+Self-hosted control plane for AI coding agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/Th0rgal/openagent/master/screenshots/hero.webp)
+
+### Category
+Coding, General purpose, Build your own
+
+### Description
+Open Agent is a self-hosted control plane for OpenCode-based AI coding agents. It provides:
+- Isolated Linux workspaces using systemd-nspawn containers
+- Git-backed Library configuration for skills, tools, rules, agents, and MCPs
+- Multi-platform dashboards (Next.js web app, SwiftUI iOS app)
+- Real-time mission monitoring with SSE streaming
+- MCP server registry running on the host machine
+
+Built for scenarios like cloud-native development, multi-day autonomous tasks, and private data analysis on self-hosted infrastructure.
+
+### Links
+- [GitHub](https://github.com/Th0rgal/openagent)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
