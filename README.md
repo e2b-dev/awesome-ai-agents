@@ -1312,6 +1312,29 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps
 
 </details>
 
+## [EmblemAI](https://emblemvault.ai)
+Autonomous crypto wallet agent with 200+ trading tools across 7 blockchains
+
+<details>
+
+### Category
+General purpose, Build-your-own (agent-building frameworks and platforms), Crypto
+
+### Description
+- AI agent wallet with autonomous trading across Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin
+- 200+ ready-to-use tools covering swaps, conditional orders, DeFi positions, NFT operations, and cross-chain bridges
+- Supports x402 micropayments for per-call agent-to-agent commerce
+- MCP (Model Context Protocol) and A2A (Agent-to-Agent) protocol support
+- NPM package: `@emblemvault/agentwallet`
+
+### Links
+- [Web](https://emblemvault.ai)
+- [GitHub](https://github.com/EmblemCompany/EmblemAi-AgentWallet)
+- [NPM](https://www.npmjs.com/package/@emblemvault/agentwallet)
+- [Twitter](https://x.com/EmblemAI_)
+
+</details>
+
 ## [English Compiler](https://github.com/uilicious/english-compiler)
 Converting markdown specs into functional code
 
