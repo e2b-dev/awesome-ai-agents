@@ -1124,6 +1124,30 @@ and while allowing scientist to oversee and direct the process
 </details>
 
 
+## [dd-agents](https://github.com/zoharbabin/due-diligence-agents)
+Open-source M&A due diligence with 13 AI agents and interactive chat mode
+
+<details>
+
+### Category
+Legal, Finance, Data analysis, Multi-agent
+
+### Description
+
+- **13 specialist agents**: Legal, Finance, Commercial, ProductTech, Cybersecurity, HR, Tax, Regulatory, ESG + Judge, Executive Synthesis, Red Flag Scanner, Acquirer Intelligence
+- **Interactive chat mode**: 14 MCP tools for citation verification, cross-contract search, entity resolution, and sandboxed Excel/Word document generation
+- **Neurosymbolic orchestration**: Deterministic Python rules route between agents — no LLM calls for coordination
+- **Full citation trails**: Every finding traced to exact page, section, and quote
+- **Knowledge compounding**: Findings fingerprinted with SHA-256, tracked across runs through lifecycle states
+- **38-step async pipeline** with checkpoint/resume and 5 blocking quality gates
+
+### Links
+- [GitHub](https://github.com/zoharbabin/due-diligence-agents)
+- [Sample Report](https://zoharbabin.github.io/due-diligence-agents/)
+- [PyPI](https://pypi.org/project/dd-agents/)
+</details>
+
+
 ## [Databerry](https://www.databerry.ai/)
 (Pivoted to Chaindesk) No-code chatbot building
 
