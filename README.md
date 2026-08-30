@@ -70,6 +70,28 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+
+## [SOE Compliant Office](https://github.com/yuzhaopeng-up/soe-compliant-office)
+
+### Category
+Agent Skills / Enterprise Compliance
+
+### Description
+20 AI agent skills for Chinese State-Owned Enterprises (SOE) with built-in compliance, audit trail, and national standards (GB/T 9704, DA/T, SASAC). Three domains: Document Operations (8), Compliance & Security (6), Reporting & Analysis (6). Features include multi-stage approval flow, 6-dimension compliance check, and evidence chain cross-validation.
+
+### Links
+- GitHub: https://github.com/yuzhaopeng-up/soe-compliant-office
+
+## [Financial AI Skills](https://github.com/yuzhaopeng-up/financial-ai-skills)
+
+### Category
+Agent Skills / Finance
+
+### Description
+104 AI agent skills for banking, insurance, and wealth management. Pure Python with zero API cost and millisecond response. Covers invoice verification, budget control, risk assessment, tax planning, cash flow forecast, and more. 7 skill categories with 52+ scenarios across financial domains.
+
+### Links
+- GitHub: https://github.com/yuzhaopeng-up/financial-ai-skills
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
