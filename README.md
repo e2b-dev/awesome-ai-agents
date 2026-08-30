@@ -2322,6 +2322,29 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Plasmate](https://github.com/plasmate-labs/plasmate)
+Open-source browser engine that outputs semantics instead of pixels
+
+<details>
+
+### Category
+Infrastructure, Web Scraping, AI Tools
+
+### Description
+Plasmate is an open-source browser engine (Apache 2.0) that compiles HTML into a Semantic Object Model (SOM) for AI agents.
+- 16.6x fewer tokens than raw HTML
+- 50x faster than Chrome headless
+- Built with html5ever + V8
+- Available on crates.io, PyPI, npm, Homebrew
+- W3C Community Group member
+- MCP server for Claude/Cursor
+
+### Links
+- [GitHub](https://github.com/plasmate-labs/plasmate)
+- [MCP Server](https://github.com/plasmate-labs/plasmate-mcp)
+- [Website](https://plasmate.app)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
