@@ -3381,6 +3381,26 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 
 </details>
 
+## [Bella](https://bella.salon/)
+Vertical AI voice + SMS receptionist for salons
+
+<details>
+
+### Category
+Customer service, Phone calling, SMS, Vertical SaaS (salons / beauty)
+
+### Description
+- Bella (Joanna) is a 24/7 AI voice receptionist purpose-built for hair salons and beauty businesses. She answers missed calls, books appointments directly into the salon's existing POS (Zenoti, Boulevard, Vagaro, Mindbody, Phorest), runs SMS appointment reminders and review requests, and surfaces a daily ops dashboard for owners.
+- Layered on top of the salon's existing booking system rather than replacing it — designed for multi-location owners who want one AI front desk across every chair.
+- 14-day free trial. Built by SBPM LLC (Fantastic Sams Cut & Color franchisee operating 5 salons).
+
+### Links
+- [Web](https://bella.salon/)
+- [AI Receptionist page](https://bella.salon/ai-receptionist-for-salons/)
+- [SMS Booking page](https://bella.salon/salon-sms-booking/)
+
+</details>
+
 ## [Blackbox AI](https://www.blackbox.ai/)
 Software That Builds Software
 
