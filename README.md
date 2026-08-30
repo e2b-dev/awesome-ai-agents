@@ -301,7 +301,28 @@ Coding, GitHub
 
 </details>
 
-## [AIlice](https://github.com/myshell-ai/AIlice)
+## [AIlice](https://github.com/myshell-ai/AIlice)## [AIDE](https://github.com/WecoAI/aideml)
+ML engineering agent that automates AI R&D via tree search
+
+<details>
+
+### Category
+Coding, Research, ML Engineering
+
+### Description
+- AIDE (AI-Driven Exploration) is an open-source ML engineering agent that automates experiment design, code generation, and evaluation
+- Uses tree search to explore the solution space — branching and backtracking through code variants — rather than linear trial-and-error
+- Treats ML engineering as code optimization against any metric, enabling autonomous Kaggle-competition-level performance
+- Benchmarked on MLE-bench and ML-Agent-Bench with state-of-the-art results
+
+### Links
+- [GitHub](https://github.com/WecoAI/aideml)
+- [Website](https://weco.ai)
+- Author: [Weco AI](https://github.com/WecoAI) (Github)
+
+</details>
+
+
 Create agents-calling tree to execute your tasks
 <details>
 
