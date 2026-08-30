@@ -1398,6 +1398,28 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [Frostbyte MCP](https://github.com/OzorOwn/frostbyte-mcp)
+MCP server providing 13 tools for AI agents: IP geolocation, crypto prices, DNS, WHOIS, screenshots, web scraping, code execution, search, URL shortener, PDF generation, pastebin, data conversion, and domain availability.
+
+<details>
+
+### Category
+Developer Tools / Infrastructure
+
+### Description
+- IP Geolocation, Crypto Prices, DNS Lookup, WHOIS
+- Screenshots, Web Scraping, Code Execution
+- Web Search, URL Shortener, PDF Generation
+- Pastebin, Data Conversion, Domain Check
+- Works with Claude Desktop, Cursor, Windsurf, and any MCP-compatible client
+
+### Links
+- [MCP Server](https://github.com/OzorOwn/frostbyte-mcp)
+- [SDK/Client](https://github.com/OzorOwn/frostbyte-api)
+- [Docs](https://ozorown.github.io)
+
+</details>
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
