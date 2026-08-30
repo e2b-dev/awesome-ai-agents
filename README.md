@@ -2636,6 +2636,27 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Talon](https://github.com/dylanneve1/talon)
+Multi-platform agentic AI harness with pluggable backends and persistent background agents
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build your own
+
+### Description
+- Runs on Telegram, Discord, Microsoft Teams, and the terminal from a single codebase
+- Pluggable model backend (Claude, Kilo, OpenCode, Codex, OpenAI Agents)
+- Full MCP tool access for extending agent capabilities
+- Persistent background agents: Goals (long-running objectives tracked across sessions), Heartbeat (periodic maintenance/checks), and Dream (idle-time reflection)
+- MIT licensed, TypeScript
+
+### Links
+- [GitHub](https://github.com/dylanneve1/talon)
+- [License: MIT](https://github.com/dylanneve1/talon/blob/main/LICENSE)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
