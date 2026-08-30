@@ -1376,6 +1376,32 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [FLOW](https://github.com/tmllab/2025_ICLR_FLOW/)
+
+Automatically multiagent framework with validation
+
+<details>
+
+### Category
+
+Multi-agent
+
+### Description
+
+## Description
+
+- **Flow** is a multi-agent collaboration framework powered by Large Language Models (LLMs), designed to dynamically optimize and validate agent workflows.
+- It organizes tasks as Activity-on-Vertex (AOV) graphs, enabling parallel execution of subtasks.
+- Flow’s modular architecture supports localized adjustments to individual subtasks, enhancing overall flexibility and efficiency without disrupting the entire workflow.
+- The framework features continuous validation work, enabling quick responses to unexpected issues by reallocating or re-executing tasks based on feedback.
+
+### Links
+
+- [GitHub](https://github.com/tmllab/2025_ICLR_FLOW/)
+- [Paper](https://arxiv.org/abs/2501.07834)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
