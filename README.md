@@ -5093,6 +5093,30 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [remio](https://remio.ai/)
+Agentic Assistant built on your memory
+
+<details>
+
+![image](https://static.wixstatic.com/media/80334c_d22fafc559674d7ba7305f197b4af404~mv2.webp)
+
+### Category
+Personal assistant, Productivity, Knowledge management, Research
+
+### Description
+- Agentic AI assistant that unifies your files, meetings, emails, and web content into a personal knowledge base.
+- Generates research reports, slide decks, and data tables grounded in your own knowledge.
+- Captures notes, browsing, and meeting transcripts silently in the background — local-first and private by design.
+- Unlimited local meeting recording and transcription, no bots or extra devices.
+- aApp Market for agentic apps that grow with your knowledge and automate daily tasks.
+
+### Links
+- [Web](https://remio.ai/)
+- [X (Twitter)](https://x.com/remio_ai)
+- [Discord](https://discord.gg/VTDc9CUTHj)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
