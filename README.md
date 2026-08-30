@@ -255,6 +255,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgenTopology](https://github.com/agentopology/agentopology)
+The Terraform for AI agents. Declarative language for multi-agent systems.
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Define agents, flows, gates, hooks, and group chats in one `.at` file.
+- Scaffold to Claude Code, OpenClaw, Cursor, Codex, Gemini, Copilot, and Kiro.
+- Write once, deploy to any agentic framework.
+- Apache 2.0 licensed.
+
+### Links
+- [GitHub](https://github.com/agentopology/agentopology)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
