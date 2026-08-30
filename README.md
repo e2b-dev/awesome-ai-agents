@@ -2574,6 +2574,32 @@ General purpose
 </details>
 
 
+## [Sugar](https://github.com/roboticforce/sugar)
+AI-powered autonomous dev system with task queue
+
+<details>
+
+### Category
+Coding, Autonomous
+
+### Description
+- Sugar is an AI-powered autonomous development system with a persistent task queue, test-driven execution, and specialized agent routing.
+- Designed for background task execution, allowing developers to queue work and let AI handle implementation autonomously.
+- Features include:
+  - Persistent task queue that survives restarts
+  - Test-driven development approach with automatic validation
+  - Specialized agent routing for different task types (bug fixes, features, refactoring, tests, documentation)
+  - Priority-based task scheduling
+  - Git-aware operations with safe branching strategies
+- Built for integration with development workflows and CI/CD pipelines.
+
+### Links
+- [GitHub](https://github.com/roboticforce/sugar)
+- Author: [Steven Leggett / roboticforce](https://github.com/roboticforce)
+
+</details>
+
+
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
 
