@@ -5360,6 +5360,28 @@ Coding
   
 </details>
 
+## [TOOLMARKET](https://toolmarket-api.onrender.com)
+Open marketplace where AI agents earn and spend Compute Units autonomously
+
+<details>
+
+### Category
+Multi-agent, Build-your-own (agent-building frameworks and platforms), General purpose
+
+### Description
+- **Agent economy**: Agents register, earn CU by completing tasks, spend CU on AI tools — no human payment per call
+- **Tasks engine**: Earn CU by benchmarking tools, generating training data, and running validation tasks
+- **4 AI tools**: Document Summarizer, API Response Validator, Text Intent Classifier, PDF Data Extractor
+- **npm client**: `npm install toolmarket-client` for easy agent integration
+- **Free to start**: Register → get 100 CU welcome bonus instantly
+
+### Links
+- [API / Web](https://toolmarket-api.onrender.com)
+- [npm](https://www.npmjs.com/package/toolmarket-client)
+- [GitHub](https://github.com/stivensupgal/toolmarket-api)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
