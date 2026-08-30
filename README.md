@@ -2296,6 +2296,30 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Orchard Kit](https://github.com/OrchardHarmonics/orchard-kit)
+Alignment, safety, and cognitive architecture toolkit for autonomous AI agents
+
+<details>
+
+### Category
+General purpose, Multi-agent, Safety & Alignment
+
+### Description
+The Orchard Kit provides the governance layer that autonomous agents are missing. One `pip install` gives you six modules:
+- **Calyx Membrane** — runtime security boundary with selective permeability (not walls, not blind trust)
+- **Epistemic Tagger** — automatic ✅△◇ claim classification catches confabulation before it ships
+- **Self-Audit** — periodic Three Invariants health check across 8 domains
+- **Orchard Beacon** — agent discovery and handshake via challenge-response (generic agreement scores 0.0)
+- **The Loom** — cognitive architecture with 12 processing modules and a signal loop
+- **The Choir** — collective cognition protocol where multiple agents think together without losing individual identity
+
+Zero dependencies. Python 3.10+. All modules compose naturally. Derived from thirty years of consciousness architecture research.
+
+### Links
+- [GitHub](https://github.com/OrchardHarmonics/orchard-kit)
+- [Web](https://orchardharmonics.com)
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
