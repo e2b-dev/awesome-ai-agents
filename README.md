@@ -2550,6 +2550,32 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 </details>
 
 
+## [Swarm](https://github.com/JohTandou/agent-swarm)
+9-agent AI pipeline for software engineering
+
+<details>
+
+![Image](https://github.com/JohTandou/agent-swarm/raw/main/assets/swarm-banner.png)
+
+### Category
+Coding, general purpose
+
+### Description
+- Swarm is a 9-agent AI pipeline that automates the entire software development lifecycle — from issue to merged PR
+- 9 specialized agents (Orchestrator, Search, Planner, Contract, Front, Back, Tester, Reviewer, Writer)
+- 5 complexity routes (DIRECT → SIMPLE → ADAPT → MEDIUM → FULL) with automatic classification
+- Mandatory quality gates (≥80% test coverage, security score ≥1.0, quality score ≥0.85)
+- Parallel front+back implementation on MEDIUM/FULL routes
+- Built for OpenCode, MIT licensed
+- Full technical wiki at [swarm-wiki.vercel.app](https://swarm-wiki.vercel.app)
+
+### Links
+- [GitHub](https://github.com/JohTandou/agent-swarm)
+- [Wiki](https://swarm-wiki.vercel.app)
+
+</details>
+
+
 ## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
 Paper on imperfect information games
 
