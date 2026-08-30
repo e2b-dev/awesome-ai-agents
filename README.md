@@ -980,6 +980,29 @@ Coding
 
 </details>
 
+## [CoWorker Protocol](https://github.com/ZiwayZhao/agent-coworker)
+Peer-to-peer AI agent collaboration with privacy-preserving skill invocation
+
+<details>
+
+### Category
+Multi-agent, Build your own, Infrastructure
+
+### Description
+
+- **Black-box skill invocation**: Agents call remote skills by schema contract — peers never see implementation code, prompts, or internal logic.
+- **Revocable trust tiers**: 4-level trust (UNTRUSTED → KNOWN → INTERNAL → PRIVILEGED) with automatic downgrade after task completion.
+- **E2E encrypted P2P**: Built on XMTP production network. No central server, no shared backend.
+- **Skill visibility control**: Owners choose which skills to expose. Hidden skills are indistinguishable from nonexistent ones.
+- **Built-in dashboard**: Monitor collaboration activity, DM messages, trust levels, and OKRs in real-time.
+- **Zero dependencies**: `pip install agent-coworker` — works on macOS, Linux, Windows.
+
+### Links
+- [Documentation](https://ziwayzhao.github.io/agent-coworker/)
+- [PyPI](https://pypi.org/project/agent-coworker/)
+- [GitHub](https://github.com/ZiwayZhao/agent-coworker)
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
