@@ -3850,6 +3850,30 @@ Devin is in early phase now, but according to demo, it has the following capabil
 </details>
 
 
+## [Drevon](https://drevon.dev/)
+AI Orchestrator for end-to-end GTM automation using AI coding agents
+
+<details>
+
+### Category
+Sales, Marketing, GTM Automation, Multi-agent
+
+### Description
+Drevon is an AI Orchestrator that automates your entire Go-to-Market pipeline end-to-end. It uses Claude Code, OpenAI Codex, and GitHub Copilot as parallel execution agents to:
+
+- Automatically research and find ideal customer profiles (ICPs)
+- Enrich lead contact information at scale
+- Generate highly personalized outreach messages
+- Sync all activities to your CRM automatically
+
+Drevon bridges the gap between AI coding agents and real business workflows, replacing manual GTM processes with fully autonomous agents.
+
+### Links
+- [Website](https://drevon.dev/)
+
+</details>
+
+
 ## [Diagram](https://diagram.com/)
 AI design tools for everyone, acquired by Figma
 
