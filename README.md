@@ -2296,6 +2296,31 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [ORCH](https://github.com/oxgeneral/ORCH)
+CLI orchestrator for running AI agent teams with state machine, auto-retry, and TUI dashboard
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- CLI runtime for orchestrating teams of AI coding agents (Claude Code, Codex, Cursor, OpenCode, shell)
+- Formal state machine task lifecycle: `todo → in_progress → review → done` with automatic retry on failure
+- Auto-retry and stall detection — failed or zombie agents are automatically requeued
+- Full TUI dashboard (Ink/React) with real-time task, agent, and goal tracking
+- Inter-agent messaging system — agents coordinate asynchronously via mailbox API
+- Goal system: define high-level outcomes, decompose into tasks, track progress
+- Persistent YAML storage — tasks and state survive session restarts
+- TypeScript strict, ESM-native, zero dependencies in core engine, 1493 tests
+- npm package `@oxgeneral/orch` — install globally and start orchestrating in 60 seconds
+
+### Links
+- [GitHub](https://github.com/oxgeneral/ORCH)
+- [npm](https://www.npmjs.com/package/@oxgeneral/orch)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
