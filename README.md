@@ -474,6 +474,31 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Axocoatl](https://github.com/axocoatl/axocoatl)
+Rust runtime for supervised, self-coordinating agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/axocoatl/axocoatl/main/branding/launch-card.png)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Open-source agentic runtime written in Rust. Agents run as supervised `ractor` actors — if one crashes, it restarts from its last persisted checkpoint instead of losing the run.
+- Coordination is a stigmergic event lattice: agents activate when their dependencies complete, driven by pheromone-style signals with no central orchestrator.
+- 4-tier persistent memory — session, checkpoint, long-term, and semantic recall via local embeddings (candle / all-MiniLM), so no embedding API calls.
+- Runs fully local against Ollama (also OpenAI, Anthropic, Mistral, Gemini, OpenRouter). Zero telemetry, nothing leaves the box.
+- Per-agent pre-flight token budgets, tool calls run in a sandbox, and it speaks MCP as both client and server.
+- Ships as a single ~25 MB binary. Apache-2.0.
+
+### Links
+- [Website](https://axocoatl.ai)
+- [Documentation](https://docs.axocoatl.ai)
+- [GitHub](https://github.com/axocoatl/axocoatl)
+- Author: [Erick Echeverria](https://github.com/cubanerick)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
