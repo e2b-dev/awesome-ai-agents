@@ -2196,6 +2196,25 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Octorato](https://github.com/CarlosCaPe/octorato)
+Open-source agent OS with FinOps for agents: per-client token attribution, isolated client workspaces, and budget caps that halt agents.
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- File-based AI agent operating system, MIT-licensed and open-source
+- FinOps for AI agents: per-client token cost attribution so spend can be tracked per client
+- Air-gapped, isolated per-client workspaces to keep client context separated
+- Hard budget caps that halt agents when a spending limit is reached
+
+### Links
+- [GitHub](https://github.com/CarlosCaPe/octorato)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
