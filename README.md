@@ -3825,6 +3825,10 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [DAUDIT](https://www.daudit.net)
+
+Decision-context engine that audits your thinking across five dimensions before you commit to irreversible decisions. Designed for founders, investors, and operators.
+
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
