@@ -139,6 +139,30 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+
+## [AgentKit](https://github.com/inngest/agent-kit)
+A TypeScript framework for building Agents from single inference calls to multi-agent systems using tools.
+
+<details>
+
+![Image](https://mintlify.s3.us-west-1.amazonaws.com/inngest/graphics/system.svg)
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+AgentKit enables developers to compose simple single-agent systems or entire systems of agents in which multiple agents can work together. Agents are combined into Networks which include a Router to determine which Agent should be called. Their system’s memory is recorded as Network State which can be used by the Router, Agents or Tools to collaborate on tasks.
+AgentKit makes it easy to build from simple chat-based Agents to complex autonomous Coding Agents.
+
+
+### Links
+- [GitHub](https://github.com/inngest/agent-kit)
+- [Docs](https://agentkit.inngest.com/overview)
+- [Discord](https://inngest.com/discord)
+- [X](https://x.com/inngest)
+
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
