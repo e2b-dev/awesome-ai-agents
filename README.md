@@ -2879,6 +2879,30 @@ There are four key principles that we followed when developing WrenAI:
 
 </details>
 
+## [Wee-Orchestrator](https://github.com/leprachuan/Wee-Orchestrator)
+Self-hosted multi-agent AI orchestrator for Claude, Gemini & Copilot CLI
+
+<details>
+
+### Category
+Multi-agent, General purpose, Build your own, Automation
+
+### Description
+- A unified AI agent platform that lets you chat with any AI CLI runtime — GitHub Copilot CLI, Claude Code, OpenCode, Google Gemini, or OpenAI Codex — from Telegram, WebEx, or a browser-based Web UI.
+- Supports 5 AI runtimes and 17+ models with live switching via slash commands.
+- Multi-agent architecture with specialized agents (email triage, smart home, DevOps, coding) switchable per task.
+- Built-in task scheduler with natural language scheduling for recurring AI jobs.
+- Extensible skill plugin architecture supporting domain-specific capabilities (Cisco Meraki, Home Assistant, etc.).
+- Production-ready with dev/prod environment separation, systemd services, and secure pairing-code authentication.
+- Background task delegation to sub-agents for long-running work.
+- File, image, and audio transcription support across all channels.
+
+### Links
+- [GitHub](https://github.com/leprachuan/Wee-Orchestrator)
+- [Starter Kit](https://github.com/leprachuan/wee-orchestrator-starter-kit)
+
+</details>
+
 ## [XAgent](https://github.com/OpenBMB/XAgent)
 Experimental LLM agent that solves various tasks
 
