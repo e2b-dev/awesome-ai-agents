@@ -2764,6 +2764,24 @@ General purpose
 
 </details>
 
+## [wellnizz](https://github.com/liveforeverbetter/wellnizz)
+Agent-first API for genetics, biomarkers, and wearables. 21 MCP tools for biomarkers (168+ markers), wearables (WHOOP, Oura, Garmin), and genomics (WGS, ClinVar, CPIC, PRS).
+
+<details>
+
+### Category
+Health, Bioinformatics, Personal
+
+### Description
+- Agent-first API for genetics, biomarkers, and wearables with 21 MCP tools for biomarkers (168+ markers), wearables (WHOOP, Oura, Garmin), and genomics (WGS, ClinVar, CPIC, PRS).
+- Self-hostable via Docker or hosted at app.wellnizz.com.
+- AGPL-3.0 licensed.
+
+### Links
+- [GitHub](https://github.com/liveforeverbetter/wellnizz)
+- [Website](https://app.wellnizz.com)
+</details>
+
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
