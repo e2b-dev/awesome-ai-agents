@@ -2689,6 +2689,27 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [TrustGuard AI](https://github.com/AbdaullahAG/Trustguard_AI)
+Multi-Agent Privacy Policy Analyzer & Benchmarker
+
+<details>
+
+### Category
+AI Agents, Privacy, Compliance
+
+### Description
+- TrustGuard AI was built for the **Microsoft Foundry · Agents League Hackathon** (Reasoning Agents Track).
+- It deploys a sequential reasoning pipeline of **6 specialized AI agents** powered by Azure AI Foundry (`gpt-5.4`) to dissect complex privacy policies and Terms of Service.
+- **Policy DNA™ Benchmark:** Universally scores and benchmarks any evaluated policy against major tech giants (e.g., *"This site is 23% riskier than TikTok"*).
+- **Change Tracker:** Automatically flags silent, underlying policy updates between visits using SHA-256 diffing.
+- **Multi-Framework Compliance:** Comprehensively audits policies against 6 global privacy frameworks simultaneously: GDPR, CCPA, PDPA, PIPEDA, LGPD, and DPDPA.
+- **Dark Patterns Detection:** Uncovers manipulative legal design tactics, forced consent, and vague language that standard text summarizers miss.
+- Features a clean, tabbed frontend dashboard (Vanilla JS/HTML/CSS) with a Flask backend and automated professional PDF report generation.
+
+### Links
+- [GitHub](https://github.com/AbdaullahAG/Trustguard_AI)
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
