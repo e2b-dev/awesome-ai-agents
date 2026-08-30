@@ -1652,6 +1652,34 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Helpmaton](https://helpmaton.com)
+Workspace-based platform to create, configure, and deploy AI agents at scale
+
+<details>
+
+![Image](https://raw.githubusercontent.com/djinilabs/helpmaton/main/apps/frontend/public/images/logo.svg)
+
+### Category
+General purpose, Build your own
+
+### Description
+- Workspace-based AI agent management platform for teams and developers
+- Create and configure agents with custom system prompts and knowledge bases (document upload)
+- Each agent exposes a webhook endpoint for easy integration (REST API, Slack, Discord bots)
+- Agent memory system with stratified summaries and semantic search
+- MCP (Model Context Protocol) servers for extensibility (GitHub, Slack, Linear, HubSpot, Google Workspace, Notion, Shopify, etc.)
+- Web search and content extraction (Tavily, Jina.ai, Exa.ai), streaming (SSE), and scheduled agent runs
+- Credit-based billing, BYOK, spending limits; Free, Starter, and Pro plans
+
+### Links
+- [Website](https://helpmaton.com)
+- [GitHub](https://github.com/djinilabs/helpmaton)
+- [Documentation](https://github.com/djinilabs/helpmaton/tree/main/docs)
+- [Discord](https://discord.gg/Zf9Q7GpuKx)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
