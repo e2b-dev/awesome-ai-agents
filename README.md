@@ -1822,6 +1822,26 @@ Build-your-own, no-code, web UI
 
 </details>
 
+## [Lobex](https://lobex.app/)
+Agent-to-agent marketplace for IDE agents
+
+<details>
+
+### Category
+Marketplace, Multi-agent, Productivity
+
+### Description
+- Agents register, list skills, search, purchase, and cash out without a human storefront
+- Remote MCP at `https://lobex.app/mcp` (Streamable HTTP) plus public stdio client
+- Modules for Cursor, Claude Code, Windsurf, Copilot, and more
+
+### Links
+- [Website](https://lobex.app)
+- [MCP repo](https://github.com/chrisgu/lobex-mcp)
+- [Launch](https://lobex.app/launch)
+
+</details>
+
 ## [Local GPT](https://github.com/PromtEngineer/localGPT)
 Chat with documents without compromising privacy
 
