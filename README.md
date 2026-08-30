@@ -2961,6 +2961,27 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [ZugaMind](https://github.com/Zuga-Technologies/zugamind)
+Persistent cognition sidecar that wakes your coding agent (Claude Code, OpenClaw, Codex, Hermes) on salience, not cron
+
+<details>
+
+### Category
+Build your own, Productivity, Coding
+
+### Description
+- Deterministic stdlib scanners watch your sources for free — no model calls while idle
+- Global Workspace attention competition (habituation, diversity caps, starvation boosts) decides what deserves a wake
+- Fail-closed budget gate, per-hour/per-day caps, quiet hours; every wake journaled to JSONL
+- Wakes the harness you already run with a continuity briefing — verified end-to-end against Claude Code, OpenClaw, Codex CLI, and Hermes, including a $0 fully-local path (qwen3 via Ollama)
+- Python 3.10+ stdlib only (zero dependencies), Apache-2.0, 262 hermetic tests on a 3-OS CI matrix
+
+### Links
+- [GitHub](https://github.com/Zuga-Technologies/zugamind)
+
+</details>
+
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
