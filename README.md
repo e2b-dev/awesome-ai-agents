@@ -2961,6 +2961,21 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [langchain-api-guard](https://github.com/ShipProtocol/langchain-api-guard)
+Local SQLite ledger and Python wrapper to track OpenAI API costs and prevent runaway billing
+<details>
+![Image](https://opengraph.githubassets.com/1/ShipProtocol/langchain-api-guard)
+### Category
+Tool for agents, Developer tools, Coding
+### Description
+- A local SQLite ledger and Python wrapper to track OpenAI API costs in real-time.
+- Intercepts OpenAI SDK calls, extracts token usage, and logs to a local database.
+- Prevents runaway LangChain/CrewAI billing without relying on laggy cloud dashboards.
+- Zero cloud dependencies, fully local and private.
+### Links
+- [GitHub](https://github.com/ShipProtocol/langchain-api-guard)
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
