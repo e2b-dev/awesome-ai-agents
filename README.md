@@ -255,6 +255,30 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [amux](https://github.com/mixpeek/amux)
+Open-source Claude Code agent multiplexer — run dozens of parallel AI coding agents unattended via tmux.
+
+<details>
+
+### Category
+Multi-agent, Developer tools, Claude Code
+
+### Description
+
+- **Parallel sessions**: Run unlimited Claude Code agents simultaneously via tmux
+- **Self-healing watchdog**: Auto-restarts stalled or crashed agent sessions
+- **Atomic kanban board**: SQLite-backed task claiming prevents duplicate work across agents
+- **Agent-to-agent REST API**: Orchestrate agents with POST /api/sessions/NAME/send
+- **Mobile PWA dashboard**: Monitor and control all agents from your phone
+- **Single Python file**: Zero config — just python3 amux-server.py, MIT licensed
+
+### Links
+- [Homepage](https://amux.io)
+- [GitHub](https://github.com/mixpeek/amux)
+- [Demos](https://amux.io/demos/)
+- [Documentation](https://amux.io/guides/)
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
