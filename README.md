@@ -95,6 +95,23 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Aegis](https://github.com/getaegis/aegis)
+Credential isolation proxy for AI agent API calls
+
+<details>
+<summary>Details</summary>
+
+### Category
+Security, Infrastructure, Developer Tools
+
+### Description
+Aegis is a local-first credential isolation proxy for AI agents. It sits between an AI agent and the APIs it calls — the agent never sees, stores, or transmits real credentials. Aegis injects them at the network boundary, enforces domain restrictions, and logs every request. Works as a transparent HTTP proxy (any process that makes HTTP calls) or as an MCP server (Claude Desktop, Cursor, VS Code, Windsurf, Cline). No SDK required — language and framework agnostic.
+
+### Links
+- [GitHub](https://github.com/getaegis/aegis)
+- [npm](https://www.npmjs.com/package/@getaegis/cli)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
