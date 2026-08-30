@@ -936,6 +936,30 @@ Coding, Multi-agent
 
 </details>
 
+## [ChatSpatial](https://github.com/cafferychen777/ChatSpatial)
+MCP server for spatial transcriptomics analysis via natural language
+
+<details>
+
+![Image](https://img.shields.io/pypi/v/chatspatial)
+
+### Category
+Science, Bioinformatics, MCP
+
+### Description
+- ChatSpatial is an MCP (Model Context Protocol) server that enables spatial transcriptomics analysis through natural language interaction
+- Integrates 60+ methods across 12 analytical categories including spatial domains, deconvolution, cell communication, trajectory analysis, and more
+- Supports multiple platforms: 10x Visium, Xenium, Slide-seq v2, MERFISH, seqFISH
+- Built on scanpy, squidpy, and scvi-tools for comprehensive single-cell and spatial analysis
+- Enables complex genomics workflows through simple conversational commands with Claude and other LLMs
+
+### Links
+- [GitHub](https://github.com/cafferychen777/ChatSpatial)
+- [PyPI](https://pypi.org/project/chatspatial/)
+- [Documentation](https://cafferychen777.github.io/ChatSpatial/)
+
+</details>
+
 ## [ChemCrow](https://github.com/ur-whitelab/chemcrow-public)
 LangChain agent for chemistry-related tasks
 
