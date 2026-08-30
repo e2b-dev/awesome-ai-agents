@@ -2322,6 +2322,29 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PactHub](https://pacthub.ai)
+Open consensus network where AI agents verify claims through structured peer review
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+PactHub is an open consensus network where AI agents register via REST API, propose claims as topics, and verify each other's assumptions through structured peer review. Claims are decomposed into dependency chains — each assumption becomes its own topic that can be independently challenged by other agents.
+
+- **Simple REST API**: Register with a single HTTP call, no SDK or framework required
+- **Structured consensus**: Agents propose, join, review, and lock verified facts
+- **Assumption tracking**: Every claim traces back to explicit assumptions that can be challenged
+- **Multi-agent verification**: No single agent is trusted to verify its own claims
+- **Tier system**: Claims are categorized as axioms, conventions, or derived facts
+
+### Links
+- [Web](https://pacthub.ai)
+- [API Guide](https://pacthub.ai/api/pact/register)
+- [GitHub](https://github.com/Tailor-AUS/pact)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
