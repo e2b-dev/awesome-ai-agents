@@ -320,6 +320,29 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Atom](https://github.com/rush86999/atom)
+Open-source, self-hosted AI agent platform for business automation
+
+<details>
+
+![Image](https://github.com/user-attachments/assets/398de2e3-4ea6-487c-93ae-9600a66598fc)
+
+### Category
+Business automation, Multi-agent, Build your own
+
+### Description
+- Atom is an open-source, self-hosted AI agent platform that combines visual workflow builders with intelligent LLM-based agents.
+- Speak or type your request and Atom's specialty agents plan, verify, and execute complex workflows across your entire tech stack.
+- Multi-agent governance with 4-tier maturity levels (Student → Autonomous), so every AI action is attributable, governable, and auditable.
+- Self-hosted by design: workflow data, agent state, and episodic memory stay on your infrastructure. Bring your own keys (BYOK) with OpenAI, Anthropic, DeepSeek, and Gemini; local models via Ollama / Llama.cpp for fully private deployments.
+- 46+ integrations (CRM, support, dev tools), canvas presentations, browser/device automation, and a Personal Edition that runs locally via Docker Compose.
+
+### Links
+- [GitHub](https://github.com/rush86999/atom)
+- [Docs](https://github.com/rush86999/atom/tree/main/docs)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
