@@ -255,6 +255,27 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AGX](https://github.com/ramarlina/agx)
+Local-first agent orchestrator for coding
+
+<details>
+
+### Category
+Coding, Multi-agent, Developer tools
+
+### Description
+- Local-first agent orchestrator that runs Claude Code, Codex, Gemini CLI, and Ollama in parallel
+- Wake → Work → Sleep execution model with checkpointed state — agents resume at constant cost across sessions and crashes
+- Worktree isolation keeps parallel agents from stepping on each other
+- Human-in-the-loop gates before irreversible actions
+- Every task lives under a project with objectives, scheduled jobs, chat threads, terminal sessions, and teams
+
+### Links
+- [Website](https://runagx.com)
+- [GitHub](https://github.com/ramarlina/agx)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
