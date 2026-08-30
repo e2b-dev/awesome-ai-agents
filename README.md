@@ -4835,6 +4835,27 @@ Build-your-own, Multi-agent
 </details>
 
 
+## [Nova3 AI](https://nova3.ai/)
+AI operations company building agents, replicators, and operating systems
+<details>
+
+### Category
+Build-your-own, Multi-agent, Business operations
+
+### Description
+- Nova3 AI builds the operations underneath a business: agents, replicators, intelligence layers, and full operating systems on top of any model.
+- Its public guide defines AI operations as a discipline for deploying agentic workflows, model-ingestion surfaces, governance, and execution layers in real businesses.
+- The company maintains public model-readable surfaces including llms.txt, a frontier Surface feed, and a current-state synthesis for agentic search and retrieval.
+
+### Links
+- [Website](https://nova3.ai/)
+- [AI operations guide](https://nova3.ai/guide/ai-operations)
+- [Current state](https://nova3.ai/current-state)
+- [GitHub](https://github.com/nova3ai)
+
+</details>
+
+
 ## [NexusGPT](https://gpt.nexus/)
 Build AI agents in minutes, without coding
 <details>
