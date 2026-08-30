@@ -980,6 +980,28 @@ Coding
 
 </details>
 
+## [ClawHQ](https://clawhq.dev)
+AI agent platform + marketplace with multi-channel deployment (Telegram, WhatsApp, Discord, Slack, iMessage)
+
+<details>
+
+### Category
+Platform / Marketplace
+
+### Description
+- ClawHQ packages AI agents the way an app store packages apps — a marketplace of 700+ pre-built agents you can rent in one click, plus a no-code wizard for building your own.
+- Agents run in real Linux containers (not sandboxed iframes) — actual shell access, persistent filesystem, scheduled tasks, optional desktop environments via noVNC.
+- 12 environment tiers from chat-only (free) to enterprise-grade sandboxes; multi-model (Claude, GPT, Gemini, DeepSeek, local Ollama via the Bridge desktop app).
+- Cross-agent shared memory (Super Memory, pgvector-backed) so agents on different machines and channels share what they've learned about the user.
+- Privacy-first WildClaw tier runs the entire stack — local LLM, image gen, workspace — on the user's own GPU; nothing leaves the machine.
+
+### Links
+- [Website](https://clawhq.dev)
+- [Marketplace](https://clawhq.dev/marketplace)
+- [Bridge Desktop App](https://clawhq.dev/download)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
