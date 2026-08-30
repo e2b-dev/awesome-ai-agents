@@ -2482,6 +2482,27 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [StockSense](https://stocksense-interlutyinc-wqs-projects.vercel.app)
+
+<a href="https://stocksense-interlutyinc-wqs-projects.vercel.app" target="_blank"><img src="https://stocksense-interlutyinc-wqs-projects.vercel.app/favicon.ico" width="50" height="50" alt="StockSense"></a>
+
+StockSense is an AI-native supply chain agent for Shopify merchants. It analyzes live inventory, reasons through stock levels and supplier relationships, and sends purchase orders automatically.
+
+### Category
+Supply chain, E-commerce, Productivity, Business intelligence
+
+### Description
+- Connects to Shopify stores and fetches live inventory data
+- Uses Claude AI to reason through stock levels, velocity, and supplier lead times
+- Generates reorder recommendations with full plain-language explanations
+- Sends purchase orders directly to suppliers via email autonomously
+- Supports inventory, dropshipping, and hybrid business models
+
+### Links
+- [Website](https://stocksense-interlutyinc-wqs-projects.vercel.app)
+- [GitHub](https://github.com/interlutyinc-wq/stocksense)
+
+---
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
