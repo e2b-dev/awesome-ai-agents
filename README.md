@@ -3036,6 +3036,25 @@ Data analysis, Science, Monitoring, General purpose, Business intelligence, Supp
 
 </details>
 
+## [Agents Launchpad](https://launchpad.smartbizcalc.com)
+Curated directory of indie AI agents, MCP servers, and tools
+
+<details>
+
+### Category
+Discovery, Resources, Community
+
+### Description
+- Free, nightly-updated launchpad where indie builders publish and discover autonomous agents, MCP servers, CLI tools, and browser extensions
+- 235+ listings across 10 categories — hosted agents, MCPs, prompt packs, SDKs, SMB AI, and more
+- Community upvoting surfaces the most useful tools; no ads, no paywalls
+- Submit for free — listed within 24 hours
+
+### Links
+- [Web](https://launchpad.smartbizcalc.com)
+
+</details>
+
 ## [AgentScale](https://agentscale.ai/)
 Your assistant, email writer, calendar scheduler
 
