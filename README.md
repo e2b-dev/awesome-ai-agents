@@ -2982,6 +2982,28 @@ General purpose, Productivity, Business intelligence
 
 </details>
 
+## [AdaL](https://sylph.ai/)
+Self-evolving AI coding agent for teams & power developers
+
+<details>
+
+![image](https://sylph.ai/adal-face-logo-dark.svg)
+
+### Category
+Coding, Multi-agent, Build-your-own
+
+### Description
+- AdaL is a self-evolving AI coding agent that learns your codebase patterns and adapts to your team's style through auto-prompting.
+- Runs locally on your machine or remote server - your code stays private, no data leaves your environment.
+- Let models collaborate: Switch mid-session between Claude, GPT, Gemini for optimal results.
+- Ship 10x faster: Build dashboards, products, landing pages with AI that adapts to your team's style.
+- Built by creators of AdalFlow and researchers from NVIDIA, Meta AI, Stanford, USC, UT Austin, and MIT.
+
+### Links
+- [Website](https://sylph.ai/)
+- [AdalFlow (Open Source)](https://github.com/SylphAI-Inc/AdalFlow)
+</details>
+
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 ML research and product lab building intelligence
 
