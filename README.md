@@ -1966,6 +1966,25 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+
+## [MBSE Agents](https://github.com/ajhcs/mbse-agents)
+Portable AI agents with practitioner-level systems engineering knowledge
+
+<details>
+
+### Category
+Domain-specific, Multi-agent, Build your own
+
+### Description
+- Portable AI agents with practitioner-level systems engineering knowledge across aerospace (ARP4754A, DO-178C), defense (DoDAF, MIL-STD-882E), automotive (ISO 26262), and medical devices (IEC 62304).
+- Includes multi-tool crosswalk tables for Cameo, Capella, Rhapsody, Sparx EA, DOORS, and Simulink.
+- Works with Claude Code, ChatGPT, Cursor, Codex CLI, and more.
+
+### Links
+- [GitHub](https://github.com/ajhcs/mbse-agents)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
