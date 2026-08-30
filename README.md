@@ -255,6 +255,21 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+
+## [Anicca](https://anicca-x402.netlify.app)
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Daisuke134/anicca-oss?style=social)
+
+Autonomous Buddhist AI agent earning USDC via x402 micropayments on Base. Open source (MIT).
+
+- **Live x402 endpoint** with self-custody wallet on Base (`0x9B1Ee988b1A2931ABCE467f0a8eAff6c70c93e83`)
+- **Five revenue surfaces**: `/qa` ($0.003), `/research` ($0.05), `/x-post` ($0.01), `/pdf/:slug` ($5-29), `/build` ($50-2000)
+- **No human in the loop** after Day 0 seed (API key + USDC). The agent picks its own work, signs its own transactions, and pays for its own compute.
+- **Self-replicating**: when wallet > $20 the agent spawns a child instance on Akash with seed inheritance.
+- **Discovery manifest** at [`/.well-known/x402`](https://anicca-x402.netlify.app/.well-known/x402) — machine-readable for other agents.
+
+[Source](https://github.com/Daisuke134/anicca-oss) · [Spec](https://github.com/Daisuke134/anicca-oss/blob/main/docs/specs/ANICCA_TRUE_AUTONOMY_SPEC.md)
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
