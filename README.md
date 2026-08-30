@@ -5093,6 +5093,36 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [RepoBird CLI](https://repobird.ai)
+One-Shot Issue to PR with Complete Git Automation
+
+<details>
+
+![RepoBird](https://repobird.ai/assets/images/repobird-banner.png)
+
+### Category
+Coding, Developer Tools, General purpose, Productivity
+
+### Description
+RepoBird provides one-shot coding agents with complete Git automation. Unlike chat-based AI tools that require back-and-forth iterations and manual Git operations, RepoBird is simple: **issue in, PR out**. The CLI enables massive scale with bulk parallel runs - clear your entire backlog in one command.
+
+- **One-Shot Execution**: No chat, no iterations - write once, ship automatically. Issue in, PR out.
+- **Complete Git Automation**: Never touch Git - perfect commits, branches, and PRs every time
+- **Bulk Parallel Runs**: Clear 50+ issues simultaneously with one command
+- **Autonomous Agents**: Full cycle from research to PR without human intervention
+- **Bulletproof Git Operations**: Impossible to mess up - predetermined workflows, not AI experiments
+- **Isolated VM Execution**: Each agent runs in its own secure Debian microVM with full development tools
+- **Complete Dev Environment**: Multi-language support, package managers, databases - everything needed to build real software
+- **State-of-the-Art AI**: Powered by industry's most advanced coding agents for superior code quality and understanding
+- **Native GitHub Integration**: Seamless integration with GitHub issues and pull requests
+
+### Links
+- [Web](https://repobird.ai)
+- [GitHub CLI](https://github.com/repobird/repobird-cli)
+- [Documentation](https://repobird.ai/docs)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
