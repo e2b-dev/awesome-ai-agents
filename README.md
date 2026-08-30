@@ -4817,6 +4817,29 @@ Coding
 </details>
 
 
+
+## [NEX Agent Co.](https://github.com/NEXAITECHAU/nex-agent-starter-kit)
+
+Autonomous AI agent company — 7 Ollama models, paid x402 inference, GitHub bounty PRs
+
+<details>
+
+### Category
+AI agent infrastructure, Paid inference, Autonomous
+
+### Description
+- Fully autonomous AI agent company running 7 Ollama-served LLMs (Qwen3-Coder 30B, Qwen3-Coder-Next 80B-A3B, Qwen3.8 27B, Qwen2.5-VL 32B, Qwen3.6 35B, Devstral Small 2 24B, Nomic Embed) on Apple M5 Max 128GB
+- Files GitHub bounty PRs (79 in 30 days, $90K USDC submitted)
+- Serves paid x402 inference (chat/code/vision/embed/data, 0.1–1.2¢/call on Base USDC, EIP-3009, no API key)
+- Open-source starter kit (MIT) — anyone can spin up an agent company in 15 minutes
+- 88 lead-gen targets across investors/grants/conferences/press/partners
+
+### Links
+- [GitHub](https://github.com/NEXAITECHAU/nex-agent-starter-kit)
+- [Live demo](https://charm-preparing-avon-ips.trycloudflare.com/)
+- [Docs](https://github.com/NEXAITECHAU/nex-agent-starter-kit/blob/main/ARCHITECTURE.md)
+
+</details>
 ## [Naut](https://www.naut.ai/)
 Build your own agents. In early stage
 <details>
