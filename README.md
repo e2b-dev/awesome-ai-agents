@@ -255,6 +255,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentVoy](https://github.com/agentvoy/agentvoy)
+Universal AI agent platform — scaffold, guard, and deploy across 7 frameworks
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- A universal platform for building AI agents that supports 7 frameworks (OpenAI Agents SDK, Anthropic, CrewAI, LangGraph, Google ADK, LlamaIndex, AutoGen) through a single CLI.
+- Provides built-in guardrails with configurable rate limiting, topic blocking, and PII filtering via a simple YAML config.
+- Includes a real-time DevTools dashboard for monitoring agent traces, tool calls, and guardrail events.
+- Supports single-agent and multi-agent pipeline architectures with sequential orchestration.
+- One-command deployment to Docker, Fly.io, Railway, GCP Cloud Run, and AWS Lambda.
+- Generates a Streamlit chat UI and FastAPI server alongside the agent code.
+
+### Links
+- [GitHub](https://github.com/agentvoy/agentvoy)
+- [Website](https://agentvoy.com)
+- [Docs](https://agentvoy.com/docs)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
