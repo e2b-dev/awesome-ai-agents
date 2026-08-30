@@ -2788,6 +2788,27 @@ Blockchain, Coding, Generating apps, Smart contract
 
 </details>
 
+## [webclaw](https://github.com/0xMassi/webclaw)
+Open-source web extraction and research engine for AI agents
+
+<details>
+
+### Category
+Data extraction, Research, Build your own
+
+### Description
+
+- Scrape, crawl, map, and search the web, then extract, summarize, or run deep multi-source research.
+- MCP-native: ships an MCP server (webclaw-mcp) that exposes its tools to any agent.
+- Local-first: most fetches run locally for free, with a cloud API for JS-rendered or protected pages.
+- Rust core (CLI + MCP server) plus a hosted REST API; outputs Markdown, text, or JSON.
+
+### Links
+- [GitHub](https://github.com/0xMassi/webclaw)
+- [Website](https://webclaw.io)
+
+</details>
+
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent environment simulation library
 <details>
