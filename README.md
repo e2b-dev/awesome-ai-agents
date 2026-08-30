@@ -474,6 +474,28 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+
+## [B2B SDR Agent Template](https://github.com/iPythoning/b2b-sdr-agent-template)
+AI-powered Sales Development Representative for B2B export
+
+<details>
+
+### Category
+Sales, Multi-agent, Automation
+
+### Description
+
+- **Full Pipeline Automation**: 10-stage sales pipeline from lead capture to deal closing, with automated BANT qualification, CRM entry, and quotation generation.
+- **7-Layer Context Architecture**: Identity, Soul, Agents, User, Heartbeat, Memory, Tools — all configured via Markdown files, no code required.
+- **Multi-Channel Orchestration**: Automated outreach across WhatsApp, Telegram, and Email with timezone-aware scheduling and human-like message pacing.
+- **3-Engine Memory**: Supermemory (semantic research), MemoryLake (session context), MemOS Cloud (cross-session patterns) for persistent intelligence.
+- **Dynamic ICP Scoring**: Auto-adjusting lead scoring based on 5 weighted dimensions and real-time interaction signals.
+- **10 Automated Cron Jobs**: Gmail monitoring, lead discovery, email sequences, stalled deal detection, competitor intelligence, and weekly reporting.
+
+### Links
+- [GitHub](https://github.com/iPythoning/b2b-sdr-agent-template)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
