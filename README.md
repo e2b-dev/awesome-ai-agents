@@ -2738,6 +2738,30 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [VibeXForge](https://www.vibexforge.com)
+AI launch platform that uses Claude Haiku 4.5 to score submitted projects across 5 dimensions and evolve them through 6 RPG stages on real engagement.
+
+<details>
+
+![Image](https://github.com/alex-jb/vibex/raw/master/public/generated-gpt/ph-launch-hero-v1.png)
+
+### Category
+Project review, Code review, Web app, Multi-agent, Open source
+
+### Description
+- Submit a URL or GitHub repo, get a Claude Haiku 4.5-powered review across 5 dimensions (originality, clarity, UX potential, virality potential, investor curiosity) within 30 seconds
+- Every project becomes a 16-bit pixel-art Hero Card. Cards evolve through six stages — Seed → Active → Growing → Breakout → Legend → Myth — based on real engagement (plays, upvotes, shares), not 24-hour upvote sprints
+- Built on Next.js 16 (Cache Components / RSC) + Supabase (Auth / RLS / SECURITY DEFINER RPCs) + Claude Haiku 4.5
+- 925 bilingual EN/ZH i18n strings · source-available · runs locally with zero config (`npm run dev` with mock data, no API keys required)
+- Includes a parametric Remotion-driven trailer pipeline that renders per-project hero clips
+
+### Links
+- [Live demo](https://www.vibexforge.com)
+- [GitHub](https://github.com/alex-jb/vibex)
+- [Latest release](https://github.com/alex-jb/vibex/releases/latest)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
