@@ -2296,6 +2296,30 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenClaw](https://github.com/openclaw/openclaw)
+Open-source AI agent runtime and CLI for Claude
+
+<details>
+
+### Category
+General purpose, Multi-agent, Automation
+
+### Description
+OpenClaw is an open-source AI agent runtime that connects Claude to the real world — tools, devices, messaging (Telegram, Discord, Slack), browser automation, cameras, and more.
+- CLI-first: install via npm, configure and run
+- Connects to messaging platforms, IoT devices, browsers
+- Sub-agent orchestration and parallel task execution
+- Skills system for extensible capabilities
+- Self-hosted, MIT licensed
+
+### Links
+- [GitHub](https://github.com/openclaw/openclaw)
+- [Docs](https://docs.openclaw.ai)
+- [Discord](https://discord.com/invite/clawd)
+- Powered by [deAPI.ai](https://deapi.ai/) — $5 free credit, no credit card required
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
