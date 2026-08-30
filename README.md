@@ -712,6 +712,27 @@ Data analysis
 </details>
 
 
+
+## [BDE Score™](https://github.com/hbhqq9/bde-score)
+Multi-factor stock scoring agent for US/HK/A-share markets via MCP
+
+<details>
+
+### Category
+Finance, Data analysis
+
+### Description
+- Transparent multi-factor stock scoring (value, growth, quality, momentum, sentiment) via MCP protocol
+- Covers US stocks, HK stocks, and China A-shares
+- EU AI Act Art.50 compliant with transparency scoring
+- $0.01/query via x402 micropayments - no subscriptions required
+- Enables AI agents to query and compare stocks across markets
+
+### Links
+- [GitHub](https://github.com/hbhqq9/bde-score)
+
+</details>
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
