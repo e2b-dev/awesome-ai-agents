@@ -234,6 +234,28 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentShield](https://github.com/hidearmoon/agentshield)
+Runtime security layer for AI agents — inspect, control, and audit every tool call
+<details>
+
+### Category
+Developer tools, Software security, Multi-agent
+
+### Description
+- **Runtime guardrails**: Sits between AI agents and their tools, evaluating every tool call through a multi-layer security pipeline before execution
+- **Trust-aware data flow**: 5-tier trust model (Trusted → Verified → Internal → External → Untrusted) computed server-side — clients can only downgrade trust, never upgrade
+- **3-layer intent consistency detection**: Rule Engine (μs) → Anomaly Detector (μs) → Semantic Checker (ms). Most requests resolve in Layers 1-2 with no LLM call
+- **Two-phase call architecture**: Data extraction and action execution are physically separated, like SQL parameterized queries for LLMs
+- **Policy DSL**: Define custom security rules in YAML without writing code
+- **Merkle tree audit trail**: Tamper-proof, hash-chained decision history for compliance and incident response
+- **22 built-in security rules** covering prompt injection, data exfiltration, privilege escalation, and operational safety
+- **Drop-in framework support**: LangChain, CrewAI, AutoGen, plus transparent sidecar proxy mode requiring zero code changes
+- **342 tests** including 92 dedicated security tests (injection, encoding bypass, header forgery, trust escalation)
+
+### Links
+- [GitHub Repository](https://github.com/hidearmoon/agentshield)
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
