@@ -887,6 +887,26 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [carlos](https://github.com/georgebuilds/carlos)
+BYOK TUI coding agent for work and life. Written in pure Go.
+
+<details>
+
+### Category
+Coding
+
+### Description
+- A single static Go binary (around 30 MB, no CGO) that reads and edits repos, runs commands, and works across multiple model providers with your own keys (BYOK)
+- Frames let one agent hold separate contexts for work and life: each frame carries its own provider, model, billing keys, vault subtree, system prompt, and capabilities, with cross-frame reads free and writes audited. Switch frames live with Ctrl+F without losing the transcript
+- Orchestrator modes gate sub-agent spawning (solo, tight, orchestrator), alongside a research pipeline that writes cited reports, autonomous skill induction, and first-class sub-agent supervision
+
+### Links
+- [Website](https://georgebuilds.github.io/carlos/)
+- Author: [George Fernandez](https://github.com/georgebuilds)
+- [GitHub](https://github.com/georgebuilds/carlos)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
