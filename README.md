@@ -2660,6 +2660,29 @@ General purpose, Productivity
 
 </details>
 
+
+## [TeamHero](https://github.com/sagiyaacoby/TeamHero)
+Multi-agent orchestration platform with web dashboard and task lifecycle
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Open-source platform for orchestrating multiple AI agents with role-based assignments
+- Built-in web dashboard for real-time task tracking and agent management
+- Full task lifecycle: draft, working, pending approval, accepted, closed
+- Knowledge base with document promotion from completed tasks
+- Autopilot mode for fully automated agent workflows without human review
+- Runs entirely locally with zero cloud dependency
+- Built on Claude Code and the Anthropic SDK
+
+### Links
+- [GitHub](https://github.com/sagiyaacoby/TeamHero)
+
+</details>
+
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 BabyAGI-inspired agent, can recall infinite memory
 <details>
