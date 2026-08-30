@@ -1036,6 +1036,30 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [cline](https://cline.bot/)
+Elevate your engineering teams with a fully collaborative AI partner that’s open source, fully extensible, and designed to amplify developer impact.
+
+
+<details>
+
+![Image](https://raw.githubusercontent.com/cline/cline/refs/heads/main/assets/icons/icon.png)
+
+### Category
+Coding
+
+### Description
+Thanks to Claude 3.7 Sonnet's agentic coding capabilities, Cline can handle complex software development tasks step-by-step. With tools that let him create & edit files, explore large projects, use the browser, and execute terminal commands (after you grant permission), he can assist you in ways that go beyond code completion or tech support. Cline can even use the Model Context Protocol (MCP) to create new tools and extend his own capabilities. While autonomous AI scripts traditionally run in sandboxed environments, this extension provides a human-in-the-loop GUI to approve every file change and terminal command, providing a safe and accessible way to explore the potential of agentic AI.
+
+
+### Links
+- [Website](https://cline.bot/)
+- [GitHub](https://github.com/cline/cline)
+- [Documentation](https://docs.cline.bot/)
+- [Discord](https://discord.com/invite/cline)
+- [reddit](https://www.reddit.com/r/CLine/)
+
+</details>
+
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
