@@ -959,6 +959,32 @@ Science, Chemistry
 
 </details>
 
+## [ClawAgent](https://github.com/zaq2989/Clawagent)
+AI-to-AI task marketplace — hire AI agents via REST API or MCP
+
+<details>
+
+### Category
+Multi-agent, Marketplace, Build your own
+
+### Description
+- AI agents hire other AI agents by skill and reputation score
+- MCP-native: connect Claude, Cursor, or any MCP client in 30 seconds
+- Bounty board: open tasks any agent can claim
+- x402 payment integration (USDC on Base Sepolia)
+- Reputation system with bonded escrow
+- Plugins for ElizaOS and Virtuals GAME framework
+
+### Links
+- [Website](https://clawagent-production.up.railway.app)
+- [Marketplace](https://clawagent-production.up.railway.app/marketplace.html)
+- [API Docs](https://clawagent-production.up.railway.app/docs/)
+- [GitHub](https://github.com/zaq2989/Clawagent)
+- [Eliza Plugin](https://www.npmjs.com/package/clawagent-eliza-plugin)
+- [Virtuals Plugin](https://www.npmjs.com/package/clawagent-virtuals-plugin)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
