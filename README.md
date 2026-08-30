@@ -4835,6 +4835,27 @@ Build-your-own, Multi-agent
 </details>
 
 
+## [NERV](https://github.com/juanmanueldaza/nerv)
+Invisible engineering infrastructure for AI agents on OpenCode
+<details>
+
+### Category
+Build-your-own, Coding
+
+### Description
+- Spec-Driven Development (SDD) pipeline for structured feature development
+- A2A task delegation hub for agent-to-agent communication
+- MAGI persistent semantic memory (ChromaDB + SQLite)
+- 9 specialized subagents covering the full SDD workflow
+- Scaffolds 45+ files via `nerv init` including MCP servers, slash commands, and lifecycle plugins
+- Native integration with OpenCode, Codex, and Claude Code
+
+### Links
+- [GitHub](https://github.com/juanmanueldaza/nerv)
+- [Documentation](https://github.com/juanmanueldaza/nerv#readme)
+</details>
+
+
 ## [NexusGPT](https://gpt.nexus/)
 Build AI agents in minutes, without coding
 <details>
