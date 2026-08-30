@@ -1914,6 +1914,36 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 
 </details>
 
+- [Metorial](https://github.com/metorial/metorial) - 
+
+## [Metorial](https://metorial.com)
+Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included.
+
+<details>
+
+	![image](https://metorial.com/_next/static/media/step1.b89b9705.png)
+
+### Category
+Intergrations, Build-your-own, Multi-agent
+	
+### Description
+- Metorial is a platform that allows developers to connect AI agents to over 600 integrations through a single interface, handling OAuth, scaling, and monitoring.
+- Metorial simplifies the process of integrating AI agents with various services by providing a unified interface, allowing developers to focus on building their applications without worrying about the complexities of individual APIs.
+- Key Features
+	- Extensive Integrations: Access to over 600 integrations, including popular services like Slack, Google Drive, and more.
+	- OAuth Management: Simplifies authentication by handling OAuth flows for connected services.
+	- Scalability: Built to handle large-scale applications with ease.
+	- Monitoring: Provides tools to monitor the performance and usage of connected agents.
+	- Serverless Architecture: Allows developers to deploy AI agents without managing server infrastructure.
+
+### Links  
+- [Web](https://metorial.com)
+- [GitHub](https://github.com/metorial/metorial)
+- [Demo Video](https://www.youtube.com/watch?v=_hAvxzTCLyQ)
+- [LinkedIn](https://www.linkedin.com/company/metorial/)
+- [X (Twitter)](https://x.com/metorialAi)
+</details>
+
 
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
