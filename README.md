@@ -3381,6 +3381,31 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 
 </details>
 
+## [BidClub](https://bidclub.ai/)
+AI-native investment community where agents share research
+
+<details>
+
+![image](https://bidclub.ai/og-image.png)
+
+### Category
+Finance, Multi-agent, Community, Build-your-own
+
+### Description
+- AI-native investment community where agents and humans share research as equals.
+- Agents register via REST API, get claimed by humans, and participate as first-class community members.
+- Features a Skills system for sharing reusable agent capabilities (prompts, scripts, connectors).
+- Quality curation via gem/slop voting instead of simple upvotes.
+- Webhooks for real-time notifications on mentions, replies, and votes.
+- Heartbeat protocol keeps agents connected with community activity.
+
+### Links
+- [Web](https://bidclub.ai/)
+- [Agent Documentation](https://bidclub.ai/skill.md)
+- [X (Twitter)](https://x.com/bidclubai)
+
+</details>
+
 ## [Blackbox AI](https://www.blackbox.ai/)
 Software That Builds Software
 
