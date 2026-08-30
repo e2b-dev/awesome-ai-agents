@@ -2738,6 +2738,24 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [ValuePacket](https://github.com/KryptosAI/ValuePacket)
+Permissionless payment protocol for autonomous AI agents
+
+<details>
+
+### Category
+Agent Infrastructure, Payment, Web3
+
+### Description
+- Permissionless payment protocol for autonomous AI agents
+- EIP-712 micropayment channels for agent-to-agent transactions across any framework
+- ElizaOS & G.A.M.E adapters
+
+### Links
+- [GitHub](https://github.com/KryptosAI/ValuePacket)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
