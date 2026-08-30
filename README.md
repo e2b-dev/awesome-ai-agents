@@ -4617,6 +4617,28 @@ Productivity
 </details>
 
 
+## [KnoxOps](https://knoxops.app/?invite_token=GITHUB26)
+AI-native ops agent that gives agents production-safe execution with human review and a built-in knowledge graph.
+
+<details>
+
+### Category
+SRE, DevOps, AI Operations
+
+### Description
+- Gives AI agents production execution power within safety guardrails
+- Every production change requires human review
+- Plan-first workflows with AI reviewing each stage
+- Built-in knowledge graph of your production infrastructure
+- Currently invite-only; use invite_token=GITHUB26 for access
+
+### Links
+- [Web](https://knoxops.app/?invite_token=GITHUB26)
+- [X (Twitter)](https://x.com/KnoxOpsHQ)
+
+</details>
+
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
