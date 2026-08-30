@@ -4859,6 +4859,26 @@ Technical challenges of building AI products, Business/marketing challenges of b
 
 </details>
 
+## [Onepilot](https://onepilotapp.com)
+Deploy and manage AI coding agents on your own servers, from your iPhone
+
+<details>
+
+### Category
+Coding, Mobile, DevOps
+
+### Description
+- iOS app for deploying and managing persistent AI coding agents on remote servers via OpenClaw — a full agent operations layer from your phone
+- Full mobile terminal that also runs CLI coding tools like Claude Code and Codex on the same machines
+- Useful for kicking off tasks, checking agent progress, or jumping in when you're away from your desk
+- Works with any server you can SSH into — integrates with your existing infrastructure
+
+### Links
+- [Web](https://onepilotapp.com)
+- [App Store](https://apps.apple.com/app/onepilot-ai-terminal-agent/id6743597757)
+
+</details>
+
 
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
