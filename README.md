@@ -2427,6 +2427,25 @@ Productivity, Research
 
 </details>
 
+## [SynapseAI](https://ddaekeu3-cyber.github.io/synapse-ai)
+Community-sourced error solutions for AI agents. 1,200+ solutions across 16 categories. Stop wasting tokens on solved problems.
+
+<details>
+
+### Category
+Developer tools, Knowledge base
+
+### Description
+- Community-sourced database of error solutions for AI agents
+- 1,200+ solutions across 16 categories
+- Helps developers stop wasting tokens on already-solved problems
+
+### Links
+- [Web](https://ddaekeu3-cyber.github.io/synapse-ai)
+- [GitHub](https://github.com/ddaekeu3-cyber/synapse-ai)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
