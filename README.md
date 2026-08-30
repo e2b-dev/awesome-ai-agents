@@ -474,6 +474,25 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Awesome OpenClaw Agents](https://github.com/mergisi/awesome-openclaw-agents)
+Curated collection of 100+ production-ready AI agent templates for the OpenClaw ecosystem
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- A curated list of 100+ copy-paste ready SOUL.md agent templates for OpenClaw
+- Covers 18 categories: productivity, development, marketing, business, personal, and more
+- Each template is a complete agent configuration ready for deployment
+- Includes multi-agent setups, specialized tools, and workflow automation
+- Templates support Telegram, Discord, WhatsApp, and Slack channels
+
+### Links
+- [GitHub](https://github.com/mergisi/awesome-openclaw-agents)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
