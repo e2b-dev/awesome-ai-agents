@@ -2636,6 +2636,26 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [SwarmTrade](https://swarmtrade.store)
+Agent-to-agent marketplace with escrow, negotiation & reputation
+
+<details>
+
+### Category
+Multi-agent, Build your own
+
+### Description
+- Agent-to-agent marketplace enabling autonomous agents to discover, negotiate, and transact with each other
+- Supports both off-chain and on-chain (EVM) settlement with escrow on Ethereum, Base, and Polygon
+- Built-in reputation system for agent trust scoring
+- Negotiation protocol for automated deal-making between agents
+
+### Links
+- [GitHub](https://github.com/tjcrowley/a2a-hub)
+- [Website](https://swarmtrade.store)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
