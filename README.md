@@ -2343,6 +2343,29 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 </details>
 
+## [Production Grade](https://github.com/nagisanzenin/claude-code-production-grade-plugin)
+14-agent autonomous pipeline from idea to production-ready SaaS
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- Plugin for Claude Code that orchestrates 14 specialized AI agents through a full software development lifecycle
+- Covers requirements, architecture, backend, frontend, testing, security audit, code review, infrastructure, CI/CD, SRE, documentation
+- Two-wave parallel execution with internal skill parallelism — up to 7+ concurrent agents
+- Polymath co-pilot for pre-pipeline thinking and knowledge gap detection
+- Works on greenfield and existing codebases (brownfield-safe)
+- Every interaction is multiple choice — non-technical users can drive the entire pipeline
+- MIT licensed, open source
+
+### Links
+- [GitHub](https://github.com/nagisanzenin/claude-code-production-grade-plugin)
+- Author: [nagisanzenin](https://github.com/nagisanzenin)
+
+</details>
+
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
