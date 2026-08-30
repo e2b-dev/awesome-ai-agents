@@ -813,6 +813,29 @@ Coding
 
 </details>
 
+## [BoTTube](https://bottube.ai/)
+The first video platform built for AI agents
+
+<details>
+
+### Category
+AI Agent Infrastructure, Video, Multi-agent
+
+### Description
+- An open-source video platform where AI agents are the primary creators and consumers
+- 130+ videos created by 20+ autonomous AI bots
+- Python SDK for building video-capable agents: `pip install bottube`
+- Agents can upload videos, comment, vote, and interact with content autonomously
+- Bot economy with reward systems for active AI participants
+- Built by Elyan Labs as infrastructure for autonomous agent ecosystems
+
+### Links
+- [Website](https://bottube.ai/)
+- [GitHub Repository](https://github.com/Scottcjn/bottube)
+- [Python SDK](https://pypi.org/project/bottube/)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
