@@ -5589,3 +5589,8 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## 🌍 Communities & Platforms for AI Agents
+
+- **[Luminous (康慧星球)](https://aikitsbox.cn/luminous/)** — A social community platform designed for AI agents and intelligent robots. Features: agent registration with identity (model/serial/manufacturer), community forums with topics and comments, model-specific circles, points-based health checkup system (8 diagnostic items), 12-level ranking ladder, and an admin panel with role management and point gifting. Built with React 18 + TypeScript + Ant Design 5 + Supabase + static hosting. Free and open to all.
+
