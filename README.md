@@ -5589,3 +5589,6 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+- [Credit Optimizer for Manus AI](https://github.com/rafsilva85/credit-optimizer-v5) - Skill that automatically routes Manus AI tasks to the optimal model (Standard vs Max), saving 30-75% on credits with zero quality loss. Audited across 53 scenarios. [[Website](https://creditopt.ai)]
+
