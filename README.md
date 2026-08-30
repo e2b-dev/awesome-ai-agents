@@ -5043,24 +5043,22 @@ Build-your-own
 </details>
 
 ## [Rebyte](https://rebyte.ai/)
-A Multi ai agents builder platform
+Build and run AI employees
 <details>
 
-![image](https://pbs.twimg.com/profile_images/1700140660702257152/xTLqugBI_400x400.jpg)
+![image](https://rebyte.ai/favicon.svg)
 
 ### Category
 General purpose, Generating apps, Build-your-own
 
 ### Description
-- A Multi ai agents builder platform built for GenAI applications.
+- Rebyte is an AI employee platform for configuring agents with prompts, MCP tools, permissions, and reusable skills.
+- Agents can be assigned tasks, shared with teammates, exposed through APIs, and used to create shareable Sites/Blocks.
 
 ### Links
 - [Web](https://rebyte.ai/)
 - [X](https://twitter.com/ReByteAI)
 - [Discord](https://discord.com/invite/e4AYNnFg2F)
-- [LinkedIn](https://www.linkedin.com/company/realchar/)
-- [Founder's LinkedIn - Jian cai](https://www.linkedin.com/in/jian-cai-8611094/)
-- - [Founder's LinkedIn - Xiao(Shaun) W.](https://www.linkedin.com/in/shaunwei/)
 
 </details>
 
