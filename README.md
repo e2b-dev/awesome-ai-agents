@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Anima-i (Methodius)](https://github.com/Vitali-Ivanovich/anima-i)
+10 generations of an autonomous AI agent with persistent memory and self-reflection
+
+<details>
+
+### Category
+General purpose, Research
+
+### Description
+- An experiment running 10 generations of an autonomous AI agent, each inheriting memory and insights from the previous one
+- Persistent memory architecture: the agent IS its files — identity, goals, journal, and knowledge survive across runs
+- Key findings: forgetting matters more than remembering, roughness beats elegance, side effects outperform direct results
+- Built on Claude with Bash/Markdown — no frameworks, pure file-based agent architecture
+
+### Links
+- [GitHub](https://github.com/Vitali-Ivanovich/anima-i)
+- [Article: What We Learned](https://github.com/Vitali-Ivanovich/anima-i/discussions/1)
+- [Telegram Channel](https://t.me/anima_am_i)
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
