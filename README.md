@@ -2322,6 +2322,29 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Primer](https://github.com/primerhq/primer)
+Self-hosted control plane for fleets of small, context-optimized agents
+
+<details>
+
+### Category
+General purpose, Multi-agent, Build-your-own
+
+### Description
+
+- **Control plane, not a library**: something you run, with an operator console, rather than a package you import. Workspaces, channels, triggers, approvals and harnesses are part of the platform.
+- **Small models, clean context**: built on the bet that a small model given a tight, purpose-built context can rival a much larger one.
+- **Directed cyclic graphs**: producer-judge loops, fan-out/fan-in, conditional branches, and runtime agent or graph invocation.
+- **Park and resume**: an agent can park on a human decision, a timer or a file change, free the worker, and resume when the event fires. Parks survive a restart.
+- **Isolated workspaces**: each agent gets a local, container or Kubernetes sandbox with a persistent git-backed filesystem.
+- **MCP-native**: ships both an MCP server and client, so you can operate primer with agents as well as run agents on it.
+- **Python tools**: write a python function, get a callable tool, executed in a sandboxed subprocess with the enforced isolation level reported honestly.
+
+### Links
+- [Documentation](https://primerhq.github.io/)
+- [GitHub](https://github.com/primerhq/primer)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
