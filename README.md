@@ -5360,6 +5360,26 @@ Coding
   
 </details>
 
+## [ToolRouter](https://toolrouter.com)
+One gateway to 150+ tools for AI agents — one API key replaces managing dozens of accounts.
+
+<details>
+
+### Category
+Agent Tools, Developer Tools
+
+### Description
+- **One Connection, 150+ Tools**: SEO analysis, website screenshots, web search, image generation, video creation, security scanning, data extraction, lead generation, and more — growing daily
+- **No Account Sprawl**: One API key replaces signing up for and managing dozens of separate provider accounts
+- **Agent-Native**: Tool discovery via natural language, async jobs for long-running tasks, structured output
+- **Cross-Platform**: Works with Claude, ChatGPT, Cursor, Windsurf, Codex CLI, and any MCP-compatible client
+- **Usage-Based**: No subscriptions to juggle — auto-provisions on first use, pay per tool call
+
+### Links
+- [Website](https://toolrouter.com)
+- [npm](https://www.npmjs.com/package/toolrouter-mcp)
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
