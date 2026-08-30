@@ -732,6 +732,28 @@ General purpose, Productivity
 </details>
 
 
+## [BitFun](https://github.com/GCWing/BitFun)
+Open-source desktop agent with task-specific Mini Apps
+
+<details>
+
+![Mini Apps gallery](https://raw.githubusercontent.com/GCWing/BitFun/main/png/miniapps_gallery.png)
+
+### Category
+Coding, Productivity
+
+### Description
+- An open-source desktop agent for coding and office work
+- Agentic Mini Apps give tasks dedicated interfaces such as charts, boards, forms, and panels, with conversation bound to the interface live state
+- A Rust runtime with extension paths from custom Agents and MCP / Skills / Hooks through Mini Apps and source-level customization
+
+### Links
+- [GitHub](https://github.com/GCWing/BitFun)
+- [Website](https://openbitfun.com/)
+
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
