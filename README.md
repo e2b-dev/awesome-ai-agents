@@ -5589,3 +5589,26 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## [AgentShield](https://github.com/brigen/agent-shield)
+Open-source firewall and audit log for AI agents
+
+<details>
+
+### Category
+Infrastructure & Security
+
+### Description
+- Sits between AI agents and their tools as a policy-enforcing proxy
+- Three interception layers: MCP tool calls, CLI commands, and HTTP requests
+- Rules-based policy engine: allow/deny/warn with rate limiting and regex argument matching
+- Structured JSON audit logging with automatic secret redaction (AWS keys, GitHub tokens, API creds)
+- Real-time web dashboard at localhost:4040 for call feeds, analytics, and anomaly alerts
+- HTTP proxy that blocks exfiltration attempts and detects secret leaks in outbound requests
+- CLI guard preventing destructive operations
+
+### Links
+- [GitHub](https://github.com/brigen/agent-shield)
+
+</details>
+
