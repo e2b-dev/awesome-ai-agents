@@ -70,6 +70,44 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [GitHub Trending Analyzer](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer)
+Fetch, categorize, and summarize GitHub Trending projects
+
+<details>
+
+### Category
+General purpose, Productivity, Developer Tool
+
+### Description
+- Automatically fetches GitHub Trending projects across daily, weekly, and monthly spans.
+- Categorizes projects into logical technology buckets (AI Agents, RAG, Security, etc.) for better insight.
+- Generates structured Markdown reports with full hyperlinking and strategic trend analysis.
+
+### Links
+- [GitHub](https://github.com/jackjin1997/ClawForge/tree/main/skills/github-trending-analyzer)
+
+</details>
+
+
+## [ClawForge](https://github.com/jackjin1997/ClawForge)
+The Definitive Agent Intelligence Matrix
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Developer Tool
+
+### Description
+- **Comprehensive Matrix**: A central repository for empowering AI agents with high-optimized skills, MCP servers, and agentic workflows.
+- **LangChain 1.0 Ready**: Built-in support for v1 primitives, LangGraph orchestration, and complex context management strategies.
+- **Integrated Capabilities**: Includes automated GitHub Trending analysis, DDD modeling (Strategic/Tactical), and autonomous job search automation.
+
+### Links
+- [GitHub](https://github.com/jackjin1997/ClawForge)
+
+</details>
+
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
