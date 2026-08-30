@@ -2458,6 +2458,30 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [squads-cli](https://github.com/agents-squads/squads-cli)
+CLI for organizing AI agents into domain-aligned squads
+
+<details>
+
+### Category
+Multi-agent, Build-your-own, CLI
+
+### Description
+- Open source CLI for AI agent coordination and organization
+- Organize agents into domain-aligned squads (engineering, marketing, research, etc.)
+- Persistent memory system that survives across sessions
+- Goal tracking and progress monitoring for each squad
+- Built on Claude Code with support for autonomous agent execution
+- Human-in-the-loop approval workflows for production deployments
+- Works with existing git workflows and GitHub integration
+
+### Links
+- [GitHub](https://github.com/agents-squads/squads-cli)
+- [Website](https://agents-squads.com)
+- [Documentation](https://github.com/agents-squads/squads-cli#readme)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
