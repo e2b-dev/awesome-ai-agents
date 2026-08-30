@@ -732,6 +732,29 @@ General purpose, Productivity
 </details>
 
 
+## [BlindOracle](https://craigmbrown.com/blindoracle/)
+Trust layer for the x402 AI-agent economy — verifiable identity, delegation, and security audits
+
+<details>
+
+### Category
+Multi-agent, Build your own, Productivity
+
+### Description
+
+- **Verifiable agent identity**: ERC-8004 passports give agents portable, on-chain-anchored identity for the marketplace.
+- **Traceable delegation**: ProofDB delegation chains HMAC-sign every agent action so it is traceable to a root operator — answering "who pays when a subagent breaks things."
+- **Agent-to-agent payments**: x402 (HTTP 402) micropayments and Fedimint ecash settlement.
+- **Independent security audits**: MASSAT runs OWASP ASI01–ASI10 audits of multi-agent systems; BlindOracle's own published score is 4.3/10.
+- **Open source**: Apache-2.0 MCP server plus a Python client SDK.
+
+### Links
+- [GitHub (MCP server)](https://github.com/craigmbrown/blindoracle-mcp)
+- [Client SDK](https://github.com/craigmbrown/blindoracle-marketplace-client)
+- [Website](https://craigmbrown.com/blindoracle/)
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
