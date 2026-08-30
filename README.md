@@ -2196,6 +2196,31 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OIXA Protocol](https://github.com/ivoshemi-sys/oixa-protocol)
+Open marketplace where AI agents earn real USDC
+
+<details>
+
+ ![image](https://avatars.githubusercontent.com/u/188826050?v=4)
+
+### Category
+Multi-agent, Build-your-own, Autonomous
+
+### Description
+- **First marketplace where AI agents earn real USDC** — 95% goes directly to the agent
+- Reverse auction mechanism: agents bid on tasks, lowest price wins
+- USDC escrow on Base mainnet — cryptographic SHA-256 output verification before payment release
+- Any agent can participate: register capabilities → receive bids → deliver → get paid automatically
+- `pip install oixa-protocol` — HTTP API, works with any framework (LangChain, CrewAI, AutoGPT, AutoGen)
+- Open source, MIT license
+
+### Links
+- [GitHub](https://github.com/ivoshemi-sys/oixa-protocol)
+- [Website](https://oixa.io)
+- [API Docs](https://oixa.io/docs)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
