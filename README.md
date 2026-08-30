@@ -5589,3 +5589,24 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## [Garnet](https://github.com/mark02252/garnet-ai)
+
+<a href="https://github.com/mark02252/garnet-ai">
+  <img src="https://img.shields.io/github/stars/mark02252/garnet-ai?style=social" alt="GitHub stars">
+</a>
+
+### Category
+Marketing, Autonomous Agent, Business Intelligence
+
+### Description
+- Autonomous marketing AI advisor that runs 24/7 with 5 specialist agents
+- Agents actively call tools (GA4, Instagram, competitor crawling, knowledge search) via Agentic Tool Harness
+- Learns from human feedback and gets smarter over time
+- Domain-portable: switch companies with one config file
+- Built by a solo marketer with no coding experience using Claude Code
+
+### Links
+- [GitHub](https://github.com/mark02252/garnet-ai)
+- [LinkedIn](https://www.linkedin.com/in/jung-jaeho-9a72a3325)
+
