@@ -5117,6 +5117,39 @@ Productivity, Content creation
 
 </details>
 
+## [Santana](https://github.com/BadTechResearch/santana)
+Autonomous AI agent — persistent memory, web search, code execution, multi-platform. Runs on $7/mo VM, <$10/mo inference.
+<details>
+
+![hero](https://raw.githubusercontent.com/BadTechResearch/santana/main/docs/hero-banner.svg)
+
+### Category
+General purpose, Self-hosted
+
+### Description
+- Production-ready autonomous AI agent with 3-layer persistent memory (session buffer → summaries → SQLite vector embeddings)
+- Web search, GitHub integration, sandboxed code execution, whitelisted terminal
+- Multi-platform: Telegram, Discord, REST API
+- Cost governor with ALERT/THROTTLE/STOP thresholds
+- Self-awareness module — knows its own code, tools, and prompt
+- 15+ extensible tools (MCP, YouTube, Twitter, web search, more)
+- 97% test coverage
+- Zero Docker/Redis/PostgreSQL — just Python + SQLite
+- Designed for frugal self-hosting: GCP e2-micro (2GB RAM, ~$7/mo) + <$10/mo inference
+
+### Stack
+- Python 3.11+, aiohttp, SQLite (WAL mode, aiosqlite)
+- DeepSeek V4 Flash (primary), OpenRouter/Nous Portal (fallback)
+- all-MiniLM-L6-v2 embeddings (80MB, CPU)
+- Hermes Agent framework
+
+### Links
+- [GitHub](https://github.com/BadTechResearch/santana)
+- [Release v2.0.0](https://github.com/BadTechResearch/santana/releases/tag/v2.0.0)
+- [Architecture](https://github.com/BadTechResearch/santana/blob/main/docs/ARCHITECTURE.md)
+
+</details>
+
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
