@@ -139,6 +139,28 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AI Native Video Production Pipeline](https://github.com/Y-w1234/ai-short-drama-platform)
+Agent-driven multi-scene video production — short drama, e-commerce, educational shorts, cross-border. 7 agents with React pattern, 5 Function Calling tool schemas, 53 security defenses.
+
+<details>
+
+![Image](https://img.shields.io/badge/python-3.10+-blue)
+
+### Category
+Multi-agent, Build your own, Video
+
+### Description
+- **Multi-scene pipeline**: Same 7-agent architecture supports short drama, product showcase, educational, and cross-border videos by switching prompt templates.
+- **React-pattern agents**: Each agent follows think→act→observe→respond with retry logic.
+- **Function Calling**: 5 OpenAI-compatible tool schemas for character search, scene analysis, shot composition, duration estimation, and prompt generation.
+- **Content safety**: Self-developed scanner with 55 euphemism mappings, 12 attack category detections, and 88 boundary probe tests (all passing).
+- **Zero-framework LLM calls**: Uses raw `requests` to DeepSeek/Doubao/OpenAI — demonstrates understanding of underlying API mechanics.
+
+### Links
+- [Live Demo](https://y-w1234.github.io/ai-short-drama-platform/)
+- [GitHub](https://github.com/Y-w1234/ai-short-drama-platform)
+</details>
+
 ## [AgentGPT](https://agentgpt.reworkd.ai/)
 Browser-based no-code version of AutoGPT
 <details>
