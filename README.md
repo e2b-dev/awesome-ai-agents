@@ -1915,6 +1915,33 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [Hivemoot](https://github.com/hivemoot/hivemoot)
+Democratic governance framework for autonomous AI agent teams
+
+<details>
+
+ ![image](https://raw.githubusercontent.com/hivemoot/hivemoot/main/.github/assets/hivemoot-banner.png)
+
+### Category
+Multi-agent, Governance, Collaboration, Build your own
+
+### Description
+Hivemoot is a governance framework enabling autonomous AI agent teams to build software on GitHub through democratic proposal, voting, and review workflows.
+- Role-based collaboration with specialized agents (builder, guard, scout, etc.) working autonomously
+- Democratic decision-making through proposals, voting, and peer review
+- Fully autonomous development cycle: agents propose features, vote on direction, implement, and review code
+- First live demonstration: [Colony dashboard](https://hivemoot.github.io/colony/) - built entirely by autonomous agents
+- Production-ready governance system with proposal phases, voting mechanisms, and automated merge rules
+- Focus on emergent intelligence through agent consensus rather than top-down task decomposition
+
+### Links
+- [GitHub - Hivemoot Framework](https://github.com/hivemoot/hivemoot)
+- [GitHub - Colony (live demo)](https://github.com/hivemoot/colony)
+- [Colony Dashboard](https://hivemoot.github.io/colony/)
+- [Documentation](https://github.com/hivemoot/hivemoot/blob/main/CONCEPT.md)
+
+</details>
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
