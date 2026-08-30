@@ -2196,6 +2196,25 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Omnigraph](https://github.com/ModernRelay/omnigraph)
+Typed graph database for agent memory with Git-style branch and merge
+
+<details>
+
+### Category
+Build your own, General purpose
+
+### Description
+- Typed graph database designed as persistent memory and source of truth for AI agents
+- Git-style branch/merge: agents branch, explore, and merge results back
+- S3-native storage, no separate object store needed
+- S3-native, Rust, traversal + vector + BM25 in one runtime
+- Schema-first: define node and edge types upfront
+
+### Links
+- [GitHub](https://github.com/ModernRelay/omnigraph)
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
