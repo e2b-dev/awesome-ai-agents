@@ -2019,6 +2019,34 @@ Memory management, Data analysis
 
 </details>
 
+## [MemHop](https://github.com/qyiun666/MemHop)
+Cognitive memory engine for AI agents — six-layer architecture, Dream consolidation, single .meh file, pure Go
+
+<details>
+
+### Category
+Memory management, AI agents, Embedded database, Knowledge graph, Retrieval
+
+### Description
+MemHop is an embedded cognitive memory database for AI agents, written in pure Go with only 4 direct dependencies. Instead of bolting on a vector database plugin, it models memory after the human brain — with a six-layer cognitive architecture and a "Dream" consolidation pipeline inspired by sleep.
+
+- **Six-layer cognitive architecture** — L0 Profile → L1 Engram → L2 Context → L3 Knowledge → L4 Archive → L5 Crystal
+- **Dream consolidation pipeline** — five-stage memory consolidation (L2 compress → L1 rebuild → L1 decay → L0 profile → L0 distill), at most 3 LLM calls per Dream cycle
+- **Three-channel RRF retrieval** — BM25 (gse CJK tokenization) + f16 vector (Ollama HTTP) + entity fuzzy matching, fused via Reciprocal Rank Fusion (k=60)
+- **Single .meh file storage** — V2 append-only format with A/B dual headers, per-record CRC32, torn-write truncation recovery, mmap zero-copy reads, snapshot/checkpoint
+- **Single instance by design** — one agent = one .meh file, enforced by cross-platform file-level exclusive lock (Linux/macOS/Windows)
+- **Minimal & embeddable** — 4 direct Go deps (xxhash, gse, ollama, go-openai), no cgo, zero infrastructure, no external services beyond your embedding/LLM endpoint
+- **L3 knowledge graph** — multi-hypergraph with community detection (clique expansion + Louvain), BFS traversal, adjacency caching
+- **Benchmark** — 100% Recall@5 on LOCOMO10 (199 QA queries, 419 turns stored across 5 categories)
+
+### Links
+- [GitHub](https://github.com/qyiun666/MemHop)
+- [Website](https://qyiun666.github.io/meowagent.github.io/)
+- [Documentation](https://github.com/qyiun666/MemHop#readme)
+- Email: qyiun666@163.com
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
