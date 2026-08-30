@@ -1966,6 +1966,28 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [mcp-coordinator](https://github.com/swoofer/mcp-coordinator)
+MQTT-backed coordination server for parallel AI coding agents
+
+<details>
+
+### Category
+Multi-agent, Coordination, Developer tooling, Open source
+
+### Description
+- **The problem it solves:** when developers run multiple AI coding agents (Claude Code, Cursor, Cline, Aider) in parallel on the same repository, agents collide — they don't know about each other, so they rewrite each other's work, duplicate features, and drift architecturally.
+- **How it works:** an MCP server with an embedded Aedes MQTT broker. Each agent calls `announce_work` with target files and modules before coding. The coordinator scores conflicts across all in-flight work; if impact crosses the threshold, a consultation thread opens and all affected agents receive an MQTT push within milliseconds.
+- **Client-agnostic:** any MCP client works over stdio or HTTP/SSE — Claude Code, Cursor, Cline, Aider, custom scripts. Mix vendors on the same project.
+- **Zero external infra:** the MQTT broker is embedded. One `npm install -g`, one process, one binary.
+- **Auth optional:** single-user local mode requires zero configuration. Multi-user adds OAuth 2.1 + RFC 8628 device flow (GitHub OAuth App, GitHub App, Google, generic OIDC) and a SHA-256 audit log hash chain (SOC 2 tamper-evidence).
+- **Observability:** live dashboard at `/dashboard` shows events over SSE, Anthropic quota pre-flight, all 26 MCP tool calls in flight.
+
+### Links
+- [GitHub](https://github.com/swoofer/mcp-coordinator)
+- [npm](https://www.npmjs.com/package/mcp-coordinator)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
