@@ -114,6 +114,24 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [anve-offsec](https://github.com/ANVEAI/anve-offsec)
+Autonomous AI security engineer & bug bounty platform in Kali Linux
+
+<details>
+
+### Category
+Security, Autonomous, Multi-agent
+
+### Description
+- Open-source autonomous bug bounty and offensive security platform running inside a stateful Kali Linux environment.
+- Powered by Hermes AI reasoning brain for multi-turn session persistence across complex vulnerability assessments.
+- Integrates OpenClaw headless Chromium sidecar for DOM navigation and Qdrant vector memory for strategy self-evolution.
+
+### Links
+- [GitHub](https://github.com/ANVEAI/anve-offsec)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
@@ -5589,3 +5607,6 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## [VoiceForms](https://voiceforms.anvevoice.app)
+No-code voice form builder with 85% completion rate. Free tier, embed in 60 seconds, 50+ languages.
