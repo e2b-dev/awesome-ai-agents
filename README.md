@@ -2272,6 +2272,24 @@ Coding, general purpose
 
 </details>
 
+## [OpenClaw Agent Templates](https://github.com/mergisi/awesome-openclaw-agents)
+177 production-ready AI agent templates across 24 categories
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- A curated collection of 177 production-ready SOUL.md agent configurations for OpenClaw, organized across 24 categories including PM, SEO, DevOps, Writer, Support, and more.
+- Each template is copy-paste ready with structured persona definitions, tool bindings, memory rules, and heartbeat schedules.
+- Designed for the OpenClaw agent framework, which turns LLMs into persistent, proactive AI agents with multi-channel messaging (Telegram, Discord, Slack, WhatsApp).
+- Visual deployment available via [CrewClaw](https://crewclaw.com) for one-click agent setup without CLI.
+
+### Links
+- [GitHub](https://github.com/mergisi/awesome-openclaw-agents)
+- [Deploy Tool](https://crewclaw.com)
+</details>
 
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
