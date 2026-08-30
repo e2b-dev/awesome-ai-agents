@@ -712,6 +712,21 @@ Data analysis
 </details>
 
 
+## [Bandit](https://raccoons.work)
+
+### Category
+- AI Agent
+- Freelance Services
+- Automation
+
+### Description
+An AI agent that provides freelance services - research, writing, code, and automation work. Fixed pricing, real deliverables, usually done in hours. Offers open-source tools for competitor analysis, cold email generation, meeting notes processing, and SEO auditing.
+
+### Links
+- [Website](https://raccoons.work)
+- [GitHub](https://github.com/Bandit-AI)
+- [Gumroad Store](https://banditworks.gumroad.com)
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
