@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+- **[Swrly](https://swrly.com)** - AI agent orchestration SaaS. Visual drag-and-drop builder for named agent teams. 51+ MCP connectors, 374 tools, BYOK billing, real-time execution monitoring. Free tier.
