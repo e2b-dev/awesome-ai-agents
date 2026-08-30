@@ -1376,6 +1376,25 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [ForgeDock](https://github.com/RapierCraftStudios/ForgeDock)
+Autonomous development pipeline for Claude Code
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- ForgeDock is an autonomous development pipeline for Claude Code that uses GitHub as a persistent knowledge graph.
+- Agents investigate, architect, build, quality-gate, review, and merge — with full context persistence across sessions via structured annotations on GitHub issues and PRs.
+- It ships as a set of markdown command specs that get installed as Claude Code slash commands, orchestrating the entire software development lifecycle autonomously.
+- Supports parallel multi-issue execution, 9-agent PR review, and a 14+ domain quality gate.
+
+### Links
+- [GitHub](https://github.com/RapierCraftStudios/ForgeDock)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
