@@ -4891,6 +4891,35 @@ Productivity, General purpose
 
 </details>
 
+## [OnCrew](https://oncrew.ai)
+Verticalized voice AI agent for home-service contractors (HVAC, plumbing, electrical, roofing). 24/7 inbound call answering with trade-specific intake.
+
+<details>
+
+
+![Image](https://oncrew.ai/api/og)
+
+### Category
+Verticalized voice agent, Customer service, Telephony
+
+### Description
+- Voice AI agent that answers contractor phone calls 24/7 with trade-specific intake scripts configured per business during onboarding
+- Runs trade-specific safety branches on every emergency call: gas-smell detection for HVAC, shutoff-valve walkthrough for plumbing, sparking-panel triage for electrical, active-leak tarp protocol for roofing
+- Sends a Priority-1 SMS handoff packet to the on-call technician within 90 seconds (does not autonomously dispatch — the human tech does the actual dispatch)
+- Built on Retell AI for sub-second voice latency, with Google Calendar appointment booking and webhook integration for any CRM (ServiceTitan, Housecall Pro, Jobber via assisted setup; native APIs Q3 2026)
+- Flat per-call pricing ($49 / $149 / $349 per month with $0.99 per-call overage, no per-minute meter, no holiday surcharge)
+- 14-day free trial; founder-led onboarding for every account
+- Publishes the underlying 60-question intake checklist as a free [HTML tool](https://oncrew.ai/tools/contractor-call-intake-questions) and a CC-BY-4.0 [JSON API](https://oncrew.ai/api/triage-questions) so any vendor (including competitors) can evaluate the same dataset
+
+### Links
+- [Website](https://oncrew.ai)
+- Author: [Abe](https://oncrew.ai/about), Founder
+- [Press kit](https://oncrew.ai/press)
+- [Pricing](https://oncrew.ai/pricing)
+- [Free 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions)
+- [Triage questions JSON API (CC-BY-4.0)](https://oncrew.ai/api/triage-questions)
+</details>
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
