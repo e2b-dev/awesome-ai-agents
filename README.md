@@ -2296,6 +2296,31 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenEnsemble](https://github.com/openensemble/openensemble)
+Self-hosted multi-user AI assistant platform with specialist agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/openensemble/openensemble/main/docs/demo.gif)
+
+### Category
+General purpose, Multi-agent, Self-hosted
+
+### Description
+
+- Multi-user platform — every user gets isolated agents, skills, sessions, and data
+- Specialist agents with roles — built-in coder, email, research, calendar, expenses, image-gen, tutor; agents delegate to each other via `ask_agent`
+- Persistent memory — bundled local reasoning + embedding models handle salience scoring, recall, and gating in-process; no GPU required
+- Scheduler — natural-language tasks parsed by a fine-tuned local plan model
+- Provider mix — Claude, OpenAI, Ollama, LM Studio, Fireworks, Grok, OpenRouter
+- Remote nodes — pair a machine, push files, run commands from chat
+- Telegram bridge — chat with your coordinator from anywhere via your own bot
+
+### Links
+- [GitHub](https://github.com/openensemble/openensemble)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
