@@ -1088,6 +1088,42 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [crw](https://github.com/us/crw)
+Open-source web scraper for AI agents
+<details>
+
+### Category
+Web Scraping, MCP Server, Data Extraction
+
+### Description
+- Open-source web scraper built for AI agents with a built-in MCP server.
+- Single Rust binary, ~6 MB idle RAM. Firecrawl-compatible API.
+- Supports scrape, crawl, map, and structured data extraction.
+- Works with Claude Code, Cursor, and any MCP client.
+
+### Links
+- [GitHub](https://github.com/us/crw)
+
+</details>
+
+## [Den](https://github.com/us/den)
+Self-hosted sandbox runtime for AI agents
+<details>
+
+### Category
+Infrastructure, Code Execution, Sandbox
+
+### Description
+- Open-source alternative to E2B. Gives AI agents secure, isolated Docker containers to execute code.
+- Single binary, zero config. REST API, WebSocket streaming, MCP server, snapshot/restore.
+- Dynamic memory pressure management with cgroup v2.
+- Go, TypeScript, and Python SDKs.
+
+### Links
+- [GitHub](https://github.com/us/den)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
