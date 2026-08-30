@@ -2273,6 +2273,30 @@ Coding, general purpose
 </details>
 
 
+## [OpenSeek](https://github.com/LichAmnesia/openseek)
+Open-source TUI coding agent in TypeScript/Bun with native DeepSeek V4 cache-aware support
+
+<details>
+
+![Image](https://opengraph.githubassets.com/1/LichAmnesia/openseek)
+
+### Category
+Coding, Open Source, Terminal
+
+### Description
+- OpenSeek is a TUI coding agent built in TypeScript/Bun monorepo with v1.0 shipped (56/56 SPEC gates, 954 tests passing, 1.4MB bundle, Apache-2.0)
+- First-class DeepSeek V4 support: real-time prefix cache hit rate display in cost meter, `reasoning_content` replay for thinking mode, and cache-aware prompt assembly
+- 27 providers (OpenAI-compat, Anthropic, Bedrock, Vertex, Azure, custom); real MCP client + server (stdio + SSE + websocket transports, handrolled JSON-RPC 2.0); LSP feedback loop across 5 languages (tsserver / rust-analyzer / pyright / gopls / clangd); Plan / Agent / YOLO modes with git worktree isolation
+
+### Links
+- [GitHub](https://github.com/LichAmnesia/openseek)
+- [Website](https://openseek.dev)
+- [npm](https://www.npmjs.com/package/openseek)
+- Author: [Shen Huang](https://github.com/LichAmnesia) (GitHub)
+
+</details>
+
+
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
 
