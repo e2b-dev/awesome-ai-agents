@@ -1289,6 +1289,27 @@ Build-your-own
 
 </details>
 
+## [dsh-mini](https://github.com/LouisYang841/dsh-mini)
+A portable coding-agent CLI: the DeepSeek Harness agent core assembled into a terminal client with goal/todo tracking and a phone-friendly TUI
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/108306227?v=4)
+
+### Category
+Open-source projects (CLI)
+
+### Description
+- A lightweight coding-agent CLI assembled from the DeepSeek Harness (DSH) core: agent loop, tools, sessions, goals and plan mode, bundled into a single-file runtime with zero runtime npm dependencies.
+- Ships with pi's shell tool, filesystem and todo tools, and a prompt TUI; supports DeepSeek, Gemini, OpenAI, Anthropic and OpenRouter providers.
+- Runs anywhere Node does — including Termux on Android phones — and also builds as a portable engine under QuickJS.
+
+### Links
+- [GitHub](https://github.com/LouisYang841/dsh-mini)
+- [Releases](https://github.com/LouisYang841/dsh-mini/releases)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
