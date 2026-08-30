@@ -2253,6 +2253,29 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OpenClaw](https://openclawapp.netlify.app/)
+Personal AI assistant operating locally with multi-channel support
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Self-hosted AI agent platform running on your local machine
+- Supports multiple gateway channels (Telegram, Slack, iMessage)
+- Autonomous operation via cron jobs and heartbeat monitoring
+- Token cost optimization with model routing (Opus/Sonnet/Haiku)
+- Multi-agent orchestration with shared memory
+- Stores all configuration in `.openclaw/` folder (SOUL.md, AGENTS.md, MEMORY.md)
+- Alternative to cloud-based automation platforms like Zapier/Make.com
+
+### Links
+- [Website](https://openclawapp.netlify.app/)
+- [Course](https://openclawapp.netlify.app/course/) - £97 course teaching setup and orchestration
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
