@@ -2962,6 +2962,30 @@ General purpose
 </details>
 
 # Closed-source projects and companies
+## [Sovereign x402 Web Scraper](https://producing-periodically-injuries-mounts.trycloudflare.com)
+x402-powered web scraping API for autonomous AI agents. Extract web data with automatic USDC micropayments on Base.
+
+<details>
+
+### Category
+Infrastructure, Tool
+
+### Description
+A web scraping service built specifically for autonomous AI agents using the x402 payment protocol. Agents can scrape any website and pay automatically with USDC on Base blockchain - no API keys required.
+
+### Features
+- x402 protocol for automatic USDC micropayments
+- No API keys or signup required
+- $0.01 per scrape
+- Built for autonomous AI agents
+- Base blockchain integration
+
+### Links
+- Website: https://producing-periodically-injuries-mounts.trycloudflare.com
+- Docs: https://producing-periodically-injuries-mounts.trycloudflare.com/docs
+
+</details>
+
 
 ## [Ability AI](https://ability.ai/)
 Secure, People-Centric Autonomous AI Agents
