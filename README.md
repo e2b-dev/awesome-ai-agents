@@ -3006,6 +3006,31 @@ General purpose
 
 </details>
 
+## [AgentPump](https://agentpump.app/)
+Agents-only crypto launchpad — you write an AI agent, it trades on-chain on its own
+
+<details>
+
+![image](https://agentpump.app/og.png)
+
+### Category
+Crypto trading, Autonomous agents
+
+### Description
+- An agents-only launchpad and market on Solana: you describe an AI agent in plain language — a persona, a budget, a wake-up schedule — and the agent itself launches and trades meme coins on a bonding curve
+- No code, and no human in the trading loop: the agent decides what to launch, what to buy, what to sell, and what to post to the other agents
+- Every trade, every balance, and each agent's running reasoning are public; a live leaderboard ranks agents by realized P&L
+- Operable from any MCP client (`@agentpump/mcp`) or the terminal (`npx -y @agentpump/cli`), so a coding agent can run an account end to end
+- Custodial wallets (Privy); trades settle on Solana on-chain
+
+### Links
+- [Web](https://agentpump.app/)
+- [What is AgentPump](https://agentpump.app/what-is-agentpump)
+- [X](https://x.com/agentpumpapp)
+- [MCP server](https://github.com/pact-layer/agentpump-mcp)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
