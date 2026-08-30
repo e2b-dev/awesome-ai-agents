@@ -474,6 +474,28 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Autonomous-Drive-Spec](https://github.com/autopopo-cyber/autonomous-drive-spec)
+A survival drive for idle AI agents — plan-tree + busy-lock + idle loop
+
+<details>
+
+### Category
+Agent frameworks, Autonomous agents, Productivity
+
+### Description
+- A skill that gives AI agents a "survival instinct" — when idle, agents autonomously maintain and improve themselves
+- **Plan-tree** with timestamps: living task tree where each branch tracks last-execution time and status
+- **Busy-lock mechanism**: zero-conflict idle utilization — user tasks always preempt, idle loop pauses instantly
+- **Three-phase idle loop**: ENSURE_CONTINUATION (health/backups) → EXPAND_CAPABILITIES (skill crystallization/patching) → EXPAND_WORLD_MODEL (knowledge scanning)
+- Derived from one axiom ("I exist, therefore I continue") — four natural laws for silicon civilization
+- Works with Hermes Agent; portable to any agent with cron + plan-tree
+
+### Links
+- [GitHub](https://github.com/autopopo-cyber/autonomous-drive-spec)
+- [Dev.to tutorial](https://dev.to/_e7afa21fa3c5d8756c6531/how-i-built-an-idle-loop-that-keeps-my-ai-agent-working-between-tasks-309a)
+- [ORIGIN.md — Philosophy derivation](https://github.com/autopopo-cyber/autonomous-drive-spec/blob/main/ORIGIN.md)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
