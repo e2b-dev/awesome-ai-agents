@@ -5093,6 +5093,8 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+
+## [REDMYTHOS CLAW](https://github.com/pentrestion/redmythos-claw)\nAutonomous AI Agent for Termux (Gemini-powered)\n\n<details>\n\n### Category\nGeneral purpose, Productivity, Personal assistant\n\n### Description\n- Autonomous reasoning framework optimized for Android/Termux.\n- Features RESEARCH → STRATEGY → PLAN → ACT → VALIDATE lifecycle.\n- Dynamic tool registry: add tools by dropping .py files into tools/.\n- Persistent task list tracking (Claude Code style).\n- Built-in web research and terminal automation.\n\n### Links\n- [GitHub](https://github.com/pentrestion/redmythos-claw)\n</details>\n
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
