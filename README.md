@@ -2738,6 +2738,27 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Vibes DIY](https://vibes.diy/)
+Open-source AI app builder
+
+<details>
+
+![Image](https://vibes.diy/apple-touch-icon.png)
+
+### Category
+Build-your-own (agent-builing frameworks and platforms)
+
+### Description
+- Vibes DIY is an [open-source](https://github.com/VibesDIY/vibes.diy) app builder where an AI codegen agent turns a plain-English prompt into a real, live web app — instantly hosted at its own URL, shareable, remixable, with collaborative local-first data
+
+### Links
+- [Web](https://vibes.diy/)
+- [GitHub](https://github.com/VibesDIY/vibes.diy)
+- [Bluesky](https://bsky.app/profile/vibes.diy)
+- [YouTube](https://www.youtube.com/@VibesDIY)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
