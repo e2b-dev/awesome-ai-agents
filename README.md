@@ -2171,6 +2171,33 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Mythara](https://github.com/ankurCES/project_mythara)
+Open-source local-first agentic AI OS layer for Android — runs an agent loop with 65+ on-device tools
+
+<details>
+
+![Image](https://raw.githubusercontent.com/ankurCES/project_mythara/main/docs/preview/hero.png)
+
+### Category
+General purpose, Personal assistant, Mobile, Open source, Multi-tool
+
+### Description
+
+- **Mobile-first** — sideload one APK on Android 14+. Kotlin + Jetpack Compose.
+- **Local-first by construction** — personality analysis (Big Five + values + relationship summary), face index, memory graph, all derived from your real chat history and stored only on the device. No analytics SDKs, no telemetry, no vendor cloud.
+- **Agent runtime** with 65+ tools — calls, SMS, WhatsApp, calendar, alarms, accessibility-driven screen reading, shell + Termux, file I/O, web fetch, on-device face recognition, notification triage, plan executor, skill suggester.
+- **Guardrails**: context-budget auto-summarisation, loop detector, hook middleware (path sanitiser + dangerous-shell denial + allowlist consultation), confirmation gate on destructive tools.
+- **BYO model** — default adapter is MiniMax M2 (cheap, 5M free tokens), swappable in 200 LOC for Gemma Nano via MediaPipe / llama.cpp / Ollama. Agent loop is model-agnostic.
+- **Multi-skin Compose theme engine** — Spatial / Aurora Glass / Living Rose / Holographic HUD, light + dark + auto modes.
+- License: MIT.
+
+### Links
+- [GitHub](https://github.com/ankurCES/project_mythara)
+- [Wiki](https://github.com/ankurCES/project_mythara/wiki)
+- [Bring Your Own Model](https://github.com/ankurCES/project_mythara/wiki/Bring-Your-Own-Model)
+- [Architecture](https://github.com/ankurCES/project_mythara/wiki/Architecture)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
