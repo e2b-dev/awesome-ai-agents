@@ -1652,6 +1652,29 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [hivemux](https://github.com/Bradical247/hivemux)
+Run parallel AI coding agents in tmux, each in its own git worktree
+
+<details>
+
+### Category
+Coding
+
+### Description
+hivemux is a Linux-native, tmux-backed orchestrator for running multiple AI coding agents (Claude Code, Codex, Gemini, Aider) in parallel, each isolated in its own git worktree and tmux session. Because it is built on tmux it runs headless over SSH, the agents survive disconnects, and you can host them on a remote box and attach from anywhere. Drive the fleet from a CLI, a live TUI, a tiled web/desktop GUI, or a conductor agent over MCP.
+
+### Features and Benefits
+* Fully isolated agents: each runs in its own git worktree (own branch, no file collisions) and tmux session.
+* Loop engineering: iterate, verify, fix until a shell check or LLM judge passes, cost-capped, with --fleet to race agents and --watch to see one reason live.
+* MCP server: a conductor agent can spawn workers, start loops, watch status and cost, detect conflicts, and merge the passes.
+* Sandbox and governance: OS sandbox per worktree, hard cost ceilings, and hold-commit-for-approval.
+* Single self-contained binary (npm / Homebrew / AppImage / deb / dmg); MIT.
+
+### Links
+- [GitHub](https://github.com/Bradical247/hivemux)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
