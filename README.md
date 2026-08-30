@@ -5589,3 +5589,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+
+## Agent Tools
+- [Arch Tools](https://archtools.dev) - 58 production API tools for AI agents with x402 USDC payments, patent-pending agent auth, and MCP support. Web scraping, AI generation, crypto data, OCR, browser automation. ([GitHub](https://github.com/Deesmo/Arch-AI-Tools))
