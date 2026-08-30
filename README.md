@@ -2458,6 +2458,32 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [StockGPT Review](https://github.com/27dream/stockgpt-review)
+AI 盘后复盘助手，一键生成 A 股市场报告（中英双语）
+
+<details>
+
+![Image](https://raw.githubusercontent.com/27dream/stockgpt-review/main/docs/screenshots/01-home.png)
+
+### Category
+Vertical, Finance, Stock market, BYOK
+
+### Description
+- Open-source AI A-share post-market review tool, fully BYOK (bring your own key).
+- One-click generation of Markdown reports covering indices / fund flows / limit-up pool / sectors / news.
+- Pre-market strategy memo based on overnight news and previous session data.
+- Single-stock diagnostic for any A-share ticker with structured AI output.
+- Visual sector treemap, intraday charts of three indices, K-line (daily/weekly/monthly) with MA & volume.
+- Privacy-first: API keys stored only in browser localStorage, server is data relay only.
+- Supports OpenAI / DeepSeek / Moonshot / 智谱 GLM / 通义千问 and any OpenAI-compatible endpoint.
+- Built with Next.js 16, React 19, TypeScript 5; PNG / PDF export via html2canvas + jspdf.
+
+### Links
+- [GitHub](https://github.com/27dream/stockgpt-review)
+- [Live Demo](https://stockgpt-review-three.vercel.app)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
