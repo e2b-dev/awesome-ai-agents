@@ -1088,6 +1088,28 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [Cycles](https://github.com/runcycles/cycles-server)
+Runtime budget and action authority for AI agents — enforce cost and tool limits before execution
+
+<details>
+
+
+### Category
+Governance, Cost Control, Multi-tenant, Safety
+
+### Description
+- Cycles is an open-source runtime layer that enforces hard limits on AI agent spend, risk, and tool actions before they execute. Multi-tenant by default and concurrency-safe across thousands of agents.
+- Wraps OpenAI, Anthropic, MCP servers, OpenAI Agents SDK, LangChain, CrewAI, and custom frameworks via a `reserve / execute / commit` reservation API. The protocol is open and self-hostable.
+- SDKs for Python, TypeScript, and Rust; Spring Boot starter for Java; MCP server compatible with Claude Desktop, Cursor, and Windsurf.
+
+### Links
+- [Website](https://runcycles.io)
+- [Protocol Spec](https://github.com/runcycles/cycles-protocol)
+- [Docs](https://runcycles.io)
+- Author: [Albert Mavashev](https://github.com/amavashev) (Github)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
