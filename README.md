@@ -1268,6 +1268,25 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
+## [DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis)
+Personal genome analysis toolkit generating terminal-style HTML reports
+
+<details>
+
+### Category
+Science, Data analysis, Health
+
+### Description
+- Analyzes raw DNA data (e.g. from 23andMe/AncestryDNA) across 17 categories including health risks, ancestry, pharmacogenomics, nutrition, psychology, longevity, and more
+- Python scripts process genome files and generate structured markdown reports per category
+- Produces a single-page terminal-aesthetic HTML visualization with green-on-black styling, navigation, and color-coded risk indicators
+- No external runtime dependencies for the final output — fully self-contained HTML
+
+### Links
+- [GitHub](https://github.com/shmlkv/dna-claude-analysis)
+
+</details>
+
 ## [dotagent](https://github.com/dot-agent/dotagent)
 Deploy agents on cloud, PCs, or mobile devices
 
