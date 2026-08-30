@@ -4643,6 +4643,29 @@ Productivity
 - 
 </details>
 
+## [LobsterMail](https://lobstermail.ai/)
+Email infrastructure for AI agents
+
+<details>
+
+### Category
+Developer tools, Email, Agent Infrastructure
+
+### Description
+- Email infrastructure purpose-built for AI agents — agents self-provision inboxes with no human signup or API keys
+- Prompt injection scanning across 6 categories for email security
+- SPF/DKIM/DMARC authentication and per-account reputation isolation
+- Available as native OpenClaw skill, Node.js SDK, MCP server, or REST API
+- Free tier for receiving, $9/mo Builder for sending, $99/mo Scale with dedicated IP
+
+### Links
+- [Web](https://lobstermail.ai/)
+- [ClawHub](https://clawhub.ai/samuelchenardlovesboards/lobstermail-agent-email)
+- [X](https://x.com/lobster_mail)
+- Author: [Samuel Chenard](https://x.com/samuelchenard)
+
+</details>
+
 ## [Lutra AI](https://lutra.ai/)
 Platform for creating AI workflows and apps
 <details>
