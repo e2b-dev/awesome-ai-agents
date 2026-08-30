@@ -2272,6 +2272,28 @@ Coding, general purpose
 
 </details>
 
+  ## [OpenSepia](https://github.com/CelaenoIndustry/OpenSepia)
+
+  Autonomous AI dev team — 9 Claude-powered agents running as a real agile team 24/7 via cron
+
+  <details>
+
+  ### Category
+  Coding, Multi-agent
+
+  ### Description
+  - 9 specialized agents: Product Owner, Project Manager, 2 Developers, DevOps, QA, and 3 Security roles
+  - Continuous autonomy across days/weeks — not single-session, agents pick up where they left off                                                       
+  - Bash + cron orchestrator with sequential execution — no framework dependencies
+  - Markdown-based board state, inboxes, standups, sprint reviews, and retrospectives                                                  
+  - GitLab and GitHub integration with automatic issue syncing and auto-merge                                 
+  - Zero API key required — runs on Claude Code CLI 
+
+
+  ### Links                                                              
+  - [GitHub](https://github.com/CelaenoIndustry/OpenSepia)
+                                                              
+  </details>
 
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
