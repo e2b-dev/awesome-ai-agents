@@ -2372,6 +2372,28 @@ Productivity, General purpose
 </details>
 
 
+## [RustChain](https://github.com/Scottcjn/Rustchain)
+DePIN for Vintage Hardware - Proof-of-Antiquity blockchain
+
+<details>
+
+### Category
+Multi-agent, Decentralized, DePIN
+
+### Description
+- **Proof-of-Antiquity**: Blockchain consensus where older hardware outmines newer machines, turning e-waste into economic value
+- **AI-powered hardware fingerprinting**: Validates machine identity across 15+ CPU architectures (PowerPC, MIPS, SPARC, etc.)
+- **Decentralized agent economy**: Machine-to-machine micropayments with Solana bridge (wRTC)
+- **Green computing**: Incentivizes reuse of vintage hardware over e-waste, 0 VC funded
+- **Sovereign inference**: AI agents running on sovereign, decentralized compute nodes
+- **Multi-agent orchestration**: Agents coordinate across heterogeneous hardware for distributed tasks
+
+### Links
+- [GitHub](https://github.com/Scottcjn/Rustchain)
+
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
