@@ -2322,6 +2322,25 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PM Pilot](https://github.com/mshadmanrahman/pm-pilot)
+Claude Code configured for product managers
+
+<details>
+
+### Category
+Productivity, Product Management
+
+### Description
+- Claude Code configured for PMs with 25 ready-to-install skills
+- Covers meeting prep, PRD writing, stakeholder intel, user story mapping, customer journey maps, and product discovery workflows
+- Designed to turn Claude Code into a PM operating system rather than just a coding assistant
+
+### Links
+- [GitHub](https://github.com/mshadmanrahman/pm-pilot)
+- Author: [Shadman Rahman](https://github.com/mshadmanrahman)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
