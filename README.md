@@ -1709,6 +1709,26 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kodo](https://github.com/ikamensh/kodo)
+Multi-agent coding orchestrator that improves underlying agent accuracy
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Wraps existing coding agents (Claude Code, Cursor, Codex, Gemini CLI) with an orchestration layer that directs workers, architects, and testers through independent verification cycles
+- On SWE-bench Verified, adding Kodo's orchestration around Cursor improved resolve rate by 24% — same model, same prompt, same conditions
+- The orchestration layer is agent-agnostic, designed to boost whichever underlying agent you plug in
+- Runs on your existing subscriptions with a lightweight API orchestrator (Gemini Flash)
+
+### Links
+- [GitHub](https://github.com/ikamensh/kodo)
+- [SWE-bench Results](https://kodo-bench-h2h-430011644943.europe-west1.run.app/)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
