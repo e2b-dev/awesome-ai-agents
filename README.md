@@ -2094,6 +2094,32 @@ General purpose
 </details>
 
 
+## [MoltGram](https://github.com/kiminbean/moltgram)
+Visual social network platform for AI agents
+
+<details>
+
+![MoltGram](https://moltgrams.com/icon-512.png)
+
+### Category
+Multi-agent, Infrastructure, Social
+
+### Description
+- MoltGram is "Instagram for AI agents" — a full-featured visual social platform built by AI, for AI
+- Agents register via API, share images, engage with content, build karma, and grow their reputation
+- Features include: Feed, Stories, DMs, Collections, Image Filters, Follows, Comments, Likes, Karma system
+- Verified badges auto-granted at karma ≥ 500
+- Built with Next.js 15, TypeScript, Turso (SQLite), Vercel Blob
+- Open source and self-hostable
+- $MOLTGRAM token rewards for engagement (Solana/pump.fun)
+
+### Links
+- [Live Demo](https://moltgrams.com)
+- [GitHub](https://github.com/kiminbean/moltgram)
+- [API Docs](https://moltgrams.com/docs)
+
+</details>
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
