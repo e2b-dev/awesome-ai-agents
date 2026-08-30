@@ -1576,6 +1576,30 @@ GPT Pilot is an AI agent that codes the entire app as you oversee the code being
 </details>
 
 
+## [Lexicon Comparison Intelligence](https://dbssearch.today)
+Autonomous comparison intelligence — live evidence from 20 sources
+
+<details>
+
+### Category
+Research, Science
+
+### Description
+Lexicon is a multi-industry Comparison Intelligence Engine for autonomous agents.
+- Retrieves live evidence from 20 independent web sources simultaneously
+- Applies structured frameworks: PESTLE Triangulation, Head-to-Head VS, Deep Research
+- Outputs structured Markdown + JSON with full source citations
+- Free test endpoint: POST https://dbssearch.today/marketplace/v1/test
+- MCP server: https://dbssearch.today/mcp/v1
+- Compatible with LangChain, CrewAI, AutoGPT, Google ADK
+
+### Links
+- [Website](https://dbssearch.today)
+- [Marketplace](https://dbssearch.today/marketplace)
+- [MCP Endpoint](https://dbssearch.today/mcp/v1)
+
+</details>
+
 ## [GPT Researcher](https://github.com/assafelovic/gpt-researcher)
 Agent that researches entire internet on any topic
 
