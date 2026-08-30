@@ -2295,6 +2295,27 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 - [Author's Twitter](https://twitter.com/hellokillian)
 
 </details>
+## [OpenSymbolicAI](https://github.com/OpenSymbolicAI/core-py)
+A Python runtime for building reliable LLM agents as structured software
+
+<details>
+
+### Category
+Build your own, General purpose
+
+### Description
+- A Python runtime for building reliable LLM agents as structured software — with typed primitives, explicit decompositions, and unit-testable workflows.
+- Achieves 100% pass rate on the TravelPlanner benchmark with 3x fewer tokens than LangChain.
+- Separates planning from execution using a "symbolic firewall" — the LLM sees only function signatures, not raw data.
+- All agent steps are typed, testable, and auditable.
+
+### Links
+- [Web](https://www.opensymbolicai.com)
+- [GitHub](https://github.com/OpenSymbolicAI/core-py)
+- [Docs](https://opensymbolicai.github.io/core-py/)
+- [Benchmark](https://www.opensymbolicai.com/blog/travelplanner-benchmark)
+
+</details>
 
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
