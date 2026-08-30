@@ -4480,6 +4480,29 @@ Data analysis
 
 </details>
 
+## [json-correction-loop](https://github.com/warpspaceinc/json-correction-loop)
+Critic-driven correction loop for large LLM-generated JSON state, with surgical RFC 6902 patching and sub-agent decomposition.
+
+<details>
+
+### Category
+- Open Source
+- Developer tools
+
+### Description
+- A Python library that wraps a `gather → plan → execute` loop around any JSON-shaped state. Domain code supplies critics and an executor; the library provides the loop, planner, sub-agents, and convergence policies.
+- **Surgical, not regenerative.** The patcher emits RFC 6902 ops via tool calling instead of re-emitting the whole document, bounding token cost by edit footprint rather than document size.
+- **Sub-agent decomposition** — `path_finder` redirects critic-flagged symptom pointers (e.g. an edge with a wrong predicate) to root-cause pointers (the entity whose type was actually flipped); a context-narrowing layer scopes both the sub-agent and the patcher to the affected slice.
+- **Empirical scope.** On a 100-entity / 183-edge synthetic KG with 8 mixed defects (gpt-4o-mini), the standard "full-regen on critic feedback" pattern fixes 0/8 defects and burns 73K tokens before hardcap; this stack fixes 8/8 at 17K tokens in 26 seconds.
+- Apache-2.0; quickstart + KG-correction examples; pytest + ruff CI.
+- Provider-agnostic via Protocols (`StorageBackend`, `EventSink`, `LLMClient`); works with OpenAI / Anthropic / OpenRouter.
+
+### Links
+- [GitHub](https://github.com/warpspaceinc/json-correction-loop)
+- [PyPI](https://pypi.org/project/json-correction-loop/) (release pending)
+
+</details>
+
 ## [Kadoa](https://www.kadoa.com/)
 Web Scraping on Autopilot with AI
 
