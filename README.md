@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Orbital](https://github.com/zqiren/Orbital)
+Local-first desktop agent runtime with a plain-markdown folder as persistent memory
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Uses a local folder of plain markdown as the agent's persistent memory — a two-tier model with an always-injected index plus on-demand files.
+- Dispatches Claude Code (official Agent SDK) and Codex (App Server protocol) as sub-agents on your existing subscription, with parallel fan-out.
+- Approval workflows, per-project budgets, and a cron/task queue.
+- Built-in agent shell commands run under OS sandboxing (Seatbelt on macOS; a dedicated low-privilege user on Windows).
+- Desktop app for macOS (Apple Silicon) and Windows. Open source (GPL-3.0).
+
+### Links
+- [GitHub](https://github.com/zqiren/Orbital)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
