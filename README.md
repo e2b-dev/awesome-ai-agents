@@ -2171,6 +2171,31 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Myco](https://github.com/Battam1111/Myco)
+Agent-first cognitive substrate — long-term memory for LLM agents with 18 manifest-driven verbs and 25 lint dimensions.
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/101111615?s=48&v=4)
+
+### Category
+Long-term memory, Cognitive architecture, Agent infrastructure, Developer tools, Build your own
+
+### Description
+
+- Myco is a cognitive substrate for AI agents — a self-validating markdown+YAML filesystem shape + 18-verb manifest surface (germinate / hunger / eat / sense / forage / assimilate / digest / sporulate / traverse / propagate / immune / senesce / fruit / molt / winnow / ramify / graft / brief).
+- Every verb is available both as a CLI command (`python -m myco <verb>`) and as an MCP tool. Tool responses carry a `substrate_pulse` sidecar echoing R1–R7 contract invariants on every call.
+- 25 lint dimensions (mechanical / shipped / metabolic / semantic) mechanically enforce substrate coherence — dangling graph edges, orphan notes, write-surface violations, contract-version drift, and more.
+- Provider-agnostic by design: mechanical dimensions MP1/MP2 forbid LLM-provider SDK imports inside the kernel and plugin tree. Run it against any model.
+- Editable-default install (`pip install -e`). Agents scaffold their own verbs and lint dimensions through a governance loop (`fruit` → `winnow` → `molt`) without forking the kernel.
+- Works standalone, and layers cleanly beneath LangChain, CrewAI, DSPy, or any orchestration framework as a persistent substrate layer.
+
+### Links
+- [GitHub](https://github.com/Battam1111/Myco)
+- [PyPI](https://pypi.org/project/myco/)
+- [Documentation](https://github.com/Battam1111/Myco/tree/main/docs)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
