@@ -2019,6 +2019,28 @@ Memory management, Data analysis
 
 </details>
 
+
+## [Mengram](https://mengram.io)
+Open-source memory infrastructure for AI agents
+
+<details>
+
+### Category
+Memory management, Build your own, Infrastructure
+
+### Description
+- Open-source memory layer that gives AI agents persistent, structured memory across conversations.
+- Three memory types: semantic (facts & knowledge), episodic (past experiences), and procedural (learned workflows).
+- Built-in knowledge graph with Graph RAG for contextual retrieval across memory types.
+- Self-evolving procedures that improve over time based on agent interactions.
+- Apache 2.0 licensed with a Python SDK and REST API.
+
+### Links
+- [GitHub](https://github.com/alibaizhanov/mengram)
+- [Website](https://mengram.io)
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
