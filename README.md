@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenMind OM1](https://github.com/OpenmindAGI/OM1)
+Openmind's OM1 is a modular AI runtime for agents and robots with multimodal capabilities including movement and speech.
+
+<details>
+
+![Image](https://github.com/OpenmindAGI/OM1/blob/main/src/simulators/plugins/assets/OM_Logo_b_transparent.png)
+### Category
+Robotics, agents, multi-agents
+
+### Description
+- OM1 enables the creation and deployment of AI agents across both digital and physical environments. This means you can design a single AI agent and deploy it not only in the cloud but also on a variety of physical robot platforms, including Quadrupeds, with future support for TurtleBot 3 and Humanoids. This flexibility allows for seamless integration and testing of AI capabilities across different domains, from simulation to real-world applications.
+
+- An AI agent built on OM1 is capable of ingesting data from multiple sources (the Web, X/Twitter, cameras and LIDAR) and performing various actions like tweeting, exploring your house, shaking your hand or talking to you. With OM1, you can talk to OpenAI's gpt-4o and literally shake hands with it.
+
+
+### Links
+- [GitHub](https://github.com/OpenmindAGI/OM1)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
