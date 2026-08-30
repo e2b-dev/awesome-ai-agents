@@ -2788,6 +2788,28 @@ Blockchain, Coding, Generating apps, Smart contract
 
 </details>
 
+## [WebQA Agent](https://github.com/MigoXLab/webqa-agent)
+Autonomous web agent that audits performance, functionality & UX for any web product
+
+<details>
+
+![image](https://github.com/MigoXLab/webqa-agent/blob/main/docs/images/webqa.svg)
+
+### Category
+Agent, QA, E2E testing, Browser Agent, SEO, Performance, Web Security
+
+### Description
+- AI-Powered Testing: WebQA Agent autonomously conducts website testing, from page crawling and test case generation to execution, achieving end-to-end functional test automation.
+- Multi-Dimensional Test: Covers core testing scenarios, including functionality, performance, user experience, and security, evaluating page load speed, design details, and links for comprehensive system quality assurance.
+- Precise Diagnostics: Performs deep testing in real browser environments and provides actionable optimization recommendations.
+- Visual Reports: Generates detailed HTML test reports with a multi-dimensional visual presentation of results for easy analysis and tracking.
+
+### Links
+- [GitHub](https://github.com/MigoXLab/webqa-agent)
+- [ModelScope](https://modelscope.cn/studios/mmmmei22/WebQA-Agent)
+
+</details>
+
 ## [“Westworld” simulation](https://theolvs.github.io/westworld/)
 A multi-agent environment simulation library
 <details>
