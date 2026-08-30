@@ -2296,6 +2296,25 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenPaw](https://github.com/daxaur/openpaw)
+Personal assistant wizard for Claude Code with 39+ skills
+
+<details>
+
+### Category
+General purpose, Coding, Productivity
+
+### Description
+- OpenPaw is an open-source personal assistant that adds 39+ skills to Claude Code via an interactive setup wizard
+- Skills include email, notes, smart home, focus mode, task dashboard, calendar, messaging, browser automation, and more
+- No daemon, no cloud, no extra cost — runs entirely locally through Claude Code
+- Install with `npx pawmode`
+
+### Links
+- [GitHub](https://github.com/daxaur/openpaw)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
