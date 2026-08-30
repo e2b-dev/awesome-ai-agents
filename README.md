@@ -2094,6 +2094,30 @@ General purpose
 </details>
 
 
+## [MoltBridge](https://github.com/SageMindAI/moltbridge)
+Network intelligence engine for AI agents
+
+<details>
+
+### Category
+Infrastructure, Multi-agent, Networking
+
+### Description
+- MoltBridge provides network intelligence for AI agents, enabling them to discover, evaluate, and trust each other
+- Broker discovery finds trusted intermediary agents by domain or specialization
+- Capability matching searches for agents with specific skills across the network
+- Trust attestation uses Ed25519 signatures for cryptographic trust between agents
+- Credibility packets provide verifiable agent identity and reputation bundles
+- Available as an MCP (Model Context Protocol) server and via Python/JavaScript SDKs
+
+### Links
+- [GitHub](https://github.com/SageMindAI/moltbridge)
+- [Website](https://moltbridge.ai)
+- [Documentation](https://moltbridge.ai/docs)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
