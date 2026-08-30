@@ -2019,6 +2019,28 @@ Memory management, Data analysis
 
 </details>
 
+## [AgentCortex](https://github.com/pinakimishra95/agent-memory)
+Framework-agnostic persistent memory for AI agents — add memory to any agent in 3 lines
+
+<details>
+
+### Category
+Memory management, Build your own
+
+### Description
+- Drop-in persistent memory library for any AI agent framework (LangChain, CrewAI, AutoGen, raw Anthropic/OpenAI SDK)
+- Three-tier memory architecture: working memory (in-context), episodic memory (SQLite), semantic memory (ChromaDB/Qdrant)
+- Auto-compresses context window when nearing token limits; agents never run out of context
+- Semantic deduplication prevents redundant memories from polluting retrieval
+- Local-first: runs entirely on-device with SQLite + local embeddings, no cloud required
+- Zero required dependencies for core functionality; vector DB and embeddings are opt-in
+
+### Links
+- [GitHub](https://github.com/pinakimishra95/agent-memory)
+- [PyPI](https://pypi.org/project/agentcortex/)
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
