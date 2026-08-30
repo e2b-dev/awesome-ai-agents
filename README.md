@@ -3006,6 +3006,34 @@ General purpose
 
 </details>
 
+
+## [AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/)
+Managed AI assistant that executes tasks for small businesses
+
+<details>
+
+### Category
+General purpose, Productivity, Business intelligence
+
+### Description
+- Managed AI assistant service that executes tasks (not just writes drafts) for small businesses
+- Handles calls, emails, reports, bookings - integrated with business tools (Gmail, CRM, calendar, phone, accounting)
+- Learns workflows through conversation and vector memory
+- 48-hour setup, runs 24/7 in Telegram, £299/mo flat team pricing
+- Real customer outcomes: Plumber (37% missed calls → 0%, +22% revenue), Accountant (month-end 3 days → 1 hour), Real estate (20% → 68% close rate)
+- vs ChatGPT Enterprise: Executes work (not just drafts), flat pricing (not per-seat tax), integrated with tools
+- vs Virtual Assistant: 77% cost savings (£299/mo vs £1,300/mo), 24/7 availability, parallel task execution
+- SOC 2 Type II compliance, GDPR compliant, enterprise-grade security
+
+### Links
+- [Website](https://openclawapp.netlify.app/assistant/)
+- [Interactive Demo](https://smartforge-internal.netlify.app/ai-assistand-to-smbs/demo/eb26-interactive-demo/)
+- [ROI Calculator](https://smartforge-internal.netlify.app/ai-assistand-to-smbs/roi-calculator/9d35-9fa4e00e1177233aedeac8831e182ef1/)
+- [Case Studies](https://openclawapp.netlify.app/assistant/#case-studies)
+
+</details>
+
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
