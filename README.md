@@ -2272,6 +2272,29 @@ Coding, general purpose
 
 </details>
 
+## [openHarness](https://github.com/zhijiewong/openharness)
+Open-source terminal coding agent. Works with any LLM.
+
+<details>
+
+### Category
+Coding
+
+### Description
+openHarness (`oh`) is an open-source Claude Code alternative — a terminal-native coding agent that reads, edits, and runs code across your repo.
+- 42 built-in tools (file ops, shell, web search/fetch, agent dispatch, MCP) and 78 slash commands
+- Works with any LLM: Anthropic, OpenAI, Ollama, llama.cpp, LM Studio, OpenRouter, Bedrock, Vertex
+- MCP support: stdio, HTTP, and SSE transports with OAuth 2.1
+- Hooks, subagents, plan mode, session resume, and an ACP server for editor integration (Zed, VS Code via vscode-acp)
+- Ships both a Node.js SDK (`@zhijiewang/openharness`) and a Python SDK
+- Local-first; BYO API key. MIT.
+
+### Links
+- [GitHub](https://github.com/zhijiewong/openharness)
+- [npm](https://www.npmjs.com/package/@zhijiewang/openharness)
+
+</details>
+
 
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
