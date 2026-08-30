@@ -182,6 +182,23 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agent Manager Skill](https://github.com/fractalmind-ai/agent-manager-skill)
+Simple, installation-agnostic agent lifecycle management using tmux + Python
+<details>
+
+### Category
+Build your own, Productivity
+
+### Description
+- Manage multiple agents in separate tmux sessions with a lightweight Python orchestrator.
+- Installation-agnostic workflow designed to work in any repo without special dependencies.
+- Useful for running long-lived Dev/QA agents and monitoring their status.
+
+### Links
+- [GitHub](https://github.com/fractalmind-ai/agent-manager-skill)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
