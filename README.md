@@ -1652,6 +1652,28 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Healthcare Admin Agents](https://github.com/ajhcs/healthcare-agents)
+51 specialized AI agents for healthcare administration
+
+<details>
+
+### Category
+Healthcare, Administration, Multi-Agent
+
+### Description
+- 51 open-source AI agents with MHA-level expertise across 10 divisions
+- Covers revenue cycle, compliance, quality, clinical ops, payer relations, health IT, pharmacy
+- Real regulatory citations (42 CFR, CMS, Joint Commission)
+- Works with Claude Code, Cursor, Copilot, Codex CLI, Gemini CLI, and 10+ AI tools
+- Each agent averages 420+ lines with deliverable templates
+- 10 agents score 80+ on automated eval rubric
+
+### Links
+- [GitHub](https://github.com/ajhcs/healthcare-agents)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
