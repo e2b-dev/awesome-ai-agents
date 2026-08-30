@@ -2372,6 +2372,28 @@ Productivity, General purpose
 </details>
 
 
+## [quit-sponsor](https://github.com/metrox-eth/quit-sponsor)
+Open-source quit-smoking sponsor protocol for AI agents, with a Telegram bot running it
+
+<details>
+
+### Category
+Personal assistant
+
+### Description
+
+- Turns an AI agent with persistent memory into a quit-smoking sponsor: a witness with long memory and exact receipts, available at the hours human support is not
+- Evidence-based protocols (urge surfing, withdrawal timelines, slip and relapse handling, cannabis co-use module), every claim traced to published sources
+- Safety-first: medical red flags routed to doctors, crises to human helplines, hard scope limits (refuses alcohol and opioid dependence, where the method could harm)
+- Published model-fit test across seven LLMs from five vendors, with a reproducible six-turn crisis scenario
+- Ships as an Agent Skills package (Claude Code and compatible tools) and as a Telegram bot (@QuitSponsorBot, private beta)
+
+### Links
+- [GitHub](https://github.com/metrox-eth/quit-sponsor)
+- [Model fit test](https://github.com/metrox-eth/quit-sponsor/blob/main/MODEL_FIT.md)
+- [Telegram bot](https://t.me/QuitSponsorBot)
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
