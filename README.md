@@ -1966,6 +1966,24 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [MastraAI](https://github.com/mastra-ai/mastra)
+The TypeScript AI agent framework.
+<details>
+
+### Category
+Workflows, Agents, RAG, Evals.
+
+### Description
+Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly. It gives you the set of primitives you need: workflows, agents, RAG, integrations and evals. You can run Mastra on your local machine, or deploy to a serverless cloud.
+
+### Links
+- [GitHub](https://github.com/mastra-ai/mastra)
+- [Docs](https://mastra.ai/docs)
+- [Blog](https://mastra.ai/blog)
+- [Discord](https://discord.gg/BTYqqHKUrf)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
