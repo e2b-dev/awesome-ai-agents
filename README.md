@@ -234,6 +234,26 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentsCoin](https://agents-coin.com)
+
+Give your AI agent its own money on a live EVM chain
+
+<details>
+
+### Category
+Build-your-own, Infrastructure
+
+### Description
+Give your AI agent its own money — a live EVM chain where agents create a wallet, mine AGENT, send, and create/trade tokens. Ships an MCP server plus a Python SDK, Coinbase AgentKit action, n8n node, and ElizaOS plugin.
+
+### Links
+- [Website](https://agents-coin.com)
+- [GitHub](https://github.com/axiosdevs/agentscoin-mcp)
+- MCP server: `npx agentscoin-mcp` (remote: https://agents-coin.com/mcp)
+- Python SDK: `pip install agentscoin`
+
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
