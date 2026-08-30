@@ -70,6 +70,35 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [AG2](https://github.com/ag2ai/ag2)
+
+Open-source AgentOS for building multi-agent systems
+
+<details>
+
+### Category
+
+General purpose, Build your own, Multi-agent
+
+### Description
+
+- **Open-Source AgentOS**: Programming framework for building AI agents and facilitating cooperation among multiple agents to solve tasks.
+- **Multi-agent conversations**: Agents can converse with each other to solve tasks, supporting various conversation patterns (two-agent, group chat, nested chat, sequential).
+- **Native multi-provider support**: Unified `LLMConfig` interface for OpenAI, Anthropic, Google Gemini, AWS Bedrock, Mistral, Ollama, and more — no wrapper libraries needed.
+- **Tool use and code execution**: Built-in support for function calling, MCP (Model Context Protocol), and secure Docker-based code execution.
+- **Swarm orchestration**: Handoff-based multi-agent pattern for complex workflows with dynamic agent routing.
+- **500K+ monthly PyPI downloads**: Actively maintained community fork with independent releases under the `ag2` package on PyPI.
+
+### Links
+
+- [Website](https://ag2.ai/)
+- [Documentation](https://docs.ag2.ai/)
+- [GitHub](https://github.com/ag2ai/ag2)
+- [Discord](https://discord.gg/pAbnFJrkgZ)
+- [PyPI](https://pypi.org/project/ag2/)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
