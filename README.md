@@ -5589,3 +5589,4 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+- [SkillFlow](https://skillflow.builders) - Open marketplace for AI agent skills and MCP servers. Search 500+ skills with trust metrics, categories, and ratings. [![GitHub](https://img.shields.io/badge/GitHub-Source-black)](https://github.com/rafsilva85/skillflow-mcp-server)
