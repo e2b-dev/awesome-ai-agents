@@ -2196,6 +2196,32 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Orallexa Marketing Agent](https://github.com/alex-jb/orallexa-marketing-agent)
+AI marketing agent for OSS founders — drafts platform-tuned posts from your repo's commits
+
+<details>
+
+### Category
+Marketing, Content generation, Multi-platform
+
+### Description
+- 9 platform adapters: X, Reddit, LinkedIn, Bluesky, Mastodon, Threads, Dev.to, Zhihu, Xiaohongshu (last two are content-prep only — never auto-publish, per anti-bot research)
+- HITL approval queue: drafts land as markdown files; user `git mv pending → approved` to publish
+- Thompson-sampling variant bandit picks emoji-led / question-led / stat-led framings, learns engagement-winning style per platform
+- Voyager-style auto-skill promotion: top-quartile-engagement posts auto-distill into Claude Skill markdown
+- Reflexion memory: cross-session critic findings prepended to next prompt as "patterns to avoid"
+- Cloudflare Workers AI edge tier (~80% cost reduction vs Claude alone) with Anthropic Sonnet 4.6 fallback
+- Built-in MCP server (`marketing-agent-mcp`) exposes 7 tools to Claude Code / Desktop / Cursor / Zed
+- Trends loop: scans GitHub / HN / Reddit / your own VibeX top-of-feed, drafts posts connecting your project's angle to what's trending right now
+- 408 tests, 77% coverage, MIT, on PyPI
+
+### Links
+- [GitHub](https://github.com/alex-jb/orallexa-marketing-agent)
+- [PyPI](https://pypi.org/project/orallexa-marketing-agent/)
+- [CHANGELOG](https://github.com/alex-jb/orallexa-marketing-agent/blob/main/CHANGELOG.md)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
