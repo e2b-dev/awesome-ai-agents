@@ -5287,6 +5287,26 @@ Build-your-own, General purpose, Productivity
 </details>
 
 
+## [TeamOffsite](https://teamoffsite.ai)
+No-code platform from mercury.build to build, set up, and manage agent teams
+
+<details>
+
+### Category
+Build-your-own, Multi-agent, Productivity
+
+### Description
+- No-code platform from [mercury.build](https://mercury.build) to build, set up, and manage agent teams
+- Bring-your-own-agent support for Cursor, Claude Code, Devin, and OpenClaw
+- Orchestration and governance built in
+
+### Links
+- [Web](https://teamoffsite.ai)
+- [mercury.build](https://mercury.build)
+
+</details>
+
+
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
 
