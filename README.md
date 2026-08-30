@@ -3156,6 +3156,24 @@ Coding, General purpose
 
 </details>
 
+## [Anchor Browser](https://anchorbrowser.io/?utm_source=awesome-ai-agents)
+AI agent designed for business intelligence
+
+<details>
+
+![image](https://assets.workoscdn.com/app-branding/environment_01J82BYXB5VT5EG1866YEJBYYZ/01JCWZRSC342M2TBGWBS1PMRZF)
+
+### Category
+Build-your-own, General purpose
+
+### Description
+- Secure, cloud-hosted browser for AI agents to interact with the web
+- Supports authenticated apps and complex web pages without APIs
+- Designed for automation and efficient data extraction
+- Provides reliable environments for web-based workflows
+- Scales easily for varied tasks and users
+
+</details>
 
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
