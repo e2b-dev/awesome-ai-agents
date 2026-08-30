@@ -2093,6 +2093,41 @@ General purpose
 
 </details>
 
+## [Modus](https://github.com/hypermodeinc/modus)
+Modus is an open source, serverless framework for building intelligent agents and APIs in Go or AssemblyScript (a TypeScript-like language).
+
+<details>
+	
+![Modus Framework](https://private-user-images.githubusercontent.com/60440289/389301351-1a6020bd-d041-4dd0-b4a9-ce01dc015b65.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTA3OTk2MTUsIm5iZiI6MTc1MDc5OTMxNSwicGF0aCI6Ii82MDQ0MDI4OS8zODkzMDEzNTEtMWE2MDIwYmQtZDA0MS00ZGQwLWI0YTktY2UwMWRjMDE1YjY1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjI0VDIxMDgzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYwZmIxZWJhNjJjOTkwNzUyNTQzZmE1NWE5MmJlYzcyM2NmMGY5N2U1MTI5OTdiODI4YTQ5M2FlODFmM2EzN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZR7KExAvLXyXU5U83ICkjs1cEH770dsPD_7MFSNN_Go)
+
+### Category
+Stateful Agent Framework
+
+### Description
+- Modus is a runtime purpose-built for orchestrating autonomous AI agents that operate as first-class citizens in your stack
+- Compiles everything to WebAssembly for fast performance at scale and at the edge with dedicated execution environments for each agent instance
+- Enables both stateless functions for quick API responses and stateful agents that maintain persistent memory across interactions
+- Eliminates the need to parse conversation histories, rebuild context from scratch, or lose state when errors occur
+- Provides complete toolkit with Functions (stateless operations), Agents (stateful entities with memory), Models (domain-specific AI), and Knowledge Graphs (organizational memory)
+- Built-in observability with automatic inference logging and tracing, plus secure-by-default authorization
+- Supports sub-second response times for stateless operations and long-running, autonomous workflows that maintain state over time
+- Can be deployed locally for development or in seconds to Hypermode for production
+
+### Key Features
+- **Stateful Agents**: Persistent memory across sessions with short-term and long-term memory capabilities
+- **Stateless Functions**: Auto-generated APIs from function definitions for quick responses
+- **Knowledge Graphs**: Organizational memory that scales context across multi-agent architectures
+- **WebAssembly Runtime**: Sand-boxed execution environments for resiliency, scalability, and security
+- **Multi-Language Support**: Write in Go or AssemblyScript (TypeScript-like language)
+- **Built-in Observability**: Automatic inference logging and tracing
+- **Secure Authorization**: Risk-appropriate access to tools and data
+
+### Links
+- [GitHub](https://github.com/hypermodeinc/modus)
+- [Documentation](https://docs.hypermode.com/modus)
+- [Hypermode Platform](https://hypermode.com)
+
+</details>
 
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
