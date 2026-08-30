@@ -2253,6 +2253,27 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OpenBusiness](https://github.com/wanikua/OpenBusiness)
+OpenBusiness: evidence-first business model research CLI
+
+<details>
+
+### Category
+General purpose, Research, Build your own
+
+### Description
+
+- **Evidence-labeled output**: every claim is tagged verified, inferred, or missing, so sourced facts are separated from model guesses.
+- **9-agent linear pipeline**: evidence collection, JTBD, value proposition, GTM, unit economics, moat, business-model-canvas synthesis, assumption stress test, and finalization (built on LangGraph).
+- **Deterministic unit economics**: LTV/CAC and payback are computed in Python, not by the LLM.
+- **Assumption stress test**: surfaces which assumption, if wrong, flips the conclusion.
+- **Provider-flexible**: OpenAI, Anthropic, or DeepSeek, with optional Tavily / Firecrawl / SEC EDGAR evidence.
+
+### Links
+- [GitHub](https://github.com/wanikua/OpenBusiness)
+- [PyPI](https://pypi.org/project/openbusiness/)
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
