@@ -5511,6 +5511,23 @@ Build-your-own, Productivity, General purpose
   
 </details>
 
+## [Fynix](https://www.fynix.ai/)
+AI-powered Code assistant
+
+<details>
+
+
+### Category
+Coding
+
+### Description
+Fynix combines real-time AI coding assistance with agent-powered code reviews. Write smarter, faster, and cleaner code
+### Links
+- [Website](https://www.fynix.ai/)
+- [Discord](https://discord.com/invite/ZCmWCe8qUW)
+
+</details>
+
 
 
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
