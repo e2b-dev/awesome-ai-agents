@@ -2196,6 +2196,26 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [NemoClawd](https://github.com/ai-in-pm/NemoClawd)
+
+### Category
+Open Source
+
+### Description
+NemoClawd is a next-generation AI workspace that fuses the ClawdBot Node.js/TypeScript runtime with the NVIDIA NeMo Agent Toolkit. Bridge-first architecture: TypeScript orchestrates NeMo Python workflows as typed async functions. Operates as an enterprise-grade AI Digital Project Manager.
+
+### Features
+- TypeScript → Python subprocess → NeMo workflows → structured JSON
+- Supports LangChain, Haystack, Semantic Kernel, AutoGen, Strands, Google ADK
+- MCP tools + A2A agent protocol, HITL workflow support
+- Eval & profiling (Weave, LangSmith, RagaAI), Docker-ready
+
+### Links
+- [GitHub](https://github.com/ai-in-pm/NemoClawd)
+- [Website](https://nemoclawd.me/)
+- [Wiki](https://github.com/ai-in-pm/NemoClawd/wiki)
+
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
