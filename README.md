@@ -1915,6 +1915,27 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [LetterBlack LBE SDK](https://www.npmjs.com/package/@letterblack/lbe-sdk)
+Execution governance SDK for AI agents
+
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+Build your own, Coding, SDK for AI apps
+
+### Description
+- LetterBlack LBE SDK is an execution governance layer for AI agents that validates structured execution requests before actions run.
+- It helps agent builders add policy-mode constraints, actor identity, request metadata, and auditable execution boundaries around command-style workflows.
+- The public npm package is `@letterblack/lbe-sdk`.
+
+### Links
+- [npm](https://www.npmjs.com/package/@letterblack/lbe-sdk)
+
+</details>
+
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
