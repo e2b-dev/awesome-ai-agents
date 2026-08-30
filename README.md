@@ -95,6 +95,24 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+
+## [agentchecker](https://github.com/moisesvalero/agentchecker)
+
+<img src="https://github.com/moisesvalero/agentchecker/raw/main/demo.gif" align="right" width="150"/>
+
+### Category
+
+Coding, DevTools
+
+### Description
+
+- CLI (`npx agentchecker`) that scans AGENTS.md, CLAUDE.md, Cursor rules, Copilot instructions, and other agent config files for contradictions (package manager, linter, formatter, etc.) and fixes project-local files interactively or in CI with `--check-only`.
+
+### Links
+
+- [GitHub](https://github.com/moisesvalero/agentchecker)
+- [npm](https://www.npmjs.com/package/agentchecker)
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
