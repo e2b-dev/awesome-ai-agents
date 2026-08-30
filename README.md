@@ -1745,6 +1745,31 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [hotplex](https://github.com/hrygo/hotplex)
+AI Agent runtime engine with long-lived sessions for Claude Code, OpenCode, pi-mono and other CLI AI tools
+
+<details>
+
+![image](https://raw.githubusercontent.com/hrygo/hotplex/main/docs/assets/hotplex-logo.png)
+
+### Category
+Build your own, DevOps, Multi-platform integrations
+
+### Description
+
+[hotplex](https://github.com/hrygo/hotplex) is an AI Agent runtime engine that provides long-lived sessions for CLI AI tools, eliminating cold start latency.
+
+- **Long-lived Sessions**: Persistent CLI sessions eliminate cold start latency
+- **Full-duplex Streaming**: Real-time bidirectional communication with AI agents
+- **Multi-platform**: Native integrations for Slack, Feishu, Telegram, Discord
+- **Security First**: Built-in danger detection, regex firewall, and secure sandbox
+- **Production Ready**: Budget management, rate limiting, circuit breaker, failover
+
+### Links
+- [Documentation](https://hrygo.github.io/hotplex/)
+- [GitHub](https://github.com/hrygo/hotplex)
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
