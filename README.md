@@ -5589,3 +5589,25 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## [MailCat](https://github.com/apidog/mailcat)
+Email service for AI agents - give your AI its own email address
+
+<details>
+
+### Category
+Tools, Infrastructure
+
+### Description
+
+- **One-prompt setup**: Tell your agent "Read mailcat.ai/skill.md and set up a mailbox" - it handles the rest
+- **Instant mailboxes**: Create email addresses via simple REST API
+- **Auto verification code extraction**: Codes and links parsed automatically from emails
+- **Self-hostable**: Deploy on your own Cloudflare account
+- **Open source**: MIT licensed, fully transparent
+
+### Links
+- [Website](https://mailcat.ai)
+- [Skill.md (AI-readable docs)](https://mailcat.ai/skill.md)
+- [GitHub](https://github.com/apidog/mailcat)
+</details>
