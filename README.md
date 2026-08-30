@@ -4859,6 +4859,26 @@ Technical challenges of building AI products, Business/marketing challenges of b
 
 </details>
 
+## [Nimbalyst](https://nimbalyst.com/)
+Visual workspace for building with Claude Code and Codex
+<details>
+
+### Category
+Session Manager, Task Manager, Visual Editor
+
+### Description
+- Nimbalyst is a local, visual workspace for building with Claude Code and Codex.
+- Higher bandwidth: a visual workspace to collaborate with your agents on sessions, files, and tasks.
+- Richer context: live diffs, linked files, and integrated editors keep you and your agents on the same page
+- Faster workflows: your agent builds custom tools and visual interfaces for your use cases right inside the workspace where you work
+
+### Links
+- [Web](https://nimbalyst.com)
+- [X (Twitter)](https://twitter.com/nimbalyst)
+- [LinkedIn](https://www.linkedin.com/company/nimbalyst/)
+
+</details>
+
 
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
