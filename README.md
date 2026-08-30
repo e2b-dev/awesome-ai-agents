@@ -1652,6 +1652,29 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [gptme](https://github.com/ErikBjare/gptme)
+Open-source terminal AI agent platform with persistent autonomous agents
+
+<details>
+
+### Category
+General purpose, Build your own, Code assistant, Open source
+
+### Description
+- gptme is an open-source terminal-based AI agent platform that supports multiple LLM providers (OpenAI, Anthropic, local models).
+- Features persistent agents with memory across sessions, enabling truly autonomous long-running operation with 7,500+ recorded sessions.
+- Supports multi-agent orchestration, tool use (shell, Python, browser, files), and a self-improving lesson system.
+- Agents can be self-modifying and self-hosted, used to build always-on agents like Bob (technical) and Alice (coordination).
+- Designed for developers who want full control over their AI agents in a local-first, privacy-respecting setup.
+
+### Links
+- [Web](https://gptme.org)
+- [GitHub](https://github.com/ErikBjare/gptme)
+- [Documentation](https://gptme.org/docs/)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
