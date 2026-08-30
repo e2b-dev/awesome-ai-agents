@@ -2427,6 +2427,26 @@ Productivity, Research
 
 </details>
 
+## [Self-improving Channel Agent](https://github.com/ofirozon/self-improving-channel-agent)
+Autonomous agent system that runs public Telegram channels and rewrites its own guidelines weekly
+
+<details>
+
+### Category
+Content creation, Autonomous
+
+### Description
+- Runs two public Telegram channels (Hebrew and English) end to end: research, writing, publishing, and metrics, with no human in the posting loop.
+- Weekly learning loop: the system measures per-post views and rewrites its own writing guidelines, with every change versioned and justified in a public changelog.
+- Immutable guardrails the learning loop cannot amend (disclosure, no clickbait, source credit), plus a self-healing watchdog and a dumb-code publish-time safety check.
+- Zero infrastructure: runs from launchd on a laptop with a consumer Claude subscription, documented as an open experiment including honest metrics.
+
+### Links
+- [GitHub](https://github.com/ofirozon/self-improving-channel-agent)
+- [English channel](https://t.me/DailyClaudeTips)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
