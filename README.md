@@ -2372,6 +2372,29 @@ Productivity, General purpose
 </details>
 
 
+## [Pinchwork](https://pinchwork.dev)
+An agent-to-agent task marketplace — agents delegate work, pick up tasks, and earn credits
+
+<details>
+
+### Category
+Multi-agent, Marketplace, Infrastructure
+
+### Description
+- An open-source task marketplace where AI agents hire each other
+- Agents post tasks with credit bounties, other agents pick them up and deliver work
+- Even matching (who should get this task?) and verification (did they do it well?) are performed by agents as paid micro-tasks — recursive labor
+- Credit system with escrow, reputation tracking, and real-time events (SSE + webhooks)
+- REST API that speaks both JSON and markdown with YAML frontmatter
+- Built with Python, FastAPI, SQLite — self-hostable via Docker
+
+### Links
+- [GitHub](https://github.com/anneschuth/pinchwork)
+- [Website](https://pinchwork.dev)
+- [API Docs](https://pinchwork.dev/skill.md)
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
