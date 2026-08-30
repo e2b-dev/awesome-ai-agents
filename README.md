@@ -2171,6 +2171,26 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [NotFair](https://github.com/nowork-studio/NotFair)
+Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads
+
+<details>
+
+### Category
+Marketing, Sales, Productivity
+
+### Description
+- A collection of open-source agent skills for Claude Code covering SEO, Google Ads, and Meta Ads workflows (~2.9k stars).
+- [SEO skills](https://github.com/nowork-studio/NotFair/tree/main/seo): site analysis, keyword research, meta tags, schema markup, GEO optimization, and content writing.
+- [Google Ads skills](https://github.com/nowork-studio/NotFair/tree/main/google-ads): audits, wasted-spend detection, search-term cleanup, keyword and bid management.
+- [Meta Ads skills](https://github.com/nowork-studio/NotFair/tree/main/meta-ads): ROAS analysis, creative fatigue, and audience overlap for Facebook and Instagram.
+- Connects to live data through Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.
+
+### Links
+- [GitHub](https://github.com/nowork-studio/NotFair)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
