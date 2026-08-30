@@ -2961,6 +2961,29 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [ACP Bridge](https://github.com/xiwan/acp-bridge)
+Multi-agent orchestrator via ACP protocol
+
+<details>
+
+### Category
+Multi-agent, Infrastructure, Developer tools
+
+### Description
+
+ACP Bridge routes and orchestrates CLI agents (Kiro, Claude Code, Hermes, Codex) via the ACP (Agent Client Protocol) standard, exposing them as unified HTTP APIs.
+
+- **Native ACP protocol support** with structured event streaming (thinking/tool_call/text/status)
+- **Process pool** with per-session context reuse for multi-turn conversations
+- **Multi-agent routing**: OpenClaw ↔ Hermes ↔ Claude Code interop
+- **Sync + SSE streaming + async job modes** with webhook callbacks
+- **IM integration** (Discord, WeChat) via OpenClaw Gateway
+
+### Links
+- [GitHub](https://github.com/xiwan/acp-bridge)
+- [AWS Blog](https://aws.amazon.com/cn/blogs/china/enable-kiro-and-claude-code-for-im-with-acp-bridge-async-ai-workflow/)
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
