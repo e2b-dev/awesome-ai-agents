@@ -234,6 +234,25 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [Claude Agent Core](https://github.com/Informant254/claude-agent-core)
+Lightweight, security-first Python wrapper for Claude 3.5 Sonnet agents
+
+<details>
+
+### Category
+Security, Framework, Python
+
+### Description
+- **Zero-Trust Tool Policy**: Implements a policy gate to explicitly allow, deny, or require human confirmation for every tool call, enhancing security against prompt injection and unexpected agent behavior.
+- **Lightweight & Minimal Dependencies**: Designed for auditability and seamless integration without bloat.
+- **Claude 3.5 Sonnet Optimized**: Built specifically to leverage Claude 3.5\"s tool-calling capabilities.
+- **Explicit Input Validation**: Validates prompts and token counts before LLM interaction to prevent API abuse.
+
+### Links
+- [GitHub](https://github.com/Informant254/claude-agent-core)
+
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
