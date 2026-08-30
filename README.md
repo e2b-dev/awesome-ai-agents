@@ -3060,6 +3060,30 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+## [AI Agent Builder](https://aiagent-builder.com/)
+Build, Test and Deploy AI Agents and Agentic Workflows. Automate tasks and supercharge your business with 100+ APIs and Integrations.
+
+<details>
+
+![image](https://www.aiagent-builder.com/logo-banner.jpg)
+
+### Category
+Low Code Agents Builder, Integrated Development Environment, Platform, Marketplace (coming soon)
+
+### Description
+- AI Agents Builder is an agent IDE, with all of the tools to get started with AI Agents.
+- Use a template or start from scratch to integrate 100+ APIs
+- Create Agents, Share them, Test them, and Deploy all in one place.
+
+
+### Links
+- [Web](https://aiagent-builder.com)
+- [X ](https://x.com/aiagentbuilder)
+- [LInkedin](https://www.linkedin.com/company/aiagent-builder/)
+
+</details>
+
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
