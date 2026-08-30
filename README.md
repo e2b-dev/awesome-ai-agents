@@ -70,6 +70,21 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [APort](https://aport.io)
+
+### Category
+
+Framework
+
+### Description
+
+Agent identity verification and policy enforcement for AI agents. Provides SDKs for Python and Node.js with middleware for Express/FastAPI.
+
+### Links
+
+- [GitHub](https://github.com/aporthq)
+- [Website](https://aport.io)
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
