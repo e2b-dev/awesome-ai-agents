@@ -2296,6 +2296,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenClaw](https://openclawapp.netlify.app/)
+Personal AI assistant and agent runtime for non-technical users
+
+<details>
+
+### Category
+Personal Assistant
+
+### Description
+OpenClaw is a local AI agent runtime that lets non-technical entrepreneurs and business owners run AI agents on their own machine
+- Self-hosted: pay £2-15/month in API costs instead of £200+/month for SaaS
+- Control agents from phone via Telegram/Slack integration
+- Cron-based scheduling: agents run 24/7 without user input
+- Multi-agent orchestration with shared memory
+- Built-in security, token cost optimisation, and heartbeat monitoring
+
+### Links
+- [Web](https://openclawapp.netlify.app/)
+- [Tutorial](https://openclawapp.netlify.app/tutorial/)
+- [Course](https://openclawapp.netlify.app/course/)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
