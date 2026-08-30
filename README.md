@@ -2427,6 +2427,30 @@ Productivity, Research
 
 </details>
 
+## [Sentō](https://github.com/sentoagent/sento)
+Self-improving AI agents that run 24/7 on your Claude subscription — one command to set up
+<details>
+
+### Category
+Build your own, Multi-agent, General purpose
+
+### Description
+- An open-source CLI framework that turns Claude Code into a persistent, self-healing AI agent controlled through Discord, Telegram, Slack, or iMessage.
+- One command setup: `npx sentoagent init` installs 17 plugins, persistent memory (ClawMem), browser automation (Playwright), and personality-driven onboarding in 5 minutes.
+- Works with your existing Claude subscription (Pro, Max, Team, Enterprise) — no API keys, no per-token billing, no surprise costs.
+- Self-healing Guardian process monitors agent health every 30 seconds, auto-restarts on crashes or stuck states, and communicates recovery status through Discord — users never need SSH access.
+- First agent framework with secure agent-to-agent communication: HMAC-SHA256 signed messaging between agents on any server, with mutual-consent pairing.
+- 13 CLI commands for full lifecycle management: init, status, config, channels, skills, logs, update, doctor, start/stop/restart, pair, agents.
+- Supports VPS, Docker, and macOS deployment with auto-restart on reboot and crash recovery.
+
+### Links
+- [Website](https://sentoagent.com)
+- [npm](https://www.npmjs.com/package/sentoagent)
+- [GitHub](https://github.com/sentoagent/sento)
+- [X (Twitter)](https://x.com/Sentoagent)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
