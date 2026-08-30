@@ -1443,6 +1443,36 @@ Coding
 
 </details>
 
+## [Giselle](https://github.com/giselles-ai/giselle)
+AI for Agentic Workflows. Human-AI Collaboration. Open Source.
+
+<details>
+
+<div>
+  <img src="https://raw.githubusercontent.com/giselles-ai/docs/faccbcb2e3f784aee1727d8affda3622a2b7d5c0/logo/light.svg#gh-light-mode-only" alt="Giselle" width="400">
+  <img src="https://raw.githubusercontent.com/giselles-ai/docs/faccbcb2e3f784aee1727d8affda3622a2b7d5c0/logo/dark.svg#gh-dark-mode-only" alt="Giselle" width="400">
+</div>
+
+### Category
+Productivity, Build your own, General purpose, Multi-agent, Supports open-source models
+
+### Description
+Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease. Using a highly intuitive node-based interface, Giselle enables you to design and deploy powerful AI Agents by seamlessly integrating multiple LLMs and data sources.
+
+These AI Agents function like expert team members, capable of tackling complex tasks such as market research, code review, and more. Giselle not only automates your documentation workflows but also accelerates product development, fostering enhanced collaboration through AI-powered efficiency.
+
+Start exploring Giselle today and unlock new levels of productivity and innovation for your team!
+
+### Links
+- [Website](https://giselles.ai/)
+- [GitHub](https://github.com/giselles-ai/giselle)
+- [Facebook](https://www.facebook.com/GiselleAI/)
+- [X](https://x.com/Giselles_AI)
+- [Instagram](https://www.instagram.com/giselle_de_ai)
+- [YouTube](https://www.youtube.com/@Giselle_AI)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
