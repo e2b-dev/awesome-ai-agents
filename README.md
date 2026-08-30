@@ -4387,6 +4387,29 @@ Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms
 
 </details>
 
+## [InBoxIA](https://inbox-ia.com/en)
+Multi-agent AI CRM that serves WhatsApp, Instagram & Messenger 24/7 and books appointments
+
+<details>
+
+![image](https://inbox-ia.com/inboxia_logo.webp)
+
+### Category
+Customer support, Sales, Daily life
+
+### Description
+- InBoxIA deploys AI agents on WhatsApp, Instagram, Messenger and 30+ networks that answer customer questions 24/7 using your own business data.
+- Books appointments via Google Calendar, hands off to a human when the AI can't resolve a query, and publishes social content — all from a single dashboard.
+- No-code setup, copilot mode (AI suggests, you approve) and multi-business support. Strong focus on Spanish/LatAm markets.
+
+### Links
+- [Web](https://inbox-ia.com/en)
+- [App](https://app.inbox-ia.com/)
+- [X (Twitter)](https://twitter.com/InBox_IA)
+- [LinkedIn](https://www.linkedin.com/in/inbox-ia)
+
+</details>
+
 ## [Input](https://useinput.com/)
 AI-powered teammate that can collaborate on code
 <details>
