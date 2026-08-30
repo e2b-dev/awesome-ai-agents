@@ -1088,6 +1088,30 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [CrewClaw](https://crewclaw.com/?utm_source=awesome-ai-agents&utm_medium=readme)
+Generate a deploy-ready AI agent package from a form — no canvas, no SDK
+
+<details>
+
+### Category
+Build-your-own, No-code, Productivity, Multi-agent
+
+### Description
+- Form-based generator that produces a complete deploy package (Dockerfile, docker-compose, OpenClaw bot file, AGENTS.md, README) from a short configuration form — no canvas to learn, no SDK to install
+- 242+ agent role templates across 25 categories: brand monitor, competitor watch, SEO analyst, content writer, customer support, lead generator, code reviewer, and more
+- Channel-agnostic: Slack, Telegram, Discord, GitHub, email, webhook
+- Model-agnostic: Claude, GPT, Gemini, Ollama (local Gemma/Llama/Phi)
+- One-time pricing: $9 single agent, $19 starter (3 agents), $29 team bundle (5 agents + AGENTS.md coordination). No subscription.
+- Open-source agent template library at github.com/mergisi/awesome-openclaw-agents (2,050+ stars, 205 templates, MIT licensed)
+
+### Links
+- [Web](https://crewclaw.com/?utm_source=awesome-ai-agents)
+- [Agent Gallery](https://crewclaw.com/agents)
+- [Templates Repo](https://github.com/mergisi/awesome-openclaw-agents)
+- [Blog](https://crewclaw.com/blog)
+
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
