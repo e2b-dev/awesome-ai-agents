@@ -754,6 +754,27 @@ Coding, Debugging
 </details>
 
 
+## [AgentDBG](https://github.com/Sigmabrogz/agent-devtools)
+Chrome DevTools for AI Agents - Real-time debugging with pause, resume, and step-through
+
+<details>
+
+### Category
+Developer tools, Debugging
+
+### Description
+- AgentDBG is a real-time debugging tool for AI agents that lets you pause, inspect, and step through LLM calls
+- Set breakpoints on cost thresholds, errors, or custom conditions
+- Auto-instruments OpenAI, Anthropic, and LangChain with zero config
+- 100% local - all data stays on your machine
+- Watch your agent's execution unfold in real-time and stop it when things go wrong
+
+### Links
+- [PyPI](https://pypi.org/project/agent-devtools/)
+- [GitHub](https://github.com/Sigmabrogz/agent-devtools)
+</details>
+
+
 ## [Bloop](https://bloop.ai/)
 AI code search, works for Rust and Typescript
 
