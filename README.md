@@ -3873,6 +3873,38 @@ Design, Content creation
 
 </details>
 
+## [Discury](https://discury.io/)
+AI market intelligence platform - surfacing pain points, competitor shifts and buying signals from Reddit, Hacker News, Stack Overflow and Product Hunt.
+
+<details>
+
+![image](https://discury.io/icon.svg)
+
+### Category
+Market Intelligence, Competitive Intelligence, AI Tools, SaaS
+
+### Description
+Discury is an always-on customer intelligence platform that monitors 100,000+ online communities 24/7 — surfacing the pain points, competitor shifts, and buying signals your competitors haven't noticed yet.
+
+Most products fail because founders build before they understand real demand. Discury fixes that. Instead of guessing, you get structured intelligence pulled from millions of real discussions on Reddit, Hacker News, Stack Overflow, and Product Hunt — with source links and verbatim quotes you can verify yourself.
+
+Every analysis delivers four specialized insight modules:
+- Market Intelligence — demand signals, sentiment trends, feature demand matrix
+- Founder Validation — validation verdict, kill factors, ideal customer profiles
+- Competitive Landscape — positioning map, competitor gaps, roadmap signals
+- Content Strategy — proven headlines, copywriting ammunition, distribution angles
+
+Results in under 60 seconds. No credit card required for your first analysis.
+
+Built for founders, product teams, and marketers who need to understand their market — not just monitor keywords.
+
+### Links
+- [Web](https://discury.io/)
+
+
+</details>
+
+
 ## [Docket AI](https://docketai.net/)
 AI Sales Engineer for somplex B2B sales
 
