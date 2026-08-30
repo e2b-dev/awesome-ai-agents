@@ -1745,6 +1745,29 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [lean-ctx](https://github.com/yvgude/lean-ctx)
+Open-source context runtime for AI coding agents
+
+<details>
+
+![image](https://github.com/yvgude/lean-ctx/raw/main/packages/vscode-lean-ctx/media/icon.png)
+
+### Category
+Coding
+
+### Description
+Open-source context runtime for AI coding agents.
+- MCP server plus shell hook that reduces LLM token costs by 60-99% through session caching, AST-aware compression (18 languages), and 90+ shell output patterns.
+- Single Rust binary; Apache-2.0 license.
+- 900+ GitHub stars; 32k+ installs.
+
+### Links
+
+- [Website](https://leanctx.com)
+- [GitHub](https://github.com/yvgude/lean-ctx)
+
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
