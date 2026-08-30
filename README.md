@@ -255,6 +255,25 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AnveVoice](https://anvevoice.app)
+Voice AI agent for websites with agentic DOM actions
+
+<details>
+
+### Category
+Voice AI, Customer-facing, Automation
+
+### Description
+- Voice AI agent that navigates pages, fills forms, and clicks buttons autonomously on any website.
+- Supports 50+ languages with <700ms latency for real-time voice interactions.
+- One-line embed for easy integration into any website.
+- Free tier available.
+
+### Links
+- [Website](https://anvevoice.app)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
