@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [AI Agent Patterns Playbook](https://github.com/muriloscigliano/ai-playbook)
+78 production-ready patterns for building AI-first products
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- 78 engineering patterns covering agent loops, tools, memory, RAG, multi-agent, safety, and production hardening
+- 17 design principles + 7 UX patterns for human-centered agentic AI
+- MCP server with 11 tools for pattern retrieval and recommendations
+- Structured data layer (npm: @muriloscigliano/ai-playbook) with typed relations
+
+### Links
+- [GitHub](https://github.com/muriloscigliano/ai-playbook)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
