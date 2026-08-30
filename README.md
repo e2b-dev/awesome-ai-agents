@@ -278,6 +278,25 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [AI Sales Script Generator](https://aisalesscriptgenerator.com)
+Generates full sales call scripts with objection handling for any industry.
+
+<details>
+
+### Category
+Sales, Marketing, Productivity
+
+### Description
+- Generates full B2B sales call scripts (cold call, discovery, demo, follow-up) in under 10 seconds.
+- Trained specifically for objection handling — outputs the top 5 anticipated objections with word-for-word rebuttals.
+- Industry-aware: adjusts tone, terminology, and value props based on your industry input (SaaS, real estate, insurance, etc.).
+- Free tier for individual reps; Pro plan for teams.
+
+### Links
+- [Web](https://aisalesscriptgenerator.com)
+
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
