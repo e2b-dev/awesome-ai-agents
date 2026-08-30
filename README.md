@@ -474,6 +474,30 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Batty](https://github.com/battysh/batty)
+Terminal-native supervisor for AI coding agent teams
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- A Rust CLI that supervises teams of AI coding agents in tmux with test-gated task completion.
+- Define team roles (architect, manager, engineers) in YAML with explicit communication rules.
+- Each agent runs in its own tmux pane with isolated git worktrees — no merge conflicts during active work.
+- Tasks dispatch from a Markdown kanban board. Nothing merges until the test suite passes.
+- Agent-agnostic: works with Claude Code, Codex, Aider, or any CLI tool.
+- File-based everything: YAML config, Markdown kanban, Maildir inboxes, JSONL logs.
+
+### Links
+- [GitHub](https://github.com/battysh/batty)
+- [Crates.io](https://crates.io/crates/batty-cli)
+- [Docs](https://battysh.github.io/batty/)
+- [Demo](https://youtube.com/watch?v=2wmBcUnq0vw)
+
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
