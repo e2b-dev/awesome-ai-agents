@@ -1771,6 +1771,22 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [LightCMS](https://github.com/jonradoff/lightcms)
+AI-native CMS with MCP server for managing websites through natural language
+
+<details>
+
+### Category
+Productivity, Build your own
+
+### Description
+AI-native CMS with MCP (Model Context Protocol) server providing 41 tools for AI agents to manage websites through natural language. Agents can create pages, manage templates, upload assets, customize themes, organize content with collections, set up redirects, and track content versions.
+
+### Links
+- [GitHub](https://github.com/jonradoff/lightcms)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
