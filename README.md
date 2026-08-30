@@ -1160,6 +1160,33 @@ Build-your-own
 
 </details>
 
+## [DeepSweep AI](https://github.com/deepsweep-ai/deepsweepai)
+Enterprise AI agent security scanner for vulnerability testing
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/210174985?s=200&v=4)
+
+### Category
+Coding, Security, Multi-agent
+
+### Description
+DeepSweep AI is a security scanner built specifically for AI agents and agentic workflows.
+- Performs adversarial testing on prompt injection vulnerabilities
+- Detects data exfiltration risks in RAG and retrieval systems
+- Tests for tool misuse patterns that bypass safety guardrails
+- Automated compliance mapping to NIST AI RMF, EU AI Act, ISO/IEC 23894
+- Industry-specific attack vector generation for healthcare, fintech, manufacturing
+- Zero-error deployment approach prevents vulnerable agents from reaching production
+- CLI interface with Python integration support
+
+### Links
+- [GitHub](https://github.com/deepsweep-ai/deepsweepai)
+- [Documentation](https://docs.deepsweep.ai)
+- [Discord](https://discord.com/invite/Db5Zth2RKR)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
