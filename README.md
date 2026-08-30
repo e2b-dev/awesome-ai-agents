@@ -1160,6 +1160,29 @@ Build-your-own
 
 </details>
 
+## [dcode](https://github.com/langchain-ai/deepagents/tree/main/libs/code)
+The coding agent you own. Open-source, model-agnostic, and built by LangChain to give you maximum control over your software development lifecycle.
+
+<details>
+
+![Image](https://raw.githubusercontent.com/langchain-ai/deepagents/main/libs/code/images/tui.png)
+
+### Category
+Coding
+
+### Description
+- The coding agent you own. Open-source, model-agnostic, and built by LangChain to give you maximum control over your software development lifecycle.
+- Pre-built terminal coding agent like Claude Code / Cursor — `curl -LsSf https://langch.in/dcode | bash` then `dcode` — no code required, works with any LLM that supports tool calling (OpenAI, Anthropic, Gemini included by default)
+- Interactive TUI with streaming responses, conversation resume, persistent memory, and human-in-the-loop approval gates
+- Web search, remote sandboxes (LangSmith, AgentCore, Daytona, Modal, Runloop, etc.), custom slash-command skills, and headless mode for CI/scripting
+
+### Links
+- [GitHub](https://github.com/langchain-ai/deepagents/tree/main/libs/code)
+- [Documentation](https://docs.langchain.com/deepagents-code)
+- [PyPI](https://pypi.org/project/deepagents-code/)
+
+</details>
+
 ## [DemoGPT](https://github.com/melih-unsal/DemoGPT)
 Generates demo of a new app (of any purpose)
 
