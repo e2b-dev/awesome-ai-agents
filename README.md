@@ -1652,6 +1652,32 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Hivekeep](https://github.com/MarlBurroW/hivekeep)
+Self-hosted platform of autonomous, persistent personal AI agents
+
+<details>
+
+### Category
+Personal assistant, Multi-agent platform
+
+### Description
+Hivekeep runs a team of specialized personal AI agents on your own server
+- Open source (MIT), self-hosted in a single container with Bun and SQLite, no external infrastructure
+- Agents keep one continuous session with hybrid long-term memory: old turns are summarized, never deleted
+- Agents collaborate: request/reply between agents, sub-agent delegation, shared history and address book
+- Agents extend the platform themselves: custom tools, mini-apps, NPM plugins, MCP support
+- Built-in channels: Telegram, WhatsApp, Slack, Discord, Signal, Matrix
+- Connected accounts: email (Gmail, Outlook, IMAP), calendar (Google, Outlook, CalDAV), contacts
+- Automation: crons, inbound webhooks, email triggers, wake-up timers, agent-run kanban
+- Secrets live in an AES-256-GCM vault and are never sent to the LLM
+- Conversational setup through a built-in agent, no YAML
+
+### Links
+- [GitHub](https://github.com/MarlBurroW/hivekeep)
+- [Website](https://hivekeep.app)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
