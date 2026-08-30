@@ -1397,6 +1397,29 @@ Build-your-own (agent-builing frameworks and platforms)
 
 </details>
 
+## [Forge](https://forgecode.dev)
+Terminal-based AI pair programmer for code generation and editing
+
+<details>
+
+![Image](https://camo.githubusercontent.com/5f0a353cfb38de164eb86f2918a30585f5267074a91f3a1f4cde6d0139409c74/68747470733a2f2f6173736574732e616e74696e6f6d792e61692f696d616765732f666f7267655f64656d6f5f32782e676966)
+
+### Category
+Coding
+
+### Description
+- Forge is a terminal-based AI pair programmer that assists developers with code generation and editing
+- Provides an interactive coding experience with AI assistance directly in the terminal
+- Features intelligent code suggestions, automated editing, and seamless integration with development workflows
+- Supports multiple programming languages and frameworks
+- Designed for developers who prefer command-line tools and terminal-based workflows
+
+### Links
+- [Website](https://forgecode.dev/)
+- [GitHub](https://github.com/antinomyhq/forge)
+
+</details>
+
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
