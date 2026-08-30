@@ -959,6 +959,27 @@ Science, Chemistry
 
 </details>
 
+## [Citio](https://github.com/lawrencehui/Citio)
+Self-hosted AI teammate in Slack: @mention it and Claude Code or OpenAI Codex investigates logs, runs tests, and opens pull requests
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Slack-native: anyone on the team can delegate engineering work by @mentioning it, like pinging a colleague
+- Runs in your own AWS account on an individual Claude or ChatGPT subscription; usage draws on the plan quota, no metered API bill
+- Credential boundary: the agent gets allowlisted MCP tools, never keys; tokens live in AWS Secrets Manager
+- Provider-agnostic: Claude Code or OpenAI Codex, switchable per deploy
+- One-command guided installer (npx @lawrencehui/citio), deploys to ECS Fargate; MIT licensed
+
+### Links
+- [GitHub](https://github.com/lawrencehui/Citio)
+- [Demo and write-up](https://www.lawrenceh.xyz/writings/self-hosted-claude-tag)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
