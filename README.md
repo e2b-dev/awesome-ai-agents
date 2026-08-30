@@ -425,6 +425,32 @@ Coding
 
 </details>
 
+## [Autohand Code CLI](https://github.com/autohandai/code-cli)
+Self-evolving autonomous coding agent built for scalability and full developer autonomy in the terminal
+
+<details>
+
+### Category
+Coding, CLI, Terminal
+
+### Description
+- Autohand Code CLI is a self-evolving autonomous coding agent that runs in your terminal. Built with autonomy and scalability at its core, it uses the ReAct (Reason + Act) pattern to read, reason, and write code across entire projects.
+- Features
+	- 40+ built-in autonomous tools for file ops, git, search, multi-file editing
+	- Multiple LLM provider support (OpenRouter, Anthropic, OpenAI, Ollama, local models)
+	- Interactive REPL with slash commands and autocomplete
+	- Semantic code search across projects
+	- Modular skill system for specialized workflows
+	- Session management and resumption
+	- VS Code and Zed editor extensions
+	- Docker support and CI/CD compatible command mode
+
+### Links
+- [GitHub](https://github.com/autohandai/code-cli)
+- [Website](https://www.autohand.ai/code/)
+
+</details>
+
 ## [AutoPR](https://github.com/irgolic/AutoPR)
 AI-generated pull requests agent that fixes issues
 
