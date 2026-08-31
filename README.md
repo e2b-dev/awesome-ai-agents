@@ -1422,6 +1422,29 @@ Coding
 
 </details>
 
+## [FutureOS](https://github.com/futuregene/future-os)
+One AI agent everywhere — terminal, desktop, mobile, and IM bots
+
+<details>
+
+### Category
+Personal assistant, Productivity, Coding
+
+### Description
+- One AI agent, everywhere you work: the same agent runs in a terminal UI, desktop app (macOS/Windows/Linux), mobile apps (Android/iOS), CLI, and Feishu/DingTalk IM bots
+- Single Rust gRPC backend drives every surface — same sessions, memory, and skills across all clients
+- 3,800+ built-in models across 140+ providers, with BYOK and custom providers via config
+- Trust-first tool execution: read/write/edit/shell calls gated by user approval, with OS-level sandboxing (macOS Seatbelt, Windows restricted token)
+- Built-in loop control plane for long-horizon runs of 24+ hours: durable goals, event-sourced state, verification gates, multi-agent orchestration
+- Forkable sessions: branch, clone, and tree-navigate conversation history like a git repo
+
+### Links
+- [GitHub](https://github.com/futuregene/future-os)
+- [Documentation](https://github.com/futuregene/future-os/tree/main/docs)
+- [Skills catalog](https://github.com/futuregene/future-skills)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
