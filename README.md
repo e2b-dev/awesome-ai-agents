@@ -2408,6 +2408,27 @@ Coding
 
 </details>
 
+## [SandBase Harness](https://github.com/sandbaseai/sandbase-harness)
+Local-first, self-hosted runtime and MCP bridge for governed AI agent sessions
+<details>
+
+### Category
+Coding, General purpose, Build your own
+
+### Description
+- A TypeScript runtime for running AI agent sessions with persistent state and memory.
+- Provides governed tool access through MCP, including approvals and credential scoping.
+- Records audit events and supports replay for session review.
+- Supports local, Docker, Kubernetes, and self-hosted worker execution backends.
+- Isolation properties depend on the selected backend and deployment configuration.
+
+### Links
+- [GitHub](https://github.com/sandbaseai/sandbase-harness)
+- [Installation](https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md)
+- [Latest release](https://github.com/sandbaseai/sandbase-harness/releases/tag/v0.3.8)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
