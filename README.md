@@ -3542,6 +3542,26 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Cue](https://heycue.io)
+Desktop voice agent for Mac & Windows
+
+<details>
+
+### Category
+Productivity, Personal assistant
+
+### Description
+- Speak to type, transcribe meetings, use screen context, and help finish supported desktop tasks.
+- One Cue product with three entry points: Voice Agent workflows, free voice typing, and meeting transcription and notes.
+
+### Links
+- [Web](https://heycue.io)
+- [Voice Agent workflows](https://heycue.io/ai)
+- [Free voice typing](https://heycue.io/tools/free-voice-typing-mac)
+- [Meeting notes](https://heycue.io/tools/meeting-notes)
+
+</details>
+
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
