@@ -2427,6 +2427,23 @@ Productivity, Research
 
 </details>
 
+## [Signbee](https://github.com/signbee/mcp)
+Two-party SES e-sign for AI agents. stdio MCP: npx -y signbee-mcp. Tools: send_document, send_document_pdf.
+
+<details>
+
+### Category
+Productivity, Build-your-own
+
+### Description
+Two-party SES e-sign for AI agents. stdio MCP: npx -y signbee-mcp. Tools: send_document, send_document_pdf.
+
+### Links
+- [GitHub](https://github.com/signbee/mcp)
+- [Web](https://signb.ee)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
