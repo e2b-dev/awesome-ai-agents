@@ -3543,7 +3543,7 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 </details>
 
 ## [Cue](https://heycue.io)
-Voice AI agent for Mac & Windows
+Desktop voice agent for Mac & Windows
 
 <details>
 
@@ -3551,11 +3551,14 @@ Voice AI agent for Mac & Windows
 Productivity, Personal assistant
 
 ### Description
-- Voice AI agent for Mac & Windows that sees your screen and executes tasks in any app.
-- Featured in Google DeepMind's Gemmaverse (on-device Gemma 4, 44% lower dictation latency).
+- Speak to type, transcribe meetings, use screen context, and help finish supported desktop tasks.
+- One Cue product with three entry points: Voice Agent workflows, free voice typing, and meeting transcription and notes.
 
 ### Links
 - [Web](https://heycue.io)
+- [Voice Agent workflows](https://heycue.io/ai)
+- [Free voice typing](https://heycue.io/tools/free-voice-typing-mac)
+- [Meeting notes](https://heycue.io/tools/meeting-notes)
 
 </details>
 
