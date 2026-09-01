@@ -1062,6 +1062,32 @@ Coding
 
 </details>
 
+## [covey](https://github.com/benjaminLedel/covey)
+Self-hosted platform that runs AI agents like employees
+
+<details>
+
+### Category
+General purpose, Build-your-own, Multi-agent
+
+### Description
+
+- **Runs agents rather than building them**: the model loop stays with the underlying tool — Claude Code headless today, Codex alongside it — while covey owns identity, access, tasking, memory and cost.
+- **An identity per agent**: every agent has a role, a department and a place in an org chart shared with humans.
+- **Isolated workplaces**: each agent works in its own Docker sandbox with a persistent home; a lost sandbox is rebuilt from config plus home.
+- **Credentials are never handed to the agent**: access to a target system is brokered at runtime, short-lived and scoped to the task.
+- **Guard-rails outside the runtime**: policy is enforced centrally and fail-closed rather than in the prompt, and critical actions wait for a human approval.
+- **Recorded and costed**: every session is recorded with what the agent did and what it cost, with alerts and a kill switch.
+- **Target systems as plugins**: GitHub, GitLab, Jira, Confluence, email/IMAP, Microsoft Teams, Zammad, Kubernetes and MCP.
+- One Go binary plus Postgres, AGPL-3.0.
+
+### Links
+- [Website](https://covey.work)
+- [Documentation](https://covey.work/docs/what-is-covey)
+- [GitHub](https://github.com/benjaminLedel/covey)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
