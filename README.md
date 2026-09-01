@@ -2427,8 +2427,8 @@ Productivity, Research
 
 </details>
 
-## [Signbee MCP](https://www.npmjs.com/package/signbee-mcp)
-E-signature primitive for autonomous agent workflows
+## [Signbee](https://github.com/signbee/mcp)
+Two-party SES e-sign for AI agents. stdio MCP: npx -y signbee-mcp. Tools: send_document, send_document_pdf.
 
 <details>
 
@@ -2436,16 +2436,11 @@ E-signature primitive for autonomous agent workflows
 Productivity, Build-your-own
 
 ### Description
-MCP server that gives AI agents the ability to send documents for legally binding e-signatures. Designed as the signing primitive in agent-driven deal-closing pipelines.
-- Send contracts and agreements for two-party signing via API
-- SHA-256 audit certificates for legal compliance
-- Webhook callbacks on signature completion for downstream automation
-- Works as one step in multi-MCP pipelines (Firecrawl → Email → Cal.com → Signbee)
-- Free tier available for testing
+Two-party SES e-sign for AI agents. stdio MCP: npx -y signbee-mcp. Tools: send_document, send_document_pdf.
 
 ### Links
-- [npm](https://www.npmjs.com/package/signbee-mcp)
-- [Web](https://signbee.com)
+- [GitHub](https://github.com/signbee/mcp)
+- [Web](https://signb.ee)
 
 </details>
 
