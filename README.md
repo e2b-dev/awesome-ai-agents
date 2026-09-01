@@ -813,6 +813,29 @@ Coding
 
 </details>
 
+## [Browser Copilot](https://github.com/dcc123456/browser-copilot)
+Your AI copilot in the browser side panel — it sees the page and automates the browser for you, no backend required.
+
+<details>
+
+![Image](https://github.com/user-attachments/assets/5e0111cf-30f7-4add-96b9-4cf32ca94341)
+
+### Category
+Web browsing, Automation, Productivity
+
+### Description
+- Browser Copilot is an open-source Chrome extension that puts an AI agent in your browser side panel. It sees the page you're on and can read it, click, fill forms, scroll, and navigate — every action asks for your approval.
+- Build multi-step automations on a visual drag-and-drop canvas (conditions, loops, variables), or record once and replay. Schedule tasks on a timer for monitoring, reports, and daily digests.
+- Extend with shareable "Skills" from a built-in marketplace, or keep your own private skills.
+- Works with OpenAI, Anthropic, Google, DeepSeek, Qwen, Kimi, MiniMax, Zhipu/GLM, and local Ollama models — bring your own key. Data stays local in your browser, with optional webhook notifications (e.g. Feishu/Lark).
+- No Python, no backend, and no API key required to get started — just install the extension.
+
+### Links
+- [GitHub Repository](https://github.com/dcc123456/browser-copilot)
+- [Documentation](https://github.com/dcc123456/browser-copilot#readme)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
