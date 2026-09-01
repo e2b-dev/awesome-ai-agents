@@ -818,7 +818,7 @@ Your AI copilot in the browser side panel — it sees the page and automates the
 
 <details>
 
-![Image](https://github.com/dcc123456/browser-copilot/raw/main/preview/shot-sidepanel-dark.png)
+![Image](https://github.com/user-attachments/assets/5e0111cf-30f7-4add-96b9-4cf32ca94341)
 
 ### Category
 Web browsing, Automation, Productivity
