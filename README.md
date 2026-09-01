@@ -5529,6 +5529,8 @@ Data analysis, Research
 - Login and CAPTCHA walls hand control to a human rather than being solved; API keys are supplied by the user and never self-registered.
 - Runs the whole pipeline locally and single-tenant on Docker Compose — discovery, scraper build, validation and the full crawl — model-agnostic through LiteLLM (DeepSeek, Claude, OpenAI, GLM); the agent loop uses the Claude Agent SDK.
 - Measured, not estimated: on DeepSeek a discovery pass took 11 minutes and $1.71 to return 18 ranked sources, and building plus validating a scraper for one of them brought the whole exercise to $4.54.
+- `robots.txt` is fetched and consulted before every navigation, with per-host pacing in all modes; the default records a disallowed URL and proceeds, and `enforce` refuses it. The docs state which parser limits let a verdict under-block, rather than implying a guarantee.
+- Source-available under the **Elastic License 2.0**, not OSI open source: self-hosting and modification are permitted including commercially, but it may not be offered to third parties as a hosted or managed service.
 
 ### Links
 - [GitHub](https://github.com/Baze-Bai/Zillusion)
