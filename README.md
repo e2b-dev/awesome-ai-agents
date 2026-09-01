@@ -5513,6 +5513,30 @@ Build-your-own, Productivity, General purpose
 
 
 
+## [Zillusion](https://github.com/Baze-Bai/Zillusion)
+Finds the data sources, then writes and validates the scraper
+
+<details>
+
+### Category
+Data analysis, Research
+
+### Description
+- Turns a plain-language data need into a ranked list of real sources, then builds and validates a scraper for the one you pick, ending in a downloadable dataset.
+- Discovery searches source registries and the web, groups candidates as APIs / downloadable files / embedded page data, and scores each on 5 dimensions.
+- Scrapers are graded by a separate read-only agent session that cannot edit the workflow it is judging; its sharpest check re-reads the live page to confirm each field means what the selector claims. The verdict is computed from a scorecard rather than argued by the model.
+- Anti-bot findings persist across runs and are promoted to cross-site skills, instead of being rediscovered on every run.
+- Login and CAPTCHA walls hand control to a human rather than being solved; API keys are supplied by the user and never self-registered.
+- Runs locally and single-tenant on Docker Compose, model-agnostic through LiteLLM (DeepSeek, Claude, OpenAI, GLM); the agent loop uses the Claude Agent SDK.
+
+### Links
+- [GitHub](https://github.com/Baze-Bai/Zillusion)
+- [Web](https://zillusion.app)
+
+</details>
+
+
+
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
