@@ -5527,7 +5527,8 @@ Data analysis, Research
 - Scrapers are graded by a separate read-only agent session that cannot edit the workflow it is judging; its sharpest check re-reads the live page to confirm each field means what the selector claims. The verdict is computed from a scorecard rather than argued by the model.
 - Anti-bot findings persist across runs and are promoted to cross-site skills, instead of being rediscovered on every run.
 - Login and CAPTCHA walls hand control to a human rather than being solved; API keys are supplied by the user and never self-registered.
-- Runs locally and single-tenant on Docker Compose, model-agnostic through LiteLLM (DeepSeek, Claude, OpenAI, GLM); the agent loop uses the Claude Agent SDK.
+- Runs the whole pipeline locally and single-tenant on Docker Compose — discovery, scraper build, validation and the full crawl — model-agnostic through LiteLLM (DeepSeek, Claude, OpenAI, GLM); the agent loop uses the Claude Agent SDK.
+- Measured, not estimated: on DeepSeek a discovery pass took 11 minutes and $1.71 to return 18 ranked sources, and building plus validating a scraper for one of them brought the whole exercise to $4.54.
 
 ### Links
 - [GitHub](https://github.com/Baze-Bai/Zillusion)
