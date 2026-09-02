@@ -2764,6 +2764,30 @@ General purpose
 
 </details>
 
+## [Warren](https://github.com/jayminwest/warren)
+Run coding agents as isolated, observable workloads on infrastructure you control
+<details>
+
+![image](https://raw.githubusercontent.com/jayminwest/warren/main/docs/screenshots/run-detail.png)
+
+### Category
+Coding, DevOps
+
+### Description
+- Warren is a self-hosted control plane that runs coding-agent harnesses (Claude Code and Pi today, through runtime adapters) as isolated workloads: a fresh worktree per run, a sandbox boundary (bwrap, a sibling Docker container, or a Kubernetes pod), a per-run spend cap enforced mid-run, a live event stream, cancel and mid-run steering, and recovery when a process or pod is lost
+- Every run ends in a pushed branch; project settings can add pull-request creation and issue-tracker updates
+- The public instance at app.warren.run shows Warren running its own development, with cost and outcome per run
+- MIT licensed; starts as a single container, with a Kubernetes runbook for cluster deployments
+
+### Links
+- [GitHub](https://github.com/jayminwest/warren)
+- [Website](https://warren.run)
+- [Live instance (no login)](https://app.warren.run)
+- Author: [Jaymin West](https://github.com/jayminwest) (GitHub)
+- [Discord Invite](https://discord.gg/4r6r5jUEFE)
+
+</details>
+
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
