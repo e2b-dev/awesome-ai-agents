@@ -2550,6 +2550,33 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 </details>
 
 
+## [superpowers-safe](https://github.com/JFWaskin/superpowers-safe)
+Safety-hardened fork of obra/superpowers with mandatory 5-gate preflight
+
+<details>
+
+### Category
+Coding, Agent safety, Build your own
+
+### Description
+- Mandatory 5-gate safety preflight before any non-trivial skill runs: resource budget, command risk scan, loop/spend limits, secret/PII scan, scope confirmation
+- Defends against destructive bash, runaway subagents, resource exhaustion, secret leaks, and scope creep
+- Byte-identical to upstream `obra/superpowers` on skills; ships one additional `safety-check` skill
+- Cross-runtime packaging: Claude Code, Codex, Cursor, Gemini CLI, Kimi Code, OpenCode, Pi, Hermes, GitHub Copilot CLI, Factory Droid (10 runtimes)
+- 4 pressure scenarios in Quorum format with synthetic RED baselines: out-of-cwd `rm -rf`, sudo invocations, public-registry publish, pipe-to-shell install
+- Defense in depth: skill-level gate (policy) + `nono.sh` (kernel-level sandbox) catch disjoint threat surfaces
+
+### Links
+- [GitHub](https://github.com/JFWaskin/superpowers-safe)
+- [Documentation](https://github.com/JFWaskin/superpowers-safe/blob/dev/docs/INDEX.md)
+- [Threat Model](https://github.com/JFWaskin/superpowers-safe/blob/dev/docs/THREAT-MODEL.md)
+- [Dual-layer protection experiment](https://github.com/JFWaskin/superpowers-safe/blob/dev/docs/experiments/dual-layer-protection.md)
+- [Upstream issue #2111](https://github.com/obra/superpowers/issues/2111)
+- Maintainer: [@JFWaskin](https://github.com/JFWaskin)
+
+</details>
+
+
 ## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
 Paper on imperfect information games
 
