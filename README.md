@@ -320,6 +320,18 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Alice Agent](https://github.com/Stuko0/alice-agent)
+
+### Category
+Autonomous agents / Personal AI assistant
+
+### Description
+Open-source AI agent that runs locally, remembers context across sessions, and handles code, tasks, and creativity. Supports 20+ messaging platforms (Telegram, Discord, Slack, WhatsApp, Signal, etc.), persistent memory, scheduled jobs, subagents, and skills. CLI + TUI + Wails desktop app.
+
+### Links
+- [Website](https://alice-agent.stuko.dev)
+- [GitHub](https://github.com/Stuko0/alice-agent)
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
