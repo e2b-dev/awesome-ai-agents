@@ -5064,6 +5064,22 @@ General purpose, Generating apps, Build-your-own
 
 </details>
 
+## [recap-studio](https://github.com/Aboudjem/recap-studio)
+Turns a topic or a coding session into a self-contained offline HTML explainer
+<details>
+
+### Category
+Productivity
+
+### Description
+- recap-studio is a Claude Code plugin that turns a topic or a coding session into a single self-contained HTML explainer: dark-mode, mobile-first, inline SVG diagrams. The file opens on a double-click and reads offline in about 5 minutes. No server, no internet, no dependencies.
+
+### Links
+- [GitHub](https://github.com/Aboudjem/recap-studio)
+- [Marketplace](https://github.com/Aboudjem/10x)
+
+</details>
+
 ## [Relevance AI](https://relevanceai.com/)
 Build your AI Workforce
 
