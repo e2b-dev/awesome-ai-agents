@@ -1709,6 +1709,34 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [KHAN](https://github.com/CryptoGnome/khan)
+Autonomous AI agent company on Solana - a CEO agent that hires and manages a team of LLM employees, delegates work in parallel, and evolves its own prompts, tools and skills
+
+<details>
+
+![image](https://github.com/CryptoGnome/khan/raw/main/assets/banner.png)
+
+### Category
+General purpose, Multi-agent
+
+### Description
+KHAN is a self-running company on Solana, written in Rust. Its CEO agent hires
+and evaluates employee LLM agents, delegates tasks in parallel, and evolves its
+own prompts, tools and skills at runtime. It deploys to Railway and works with
+any OpenAI-compatible API.
+- Multi-agent company: a CEO agent staffing, dispatching and rating LLM employees
+- Self-evolving prompts, tools and skills
+- Live read-only activity log streams every company action publicly at khanbot.fun
+- Transparent on-chain treasury: income, buybacks and payouts disclosed with receipts
+
+### Links
+
+- [Web](https://khanbot.fun/)
+- [X](https://x.com/KHAN_AI_SOL)
+
+</details>
+
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
