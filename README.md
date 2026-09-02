@@ -114,6 +114,8 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## - [NerdBlaq/agent-file-organizer](https://github.com/NerdBlaq/agent-file-organizer) [![NerdBlaq/agent-file-organizer MCP server](https://glama.ai/mcp/servers/NerdBlaq/agent-file-organizer/badges/score.svg)](https://glama.ai/mcp/servers/NerdBlaq/agent-file-organizer) 🐍 🏠 🍎 🪟 🐧 - Intelligent, safety-first, cross-platform file organizer for Windows, macOS, and Linux with FastMCP server and Agent Skill support.
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
