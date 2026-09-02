@@ -813,6 +813,26 @@ Coding
 
 </details>
 
+## [Browser Use](https://github.com/browser-use/browser-use)
+Open-source library and cloud that let AI agents control a real browser to complete web tasks
+<details>
+
+### Category
+Build your own, General purpose, Productivity
+
+### Description
+- Python library (MIT) that gives any LLM control of a real Chrome browser over CDP: navigate, click, type, fill forms, log in, extract structured data
+- Works with OpenAI, Anthropic, Google, and open models; ships an MCP server, a CLI, and a skill for coding agents (Claude Code, Codex, Gemini CLI) via Browser Harness
+- Cloud version adds hosted stealth browsers, proxies, profiles, and pay-per-request access for agents
+- One of the most-starred agent repositories on GitHub (111k+ stars)
+
+### Links
+- [GitHub Repository](https://github.com/browser-use/browser-use)
+- [Documentation](https://docs.browser-use.com)
+- [Website](https://browser-use.com)
+- [Discord](https://link.browser-use.com/discord)
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
