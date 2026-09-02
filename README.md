@@ -5486,6 +5486,28 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [XYZZY](https://github.com/Project-Nexus-YR/XYZZY)
+XYZZY: Self-hosted multiplayer workspace where a team decides with parallel specialist agents and keeps the receipts
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+
+- **Branch a question**: two or three specialist agents run in parallel on one question raised in a shared channel.
+- **A verdict on every output**: a person includes or excludes each output, and only the included ones are synthesized.
+- **Decision Brief with provenance**: every claim in the brief links to the output that produced it, readable back from the published version.
+- **Governed**: actions that change the room wait for human approval, and permissions are re-read at every step.
+- **Tamper-evident**: the event log is hash-chained, with an audit CLI that reports the first broken row.
+- **Self-hosted**: one Python process, one SQLite file, a Docker image; works with Ollama, LM Studio or any OpenAI-compatible endpoint. Apache-2.0.
+
+### Links
+- [Website](https://xyzzy.yasserameur-dev.workers.dev/)
+- [GitHub](https://github.com/Project-Nexus-YR/XYZZY)
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
