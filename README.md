@@ -278,6 +278,29 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [AI WorkDeck](https://github.com/zeweihan/aiworkdeck)
+Desktop workbench for lawyers and document-heavy work where agents edit documents as tracked changes
+
+<details>
+
+
+![Image](https://raw.githubusercontent.com/zeweihan/aiworkdeck/master/.github/assets/workspace-ai.png)
+
+### Category
+Productivity, Supports open-source models
+
+### Description
+- AI WorkDeck is an open-source (AGPL-3.0) desktop app, built by a practicing lawyer, that keeps a whole matter in one window: files, an agent panel, an evidence pane, a browser and version history
+- The agent reads and edits documents in a LibreOffice editor compiled to WebAssembly; every AI edit is applied as character-level tracked changes the user accepts or rejects, so the professional keeps the final say
+- Agent tools include MCP servers for legal databases and company registries, OCR, document parsing and litigation timeline/graph generation; Office and WPS add-ins share the same backend and a plugin SDK lets users add their own tools
+- Self-hosted deployments can run fully local models via Ollama
+
+### Links
+- [Website](https://www.aiworkdeck.com/)
+- Author: [Zewei Han](https://github.com/zeweihan) (GitHub)
+
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
