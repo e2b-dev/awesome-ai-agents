@@ -2509,6 +2509,9 @@ Superagent is not a single agent, but a tool that allows creating agents without
 
 </details>
 
+## [Superagent for Mac](https://github.com/pungme/superagent-desktop)
+Open-source macOS desktop client for Claude Code and Codex, with browser control, iOS Simulator, and a phone companion app for remote monitoring
+
 
 ## [SuperAGI](https://superagi.com/)
 Framework to develop and deploy AI agents
