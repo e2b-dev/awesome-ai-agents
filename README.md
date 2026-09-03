@@ -1653,7 +1653,7 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 
 
-## [Hybrid RAG Issue & PR Assistant](https://github.com/Cagrik34/Hybrid-RAG-Issue-PR-Assistant)
+## [Hybrid RAG Issue & PR Assistant](https://github.com/Cagrik34/hybrid-rag-action)
 Zero-cloud hybrid retrieval GitHub Action for automated codebase triage
 
 <details>
@@ -1669,7 +1669,7 @@ Coding, GitHub
 - Supports repositories under 100 MB with sub-millisecond local query latency.
 
 ### Links
-- [GitHub](https://github.com/Cagrik34/Hybrid-RAG-Issue-PR-Assistant)
+- [GitHub](https://github.com/Cagrik34/hybrid-rag-action)
 - [GitHub Marketplace](https://github.com/marketplace/actions/hybrid-rag-issue-pr-assistant)
 
 </details>
