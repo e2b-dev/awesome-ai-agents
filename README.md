@@ -2427,6 +2427,22 @@ Productivity, Research
 
 </details>
 
+## [Session Continuity](https://github.com/eliferres/session-continuity)
+Checkpoint and rehydrate for AI agents across context limits
+
+<details>
+
+### Category
+Memory management
+
+### Description
+Checkpoint and rehydrate for AI agents: keep the decisions, paths, and dead ends a context-limit summary drops.
+
+### Links
+- [GitHub](https://github.com/eliferres/session-continuity)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
