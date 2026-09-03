@@ -5486,6 +5486,27 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Wuwei](https://wuweiai.io)
+Free, open-source, local-first AI agent — like Claude Code / Cursor but free and model-agnostic
+
+<details>
+
+### Category
+Coding, Desktop
+
+### Description
+- Wuwei is a free, open-source (MIT), local-first AI agent desktop app (plus a terminal interface). You state a goal in plain words and it reads/writes files, makes line-precise edits, runs commands and searches the web to finish the task end to end — with a permission prompt before anything risky.
+- Model-agnostic: point it at Claude, any OpenAI-compatible endpoint, or a local model via Ollama / vLLM, and switch in one click. Your project and code stay on your own machine.
+- Low barrier: a zero-config hosted free tier so non-terminal users can just download and talk to it, or bring your own key and pay only your own model costs.
+
+### Links
+- [Website](https://wuweiai.io)
+- [GitHub](https://github.com/wuwei-io/wuwei)
+- Author: [Wuwei](https://github.com/wuwei-io) (GitHub)
+- [X (Twitter)](https://x.com/usewuwei)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
