@@ -2372,6 +2372,25 @@ Productivity, General purpose
 </details>
 
 
+## [ResultSeal](https://github.com/sx4im/resultseal)
+Deterministic observation-integrity contracts for AI-agent tool results
+
+<details>
+
+### Category
+Testing, Build your own, Developer Tools
+
+### Description
+- A lightweight, framework-neutral Python toolkit that prevents AI agents from promoting empty, partial, stale, source-mismatched, or unverified tool results into factual claims.
+- Enforces fail-closed contracts for tool observations (HTTP, JSON, MCP, stdio).
+- Offline, deterministic rules engine with zero runtime dependencies.
+
+### Links
+- [GitHub](https://github.com/sx4im/resultseal)
+- [PyPI](https://pypi.org/project/resultseal/)
+
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
