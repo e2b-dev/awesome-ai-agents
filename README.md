@@ -2961,6 +2961,32 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [YYLO](https://github.com/yylo-dev/yylo)
+AI coding-agent orchestration CLI that runs Claude Code, Codex, and Gemini CLI in isolated git worktrees
+
+<details>
+
+![image](https://avatars.githubusercontent.com/u/318831521?s=200)
+
+### Category
+Coding, Multi-agent, GitHub
+
+### Description
+YYLO ("why-lo") is a command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes.
+- Runs multiple coding agents (Claude Code, Codex CLI, Gemini CLI) in isolated per-task git worktrees from a single CLI (`yylo` / `yy`).
+- Typed task lifecycle: Kanban task start → worktree hydration → preflight validation → merge queue with expected-old-SHA CAS updates.
+- Observable commands (`watch exec`, `evidence run`, `doctor workspace`) produce bounded logs and content-addressed validation records.
+- Local-first and Git-native; MIT-licensed, installable via npm (`npm i -g @yylo/cli`).
+- Companion projects: [YYLO Ledger](https://github.com/yylo-dev/yylo-ledger) (Git-native task store) and [YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark) (agent evaluation harness).
+
+### Links
+- [GitHub Repository](https://github.com/yylo-dev/yylo)
+- [Website](https://yylo.dev)
+- [npm package](https://www.npmjs.com/package/@yylo/cli)
+- [License: MIT](https://github.com/yylo-dev/yylo/blob/main/LICENSE)
+
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
