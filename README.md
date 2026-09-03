@@ -182,6 +182,22 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agent Memory Vault](https://github.com/eliferres/agent-memory-vault)
+Plain-file memory for AI agents: a router note, one home per topic, newest wins
+
+<details>
+
+### Category
+Memory management
+
+### Description
+Plain-file memory for AI agents: a router note, one home per topic, newest wins. No database, no embeddings.
+
+### Links
+- [GitHub](https://github.com/eliferres/agent-memory-vault)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
