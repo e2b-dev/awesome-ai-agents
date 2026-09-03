@@ -2408,6 +2408,22 @@ Coding
 
 </details>
 
+## [Ripple Wall](https://github.com/eliferres/ripple-wall)
+Fail-closed wall for config drift across mapped copies
+
+<details>
+
+### Category
+Developer tools
+
+### Description
+A fail-closed wall for config drift: nothing closes until every mapped copy moves or carries a written reason.
+
+### Links
+- [GitHub](https://github.com/eliferres/ripple-wall)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
