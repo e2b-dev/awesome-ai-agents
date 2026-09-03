@@ -321,7 +321,7 @@ General purpose, Personal assistant, Productivity
 </details>
 
 ## [answerLoops](https://github.com/answerLoops/answerLoops)
-Open-source AI support agent that answers a community's repeat questions in the channel
+Open-source AI support agent that answers a community's repeat questions in your channel
 
 <details>
 
@@ -331,7 +331,7 @@ Open-source AI support agent that answers a community's repeat questions in the 
 Customer support, Communication, Productivity
 
 ### Description
-- Open-source (AGPL-3.0), self-hostable support agent for teams whose users ask for help in Discord, Slack, a forum, GitHub, Telegram, email, or a web widget.
+- Open-source, self-hostable support agent for teams whose users ask for help in Discord, Slack, a forum, GitHub, Telegram, email, or a web widget.
 - Classifies each incoming question, retrieves from the org's docs, knowledge base, resolved tickets, and a synced GitHub repo or Notion workspace, drafts a grounded answer, then a second pass scores it against the evidence before it posts — anything below the threshold routes to a human with the draft attached.
 - Bring your own model: OpenAI, Anthropic, Google Gemini, Groq, Mistral, Ollama, or any OpenAI-compatible endpoint.
 - Exposes the same knowledge and workflows over an MCP server (JSON-RPC) and a REST API.
