@@ -1652,6 +1652,28 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+
+## [Hybrid RAG Issue & PR Assistant](https://github.com/Cagrik34/hybrid-rag-action)
+Zero-cloud hybrid retrieval GitHub Action for automated codebase triage
+
+<details>
+
+### Category
+Coding, GitHub
+
+### Description
+- A GitHub Action that performs hybrid codebase retrieval and automated triage for issues and pull requests, with zero external cloud dependencies.
+- Combines SQLite FTS5 (Okapi BM25) lexical indexing with dense vector embeddings fused via Reciprocal Rank Fusion (k=60).
+- Produces AST-grounded line citations (`[file#L<start>-L<end>]`) posted directly in GitHub issue and PR comments.
+- Runs entirely inside CI/CD runners; no hosted vector databases or external infrastructure required.
+- Supports repositories under 100 MB with sub-millisecond local query latency.
+
+### Links
+- [GitHub](https://github.com/Cagrik34/hybrid-rag-action)
+- [GitHub Marketplace](https://github.com/marketplace/actions/hybrid-rag-issue-pr-assistant)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
