@@ -43,8 +43,9 @@ Add to readme list:
 <img src="assets/landscape-latest.png" width="100%" alt="Chart of AI Agents Landscape" />
 
 Welcome to our list of AI agents.
-We structured the list into two parts:
+We structured the list into three parts:
 - [Open source projects](#open-source-projects)
+- [Source-available projects](#source-available-projects)
 - [Closed-source projects and companies](#closed-source-projects-and-companies)
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents). 🌟
@@ -2959,6 +2960,28 @@ General purpose
 
 ### Links
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
+</details>
+
+# Source-available projects
+
+## [Agent QA](https://github.com/vostride/agent-qa)
+Natural-language application-testing agent for web, Android, and iOS
+
+<details>
+
+### Category
+Testing, QA, Browser automation
+
+### Description
+- Authors and runs natural-language application tests through CLI, dashboard, and MCP workflows.
+- Maintains execution memory to recover from UI changes and support regression checks.
+- Source-available under FSL-1.1-ALv2; each release converts to Apache-2.0 after two years.
+- No software fee for permitted use; configured providers may charge separately.
+
+### Links
+- [GitHub](https://github.com/vostride/agent-qa)
+- [Documentation](https://vostride.com/docs/agent-qa)
+
 </details>
 
 # Closed-source projects and companies
