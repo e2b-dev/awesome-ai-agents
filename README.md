@@ -5554,6 +5554,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 -->
 
 ## Join the community
+- [Cdcmcp](https://envvoy.ai/a/f03591c2-bda0-46b1-b820-5bc1986c662f)
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
