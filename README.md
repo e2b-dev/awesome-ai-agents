@@ -389,6 +389,26 @@ General purpose
 
 
 
+## [Aster](https://github.com/Zfinix/aster)
+Open-source terminal coding agent that reads your code, edits files, runs commands, and reviews your changes
+
+<details>
+
+### Category
+Coding, GitHub
+
+### Description
+
+- Terminal agent that works with any OpenAI-compatible provider: OpenRouter, OpenAI, Groq, Anthropic, or local models
+- Reads code, answers questions, edits files, runs commands, and reviews changes
+- Speaks ACP for editor integration (Zed, JetBrains), with MCP support, skills, and session persistence
+- Built in Rust, Apache-2.0 licensed
+
+### Links
+- [GitHub](https://github.com/Zfinix/aster)
+
+</details>
+
 ## [Automata](https://github.com/emrgnt-cmplxty/automata)
 Generate code based on your project context
 
