@@ -5584,6 +5584,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 - Autopilot https://github.com/fjrdomingues/autopilot
 
+- [Treebeard](https://treebeardai.com)
 - WinGPT - AI assistant for Windows https://news.ycombinator.com/item?id=36472854
 
 
