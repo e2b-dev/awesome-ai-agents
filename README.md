@@ -3298,6 +3298,27 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [AstroFabric](https://www.astrofabric.ai)
+Agentic AI for company and contact intelligence
+
+<details>
+
+### Category
+Business intelligence, Sales
+
+### Description
+- Agents discover companies and contacts, verify and enrich records, and monitor business signals.
+- Turns natural-language objectives into structured lists and audiences, with account scoring and delivery to connected systems.
+- Available through a web console, REST API and hosted MCP server, with workspace credit limits and configurable approval controls for external writes.
+- Commercial hosted platform; the public MCP connector is MIT-licensed. New Starter and Growth trials include 200 credits for 3 days.
+
+### Links
+- [Web](https://www.astrofabric.ai)
+- [Documentation](https://www.astrofabric.ai/docs)
+- [MCP connector](https://github.com/sam1siam/astrofabric-mcp)
+
+</details>
+
 ## [Athena Intelligence](https://www.athenaintelligence.ai/)
 24/7 Enterprise AI Data Analyst
 
