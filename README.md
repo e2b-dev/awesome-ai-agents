@@ -5486,6 +5486,25 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [WorkBuddy](https://www.workbuddy.ai/)
+Tencent's AI agent workspace for research, documents, data, design, and development workflows.
+
+<details>
+
+### Category
+Productivity, Build-your-own, Desktop AI assistant
+
+### Description
+- WorkBuddy plans and executes multi-step tasks through natural language, with Skills, connectors, memory, automations, and multi-agent workflows.
+- The [awesome-workbuddy](https://github.com/sandbaseai/awesome-workbuddy) directory collects official documentation, reusable Skills, MCP servers, workflows, and safety-reviewed ecosystem projects.
+
+### Links
+- [Web](https://www.workbuddy.ai/)
+- [Official documentation](https://www.workbuddy.ai/docs/zh/workbuddy/)
+- [awesome-workbuddy resource directory](https://github.com/sandbaseai/awesome-workbuddy)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
