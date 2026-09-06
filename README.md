@@ -1124,6 +1124,19 @@ and while allowing scientist to oversee and direct the process
 </details>
 
 
+
+## [Council of AI](https://councilof.ai/)
+
+### Category
+AI Governance, Measurement, Audit
+
+### Description
+An open measurement service that runs a living AI-behaviour benchmark — 22 measured axes, signed Ed25519 evidence cards, and a permissionless verification API. Agents can query the board, verify measurement cards offline, and crosswalk claims to EU AI Act, NIST AI RMF, ISO 42001 and 10 more frameworks. No vendor rubrics: empty cells stay empty.
+
+### Links
+- [GitHub — CSOAI-ORG/councilof-ai](https://github.com/CSOAI-ORG/councilof-ai)
+- [Live board & MCP](https://councilof.ai/)
+- [MCP registry entry](https://registry.modelcontextprotocol.io/servers/io.github.CSOAI-ORG/csoai-gspc-mcp)
 ## [Databerry](https://www.databerry.ai/)
 (Pivoted to Chaindesk) No-code chatbot building
 
