@@ -813,6 +813,27 @@ Coding
 
 </details>
 
+## [brnrd](https://github.com/hugimuni-labs/brnrd)
+Persistent remote-controlled resident for Claude Code and Codex
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Keeps Claude Code and Codex sessions running persistently on your own machine or server
+- Steer sessions from Telegram, WhatsApp, GitHub or Slack; work continues while you are away
+- Self-hosted (MIT / AGPLv3), or a $7/month hosted option
+- Python core with a SvelteKit dashboard
+- Easy install > `pip install brnrd`
+
+### Links
+- [Homepage](https://brnrd.dev)
+- [Repo](https://github.com/hugimuni-labs/brnrd)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
