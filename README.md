@@ -2372,6 +2372,27 @@ Productivity, General purpose
 </details>
 
 
+## [RCP](https://github.com/hasanraiyan/rcp)
+REST Connector Protocol — build AI agents from existing REST APIs without MCP server
+
+<details>
+
+### Category
+General purpose, Build your own, Tool for agents
+
+### Description
+- Lightweight MCP alternative: stateless HTTP + manifest `GET /manifest`, no protocol server, no JSON-RPC — your REST API is already the tool
+- Turn existing REST APIs into AI agent tools — `rcp-sdk` with OpenAI (`rcpToolsToOpenAiTools` → `ChatCompletionTool[]`), LangChain (`DynamicStructuredTool` + LangGraph + `MultiServerRcpClient`), Gemini adapters
+- Resolver-bound params for secure tenant/user isolation (stripped from `exposedParams` at discovery)
+- Docs: https://rcp.hasanraiyan.me — 5-min getting started, full spec, vs MCP
+
+### Links
+- [GitHub](https://github.com/hasanraiyan/rcp)
+- [Docs](https://rcp.hasanraiyan.me/docs)
+- [npm](https://www.npmjs.com/package/rcp-sdk)
+
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
