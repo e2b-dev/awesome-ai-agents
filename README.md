@@ -207,6 +207,27 @@ General purpose
   
 </details>
 
+## [AgentQuant](https://github.com/OnePunchMonk/AgentQuant)
+Self-improving AI agent for autonomous quantitative trading research
+
+<details>
+
+### Category
+Finance, Multi-agent, Self-improving
+
+### Description
+
+- Runs a ReAct loop (analyze → hypothesize → backtest → reflect → store → improve) to discover and evolve trading strategies
+- Cross-session SQLite memory lets the agent learn which strategies worked in which market regimes
+- Evolves its own harness parameters using genetic algorithms and differential evolution
+- Tracks generalization explicitly with train/validation/test splits and walk-forward validation to guard against overfitting
+- Makes falsifiable predictions (predicted Sharpe) and tracks accuracy of those claims over time
+
+### Links
+- [GitHub](https://github.com/OnePunchMonk/AgentQuant)
+
+</details>
+
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
 Library/framework for building language agents
