@@ -2427,6 +2427,26 @@ Productivity, Research
 
 </details>
 
+## [ShaprAI](https://github.com/Scottcjn/shaprai)
+Open-source agent lifecycle platform that turns raw models into self-governing agents
+
+<details>
+
+### Category
+Build-your-own, General purpose
+
+### Description
+- Takes a base language model and produces a configured agent with a persistent identity and behavioral constraints.
+- DriftLock training (SFT/DPO) to reduce sycophancy and maintain identity coherence over long sessions.
+- Template-based agent creation via a command-line interface.
+- Installable from PyPI (`pip install shaprai`); MIT licensed.
+
+### Links
+- [GitHub](https://github.com/Scottcjn/shaprai)
+- [PyPI](https://pypi.org/project/shaprai/)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
