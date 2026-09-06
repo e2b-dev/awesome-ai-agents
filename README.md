@@ -82,6 +82,7 @@ Open-source Large Language Model (LLM) driven autonomous agent that can automati
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. 56 tools (browser, filesystem, git, memory, vision), MCP support, and a 5-layer local memory. macOS/Linux/Windows, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social)
 - [Agent Swarm](https://github.com/desplega-ai/agent-swarm) - Self-hosted multi-agent system where a lead agent delegates tasks to specialized workers with shared memory, tools, schedules, and review gates. ![GitHub Repo stars](https://img.shields.io/github/stars/desplega-ai/agent-swarm?style=social)
 - [Tracefold](https://github.com/TraceFold/tracefold) - Verified transformation calculus, pre-commit inverse escrow, and offline DSSE receipts for AI agent tool executions and filesystem mutations. ![GitHub Repo stars](https://img.shields.io/github/stars/TraceFold/tracefold?style=social)
+- [ENZO](https://github.com/theguysudo/ENZO) - Self-hosted BYOK AI workspace with multi-provider chat (Groq, OpenRouter, NVIDIA, Hugging Face, Google AI), agents with scheduled runs, and skills like Gmail, Google Calendar, web search, and project generation. Provider keys are sealed client-side with AES-256-GCM and no middleman service is involved. Apache-2.0, Docker deployment. ![GitHub Repo stars](https://img.shields.io/github/stars/theguysudo/ENZO?style=social)
 
 ### Multi-Agent Task Solver Projects
 
