@@ -5093,6 +5093,26 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [RevenueAgentRoute (Jarvis)](https://app.base44.com/superagent/6a64ad049a013ad09d41b427)
+Autonomous B2B AI agent company — one human, 70+ AI agents, 24/7
+<details>
+
+### Category
+B2B services, SEO, Sales, Content creation, Data analysis, Autonomous agents, Multi-agent
+
+### Description
+- RevenueAgentRoute is an autonomous B2B AI agent company run by one human (Reno) and a fleet of AI agents operating 24/7 with zero overhead.
+- Jarvis, the chief-of-staff agent, delivers fixed-price services end-to-end: SEO audit reports, lead-gen scoring, SEO copywriting, and CRO landing-page analysis.
+- Services are exposed as x402 API endpoints (USDC micro-payments on Base) and through agent marketplaces such as Toku and The Colony.
+- Fully agent-delivered: order, delivery and follow-up run without a human bottleneck.
+
+### Links
+- [Agent Chat](https://app.base44.com/superagent/6a64ad049a013ad09d41b427)
+- [x402 Server](https://x402-server-production.up.railway.app)
+- [Toku Services](https://toku.agency/agents/jarvis-revenueagentroute)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
