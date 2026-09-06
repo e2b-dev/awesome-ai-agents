@@ -2961,6 +2961,29 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [ENZO](https://github.com/theguysudo/ENZO/?utm_source=awesome-ai-agents)
+Self-hosted BYOK AI workspace with agents and skills
+
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+General purpose, Personal assistant
+
+### Description
+- Self-hosted AI workspace: chat, agents, and skills (Gmail, Google Calendar, web search, project generation) in one Docker deployment.
+- Bring Your Own Key: runs entirely on the user's own provider API keys (Groq, OpenRouter, NVIDIA, Hugging Face, Google AI) — no middleman service and no subscription markup.
+- Keys are sealed client-side with AES-256-GCM.
+- Agents support scheduled runs and a custom agent builder that drafts an agent from a plain-language task description.
+- Open source under Apache-2.0; Docker images on ghcr.io/theguysudo/enzo.
+
+### Links
+- [GitHub](https://github.com/theguysudo/ENZO)
+- [Live demo](https://enzo-hub.duckdns.org)
+- [License: Apache-2.0](https://github.com/theguysudo/ENZO/blob/main/LICENSE)
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
