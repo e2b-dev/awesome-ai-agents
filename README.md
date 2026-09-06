@@ -2171,6 +2171,25 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [Nausicaa](https://github.com/jackispm/nausicaa-harness)
+General-purpose agent execution runtime with addressable lanes, an optional Teto observer lane, durable Run ledgers, daemon/worker lifecycle, and cross-Run A2A.
+
+<details>
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- Nausicaa is a TypeScript runtime for general-purpose agent tasks.
+- It models runs as dynamic topologies of addressable Lanes, including an optional Teto sensing lane, worker processes, and cross-Run agent-to-agent communication.
+- Durable Run ledgers support resumable execution, while the npm package provides a global CLI and a programmatic runtime export.
+
+### Links
+- [GitHub](https://github.com/jackispm/nausicaa-harness)
+- [npm](https://www.npmjs.com/package/nausicaa-harness)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
