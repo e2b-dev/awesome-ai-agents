@@ -2574,6 +2574,28 @@ General purpose
 </details>
 
 
+## [Symbio](https://github.com/huyedits/Symbio)
+A local-first AI agent that learns from your corrections and fine-tunes itself with LoRA.
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- **Learns from corrections**: You correct an agent today, and it doesn't make the same mistake tomorrow — mistakes become training data.
+- **Self fine-tuning**: Trains LoRA adapters locally on your machine. No cloud inference, no subscription.
+- **Belief store**: Keeps a belief store with confidence, evidence, and soft-ranking — the model can hold a belief, update it, and ratify it.
+- **Independent judge grading**: Grades subjective/intent quality with a separate judge model, so it can't just nod along with its own guesses.
+- **Local-first**: Runs on your Mac, remembers what matters, learns new skills. Zero cloud dependency.
+
+### Links
+- [GitHub](https://github.com/huyedits/Symbio)
+- [Live demo](https://huggingface.co/spaces/HuyEdits/symbio-demo)
+
+</details>
+
+
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
 
