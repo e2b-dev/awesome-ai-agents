@@ -5411,7 +5411,7 @@ Health coaching agents with tool access to your own tracking data
 
 <details>
 
-![image](https://wellnessproject.ai/icon-512.png)
+![image](https://wellnessproject.ai/images/brand/mcp-icon-512.png)
 
 ### Category
 Personal assistant, Health, Daily life
