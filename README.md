@@ -70,6 +70,23 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [Vetto](https://github.com/shleder/vetto)
+Daemon-less kernel sandbox for AI coding agents (Landlock/seccomp on Linux, Seatbelt on macOS): `vetto enable <agent>` wraps 20 CLIs so secret reads and off-allowlist egress are denied by the kernel
+
+<details>
+
+### Category
+Developer tools, Security
+
+### Description
+
+- **Zero-overhead isolation**: Landlock ABI 1-6 + namespaces + seccomp-BPF, ~4ms startup, no daemons or Docker.
+- **20 agent profiles**: Claude Code, Codex CLI, Gemini, Aider, Cursor and more, with Git Guard and session rollback.
+
+### Links
+- [GitHub](https://github.com/shleder/vetto)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
