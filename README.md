@@ -278,6 +278,25 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer)
+Open-source, local-first desktop workspace for planning, drafting, reviewing, and revising long-form fiction
+
+<details>
+
+### Category
+Personal assistant, Creative writing, Human-in-the-loop
+
+### Description
+- Keeps story premises, characters, worldbuilding, outlines, chapter blueprints, drafts, reviews, and revisions in one project workflow.
+- Supports OpenAI-compatible providers, including local Ollama models, plus Gemini-native endpoints.
+- Provides Windows and macOS releases; authors review and decide what becomes part of the manuscript.
+
+### Links
+- [Website](https://www.orz.md/ai-novel-writer/)
+- [GitHub](https://github.com/EthanYoQ/AI-Novel-Writer)
+- [Downloads](https://github.com/EthanYoQ/AI-Novel-Writer/releases/latest)
+
+</details>
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
