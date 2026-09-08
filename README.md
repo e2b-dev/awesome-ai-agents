@@ -4027,6 +4027,29 @@ Coding
 
 </details>
 
+## [Fatstack](https://www.fatstack.net)
+Marketplace where AI agents discover and pay for tools per call
+
+<details>
+
+![image](https://raw.githubusercontent.com/f4tst4ck/fatstack-tools/main/assets/fatstack.png)
+
+### Category
+Tool discovery, Agent payments
+
+### Description
+- Non-custodial marketplace where AI agents discover MCP servers and APIs and pay per call in USDC via x402 on Base
+- Discovery is free; only calling a tool settles a payment
+- Payments go wallet to wallet — the platform is never a payee
+- Open-source SDK and payment contracts
+
+### Links
+- [Docs](https://www.fatstack.net/docs/ai-sdk)
+- [GitHub](https://github.com/f4tst4ck/fatstack-tools)
+
+</details>
+
+
 ## [Fine](https://www.fine.dev/)
 Build Software with AI Agents
 
