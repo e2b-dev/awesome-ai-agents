@@ -1443,6 +1443,29 @@ Coding
 
 </details>
 
+## [GEOKit](https://geokit.site)
+Free Generative Engine Optimization (GEO) & AI SEO toolkit with llms.txt validation and crawler rule generation
+
+<details>
+
+### Category
+Development, SEO, LLM Ingestion
+
+### Description
+- **llms.txt Generator & Validator**: Visual builder and syntax validator for machine-readable documentation indexes.
+- **AI Robots.txt Builder**: Granular access control and permission generator for GPTBot, PerplexityBot, and ClaudeBot.
+- **AI Readiness Grader**: Audits website headings, metadata, and token chunkability for AI search engines.
+- **Multi-Platform CLI**: Available via npm (`npx geokit-cli`), pip (`pip install geokit-cli`), and Homebrew (`brew install gstar-byte/tap/geokit`).
+
+### Links
+- [Website](https://geokit.site)
+- [GitHub](https://github.com/gstar-byte/geokit-cli)
+- [Homebrew](https://github.com/gstar-byte/homebrew-tap)
+- [PyPI](https://pypi.org/project/geokit-cli/)
+- [NPM](https://www.npmjs.com/package/geokit-cli)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
