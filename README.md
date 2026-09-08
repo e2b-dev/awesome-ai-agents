@@ -70,6 +70,9 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [A11yKit](https://a11ykit.site/)
+Free client-side Web accessibility and WCAG 2.2 audit agent toolkit with automated CI/CD GitHub Action and AI Alt Text generator.
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
