@@ -1771,6 +1771,30 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [LinkedIn Toolkit](https://github.com/OpenRecruiterTools/linkedin-toolkit)
+LinkedIn agent running in your own logged-in browser session
+
+<details>
+
+### Category
+Sales, Productivity, Research
+
+### Description
+LinkedIn from the user's own logged-in Chrome session, with no headless browser and no third-party cloud in the path.
+- **Runs locally**: an MCP server plus a Chrome extension that reuse the session already open in the user's browser, so nothing is scraped from a datacentre IP.
+- **Full surface**: people search, profiles, post engagers, saved lists, outreach sequences, inbox, and a compiled Research Pack for a prospect.
+- **Hard caps**: per-day and per-action rate limits are enforced in the toolkit itself, not left to the calling agent.
+- **Human approval queue**: write actions (connect, message, comment) are queued for a person to approve before anything is sent.
+- **Agent-native**: exposed to any MCP client via `npx linkedin-toolkit-mcp`, with a Python package on PyPI as well.
+
+### Links
+
+- [GitHub](https://github.com/OpenRecruiterTools/linkedin-toolkit)
+- [npm](https://www.npmjs.com/package/linkedin-toolkit-mcp)
+- [PyPI](https://pypi.org/project/linkedin-toolkit/)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
