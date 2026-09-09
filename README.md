@@ -70,6 +70,27 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [3code](https://github.com/capocasa/3code)
+The economical coding agent
+
+<details>
+
+![Image](https://raw.githubusercontent.com/capocasa/3code/main/docs/3code-screen-1.png)
+
+### Category
+Coding
+
+### Description
+
+- **Cost-first harness**: the only coding agent that treats the token budget as a first-class constraint — chunked context, supersede-aware compaction, and aggressive prompt caching
+- **Any provider**: works with any OpenAI-compatible endpoint — free tiers, flat-rate coding plans, subscriptions, and local servers
+- **Benchmarked**: 75% fewer tokens than OpenCode on a 10-task SWE-bench Verified subset, with more tasks resolved ([methodology](https://3code.capocasa.dev/swe/3code-benchmark-10-glm53.html))
+
+### Links
+- [Web](https://3code.capocasa.dev/)
+- [GitHub](https://github.com/capocasa/3code)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
