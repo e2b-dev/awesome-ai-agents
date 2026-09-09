@@ -180,6 +180,27 @@ General purpose
 - [GitHub](https://github.com/reworkd/AgentGPT)
 </details>
 
+## [AgentHub](https://myagenthub.cn/)
+A curated directory for discovering and configuring AI agents, MCP servers, and automation skills
+
+<details>
+
+### Category
+General purpose, Productivity, Developer Tools
+
+### Description
+- A community-driven directory and aggregator focused on AI Agents and Model Context Protocol (MCP) servers.
+- Helps developers and users discover, evaluate, and configure ready-to-use tools and skills.
+- Key features:
+	- Curated AI Agent tools and workflow skills
+	- MCP servers catalog for fast integration
+	- Clear usage instructions and configuration templates
+
+### Links
+- Website: [AgentHub Official Site](https://myagenthub.cn/)
+- Docs / Directory: [Explore Agents & MCP Servers](https://myagenthub.cn/)
+</details>
+
 <!-- This is a comment that appears only in the raw text -->
 
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
