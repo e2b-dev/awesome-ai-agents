@@ -2094,6 +2094,28 @@ General purpose
 </details>
 
 
+## [minimal-agent-harness](https://github.com/yo666666yo/minimal-agent-harness)
+A ~450-line Python educational implementation of an LLM agent harness with streaming tool execution and context summarization
+
+<details>
+
+### Category
+Build your own, General purpose, Developer tools
+
+### Description
+- Distills the core architecture of production agentic coding assistants (like Claude Code) into a single readable Python file
+- Async generator query loop: the `while True` heart of every agentic coding assistant
+- Streaming tool execution: tools start running during model streaming, with concurrent-safe vs exclusive partitioning
+- Context summarization (auto-compact) when the conversation exceeds token budget
+- Mock API client included: no API key needed to try
+- ~450 lines with extensive code comments cross-referencing the original TypeScript source
+
+### Links
+- [GitHub](https://github.com/yo666666yo/minimal-agent-harness)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
