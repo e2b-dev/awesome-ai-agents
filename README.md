@@ -2408,6 +2408,28 @@ Coding
 
 </details>
 
+## [RocketRide](https://rocketride.ai)
+AI pipeline engine with agent orchestration and a C++ core
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Pipeline engine for building, debugging and running agent workflows, with a C++ runtime and 50+ Python-extensible nodes.
+- Agent nodes for CrewAI, LangChain and LlamaIndex, plus a native agent node, so multi-agent systems can be composed visually and run as a single pipeline.
+- 13+ model providers supported, including OpenAI, Anthropic, Gemini, DeepSeek, Kimi, MiniMax, Mistral, Bedrock and local Ollama.
+- 8+ vector databases supported for retrieval, including Qdrant, Chroma, Astra DB and Milvus.
+- Ships an MCP server, so pipelines are callable as tools from Claude, Cursor and Windsurf.
+- Runs locally or on your own infrastructure via Docker, with TypeScript and Python SDKs and a VS Code extension.
+
+### Links
+- [GitHub](https://github.com/rocketride-org/rocketride-server)
+- [Web](https://rocketride.ai)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
