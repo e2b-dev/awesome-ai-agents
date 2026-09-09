@@ -3298,6 +3298,25 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Astell](https://astell.ai)
+Company memory agent that reads your team's tools, answers with the source, and chases follow-ups that went quiet
+
+<details>
+
+### Category
+Productivity, Business intelligence
+
+### Description
+- Reads Slack, Gmail, Google Drive, Google Calendar, Notion, Linear, and GitHub, links decisions, owners, and outcomes across them, and answers questions with the source they came from
+- Loops: tracks open follow-ups and surfaces the ones that went quiet before they are missed
+- Permissions mirror the connected sources
+- Built for 10–60 person teams; free plan and per-seat pricing
+
+### Links
+- [Web](https://astell.ai)
+
+</details>
+
 ## [Athena Intelligence](https://www.athenaintelligence.ai/)
 24/7 Enterprise AI Data Analyst
 
