@@ -2961,6 +2961,31 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [ZYRAXON-AI](https://github.com/onelpawarai-X/ZYRAXON-AI)
+Desktop AI agent with 357+ tools, 9 modes, eternal memory, self-healing, TTS, voice control
+
+<details>
+
+### Category
+General purpose, Coding, Productivity
+
+### Description
+- **357+ real tools** — file ops, git, browser automation, API testing, network scanning, desktop control
+- **9 Agent Modes** — Build, Research, Debug, Deploy, Explore, Simplify, Brainstorm, Consult, General
+- **Eternal Memory** — survives laptop reset, SQL-based lifetime recall, 24/7 daemon
+- **Self-Healing** — auto-fixes errors, retries failed operations, code guardian
+- **Free models** — 21+ free AI models, no API keys needed, always loaded
+- **TTS + Voice Control** — Edge Neural voices, speech-to-text, Chrome voice bridge
+- **Electron EXE** — one-click install, works offline, cross-platform
+- **Monaco AI** — AI-powered code editor with inline editing
+
+### Links
+- [GitHub](https://github.com/onelpawarai-X/ZYRAXON-AI)
+- [Website](https://zyraxonai.lovable.app)
+- License: BSL 1.1
+
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
