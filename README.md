@@ -195,7 +195,7 @@ Build your own, Developer tools
 - gRPC message bus, health endpoint, and live SSE event stream out of the box
 - Secrets vault and SQLite-backed local state
 - Deterministic time-travel debugging: every LLM/tool exchange is journaled, so runs can be replayed offline at no API cost and forked into alternate timelines
-- 10-crate Rust workspace (kernel, bus, vault, trace, memory, plugins, registry, sdk, cli); MIT/Apache-2.0
+- 10-crate Rust workspace (kernel, bus, vault, trace, memory, plugins, registry, sdk, cli); Apache-2.0
 
 ### Links
 - [GitHub](https://github.com/WAHIB-EL-KHADIRI/AgentOS)
