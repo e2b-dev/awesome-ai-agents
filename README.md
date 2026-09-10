@@ -3781,6 +3781,28 @@ Coding
 
 
 
+## [ContextStream](https://contextstream.io)
+Shared project context for AI coding agents
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Shared project context for Cursor, Claude Code, Codex, Grok, and other AI coding agents via MCP
+- Intelligence isn’t the bottleneck. Context is.
+- Hosted MCP: https://mcp.contextstream.io/mcp
+- Benchmarks: https://contextstream.io/benchmarks
+
+### Links
+- [Web](https://contextstream.io)
+- [MCP](https://mcp.contextstream.io/mcp)
+- [GitHub](https://github.com/contextstream/mcp-server)
+- [Benchmarks](https://contextstream.io/benchmarks)
+
+</details>
+
 ## [Cursor](https://www.cursor.so/)
 AI-powered Code Editor with VSCode-like UI
 
