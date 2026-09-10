@@ -4507,6 +4507,25 @@ Coding, Data analysis
 
 </details>
 
+## [Kane CLI](https://www.testmuai.com/kane-cli)
+AI browser testing from the terminal, driven by plain-English objectives
+
+<details>
+
+### Category
+Coding, Testing
+
+### Description
+- Takes a plain-English objective and runs it in a real browser from the terminal, verifying each step and returning pass or fail.
+- Agent mode streams NDJSON that coding agents can parse to self-correct.
+- Exports a run as native Playwright code, with autohealing selectors.
+- Seals screenshots and a HAR on every run as evidence.
+
+### Links
+- [Website](https://www.testmuai.com/kane-cli)
+
+</details>
+
 ## [Juno](https://heyjuno.co/)
 AI-led user interviews for rich human insights
 
