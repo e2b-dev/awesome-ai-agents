@@ -1966,6 +1966,29 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Memanto](https://github.com/moorcheh-ai/memanto)
+Universal memory agent for Agentic AI
+
+<details>
+
+<img src="https://github.com/moorcheh-ai/memanto/raw/main/assets/memanto-logo.svg" width="300" />
+
+### Category
+Memory management
+
+### Description
+- **Universal memory agent**: Manages memory across sessions and tools for AI agents.
+- **Semantic search**: Native retrieval-augmented generation (RAG) and namespaces.
+- **Local-first**: Run locally via `pip install memanto`.
+- **Conflict detection**: Triggered workflows to spot and manage conflicting memories.
+
+### Links
+- [Documentation](https://docs.memanto.ai)
+- [GitHub](https://github.com/moorcheh-ai/memanto)
+- [Discord](https://memanto.ai/discord)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
