@@ -447,6 +447,28 @@ Coding, GitHub
 
 </details>
 
+## [AutoRev](https://autorev.ai/)
+AI coworker that answers the phone and runs the job for home service businesses
+
+<details>
+
+### Category
+Sales, Productivity, Business intelligence
+
+### Description
+
+- **Answers every call 24/7**: Picks up inbound calls, texts and web chat, triages an emergency against the shop's own dispatch rules, and books the job on a live calendar.
+- **Runs the job after the call**: Follows up with callers who did not book, sends and chases estimates, invoices off completed work, and asks for the review.
+- **Writes into the systems already in use**: Reads and writes ServiceTitan, Housecall Pro, Jobber and FieldEdge rather than asking a shop to move.
+- **Built per trade**: Set up on a shop's own pricebook, service area and on-call rotation, for HVAC, plumbing, electrical, roofing, pest control and adjacent trades.
+- **Drivable from an MCP client**: An MCP server exposes calls, jobs, estimates and invoices to Claude and other clients over stdio or remote streamable HTTP.
+
+### Links
+- [Website](https://autorev.ai/)
+- [MCP server](https://github.com/autorevai/autorev-mcp)
+- [npm](https://www.npmjs.com/package/@autorevai/mcp-server)
+</details>
+
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
 Agent that answers HR-related queries using tools
 
