@@ -4428,6 +4428,26 @@ Coding, Build-your-own
 
 </details>
 
+## [Inteldo](https://inteldo.com/)
+Business research platform using specialist agents across connected business data and external sources
+
+<details>
+
+### Category
+Business intelligence, Data analysis
+
+### Description
+- Investigates business questions across connected data and external sources
+- Uses specialist agents to research, analyze, and bring findings together
+- Provides supporting sources and citations for the findings
+
+### Links
+- [Instagram](https://www.instagram.com/inteldo.ai/)
+- [LinkedIn](https://www.linkedin.com/company/inteldo/)
+- [X (Twitter)](https://x.com/inteldo/)
+
+</details>
+
 ## [Invicta](https://invictai.io/)
 Build your first team of Autonomous AI Agents
 
