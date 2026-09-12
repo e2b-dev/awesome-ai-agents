@@ -5311,6 +5311,24 @@ Finance, Data analysis
 
 </details>
 
+## [ThinkerWave](https://thinkerwave.ai)
+Autonomous AI for high-stakes decisions that argues against its own answer and shows its work
+
+<details>
+
+### Category
+General purpose, Research, Finance
+
+### Description
+- ThinkerWave is an AI product for complex, high-stakes decisions where being wrong is expensive. It works a problem from multiple angles, argues against its own conclusion, surfaces hidden criteria, refuses malformed questions, and shows its full reasoning trail.
+- Runs locally; available by invitation. Built by Thinkerwave AITech (India); patent pending at the Indian Patent Office.
+
+### Links
+- [Web](https://thinkerwave.ai)
+- Founder: [Vikas Goel](https://vikasgoel.com)
+
+</details>
+
 ## [Test Driver](https://testdriver.ai/)
 AI Agent for QA in GitHub
 
