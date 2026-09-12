@@ -2171,6 +2171,27 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [murmur](https://github.com/wine-fall/murmur)
+An always-on AI radio host for the terminal: picks its own topics, talks, plays music; type back and it answers in a voice that sounds human
+
+<details>
+
+### Category
+General purpose, Entertainment, Voice
+
+### Description
+- A continuous program stream rather than a question-answer loop: the host spontaneously picks topics and talks, alternates talk with music, and marks morning / midday / night on schedule
+- Keyboard in, voice out: type a reply and the host chats for a bit, then eases back into the program; speech is fish-speech over a hosted endpoint
+- One host whose character is set on the first run and holds; what grows is its memory of the listener (profile, topics discussed, songs played)
+- Brain is a Claude session through the Claude Agent SDK, reusing the local Claude Code login; music streams through yt-dlp
+- Ships as an npm package (`npm install -g murmur-radio`), MIT, TypeScript
+
+### Links
+- [GitHub](https://github.com/wine-fall/murmur)
+- [Landing page](https://wine-fall.github.io/murmur/)
+- [npm](https://www.npmjs.com/package/murmur-radio)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
