@@ -1709,6 +1709,32 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [KubeIntellect](https://github.com/MSKazemi/kubeintellect)
+An AI SRE for Kubernetes that asks before it acts
+
+<details>
+
+![Image](https://github.com/MSKazemi/kubeintellect/raw/main/.github/assets/kubeintellect-demo.gif)
+
+### Category
+Multi-agent, DevOps
+
+### Description
+- An LLM-orchestrated multi-agent framework for Kubernetes operations: a coordinator plans, subagents fetch evidence in parallel, and only then does it conclude.
+- Investigates a live cluster with real tools - kubectl for state, Prometheus for metrics (PromQL), Loki for logs (LogQL) - and answers in plain English, quoting the evidence it read.
+- Every mutating operation (scale, restart, delete, apply) stops for explicit human approval. The gate is enforced at the tool boundary rather than in the prompt, so it cannot be talked around.
+- Role-based access control per API key: readonly, operator, admin and superadmin.
+- Every decision is appended to a hash-chained log, so a run can be replayed afterwards rather than recalled.
+- Self-hosted under AGPL-3.0; works with OpenAI, Anthropic, Qwen or any OpenAI-compatible endpoint.
+
+### Links
+- [GitHub](https://github.com/MSKazemi/kubeintellect)
+- [Web](https://kubeintellect.com)
+- [Docs](https://mskazemi.github.io/kubeintellect/)
+- [Paper](https://doi.org/10.1007/s10723-026-09837-6)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
