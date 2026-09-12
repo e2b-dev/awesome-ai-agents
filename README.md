@@ -5360,6 +5360,29 @@ Coding
   
 </details>
 
+## [VibeFuse](https://fuseintelligence.org/products/vibefuse)
+Free Windows desktop harness for running coding agents side by side
+
+<details>
+
+![image](https://fuseintelligence.org/images/VibeFuse_Logo_Transparent.png)
+
+### Category
+Coding, Productivity, Build-your-own (agent-builing frameworks and platforms), Multi-agent
+
+### Description
+- VibeFuse is a free desktop harness for Windows that runs Claude Code, Codex, Gemini, Cursor, and Qwen as live widgets on one canvas, alongside terminals, browsers, and files
+- Voice control runs fully local (Whisper STT + Piper TTS), with MCP tools and named sessions that keep agent PTYs alive
+- Open marketplace for AI skills, widgets, and styling packs where creators keep 80% of sales
+- Windows 10+ (Electron), free forever
+
+### Links
+- [Web](https://fuseintelligence.org/)
+- [Product](https://fuseintelligence.org/products/vibefuse)
+- [Marketplace](https://fuseintelligence.org/marketplace)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
