@@ -813,6 +813,24 @@ Coding
 
 </details>
 
+## [Bunkhouse](https://github.com/braedonsaunders/bunkhouse)
+Open-source AI employees for main-street business
+
+<details>
+
+### Category
+Business, Multi-agent, Productivity
+
+### Description
+- Multitenant AI employee platform: company inbox, org chart, governed procedures, duties, memory
+- Agents get a real mailbox on the company domain (Google Workspace / Microsoft 365 / IMAP)
+- Docker Compose quickstart; optional per-agent microVM desk on Linux with KVM
+- Alpha; AGPL-3.0
+
+### Links
+- [GitHub](https://github.com/braedonsaunders/bunkhouse)
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
