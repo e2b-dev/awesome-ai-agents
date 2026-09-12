@@ -2322,6 +2322,28 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PipesHub](https://www.pipeshub.com/)
+Workplace AI for permission-aware search, RAG, and agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/pipeshub-ai/media-assets/refs/heads/main/images/pipeshub-logo.svg)
+
+### Category
+Build-your-own (agent-building frameworks and platforms)
+
+### Description
+- Open-source workplace AI platform that connects enterprise knowledge (Slack, Google Drive, Jira, Confluence, and 50+ connectors) and lets teams search, cite, and run no-code agents on that context
+- Permission-aware retrieval, knowledge-graph plus vector search, MCP server, and Python/TypeScript/Go SDKs
+- Self-hostable with any LLM provider (including Ollama)
+
+### Links
+- [Web](https://www.pipeshub.com/)
+- [Docs](https://docs.pipeshub.com/)
+- [GitHub](https://github.com/pipeshub-ai/pipeshub-ai)
+- [Discord](https://discord.com/invite/K5RskzJBm2)
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
