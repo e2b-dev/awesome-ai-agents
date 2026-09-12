@@ -5406,6 +5406,26 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 </details>
 
+## [Wenlan](https://github.com/7xuanlu/wenlan)
+Local-first, source-backed AI knowledge base and LLM wiki
+
+<details>
+
+### Category
+Productivity, Knowledge Management, Developer Tools, Open Source
+
+### Description
+- Wenlan distills agent work into maintained, citation-gated wiki pages.
+- Served over MCP to Claude Code, Codex, Cursor and other clients.
+- Local-first, Rust, Apache 2.0.
+
+### Links
+- [Web](https://wenlan.app/)
+- [GitHub](https://github.com/7xuanlu/wenlan)
+
+</details>
+
+
 ## [Wispy](https://wispy.technicalmagic.ai/)
 Summarize content, compose content, create quizzes
 
