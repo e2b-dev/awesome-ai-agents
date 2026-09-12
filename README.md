@@ -1652,6 +1652,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)
+Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you
+
+<details>
+
+### Category
+Coding, Developer tools, Autonomous agents
+
+### Description
+Ivy Tendril is an open-source agentic software factory and development harness.
+- Handles parallel Git worktrees for isolated agent execution
+- Programmatic verification gates and test suites
+- Fast interactive review loops
+- High-performance desktop and web UI
+
+### Links
+- [GitHub](https://github.com/Ivy-Interactive/Ivy-Tendril)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
