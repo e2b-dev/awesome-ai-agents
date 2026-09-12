@@ -2192,7 +2192,27 @@ Science, Multimodal, Social, Multi-agent
 - [GitHub](https://github.com/mczhuge/NLSOM)
 - [Paper](https://arxiv.org/pdf/2305.17066.pdf)
 - [Author's X - Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
-- [Author's X - Mingchen Zhuge](https://twitter.com/MingchenZhuge)
+</details>
+
+## [Nexus-Agent](https://github.com/parkain707/nexus-agent)
+Autonomous AI Software Engineering Agent with AST Syntax Guardrails & Time-Travel Rollback
+
+<details>
+
+### Category
+Software development, Coding agents, Autonomous agents
+
+### Description
+- **Self-Healing ReAct Loop**: Automatically captures test failures and tracebacks, pinpoints root causes, and iteratively patches code.
+- **In-Memory AST Guardrails**: Pre-validates Python syntax trees before writing to disk, completely preventing syntax-broken code.
+- **Time-Travel Snapshots & 1-Click Rollback**: Atomic SQLite snapshots allowing 1ms rollbacks to any past code state.
+- **Zero-Cost Offline Mock Mode**: 100% offline evaluation without OpenAI/Claude API keys.
+- **Dual UX Synergy**: Cyberpunk Glassmorphism Web Mission Control + Rich TUI CLI.
+
+### Links
+- [GitHub](https://github.com/parkain707/nexus-agent)
+- [Live Demo](https://should-busy-repairs-metres.trycloudflare.com)
+- [Releases](https://github.com/parkain707/nexus-agent/releases)
 
 </details>
 
