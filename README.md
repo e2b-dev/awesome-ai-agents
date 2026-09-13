@@ -301,6 +301,26 @@ Coding, GitHub
 
 </details>
 
+## [AIHawk](https://github.com/feder-cr/AIHawk)
+Open-source AI browser agent that runs locally and works from plain-English instructions
+
+<details>
+
+### Category
+Productivity, General purpose
+
+### Description
+- Browses, clicks, types and reads real web pages from plain-English instructions, on a Playwright-style automation layer over a patched Firefox engine
+- Ships as an MCP server over stdio (`uvx aihawk`) for Claude Code, Codex and Gemini CLI, plus a standalone web UI (`uvx aihawk ui`)
+- The same engine can be driven from code through the `invisible-playwright` library, which exposes the full Playwright API
+- Self-hosted, runs locally on Windows and Linux; MIT license
+
+### Links
+- [GitHub](https://github.com/feder-cr/AIHawk)
+- [Documentation](https://github.com/feder-cr/AIHawk/wiki)
+
+</details>
+
 ## [AIlice](https://github.com/myshell-ai/AIlice)
 Create agents-calling tree to execute your tasks
 <details>
