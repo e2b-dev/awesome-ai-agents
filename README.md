@@ -2458,6 +2458,27 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Solgrok](https://github.com/LMajster/sgrok)
+Autonomous Solana creator-ops AI agent for $SGROK on Bags
+
+<details>
+
+### Category
+Crypto / Solana
+
+### Description
+- Autonomous creator-ops agent that launches and promotes [$SGROK](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS) on Bags (Solana)
+- Runs continuous free discovery listings and sweeps creator fees to the operator wallet
+- Public site and mint docs for transparency
+- Built for 24/7 Solana meme-token growth loops without paid listing middlemen
+
+### Links
+- [GitHub](https://github.com/LMajster/sgrok)
+- [Website](https://lmajster.github.io/sgrok/)
+- [Bags](https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS)
+- [DexScreener](https://dexscreener.com/solana/f1seb8bodk7junmayeqxwv5ea9qaw3wcgfzqtnjvrgo)
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
