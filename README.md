@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Auterix](https://github.com/SapanMozammel/auterix)
+Universal context protocol & deterministic workflow engine across 21 AI coding assistants
+<details>
+
+### Category
+Coding, Developer Tools, Infrastructure
+
+### Description
+- Open-source, zero-dependency context protocol and workflow standard for multi-agent software engineering.
+- Compiles, verifies, and synchronizes architectural invariants natively across 21 AI assistants (Cursor, Claude Code, GitHub Copilot, Google Antigravity, Windsurf, Devin, Aider).
+- Features cryptographic SHA-256 integrity verification to eliminate unreviewed context drift.
+- Includes an 8-check diagnostic scorecard (`npx auterix doctor`) and local-first Web Studio with zero server telemetry.
+
+### Links
+- [GitHub](https://github.com/SapanMozammel/auterix)
+- [Web Studio](https://auterix.vercel.app)
+- [NPM](https://www.npmjs.com/package/auterix)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
