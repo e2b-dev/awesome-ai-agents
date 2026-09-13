@@ -5189,6 +5189,28 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [SpeakCode](https://www.speakcode.ai)
+Run Claude Code and Codex coding agents in parallel on one macOS canvas
+
+<details>
+
+![image](https://www.speakcode.ai/og-card.png)
+
+### Category
+Coding, Productivity
+
+### Description
+- Native macOS app that puts Claude Code and Codex agents side-by-side on an infinite, zoomable canvas of terminals, one node per agent
+- Zoom out for a fleet view with live status on every node (running, waiting for input, done); zoom in to take over any terminal
+- Route new work to idle agents, arrange sessions spatially, and share the whole canvas live with teammates (cursors, presence, per-terminal edit grants)
+- Bring your own Claude, OpenAI, or Gemini accounts; the subscription covers the app. macOS 26+
+
+### Links
+- [Website](https://www.speakcode.ai)
+- Author: [Anand Butani](https://www.speakcode.ai) (Product Via Ai, Inc.)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
