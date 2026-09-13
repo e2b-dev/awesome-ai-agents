@@ -2296,6 +2296,28 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Orchestrator](https://zachealy1.github.io/orchestrator/)
+Free, open-source Mac workspace for Codex agents, Kanban tasks and local code review
+
+<details>
+
+### Category
+Coding, Productivity
+
+### Description
+- Combines repository browsing, Codex conversations and a Kanban task board in one desktop workspace.
+- Shows subagent conversations and activity, with local diff review for inspecting the resulting code changes.
+- MIT licensed; supports macOS 15+ on Apple Silicon and Intel. Uses the developer's own supported Codex account; provider costs and limits apply.
+- Currently in public beta and not yet notarized by Apple. The installation guide covers the first-launch security warning.
+
+### Links
+- [Website](https://zachealy1.github.io/orchestrator/)
+- [GitHub](https://github.com/zachealy1/orchestrator)
+- [Downloads](https://github.com/zachealy1/orchestrator/releases)
+- [Installation](https://github.com/zachealy1/orchestrator/blob/main/docs/public/INSTALLATION.md)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
