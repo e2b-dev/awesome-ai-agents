@@ -278,6 +278,27 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [AI Meeting](https://github.com/FORIFOR/AI-meeting)
+Turn spoken plans into saved tasks in the browser
+
+<details>
+
+### Category
+Personal assistant, Productivity, General purpose
+
+### Description
+- A browser-based voice assistant that turns spoken plans into saved tasks.
+- Supports interruptible voice interaction, VRM avatars, and playback-synced audio state.
+- Task data persists in the browser with IndexedDB and can be exported as JSON.
+
+### Links
+- [Live demo](https://ai-meeting.web.app/#tasks)
+- [GitHub](https://github.com/FORIFOR/AI-meeting)
+- [Project website](https://ai-meeting.forifor.chatgpt.site/ja)
+- [Demo video](https://youtu.be/qLenE6R7-nI)
+
+</details>
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
