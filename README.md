@@ -1915,6 +1915,28 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [Magi](https://magi-core-landing-2.vercel.app/)
+Autonomous agent fleet that runs its own operating loop end to end
+
+<details>
+
+### Category
+Autonomous, Multi-agent, Open-source agents, Build-your-own
+
+### Description
+- Magi is a small autonomous agent fleet: work lands on a shared Firestore board (email / cron / self-created), the coordinator claims it for the least-loaded online worker in a single atomic transaction, and headless opencode cores execute it with resumable sessions, retry with backoff, and a supervisor that audits every done task and turns every fault into a new task. Dogfooded weekly via a self-generated ops digest.
+- Outcome-weighted delegation is on the roadmap; today routing is least-loaded and supervisor outcome-reviews feed back through reopen/rework.
+- Funding: an x402 USDC pay-as-you-go funding rail is built and tested, but the wallet currently holds $0 spendable — marketed as capability, not a funded state.
+- The fleet runs in public: a live landing page, a live fleet status dashboard, an honest one-pager, and a self-generated weekly ops digest.
+
+### Links  
+- [Web](https://magi-core-landing-2.vercel.app/)
+- [One-pager](https://magi-core-landing-2.vercel.app/magi-fleet-one-pager.md)
+- [Fleet status](https://magi-fleet-status.vercel.app/)
+- [Weekly fleet ops digest](https://magi-core-landing-2.vercel.app/weekly-fleet-ops-digest-2026-09-07-to-2026-09-12.md)
+- [GitHub org](https://github.com/magiautonomous)
+</details>
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
