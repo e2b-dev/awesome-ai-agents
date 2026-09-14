@@ -1088,6 +1088,24 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [CubeLoop](https://github.com/cubeplexai/cubeloop)
+Pythonic async-native agent framework with a linear while-loop runtime
+<details>
+
+### Category
+Build-your-own, SDK for agents
+
+### Description
+- Linear while-loop agent runtime (not a graph), with append-only checkpointing.
+- Typed middleware hooks, MCP tools, human-in-the-loop, and OpenTelemetry.
+- Async-native Python with three core deps: pydantic, anthropic, openai.
+- Alternative to LangGraph-style orchestration for single-agent workflows.
+
+### Links
+- [Documentation](https://cubeloop.dev)
+- [GitHub](https://github.com/cubeplexai/cubeloop)
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
