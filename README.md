@@ -2408,6 +2408,25 @@ Coding
 
 </details>
 
+## [Revo](https://github.com/shyringo/revo)
+Continuously active terminal AI with persistent memory and proactive conversation.
+
+<details>
+
+### Category
+General purpose, Coding, Personal assistant
+
+### Description
+- An experimental agent that continues observing, thinking, and acting while awake, including after individual tasks finish.
+- Preserves memory, unfinished work, and deliveries across sleep/wake cycles through one terminal conversation.
+- Supports proactive messages, interruptible parallel cognition, and local file and shell tools. Requires Node.js 22.19+ and a model API key; defaults to OpenCode Go DeepSeek V4 Flash.
+
+### Links
+- [GitHub](https://github.com/shyringo/revo)
+- [Documentation](https://github.com/shyringo/revo#quick-start)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
