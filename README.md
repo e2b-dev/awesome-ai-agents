@@ -2343,6 +2343,27 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 </details>
 
+## [PrivacyScrubber](https://privacyscrubber.com/)
+Zero-trust in-memory PII and secrets masking for AI agents and developer workflows
+
+<details>
+
+### Category
+Security, Privacy, Developer Tools
+
+### Description
+PrivacyScrubber is a zero-trust, client-side data sanitization engine and Model Context Protocol (MCP) server for autonomous AI agents, IDEs, and LLM pipelines.
+- 100% local processing in RAM with zero network egress
+- Intercepts and masks sensitive credentials, API keys, and personal identifiers before LLM prompts are dispatched
+- Reversible token mapping restored upon receiving AI responses
+- Includes stdio MCP server for Cursor, Windsurf, Claude Desktop, and headless programmatic Node.js SDK (@privacyscrubber/sdk)
+
+### Links
+- [Web](https://privacyscrubber.com/)
+- [GitHub](https://github.com/moxno/privacyscrubber-mcp)
+
+</details>
+
 ## [PromethAI](https://github.com/topoteretes/PromethAI-Backend)
 AI agent that helps with nutrition and other goals
 
