@@ -3719,6 +3719,25 @@ Coding
 
 </details>
 
+## [Command+K](https://commandplusk.com)
+In-product AI assistant for SaaS apps that answers from your docs and takes actions via MCP-connected tools
+
+<details>
+
+### Category
+Productivity, Build-your-own, General purpose
+
+### Description
+- Embeddable chat widget that answers from a product's own docs and knowledge base
+- Connects to MCP servers so the assistant can take actions inside connected tools, not just answer questions
+- Built for SaaS teams: no-code widget setup, works alongside existing docs and support tooling
+
+### Links
+- [Website](https://commandplusk.com)
+- [Docs](https://commandplusk.com/docs)
+
+</details>
+
 ## [Commit](https://commit.dev)
 Career Copilot and AI Agent for SW Developers
 
