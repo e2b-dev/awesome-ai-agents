@@ -3085,6 +3085,31 @@ Coding
 
 </details>
 
+## [AIK Platform](https://aikautomation.com/)
+Self-hosted AI agents for office work — invoices, email, phone, browser, databases — with a signed audit trail
+
+<details>
+
+![image](https://aikautomation.com/og-image.png)
+
+### Category
+Productivity, Business intelligence, Customer service
+
+### Description
+- A platform of 43 ready-made agents that read invoices and documents (PDF, scans, photos), watch mailboxes, browse the web, query databases, and answer the phone and chat in English and Bulgarian
+- Runs on the user's own server or PC; works with OpenAI, Anthropic, Google, Groq or free local Ollama models
+- Agents chain into scheduled workflows with human-approval steps; a "process audit" reads a plain-language description of a job and says what can be automated and what it would save
+- Every agent carries a signed passport, every run a signed certificate, documents can be sealed against tampering, and all output is marked as AI-generated (EU AI Act Art. 50)
+- Built and maintained by a single developer; free tier, on-premise licence for companies
+
+### Links
+- [Web](https://aikautomation.com/)
+- [Demo video](https://aikautomation.com/demo.html)
+- [Docs](https://aikautomation.com/docs.html)
+- [LinkedIn](https://www.linkedin.com/in/alexander-krastev-131b89170)
+
+</details>
+
 ## [AilaFlow](https://ailaflow.com)
 No-code platform for building AI agents
 
