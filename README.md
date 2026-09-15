@@ -1709,6 +1709,29 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [KinetAios](https://github.com/phinn/KinetAios)
+Local-first multi-engine agent dashboard for macOS. Runs four coding agents side-by-side on the same task — Claude Code (via CLI), Codex CLI, a Direct-protocol engine, and a built-in Plan-Execute-Verify-Judge engine — with per-turn token/cost auditing and SQLite-only local storage. Published its own engine losing to Claude Code (3.5 vs 7.0, 1.31M-token benchmark) for transparency.
+
+
+<details>
+
+### Category
+General purpose / Developer tools
+
+### Description
+
+- Four engines compete on the same task in one window; watch every tool call live
+- Token & cost audit per turn — found 7.5% of calls burning 63% of budget in real workloads
+- Local-first: SQLite storage, BYO API keys, Ollama support, no cloud relay
+- Free tier: single engine + Ollama, forever
+
+### Links
+
+- [GitHub](https://github.com/phinn/KinetAios)
+- [Benchmark report (1.31M tokens, 341 turns)](https://github.com/phinn/KinetAios/blob/main/documents/excel-cross-analysis-engines.html)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
