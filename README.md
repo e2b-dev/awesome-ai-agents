@@ -255,6 +255,24 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [agent-playbooks](https://github.com/chiragmangaldev3112/agent-playbooks)
+Portable, tool-agnostic AGENTS.md playbooks for AI coding agents
+<details>
+
+### Category
+Developer tools, Coding agent
+
+### Description
+- One portable instruction set (35 playbooks) for bug fixes, feature development, code review, testing, and autonomous operation, built on the AGENTS.md standard.
+- Works across Claude Code, Cursor, Antigravity, Gemini CLI, Devin CLI, Factory Droid, Grok Build, Kimi Code, OpenCode, Pi, Hermes Agent, and GitHub Copilot -- write the rules once, point every tool at the same source.
+- Installs with a single command, no account or token required.
+
+### Links
+- [Demo video](https://chiragmangaldev3112.github.io/agent-playbooks/demo.html)
+- [GitHub](https://github.com/chiragmangaldev3112/agent-playbooks)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
