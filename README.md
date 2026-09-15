@@ -2094,6 +2094,23 @@ General purpose
 </details>
 
 
+## [Moching](https://github.com/moching-ai-dev/moching)
+
+### Category
+
+-   Desktop Automation
+-   OS Automation
+
+### Description
+
+Moching is an open-source AI desktop agent written in Rust. It sees and controls the screen in real time through dual engines (visual understanding + accessibility UI tree), and runs an autonomous see-act-verify execution loop. It ships with 219 native tools, a 30+ skill store, and MCP plugin support. Available for Windows and macOS.
+
+### Links
+
+-   [GitHub](https://github.com/moching-ai-dev/moching)
+-   [Website](https://mochingcode.com)
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
