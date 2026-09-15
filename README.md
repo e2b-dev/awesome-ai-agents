@@ -563,6 +563,8 @@ General purpose
 - [Tweet](https://twitter.com/yoheinakajima/status/1657448504112091136)
 - [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyCatAGI.py)
 - [Replit](https://replit.com/@YoheiNakajima/BabyCatAGI)
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
 </details>
