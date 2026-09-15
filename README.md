@@ -712,6 +712,26 @@ Data analysis
 </details>
 
 
+## [Bifrost](https://github.com/maximhq/bifrost)
+Self-hosted LLM and MCP gateway for agent workflows
+
+<details>
+
+### Category
+Agent infrastructure, Tool use
+
+### Description
+- Bifrost provides an OpenAI-compatible API and MCP gateway for building tool-calling agents.
+- It routes requests across cloud and local providers with fallbacks, load balancing, virtual keys, and observability.
+- It supports MCP client/server workflows with dynamic discovery and tool filtering.
+
+### Links
+- [GitHub](https://github.com/maximhq/bifrost)
+- [Documentation](https://docs.getbifrost.ai/overview)
+
+</details>
+
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
