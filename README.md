@@ -2296,6 +2296,27 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [pdf-translate](https://github.com/lxsssssss/pdf-translate)
+High-fidelity vector PDF translation & layout-preserving audit engine for AI agents
+
+<details>
+
+### Category
+Coding, Productivity, Agent Skill
+
+### Description
+- Open-source AI Agent skill designed for publication-grade vector PDF translation.
+- 1:1 strict layout preservation for official documents (bilingual tables, headers, signatures, and dotted leaders).
+- Zero hallucinations with two-stage schema extraction and bounded CSS @page heights.
+- In-browser JS physical height overflow detection probe during headless rendering.
+- Automated 1:1 page-by-page audit and bidirectional clause diff engine (`audit_pdf.py`).
+- Native support for Google Antigravity, Claude Code, Cursor, Windsurf, Codex, and DeepSeek.
+
+### Links
+- [GitHub](https://github.com/lxsssssss/pdf-translate)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
