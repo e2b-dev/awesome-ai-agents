@@ -2042,6 +2042,25 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 </details>
 
 
+## [MoCode](https://github.com/wanxunyang/mocode)
+
+A terminal coding agent that completes goals autonomously, with any OpenAI-compatible backend
+
+<details>
+
+### Category
+Coding
+
+### Description
+MoCode is a full-screen terminal coding agent (TypeScript, MIT) that drives a goal through a loop of "think → call a tool → observe → think again", reading/writing/editing files, running shell commands, and searching the web on its own. It works with any OpenAI-compatible endpoint (GLM, DeepSeek, Qwen, local Ollama / vLLM), so no vendor-specific key is required. Notable features include durable memory with a real lifecycle (decay / archive / hard-delete, eviction cap, pinned entries), hash-gated skill trust that fails closed in non-TTY environments, snapshot/rollback and permission gates, and a built-in 61-task eval harness with checksummed verifiers. Install via npm (`mocode-ai`).
+
+### Links
+- [GitHub](https://github.com/wanxunyang/mocode)
+- [npm](https://www.npmjs.com/package/mocode-ai)
+
+</details>
+
+
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
