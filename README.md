@@ -95,6 +95,27 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent!](https://github.com/AgentiLoop/Agent)
+Native macOS autonomous agent that codes, builds, drives Mac apps, and runs shell tasks
+
+<details>
+
+### Category
+Coding, General purpose, Productivity, Supports open-source models
+
+### Description
+- 100% native Swift 6.2 / SwiftUI app for macOS — no Electron, no subscription, no telemetry
+- Autonomous task loop: reads and edits your codebase, builds Xcode projects, commits diffs
+- Drives any Mac app through the Accessibility API, AppleScript/JXA and ScriptingBridge; built-in Safari automation
+- Runs shell commands as the user or, after a one-time approval, as root via a signed XPC daemon with a shell-safety layer
+- Sub-agents for parallel research, MCP client for external tools, iMessage/voice ("Agent!") interaction
+- 23 LLM providers (Claude, OpenAI, Gemini, Mistral, DeepSeek, Ollama, vLLM, LM Studio, OpenRouter, ...) plus on-device Apple Intelligence — run fully local or bring your own key
+
+### Links
+- [GitHub](https://github.com/AgentiLoop/Agent)
+- [Website](https://agentiloop.ai)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
