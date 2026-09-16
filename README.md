@@ -2019,6 +2019,28 @@ Memory management, Data analysis
 
 </details>
 
+## [MemorySync](https://github.com/memorysyncio/memorysync-cursor-starter)
+Scoped, low-latency persistent memory layer for AI agents, Cursor, and Claude Code over Model Context Protocol (MCP)
+
+<details>
+
+### Category
+Memory management, Developer Tools
+
+### Description
+- Sub-50ms hybrid vector recall and durable fact storage across agent sessions without local database daemons.
+- Cryptographic multi-tenant scoping preventing cross-user and cross-project context leakage.
+- Zero-signup live docs MCP server accessible instantly at https://docs.memorysync.io/mcp.
+- Ready-to-use client SDKs for Python and TypeScript with native LangChain, LlamaIndex, and AutoGen integrations.
+
+### Links
+- [Website](https://memorysync.io)
+- [Documentation](https://docs.memorysync.io)
+- [Live Docs MCP Endpoint](https://docs.memorysync.io/mcp)
+- [GitHub Starter](https://github.com/memorysyncio/memorysync-cursor-starter)
+
+</details>
+
 ## [Mentat](https://github.com/biobootloader/mentat)
 Assists you with coding task from command line
 
