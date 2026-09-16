@@ -5117,6 +5117,30 @@ Productivity, Content creation
 
 </details>
 
+## [Screenpipe](https://screenpipe.com/)
+Personal work-history assistant with searchable screen and audio context
+
+<details>
+
+### Category
+Productivity, Personal assistant, Memory
+
+### Description
+- Captures screen context and microphone/system audio locally, with accessibility text, OCR fallback, and transcription.
+- Helps users recall conversations, summarize meetings, and review how they spent their time across apps.
+- Exposes recorded context to AI assistants through a local API and MCP server.
+- Runs scheduled agents called pipes from Markdown instructions, for workflows such as meeting notes and daily work summaries.
+- Source-available under the Screenpipe Commercial License. Official desktop builds have free and paid plans; source and official-build terms are distinct.
+- Local storage is the default. Selected context can leave the device when cloud AI, sync, or integrations are enabled.
+
+### Links
+- [Website](https://screenpipe.com/)
+- [GitHub and source license](https://github.com/screenpipe/screenpipe)
+- [MCP setup](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp)
+- [Pricing](https://screenpipe.com/pricing)
+
+</details>
+
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
