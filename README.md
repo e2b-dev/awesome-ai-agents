@@ -1062,6 +1062,32 @@ Coding
 
 </details>
 
+## [Continuum](https://github.com/reacherwu/continuum)
+Continuous temporal memory engine for AI coding agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/reacherwu/continuum/main/benchmarks/assets/continuum_benchmark_infographic.png)
+
+### Category
+Memory, Autonomous agent, Coding assistant
+
+### Description
+- Open-source continuous temporal memory engine for AI coding agents (Cursor, Claude Code, Antigravity, OpenClaw, Hermes, Codex)
+- Features:
+	- Slashes LLM tokens by 96% across 1,000+ turns
+	- 100% causal retention, preventing Turn 200 amnesia
+	- Flat 750 physical slots (<75 KB RAM) with zero memory leaks across 100k steps
+	- Microsecond retrospective causal recall (<100µs)
+	- Written in 100% pure standard library Rust (0 external crate dependencies)
+	- Built-in Model Context Protocol (MCP) server
+
+### Links
+- [GitHub](https://github.com/reacherwu/continuum)
+- [Documentation](https://reacherwu.github.io/continuum/)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
