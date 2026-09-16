@@ -2427,32 +2427,6 @@ Productivity, Research
 
 </details>
 
-## [Screenpipe](https://github.com/screenpipe/screenpipe)
-24/7 local screen + microphone recording with semantic search and MCP for Claude
-
-<details>
-
-![image](https://raw.githubusercontent.com/screenpipe/screenpipe/main/content/Screenshot%202024-11-21%20at%2011.42.18%E2%80%AFAM.png)
-
-### Category
-Productivity, Personal assistant, Memory
-
-### Description
-- Records screen and microphone 24/7 locally — OCR on every frame, full audio transcription, accessibility tree capture
-- Indexes everything to a local SQLite DB so agents can query "what did I see / say / hear" with semantic search
-- Ships with an MCP server (6 tools: search-content, export-video, list-meetings, activity-summary, search-elements, frame-context) so Claude or any MCP-compatible agent can read the user's full digital memory
-- Extensible via "pipes" — TypeScript plugins that run on a schedule against the recorded data (auto-generate meeting notes, fill CRMs, build digital clones, etc.)
-- Cross-platform (macOS / Windows / Linux), works fully offline with Ollama, llama.cpp, or any local LLM
-- 100% local — no data leaves the machine
-
-### Links
-- [Website](https://screenpi.pe/)
-- [GitHub](https://github.com/screenpipe/screenpipe)
-- [Documentation](https://docs.screenpi.pe/)
-- [Discord](https://discord.gg/screenpipe)
-
-</details>
-
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
@@ -5140,6 +5114,30 @@ Productivity, Content creation
 - [Slack](https://sagacommunity.slack.com/join/shared_invite/zt-13m3lrrdt-1x6~l6sLuR8CX~4c3fWwHA#/shared-invite/email)
 - [Discord](https://discord.com/invite/cgz2mUEq7P)
 
+
+</details>
+
+## [Screenpipe](https://screenpipe.com/)
+Personal work-history assistant with searchable screen and audio context
+
+<details>
+
+### Category
+Productivity, Personal assistant, Memory
+
+### Description
+- Captures screen context and microphone/system audio locally, with accessibility text, OCR fallback, and transcription.
+- Helps users recall conversations, summarize meetings, and review how they spent their time across apps.
+- Exposes recorded context to AI assistants through a local API and MCP server.
+- Runs scheduled agents called pipes from Markdown instructions, for workflows such as meeting notes and daily work summaries.
+- Source-available under the Screenpipe Commercial License. Official desktop builds have free and paid plans; source and official-build terms are distinct.
+- Local storage is the default. Selected context can leave the device when cloud AI, sync, or integrations are enabled.
+
+### Links
+- [Website](https://screenpipe.com/)
+- [GitHub and source license](https://github.com/screenpipe/screenpipe)
+- [MCP setup](https://github.com/screenpipe/screenpipe/tree/main/packages/screenpipe-mcp)
+- [Pricing](https://screenpipe.com/pricing)
 
 </details>
 
