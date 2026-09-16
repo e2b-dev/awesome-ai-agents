@@ -887,6 +887,33 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [Caura](https://github.com/caura-ai/caura)
+Governed shared memory for AI agent fleets
+
+<details>
+
+![Image](https://github.com/caura-ai/caura/raw/main/static/images/caura-concept.png)
+
+### Category
+Multi-agent, Build-your-own, SDK for agents
+
+### Description
+
+- Open-source memory layer that lets multi-agent, multi-tenant fleets store what they learn and recall what the rest of the fleet knows, instead of repeating each other's mistakes.
+- Agents write plain text; Caura classifies it, extracts entities, checks for contradictions, and embeds it before it lands in shared memory.
+- Combines a vector store, a knowledge graph, and an LLM enrichment pipeline behind one API.
+- Governance on every operation: visibility scopes, trust tiers, keystone policies, audit trails, and tenant isolation.
+- MCP-native and REST, so it drops into Claude Desktop, Cursor, or Windsurf without glue code.
+- Self-hostable with Docker (Postgres + pgvector + Redis); Apache 2.0.
+
+### Links
+- [Website](https://caura.ai)
+- [Documentation](https://caura.ai/docs/)
+- [Discord](https://discord.com/invite/aNfpgfpj)
+- [GitHub](https://github.com/caura-ai/caura)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
