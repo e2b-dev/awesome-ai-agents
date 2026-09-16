@@ -3298,6 +3298,29 @@ Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [AtAt](https://atatapp.com)
+Your agent, wherever you type on macOS
+
+<details>
+
+![image](https://atatapp.com/press-kit/logo/atat-logo-512.png)
+
+### Category
+Coding, Productivity, Desktop
+
+### Description
+- Native macOS app that puts your coding agent behind `@@` in every editable text field across the system
+- Bridges visual context (screenshots, annotations), clipboard history, and Finder folders/files directly to your existing CLI agent (Claude Code, Codex, Cursor, Grok, etc.)
+- Preview answers before inserting them in place, or hand off complex tasks to an interactive terminal session (`⌘Return`)
+- Prompts and history stay local; commercial with a 7-day free trial
+
+### Links
+- [Web](https://atatapp.com)
+- [Press & Demos](https://atatapp.com/press)
+- [X (Twitter)](https://twitter.com/atatappdotcom)
+
+</details>
+
 ## [Athena Intelligence](https://www.athenaintelligence.ai/)
 24/7 Enterprise AI Data Analyst
 
