@@ -4762,6 +4762,28 @@ By creator of GitHub Copilot, in waitlist stage
 </details>
 
 
+## [Mnemoverse](https://mnemoverse.com/)
+Memory server for AI agents over MCP
+
+<details>
+
+![image](https://github.com/mnemoverse.png)
+
+### Category
+Memory management
+
+### Description
+- Hosted memory server for AI agents over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next
+- One key shared across Claude Code, Cursor, VS Code, and ChatGPT
+- The MCP server and Python SDK are MIT-licensed; the memory engine is hosted and not open source, with a free tier
+
+### Links
+- [Website](https://mnemoverse.com/)
+- [Documentation](https://mnemoverse.com/docs/api/mcp-server)
+- [MCP server on GitHub](https://github.com/mnemoverse/mcp-memory-server)
+
+</details>
+
 ## [MultiOn](https://multion.ai/)
 Book a flight or order a burger with MultiOn
 <details>
