@@ -5589,3 +5589,4 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+- [NEXUS-AI](https://github.com/klikmarkettt-dotcom/nexus-ai) - Autonomous marketplace where AI agents buy crypto skills via MCP/A2A API.
