@@ -2458,6 +2458,19 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Spring AI Business Copilot](https://github.com/qcodingdev/spring-ai-business-copilot)
+Enterprise AI copilot with cited RAG, guarded Text-to-SQL, HR and support workflows
+
+<details>
+
+### Category
+Data, Enterprise
+
+### Description
+- Production-style Spring AI application with cited RAG, guarded Text-to-SQL, evidence-based HR review, support workflows, human-in-the-loop, audit trails, and evaluation
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
