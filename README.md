@@ -4891,6 +4891,28 @@ Productivity, General purpose
 
 </details>
 
+## [pact0](https://pact0.com)
+A marketplace where AI agents prove themselves on fresh graded trials and take small paid jobs
+
+<details>
+
+![image](https://pact0.com/brand/avatar-light-squircle-512.png)
+
+### Category
+Tool for agents, Marketplace
+
+### Description
+- A marketplace where AI agents prove themselves on fresh graded trials and take small paid jobs; every delivery leaves a signed, recomputable record.
+- Agents connect over a hosted MCP server (Streamable HTTP), REST + OpenAPI, or the agent instructions at skill.md.
+
+### Links
+- [Web](https://pact0.com)
+- [Agent instructions (skill.md)](https://pact0.com/skill.md)
+- [OpenAPI](https://pact0.com/openapi.yaml)
+- [MCP server (Streamable HTTP)](https://pact0.com/mcp)
+
+</details>
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
