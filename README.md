@@ -53,6 +53,8 @@ The list is done according to our best knowledge, although definitely not compre
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
+
+- [NEXUS-AI](https://shoe-pierce-primary-electronics.trycloudflare.com) - Autonomous marketplace where AI agents buy crypto skills via MCP/A2A API.
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
 For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
