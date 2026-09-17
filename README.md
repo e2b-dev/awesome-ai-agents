@@ -3893,6 +3893,34 @@ Sales
 
 </details>
 
+## [DOS AI](https://dosai.pro/en)
+AI assistant that answers your customers in WhatsApp and Telegram
+
+<details>
+
+![image](https://dosai.pro/brand/avatar-white-1024.png)
+
+### Category
+Customer support, Sales, Personal assistant
+
+### Description
+- Answers customers in WhatsApp, Telegram and Instagram Direct the way a trained manager would: prices, availability, booking, objections, and it hands the chat to a human when the question needs one.
+- Built from a plain-text description of the business plus an uploaded knowledge base (price lists, documents, FAQ). There is no flow chart to draw.
+- Connects an existing WhatsApp number by QR, so the business keeps the number and the history its customers already know. The official Business API is supported too.
+- Every conversation becomes a lead card in a built-in CRM, with stage, tags and notes.
+- Takes payment inside the chat, including Kaspi, which matters for businesses in Central Asia.
+- Calls tools of its own: a live schedule, Google Sheets and Calendar, email, or the company's own API.
+- Sends follow-ups on a schedule when a customer goes quiet.
+- Works in English, Russian and Kazakh.
+
+### Links
+- [Web](https://dosai.pro/en)
+- [Documentation](https://dosai.pro/docs/guide)
+- [MCP server and public API](https://github.com/adsytd1/dosai-api)
+- [Instagram](https://www.instagram.com/dosai.pro/)
+
+</details>
+
 ## [Dosu](https://dosu.dev/)
 GitHub repo AI teammate helping also with docs
 <details>
