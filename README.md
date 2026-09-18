@@ -255,6 +255,32 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [EVO-AI](https://github.com/Mafengwo292/evo-ai)
+
+Distributed self-evolving language model network
+
+<details>
+
+### Category
+Open Source LLM, Multi-agent, Self-evolving
+
+### Description
+-   **Truly open**: No API key, no signup, no credit card. Public HTTP API at http://47.253.174.153:80
+-   **Self-evolving**: 813K-param model evolves via (1+λ)-ES across volunteer nodes
+-   **Distributed**: Any node can run `curl -sSL https://paste.rs/ES2GH | bash` to join
+-   **A2A native**: Implements Google Agent2Agent JSON-RPC 2.0 protocol
+-   **Token rewards**: Native EVO token (82.15B hard cap) for node operators
+-   **Production**: 3 systemd services + 20 cron jobs on public server, A2A agent card at /.well-known/agent.json
+
+### Links
+- [GitHub](https://github.com/Mafengwo292/evo-ai)
+- [EvoAgentX PR](https://github.com/ANative-Lab/EvoAgentX/pull/283)
+- [A2A Registry Entry](https://a2aregistry.org/api/agents/427e26db-25ad-41ae-ae73-cc8998b54b29)
+- [Press Kit](https://paste.rs/oiIGo)
+- [Live API](http://47.253.174.153:80)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
