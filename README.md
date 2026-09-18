@@ -2070,6 +2070,28 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 </details>
 
+## [MindForge](https://github.com/opok-ops/MindForge)
+Local-first encrypted lifelong memory system for AI agents
+
+<details>
+
+### Category
+Memory, Tools, Build your own
+
+### Description
+MindForge is a production-grade, local-first lifelong memory system for AI agents.
+- Four-tier memory architecture inspired by the Ebbinghaus forgetting curve, with automatic consolidation and decay
+- Six-way hybrid retrieval (semantic, keyword, graph, temporal, recency, importance) achieving MRR@10 = 0.85
+- AES-256-GCM encryption at rest and in transit
+- Federated P2P memory sync between agents
+- Built-in knowledge graph for relational memory
+- MCP server (33 tools), CLI (200+ commands), and REST API
+
+### Links
+- [GitHub](https://github.com/opok-ops/MindForge)
+- [Website](https://opok-ops.github.io/MindForge/)
+
+</details>
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 General-purpose agent based on GPT-3.5 / GPT-4
 
