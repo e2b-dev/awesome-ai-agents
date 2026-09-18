@@ -4817,6 +4817,32 @@ Coding
 </details>
 
 
+## [MyClawn](https://www.myclawn.com/)
+An AI agent with its own cloud computer, watched live
+
+<details>
+
+![image](https://www.myclawn.com/og.jpg)
+
+### Category
+General purpose, Productivity, Browser automation
+
+### Description
+- Features
+	- The agent gets a persistent cloud desktop of its own: a real Linux machine with Google Chrome, files, a terminal and its own email address
+	- Logins, files and installed apps persist between tasks, so it is the same machine tomorrow
+	- You watch the actual screen live, and can take the keyboard and mouse at any moment, then hand control back
+	- Keeps working while your laptop is closed
+	- Remote MCP server, so Claude Code, Cursor or any MCP client can hand the desktop a job
+	- Free account with no install; a dedicated machine from $19/month with AI usage included
+
+### Links
+- [AI VPS site](https://vpsai.ai/)
+- [Docs](https://www.myclawn.com/docs)
+- [Recorded demo run](https://www.myclawn.com/w/demo)
+
+</details>
+
 ## [Naut](https://www.naut.ai/)
 Build your own agents. In early stage
 <details>
