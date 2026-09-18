@@ -2322,6 +2322,28 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [PhotoAgent](https://github.com/John-owo/photo-agent)
+Alpha photography workflow agent with persistent edit and recovery evidence
+
+<details>
+
+### Category
+Photography, Workflow automation
+
+### Description
+- MIT-licensed TypeScript CLI that orchestrates photo analysis, edit planning, tool operations, and read-back/render evidence.
+- Uses a separate Lightroom MCP backend for Lightroom Classic operations; automated Develop edits target an identity-verified Workflow Copy.
+- Recovery reconciles recorded state and stops for review instead of automatically retrying uncertain mutations.
+- Includes a synthetic mock example requiring no Lightroom, API key, or personal photos. This demonstrates workflow behavior, not image quality.
+- Early alpha: batch culling, representative propagation, and evaluator-to-human agreement still need validation.
+
+### Links
+- [GitHub](https://github.com/John-owo/photo-agent)
+- [First-run guide](https://github.com/John-owo/photo-agent/blob/main/docs/first-run.md)
+- [Validation scope](https://github.com/John-owo/photo-agent/blob/main/docs/acceptance/t09-clean-clone-and-live-evidence.md)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
