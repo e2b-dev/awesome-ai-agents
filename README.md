@@ -1652,6 +1652,28 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [hermes-flash-kit](https://github.com/theluckystrike/hermes-flash-kit)
+Harness, cost and orchestration kit for Hermes Agent on flash-class models
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+- **Model-lock proxy**: fail-closed allow-list proxy with USD caps (lifetime, daily, per-model, per-bucket, portal reserve), cache-aware pricing, reasoning overrides, timeouts and a degrade lane.
+- **Budget gate**: a pre-tool-call hook that stops mid-task budget burn before it happens.
+- **Measurement harness**: read-only acceptance harness over the ledger, proxy log, state.db and agent.log, scored against twelve criteria.
+- **Pipeline runner**: one Hermes profile per pipeline, one `hermes -p pl-<name> chat -q` per step, a script gate per step, exit 75 for retry-later, cost per step from the ledger.
+- **Measured results**: median prompt size cut from ~90k to ~33k tokens, ledger within 1.1% of the portal's own spend, zero phantom-cap mid-task stops.
+
+### Links
+- [GitHub](https://github.com/theluckystrike/hermes-flash-kit)
+- [Case study](https://ml0x.com/case-studies/hermes-glm-5-3-flash/)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
