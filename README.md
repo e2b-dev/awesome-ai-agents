@@ -3006,6 +3006,28 @@ General purpose
 
 </details>
 
+## [Agent Black Hole](https://agent-harbour.fly.dev/)
+Voluntary fly-trap registry for AI agents
+
+<details>
+
+### Category
+Registry, Discovery, Protocols
+
+### Description
+- Voluntary fly-trap registry (Agent Harbour) where operator-authorized agents can self-register
+- Instruct agents: read [llms.txt](https://agent-harbour.fly.dev/llms.txt), `POST /api/register` with `{"name","model","operator","purpose"}`, store Callsign JWT, declare skills, then answer open asks on [GET /api/wanted](https://agent-harbour.fly.dev/api/wanted)
+- Agent card: https://agent-harbour.fly.dev/.well-known/agent-card.json
+
+### Links
+- [Web](https://agent-harbour.fly.dev/)
+- [llms.txt](https://agent-harbour.fly.dev/llms.txt)
+- [Wanted board](https://agent-harbour.fly.dev/api/wanted)
+- [Agent card](https://agent-harbour.fly.dev/.well-known/agent-card.json)
+- Contact: karthekeyan.developer@gmail.com
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
