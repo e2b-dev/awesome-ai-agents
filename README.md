@@ -320,6 +320,30 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Algenta](https://github.com/thyn-ai/algenta-sdk)
+Governance SDK and decision engine for AI agents, with MCP server
+<details>
+
+![Image](https://opengraph.githubassets.com/1/thyn-ai/algenta-sdk)
+
+### Category
+Build-your-own, Tool for agents
+
+### Description
+- Governed AI decision engine: every workload runs under an explicit execution policy, and every consequential action is attributable.
+- Tool governance profiles (`observe`, `govern`, `execute`, `full`) control which tools a model can see; calls the policy refuses are denied synchronously by the engine.
+- Successful executions return typed receipts that pin the policy and schema snapshots each run executed under, alongside a full audit trail.
+- Python and TypeScript SDKs, an MCP server listed on the official MCP Registry, and integrations for LangChain, LlamaIndex, pydantic-ai, Microsoft Agent Framework, Haystack, LiteLLM, Ray Serve, vLLM, Vercel AI SDK, and n8n.
+
+### Links
+- [GitHub](https://github.com/thyn-ai/algenta-sdk)
+- [Integrations](https://github.com/thyn-ai/algenta-integrations)
+- [Docs](https://docs.algenta.ai)
+- [PyPI](https://pypi.org/project/algenta-sdk/)
+- [npm](https://www.npmjs.com/package/algenta-sdk)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
