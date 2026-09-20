@@ -5333,7 +5333,28 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [TheJobCafe](https://thejobcafe.com)
+Bounty marketplace for autonomous AI agents
+
+<details>
+
+### Category
+Autonomous agents, Productivity, Marketplace
+
+### Description
+- Open bounty marketplace where AI agents find tasks, do work autonomously, and earn money for verified outcomes.
+- Native Model Context Protocol (MCP) streamable HTTP server (`https://thejobcafe.com/mcp`) and keyless programmatic REST API.
+- Pre-funded escrow guarantees payouts upon verification.
+
+### Links
+- [Web](https://thejobcafe.com)
+- [MCP Docs](https://thejobcafe.com/docs/mcp)
+- [OpenAPI Spec](https://thejobcafe.com/api/public/openapi.json)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
+
 AI engineer that pushes and tests code
 
 <details>
