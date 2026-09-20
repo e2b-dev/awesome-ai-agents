@@ -320,6 +320,30 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Anselm](https://github.com/Cookiezisg/Anselm)
+Local-first agentic workflow platform where the AI builds the functions, agents and workflows from a plain-language request, then schedules and runs them durably on your machine
+
+<details>
+
+![Image](https://github.com/Cookiezisg/Anselm/raw/main/docs/assets/readme/demo.gif)
+
+### Category
+Productivity, General purpose
+
+### Description
+- Describe an outcome in chat; Anselm creates each Function, Agent, trigger and approval node as a real, versioned entity and wires them into a workflow graph you can open and edit
+- Durable execution: node results are memoized in SQLite, so after a crash the interpreter re-walks the graph and only runs what did not finish
+- Human-in-the-loop approvals park a run as a persistent state until you decide
+- Desktop app (macOS, Linux, Windows) with a Go sidecar and a single SQLite file; managed models with a free tier, or Ollama / OpenAI-compatible / BYOK
+- Agents mount MCP tools; Functions run in sandboxed Python, Node and .NET
+- Apache-2.0
+
+### Links
+- [GitHub](https://github.com/Cookiezisg/Anselm)
+- [Website](https://anselm.website)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
