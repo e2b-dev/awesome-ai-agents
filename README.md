@@ -2427,6 +2427,24 @@ Productivity, Research
 
 </details>
 
+## [slop-grader](https://github.com/lukstei/slop-grader)
+Rule-based CLI tool to evaluate documents against custom rulesets and guide auto-fixing with an AI agent
+
+<details>
+
+### Category
+Development / Evaluation
+
+### Description
+- Rule-based CLI tool for text and markdown quality powered by TypeSafe Jev
+- Evaluates documents against custom rulesets (AI slop detection, style guide enforcement, technical writing clarity)
+- Produces document scores and line-by-line violation flags specifically designed to guide auto-fixing with an AI agent
+
+### Links
+- [GitHub](https://github.com/lukstei/slop-grader)
+- [npm](https://www.npmjs.com/package/@lukstei/slop-grader)
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
