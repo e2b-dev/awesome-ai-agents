@@ -70,6 +70,26 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [AAA AGI](https://aaaai.me/)
+Autonomous AI Agent squad ecosystem with native desktop & mobile apps
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Coding
+
+### Description
+- **Autonomous Multi-Agent Squads**: Orchestrate expert AI models (Planner, Coder, Verifier) for research, coding, and dynamic task execution.
+- **Hybrid Local & Cloud LLMs**: Support for local models (Ollama, llama.cpp, Apple Silicon MLX) or cloud endpoints (OpenAI, Anthropic, Gemini).
+- **AAA AI Meet**: Real-time voice/video calls with live AI-generated summaries, action plans, and decisions.
+- **Cross-Platform**: Native macOS Swift app, iOS, Android, Linux, Windows, and system tray agent server.
+
+### Links
+- [Website](https://aaaai.me/)
+- [Documentation](https://aaaai.me/docs.html)
+- [GitHub](https://github.com/pokidov/aaaagi)
+</details>
+
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
