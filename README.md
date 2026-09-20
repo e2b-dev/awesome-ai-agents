@@ -2439,7 +2439,6 @@ Development / Evaluation
 - Rule-based CLI tool for text and markdown quality powered by TypeSafe Jev
 - Evaluates documents against custom rulesets (AI slop detection, style guide enforcement, technical writing clarity)
 - Produces document scores and line-by-line violation flags specifically designed to guide auto-fixing with an AI agent
-- Supports OpenRouter fallback for typed evaluations
 
 ### Links
 - [GitHub](https://github.com/lukstei/slop-grader)
