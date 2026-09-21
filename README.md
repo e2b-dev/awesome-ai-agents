@@ -2574,6 +2574,32 @@ General purpose
 </details>
 
 
+## [Swarms](https://github.com/kyegomez/swarms)
+Enterprise-grade multi-agent orchestration framework
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+Swarms is an open-source Python framework for building and orchestrating multi-agent systems. A single `Agent` primitive composes into a range of prebuilt architectures, so the same agents can be rearranged without rewriting orchestration code.
+
+- **One agent primitive**: tools from plain Python functions, MCP servers, streaming, persistent memory, and automatic context compression
+- **Prebuilt architectures**: SequentialWorkflow, ConcurrentWorkflow, GraphWorkflow (DAG), MixtureOfAgents, HierarchicalSwarm, GroupChat, MajorityVoting, CouncilAsAJudge, DebateWithJudge, RoundRobin and more
+- **SwarmRouter**: one entry point that swaps between architectures via a `swarm_type` string
+- **AgentRearrange**: a flow DSL where `A -> B, C` mixes sequential and concurrent execution
+- **Model agnostic**: any LiteLLM-compatible model, so a single swarm can mix providers
+- **MCPDeployer**: serve any agent or swarm as an MCP server over stdio, SSE or streamable HTTP
+
+### Links
+- [GitHub](https://github.com/kyegomez/swarms)
+- [Documentation](https://docs.swarms.ai)
+- [Website](https://swarms.ai)
+
+</details>
+
+
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
 
