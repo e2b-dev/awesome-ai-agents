@@ -1709,6 +1709,28 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [JIT Context OS](https://github.com/wojciechwiesner/jit-context-os)
+Deterministic micro-context & epistemic memory OS for AI coding agents
+
+<details>
+
+### Category
+Memory management, Developer Tools, Coding Agents
+
+### Description
+JIT Context OS replaces monolithic context stuffing and brittle semantic RAG with a deterministic, hierarchical 3-tier memory engine (L0/L1/L2) and 10 formal epistemic safety invariants (I1–I10).
+- L0 Hot-Path (<3ms): Local SQLite WAL with zero-latency Read-Your-Own-Writes (RYOW).
+- L1 Warm-Path (<10ms): In-memory project scope with hysteresis scope guard to prevent workspace thrashing.
+- L2 Deep-Path: FastMCP external knowledge retrieval with a 600ms circuit breaker.
+- Prompt Caching: Deterministic XML capsules achieving >85% prompt cache hit rates on Claude 3.5/3.7, Gemini 2.5/3.8, and GPT-4o.
+- Epistemic Invariants: Prevents epistemic self-poisoning (assistant outputs carry 0.0 weight).
+
+### Links
+- [Repository](https://github.com/wojciechwiesner/jit-context-os)
+- [Technical Report & DOI](https://doi.org/10.5281/zenodo.22649542)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
