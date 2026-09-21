@@ -1966,6 +1966,28 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Marketing Mindset](https://github.com/axelfreeman/marketing-mindset)
+An agent skill that carries a working marketer's decision framework
+
+<details>
+
+![image](https://opengraph.githubassets.com/1/axelfreeman/marketing-mindset)
+
+### Category
+Marketing, Productivity, Build-your-own
+
+### Description
+- Marketing Mindset is an open-source (MIT) skill for AI agents: a Markdown instruction set rather than an agent with its own runtime, distilled from 15 years of hands-on B2B internet marketing.
+- It answers the questions tactics do not: how much test volume is needed before a channel can be judged, when to kill a channel, how to position an offer, and how to win the first clients by hand before any money is spent.
+- Works in Claude Code, Cursor, Codex, ChatGPT and Grok; install with `npx skills add axelfreeman/marketing-mindset`.
+
+### Links
+- [GitHub](https://github.com/axelfreeman/marketing-mindset)
+- [Web](https://axelfreeman.github.io/marketing-mindset/)
+- [License: MIT](https://github.com/axelfreeman/marketing-mindset/blob/master/LICENSE)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
