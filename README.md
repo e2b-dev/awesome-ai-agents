@@ -4817,6 +4817,26 @@ Coding
 </details>
 
 
+## [MySpec](https://myspec.dev)
+Spec-Driven Development Platform for AI Coding Agents
+
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Spec-driven development platform for autonomous AI coding agents
+- Generates structured 4-file spec context bundles (`constitution.md`, `requirements.md`, `solution.md`, `tasks.md`)
+- Direct Model Context Protocol (MCP) integration for Cursor, Claude Code, and Copilot
+- Free tier available for developers and open-source projects
+
+### Links
+- [Web](https://myspec.dev)
+
+</details>
+
+
 ## [Naut](https://www.naut.ai/)
 Build your own agents. In early stage
 <details>
