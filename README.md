@@ -4027,6 +4027,30 @@ Coding
 
 </details>
 
+## [FIIT.AI](https://fiit.ai/)
+AI employees for businesses — desktop agents that work inside the systems a company already uses
+
+<details>
+
+![image](https://fiit.ai/og-en.png)
+
+### Category
+Productivity, Business intelligence, Data analysis, Supports open-source models
+
+### Description
+- AI employee platform for businesses; the desktop client (Fiitx) runs on the user's own machine (macOS / Windows) and works inside existing systems — spreadsheets, Feishu/Lark, WeChat, Shopee, TikTok Shop
+- Pre-built job roles: attendance analyst, finance & operations analyst, performance review, daily business report, creator outreach, multilingual customer service, content generation, plus custom roles
+- Company-specific definitions (pay periods, overtime rules, scoring weights) are configuration issued per organization; calculations run through deterministic engines rather than free-form model arithmetic
+- Stops for human approval before anything is sent outward; scheduled runs for recurring lines of work
+- Bring your own model (any OpenAI-compatible endpoint, including self-hosted open-source models) or use the managed gateway
+
+### Links
+- [Web](https://fiit.ai/)
+- [Use cases](https://fiit.ai/use-cases)
+- [X (Twitter)](https://x.com/airbai)
+
+</details>
+
 ## [Fine](https://www.fine.dev/)
 Build Software with AI Agents
 
