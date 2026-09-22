@@ -70,6 +70,18 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [WERR System-1](https://github.com/pCwOrM/werr)
+### Category
+Autonomous Agent Fast-Path / Decision Engine
+
+### Description
+A zero-memory procedural System-1 decision kernel for autonomous agents. Eliminates persistent weight storage (0 Bytes VRAM, 24-byte fractal seed coordinate) and delivers sub-2ms deterministic reflex triage to resolve low-level agent actions without invoking heavy cloud LLMs.
+
+### Links
+- [Repository](https://github.com/pCwOrM/werr)
+- [Live Interactive Arena](https://pcworm.github.io/werr/#benchmark-arena)
+- [Companion Dual-Cognition Platform (ANSWERR)](https://answerr.me)
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
