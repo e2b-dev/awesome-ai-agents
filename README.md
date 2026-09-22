@@ -1709,6 +1709,26 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [jevme](https://github.com/danielyedaniel/jevme)
+Voice-controlled computer-use agent for macOS that acts while you're still talking
+
+<details>
+
+### Category
+General purpose, Productivity
+
+### Description
+- Controls any Mac app by voice: reads the screen through the macOS accessibility tree (no screenshots) and clicks, types, and navigates
+- Acts mid-sentence: completed clauses run while the user keeps speaking
+- A fast classifier (TypeSafe Jev) makes routine decisions; Claude Haiku (vision) and Opus (code, new tools) only run when reasoning is needed
+- Self-learning: every LLM result is memoized as a classifier case, and tasks can be learned from one user demonstration
+- Open source (MIT), bring your own API keys
+
+### Links
+- [GitHub](https://github.com/danielyedaniel/jevme)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
