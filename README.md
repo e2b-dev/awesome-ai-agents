@@ -3202,6 +3202,28 @@ Productivity, Multi-agent, Coding
 
 </details>
 
+## [Arsaze](https://www.arsaze.com)
+AI-native video editing operating system and autonomous video editing agent
+
+<details>
+
+### Category
+Productivity, Multimodal AI, Creative tools
+
+### Description
+- Real timeline video editing controllable via autonomous agents and MCP tool calls
+- Comprehensive editing capabilities: cuts, trimming, ripple edits, color grading, and auto-captioning
+- Multimodal generation integration for video, AI voiceover, image, and SFX
+- Full manual controls alongside autonomous agent execution
+- Connects directly to Claude, Cursor, ChatGPT, and custom LLM agents via Model Context Protocol (MCP)
+
+### Links
+- [Web](https://www.arsaze.com)
+- [MCP Documentation](https://www.arsaze.com/docs/mcp)
+- [GitHub MCP Connector](https://github.com/AnrosPrac/arsaze-mcp)
+
+</details>
+
 ## [Artisian AI](https://github.com/Artisan-AI)
 Agents for sales, e-mails, book keeping & more
 
