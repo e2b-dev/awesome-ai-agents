@@ -5210,6 +5210,27 @@ General purpose
 
 </details>
 
+## [Swiftask](https://swiftask.ai)
+Platform for deploying AI agents connected to your business tools
+
+<details>
+
+### Category
+General purpose, Productivity, Business automation
+
+### Description
+- Configure and deploy custom AI agents through an intuitive visual interface
+- Multi-LLM agnostic: choose the best model for each task (GPT-4o, Claude, Gemini, Mistral...) with no vendor lock-in
+- 3,000+ integrations including Slack, HubSpot, Notion, Google Drive, and more
+- Governance and full audit trail: every agent action is logged with complete visibility for administrators
+- European hosting and GDPR compliant; data is never used to train third-party models
+- Agents for lead generation, customer support, onboarding, reporting, and more
+
+### Links
+- [Website](https://swiftask.ai)
+
+</details>
+
 ## [Superluminal](https://superluminal.dev)
 AI copilot to your product's data dashboard
 
