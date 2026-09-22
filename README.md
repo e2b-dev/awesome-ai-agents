@@ -1709,6 +1709,29 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [JevLoop](https://github.com/parkavenue9639/jevloop)
+Experimental coding agent combining TypeSafe Jev decisions with an LLM
+
+<details>
+
+### Category
+Coding
+
+### Description
+
+- Runs multi-turn file-editing, Bash, and small service-maintenance tasks in Docker workspaces, with a Python CLI and a web dashboard.
+- Jev selects typed actions and known targets; an LLM authors content and reviews low-confidence decisions.
+- A shared execution kernel applies budgets and guardrails, records tool activity, and supports side-by-side runs against an LLM-only agent in separate containers.
+- Pre-alpha and Apache-2.0 licensed; the published six-turn case study is a scoped observation, not evidence of general performance or production readiness.
+
+### Links
+
+- [GitHub and setup](https://github.com/parkavenue9639/jevloop)
+- [Architecture](https://github.com/parkavenue9639/jevloop/blob/main/docs/architecture.md)
+- [Case study and limitations](https://github.com/parkavenue9639/jevloop/blob/main/docs/fastapi-case-study.md#english)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
