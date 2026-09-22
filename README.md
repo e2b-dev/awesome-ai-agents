@@ -5486,6 +5486,22 @@ Science, Productivity, Business intelligence
 
 </details>
 
+
+## [Recall](https://github.com/vermasarthak/recall)
+
+The Bitemporal Memory Engine for Long-Horizon AI Agents.
+
+### Category
+
+Memory, Infrastructure, Agent Frameworks
+
+### Description
+
+- Recall solves stateful memory through bitemporal fact tracking (valid time vs knowledge time).
+- Implements Ebbinghaus Salience Decay so agents naturally forget unreinforced memories over time.
+- Uses Global Semantic Vector Search (RAG) mapped across SQLite relational graphs.
+- Ships with a Multi-Tenant FastAPI server, Async Python SDK, and built-in SQLite threading optimizations.
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
