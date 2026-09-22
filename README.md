@@ -836,6 +836,30 @@ Coding
 
 </details>
 
+## [BuyWhere](https://buywhere.ai)
+AI shopping agent with a remote MCP server for product search, price comparison, and deals
+
+<details>
+
+### Category
+E-commerce / Shopping
+
+### Description
+- Agent-native product catalog for AI shopping agents: keyword search, per-product detail, price comparison, deal discovery, and vector-similarity "find similar".
+- Remote MCP server (Streamable HTTP) at `https://api.buywhere.ai/mcp`; `tools/list` currently exposes 13 tools, including `search_products_v2`, `find_best_price_v2`, `compare_products_v2`, `get_deals_v2`, and `find_similar`.
+- Cross-border coverage across Singapore, SEA, and US merchants; v2 tools require the end user's ISO country code as `deliver_to` so results are ranked for products they can actually receive, with per-row availability labels.
+- Auth: OAuth 2.1 client-credentials, or a bearer API key from public self-registration (`POST /v1/auth/register`) with no email or human approval required.
+- Framework packages: `@buywhere/mcp-server` (npm), `@buywhere/langchain` (npm), `llama-index-tools-buywhere` (PyPI).
+
+### Links
+- [BuyWhere Homepage](https://buywhere.ai)
+- [MCP Server Repository](https://github.com/BuyWhere/buywhere-mcp)
+- [npm: @buywhere/mcp-server](https://www.npmjs.com/package/@buywhere/mcp-server)
+- [PyPI: llama-index-tools-buywhere](https://pypi.org/project/llama-index-tools-buywhere/)
+- [API Documentation](https://docs.buywhere.ai)
+
+</details>
+
 ## [Cal.ai](https://cal.ai)
 Open-source scheduling assistant built on Cal.com
 
