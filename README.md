@@ -2574,6 +2574,26 @@ General purpose
 </details>
 
 
+## [sunshine](https://github.com/jajmangold/sunshine)
+Model-agnostic substrate for running small local LLMs
+
+<details>
+
+![image](https://github.com/jajmangold/sunshine/raw/main/assets/banner.png)
+
+### Category
+Infrastructure, Frameworks
+
+### Description
+- Model-agnostic substrate for running small local LLMs: 3-law architecture, 7 primitives, 5 organs, argmax scoring for structured decisions.
+- Provides memory recall, verification, and kernel orchestration for local LLM workflows.
+
+### Links
+- [GitHub](https://github.com/jajmangold/sunshine)
+
+</details>
+
+
 ## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
 Open-source Devin alternative
 
