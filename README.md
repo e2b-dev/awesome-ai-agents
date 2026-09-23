@@ -1709,6 +1709,27 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Keel](https://github.com/KeelDev-tech/keel)
+Open-core job-application autopilot with honesty gates: refuses to invent qualifications, fails closed on ambiguity.
+
+<details>
+
+![image](https://opengraph.githubassets.com/1/KeelDev-tech/keel)
+
+### Category
+Productivity
+
+### Description
+- Open-core job-application autopilot with honesty gates: refuses to invent qualifications and fails closed on ambiguity.
+- Apache-2.0, self-hosted, free.
+
+### Links
+
+- [GitHub](https://github.com/KeelDev-tech/keel)
+
+</details>
+
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
