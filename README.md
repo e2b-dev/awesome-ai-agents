@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [adversarial-research-audit](https://github.com/chenhz01/adversarial-research-audit)
+Adversarial audit layer that catches agentic research reports which "lie without lying"
+
+<details>
+
+### Category
+Audit, Quality Assurance, Research Integrity
+
+### Description
+
+- **Mechanical gates**: catches inflated coverage claims — coverage arithmetic, cluster sums, filter provenance, citation integrity.
+- **Zero dependencies**: pure Python CLI; also ships an MCP server so agent stacks can self-audit.
+- **Business-profile grading**: adversarial verification tuned for real research/report workflows, not toy benchmarks.
+- **License tri-state & maintenance signals**: checks the boring things humans skip.
+
+### Links
+- [GitHub](https://github.com/chenhz01/adversarial-research-audit)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
