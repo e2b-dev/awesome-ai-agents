@@ -1709,6 +1709,28 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Jev Harness](https://github.com/ismaelsoilet/jev-harness)
+Token optimizer, test-failure triage gate, and deterministic circuit breaker for AI coding agents
+
+<details>
+
+### Category
+Developer Tools, Testing & Evaluation, Guardrails, Coding Agents
+
+### Description
+- Zero-dependency System 1.5 token optimizer, test-failure triage gate, and semantic circuit breaker for autonomous AI coding agents (Claude Code, Cursor, OpenCode, Antigravity IDE, Zed, Codex).
+- Intercepts compiler errors, missing dependencies (`ModuleNotFoundError`, `TS2307`, `E0463`), and transient network glitches in < 500µs locally (or 70-300ms via TypeSafe Jev System One micro-decisions), eliminating 50k-token LLM doom loops with zero-token shell recoveries.
+- Native tri-runtime parity across Python, TypeScript, and Rust with full offline fallback.
+- Universal MCP Server support (`jev-mcp` or `npx @ismaelsoilet/jev-harness mcp`).
+
+### Links
+- [GitHub](https://github.com/ismaelsoilet/jev-harness)
+- [PyPI](https://pypi.org/project/jev-harness/)
+- [npm](https://www.npmjs.com/package/@ismaelsoilet/jev-harness)
+- [Crates.io](https://crates.io/crates/jev-harness)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
