@@ -4127,7 +4127,34 @@ Productivity
 
 </details>
 
-## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
+## [Flowra](https://flowra.dev)
+Hosted AI agents and workflows from one sentence
+
+<details>
+	
+	### Category
+	General purpose, Productivity, Build-your-own
+	
+	### Description
+	- Hosted platform for AI agents and locked workflows built from a one-sentence job description
+	- Connects apps you already use (OAuth); catalog at https://flowra.dev/toolkits
+	- Human approval gates can pause runs, including scheduled runs, before risky steps
+	- Entry points include dashboard chat, messengers (e.g. Telegram, WhatsApp, Slack), site widget, schedules, events, API, and MCP
+	- Every tool call logged in a run ledger
+	- Official SDK: TypeScript `@flowra/sdk`, Python `flowra-sdk` (MIT)
+	- Agent skills for Cursor / Claude / Codex
+	- Remote MCP: `https://mcp.flowra.dev/mcp` (OAuth)
+	
+	### Links
+	- [Web](https://flowra.dev)
+	- [Docs](https://docs.flowra.dev)
+	- [SDK (GitHub)](https://github.com/flowradev/sdk)
+	- [Skills (GitHub)](https://github.com/flowradev/skills)
+	- [Pricing](https://flowra.dev/pricing)
+	
+	</details>
+	
+	## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
 <details>
