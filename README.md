@@ -4762,6 +4762,32 @@ By creator of GitHub Copilot, in waitlist stage
 </details>
 
 
+## [MOOGH](https://www.aimoogh.com/)
+The AI agent that gets your computer work done
+
+<details>
+
+![image](https://www.aimoogh.com/logo.png)
+
+### Category
+General purpose, Productivity, Desktop automation
+
+### Description
+- Windows desktop agent (Windows 10/11 x64): describe a task and MOOGH plans the steps, shows what it intends to do, waits for approval, then performs the work locally
+- Handles file and folder operations, command execution, code fixes inside an existing project, and routine desktop automation
+- Approval is per action, so the agent never receives blanket control of the machine, and each session is logged so it can be reviewed afterwards
+- Runs on the PC rather than in a browser tab, so it can reach the files and tools already on the machine
+- Supports Skills, Plugins and MCP; ships with 22 preconfigured MCP servers (stdio and streamable HTTP)
+- No subscription: pay-per-use with top-ups from 1 USD
+
+### Links
+- [Web](https://www.aimoogh.com/)
+- [Download](https://agent.aimoogh.com/download)
+- [Guides](https://www.aimoogh.com/en/guides/)
+
+</details>
+
+
 ## [MultiOn](https://multion.ai/)
 Book a flight or order a burger with MultiOn
 <details>
