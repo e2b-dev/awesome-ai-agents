@@ -2408,6 +2408,33 @@ Coding
 
 </details>
 
+## [Reel Agent](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent)
+Telegram agent that turns the videos you send it into working setups on your PC
+<details>
+
+![image](https://raw.githubusercontent.com/HNF-FRN/Reel-watcher-telegram-Agent/main/docs/assets/social-preview.png)
+
+### Category
+Productivity, Coding, Personal assistant
+
+### Description
+- Self-hosted Telegram bot that runs on your own Windows PC; open source (MIT)
+- Send it an Instagram reel, TikTok, YouTube link or screenshots, and it replies with what the video shows: tools, repos, links and commands
+- Features
+	- Gemini watches the whole video with audio; without a key, a local fallback samples frames and transcribes with Whisper
+	- `/plan N` and `/build N <model>` plan and build it with headless Claude Code or Codex, each build in its own git repo with `/diff` and `/undo`
+	- Every shell command is sent to your phone for approval first; reel content is treated as untrusted and never followed as instructions
+	- One background worker per reel and one process per build, so the bot stays free for the next message
+	- Searchable library of everything you sent, reminders, and an optional free Cloudflare Worker that answers while the PC is off
+- Tech
+	- Claude Code (dispatcher session + subagents), Python, Gemini API, yt-dlp, Whisper, Cloudflare Workers + D1
+
+### Links
+- [GitHub](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent)
+- [Setup guide](https://github.com/HNF-FRN/Reel-watcher-telegram-Agent/blob/main/docs/Reel%20Agent%20Setup%20Guide.pdf)
+- Author: [HNF-FRN](https://github.com/HNF-FRN)
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
