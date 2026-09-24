@@ -813,6 +813,27 @@ Coding
 
 </details>
 
+
+## [Building with Laya Skill](https://github.com/MIt9/building-with-laya-skill)
+Agent skill for writing programs with Laya and laya-cli — local typed decisions (Choice/Score/Noul), port of building-with-jev-skill to Laya
+
+<details>
+
+### Category
+Developer Tools, Agent Skills
+
+### Description
+- Skill for writing and improving programs that call Laya and laya-cli (local, non-generative System-1 decision model)
+- Covers question design (Choice, Score, Noul), state structure, answer composition, confidence thresholds and calibration
+- Includes `laya-cli` usage (predict/classify/filter/serve daemon/evaluate/shortlist/Router) and diagnosis of low-confidence answers
+- Counterpart to `dbreunig/building-with-jev-skill`, targets Laya checkpoints `convaiinnovations/laya` and `laya-cli` 0.2.x
+
+### Links
+- [GitHub](https://github.com/MIt9/building-with-laya-skill)
+- [Laya CLI](https://github.com/MIt9/laya-cli)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
@@ -1743,6 +1764,28 @@ into simplifying the developer experience; it does not use `Langchain`.
 - `DocChatAgent` handles text, PDF, Docx files/URLS, and has state-of-the art techniques 
    for retrieval combining lexical and semantic search.
 - Documentation: https://langroid.github.io/langroid/
+</details>
+
+
+## [Laya CLI](https://github.com/MIt9/laya-cli)
+Ergonomic CLI for Laya — typed decisions (choice/score/noul) for Humans & AI Agents, with streaming batch mode for pexels-cli pipelines
+
+<details>
+
+### Category
+Developer Tools, LLM, Agent Tools
+
+### Description
+- Typed decisions in one forward pass: `choice` (label + calibrated probs), `score` (ordinal), `noul` (P(true)) — no text generation, no hallucination
+- ~33 ms for one question, ~7 ms/q batched (T4), one model load for many questions
+- Presets, shortlisting for high-cardinality (77 options), multilingual routing, streaming batch mode and optional resident daemon to avoid 10-35s load
+- Built for both humans (pretty tables) and AI agents (machine-readable json/jsonl)
+
+### Links
+- [GitHub](https://github.com/MIt9/laya-cli)
+- [PyPI](https://pypi.org/project/laya-cli/)
+- [Laya upstream](https://github.com/NandhaKishorM/laya)
+
 </details>
 
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
