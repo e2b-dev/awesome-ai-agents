@@ -1388,6 +1388,7 @@ Build-your-own (agent-builing frameworks and platforms)
 
 ### Description
 - Flowise is an open source low-code tool for developers to build customized LLM orchestration flow & AI agents
+- Archived by its maintainers in August 2026; [Keelflow](https://github.com/Perruer/keelflow) continues it
 
 ### Links
 - [Web](https://flowiseai.com/)
@@ -1706,6 +1707,27 @@ JARVIS is a system to connect LLMs with the ML community.
 ### Links
 
 - [Paper](https://arxiv.org/abs/2303.17580)
+
+</details>
+
+## [Keelflow](https://github.com/Perruer/keelflow)
+Low code Agent builder, maintained continuation of Flowise
+
+<details>
+
+![Image](https://raw.githubusercontent.com/Perruer/keelflow/main/store/social-preview.png)
+
+### Category
+Build-your-own (agent-builing frameworks and platforms)
+
+### Description
+- Visual builder for LLM agents, RAG pipelines and chatbots; continues Flowise after it was archived in August 2026
+- Existing Flowise flows, credentials, API keys and databases work without changes
+- Security fixes for advisories published after Flowise's end of life; Apache-2.0 only
+- Self-hosted with Docker (amd64 and arm64)
+
+### Links
+- [GitHub](https://github.com/Perruer/keelflow)
 
 </details>
 
