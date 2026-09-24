@@ -712,6 +712,27 @@ Data analysis
 </details>
 
 
+## [Bartholomew](https://github.com/ivegotahunnitonit/bartholomew)
+Zero-overhead deterministic runtime firewall and tool-call boundary protection for autonomous AI agents
+
+<details>
+
+### Category
+Security, Guardrails, Autonomous Agents, Developer Tools
+
+### Description
+- **Deterministic Zero-Overhead Protection**: Operates at sub-35µs latency with 0 MB GPU VRAM overhead using AST heuristics.
+- **Destructive Command Gating**: Blocks recursive filesystem drops (`rm -rf`), destructive database mutations (`DROP TABLE`, blind SQL injection), and reverse shells.
+- **Tool-Call Isolation**: Enforces strict policy boundaries before tool execution occurs via Python decorators (`@secure_tool`), MCP proxy middleware, and CLI wrappers.
+- **Interactive Security Suite**: Features pre-execution simulation labs, continuous self-auditing, and real-time behavioral telemetry.
+
+### Links
+- [GitHub](https://github.com/ivegotahunnitonit/bartholomew)
+- [Documentation & Simulator](https://bartholomew.info/sim-lab.html)
+- [PyPI](https://pypi.org/project/btp-guard/)
+
+</details>
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
