@@ -4265,6 +4265,26 @@ Coding
 
 </details>
 
+## [Grunz](https://grunzai.com)
+Chat and coding agent on uncensored open models
+
+<details>
+
+### Category
+Coding, General purpose
+
+### Description
+- A Claude Code style coding agent plus a chat app, running abliterated open-weight models (Qwen, DeepSeek, GLM, Kimi) with the refusal training removed
+- Plans a task, edits files across a repo, runs commands, reads the output and fixes its own mistakes, researches the web and generates images
+- Desktop app for macOS, Windows and Linux, plus a browser version with nothing to install
+- No account required, free credits to start
+
+### Links
+- [Web](https://grunzai.com)
+- [Web app](https://grunzai.com/app)
+
+</details>
+
 ## [Gumloop](https://www.gumloop.com/)
 Automate any workflow
 with AI
