@@ -182,6 +182,31 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentITCompany](https://github.com/shivharilokhande/agentitcompany)
+Run an AI software company from your browser — a 15-persona team (Founder, C-suite, Architect, Engineers, QA, DevOps) takes an idea through an 8-phase pipeline with a live scrum board
+
+
+<details>
+
+![Image](https://github.com/shivharilokhande/agentitcompany/raw/main/docs/social-preview.png)
+
+### Category
+Coding, Multi-agent
+
+### Description
+
+- Every request (question, plan, code, tests, deploy) becomes a live "company run": each step is attributed to a persona and phase, and the org chart lights up as they work
+- 10 SOPs enforce structured hand-offs: PRD / system design / task plan contracts, a consistency gate, per-file LGTM/LBTM review, an executable-feedback quality gate
+- Scrum board with sprints, burndown, parallel lanes, hiring more engineer agents, one-click dispatch of stories
+- Engine is pluggable: Claude Cowork (desktop), Anthropic / OpenAI (incl. Codex) / Gemini / OpenRouter API keys, or a local Ollama model — switch in Configuration
+- Self-hosted Next.js + SQLite (`node:sqlite`, zero native deps), REST bridge API, MIT
+
+### Links
+- [GitHub](https://github.com/shivharilokhande/agentitcompany)
+- [Demo run script](https://github.com/shivharilokhande/agentitcompany/blob/main/data/demo-run.sh)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
