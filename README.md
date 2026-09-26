@@ -5333,6 +5333,28 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [ThreadFox](https://threadfox.vip/?utm_source=awesome-ai-agents)
+Reddit outreach agent tools for Claude Desktop, Claude Code and Codex
+
+<details>
+
+![image](https://raw.githubusercontent.com/amflimited/threadfox-lite/main/icon.png)
+
+### Category
+Marketing, Social media, Productivity
+
+### Description
+- 38 tools that let Claude Desktop, Claude Code or Codex do Reddit outreach in the user's own Chrome, signed in as them
+- Reads each community's rules first, finds conversations where people ask for what the user sells, and drafts posts and replies for the owner to approve
+- Posts once per community, rechecks each post afterwards and keeps a ledger of outcomes
+- Paid kit (one-time purchase) and a done-for-you managed campaign; the read-only research tools are free and open source as ThreadFox Lite (MIT)
+
+### Links
+- [Website](https://threadfox.vip/?utm_source=awesome-ai-agents)
+- [ThreadFox Lite (open source)](https://github.com/amflimited/threadfox-lite)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
