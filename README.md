@@ -2458,6 +2458,27 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Specstride](https://github.com/mairp/specstride)
+Spec-driven coding-agent loop with an LLM critic gate
+
+<details>
+
+### Category
+Coding, build your own
+
+### Description
+- Drives a coding agent (Claude Code, Codex, or a local model) through a GitHub Spec Kit `tasks.md`, one phase at a time
+- Each phase is a fresh, stateless agent session. The next phase starts only after a separate LLM critic approves the evidence against the acceptance criteria and the real code
+- A diagnostician reads the rejection history of a stuck phase and tells "the critic couldn't see the code" apart from a real gap, then a narrowed retry fixes only the failing criteria
+- Opt-in learning loop: tunes per-phase settings from its own telemetry, evaluates each change against a baseline and reverts regressions
+- Stdlib-only Python and Bash, Apache-2.0; optional OpenTelemetry traces and Grafana dashboards
+
+### Links
+- [GitHub](https://github.com/mairp/specstride)
+
+</details>
+
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
