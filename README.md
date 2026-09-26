@@ -2961,6 +2961,24 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [Zaru](https://github.com/100monkeys-ai/zaru-cli)
+Terminal agent harness in Rust that shows its work: a visible execution loop, validators and a permission model
+
+<details>
+
+### Category
+Coding, General purpose
+
+### Description
+- Zaru is an open-source (Apache-2.0) terminal harness for LLM agents, written in Rust across six crates. It is pre-alpha and not yet installable
+- `zaru <task>` runs a session against a model, executes the tools the model asks for under a permission model, and writes every step to a transcript you can read
+- A project can declare validators, and the harness iterates until they pass or a ceiling is reached; model providers include Gemini, a local Ollama server and any OpenAI-compatible server
+
+### Links
+- Author: [100monkeys.ai](https://100monkeys.ai)
+
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
