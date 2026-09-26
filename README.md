@@ -1289,6 +1289,28 @@ Build-your-own
 
 </details>
 
+## [easy-stock](https://github.com/jundizhou/easy-stock)
+Local-first AI research workbench for the China A-share market
+
+<details>
+
+![Image](https://cdn.jsdelivr.net/gh/jundizhou/easy-stock@main/desktop/assets/easy-stock.png)
+
+### Category
+Finance, Data analysis, Research, Multi-agent
+
+### Description
+- Desktop workbench that unifies A-share market overview, theme radar, limit-up ladder and sentiment-cycle analysis, AI stock reports, and portfolio inspection in one local-first app.
+- The Hermes agent runtime drives scheduled collection of post-market commentary from Xueqiu and TaoGuba, article archiving, cross-author consensus distillation, and AI copilot sessions.
+- Works with OpenAI, DeepSeek, Qwen, Moonshot, Anthropic, and any OpenAI-compatible endpoint; research memory and data stay on your machine.
+
+### Links
+- [GitHub](https://github.com/jundizhou/easy-stock)
+- [User Guide](https://github.com/jundizhou/easy-stock/blob/main/docs/user-guide.md)
+- [Discussions](https://github.com/jundizhou/easy-stock/discussions)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
