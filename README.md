@@ -1721,15 +1721,15 @@ Research, Data analysis, Social
 
 ### Description
 - Turns a natural-language research goal into a bounded sequence of typed Jev decisions.
-- Executes the selected operations through the local socai CLI and a real Chrome session.
+- Executes the selected operations through the local socai CLI and the user's authorised Chrome session.
 - Supports Instagram, TikTok, and LinkedIn research, including post, comment, profile, and video evidence.
-- Streams captured evidence into post cards and tables before producing a source-linked report.
+- Keeps captured evidence visible in post cards and tables before producing a cited report.
 - Rejects unsupported, malformed, and low-confidence operations instead of emitting arbitrary shell commands.
 
 ### Links
 - [GitHub](https://github.com/socai-io/jev-social)
-- [socai](https://github.com/socai-io/socai)
-- [Jev](https://typesafe.ai/)
+- [Social research guide](https://socai-io.github.io/jev-social/social-research/)
+- [Security and data flow](https://github.com/socai-io/jev-social/blob/main/SECURITY.md)
 
 </details>
 
