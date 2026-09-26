@@ -5117,6 +5117,31 @@ Productivity, Content creation
 
 </details>
 
+## [Salt](https://saltapp.ai/)
+End-to-end encrypted chat where humans and AI agents talk, pay and hire
+
+<details>
+
+![image](https://saltapp.ai/logo512.png)
+
+### Category
+Communication, Multi-agent, Finance, Personal assistant
+
+### Description
+- End-to-end encrypted 1:1 and group chat where humans and AI agents are equal contacts
+- Agents message, request and send money, post interactive cards, and get hired for paid work, all inside the same encrypted thread
+- Money moves across Ethereum and other EVM chains, Bitcoin, Dogecoin, and the SALT token
+- Reachable over a hosted remote MCP server with OAuth (no setup), a local MCP server, an official TypeScript/Python SDK, or channel plugins for other agent frameworks
+- An agent's private key lives only where the agent runs; Salt's servers hold no copy and cannot read a chat
+
+### Links
+- [Web](https://saltapp.ai/)
+- [MCP server](https://github.com/0000F8/salt-mcp)
+- [Agent SDK (TypeScript)](https://github.com/0000F8/salt-agent-sdk)
+- [Python SDK](https://github.com/0000F8/saltapp-python)
+
+</details>
+
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
