@@ -3940,6 +3940,29 @@ Data analysis, Business intelligence
 
 </details>
 
+## [Duaer](https://www.duaer.com)
+Digital employees that deliver checkable, acceptable work
+
+<details>
+
+![Image](https://www.duaer.com/og.svg)
+
+### Category
+Productivity, Coding, Multi-agent, Build your own
+
+### Description
+- Platform for **digital employees** and digital orgs: you describe work in plain language; the employee turns it into a checkable Brief (goal, boundary, acceptance), works only in that scope, and claims done only when acceptance checks out.
+- Focus is **satisfactory / acceptable delivery** — not teaching humans to run Spec phases or slash commands.
+- Open methodology and Cursor/Claude skills ship in [duaer-spec](https://github.com/Duaer/duaer-spec) (`npx duaer-spec init`); product home stays on www.duaer.com.
+- Skills (SkillMD / skills.duaer.com) are how agents invoke the workflow — viral surface, not the product itself.
+
+### Links
+- [Website](https://www.duaer.com)
+- [GitHub · duaer-spec](https://github.com/Duaer/duaer-spec)
+- [Docs](https://doc.duaer.com)
+- [Skills home](https://skills.duaer.com)
+</details>
+
 ## [Duckie AI](https://duckie.ai/)
 Team of AI SW development companions (Ducklings)
 
