@@ -2738,6 +2738,31 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [vixl](https://github.com/vixl-ai/vixl)
+Local-first desktop coding agent for local models
+
+<details>
+
+![image](https://vixl.app/features/editor.png)
+
+### Category
+Coding
+
+### Description
+- Local-first desktop coding agent, an alternative to Cursor agents, Antigravity agents, and VS Code agents
+- Bring your own key. Works with OpenAI-compatible hosts and Ollama. Keys stay in the OS keychain. There is no vixl subscription
+- Progressive tool discovery loads tool and skill detail on demand so local model prefills stay smaller
+- MCP over stdio, http, and sse
+- Originally built to run Qwen on a Halo Strix machine
+- MIT license. macOS Apple Silicon, Linux, and Windows
+
+### Links
+- [Website](https://vixl.app/)
+- [GitHub](https://github.com/vixl-ai/vixl)
+- Author: [Aidan Hibbard](https://github.com/aidanhibbard)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
