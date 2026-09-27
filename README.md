@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [AutoGAD](https://github.com/dvdobrovolskiy/AutoGAD)
+AI agent inside AutoCAD that reads, checks and draws on the live drawing
+
+<details>
+
+### Category
+CAD, Engineering, Productivity
+
+### Description
+- Open-source (AGPL) .NET plugin for AutoCAD 2025/2026. It gives Claude, or any OpenAI-compatible model (OpenAI, OpenRouter, a local server), a tool-use loop over the live drawing database
+- Reads layers, blocks, attributes, and tables. It checks drawings, replaces text across the whole drawing, and builds schedules that it exports to Excel/CSV or AutoCAD tables
+- Draws from a text description or a dimensioned sketch/photo. Every write shows a confirmation dialog with the exact change
+- Keeps per-user and per-drawing memory and reports token cost for each turn
+
+### Links
+- [GitHub](https://github.com/dvdobrovolskiy/AutoGAD)
+- [Website](https://dobrovolskiy.com/work/autogad)
+- Author: [Dmitriy Dobrovolskiy](https://github.com/dvdobrovolskiy)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
@@ -1397,6 +1418,27 @@ Build-your-own (agent-builing frameworks and platforms)
 
 </details>
 
+
+## [FreeGAD](https://github.com/dvdobrovolskiy/FreeGAD)
+AI agent inside FreeCAD that inspects, measures and edits 3D models
+
+<details>
+
+### Category
+CAD, Engineering, Productivity
+
+### Description
+- Open-source (AGPL) FreeCAD 1.0/1.1 workbench. It gives Claude, or any OpenAI-compatible model, a tool-use loop over the live FreeCAD document
+- Reads every property, expression, sketch, and spreadsheet. It takes viewport screenshots to check its own edits and measures distances, areas, and radii
+- Edits the model through `run_python` over the full FreeCAD API as one undo step, with a watchdog, a memory guard, and a confirmation dialog
+- Accepts image and PDF attachments ("model this bracket from the drawing") and uses prompt caching with a per-turn cost line
+
+### Links
+- [GitHub](https://github.com/dvdobrovolskiy/FreeGAD)
+- [Website](https://dobrovolskiy.com/work/freegad)
+- Author: [Dmitriy Dobrovolskiy](https://github.com/dvdobrovolskiy)
+
+</details>
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
