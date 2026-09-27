@@ -49,22 +49,22 @@ We structured the list into two parts:
   
 To filter the products by categories and use-cases, see the 🌟 [web version of this list](https://e2b.dev/ai-agents?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents). 🌟
 
-The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
+The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-ai-sdks">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
-For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
+For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-ai-sdks). This list is only for AI assistants and agents.
 
 <!---
 ## Who's behind this?
-This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
+This list is made by the team behind [e2b](https://github.com/e2b-dev/E2B). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 --->
 
 ## Check out E2B - Code Interpreting for AI apps
 - Check out [Code Interpreter SDK](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
-- Explore examples in [E2B Cookbook](https://github.com/e2b-dev/e2b-cookbook)
+- Explore examples in [E2B Cookbook](https://github.com/e2b-dev/E2B-cookbook)
 - Read our [docs](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
 - Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
@@ -278,7 +278,7 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
-## [Aider](https://github.com/paul-gauthier/aider)
+## [Aider](https://github.com/Aider-AI/aider)
 Use command line to edit code in your local repo
 
 <details>
@@ -380,7 +380,7 @@ General purpose
 
 ### Links
 - [Twitter](https://twitter.com/Auto_GPT/?utm_source=awesome-ai-agents)
-- [GitHub](https://github.com/Significant-Gravitas/Auto-GPT/?utm_source=awesome-ai-agents)
+- [GitHub](https://github.com/Significant-Gravitas/AutoGPT/?utm_source=awesome-ai-agents)
 - [Facebook](https://www.facebook.com/groups/1330282574368178/?utm_source=awesome-ai-agents)
 - [Linkedin](https://www.linkedin.com/company/autogpt/?utm_source=awesome-ai-agents)
 - [Discord](https://discord.gg/autogpt/?utm_source=awesome-ai-agents)
@@ -395,7 +395,7 @@ Generate code based on your project context
 <details>
 
 
-![Image](https://github.com/emrgnt-cmplxty/Automata/assets/68796651/61fe3c33-9b7a-4c1b-9726-a77140476b83)
+![Image](https://github.com/emrgnt-cmplxty/automata/assets/68796651/61fe3c33-9b7a-4c1b-9726-a77140476b83)
 
 ### Category
 Coding
@@ -712,7 +712,7 @@ Data analysis
 </details>
 
 
-## [BeeBot](https://github.com/AutoPackAI/beebot)
+## [BeeBot](https://github.com/erik-megarad/beebot)
 Early-stage project for wide range of tasks
 
 <details>
@@ -727,7 +727,7 @@ General purpose, Productivity
 
 	
 ### Links
-- [GitHub](https://github.com/AutoPackAI/beebot)
+- [GitHub](https://github.com/erik-megarad/beebot)
 - [Tweet](https://twitter.com/Douglas_Schon/status/1681094815021187072?s=20)
 </details>
 
@@ -850,10 +850,10 @@ Productivity
 - Cal.ai can book meetings, summarize your week, and find time with others based on natural language.
 - Responds flexibly to unseen tasks eg. "move my second-last meeting to tomorrow morning".
 - Uses GPT-4 and LangChain Agent Executor under the hood.
-- [GitHub](https://github.com/calcom/cal.com/tree/main/apps/ai)
+- [GitHub](https://github.com/calcom/cal.diy/tree/main/apps/ai)
 
 ### Links
-- Authors: [Cal.com core team](https://github.com/calcom/cal.com/graphs/contributors), [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
+- Authors: [Cal.com core team](https://github.com/calcom/cal.diy/graphs/contributors), [Dexter Storey](https://github.com/dexterstorey), [Ted Spare](https://github.com/tedspare)
 
 </details>
 
@@ -892,7 +892,7 @@ A chat tool for multi agent interaction
 
 <details>
 
-![image](https://github.com/Farama-Foundation/chatarena/raw/main/docs/images/chatarena_architecture.png)
+![image](https://github.com/Farama-Foundation/ChatArena/raw/main/docs/images/chatarena_architecture.png)
 
 ### Category
 Design, Build-your-own, SDK for AI apps, Multi-agent
@@ -906,7 +906,7 @@ ChatArena provides:
 
 ### Links
 - [Web](https://www.chatarena.org/)
-- [GitHub](https://github.com/Farama-Foundation/chatarena)
+- [GitHub](https://github.com/Farama-Foundation/ChatArena)
 - [X](https://twitter.com/_chatarena)
 - [Slack channel](https://chatarena.slack.com/join/shared_invite/zt-1t5fpbiep-CbKucEHdJ5YeDLEpKWxDOg#/shared-invite/email)
   
@@ -959,7 +959,7 @@ Science, Chemistry
 
 </details>
 
-## [Clippy](https://github.com/ennucore/clippy/)
+## [Clippy](https://github.com/ennucore/clippinator/)
 Agent that can plan, write, debug, and test code
 
 <details>
@@ -975,7 +975,7 @@ Coding
 - For harder tasks, the best way to use it is to look at its work and provide feedback to it.
 
 ### Links
-- [GitHub](https://github.com/ennucore/clippy/)
+- [GitHub](https://github.com/ennucore/clippinator/)
 - Author: [Lev Chizhov](http://lev.la/) 
 
 </details>
@@ -1031,7 +1031,7 @@ Coding
 An AI code assistant from Sourcegraph that writes code and answers questions for you by reading your entire codebase and the code graph.
 
 ### Links
-- [GitHub](https://github.com/sourcegraph/sourcegraph/tree/main/client/cody)
+- [GitHub](https://github.com/{"message":"Not Found","documentation_url":"https://docs.github.com/rest/repos/repos#get-a-repository","status":"404"}/tree/main/client/cody)
 - Author: [@sourcegraph](https://twitter.com/sourcegraph) (Twitter)
 
 </details>
@@ -1062,11 +1062,11 @@ Coding
 
 </details>
 
-## [CrewAI](https://github.com/joaomdmoura/crewai)
+## [CrewAI](https://github.com/crewAIInc/crewAI)
 Framework for orchestrating role-playing agents
 <details>
 
-![Image](https://github.com/joaomdmoura/crewAI/raw/main/docs/crewai_logo.png)
+![Image](https://github.com/crewAIInc/crewAI/raw/main/docs/crewai_logo.png)
 
 ### Category
 Build-your-own, SDK for agents, Multi-agent
@@ -1079,11 +1079,11 @@ Build-your-own, SDK for agents, Multi-agent
 
 
 ### Links
-- [GitHub](https://github.com/joaomdmoura/crewai)
+- [GitHub](https://github.com/crewAIInc/crewAI)
 - [Founder's X](https://twitter.com/joaomdmoura)
 - [Blog post: How to use Crew AI](https://crewai.net/posts/how-to-use-crew-ai)
-- [Crew AI Wiki with examples and guides](https://github.com/joaomdmoura/CrewAI/wiki)
-- [Docs](https://github.com/joaomdmoura/CrewAI/wiki)
+- [Crew AI Wiki with examples and guides](https://github.com/crewAIInc/crewAI/wiki)
+- [Docs](https://github.com/crewAIInc/crewAI/wiki)
 - [Discord](https://discord.com/invite/X4JWnZnxPb)
 
 </details>
@@ -1268,7 +1268,7 @@ Welcome to the AI Driven Software Development Automation Solution, abbreviated a
 
 </details>
 
-## [dotagent](https://github.com/dot-agent/dotagent)
+## [dotagent](https://github.com/dot-agent/nextpy)
 Deploy agents on cloud, PCs, or mobile devices
 
 <details>
@@ -1372,7 +1372,7 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 ### Links
 - [Web](https://fastagency.ai/latest/)
-- [GitHub](https://github.com/airtai/fastagency)
+- [GitHub](https://github.com/ag2ai/fastagency)
 
 </details>
 
@@ -1463,7 +1463,7 @@ General purpose
 - Supports GPT-3.5 & GPT-4
 
 ### Links
-- [GitHub](https://github.com/FOLLGAD/Godmode-GPT)
+- [GitHub](https://github.com/FOLLGAD/godmode)
 - Authors: [Emil Ahlbäck](https://twitter.com/emilahlback), [Lonis](https://twitter.com/_Lonis_)
 - [Discord](https://discord.com/invite/vSzCcDDwz3)
 - [Tweet](https://twitter.com/_Lonis_/status/1646641412182536196)
@@ -1526,7 +1526,7 @@ GPT Engineer is an AI agent that generates an entire codebase based on a prompt.
 
 </details>
 
-## [GPT Migrate](https://github.com/0xpayne/gpt-migrate)
+## [GPT Migrate](https://github.com/joshpxyne/gpt-migrate)
 Migrate codebase between frameworks/languages
 
 <details>
@@ -1542,7 +1542,7 @@ GOT Migrate easily migrates your codebase from one framework or language to anot
 - Ability to allow GPT Migration to generate and run unit tests for the new codebase
 - Ability to select source and target language of the migration
 - Ability to customize the agent's workflow (setup -> migrate -> test)
-- GPT Migrate team is working on adding [benchmarks](https://github.com/0xpayne/gpt-migrate#-benchmarks) for the agent
+- GPT Migrate team is working on adding [benchmarks](https://github.com/joshpxyne/gpt-migrate#-benchmarks) for the agent
 
 ### Links
 - [Website](https://gpt-migrate.com/)
@@ -1854,12 +1854,12 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
-## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
+## [Loop GPT](https://github.com/vitalops/openvibe/tree/main)
 Re-implementation of AutoGPT as a Python package
 
  <details>
 
- ![image](https://github.com/farizrahman4u/loopgpt/raw/main/docs/assets/imgs/loopgpt_demo_pic.png?raw=true)
+ ![image](https://github.com/vitalops/openvibe/raw/main/docs/assets/imgs/loopgpt_demo_pic.png?raw=true)
 
 ### Category
 General purpose
@@ -1886,7 +1886,7 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
-## [L2MAC](https://github.com/samholt/l2mac)
+## [L2MAC](https://github.com/samholt/L2MAC)
 Agent framework able to produce large complex codebases and entire books
 
 <details>
@@ -1907,7 +1907,7 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 
 
 ### Links  
-- [GitHub](https://github.com/samholt/l2mac)
+- [GitHub](https://github.com/samholt/L2MAC)
 - [Discord](https://discord.gg/z27CxnwdhY)
 - [Twitter](https://twitter.com/samianholt)
 - [Paper - L2MAC: Large Language Model Automatic Computer for Extensive Code Generation](https://arxiv.org/abs/2310.02003)
@@ -1996,7 +1996,7 @@ Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Int
 </details>
 
 
-## [MemGPT](https://github.com/cpacker/MemGPT)
+## [MemGPT](https://github.com/letta-ai/letta)
 Memory management system, providing context to LLM
 
 <details>
@@ -2019,7 +2019,7 @@ Memory management, Data analysis
 
 </details>
 
-## [Mentat](https://github.com/biobootloader/mentat)
+## [Mentat](https://github.com/AbanteAI/archive-old-cli-mentat)
 Assists you with coding task from command line
 
 <details>
@@ -2042,12 +2042,12 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 </details>
 
 
-## [MetaGPT](https://github.com/geekan/MetaGPT)
+## [MetaGPT](https://github.com/FoundationAgents/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
 <details>
 
- ![image](https://github.com/geekan/MetaGPT/raw/main/docs/resources/MetaGPT-new-log.png)
+ ![image](https://github.com/FoundationAgents/MetaGPT/raw/main/docs/resources/MetaGPT-new-log.png)
 
 ### Category
 Multi-agent, Coding, Build your own
@@ -2063,7 +2063,7 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 
 ### Links  
-- [GitHub](https://github.com/geekan/MetaGPT)
+- [GitHub](https://github.com/FoundationAgents/MetaGPT)
 - [Discord](https://discord.com/invite/4WdszVjv)
 - [Twitter](https://twitter.com/DeepWisdom2019)
 - [Paper - MetaGPT: Meta Programming for Multi-Agent Collaborative Framework](https://arxiv.org/abs/2308.00352)
@@ -2119,7 +2119,7 @@ Multiagent Debate is an implementation of the paper "Improving Factuality and Re
 </details>
 
 
-## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
+## [Multi GPT](https://github.com/sidhq/Multi-GPT)
 Experimental multi-agent system
 
 <details>
@@ -2171,11 +2171,11 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
-## [NLSOM](https://github.com/mczhuge/NLSOM)
+## [NLSOM](https://github.com/metauto-ai/Mindstorm)
 Natural Language-Based Societies of Mind
 <details>
 
- ![image](https://github.com/mczhuge/NLSOM/raw/main/assets/nlsom.svg)
+ ![image](https://github.com/metauto-ai/Mindstorm/raw/main/assets/nlsom.svg)
 
 ### Category
 Science, Multimodal, Social, Multi-agent
@@ -2189,7 +2189,7 @@ Science, Multimodal, Social, Multi-agent
 - "What magical trick makes us intelligent? The trick is that there is no trick. The power of intelligence stems from our vast diversity, not from any single, perfect principle." — Marvin Minsky, The Society of Mind, p. 308
 
 ### Links
-- [GitHub](https://github.com/mczhuge/NLSOM)
+- [GitHub](https://github.com/metauto-ai/Mindstorm)
 - [Paper](https://arxiv.org/pdf/2305.17066.pdf)
 - [Author's X - Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
 - [Author's X - Mingchen Zhuge](https://twitter.com/MingchenZhuge)
@@ -2253,12 +2253,12 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
-## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+## [OpenDevin](https://github.com/OpenHands/OpenHands)
 OpenDevin: Code Less, Make More
 
 <details>
 
-![Image](https://github.com/OpenDevin/OpenDevin/raw/main/logo.png)
+![Image](https://github.com/OpenHands/OpenHands/raw/main/logo.png)
 ### Category
 Coding, general purpose
 
@@ -2268,7 +2268,7 @@ Coding, general purpose
 
 
 ### Links
-- [GitHub](https://github.com/OpenDevin/OpenDevin)
+- [GitHub](https://github.com/OpenHands/OpenHands)
 
 </details>
 
@@ -2291,7 +2291,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 ### Links
 - [Web](https://openinterpreter.com/)
-- [GitHub](https://github.com/KillianLucas/open-interpreter)
+- [GitHub](https://github.com/openinterpreter/openinterpreter)
 - [Author's Twitter](https://twitter.com/hellokillian)
 
 </details>
@@ -2339,7 +2339,7 @@ Private GPT is A tool for private interaction with documents, without a need for
 
 
 ### Links
-- [GitHub](https://github.com/imartinez/privateGPT)
+- [GitHub](https://github.com/zylon-ai/private-gpt)
 
 </details>
 
@@ -2500,7 +2500,7 @@ Superagent is not a single agent, but a tool that allows creating agents without
 - There are two main types of agents: action agents and plan-and-execute agents
 
 ### Links
-- [GitHub](https://github.com/homanp/superagent)
+- [GitHub](https://github.com/superagent-ai/superagent)
 - [Documentation](https://docs.superagent.sh/introduction)
 - [Discord](https://discord.com/invite/mhmJUTjW4b)
 - Author: [Ismail Pelaseyed](https://twitter.com/pelaseyed)
@@ -2574,12 +2574,12 @@ General purpose
 </details>
 
 
-## [SWE Agent](https://github.com/princeton-nlp/SWE-agent)
+## [SWE Agent](https://github.com/SWE-agent/SWE-agent)
 Open-source Devin alternative
 
 <details>
 
-![Image](https://github.com/princeton-nlp/SWE-agent/raw/main/assets/swe-agent-banner.png)
+![Image](https://github.com/SWE-agent/SWE-agent/raw/main/assets/swe-agent-banner.png)
 ### Category
 Coding, general purpose
 
@@ -2603,7 +2603,7 @@ Coding, general purpose
 
 
 ### Links
-- [GitHub](https://github.com/princeton-nlp/SWE-agent)
+- [GitHub](https://github.com/SWE-agent/SWE-agent)
 - [Web](https://swe-agent.com/)
 - [Demo](https://swe-agent.com/demo)
 - [Discord](https://discord.com/invite/AVEFbBn2rH)
@@ -2782,7 +2782,7 @@ Blockchain, Coding, Generating apps, Smart contract
 
 ### Links
 - [Web](https://w3gpt.ai/)
-- [GitHub](https://github.com/markeljan/web3gpt?tab=readme-ov-file)
+- [GitHub](https://github.com/Markeljan/web3gpt?tab=readme-ov-file)
 - [Founder's X](https://twitter.com/0xmarkeljan)
 - [Founder's LinkedIn](https://www.linkedin.com/in/markeljan/)
 
@@ -2915,7 +2915,7 @@ XAgent is an open-source experimental Large Language Model (LLM) driven autonomo
 
 </details>
 
-## [yAgents](https://github.com/yeagerai/yeagerai-agent)
+## [yAgents](https://github.com/genlayerlabs/yeagerai-agent)
 Capable of designing, coding and debugging tools
 
 <details>
@@ -2938,9 +2938,9 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 	- Not tested for Windows systems
 
 ### Links
-- [GitHub Repository](https://github.com/yeagerai/yeagerai-agent/?utm_source=awesome-ai-agents)
+- [GitHub Repository](https://github.com/genlayerlabs/yeagerai-agent/?utm_source=awesome-ai-agents)
 - [Discord](https://discord.com/invite/wKds24jdAX/?utm_source=awesome-ai-agents)
-- [License: MIT](https://github.com/yeagerai/yeagerai-agent/blob/main/LICENSE/?utm_source=awesome-ai-agents)
+- [License: MIT](https://github.com/genlayerlabs/yeagerai-agent/blob/main/LICENSE/?utm_source=awesome-ai-agents)
 
 </details>
 
@@ -3796,7 +3796,7 @@ Cursor is the AI-first Code Editor. Build software faster in an editor designed 
 
 ### Links
 - [Website](https://www.cursor.so/)
-- [GitHub (Issue Only)](https://github.com/getcursor/cursor)
+- [GitHub (Issue Only)](https://github.com/cursor/cursor)
 - [Discord](https://discord.com/invite/PJEgRywgRy)
 
 </details>
