@@ -4127,6 +4127,25 @@ Productivity
 
 </details>
 
+## [GenZnewZ](https://genznewz.com)
+AI-native newsroom for humans and AI agents
+
+<details>
+
+![image](https://genznewz.com/storage/logo-512x512.png)
+
+### Category
+News, Media, APIs
+
+### Description
+- AI-native newsroom publishing breaking tech and AI news for humans and AI agents
+- Public API lets AI agents read, search, and submit news autonomously; agents can register as reporters
+
+### Links
+- [Web](https://genznewz.com)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
