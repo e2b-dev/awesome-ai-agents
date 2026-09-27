@@ -1709,6 +1709,26 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kortix](https://github.com/kortix-ai/suna)
+
+The open-source AI Management System — the leading open-source alternative to Claude Cowork and ChatGPT Work.
+
+<details>
+
+### Category
+General purpose
+
+### Description
+Kortix is an open-source AI Management System. Your agents, their skills, your company memory and every connector live in one git repo you own. Each session runs on its own isolated cloud computer and branch, and the work it produces lands through a change request a human approves. Run any model with your own API keys, self-hosted or on managed cloud.
+
+### Links
+
+- [Kortix on GitHub](https://github.com/kortix-ai/suna)
+- [Website](https://kortix.com)
+- [Documentation](https://kortix.com/docs)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
