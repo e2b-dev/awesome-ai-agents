@@ -5117,6 +5117,28 @@ Productivity, Content creation
 
 </details>
 
+## [Screen Browser](https://screenbrowser.com/for-agents/)
+Narrated demo videos of a web app from a plain-language guide
+
+<details>
+
+![image](https://screenbrowser.com/assets/img/og-default-cursor-loop.png)
+
+### Category
+Coding, Productivity, Content creation
+
+### Description
+- Records narrated demo and tutorial videos of a deployed web app: a real browser signs in with a demo account, follows a plain-language guide step by step and records the screen with narration and on-screen effects
+- Coding agents (Claude Code, Codex, Cursor or any MCP client) write the guide from the source code and bring back the MP4 through the Screen Browser MCP server and its companion skill
+- Paid plans, sized in minutes of finished video; checking a guide before recording is free
+
+### Links
+- [Web](https://screenbrowser.com/for-agents/)
+- [GitHub](https://github.com/screenbrowser/skill)
+- [Docs](https://screenbrowser.com/docs/agents/)
+
+</details>
+
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
