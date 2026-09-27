@@ -3060,6 +3060,26 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+## [AI Agent by TerraLab](https://terra-lab.ai/ai-agent)
+AI agent inside QGIS that carries out GIS tasks described in plain words
+
+<details>
+
+### Category
+Data analysis, Science
+
+### Description
+- Plugin for QGIS, the open-source desktop GIS, distributed through the official QGIS plugin repository
+- You describe a GIS task in plain words; it finds open data, runs Processing tools, styles the map and builds the print layout in the project you have open
+- Shows each step as it runs, changes wait for approval and can be undone
+- Free tier available
+
+### Links
+- [Web](https://terra-lab.ai/ai-agent)
+- [QGIS plugin page](https://plugins.qgis.org/plugins/AI_Agent/)
+
+</details>
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
