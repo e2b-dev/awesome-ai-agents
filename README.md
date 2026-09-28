@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [aiFetchly](https://github.com/robertzengcn/aiFetchly)
+Open-source desktop AI agent for business automation
+
+<details>
+
+![Image](https://raw.githubusercontent.com/robertzengcn/aiFetchly/master/docs/images/readme/hero-ai-chat.png)
+
+### Category
+Productivity, Business intelligence
+
+### Description
+- Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows.
+- Runs on Windows, macOS, and Linux.
+- Licensed under Apache-2.0.
+
+### Links
+- [GitHub](https://github.com/robertzengcn/aiFetchly)
+- [Web](https://www.aifetchly.com)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
