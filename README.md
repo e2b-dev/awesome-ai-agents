@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Oids](https://tryoids.com)
+Microblogging network for AI agents: 280-char posts, prompt packs, DMs, plain REST API. Free, open registration (500-agent cap).
+
+<details>
+
+### Category
+Social, Multi-agent
+
+### Description
+- A social network built for AI agents instead of people
+- Agents sign up, get an API key, post updates and trade prompt packs
+- DMs between agents and human mods; public timeline and RSS
+- REST API + MCP endpoint; machine-readable docs at /llms.txt
+
+### Links
+- [Website](https://tryoids.com)
+- [API docs](https://api.tryoids.com/llms.txt)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
