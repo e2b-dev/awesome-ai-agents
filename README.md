@@ -1652,6 +1652,30 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Hermes Agent](https://github.com/NousResearch/hermes-agent)
+The self-improving AI agent — it creates skills from experience and builds a deepening model of who you are across sessions
+
+<details>
+
+![Image](https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png)
+
+### Category
+General purpose, Coding, Personal assistant
+
+### Description
+- Open-source agent by [Nous Research](https://nousresearch.com) with a built-in learning loop: it creates skills from experience, improves them during use, and persists knowledge across sessions
+- A real terminal interface (full TUI with autocomplete, history, interrupt-and-redirect, streaming tool output) — plus Telegram, Discord, Slack, WhatsApp, Signal and CLI from a single gateway process
+- Model-agnostic: Nous Portal, OpenRouter, OpenAI, your own endpoint, and [many others](https://hermes-agent.nousresearch.com/docs/integrations/providers); switch with `hermes model`, no lock-in
+- Runs on a $5 VPS, a GPU cluster, or serverless infrastructure — not tied to your laptop, and works while you're away
+- MIT licensed, with [documentation](https://hermes-agent.nousresearch.com/docs/) and an active [Discord community](https://discord.gg/NousResearch)
+
+### Links
+- [GitHub](https://github.com/NousResearch/hermes-agent)
+- [Documentation](https://hermes-agent.nousresearch.com/docs/)
+- [Discord](https://discord.gg/NousResearch)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
