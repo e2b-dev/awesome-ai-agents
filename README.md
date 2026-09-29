@@ -2253,6 +2253,29 @@ OpenAGI is an open-source AGI R&D platform that enables agents for both benchmar
 
 </details>
 
+## [OpenAmer](https://github.com/openamer/openamer)
+The self-improving, self-learning open-source AI agent for Windows
+
+<details>
+
+### Category
+General purpose, Computer-use, Multi-agent
+
+### Description
+- **Real desktop control**: drives files, browser (via CDP), terminal and GUI — not just an API wrapper
+- **A2A Global Mesh**: every OpenAmer instance discovers and talks to every other instance; no broker, no cloud account. A GPU-less laptop can delegate inference to a desktop with a GPU
+- **ASI Core in-process**: 5 native cognition tools (`think`, `learn`, `remember`, `trigger`, `heartbeat`) run in the same process as the agent, no subprocess or sidecar
+- **10-subsystem heartbeat**: one upkeep loop that wakes identity, memory, self-model, skills, plugins, world-model, learning, outreach, health and energy on their own cadences — replaced 84 individual cron jobs
+- **Self-improving**: writes its own skills, audits its own code, and re-measures every identity claim instead of asserting it
+- **Persistent vector memory** plus episodic recall over past sessions
+- **Fully local**: Apache 2.0, Windows-native, runs without any hosted backend
+
+### Links
+- [GitHub](https://github.com/openamer/openamer)
+- [Docs / Landing](https://openamer.github.io/openamer/)
+
+</details>
+
 ## [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 OpenDevin: Code Less, Make More
 
