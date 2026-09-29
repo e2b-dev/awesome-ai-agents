@@ -3644,6 +3644,38 @@ Coding, Multi-agent, GitHub
 </details>
 
 
+
+## [Claix](https://www.claix.dev/)
+Structured, source-traceable knowledge agentic infrastructure for AI agents
+
+<details>
+
+![image](https://yuhcusjiywsuzjwirarw.supabase.co/storage/v1/object/public/logos_url/Captura%20de%20pantalla%202026-08-09%20131354.png)
+
+### Category
+Business intelligence, Data analysis, Productivity, Build-your-own
+
+### Description
+- Claix gives AI agents structured, source-traceable context from unstructured business content.
+- It transforms PDFs, spreadsheets, documents, images, text, HTML, XML, and audio into schema-validated typed JSON.
+- Agents can persist processed content and ask follow-up questions without re-uploading it.
+- Knowledge Spaces let agents connect, compare, and query information across multiple related documents.
+- Knowledge Spaces provide a structured alternative to traditional RAG for document workflows: agents can query, compare, and cross-reference persisted content across related documents instead of relying only on chunk retrieval.
+- Agent Mode supports semantic rules and typed inferences for document and data workflows.
+- Integrates through REST API, webhooks, MCP, and A2A for custom agents, applications, and automation workflows.
+
+### Links
+- [Website](https://www.claix.dev/)
+- [Documentation](https://claix.dev/documentation)
+- [MCP Server](https://claix.dev/mcp)
+- [GitHub](https://github.com/claix-dev/claix-for-devs)
+- [Agent Card](https://claix.dev/.well-known/agent-card.json)
+- [Gael Anaya - Founder of Claix](https://www.linkedin.com/in/gael-anaya-59a297387/)
+
+</details>
+
+
+
 ## [Codegen](https://www.codegen.com/)
 Solve tickets, write tests, level up your workflow
 
