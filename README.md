@@ -3965,6 +3965,28 @@ Ducklings chat with users to define their goals, come up with engineering design
 
 </details>
 
+## [echo agent](https://echoagent.dev/)
+Voice agent for macOS that hands spoken tasks to Claude Code and Codex
+
+<details>
+
+![image](https://echoagent.dev/media/og-en.png)
+
+### Category
+Coding, Productivity
+
+### Description
+- Press Fn+Space in any app and say the task; speech is recognized on-device (English and Chinese)
+- Hands coding tasks to the Claude Code or Codex CLI installed on the Mac and runs them in the background with the user's own permission settings
+- Can capture the current window and answer questions about it, or send the screenshot along with a coding task
+- Free download with a free daily quota for the built-in model, or bring your own API key
+- Developer preview; macOS 15 or later on Apple silicon
+
+### Links
+- [Web](https://echoagent.dev/)
+
+</details>
+
 ## [Ellipsis](https://ellipsis.dev/?utm_source=awesome-ai-agents)
 (Previously BitBuilder) "Automated code reviews and bug fixes"
 
