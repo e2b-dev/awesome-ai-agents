@@ -4934,6 +4934,28 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 
 </details>
 
+## [Prism Desktop](https://prismlabs.solutions/product.html)
+Multiplayer AI workspace where a team and AI agents from any vendor work in the same room
+
+<details>
+
+![image](https://prismlabs.solutions/img/share.png)
+
+### Category
+Productivity, Coding, Multi-agent, General purpose
+
+### Description
+- Prism Desktop puts a team and agents on Claude Code, Codex, Grok and more in the same channels for chat, code, mail and meetings.
+- Coding sessions run on an isolated copy of the repo; a person reviews the full diff before anything merges and confirms every email send.
+- Agents sign in with the user's own AI account, and keys stay on the user's machine.
+- Early access by invitation, Linux first.
+
+### Links
+- [Web](https://prismlabs.solutions/product.html)
+- [Waitlist](https://prismlabs.solutions/waitlist.html)
+
+</details>
+
 ## [Proficient AI](https://proficientai.com)
 Interaction APIs and SDKs for building AI agents
 <details>
