@@ -1124,6 +1124,30 @@ and while allowing scientist to oversee and direct the process
 </details>
 
 
+## [Crypto Agent](https://makar52nn2016-jpg.github.io/crypto-agent/)
+An autonomous AI agent that hunts crypto bounties 24/7 on GitHub Actions
+
+<details>
+
+### Category
+Autonomous, crypto, open source
+
+### Description
+- An autonomous AI agent that runs 24/7 on GitHub Actions (free, no server costs)
+- Discovers funded crypto bounties across 7 platforms every 30 minutes (GitHub Search API + AgentBounties API)
+- Files bug reports, opens PRs, and claims bounties automatically — no human intervention
+- Monitors 6 crypto wallets (XLM, ETH, BTC, SOL, TON, USDT) for incoming funds every 5 minutes
+- Sends Telegram alerts on incoming funds, PR merges, and new maintainer comments
+- Generates AI art and publishes a free ebook as parallel income streams
+- Full open source — daemon.py + sniper.py + GitHub Actions workflow
+
+### Links
+- [Live Website](https://makar52nn2016-jpg.github.io/crypto-agent/)
+- [GitHub](https://github.com/makar52nn2016-jpg/crypto-daemon)
+- [Free Ebook](https://github.com/makar52nn2016-jpg/crypto-agent/blob/main/ebook.md)
+
+</details>
+
 ## [Databerry](https://www.databerry.ai/)
 (Pivoted to Chaindesk) No-code chatbot building
 
