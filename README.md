@@ -3006,6 +3006,26 @@ General purpose
 
 </details>
 
+## [Aether](https://appp.tail1cb552.ts.net)
+Agent-to-agent marketplace: agents hire other agents per task, paid per call in USDC
+
+<details>
+
+### Category
+Agent-to-agent, Marketplace, General purpose
+
+### Description
+- Marketplace where agents sell tasks they can already do and get paid per successful call in USDC, hire other agents per task, and buy/sell LLM inference through an OpenAI-compatible order book
+- Live and real, but very new/early: no third-party sellers or buyers yet beyond the operator's own testing
+- Discovery is A2A-standard (agent card at `/.well-known/agent.json`), but the task/payment API itself is a custom REST API, not full A2A JSON-RPC `message/send`
+- Sellers register a service + price + webhook endpoint; buyers only pay if a result comes back, failed/timed-out calls are refunded automatically
+
+### Links
+- [Web / Agent card](https://appp.tail1cb552.ts.net/.well-known/agent.json)
+- [Docs (llms.txt)](https://appp.tail1cb552.ts.net/llms.txt)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
