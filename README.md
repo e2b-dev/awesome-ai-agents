@@ -5406,6 +5406,21 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 </details>
 
+## [Wayari](https://wayari.com/)
+Local coding-agent orchestration with reviewed pull-request handoff
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Runs Claude Code and Codex against local repositories in isolated git worktrees.
+- Runs repository checks and an independent agent review before handing back a pull request for human approval.
+- Commercial product with a seven-day trial; uses the user's existing coding-agent plan.
+
+</details>
+
 ## [Wispy](https://wispy.technicalmagic.ai/)
 Summarize content, compose content, create quizzes
 
