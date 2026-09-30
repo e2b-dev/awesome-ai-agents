@@ -2636,6 +2636,23 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Turbo Flow](https://github.com/marcuspat/turbo-flow)
+
+An open-source, Codespaces-native agentic development environment: one command brings up the full stack and agents build inside a governed rig. Fail-closed cross-model review gate (a different model family reviews every diff read-only and must return APPROVED or REVISE), git-versioned agent memory, markdown constitution, 60+ subagents. Also ships rig-lite, the standalone governance kit. The builder-not-equal-to-reviewer design is backed by a controlled 116-task study (71.6% to 89.7% pass rate with cross-family review).
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Codespaces-first: one command brings up the full agentic stack
+- Cross-model review gate, fail-closed: APPROVED or REVISE verdicts, builder and reviewer never from the same model family
+- rig-lite: standalone cross-model governance kit (bash + Python, bring your own AI subscriptions)
+- Git-versioned agent memory and a written constitution governing agents' behavior
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
