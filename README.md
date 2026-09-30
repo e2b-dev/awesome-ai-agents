@@ -3825,6 +3825,25 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [DDMarketer](https://www.ddmarketer.com/)
+Validated SaaS ideas mined from real user complaints, served to agents over MCP
+
+<details>
+
+### Category
+Research, Marketing, Business intelligence
+
+### Description
+DDMarketer mines real user complaints from 8 platforms (Reddit, Hacker News, Twitter/X, forums, app stores, GitHub, Stack Exchange, Trustpilot) and scores 900+ SaaS opportunities 0-100 for buying intent
+- Each opportunity comes with evidence from the source complaints and a validation playbook
+- Available as a hosted MCP server at https://www.ddmarketer.com/api/mcp — agents can search gaps, pull top opportunities and read playbooks with no install and no API key for the free tier
+
+### Links
+- [Web](https://www.ddmarketer.com/)
+- [GitHub](https://github.com/CodePhantom-1/ddmarketer-mcp)
+  
+</details>
+
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
