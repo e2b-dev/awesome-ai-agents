@@ -320,6 +320,25 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Ankita](https://github.com/akyourowngames/A.N.K.I.T.A)
+
+<details>
+
+### Category
+Desktop AI assistant
+
+### Description
+- Open-source desktop + terminal AI assistant that acts: 24 tools covering shell, files, git, HTTP, todos, and a real Playwright-driven browser
+- Voice input/output, persistent personal + project memory, scheduled routines, page watches, and a two-way Telegram inbox
+- Plugin/skill system, MCP servers and Composio app integrations; local-first
+- MIT licensed; Windows installer with auto-update via GitHub Releases
+
+### Links
+- [GitHub](https://github.com/akyourowngames/A.N.K.I.T.A)
+- [Releases](https://github.com/akyourowngames/A.N.K.I.T.A/releases)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
