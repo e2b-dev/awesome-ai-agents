@@ -980,6 +980,25 @@ Coding
 
 </details>
 
+## [Code-Crafter](https://github.com/anandgupta193/code-crafter)
+Turns Jira tickets into review-ready GitHub pull requests
+
+<details>
+
+### Category
+Coding, productivity
+
+### Description
+- Self-hosted, ticket-driven coding agent: a Slack message becomes a Jira ticket, and posting the ticket key spins up a disposable Docker container where Claude Code works on it and opens a draft pull request
+- Review comments and CI failures on the PR are routed back to the same agent session; merging moves Jira to Done and cleans up
+- A Neo4j architecture graph built from each repo's manifest and docs briefs the agent before it starts (Graph RAG) and is available mid-task as a read-only MCP server
+- Guardrails: PRs stay draft, the agent never merges, and the repo's own lint, typecheck and build must pass
+
+### Links
+- [GitHub](https://github.com/anandgupta193/code-crafter)
+
+</details>
+
 ## [CodeFuse-ChatBot](https://github.com/codefuse-ai/codefuse-chatbot)
 Agent serving entire SW development lifecycle
 <details>
