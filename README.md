@@ -4743,6 +4743,28 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [Manifest API Bot](https://manifest.build/api-bot/)
+Dependabot for APIs: pull requests that fix your code when an API changes
+
+<details>
+
+![image](https://manifest.build/api-bot/og.png)
+
+### Category
+Coding, GitHub
+
+### Description
+- GitHub App that finds the third-party APIs a repository calls and checks them for changes every day
+- When a breaking change, deprecation or field behavior change affects the code, it uses an LLM to write the fix and opens a pull request
+- Each pull request names the API, what changed, the effective date and the affected files
+- Works with any API, no OpenAPI spec needed; one-click install, free to start
+
+### Links
+- [Web](https://manifest.build/api-bot/)
+- [GitHub App](https://github.com/apps/manifest-api-bot)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
