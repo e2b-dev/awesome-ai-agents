@@ -4617,6 +4617,27 @@ Productivity
 </details>
 
 
+## [Liaison](https://useliaison.com/)
+An AI agent that works a small business's inbox, calendar, books and CRM around the clock
+
+<details>
+
+### Category
+General purpose, Productivity, Business intelligence
+
+### Description
+- Connects to the tools a business already runs (Gmail and Outlook, Google and Outlook calendars, QuickBooks, Stripe, HubSpot, Slack and more) and reads them as one memory of the business
+- Works overnight in the owner's own accounts and voice: drafts replies, fills schedule gaps, chases overdue invoices, and leaves a morning brief of what it did and what needs a decision
+- Operates any tool with a login in its own secured browser; anything that moves money waits for approval
+- Reachable by text, WhatsApp, Telegram, Slack and the inbox
+
+### Links
+- [Website](https://useliaison.com/)
+- [Integrations](https://useliaison.com/integrations)
+- [Pricing](https://useliaison.com/pricing)
+
+</details>
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
