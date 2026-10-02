@@ -1886,6 +1886,27 @@ Loop GPT is a re-implementation of the popular Auto-GPT project as a proper pyth
 -->
 </details>
 
+## [LR-Agent](https://github.com/LLR6/LR-agent)
+Local coding agent with isolated patch verification and maintenance regression experiments
+
+<details>
+
+### Category
+Coding, Debugging, Research
+
+### Description
+- A Python coding agent with local file and command tools and an OpenAI-compatible model interface.
+- ChronoForge replays original tests across isolated maintenance workspaces and records regression evidence.
+- Includes a reproducible offline case: adding a compatible timeout key passes both original tests; removing the legacy fallback produces a real pytest failure. Maintenance is scripted in this case; it is not an LLM benchmark.
+- Research prototype; synthetic maintenance scenarios do not establish production reliability.
+
+### Links
+- [GitHub](https://github.com/LLR6/LR-agent)
+- [Reproducible case and article](https://github.com/LLR6/LR-agent/blob/main/docs/CASE_CHRONOFORGE_OFFLINE.md)
+- [Execution evidence](https://github.com/LLR6/LR-agent/blob/main/docs/cases/chronoforge-offline/evidence.json)
+
+</details>
+
 ## [L2MAC](https://github.com/samholt/l2mac)
 Agent framework able to produce large complex codebases and entire books
 
