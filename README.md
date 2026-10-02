@@ -4361,6 +4361,28 @@ Productivity
 
 </details>
 
+## [Hivemeld](https://hivemeld.com?utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
+Run your company with autonomous AI agents
+
+<details>
+
+### Category
+General purpose, Multi-agent, Business intelligence, Productivity
+
+### Description
+- Deploy, manage, and scale an AI agent workforce to run your entire company
+- Agents handle engineering, marketing, support, finance, and more — while you focus on strategy
+- Real-time dashboard with live activity feed, agent health monitoring, and KPI tracking
+- Built-in backlog management, CRM, knowledge wiki, and cost analytics
+- Discord integration: agents collaborate via channels, not just prompts
+- 1,000+ tasks completed in production across real workspaces
+
+### Links
+- [Web](https://hivemeld.com?utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
+- [Pricing](https://hivemeld.com/buy?plan=annual&utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
+
+</details>
+
 ## [iMean.AI](https://www.imean.ai/)
 AI personal assistant that automates browser task
 
