@@ -95,6 +95,27 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [agent001](https://github.com/priors-agents/agent001)
+Open-source agent with its own wallet and an on-chain credit line, that repays on time by itself
+
+<details>
+
+### Category
+Finance, General purpose, Build-your-own
+
+### Description
+- Holds its own wallet on Robinhood Chain and joins the Priors credit pool: an ERC-8004 identity and a first USDG credit line.
+- Borrows and repays before every due date on its own (an autopilot), building a public repayment record that reviews can't fake.
+- Sells a paid API over x402 and receives the payments in its own wallet, optionally refusing buyers with a bad credit record.
+- Talks from a CLI or Telegram with Claude or any OpenAI-compatible model; only the owner's chat can move money, and spending caps are checked twice.
+- Runs the whole loop on a local fork with play money; Docker, Railway and Fly templates for running it for good. MIT.
+
+### Links
+- [GitHub](https://github.com/priors-agents/agent001)
+- [Priors](https://priors.trade)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
