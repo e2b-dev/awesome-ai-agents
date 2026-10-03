@@ -732,6 +732,27 @@ General purpose, Productivity
 </details>
 
 
+## [Benzi](https://github.com/oooscoos/Benzi)
+Compiler-backed coding agent
+
+<details>
+
+### Category
+Coding
+
+### Description
+
+- Compiles a codebase (10 languages) into a resolved map of calls, data flow, control flow and class hierarchy, then reads, edits and verifies code through it
+- Syntax-gated writes with auto-revert; runtime tracer settles what static analysis can't
+- 78.2% (391/500) on SWE-bench Verified
+- VS Code extension, headless CLI and MCP server; bring your own model
+
+### Links
+- [GitHub](https://github.com/oooscoos/Benzi)
+- [Website](https://varianttech.net)
+
+</details>
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
