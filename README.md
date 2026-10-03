@@ -2372,6 +2372,25 @@ Productivity, General purpose
 </details>
 
 
+## [Qadam Flow](https://github.com/aiqadam/qadam-flow)
+Open-source, self-hosted workflow automation platform where AI agents build and run automations over 238 integrations through MCP
+
+<details>
+
+### Category
+Productivity, Build-your-own
+
+### Description
+- Visual no-code flow builder with AI steps, 238 integrations (27 core + 211 community) and a built-in MCP server
+- Any MCP-compatible agent (Claude, Cursor, …) can create, validate, publish and run flows, and call any connected app as a tool
+- MIT fork of Activepieces with the enterprise-licensed code removed, so SSO, RBAC and audit logs are free
+- UI in English, Russian, Uzbek and Kazakh; ships as a single Docker image
+
+### Links
+- [GitHub](https://github.com/aiqadam/qadam-flow)
+- [Website](https://flow.aiqadam.org)
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
