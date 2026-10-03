@@ -3107,6 +3107,33 @@ Build-your-own, Productivity
 </details>
 
 
+## [AiRC Orchestration](https://github.com/AiRC-ai/AiRC-Orchestration)
+Desktop AI agents with configurable model teams, tools, persistent goals, and supervision
+
+<details>
+
+### Category
+
+General purpose, Coding, Productivity, Multi-agent
+
+### Description
+
+- Desktop agent application for Windows, macOS, and Linux that carries out coding, research, and automation tasks using configured models and tools.
+- A primary agent delegates scoped work to parallel workers, follows their tool activity, and combines their results. Workers can use the same model or different supported models, subject to configured concurrency and provider limits.
+- Supports local Ollama, remote Ollama servers, Ollama Cloud, DeepSeek, and other supported hosted providers.
+- Keeps projects, task history, goals, and plans together, with approval controls and optional review by a separate model.
+- Connects MCP tools and supports scheduled workflows.
+- Proprietary software available for personal evaluation and testing under its published license. Other uses require written authorization; model-provider charges may apply.
+
+### Links
+
+- [Product and public repository](https://github.com/AiRC-ai/AiRC-Orchestration)
+- [Download the latest release](https://github.com/AiRC-ai/AiRC-Orchestration/releases/latest)
+- [Website](https://airc.ai/)
+- [License](https://github.com/AiRC-ai/AiRC-Orchestration/blob/main/LICENSE)
+
+</details>
+
 ## [Airkit.ai](https://www.airkit.ai)
 Platform for building, testing, deploying Agents
 
