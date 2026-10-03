@@ -2458,6 +2458,32 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [Solenta](https://github.com/currentbits/solenta)
+Local-first desktop control surface for coding agents, with shared memory across every agent
+
+<details>
+
+![image](https://raw.githubusercontent.com/currentbits/solenta/main/assets/screenshot.png)
+
+### Category
+Coding, Multi-agent, GitHub
+
+### Description
+Solenta is a free, open-source (MIT) desktop app for macOS, Windows and Linux that drives the coding-agent CLIs you already have installed
+- Bring your own agents: Claude Code, Codex, Cursor, Kimi, Grok and OpenCode, found on your PATH
+- Shared memory: a local memory server (SQLite with FTS + vector search, HTTP + MCP, localhost-only) is injected into every agent session, so what one thread learns the next one knows
+- Planboard is plain GitHub issues with labels; Start task on a card opens an agent thread on that issue
+- One git worktree per thread, so agents run in parallel without stepping on each other
+- Multi-phase build workflows (seed, analyze, verify, judge, synthesize) with a provider per phase
+- Everything runs locally, no cloud component or account
+
+### Links
+- [Website](https://solenta.app)
+- [GitHub](https://github.com/currentbits/solenta)
+- [Docs](https://solenta.app/docs.html)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
