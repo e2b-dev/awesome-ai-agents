@@ -4361,7 +4361,7 @@ Productivity
 
 </details>
 
-## [Hivemeld](https://hivemeld.com?utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
+## [Hivemeld](https://hivemeld.ai?utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
 Run your company with autonomous AI agents
 
 <details>
@@ -4378,8 +4378,8 @@ General purpose, Multi-agent, Business intelligence, Productivity
 - 1,000+ tasks completed in production across real workspaces
 
 ### Links
-- [Web](https://hivemeld.com?utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
-- [Pricing](https://hivemeld.com/buy?plan=annual&utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
+- [Web](https://hivemeld.ai?utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
+- [Pricing](https://hivemeld.ai/buy?plan=annual&utm_source=e2b-awesome&utm_medium=awesome-list&utm_campaign=GRO-089)
 
 </details>
 
