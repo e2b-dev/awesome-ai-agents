@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [AntiGravity Starter Kit](https://github.com/patrykmazur998/antigravity-starter-kit)
+Ultra-lean rules template and CLI optimizer for AI coding agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/patrykmazur998/antigravity-starter-kit/main/assets/demo.gif)
+
+### Category
+Coding, Developer Tools, Open Source
+
+### Description
+- Ultra-lean AGENTS.md template (<40 lines) to eliminate context bloat and hallucination in AI coding assistants (Cursor, Windsurf, Claude Code, Antigravity).
+- Built-in zero-dependency Token Inspector CLI tool to diagnose rule file efficiency and prevent token waste.
+- Modular rule architecture decoupling root instructions from specialized domain rules.
+
+### Links
+- [GitHub](https://github.com/patrykmazur998/antigravity-starter-kit)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
