@@ -1062,6 +1062,27 @@ Coding
 
 </details>
 
+## [ConnectMeGuru](https://www.connectmeguru.com)
+AI-native international eSIM data purchase and provisioning tools for agents
+
+<details>
+
+### Category
+Travel, E-Commerce, Developer Tools
+
+### Description
+- Official MCP server and tools enabling AI agents to search travel data plans across 190+ countries, apply promo codes, and complete eSIM provisioning in-chat
+- Features:
+	- Search international prepaid eSIM destinations and plans
+	- Validate coupons and calculate pricing
+	- Provision eSIMs and deliver activation QR codes
+
+### Links
+- [Website](https://www.connectmeguru.com)
+- [GitHub](https://github.com/vineetgoyalhuf/connectmeguru-mcp)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
