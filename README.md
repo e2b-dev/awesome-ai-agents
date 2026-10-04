@@ -1651,6 +1651,26 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 </details>
 
+## [Hikari AI Agents](https://hikariwebworks.studio/solutions/real-estate)
+Sub-500ms conversational AI voice and automated speed-to-lead qualification systems
+
+<details>
+
+### Category
+Sales & Marketing, Voice Agents, Workflow Automation
+
+### Description
+- **Sub-500ms Voice Qualification**: Inbound and outbound voice agent architecture with real-time intent classification and conversational call routing.
+- **Speed-to-Lead Automation**: Automated WhatsApp brochure delivery, calendar appointment booking, and CRM pipeline synchronization.
+- **Enterprise Integrations**: Native integrations across WebRTC, LiveKit, ElevenLabs, Meta Cloud API, n8n, and custom webhooks.
+
+### Links
+- [Website](https://hikariwebworks.studio/solutions/real-estate)
+- [Voice Agent Solutions](https://hikariwebworks.studio/services/phone-agents)
+- [Developer](https://github.com/Dev-V-Trivedi)
+
+</details>
+
 
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
