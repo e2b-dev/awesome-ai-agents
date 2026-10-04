@@ -1036,6 +1036,26 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [ConnectMeGuru](https://github.com/vineetgoyalhuf/eliza-plugin-connectmeguru)
+Autonomous telecommunications & travel eSIM provisioning agent plugin
+
+<details>
+
+### Category
+General purpose, Productivity, Travel
+
+### Description
+- Autonomous AI agent plugin for elizaOS and AgentKit enabling autonomous discovery, comparison, and purchase of prepaid eSIMs across 190+ countries.
+- Automated instant QR code delivery and multi-currency billing integration for autonomous AI travel assistants.
+- Integrates with Model Context Protocol (MCP) server for real-time cellular package querying and live network status.
+
+### Links
+- [Website](https://www.connectmeguru.com)
+- [GitHub MCP](https://github.com/vineetgoyalhuf/connectmeguru-mcp)
+- [GitHub Plugin](https://github.com/vineetgoyalhuf/eliza-plugin-connectmeguru)
+
+</details>
+
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
