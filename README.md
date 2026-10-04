@@ -732,6 +732,29 @@ General purpose, Productivity
 </details>
 
 
+## [Bibo](https://github.com/Peiiii/bibo)
+Self-hostable personal AI workspace with on-demand Linux execution and persistent files
+
+<details>
+
+![Bibo running Python and saving a report](https://raw.githubusercontent.com/Peiiii/bibo/main/images/screenshots/bibo-sandbox-execution.png)
+
+### Category
+Personal assistant, Productivity, Data analysis
+
+### Description
+- Combines chat, editable tasks, and a personal file workspace in a web UI.
+- Runs ordinary chat and file operations on Cloudflare Workers and Durable Objects; starts a Linux sandbox when system tools are needed.
+- Uses Python and shell tools for work such as CSV cleanup, then saves outputs to R2-backed persistent storage.
+- MIT-licensed and self-hostable with your own Cloudflare account and DeepSeek API key; requires Workers Paid with Sandbox / Containers access and R2.
+- Early-stage project with a primarily Chinese UI; temporary sandbox software and files outside persistent storage are reclaimed with the instance.
+
+### Links
+- [GitHub and deployment instructions](https://github.com/Peiiii/bibo)
+- [Website](https://bibo.bot)
+
+</details>
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
