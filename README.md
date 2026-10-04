@@ -5569,6 +5569,26 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 
+## [Hermes-Plugin-Pack](https://github.com/ipanalytics/Hermes-Plugin-Pack)
+Plugins for a self-hosted LLM agent: sandboxed shell, automatic skill drafting, feedback journaling, context compaction
+
+<details>
+
+### Category
+Agent tooling, Build your own, Self-hosted
+
+### Description
+- Four drop-in plugins for a self-hosted **Hermes Agent** installation, each one solving a problem that shows up once an agent runs unattended: shell commands that need a sandbox, skills that should be drafted from real sessions instead of written by hand, user feedback that arrives as chat reactions and must be recorded, and a transcript that has to be compacted without losing the exact values inside it.
+- `proot-sandbox` runs the terminal tool inside a user-space sandbox with an allow-listed working directory; `skill-factory` watches a session and proposes a skill file from what actually happened; `feedback-reactions` turns Telegram reactions into a journal of what the operator liked and disliked; `autocompact` replaces prose summarisation with a structured working state (task, decisions, exact values, next step).
+- Python 3.11+, MIT, no external services. The plugins register through Hermes' plugin API, so they install by dropping a directory into `~/.hermes/plugins/`.
+
+### Links
+- [Repository](https://github.com/ipanalytics/Hermes-Plugin-Pack)
+- [Ops modules for the same agent](https://github.com/ipanalytics/Hermes-Agent-Ops)
+
+</details>
+
+
 <!-- More agents to add in the future
 
 - GPTeam https://twitter.com/itstimconnors/status/1672278464362336256
