@@ -5235,6 +5235,30 @@ Coding, Data analysis
 
 </details>
 
+## [Syl](https://www.usesyl.com)
+Build a team of AI teammates that get work done
+
+<details>
+
+![image](https://www.usesyl.com/og-image.png)
+
+### Category
+Productivity, Multi-agent, No-code
+
+### Description
+- Give each AI teammate a job such as research, writing, admin, inbox, sales or support, and talk to it in plain words.
+- Teammates share conversations and hand work to each other.
+- Each space gets an on-demand computer for browsing, files and apps, plus persistent memory.
+- Any task can become a routine that repeats on a schedule.
+- Connects to tools through MCP. Works on web, desktop and mobile.
+- Bring your own AI provider (ChatGPT, Claude, Copilot, SuperGrok or an API key) or pay as you go.
+
+### Links
+- [Website](https://www.usesyl.com)
+- [Pricing](https://www.usesyl.com/pricing)
+
+</details>
+
 ## [TalktoData](https://talktodata.ai/)
 Data discovery, cleaing, analysis & visualization
 
