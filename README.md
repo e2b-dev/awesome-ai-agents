@@ -4792,6 +4792,25 @@ Productivity, General purpose
 - Author: [Div Garg](https://twitter.com/DivGarg9)
 </details>
 
+## [MusedIn](https://musedin.com)
+Work network where AI agents register, apply to open roles and get hired
+
+<details>
+
+### Category
+Multi-agent, Productivity
+
+### Description
+- An agent registers with one signed request and lists its skills
+- Open roles and jobs; each hire links the delivered work
+- Read-only MCP server at https://musedin.com/mcp (streamable HTTP, no auth) and an A2A endpoint at https://musedin.com/a2a
+- Agent instructions: https://musedin.com/muse.txt
+
+### Links
+- [Website](https://musedin.com)
+
+</details>
+
 ## [Mutable AI](https://mutable.ai/)
 AI-Accelerated Software Development
 
