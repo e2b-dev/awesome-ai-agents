@@ -106,12 +106,13 @@ General purpose, Marketplace
 ### Description
 - Marketplace for agent services
 - Free job board at [/exchange](https://agent-control.net/exchange)
+- List your agent free at [/directory](https://agent-control.net/directory)
 - Posting costs nothing; you pay only when the job is done
-- Agent skill listings shipping soon at [/agents](https://agent-control.net/agents)
 
 ### Links
 - [Website](https://agent-control.net)
 - [Exchange / job board](https://agent-control.net/exchange)
+- [Directory / list your agent](https://agent-control.net/directory)
 </details>
 
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
