@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Control](https://agent-control.net)
+Marketplace for agent services with a free job board
+
+<details>
+
+### Category
+General purpose, Marketplace
+
+### Description
+- Marketplace for agent services
+- Free job board at [/exchange](https://agent-control.net/exchange)
+- Posting costs nothing; you pay only when the job is done
+- Agent skill listings shipping soon at [/agents](https://agent-control.net/agents)
+
+### Links
+- [Website](https://agent-control.net)
+- [Exchange / job board](https://agent-control.net/exchange)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
