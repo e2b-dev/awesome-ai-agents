@@ -1966,6 +1966,27 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Memdoor](https://github.com/guregodevo/memdoor)
+A coding agent in the terminal, on your own API key, that runs a job described in steps as a checked, resumable workflow
+
+<details>
+
+### Category
+Coding, Build-your-own
+
+### Description
+- Open-source (Apache 2.0) coding agent for the terminal: reads the project, writes the change, runs the build and tests, fixes what broke — on the user's own key at OpenRouter, Anthropic, OpenAI, Gemini, DeepSeek, Groq, xAI or Baseten
+- Workflows: describe a job in steps and the agent writes one task file per step and runs them as a graph; independent steps run in parallel, a step is done when its output exists or its command exits 0, a gate waits for the person's approval with the diff, a failed run resumes at the failed step
+- A decision model in front of the chat model keeps what it reads to what the task needs (26–49% fewer input tokens on measured runs)
+- One static binary for macOS, Linux and Windows; remote control of the terminal from a phone, end-to-end encrypted
+
+### Links
+- [Website](https://memdoor.ai)
+- [Docs](https://memdoor.ai/docs/getting-started)
+- Author: [Gregory Desvaux](https://github.com/guregodevo) (GitHub)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
