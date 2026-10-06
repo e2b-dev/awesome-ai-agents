@@ -5553,6 +5553,11 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 <img src="/assets/footer.png" width="100%" alt="SDKs Repo Visual" />
 -->
 
+## Books & Handbooks
+
+- [AI Agent Handbook](https://github.com/Xwh630/ai-agent-handbook) - A comprehensive, self-updating Chinese handbook for AI agent developers (26 chapters). Covers MCP protocol, coding agents (Claude Code, Codex, aider), framework comparison, production deployment, and evaluation benchmarks.
+
+
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
