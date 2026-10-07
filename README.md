@@ -2738,6 +2738,27 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Vibld](https://vibld.com/)
+Open-source AI app builder that generates React apps
+
+<details>
+
+### Category
+Coding
+
+### Description
+Vibld is an open-source (Apache-2.0) AI app builder that turns a plain-English description into a working web app.
+- Writes a build plan, then generates a plain React, TypeScript and Vite project with no Vibld runtime
+- Starts from a description or from a template catalog
+- Publishes to GitHub, Cloudflare or Docker
+- Can be self-hosted, or used through the hosted app at app.vibld.com
+
+### Links
+- [Web](https://vibld.com/)
+- [GitHub](https://github.com/vibld/vibld)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
