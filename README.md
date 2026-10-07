@@ -3825,6 +3825,28 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [Doforu](https://doforu.ai/)
+
+<details>
+
+![image](https://doforu.ai/apple-touch-icon.png)
+
+### Category
+Coding, Developer tools, Productivity
+
+### Description
+- Desktop AI agent orchestrator for developers
+- Give it a goal: it plans the work, splits it into subtasks, and runs independent workstreams in parallel with sub-agents, verifying results before merging
+- Bring your own API keys, or run fully offline with local models via Ollama or vLLM
+- Supports 15+ models, Skills, and MCP servers
+- macOS, Windows, Linux
+
+### Links
+- [Web](https://doforu.ai/)
+- [X (Twitter)](https://x.com/doforu)
+
+</details>
+
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
