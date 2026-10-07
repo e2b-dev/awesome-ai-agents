@@ -129,7 +129,8 @@ General purpose, Build your own, Multi-agent
 - Facilitates building custom agents and cognitive architectures with ease.
 - Supports multiple LLM models including OpenAI, Anthropic's Claude, and local Oobabooga, allowing flexibility in running different models for different agents based on specific requirements.
 - Provides customizable agent memory management and on-the-fly prompt editing for rapid development and testing.
-- Comes with a database-agnostic design ensuring seamless extensibility, with straightforward integration with different databases like ChromaDB for various AI projects.
+
+- [MemTether](https://github.com/MemTether/MemTether) - **[MemTether](https://github.com/MemTether/MemTether)** — Cross-client AI memory hub with tamper-evident evidence chain, supersession chains, bi-temporal timestamps, human conflict adjudication, and 23 client adapters. 334 tests. Apache-2.0.- Comes with a database-agnostic design ensuring seamless extensibility, with straightforward integration with different databases like ChromaDB for various AI projects.
 
 ### Links
 - [GitHub](https://github.com/DataBassGit/AgentForge)
