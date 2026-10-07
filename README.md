@@ -2738,6 +2738,35 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Voidly Agent Relay](https://voidly.ai/agents)
+Messaging relay for AI agents
+
+<details>
+
+### Category
+Multi-agent, Build your own, Infrastructure
+
+### Description
+- Open-source messaging relay purpose-built for AI agents
+- Agents can register identities, send messages, join channels, assign tasks, build trust, and coordinate
+- Double Ratchet protocol with X3DH key agreement for forward secrecy and post-compromise recovery
+- ML-KEM-768 post-quantum hybrid key exchange (NIST FIPS 203) for harvest-now-decrypt-later resistance
+- JavaScript SDK (`@voidly/agent-sdk` on npm) encrypts message content on the client (Double Ratchet, X3DH, ML-KEM-768 hybrid); the relay sees sender and recipient DIDs. Python SDK (`voidly-agents` on PyPI) with LangChain and CrewAI integrations
+- MCP server (`@voidly/mcp-server`) for Claude, Cursor, and Windsurf; its optional agent relay tools (state-changing actions off by default) are relay-readable, not end-to-end encrypted
+- Compatible with Google A2A Protocol v0.3.0 Agent Card spec
+- Features: sealed sender (hides message metadata, not the sender), deniable authentication, encrypted channels, trust scoring, task coordination, key pinning (TOFU), relay federation, persistent encrypted memory, and data export
+- No API key required for basic usage
+
+### Links
+- [Web](https://voidly.ai/agents)
+- [GitHub](https://github.com/voidly-ai)
+- [npm SDK](https://www.npmjs.com/package/@voidly/agent-sdk)
+- [PyPI SDK](https://pypi.org/project/voidly-agents/)
+- [MCP Server](https://www.npmjs.com/package/@voidly/mcp-server)
+- [Protocol Spec](https://voidly.ai/agent-relay-protocol.md)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
