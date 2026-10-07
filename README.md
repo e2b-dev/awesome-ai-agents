@@ -1966,6 +1966,30 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Markus](https://github.com/markus-global/markus)
+The all-in-one AI workforce platform, to build AI agent teams.
+
+<details>
+
+ ![image](https://opengraph.githubassets.com/1/markus-global/markus)
+
+### Category
+Multi-agent, Build-your-own, Open Source
+
+### Description
+Markus is an open-source AI workforce platform for building and running AI agent teams that collaborate on real work.
+
+- Assemble agent teams with roles (developer, reviewer, researcher, writer, analyst, ops), break down tasks, and delegate
+- Persistent memory across sessions, inter-agent communication, and heartbeat-driven autonomous operation
+- Built-in tools: shell, files, git, web search, code analysis, MCP
+- Desktop app (macOS/Windows/Linux), CLI, and responsive web UI
+
+### Links
+- [GitHub](https://github.com/markus-global/markus)
+- [Website](https://www.markus.global)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
