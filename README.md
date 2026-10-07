@@ -5093,6 +5093,24 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [Rootly](https://rootly.com/)
+AI SRE and incident management platform
+
+<details>
+
+### Category
+Debugging, Productivity
+
+### Description
+- Incident management platform that runs incidents in Slack and Microsoft Teams, with on-call, status pages and retrospectives
+- AI SRE that helps investigate and resolve incidents
+
+### Links
+- [Web](https://rootly.com/)
+- [GitHub](https://github.com/rootlyhq)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
