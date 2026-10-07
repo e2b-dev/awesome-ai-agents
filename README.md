@@ -255,6 +255,26 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [AgentSupervisor](https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026)
+Multi-agent privilege attenuation supervisor and containment benchmark
+
+<details>
+
+### Category
+Security, Infrastructure, Multi-agent, Evaluation
+
+### Description
+- Reference supervisor system designed to attenuate privileges and quarantine subagents under multi-agent confused deputy conditions.
+- Accompanies the empirical benchmark corpus of 109 autonomous agent security incidents.
+- Evaluates containment against non-kernel breakout vectors including cloud IMDS (169.254) credential leaks and raw socket access.
+
+### Links
+- [GitHub](https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026)
+- [Zenodo DOI](https://doi.org/10.5281/zenodo.22737862)
+- [Hugging Face Dataset](https://huggingface.co/datasets/doletskyisergey/autonomous-ai-agent-security-incidents-2026)
+
+</details>
+
 ## [AI Legion](https://github.com/eumemic/ai-legion)
 Multi-agent TS platform, similar to AutoGPT
 
