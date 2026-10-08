@@ -2458,6 +2458,26 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [sofagent](https://github.com/KongFangXun/sofagent)
+Open-source harness that audits every change AI coding agents make
+
+<details>
+
+### Category
+Tool for agents, Coding
+
+### Description
+sofagent is an open-source FDE harness: it deploys AI nodes into business workflows and audits every change the agents make at commit time.
+- Commit-time audit engine scanning git diffs with 28 audit rules: secret leaks, out-of-scope edits, blind modifications without prior reads, commit-message prompt injection, unauthorized file changes
+- Writes an HMAC-signed, tamper-evident local audit history
+- Ships MCP tools for governance aggregation
+- MIT licensed
+
+### Links
+- [GitHub](https://github.com/KongFangXun/sofagent)
+
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
