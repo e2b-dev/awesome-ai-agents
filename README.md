@@ -5589,3 +5589,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+## MIDDLE
+
+**MIDDLE** — AI message reader that helps you understand and respond to more effectively. [Website](https://middle-production.up.railway.app)
