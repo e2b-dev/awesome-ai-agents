@@ -2094,6 +2094,30 @@ General purpose
 </details>
 
 
+## [molt](https://github.com/solvyxtech/molt)
+Coding agent that won't say done on a false claim — verification on disk, receipts either way
+
+<details>
+
+### Category
+Coding, Terminal
+
+### Description
+- molt is an open-source coding agent for the terminal (CLI/TUI) and Electron desktop
+- When the model says it is done, molt runs the project's `.molt/done.yml` checks against the real state on disk and refuses the claim if anything fails
+- Accepts and refusals both get a receipt; writes are ledgered with before/after hashes; `molt verify` recomputes the hash-chained journal
+- Works with OpenAI-compatible providers and Anthropic; Apache-2.0
+- Desktop and CLI builds on the GitHub releases page, or build from source
+
+### Links
+- [GitHub](https://github.com/solvyxtech/molt)
+- [Studio](https://solvyx.xyz/work/molt)
+- [Releases](https://github.com/solvyxtech/molt/releases/latest)
+- Author: [solvyxtech](https://github.com/solvyxtech) (Github)
+
+</details>
+
+
 ## [Multiagent Debate](https://github.com/composable-models/llm_multiagent_debate)
 Implementation of a paper on Multiagent Debate
 
