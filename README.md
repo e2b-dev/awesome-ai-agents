@@ -1088,6 +1088,26 @@ Build-your-own, SDK for agents, Multi-agent
 
 </details>
 
+## [Crewly](https://github.com/stevehuang0115/crewly)
+Team of role-based coding agents with task delegation, shared memory and a web dashboard
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- **Roles**: Agents take defined roles (developer, QA, PM, orchestrator) on one project.
+- **Runtimes**: Runs on Claude Code, Codex or Gemini CLI; OpenCode also works.
+- **Coordination**: Agents delegate tasks and report status through bash skills, and share persistent memory.
+- **Dashboard**: A web dashboard shows each agent's live terminal.
+- **License**: MIT, runs locally.
+
+### Links
+- [Website](https://crewlyai.com/)
+- [GitHub](https://github.com/stevehuang0115/crewly)
+</details>
+
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
 AI-driven research from data to human-verifiable research papers
 <details>
