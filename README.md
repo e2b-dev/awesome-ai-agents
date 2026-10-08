@@ -1663,9 +1663,9 @@ Turn your Grok Bot into a 7-agent Hyperliquid trading desk
 Finance, Multi-agent, Trading
 
 ### Description
-- Seven named Bots: research, risk, execution, and review on one Hyperliquid floor
+- Seven named Bots and seventeen shared skills: research, risk, execution, and review on one Hyperliquid floor
 - You approve every trade by ticket id; a trade-only API wallet cannot withdraw
-- The same roles and skills load in Claude Code, Codex, and Cursor
+- The same roles and skills load in Grok Build, Claude Code, and Cursor
 
 ### Links
 - [GitHub](https://github.com/galleonlabs/hypergrok-trading-desk)
