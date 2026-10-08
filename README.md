@@ -2106,12 +2106,13 @@ Coding, Terminal
 - molt is an open-source coding agent for the terminal (CLI/TUI) and Electron desktop
 - When the model says it is done, molt runs the project's `.molt/done.yml` checks against the real state on disk and refuses the claim if anything fails
 - Accepts and refusals both get a receipt; writes are ledgered with before/after hashes; `molt verify` recomputes the hash-chained journal
-- Works with OpenAI-compatible providers and Anthropic; Apache-2.0; npm package `@solvyx/molt`
+- Works with OpenAI-compatible providers and Anthropic; Apache-2.0
+- Desktop and CLI builds on the GitHub releases page, or build from source
 
 ### Links
 - [GitHub](https://github.com/solvyxtech/molt)
 - [Studio](https://solvyx.xyz/work/molt)
-- [npm](https://www.npmjs.com/package/@solvyx/molt)
+- [Releases](https://github.com/solvyxtech/molt/releases/latest)
 - Author: [solvyxtech](https://github.com/solvyxtech) (Github)
 
 </details>
