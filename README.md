@@ -1652,6 +1652,28 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [HyperGrok](https://github.com/galleonlabs/hypergrok-trading-desk)
+Turn your Grok Bot into a 7-agent Hyperliquid trading desk
+
+<details>
+
+![image](https://raw.githubusercontent.com/galleonlabs/hypergrok-trading-desk/main/assets/mascot-320.jpg)
+
+### Category
+Finance, Multi-agent, Trading
+
+### Description
+- Seven named Bots and seventeen shared skills: research, risk, execution, and review on one Hyperliquid floor
+- You approve every trade by ticket id; a trade-only API wallet cannot withdraw
+- The same roles and skills load in Grok Build, Claude Code, and Cursor
+
+### Links
+- [GitHub](https://github.com/galleonlabs/hypergrok-trading-desk)
+- [Setup](https://github.com/galleonlabs/hypergrok-trading-desk/blob/main/SETUP.md)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
