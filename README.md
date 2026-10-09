@@ -95,6 +95,26 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [agent-core](https://github.com/codecloud-dev/agent-core)
+Platform-agnostic, injectable core for building "thinking + controllable-autonomy" AI agents
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Extracts a metacognitive protocol engine (structured `think` / `reflect` actions) and tiered-autonomy guardrails out of any specific project into reusable, testable, platform-agnostic code.
+- Risk-tiered tools (low/mid/high) with a per-day autonomous-change circuit breaker and shadow mode for mid-risk actions — making "AI with permissions" controllable, observable, and revertible.
+- Zero platform lock-in: storage, action executors, and logging are injected via interfaces, with built-in D1 / Memory / Node storage adapters.
+- Written in strict TypeScript, MIT licensed, with a Chinese/English documentation site.
+
+### Links
+- [GitHub](https://github.com/codecloud-dev/agent-core)
+- [Documentation](https://codecloud-dev.github.io/agent-core/)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
