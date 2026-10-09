@@ -2322,6 +2322,26 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Portable Hermes Agent](https://github.com/aivrar/portable-hermes-agent)
+Portable Windows desktop agent with local models via LM Studio
+
+<details>
+
+### Category
+General purpose, Productivity
+
+### Description
+- A portable Windows desktop build of [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) with a GUI; no install, no Docker, no admin rights.
+- 100 tools across 20+ toolsets, including LM Studio model management, web search, file operations, browser automation, code execution and memory.
+- Runs local models through LM Studio, or cloud models via API keys.
+- Optional local extensions for text-to-speech, music generation and ComfyUI image generation, plus a workflow engine with scheduling and a runtime tool maker.
+- MIT licensed.
+
+### Links
+- [GitHub](https://github.com/aivrar/portable-hermes-agent)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
