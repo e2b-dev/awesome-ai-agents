@@ -4743,7 +4743,24 @@ Productivity, Coding, Workflow automation
 
 </details>
 
-## [Minion AI](https://minion.ai/)
+## [Massvai](https://massvai.com/)
+AI agent that builds full-stack Next.js apps
+
+<details>
+	
+	### Category
+	Coding, App builder
+	
+	### Description
+	- Turns a prompt into a full-stack Next.js app with live preview
+	- Sets up Supabase, syncs to GitHub and deploys to Vercel in one click
+	- Free plan with 100 credits; paid plans add more credits
+	
+	### Links
+	- [Web](https://massvai.com/)
+	
+	</details>
+	## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
 
