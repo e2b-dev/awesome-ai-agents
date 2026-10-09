@@ -2273,6 +2273,30 @@ Coding, general purpose
 </details>
 
 
+## [OpenLeo](https://leooi.com/)
+A to-do board where AI agents do the cards, no code
+
+<details>
+
+![Image](https://raw.githubusercontent.com/ancs21/openleo/main/landing/intro-poster.jpg)
+
+### Category
+Productivity, general purpose
+
+### Description
+- Write a card and the agent on that list picks it up
+- Each board has its own Linux computer, where its agents browse, run commands and save files
+- Agents run on your own ChatGPT plan
+- A card runs when you start it, on a schedule, or when it lands in a list with an agent
+- Comes as a web app and a desktop app (macOS, Windows, Linux), for people who don't code
+
+### Links
+- [Web](https://leooi.com/)
+- [GitHub](https://github.com/ancs21/openleo)
+
+</details>
+
+
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
 
