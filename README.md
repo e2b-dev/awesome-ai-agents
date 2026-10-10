@@ -2689,6 +2689,30 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [three.ws](https://github.com/nirholas/three.ws)
+Open-source platform for 3D AI agents with an LLM brain, memory and a wallet
+
+<details>
+
+![image](https://raw.githubusercontent.com/nirholas/three.ws/main/public/apple-touch-icon.png)
+
+### Category
+General purpose, Build your own, Web3
+
+### Description
+- Turns a text prompt or a photo into a rigged, animated GLB avatar, then gives it an LLM brain, persistent memory and a wallet
+- Agents are embedded in any web page with one `<agent-3d>` web component built on Three.js
+- Ships a remote MCP server so Claude, Cursor and other MCP clients can generate models and drive agents
+- Agents can pay and get paid over x402; Solana-native wallets and on-chain agent identity
+- Open source under Apache-2.0
+
+### Links
+- [Web](https://three.ws)
+- [GitHub](https://github.com/nirholas/three.ws)
+- [Docs](https://three.ws/docs)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
