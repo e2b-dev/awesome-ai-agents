@@ -180,6 +180,30 @@ General purpose
 - [GitHub](https://github.com/reworkd/AgentGPT)
 </details>
 
+## [AgenticCraft](https://agenticcraft.aimentor360.com)
+Free 59-lesson interactive academy teaching autonomous AI agent architecture, LangGraph, and MCP
+<details>
+
+![Image](https://raw.githubusercontent.com/mobashshirurrahman/agentic-craft-tutorials/master/assets/banner.png)
+
+### Category
+Education / Frameworks & Tools
+
+### Description
+- A comprehensive hands-on educational platform teaching Agentic AI from first principles to production.
+- Features:
+	- Interactive In-Browser Simulators (Agentic Loop Simulator, Multi-Agent Topology Studio, Framework Comparison Matrix)
+	- ReAct cognitive reasoning patterns and deterministic state management with LangGraph
+	- Tool standardization with the Model Context Protocol (MCP)
+	- Structured data outputs with Pydantic and multi-agent coordination (Supervisors and Swarms)
+	- Production deployment with FastAPI and rate limiting guardrails
+- 100% Free and open access with verifiable certificates
+
+### Links
+- [Website](https://agenticcraft.aimentor360.com)
+- [GitHub](https://github.com/mobashshirurrahman/agentic-craft-tutorials)
+</details>
+
 <!-- This is a comment that appears only in the raw text -->
 
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
