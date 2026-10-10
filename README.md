@@ -3060,6 +3060,31 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+## [AI Applyd](https://aiapplyd.com)
+Auto-Apply That Ends on an Interview
+
+<details>
+
+![AI Applyd job application agent](https://raw.githubusercontent.com/aiapplyd/aiapplyd-mcp/main/assets/01-stop-applying-start-interviewing.png)
+
+### Category
+Productivity, Personal assistant
+
+### Description
+- Autonomous agent for job seekers: it matches roles to a profile, tailors the resume and cover letter for each posting, and submits the application on the employer's own hiring system
+- Works across 34 hiring systems, including Workday, Greenhouse, Lever, Ashby, Workable and iCIMS, and creates employer accounts and completes email verification on the user's behalf
+- Applications can run automatically or wait for review and approval. Tracks application status and keeps the employer confirmation
+- Scores resumes against job postings, analyzes job descriptions, creates editable resume drafts, and prepares interview questions
+- Available as a web app and a hosted remote MCP server with 17 tools, four prompts and three resources. Connect from compatible clients, including Claude, ChatGPT and Cursor, over Streamable HTTP and OAuth 2.1 at `https://mcp.aiapplyd.com/mcp`
+- Requires an AI Applyd account. Account and application reads do not generate AI. Generation uses AI tokens and action limits; application submission uses the account's application allowance
+
+### Links
+- [Web](https://aiapplyd.com)
+- [MCP setup](https://aiapplyd.com/mcps)
+- [MCP server and agent skills](https://github.com/aiapplyd/aiapplyd-mcp)
+
+</details>
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
