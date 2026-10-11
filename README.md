@@ -1709,6 +1709,27 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kortix](https://opensourceaiagentplatform.com)
+The open-source AI Operating System: agents, skills, memory and connectors in one git repo you own
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Open-source platform
+
+### Description
+- The open-source AI Operating System: your agents, the skills they share, your company memory and every connector live in one git repo you own.
+- Any model with your own API keys, and your own infrastructure or a managed cloud; each session runs on an isolated cloud computer.
+- Agents return finished work and land it through a change request a person reviews, so the company self-improves one reviewed change at a time.
+- Use it from the web app, Slack, Microsoft Teams or the CLI, with per-tool permissions, an audit trail and self-hosting.
+
+### Links
+- [Website](https://opensourceaiagentplatform.com)
+- [Kortix on GitHub](https://github.com/kortix-ai/suna)
+- [Documentation](https://kortix.com/docs)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
