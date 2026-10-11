@@ -5093,6 +5093,29 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [Revnu](https://revnu.com/)
+AI growth hire that runs outbound, paid ads and SEO for startups
+
+<details>
+
+![image](https://revnu.com/apple-touch-icon.png)
+
+### Category
+Sales, Marketing, Productivity
+
+### Description
+- Finds buyers, writes to each one in your voice across email and LinkedIn, handles the replies and books the meeting
+- Runs paid ads on Google, LinkedIn, Reddit, X and Microsoft and moves budget to what books calls
+- Writes the pages that get a product found on Google and in ChatGPT answers
+- Works in Slack: you approve what goes out, or let it run on its own, and it reports what moved every morning
+
+### Links
+- [Web](https://revnu.com/)
+- [LinkedIn](https://www.linkedin.com/company/revnu-app)
+- [Founder's LinkedIn - George Jefferson](https://www.linkedin.com/in/georgejeffers/)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
