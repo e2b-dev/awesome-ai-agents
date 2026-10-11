@@ -278,6 +278,28 @@ Multi-agent, Build-your-own
 - [Twitter](https://twitter.com/dysmemic)
 </details>
 
+## [AI Sales Consultant](https://github.com/AIlsis/ai-sales-consultant)
+Open-source AI sales consultant template for store private-domain conversion (system prompt + workflow + multi-backend script)
+
+<details>
+
+![Image](https://opengraph.githubassets.com/default/AIlsis/ai-sales-consultant)
+
+### Category
+Sales, Marketing, Build-your-own
+
+### Description
+- System prompt + Grok Bot workflow + scenario scripts (first-contact / price objection / follow-up / repurchase / bad-review recovery)
+- Multi-backend runnable script (Claude / Grok / OpenAI auto-routing)
+- Streamlit demo page, zero-code to start
+- Covers beauty / education / e-commerce / restaurant niches
+- MIT license, commercial use allowed
+
+### Links
+- [GitHub](https://github.com/AIlsis/ai-sales-consultant)
+</details>
+
+
 ## [Aider](https://github.com/paul-gauthier/aider)
 Use command line to edit code in your local repo
 
