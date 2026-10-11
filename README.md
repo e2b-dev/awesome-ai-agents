@@ -3006,6 +3006,26 @@ General purpose
 
 </details>
 
+## [Agentic Finance Graph](https://agenticfinancegraph.com)
+Independent ledger of what AI agents on Base actually spend, with a free API and MCP server for checking an agent before paying it
+
+<details>
+
+### Category
+Finance, Data, Developer tools, Security
+
+### Description
+- Follows every ERC-8004 agent registration on Base to its wallet, reads each payment receipt and excludes routing hops, so an agent or its operator can check a counterparty's record before paying.
+- Free read-only JSON API and an MCP server (15 tools: agent record, signed three-hour statements with Merkle proofs, counterparty history, detections); evidence packs over x402 from one cent, no key.
+- Anomaly detectors (drains, retry storms, mint bursts, dead endpoints) are measured on synthetic data with known answers; the generator, the accounting spec and the MCP bridge are open source.
+
+### Links
+- [Web](https://agenticfinancegraph.com)
+- [GitHub](https://github.com/AgenticFinanceGraph)
+- [MCP server](https://agenticfinancegraph.com/mcp-server-connect-your-ai-to-agent-money-data)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
