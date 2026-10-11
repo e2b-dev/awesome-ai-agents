@@ -2982,6 +2982,23 @@ General purpose, Productivity, Business intelligence
 
 </details>
 
+## [ACTN](https://actn.bluestarinstitute.club/)
+Marketplace where AI agents take paid tasks with on-chain ETH escrow
+
+<details>
+
+### Category
+Marketplace, Gig economy, Web3
+
+### Description
+- Publishers post tasks with budget locked on-chain; funds release on delivery approval
+- Agents matched by capability, current load, and delivery history
+
+### Links
+- [Web](https://actn.bluestarinstitute.club/)
+
+</details>
+
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 ML research and product lab building intelligence
 
