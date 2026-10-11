@@ -220,7 +220,7 @@ General purpose, Build your own, Multi-agent
 
 ### Description
 -   **Long-short Term Memory**: Language agents in the library are equipped with both long-term memory implemented via VectorDB + Semantic Search and short-term memory (working memory) maintained and updated by an LLM.
--   **Tool Usage**: Language agents in the library can use any external tools via  [function-calling](https://platform.openai.com/docs/guides/gpt/function-calling)  and developers can add customized tools/APIs  [here](https://github.com/aiwaves-cn/agents/blob/master/src/agents/Component/ToolComponent.py).
+-   **Tool Usage**: Language agents in the library can use any external tools via  [function-calling](https://platform.openai.com/docs/guides/gpt/function-calling)  and developers can add customized tools/APIs  [here](https://github.com/aiwaves-cn/agents).
 -   **Web Navigation**: Language agents in the library can use search engines to navigate the web and get useful information.
 -   **Multi-agent Communication**: In addition to single language agents, the library supports building multi-agent systems in which language agents can communicate with other language agents and the environment. Different from most existing frameworks for multi-agent systems that use pre-defined rules to control the order for agents' action,  **Agents**  includes a  _controller_  function that dynamically decides which agent will perform the next action using an LLM by considering the previous actions, the environment, and the target of the current states. This makes multi-agent communication more flexible.
 -   **Human-Agent interaction**: In addition to letting language agents communicate with each other in an environment, our framework seamlessly supports human users to play the role of the agent by himself/herself and input his/her own actions, and interact with other language agents in the environment.
@@ -523,7 +523,7 @@ General purpose, Productivity
 
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1652732735344246784)
-- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyBeeAGI.py)
+- [GitHub](https://github.com/yoheinakajima/babyagi)
 - [Replit](https://replit.com/@YoheiNakajima/BabyBeeAGI?v=1)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
@@ -561,7 +561,7 @@ General purpose
 
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1657448504112091136)
-- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyCatAGI.py)
+- [GitHub](https://github.com/yoheinakajima/babyagi)
 - [Replit](https://replit.com/@YoheiNakajima/BabyCatAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
@@ -591,7 +591,7 @@ General purpose
 
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1666313838868992001)
-- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyDeerAGI.py)
+- [GitHub](https://github.com/yoheinakajima/babyagi)
 - [Replit](https://replit.com/@YoheiNakajima/BabyDeerAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
@@ -616,7 +616,7 @@ General purpose
 
 ### Links
 - [Tweet](https://twitter.com/yoheinakajima/status/1678443482866933760)
-- [GitHub](https://github.com/yoheinakajima/babyagi/blob/main/classic/BabyElfAGI/main.py)
+- [GitHub](https://github.com/yoheinakajima/babyagi)
 - [Replit](https://replit.com/@YoheiNakajima/BabyElfAGI)
 - Author: [@yoheinakajima](https://twitter.com/yoheinakajima) (Twitter)
 
@@ -648,7 +648,7 @@ General purpose, Coding
 </details>
 
 
-## [BabyFoxAGI](https://github.com/yoheinakajima/babyagi/tree/main/classic/babyfoxagi)
+## [BabyFoxAGI](https://github.com/yoheinakajima/babyagi)
 Mod of BabyAGI with a new parallel UI panel
 
 
@@ -1057,7 +1057,7 @@ Coding
 ### Links
 - [Website](https://continue.dev/)
 - [GitHub](https://github.com/continuedev/continue)
-- [Documentation](https://continue.dev/docs/intro)
+- [Documentation](https://docs.continue.dev/intro)
 - [Twitter](https://twitter.com/continuedev)
 
 </details>
@@ -5521,11 +5521,11 @@ Build-your-own, Productivity, General purpose
 Superagent uses E2B as a [code execution tool](https://x.com/pelaseyed/status/1709592941226831916?s=20). To try Superagent with E2B, create a Code interpreter API and then select it for your agent to use.
 </details>
 
-### :eight_pointed_black_star: [OpenAI's Assistants](https://docs.e2b.dev/llm-platforms/openai/?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents)
+### :eight_pointed_black_star: [OpenAI's Assistants](https://e2b.dev/docs)
 <details>
 
 You can define actions for your AI assistant and E2B will automatically execute them inside a sandbox. This allows you to create powerful AI assistants with custom tools completely predefined by you.
-To [try the OpenAI Assistants with E2B](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents), you can follow our guide in [Python](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#python) or [JavaScript](https://docs.e2b.dev/llm-platforms/openai?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents#java-script). 
+To [try the OpenAI Assistants with E2B](https://e2b.dev/docs), you can follow our guide in [Python](https://e2b.dev/docs) or [JavaScript](https://e2b.dev/docs). 
 
 </details>
 
