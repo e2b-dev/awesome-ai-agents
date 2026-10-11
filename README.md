@@ -1652,6 +1652,31 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Griffin](https://github.com/paziresh24/Griffin)
+Self-hosted platform for your own team of AI agents, with tool permissions per caller
+
+<details>
+
+![Image](https://raw.githubusercontent.com/paziresh24/Griffin/main/docs/media/demo-dark.gif)
+
+### Category
+General purpose, Build your own, Multi-agent, Productivity
+
+### Description
+
+- **Agents as data**: define each agent's instructions, model and tools from the web UI, the HTTP API or a JSON profile — no code, no deploy.
+- **Per-caller permissions**: the owner, another agent, a scheduled job, a Telegram colleague and an external MCP client each get only the tools granted to them, enforced in code.
+- **Non-blocking delegation**: an orchestrator hands work to specialist agents and reports back when subtasks finish.
+- **Any model**: Claude Agent SDK, Cursor SDK or any OpenAI-compatible endpoint, including local models, chosen per agent.
+- **Many interfaces**: web UI (English and Persian), Telegram, an MCP server for Claude Code and Cursor, a CLI, an HTTP API and scheduled jobs.
+- **Approval for irreversible actions** and a simulation mode that rehearses a whole run without side effects.
+- Self-hosted, Node.js and SQLite, MIT licensed.
+
+### Links
+- [Website](https://paziresh24.github.io/Griffin/)
+- [GitHub](https://github.com/paziresh24/Griffin)
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
