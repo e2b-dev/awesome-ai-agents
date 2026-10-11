@@ -2070,6 +2070,26 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 </details>
 
+## [MicroDot](https://github.com/OldComputerGuy/microDots)
+
+A tiny, self-hosted AI agent with its own browser tab; writes its own tools, spawns sub-agents, one shared Chromium, plain-file state. MIT.
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+
+- **Self-extending**: writes and runs its own tools in a sandbox.
+- **Sub-agents**: spawns parallel workers whose findings roll back up.
+- **Small footprint**: one process, one shared Chromium, plain-file state.
+
+### Links
+- [GitHub](https://github.com/OldComputerGuy/microDots)
+
+</details>
+
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 General-purpose agent based on GPT-3.5 / GPT-4
 
