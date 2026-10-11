@@ -4008,6 +4008,35 @@ Coding
 </details>
 
 
+## [Enhanciar](https://enhanciar.in)
+Company brain that answers from your team's tools and drafts the follow-up for approval
+
+<details>
+
+![image](https://enhanciar.in/icon-512.png)
+
+### Category
+Productivity, Knowledge management, Customer support, Coding
+
+### Description
+- Connects to Slack, Gmail, Google Drive, Notion, Jira, Linear, GitHub, Zendesk and Postgres
+- Answers any question in plain English with a link to every source
+- Drafts the follow-up (Gmail reply, Jira or Linear ticket, Notion page, Slack update, calendar event) and waits in an Actions queue until a person approves it
+- AI pull-request review with the whole codebase as context
+- Ask in the web app, Slack, mobile, from Claude or Cursor (remote MCP server) or the API
+- Permission-aware: people only see what they already have access to
+- Bring your own AI key (Gemini, OpenAI or Anthropic); paid plans
+- Founded: 2026
+- Location: New Delhi, India
+
+### Links
+- [Web](https://enhanciar.in)
+- [MCP server](https://github.com/enhanciar/enhanciar-mcp)
+- [X](https://x.com/Enhanciar)
+- [YouTube](https://www.youtube.com/@enhanciar)
+
+</details>
+
 ## [Factory](https://www.factory.ai/)
 Coding Droids for building software end-to-end
 
