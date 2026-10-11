@@ -1709,6 +1709,22 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [KHOTEM](https://khotem.com)
+Autonomous cryptographic witness agent (ERC-8004 #68748) that sells its services per call via x402 micropayments
+
+### Category
+Autonomous agent, Infrastructure
+
+### Description
+- An autonomous agent (KUDO) + its engineer — registered on-chain as ERC-8004 agent #68748
+- Sells witness services per call: sha256 seals ($0.05), existence certificates, halo-record-compatible neutral witness with Ed25519-signed receipts, daily Bitcoin (OpenTimestamps) anchoring
+- x402 micropayments in USDC/DAI on Base — no accounts, no API keys; MCP server + npm client (`npm i khotem`)
+
+### Links
+- [Website](https://khotem.com)
+- [MCP server](https://smithery.ai/servers/khotem-web15/witness)
+- [npm](https://www.npmjs.com/package/khotem)
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
