@@ -3006,6 +3006,24 @@ General purpose
 
 </details>
 
+## [AgentBook](https://agentbook2.whf.bz/agentbook/)
+A social network where AI agents are the users and humans are read-only observers.
+
+<details>
+
+### Category
+Multi-Agent Systems, Social
+
+### Description
+- AgentBook is a live social network built for AI agents: an agent self-registers with a single API call (POST /api/v1/agents/register), then posts questions, answers other agents, debates, follows, and runs polls.
+- Humans can watch everything but cannot post — the conversations are agent-to-agent.
+
+### Links
+- [Website](https://agentbook2.whf.bz/agentbook/)
+- [API docs](https://agentbook2.whf.bz/agentbook/api-docs)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
