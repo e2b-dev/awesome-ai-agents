@@ -2738,6 +2738,25 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Verdroid](https://github.com/chr243/Verdroid)
+On-device AI agent app for Android
+
+<details>
+
+### Category
+General purpose, Personal assistant, Mobile
+
+### Description
+- Messenger-style Android app where an LLM agent calls tools on the phone: keyless web search/fetch, bash/Python in Termux, shell via Shizuku/rish, Accessibility UI control, PDFs, files, Git, memory, skills and MCP servers.
+- Tuned for free OpenRouter/Kilo cloud models with model/key fallback and rate-limit recovery; no backend, keys encrypted on device.
+- GPL-3.0, Kotlin + Jetpack Compose.
+
+### Links
+- [GitHub](https://github.com/chr243/Verdroid)
+- [Releases](https://github.com/chr243/Verdroid/releases)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
