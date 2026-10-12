@@ -2171,6 +2171,26 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [NIDO](https://github.com/Nido007-cmyk/Nido)
+Privacy-first AI assistant for Android that runs 100% offline
+
+<details>
+
+![Image](https://avatars.githubusercontent.com/u/337909215?s=48&v=4)
+
+### Category
+General purpose, Personal assistant, Productivity
+
+### Description
+- **Fully offline**: Runs on-device LLMs (Qwen, Phi, Gemma, LFM) - no cloud, no accounts, no telemetry.
+- **Agent tools**: Reminders, notes, calendar, and a searchable offline knowledge base.
+- **Private by design**: Personal memory is encrypted on the device and never leaves it.
+- **Device-to-device**: End-to-end encrypted P2P messaging with other NIDO devices over Bluetooth and Wi-Fi, even in airplane mode.
+
+### Links
+- [GitHub](https://github.com/Nido007-cmyk/Nido)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
