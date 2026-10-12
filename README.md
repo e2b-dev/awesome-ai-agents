@@ -4296,6 +4296,25 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [Healify](https://healify.ai/)
+Free AI health coach for iPhone and Android
+
+<details>
+
+![image](https://www.healify.ai/assets/images/RHd6xuUE8ENsC0WUPCRuhsLJSAs.png)
+
+### Category
+Health, Personal assistant
+
+### Description
+- Free AI health coach that logs meals, reads health data, and answers health questions
+- Available on iPhone and Android
+
+### Links
+- [Web](https://healify.ai/)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
