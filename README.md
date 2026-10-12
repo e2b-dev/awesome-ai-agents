@@ -3440,6 +3440,27 @@ Data analysis, Productivity, Marketig, Sales, Business intelligence
 
 </details>
 
+## [Boro by Boardroom AI](https://control.boardroom-ai.ae/?utm_source=awesome_ai_agents&utm_medium=github&utm_campaign=boro_github)
+AI business operator for sales conversations: replies, books and keeps the CRM up to date
+
+<details>
+
+### Category
+Sales, Customer support, Productivity, Business intelligence
+
+### Description
+- AI sales agent that replies to customers on WhatsApp, Instagram, Telegram, website chat and voice, qualifies them, books appointments and hands over to a person when it should
+- Fills in the CRM as it talks: pipelines, stages, tasks, notes and the full conversation on every deal
+- Boro, an operator inside the cabinet, reads the CRM, calls and ad results and tells the owner what needs attention today; actions are prepared by Boro and confirmed by a person
+- Every workspace is also a read-only MCP server with 13 tools, so Claude, ChatGPT, Cursor or another MCP client can query the CRM after an owner-approved sign-in
+- Built by Boardroom AI, a global company headquartered in the UAE
+
+### Links
+- [Web](https://control.boardroom-ai.ae/?utm_source=awesome_ai_agents&utm_medium=github&utm_campaign=boro_github)
+- [GitHub (docs and examples)](https://github.com/boardroomgen-ai-ae/boro-ai)
+
+</details>
+
 ## [BrainSoup](https://www.nurgo-software.com/products/brainsoup)
 Build an AI team that works for you, on your PC
 
