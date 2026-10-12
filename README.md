@@ -2171,6 +2171,31 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [NIS](https://github.com/Siwendelimao/Nis)
+Self-hosted AI agent workbench with long-term memory, a searchable knowledge base and a full toolchain
+
+<details>
+
+![Image](https://github.com/Siwendelimao/Nis/raw/main/screenshots/desktop-dark.png)
+
+### Category
+General purpose, Desktop, Memory, Multi-channel, Local-first, Open source
+
+### Description
+
+- **Long-term memory + knowledge base**: conversations, documents and projects become searchable long-term context instead of re-explaining yourself every session.
+- **A real toolchain**: file read/write, shell commands, browser automation, scheduled tasks and parallel sub-agents, with permission tiers and file history (rollback).
+- **Multi-channel**: desktop app + mobile web (same backend, your LAN) + optional QQ / WeChat bots.
+- **Bring your own model**: any OpenAI-compatible provider, or fully offline with local Ollama; external agents (Codex / ACP) can be plugged in too.
+- **Local-first**: sessions, memory and API keys stay on your machine (Windows DPAPI).
+
+### Links
+- [GitHub](https://github.com/Siwendelimao/Nis)
+- [Website](https://siwendelimao.github.io/Nis/)
+- [Releases](https://github.com/Siwendelimao/Nis/releases)
+- [License: MIT](https://github.com/Siwendelimao/Nis/blob/main/LICENSE)
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
