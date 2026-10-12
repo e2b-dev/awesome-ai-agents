@@ -2944,6 +2944,28 @@ yAgents is an Agent-Builder Agent made by Yeager.ai capable of designing, coding
 
 </details>
 
+## [Xenon](https://github.com/xianyu-sheng/Xenon)
+Verifiable terminal coding agent with an evidence hash chain
+
+<details>
+
+
+![Image](https://raw.githubusercontent.com/xianyu-sheng/Xenon/main/docs/evidence-chain.png)
+
+### Category
+Coding
+
+### Description
+- Xenon is a terminal AI coding agent harness built around an append-only hash chain of session events, verifiable on demand with the `/evidence` command
+- Answer verification is tiered: a deterministic hollow-answer gate is the only blocking check, while semantic claims ship as a manual-verification checklist instead of blocking delivery
+- Multi-model (any OpenAI-compatible or DeepSeek endpoint) with MCP client support
+
+### Links  
+- [GitHub](https://github.com/xianyu-sheng/Xenon)
+- [Releases (wheel install, no PyPI)](https://github.com/xianyu-sheng/Xenon/releases)
+
+</details>
+
 ## [Yourgoal](https://github.com/pj4533/yourgoal/?utm_source=awesome-ai-agents)
 Swift implementation of BabyAGI
 
