@@ -2982,6 +2982,30 @@ General purpose, Productivity, Business intelligence
 
 </details>
 
+## [Adeli](https://www.tryadeli.com/?utm_source=awesome-ai-agents)
+Social media actions for AI agents
+
+<details>
+
+![image](https://www.tryadeli.com/opengraph-image-12o0cb?c9c9d7a98e7c7aa7)
+
+### Category
+Social media, Marketing, Productivity
+
+### Description
+- Gives AI agents one API and MCP server to act on social media: publish and schedule posts, reply to comments and DMs, and read analytics
+- Covers Instagram, TikTok, YouTube, Facebook, X, and Bluesky
+- Works with Claude, ChatGPT/Codex, Cursor, Grok, Manus, Notion, n8n, Zapier, and custom agents
+- Adeli owns the platform developer apps, token refresh, and app reviews, so agents can post on day one
+- Free for the first 3 connected accounts
+
+### Links
+- [Web](https://www.tryadeli.com/?utm_source=awesome-ai-agents)
+- [Agent setup guides](https://www.tryadeli.com/agents)
+- [Pricing](https://www.tryadeli.com/pricing)
+
+</details>
+
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 ML research and product lab building intelligence
 
