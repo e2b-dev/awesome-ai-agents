@@ -2070,6 +2070,28 @@ MetaGPT is a multi-agent framework that, given one line requirement, returns PRD
 
 </details>
 
+## [Mimir](https://github.com/currentbits/mimir)
+Personal AI assistants on your own Claude, ChatGPT or Grok subscription
+
+<details>
+
+### Category
+Personal assistant, Productivity, General purpose
+
+### Description
+
+- Open-source (AGPL-3.0) app that runs always-on personal assistants you message in Telegram, Slack, Discord, Signal or its desktop app
+- Runs on the AI subscription you already have (Claude, ChatGPT/Codex, Grok) or any API key; no Mimir account or servers
+- Shared long-term memory, learned skills, and scheduled routines such as morning briefings and reminders
+- Email, calendar, web browsing and any MCP tool server, with allow/ask/deny rules and approval before risky actions
+- Desktop app for macOS, Windows and Linux, or a self-hosted Docker server for 24/7 bots
+
+### Links
+- [Website](https://heymimir.app)
+- [Documentation](https://heymimir.app/docs/)
+
+</details>
+
 ## [Mini AGI](https://github.com/muellerberndt/mini-agi)
 General-purpose agent based on GPT-3.5 / GPT-4
 
