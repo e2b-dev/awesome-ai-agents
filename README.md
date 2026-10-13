@@ -1333,6 +1333,28 @@ Coding
 
 </details>
 
+## [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent)
+Let an AI model use a real iPhone with a ~$7 ESP32-S3 board. No Mac, no developer account, no jailbreak
+
+<details>
+
+![Image](https://raw.githubusercontent.com/onehumanbeing/esp32-iphone-agent/main/docs/images/demo.png)
+
+### Category
+General purpose, Mobile, Hardware
+
+### Description
+- The agent sees the iPhone through AirPlay screen mirroring (UxPlay on a Mac or Linux computer) and touches it through an ESP32-S3 that plugs into the phone's USB port as a mouse and keyboard; with AssistiveTouch on, a click is a tap and a drag is a swipe
+- Any OpenAI-compatible vision model can be the brain, either a cloud API or a model you run yourself; a planner model writes a short plan and an actor model picks each next action (tap, swipe, draw, type, press a key, go home, finish)
+- Closes the loop: finds and corrects the pointer before each tap, checks whether the screen actually changed after each action, and re-plans on repeated actions. Nothing is installed on the phone, so it works in any app, including games
+
+### Links
+- [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent)
+- [YouTube demo](https://www.youtube.com/watch?v=Ly4im-P4jYg)
+- Author: [onehumanbeing](https://github.com/onehumanbeing) (GitHub), [@iamhenryyuan](https://x.com/iamhenryyuan) (X)
+
+</details>
+
 ## [evo.ninja](https://evo.ninja/)
 AI agent that adapts its persona to achive tasks
 
