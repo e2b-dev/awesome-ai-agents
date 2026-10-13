@@ -2372,6 +2372,28 @@ Productivity, General purpose
 </details>
 
 
+## [Quilzo](https://github.com/quilzo/quilzo)
+Self-hosted control plane for AI agents and the content they produce
+
+<details>
+
+### Category
+Build your own, Multi-agent
+
+### Description
+- Each agent is a reviewable declaration (purpose, capabilities, content it may read, tools by host, delegates, memory, budget, autonomy) enforced at one gate whichever model or program decides.
+- Asks a person before the actions that matter: the run stops and the exact call waits for approval.
+- Tracks what each run read; a run holding private data that has read somebody else's words cannot send anything out without a person.
+- Autonomy is earned through evaluations with planted instructions, and lost when the agent follows one.
+- Runs with any OpenAI-compatible model (Ollama locally, or hosted providers) through a gateway with budgets and PII masking; speaks MCP and A2A 1.0.
+- Every run is kept, replayable and provable as a receipt against a signed log. One Go binary, Apache-2.0.
+
+### Links
+- [GitHub](https://github.com/quilzo/quilzo)
+- [Docs](https://quilzo.github.io)
+
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
