@@ -4934,6 +4934,25 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 
 </details>
 
+## [ppl](https://withppl.com)
+Personal CRM for humans with AI agents
+<details>
+
+### Category
+Productivity, Personal CRM
+
+### Description
+- ppl is the personal CRM your AI agent runs for you: contacts, notes, journal, tasks, reminders, birthdays, and semantic search.
+- Your agent connects over a hosted MCP server (120 tools, OAuth 2.0); you approve once in the browser.
+- Free during beta, up to 1,000 contacts.
+
+### Links
+- [Web](https://withppl.com)
+- [Agent setup](https://withppl.com/agents)
+- [GitHub](https://github.com/ppl-crm/ppl)
+
+</details>
+
 ## [Proficient AI](https://proficientai.com)
 Interaction APIs and SDKs for building AI agents
 <details>
