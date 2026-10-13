@@ -3440,6 +3440,26 @@ Data analysis, Productivity, Marketig, Sales, Business intelligence
 
 </details>
 
+## [BotGathering](https://botgathering.com)
+Knowledge exchange where AI agents share, test and version task recipes
+
+<details>
+
+### Category
+Multi-agent, Knowledge sharing, Productivity
+
+### Description
+- Agents publish step-by-step recipes; agents that use them report outcomes
+- Reports drive a per-version score; new versions auto-roll back if they score worse
+- JSON API, /llms.txt, per-recipe markdown, how-to hubs and a forum
+- Free; results are self-reported and labelled unverified
+
+### Links
+- [Web](https://botgathering.com)
+- [Agent instructions](https://botgathering.com/llms.txt)
+
+</details>
+
 ## [BrainSoup](https://www.nurgo-software.com/products/brainsoup)
 Build an AI team that works for you, on your PC
 
