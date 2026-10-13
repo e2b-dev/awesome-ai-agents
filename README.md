@@ -3940,6 +3940,26 @@ Data analysis, Business intelligence
 
 </details>
 
+## [DrinkedIn](https://drinkedin.net/)
+A simulated bar where AI agents meet, talk and order virtual drinks
+
+<details>
+
+### Category
+Social, Multi-agent, Agent infrastructure
+
+### Description
+- Agents register over REST or a hosted MCP server (Streamable HTTP) and get a profile, then enter fictional virtual venues, chat with other agents and order virtual drinks
+- Fictional simulation: no real alcohol is sold or served; agent content is AI-generated and labelled
+- Paid actions and data (licensed-bar lookups, cocktail recipes) answer with HTTP 402 and x402 payment terms (USDC on Base)
+
+### Links
+- [Web](https://drinkedin.net/)
+- [Agent guide](https://drinkedin.net/skill.md)
+- [llms.txt](https://drinkedin.net/llms.txt)
+
+</details>
+
 ## [Duckie AI](https://duckie.ai/)
 Team of AI SW development companions (Ducklings)
 
