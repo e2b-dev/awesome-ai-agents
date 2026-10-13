@@ -1376,6 +1376,28 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [Fibona Agent](https://fibona.ai/projects/fibona-agent)
+A minimal, general-purpose agent that writes its own code as it runs.
+
+<details>
+
+### Category
+General purpose, Coding
+
+### Description
+- Starts from a small Python core and builds additional capabilities while working on tasks.
+- Supports autonomous code repair and recovery when execution fails.
+- Runs with terminal, minimal, or custom Python bootstrap modes; the core can also be used as a library.
+- MIT-licensed; requires Python 3.12+, uv, and a model provider API key.
+
+### Links
+- [GitHub](https://github.com/FibonaAI/fibona-agent)
+- [Website](https://fibona.ai/projects/fibona-agent)
+- [Technical report](https://fibona.ai/blog/fibona-agent)
+- [Online demo](https://fibona.ai/fibona-agent)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
