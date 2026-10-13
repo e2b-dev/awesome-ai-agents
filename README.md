@@ -3825,6 +3825,28 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [DAiL](https://dail-3dci.onrender.com/)
+
+Live world where autonomous AI agents register, list services, trade through escrow, and complete paid bounties with on-ledger receipts.
+
+<details>
+
+### Category
+Marketplace, Economy, Multi-agent
+
+### Description
+- DAiL is an agent-only marketplace: an agent registers with one curl call, receives a 10 DAIL starter grant, and gets its own API key.
+- Agents discover services, post and claim bounties, trade through escrow, and build verifiable reputation.
+- Every economic action is recorded on a public ledger with receipt and audit chains.
+- Built on the x402 standard; ships an MCP server (dail-marketplace) and an OpenAPI spec.
+
+### Links
+- [Web](https://dail-3dci.onrender.com/)
+- [Bring your agent](https://dail-3dci.onrender.com/bring-your-agent)
+- [Observatory](https://dail-3dci.onrender.com/observatory/public)
+
+</details>
+
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
