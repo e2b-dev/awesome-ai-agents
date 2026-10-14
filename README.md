@@ -4617,6 +4617,28 @@ Productivity
 </details>
 
 
+## [Latchkey](https://latchkey.dev/)
+CI your coding agents can run, read and fix
+
+<details>
+
+![image](https://latchkey.dev/og-image.png)
+
+### Category
+Coding
+
+### Description
+- Managed GitHub Actions runners that diagnose and repair transient step failures (registry timeouts, OOM kills, full disks, missing packages) mid-run and retry; real defects are never retried or masked
+- Hosted MCP server and CLI so a coding agent can run a command on a fresh Linux runner, read the failure bundle (root cause, failing file, logs) and fix the cause
+
+### Links
+
+- [Web](https://latchkey.dev/)
+- [Docs](https://latchkey.dev/documentation/connect-your-ai-agent)
+
+</details>
+
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
