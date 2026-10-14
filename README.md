@@ -5543,6 +5543,28 @@ E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.c
 See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchain-and-e2b?utm_source=github&utm_medium=referral&utm_campaign=readme&utm_content=awesome-ai-agents).
 
 </details>
+## [Lumina Capital](https://github.com/ramuza0113-sketch/lumina-ai-hedge-fund)
+
+Autonomous multi-agent quantitative hedge fund engine (LangGraph, Qlib Alpha158 & Google TimesFM)
+
+<details>
+
+### Category
+Finance, Multi-agent, Quantitative
+
+### Description
+- Multi-agent council debate with 7 legendary investor personas and Anti-Sycophancy cross-debate.
+- Pure native Python vectorized Microsoft Qlib Alpha158 factor engine with LightGBM meta-decision gatekeeper.
+- Google TimesFM and Amazon Chronos probabilistic price forecasting fan charts.
+- High-fidelity autonomous paper trading engine with slippage & fee deductions, plus independent 10-second fast price sentinel.
+- Self-evolving 3D causal knowledge graph & GraphRAG supply chain risk tracing.
+
+### Links
+- [GitHub](https://github.com/ramuza0113-sketch/lumina-ai-hedge-fund)
+- [Website](https://prompter-note.com)
+- [X](https://x.com/prompter_note)
+</details>
+
 
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
@@ -5557,6 +5579,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
+
 
 <!-- 
 <a href="https://discord.gg/U7KEcGErtQ" target="_blank">
