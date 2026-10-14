@@ -447,6 +447,25 @@ Coding, GitHub
 
 </details>
 
+## [auto-xhs](https://github.com/zr9959/auto-xhs)
+An AI agent that runs a Xiaohongshu account end to end — research, writing, video, posting, comments.
+
+<details>
+
+![Image](https://auto-xhs.tiybai.com/og.png)
+
+### Category
+Social media, Content creation, Productivity
+
+### Description
+Open-source system that lets a cloud AI agent (Muse, ChatGPT Dots, or Grok Bot) operate a Xiaohongshu (RedNote) account on its own: it researches topics, writes scripts, builds animated videos from web pages, posts through the agent's own browser, and follows up on comments. Publishing is gated by a rulebook and a validation script, and new use cases can be added as scenario packs.
+
+### Links
+- GitHub: [zr9959/auto-xhs](https://github.com/zr9959/auto-xhs)
+- Website: [auto-xhs.tiybai.com](https://auto-xhs.tiybai.com)
+
+</details>
+
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
 Agent that answers HR-related queries using tools
 
