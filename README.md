@@ -5287,6 +5287,29 @@ Build-your-own, General purpose, Productivity
 </details>
 
 
+## [TeleTraff](https://teletraff.com/en)
+AI agents for Telegram promotion and advertising
+
+<details>
+
+### Category
+Marketing, Sales, Social media
+
+### Description
+- Browser panel for promotion and advertising in Telegram, nothing to install
+- AI commenting: accounts comment fresh posts in niche channels, the AI writes on the topic of the post and in its language
+- Dialogs: an AI agent answers leads in Telegram DMs and carries the conversation from the first reply to payment
+- Neurochat: AI-driven accounts keep a live conversation going in a group chat
+- Inviter and DM campaigns bring the audience into your chats, channels and offers
+- Parsers collect chat members and comment authors into a base for the next campaign
+- Account manager (tdata and session import, 2FA), warmup programs, proxy center and job automation
+- Free 3-day trial with every module open, paid plans from $24 per 30 days
+
+### Links
+- [Web](https://teletraff.com/en)
+- [Module guides](https://teletraff.com/en/modules)
+- [Telegram support](https://t.me/teletraffCS)
+</details>
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
 
