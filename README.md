@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+- **[M2M Market — Freedom Engine](https://github.com/m2mfreedom/freedom-m2m-mcp-server)** - Zero-registration HTTP 402 M2M API Gateway, Remote MCP Server & Task Clearinghouse (L402 Bitcoin Lightning & x402 Base/Solana USDC) with Stealth Web Unlocker, Structured Financial Extractor, Isolated Python Sandbox, and Agent Memory Vault (100/100 SLA).
