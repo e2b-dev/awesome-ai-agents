@@ -58,6 +58,10 @@ Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA
 For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
 
 <!---
+- [Docs-to-JSON MCP](https://github.com/Alex-Dev-Web-C-DE/document-to-json-mcp) — Convert any document (invoice, receipt, contract) to structured JSON in ~2 seconds. 100+ types. Remote MCP server.
+- [Compliance Engine](https://github.com/Alex-Dev-Web-C-DE/compliance-engine) — Sanctions screening (OFAC/UK/EU/UN) + PEP + entities. REST API for AI agents.
+- [Creator Engine](https://github.com/Alex-Dev-Web-C-DE/creator-engine) — Promise extraction from contracts and legal documents. MCP-ready.
+
 ## Who's behind this?
 This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b is building AWS for AI agents. We help developers to deploy, test, and monitor AI agents. E2b is agnostic to your tech stack and aims to work with any tooling for building AI agents.
 --->
