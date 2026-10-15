@@ -4693,6 +4693,29 @@ Coding, Content creation, Productivity, Build-your-own (agent-builing frameworks
 
 </details>
 
+## [MakeAIVideo](https://makeaivideo.ai/)
+Video agent that turns a prompt, script or photo into a finished short video
+
+<details>
+
+![image](https://raw.githubusercontent.com/makeaivideo-ai/mcp/main/assets/logo-400.png)
+
+### Category
+Content creation, Marketing
+
+### Description
+- MakeAIVideo (makeaivideo.ai) takes a one-line idea or a script and makes a finished short-form video: it writes the script, generates each scene with AI video models or stock footage, adds an AI voiceover in 24 languages, captions and music, and renders an MP4 in 9:16, 1:1 or 16:9.
+- Tools include Prompt to Video, Script to Video, Talking Avatar, Image to Video, Character Swap and an AI Ad Maker. Finished videos can be posted or scheduled to TikTok, Instagram, YouTube and other networks.
+- An open-source MCP server (MIT) lets Claude, ChatGPT, Cursor and other MCP clients create and post videos from chat, with a hosted endpoint at https://mcp.makeaivideo.ai. There is also a REST API, webhooks and a CLI.
+- Paid plans from $9 a month, with a 7-day free trial.
+
+### Links
+- [Web](https://makeaivideo.ai/)
+- [Docs](https://makeaivideo.ai/docs/api)
+- [MCP server (GitHub)](https://github.com/makeaivideo-ai/mcp)
+
+</details>
+
 ## [Makedraft](https://makedraft.com/)
 Generate + edit HTML components with text prompts
 
