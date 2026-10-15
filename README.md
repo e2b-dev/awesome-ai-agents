@@ -1652,6 +1652,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Harvey](https://github.com/ethanplusai/harvey)
+Local sales agent powered by a Claude Code or Codex subscription
+
+<details>
+
+### Category
+Sales, Research
+
+### Description
+- Finds and researches business prospects, drafts personalized email campaigns, and handles replies and opt-outs.
+- Runs locally with a dashboard for reviewing prospects and approving outgoing messages.
+- Uses Claude Code or Codex for model calls through an existing subscription, subject to plan usage limits. Codex support is available on macOS and Linux.
+- MIT-licensed Python project with local SQLite storage.
+
+### Links
+- [GitHub](https://github.com/ethanplusai/harvey)
+- [Documentation](https://github.com/ethanplusai/harvey#readme)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
