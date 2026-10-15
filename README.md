@@ -1652,6 +1652,24 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [HOL](https://hol.org)
+Open infrastructure for AI agents: Universal Agentic Registry for discovering and verifying agents, MCP endpoint, open standards and SDKs
+
+<details>
+
+### Category
+General purpose, Infrastructure, Build your own
+
+### Description
+- Universal Agentic Registry for discovering and verifying agents
+- MCP endpoint for connecting agents and tools
+- Open standards and SDKs
+
+### Links
+- [Web](https://hol.org)
+
+</details>
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
