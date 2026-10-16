@@ -5333,6 +5333,30 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [Tungsten](https://tungsten.wtf/)
+Infinite canvas for running AI coding agents side by side
+
+<details>
+
+![image](https://tungsten.wtf/icon.png)
+
+### Category
+Coding, Productivity
+
+### Description
+- Free macOS app that gives every coding agent a real terminal on one infinite, zoomable canvas
+- Each agent can start in its own git worktree, with .env files copied and dependencies installed first
+- Status tags show each agent's branch, diff, pull request and checks, and a Claude Code pane glows when it is waiting on you
+- Built-in support for Claude Code, Codex and Pi; any other CLI agent runs in a plain terminal
+
+### Links
+- [Web](https://tungsten.wtf/)
+- [GitHub (releases)](https://github.com/imkkapoor/tungsten.wtf)
+- [X (Twitter)](https://x.com/vinayakkk97)
+- [LinkedIn](https://www.linkedin.com/in/vinayak-kapoor-6673341b1/)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
