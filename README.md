@@ -1036,6 +1036,23 @@ An AI code assistant from Sourcegraph that writes code and answers questions for
 
 </details>
 
+## [Concord](https://getconcord.ai)
+Local-first coordination layer for multiple coding agents
+
+<details>
+
+### Category
+Coding / Multi-agent
+
+### Description
+Concord is a local-first coordination layer (MCP server) that lets multiple coding agents share presence, claims, messages, handoffs and review packets so several agents can work in one repo without colliding.
+
+### Links
+- [Website](https://getconcord.ai)
+- [GitHub](https://github.com/Get-Concord-AI/concord-mcp)
+
+</details>
+
 ## [Continue](https://continue.dev/)
 Open-source autopilot for software development
 
