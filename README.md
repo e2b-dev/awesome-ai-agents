@@ -1422,6 +1422,23 @@ Coding
 
 </details>
 
+## [Frink](https://github.com/benord-labs/frink)
+Visual workflows for AI coding agents
+
+<details>
+
+### Category
+Coding, Build-your-own (agent-builing frameworks and platforms)
+
+### Description
+- Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux.
+
+### Links
+- [Web](https://frink.dev)
+- [GitHub](https://github.com/benord-labs/frink)
+
+</details>
+
 ## [GeniA](https://github.com/genia-dev/GeniA)
 Engineering platform engineering AI team member
 
