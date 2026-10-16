@@ -2550,6 +2550,28 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 </details>
 
 
+## [SuperLocalMemory](https://github.com/qualixar/superlocalmemory)
+Local-first governed memory for AI agents, shared across Claude Code, Codex, Cursor and any MCP client
+
+<details>
+
+### Category
+General purpose, Memory, Tools
+
+### Description
+- One memory shared by the agents you use: Claude Code, Codex, Cursor, Copilot, Antigravity, Hermes and any harness that speaks MCP or runs a command
+- Answers say when the memory does not hold the answer instead of guessing
+- Role, workspace and scope checks on reads, with an audit trail for every action
+- SLM-Mesh lets local agents and web bots exchange messages, locks and shared state
+- Mode A needs no API key and no cloud account; AGPL-3.0-or-later
+
+### Links
+- [GitHub](https://github.com/qualixar/superlocalmemory)
+- [Website](https://www.superlocalmemory.com)
+- Author: [Varun Pratap Bhardwaj](https://varunpratap.com)
+
+</details>
+
 ## [Suspicion Agent](https://github.com/CR-Gjx/Suspicion-Agent)
 Paper on imperfect information games
 
