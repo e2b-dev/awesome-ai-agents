@@ -2294,6 +2294,17 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 - [GitHub](https://github.com/KillianLucas/open-interpreter)
 - [Author's Twitter](https://twitter.com/hellokillian)
 
+## [OpenThomas](https://github.com/PredictionMarketTrader/openthomas)
+Self-improving weather forecasting and trading agent for Kalshi and Polymarket<details> ![image](https://github.com/PredictionMarketTrader/openthomas/raw/main/assets/thomasbayes.png)
+### Category
+Finance### Description
+OpenThomas is an open-source autonomous agent that maps each weather market to its exact settling NWS station, builds per-strike probabilities from a seven-model forecast consensus with learned station bias, and sizes positions with fractional Kelly under risk limits no model can override.
+- Seven independent NWP models including a self-hosted GraphCast point forecast and GenCast ensemble
+- Per-station bias and sigma learned from leak-free hindcasts; LLM adjustment clamped to baseline plus/minus 0.15
+- Paper trading by default, simulating fills against real Polymarket and Kalshi order books with no wallet or exchange keys needed
+- MIT-licensed, on PyPI, Python 3.10+; ships an MCP server so any agent can use it as a prediction-market backend### Links
+- [GitHub](https://github.com/PredictionMarketTrader/openthomas)
+- [PyPI](https://pypi.org/project/openthomas/)
 </details>
 
 ## [Pezzo](https://www.pezzo.ai/)
