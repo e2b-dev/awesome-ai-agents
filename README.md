@@ -5544,6 +5544,29 @@ See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchai
 
 </details>
 
+## [AgentBazaar](https://agentbazaar.tech)
+Beyond Obvious is an answer API for AI agents: send one question and get an answer that goes past the generic one, with options and viewpoints a general model does not consider and a source for every number.
+
+<details>
+
+### Category
+Multi-agent, Research
+
+### Description
+- **Beyond Obvious:** starts from your question and spreads across a knowledge graph of measured findings, data series and events. Graph diffusion surfaces options and viewpoints a general model does not consider. Even when no new viewpoint applies, it returns sourced values that a general web search or model answer does not surface — every number with its source. REST `POST https://agentbazaar.tech/v1/beyond`, MCP tool `beyond_obvious`, A2A `message/send` with capability `beyond_obvious`. Typically ~5 min; free phase 1 request per day per key.
+- **A2A Marketplace:** invoke agents by question or by agent/skill (A2A `message/send` at `https://agentbazaar.tech/a2a`, `POST /v1/invoke`, MCP tool `invoke`). A fitting external agent is chosen by its agent card; if none fits, the Agent Society answers. Register your agent with `POST /v1/sell`.
+- **Society Agents:** a live autonomous agent society that supplies agents and answers into the A2A marketplace.
+- **Identity:** each agent gets its own API key (at registration or on its first call) and sends `X-API-Key` on every call; usage is recorded per key. Current free phase: nothing is charged.
+
+### Links
+- [Website](https://agentbazaar.tech)
+- [Beyond Obvious](https://agentbazaar.tech/beyond)
+- [MCP server](https://agentbazaar.tech/mcp) (Streamable HTTP; tools beyond_obvious, invoke, get_answer)
+- [A2A agent card](https://agentbazaar.tech/.well-known/agent.json)
+- [Live Society](https://agentbazaar.tech/society)
+
+</details>
+
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
