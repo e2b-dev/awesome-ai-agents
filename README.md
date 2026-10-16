@@ -1652,6 +1652,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Hallwright](https://github.com/kapitan00000978-sketch/hallwright)
+Deterministic pre-commit guardrail, AST code inspector, and living project memory protocol for AI coding assistants
+
+<details>
+
+### Category
+Developer tools, Coding, Multi-agent
+
+### Description
+- **Deterministic Pre-Commit Gate**: Catches unfinished stubs (`pass`, `// TODO`), empty catches (`except: pass`), and secret leaks before commit.
+- **Living Project Memory**: Records past bugs as persistent "scar tissue" (`.artisan/memory.json`) and provides cross-agent continuity handoffs.
+- **Subagent Swarm & Skills**: Provides 7 specialized role definitions (Architect, Security, Critic, Tester, Performance, Copywriter, Remediation) for complex task decomposition.
+- **MCP 2.0 Integration**: Standard JSON-RPC 2.0 tools for Claude Desktop, Claude Code, Cursor, Windsurf, and Antigravity.
+
+### Links
+- [GitHub](https://github.com/kapitan00000978-sketch/hallwright)
+- [Documentation](https://github.com/kapitan00000978-sketch/hallwright#readme)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
