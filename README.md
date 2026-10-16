@@ -70,6 +70,17 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [QWK ($QWK) Autonomous MEV Infrastructure](https://github.com/chase-tqg/QWIK-MEV-Core)
+### Category
+Web3, DeFi & Autonomous MEV Execution Infrastructure
+### Description
+Autonomous multi-chain EVM MEV execution agent backed by $400,000+ in verified enterprise infrastructure grants (Google Cloud $250k+, NVIDIA $100k+, Cloudflare $50k+) and on-chain smart contract seed escrow (`QWKResourceEscrow.sol`) with A2A v1.0, x402, MCP, and ElizaOS plugins.
+### Links
+- [GitHub](https://github.com/chase-tqg/QWIK-MEV-Core)
+- [Web3 Investor & Escrow Portal](https://chase-tqg.github.io/QWIK-MEV-Core/)
+- [A2A v1.0 Agent Card](https://chase-tqg.github.io/QWIK-MEV-Core/.well-known/agent.json)
+
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
