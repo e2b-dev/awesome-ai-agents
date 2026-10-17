@@ -1651,6 +1651,27 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 
 </details>
 
+## [Imza](https://github.com/umutsevdi/imza)
+Terminal coding agent that keeps you in the loop
+<details>
+
+![Image](https://raw.githubusercontent.com/umutsevdi/imza/main/screenshots/layout.png)
+
+### Category
+Coding, CLI
+
+### Description
+- Imza is a terminal coding agent with a Plan, Build, Review workflow built around a co-editable plan document
+- It works with any OpenAI-compatible or Anthropic-compatible model, including local ones; no telemetry, no account, single native binary
+- Sandboxed tool execution behind a single permission gate, with shell-aware scoped grants
+- Includes MCP client support, concurrent subagents, headless/CI mode, and persistent sessions
+
+### Links
+- [Website](https://imza.run)
+- [GitHub](https://github.com/umutsevdi/imza)
+- Author: [Umut Sevdi](https://github.com/umutsevdi) (Github)
+
+</details>
 
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
