@@ -3920,23 +3920,27 @@ Coding, Productivity
 </details>
 
 ## [Dot](https://www.getdot.ai/)
-Virtual assistant that help with data analytics
+AI data analyst that answers questions on your own data warehouse
 <details>
 
-![image](https://assets-global.website-files.com/644a347ea803e322d9c0feb8/644a36f6d9f2d08386070b0d_fox_avatar_7.jpg)
+![image](https://www.getdot.ai/brand/fox-icon-128.png)
 
 ### Category
 Data analysis, Business intelligence
 
 ### Description
-- Dot allows to chat with your Data Warehouse (e.g. Snowflake, BigQuery,  RedShift, Postgres ...) or Semantic Layer (e.g. Looker, dbt, dotML).
-- Answer most business questions instantly 24/7, so data teams can focus on deep work, not on answering easy questions about dashboards
-- Category: Research, Business intelligence, Data analysis
+- Dot (getdot.ai) is an AI data analyst. People ask questions in plain English in Slack, Microsoft Teams or the web app, or from AI agents through its remote MCP server and CLI.
+- It finds the right tables, writes and runs SQL on the company's own data warehouse, and answers with charts, data and the SQL it ran.
+- Data teams train it with notes, semantic layer and dbt context, and evaluations. A Context Agent keeps that knowledge current.
+- It also builds data apps and scheduled reports.
 
 ### Links
 - [Website](https://www.getdot.ai/)
-- [Linkedin](https://www.linkedin.com/company/sled-software/)
-- Founder's linkedin - [Rick Radewagen](https://www.linkedin.com/in/radewagen/)
+- [Docs](https://docs.getdot.ai/)
+- [MCP server](https://docs.getdot.ai/developers/mcp)
+- [LinkedIn](https://www.linkedin.com/company/getdot-ai)
+- [YCombinator profile](https://www.ycombinator.com/companies/getdot)
+- Founder's LinkedIn - [Rick Radewagen](https://www.linkedin.com/in/radewagen/)
 
 </details>
 
