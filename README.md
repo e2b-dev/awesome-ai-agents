@@ -1709,6 +1709,28 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+
+## [Jimy Agent](https://github.com/Jimmyjoe13/jimmy-agent)
+Personal AI desktop agent with voice interaction
+
+<details>
+
+### Category
+Personal assistant, Voice
+
+### Description
+Jimy Agent is a personal AI desktop agent with voice interaction, built with Rust, Tauri, and Godot.
+- Embodied AI assistant with avatar
+- Voice-controlled personal automation
+- Local execution on user's machine
+- Open source
+
+### Links
+- [GitHub](https://github.com/Jimmyjoe13/jimmy-agent)
+- [Website](https://jimy-agent.me)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
