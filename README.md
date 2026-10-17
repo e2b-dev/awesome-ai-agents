@@ -5589,3 +5589,6 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+- [JSONexLab MCP Servers](https://github.com/Alex-Dev-Web-C-DE) - 5 MCP servers for AI agents: sanctions screening, HS code classification, finance validators, document extraction, and trade compliance.
+
