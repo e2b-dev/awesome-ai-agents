@@ -182,6 +182,31 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agentown](https://github.com/wanatabe-yuu/agentown)
+Self-hosted company of AI agents with real jobs, permissions and computers, in a 3D office
+
+<details>
+
+![Image](https://raw.githubusercontent.com/wanatabe-yuu/agentown/main/docs/images/office.jpg)
+
+### Category
+Multi-agent, General purpose, Build-your-own
+
+### Description
+- Agents are lasting employees with a job, a manager, a workspace and permissions the server enforces; a title grants nothing by itself
+- The CEO hires from allowed job templates, leads assign work, workers send results up for review; what an agent may not do becomes a request to its lead or the owner
+- Each agent can use real computers (Chromium, terminal, ffmpeg) and the objects in its office; you watch the screen live
+- Bring your own model keys (Anthropic, OpenAI-compatible); keys stay on the server behind a model broker
+- A whole organization is a YAML "world" with its departments, jobs and 3D office; share worlds through a GitHub marketplace
+- Runs on k3s, one pod per team, with Pod Security, NetworkPolicies and admission rules; MIT licensed
+
+### Links
+- [GitHub](https://github.com/wanatabe-yuu/agentown)
+- [Website](https://agentown.site)
+- [Docs](https://agentown.site/docs/)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
