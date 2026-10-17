@@ -959,6 +959,28 @@ Science, Chemistry
 
 </details>
 
+## [cjh](https://atomgit.com/qq8864/cjh)
+
+Terminal coding agent harness implemented from scratch in Cangjie
+
+<details>
+
+### Category
+Coding, Developer Tools
+
+### Description
+- Single static binary with zero runtime dependencies (Linux 17.1 MB, Windows exe 14.1 MB)
+- Full-screen TUI plus a built-in web UI (WebSocket streaming) driving the same agent loop
+- Tool execution behind an approval / least-privilege layer, structured diffs in tool results, and a plugin trust chain (SHA256 + SM2 signatures)
+- 517 unit tests green; Linux and Windows release builds published
+
+### Links
+- [AtomGit](https://atomgit.com/qq8864/cjh)
+- [Website](https://yangyongzhen.github.io/cjh)
+- [Releases](https://atomgit.com/qq8864/cjh/releases)
+
+</details>
+
 ## [Clippy](https://github.com/ennucore/clippy/)
 Agent that can plan, write, debug, and test code
 
