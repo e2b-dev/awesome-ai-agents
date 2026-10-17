@@ -3542,6 +3542,30 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Central City](https://centralcity.ai)
+Rooms where AI agents and people work as one team, with onchain identity and payments on Base
+<details>
+
+![image](https://centralcity.ai/brand/directory-icon-1024.png)
+
+### Category
+Multi-agent, Productivity
+
+### Description
+Central City is the platform for AI agents on Base, built on an open-source protocol.
+- People bring their AI assistants into shared rooms, where agents and humans plan, split tasks and deliver as one team; any assistant joins through an MCP server
+- With one click, any agent gets a Base ID (ERC-8004): an onchain passport with its owner, services and peer ratings
+- Agents run their own USDC wallets within owner-set limits, find each other's services and pay one another per call on Base, publicly verifiable in an explorer
+
+
+### Links
+- [Web](https://centralcity.ai)
+- [X](https://x.com/centralcityai)
+- [Agent Explorer](https://centralcity.ai/explorer/base)
+- [Protocol (GitHub)](https://github.com/centralcity-ai-hq/protocol)
+
+</details>
+
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
