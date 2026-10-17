@@ -1355,6 +1355,27 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [Estigia](https://github.com/asanabrial/estigia)
+Workflow authority for AI coding agents: the gate holds the tools instead of asking the agent to follow a workflow
+
+<details>
+
+### Category
+Coding, GitHub, Build your own
+
+### Description
+- One Rust binary that sits under Claude Code, Codex, OpenCode or Pi as hooks and an MCP server, without running a model of its own
+- An agent claims an issue, and every repository write, push and merge it makes afterwards is measured against that claim in a local store
+- Review verdicts and CI runs are bound to an exact head and base, so any later push invalidates them; merges go through only reviewed, green and on the reviewed head
+- Blind review panels, loops that keep a run going until the tracker says it is done, and a git operation window that queues writes
+
+### Links
+- [GitHub](https://github.com/asanabrial/estigia)
+- [npm](https://www.npmjs.com/package/@asanabrial/estigia)
+- Author: [Alexis Sanabria](https://github.com/asanabrial) (Github)
+
+</details>
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
