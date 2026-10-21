@@ -474,6 +474,29 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Awareness](https://github.com/everest-an/Awareness-Market)
+Local-first persistent memory for AI coding agents — hybrid retrieval with zero LLM calls at retrieval
+
+<details>
+
+![Image](https://github.com/everest-an.png)
+
+### Category
+Memory management, Coding, MCP
+
+### Description
+- Local-first persistent memory for every AI coding agent: Markdown + SQLite hybrid retrieval (FTS5 + embeddings RRF), works fully offline with no account.
+- 96.0% R@5 on LongMemEval (ICLR 2025, 500 questions) with zero LLM calls at retrieval; reproducible benchmark in-repo.
+- Apache-2.0, self-hosted core; native plugins + MCP for OpenCode, Claude Code, Cursor and Windsurf; Python & TypeScript SDKs.
+- Optional hosted cloud for team sync and cross-machine recall: https://awareness.market
+
+### Links
+- [GitHub](https://github.com/everest-an/Awareness-Market)
+- [Website](https://awareness.market)
+- [Benchmarks](https://awareness.market/benchmarks)
+- [Docs](https://awareness.market/docs)
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
