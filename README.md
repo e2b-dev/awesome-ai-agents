@@ -389,6 +389,28 @@ General purpose
 
 
 
+## [AutoJob](https://github.com/feritzcan2/AutoJob)
+AI job search and auto-apply desktop agent
+
+<details>
+
+![Image](https://raw.githubusercontent.com/feritzcan2/AutoJob/main/docs/images/tracking-table.png)
+
+### Category
+Productivity, Personal assistant
+
+### Description
+- Open-source desktop app (macOS, Windows) that runs the job search for you with the AI coding agent you already have (Claude Code, Codex CLI or OpenCode).
+- Scans LinkedIn, Indeed, StepStone, XING, Workable and 25+ other job sites on a schedule and scores every listing against your CV, with a short reason.
+- Fills in and submits application forms in your own Chrome, writes a cover letter for each job and drafts LinkedIn notes to recruiters for you to approve.
+- Data stays local; logins and CAPTCHAs are handed back to the user.
+
+### Links
+- [GitHub](https://github.com/feritzcan2/AutoJob)
+- [Web](https://feritzcan2.github.io/AutoJob/)
+
+</details>
+
 ## [Automata](https://github.com/emrgnt-cmplxty/automata)
 Generate code based on your project context
 
