@@ -5586,6 +5586,35 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 - WinGPT - AI assistant for Windows https://news.ycombinator.com/item?id=36472854
 
+## [DevBoost Utility Suite](https://rapidapi.com/optimiziapycloud/api/devboost-utility-suite)
+Enterprise AI security guardrail against prompt injection, LLM context sanitization, and developer utilities.
+
+<details>
 
 
+
+
+
+## [DevBoost Utility Suite](https://github.com/optimiziapy-cloud/devboost-utility-api)
+High-performance, agent-ready API suite designed for security, context sanitization, and backend data processing.
+
+<details>
+
+### Category
+AI Security, Prompt Injection Guardrails, Context Sanitizers, Developer Tools
+
+### Description
+DevBoost Utility Suite is an enterprise-grade REST API designed to secure autonomous AI agents and optimize context pipelines. It features a 3-layer guardrail protecting LLMs against Prompt Injections, Jailbreaks (DAN mode), RCE, and SQLi, along with token-optimized HTML/text sanitization for RAG workflows.
+
+### Key Features
+- **AI Guardrail (`POST /agent-guardrail`)**: 3-layer security against prompt injections, system overrides, and payload attacks.
+- **Context Sanitizer (`POST /sanitize-for-ai`)**: Removes web noise (CSS, JS, ads) for clean LLM context ingestion.
+- **Data Hygiene (`POST /validate-data`)**: Real-time validation for email patterns, temp-mail detection, and phone normalization.
+- **Text & Web Utilities**: Fast sentiment analysis, intent classification, and OpenGraph link metadata extraction.
+
+### Links
+- **GitHub Repository**: [optimiziapy-cloud/devboost-utility-api](https://github.com/optimiziapy-cloud/devboost-utility-api)
+- **RapidAPI Hub**: [DevBoost Utility Suite Listing](https://rapidapi.com/optimiziapycloud/api/devboost-utility-suite)
+
+</details>
 -->
