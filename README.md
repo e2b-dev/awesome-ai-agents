@@ -887,6 +887,29 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [Caudra](https://github.com/caudra/caudra)
+Terminal coding agent with steerable subagents, in one native binary
+
+<details>
+
+![Image](https://caudra.ai/social-card.png?v=1)
+
+### Category
+Coding, Terminal
+
+### Description
+- Caudra is an open-source interactive coding agent for the terminal, written in Rust and released under Apache 2.0
+- You can steer any subagent while it works, ask side questions with /btw without interrupting the main agent, and revert file changes from the session history
+- It works with 17 built-in providers or a local model, and runs on macOS, Linux, and Windows
+
+### Links
+- [Website](https://caudra.ai/)
+- [Documentation](https://caudra.ai/docs/)
+- [Recordings of real sessions](https://caudra.ai/gallery/)
+- [GitHub](https://github.com/caudra/caudra)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
