@@ -3775,6 +3775,8 @@ Coding
 
 ### Links
 - [Web](https://contextqa.com/)
+- [MCP documentation](https://mcp.contextqa.com/docs)
+- [Self-service signup](https://ship.contextqa.com/)
 - [X (Twitter)](https://x.com/ContextQa)
 
 </details>
