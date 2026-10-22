@@ -5556,6 +5556,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 ## Join the community
 - Follow us on [X ](https://twitter.com/e2b)
 - [Hit us up on discord](https://discord.gg/35NF4Y8WSE)
+- [PDFnoted](https://pdfnoted.com) — Browser-first PDF workspace with AI watermark removal, annotation review, and three-jurisdiction compliance checking (CN/US/EU)
 - Feel free to reach out to us at [hello@e2b.dev](mailto:hello@e2b.dev).
 
 <!-- 
