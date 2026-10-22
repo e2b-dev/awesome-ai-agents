@@ -2636,6 +2636,22 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Talavine Code](https://github.com/scrossen/talavine-code)
+Bring your own model. Take apart the harness.
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Talavine Code is an MIT-licensed coding harness for editing files and running commands with your own API keys or tool-capable local Ollama models.
+
+### Links
+- [GitHub](https://github.com/scrossen/talavine-code)
+
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
