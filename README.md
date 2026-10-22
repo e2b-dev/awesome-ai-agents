@@ -1470,6 +1470,32 @@ General purpose
 
 </details>
 
+## [Godmode Bot](https://github.com/codextde/godmode-bot)
+Persistent AI coworkers that do computer work in your own browser and apps
+
+<details>
+
+![Image](https://raw.githubusercontent.com/codextde/godmode-bot/main/docs/screenshots/chat.png)
+
+### Category
+Productivity, General purpose
+
+### Description
+- Desktop app (macOS, Windows, Linux) plus web dashboard and phone app that turns your Claude subscription into a team of persistent agents
+- Agents do computer work end to end: emails, invoices, spreadsheets, shop orders and reports
+- Own browser with your logins; a local vault fills passwords, 2FA codes and passkeys without the AI seeing them
+- Routines and automations (schedules, app events, webhooks), a task board, and approvals before risky steps
+- Every agent keeps its own memory, instructions and history, and can hand work to other agents
+- Runs the official Claude Code CLI under the hood with your own Claude login
+- Open source (MIT), free to build from source; signed apps with a 14-day free trial
+
+### Links
+- [GitHub](https://github.com/codextde/godmode-bot)
+- [Website](https://usegodmode.com)
+- Author: [Daniel Ehrhardt](https://github.com/danielehrhardt) ([Codext GmbH](https://codext.de))
+
+</details>
+
 ## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
 The ultimate AI agent integration for Discord
 
