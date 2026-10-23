@@ -2196,6 +2196,29 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OMK (Open Multi-Agent Kit)](https://github.com/dmae97/omk)
+Lightweight, MIT-licensed TypeScript coding agent for the terminal
+<details>
+
+### Category
+Coding, Developer tools, Multi-agent
+
+### Description
+- Standalone terminal coding agent that reads files, edits code, and runs commands
+- Switch models mid-session with `/model`; resume later with `/resume` or `omk -c`
+- `/goal verify <command>` marks a goal done only when your own check passes on the current workspace
+- Built-in bash is sandboxed by default (`sandbox-exec` or `bwrap`, no network, fails closed)
+- Opt-in subagents, MCP servers, skills and extensions
+- Works with subscription providers, API keys, and local models
+- Install: `npm install -g open-multi-agent-kit`
+
+### Links
+- [GitHub](https://github.com/dmae97/omk)
+- [npm](https://www.npmjs.com/package/open-multi-agent-kit)
+- [Documentation](https://github.com/dmae97/omk/blob/main/packages/coding-agent/docs/index.md)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
