@@ -95,6 +95,25 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [agent-doctrine](https://github.com/sisig-ai/agent-doctrine)
+Shared operating doctrine that takes coding agents from spec to a tested PR
+
+<details>
+
+### Category
+Coding, Multi-agent, Productivity
+
+### Description
+- Installs one set of instructions, role prompts and skills into Claude Code, Codex, Cursor, OpenCode, Grok, Muse and Amp
+- Lead agent delegates to scout, implementer, simplifier and adversarial-review subagents
+- 15-question pre-code gate, per-diff review, fast and rigorous modes
+- Per-host model bindings in one delegation.toml
+
+### Links
+- [GitHub](https://github.com/sisig-ai/agent-doctrine)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
