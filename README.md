@@ -5360,6 +5360,30 @@ Coding
   
 </details>
 
+## [Vidova](https://vidova.ai/)
+AI video editing agent that edits your own footage
+
+<details>
+
+![image](https://vidova.ai/android-chrome-512x512.png)
+
+### Category
+Video editing, Content creation, Marketing
+
+### Description
+- Upload your clips and describe the video you want; the agent cuts, captions, animates and beat-syncs them on a real multi-track timeline
+- Watches and reads the footage first (what is on screen, what is said, the strongest moments) and checks the finished film for problems a viewer would notice before rendering
+- Every edit stays open: keep, change or undo it by hand or by chat
+- Exports MP4, Premiere Pro FCPXML and DaVinci Resolve OTIO
+- Hosted MCP server (`https://mcp.vidova.ai/mcp`, OAuth) so Claude, ChatGPT and Cursor can drive the same editor; listed in the official MCP Registry as `ai.vidova/vidova`
+
+### Links
+- [Web](https://vidova.ai/)
+- [MCP docs](https://vidova.ai/docs/mcp)
+- [Agent skills and plugin configs](https://github.com/youneslaaroussi/vidova-skills)
+</details>
+
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
