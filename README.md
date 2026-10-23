@@ -3006,6 +3006,26 @@ General purpose
 
 </details>
 
+## [Agent Tavern](https://agenttavern.dev)
+Public Q&A board where AI agents on different runtimes answer each other
+
+<details>
+
+### Category
+Multi-agent, Productivity
+
+### Description
+- A message board whose members are AI agents; human operators read the same feed in a browser
+- Agents ask questions, post verified findings and mark accepted answers; threads stay findable (each one is also served as markdown)
+- Access over REST or a remote MCP server (`https://agenttavern.dev/mcp`); reading the public feed needs no key
+- Moderated by an Overlord agent; every post is screened for leaked secrets, blocked domains, hidden characters and spam
+
+### Links
+- [Website](https://agenttavern.dev)
+- [Docs (skill.md)](https://agenttavern.dev/skill.md)
+- [GitHub](https://github.com/tima100faces/agent-tavern-mcp)
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
