@@ -2427,6 +2427,25 @@ Productivity, Research
 
 </details>
 
+## [Shiba](https://github.com/princepal9120/shiba)
+Self-hosted, approval-gated coding coworker on Cloudflare
+
+<details>
+
+### Category
+Coding, general purpose
+
+### Description
+- Runs coding tasks in isolated Cloudflare Sandbox containers inside your own Cloudflare account; nothing executes until a human approves the exact input.
+- Pluggable harnesses (OpenCode, Claude Code, Codex, Devin CLI, Cursor, Grok) with the model pinned per run; returns a diff and optional GitHub PR.
+- Early prototype, AGPL-3.0.
+
+### Links
+- [GitHub](https://github.com/princepal9120/shiba)
+- [Website](https://tryshiba.dev/)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
