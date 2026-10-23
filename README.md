@@ -1652,6 +1652,31 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Grux](https://gruxai.com)
+Open source, local-first AI agent for macOS
+
+<details>
+
+![image](https://raw.githubusercontent.com/dotcomjack/grux/main/docs/screenshots/command-panel.png)
+
+### Category
+General purpose, Productivity, Multi-agent, Supports open-source models
+
+### Description
+- Native macOS app (Swift/SwiftUI, Apple silicon, macOS 14+) with one Command Panel for mail, calendar, contacts, notes, documents and meetings.
+- Runs persistent shell sessions in your project, and snapshots every command into a shadow git repository first, so anything it did can be undone.
+- Runs swarms of agents in parallel, builds and runs iOS apps in the simulator, and can drive the screen.
+- Records meetings, transcribes them on device and tells speakers apart without uploading the audio.
+- Works with your own API key, or with a local model through Ollama and no key at all. No account and no server. MIT licensed.
+
+### Links
+- [Web](https://gruxai.com)
+- [GitHub](https://github.com/dotcomjack/grux)
+
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
