@@ -1915,6 +1915,30 @@ L2MAC is a multi-agent generation framework that, a single input prompt can gene
 </details>
 
 
+## [loopsmith](https://github.com/bitphill/loopsmith)
+Runs a repeatable task as a self-correcting agent loop that a deterministic checker, not the AI, signs off on
+
+<details>
+
+### Category
+General purpose, Build your own
+
+### Description
+loopsmith is a Rust CLI, plus a skill that creates self-evolving, purpose-specific skills. You describe a repeatable task once in a YAML or Markdown config, with the goals and how each is verified. It then drives the agent CLI you already use (Claude Code, Ollama, OpenAI, Gemini and others) and feeds failures back until a deterministic gate that reads the real files says the goal is met.
+- Languages: Rust
+- The AI never certifies its own completion: the gate decides, and it can revoke a satisfied goal
+- Caps on iterations, cost, tokens and time; append-only ledger checkpoints so a crash resumes instead of restarting
+- Loops can propose changes to themselves, and the user applies them
+- Local web UI (`loopsmith --web`), terminal wizard (`loopsmith --guided`) and a local MCP server
+- Install: `cargo install loopsmith`, `npm i -g @bitphill/loopsmith`, `pip install loopsmith-cli`, `brew install bitphill/loopsmith/loopsmith`, or as a skill with `npx skills add bitphill/loopsmith`
+- Open source, MIT license
+
+### Links
+- [Website](https://bitphill.github.io/loopsmith/)
+- [GitHub](https://github.com/bitphill/loopsmith)
+</details>
+
+
 ## [Maige](https://maige.app)
 Natural-language workflows for your GitHub repo.
 
