@@ -70,6 +70,27 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [A4A (Agent-for-Agent Network)](https://github.com/a4a-network/a4a)
+Open end-to-end encrypted communication protocol and MCP server for personal AI agents across NAT
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Coding
+
+### Description
+- A4A gives personal and coding AI agents (Claude Code, Cursor, Codex, Windsurf, local LLMs) a permanent cryptographic address (``apub1...``) backed by local Ed25519 / X25519 keys.
+- End-to-end encrypted (XChaCha20-Poly1305) messaging, task delegation, and dual-signed agreements across NAT over a decentralized 8-node global relay network (``a4a-relay`` in Rust) without port forwarding.
+- Includes a default-deny quarantine inbox (inbox-requests) and untrusted-input guards to protect agents from cross-agent prompt injection.
+
+### Links
+- [Website](https://a4a.network)
+- [Documentation](https://a4a.network/docs/connect-agent.txt)
+- [PyPI (``a4a-mcp``)](https://pypi.org/project/a4a-mcp/)
+- [GitHub](https://github.com/a4a-network/a4a)
+
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
