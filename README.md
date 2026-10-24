@@ -4912,6 +4912,25 @@ Coding, research
 
 </details>
 
+## [PlaysmithAI](https://playsmithai.com)
+AI-agent game studio for Windows 10/11; paid plans make Roblox games (Luau and Rojo). Roblox is a trademark of Roblox Corporation. PlaysmithAI is not affiliated with or endorsed by Roblox Corporation.
+
+<details>
+
+### Category
+Coding, Multi-agent, Game development
+
+### Description
+- A Studio Lead turns game-development requests into tickets for specialist agents; a reviewer checks changes and important steps require human approval.
+- Free tier: the Lead and three specialists in a terminal for one small browser game, with no product account or card required. Bring your own AI access.
+- Paid plans add a visual board, code review, test gates and bot playtests, and also make Unity games. Unity is a trademark of Unity Technologies or its affiliates.
+- AI usage is billed separately by your AI provider. Features vary by plan. We are not affiliated with OpenAI.
+
+### Links
+- [Web](https://playsmithai.com)
+
+</details>
+
 ## [Powerdrill AI](https://powerdrill.ai/)
 AI agent that completes your data job 10x faster
 
