@@ -1771,6 +1771,30 @@ Lemon agent is a Plan-Validate-Solve (PVS) Agent for accurate, reliable and repr
 
 </details>
 
+## [life](https://github.com/mattabate/life-distributable)
+Self-hosted personal AI assistant on Claude Code, with iPhone, Mac and web apps it edits itself
+
+<details>
+
+![image](https://raw.githubusercontent.com/mattabate/life-distributable/main/docs/img/sessions.png)
+
+### Category
+Productivity, Personal assistant
+
+### Description
+life is a self-hosted AI assistant built on Claude Code that helps you meet your goals. Your Mac runs the agents and reaches your iPhone over a private Tailscale VPN; nothing is on the public internet.
+- **Installs from one prompt**: give Claude Code one sentence and it sets up the hub and the apps by following SETUP.md.
+- **Apps it edits itself**: ask from the app for a new page, a data source or a change to how it works, and the agent builds it.
+- **Asks before acting**: spending money, deleting, contacting people or sharing go through approval cards you approve or deny.
+- **Recommendations, calendar and goals**: it learns your goals, makes recommendations with evidence and keeps a calendar of steps.
+- MIT licensed.
+
+### Links
+
+- [GitHub](https://github.com/mattabate/life-distributable)
+
+</details>
+
 ## [LLM Agents](https://github.com/mpaepper/llm_agents)
 Library for building agents, using tools, planning
 
