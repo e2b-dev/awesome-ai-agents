@@ -2427,6 +2427,27 @@ Productivity, Research
 
 </details>
 
+## [ShibaClaw](https://github.com/RikyZ90/ShibaClaw)
+Self-hosted personal AI agent with WebUI, memory, tools and automation
+
+<details>
+
+### Category
+General purpose, Personal assistant, Multi-agent, Productivity
+
+### Description
+
+- Self-hosted personal AI assistant with a built-in WebUI and a Windows desktop launcher.
+- Supports local models through Ollama or any OpenAI-compatible endpoint, and configured cloud model providers.
+- Includes persistent memory, MCP tools, reusable skills, sub-agent delegation, and scheduled automations.
+- Security controls include encrypted credential storage, workspace restrictions, SSRF filtering, and prompt-injection defenses.
+
+### Links
+- [GitHub](https://github.com/RikyZ90/ShibaClaw)
+- [Documentation](https://github.com/RikyZ90/ShibaClaw/tree/main/docs)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
