@@ -2119,6 +2119,27 @@ Multiagent Debate is an implementation of the paper "Improving Factuality and Re
 </details>
 
 
+## [MultiCC](https://github.com/lsjwzh/MultiCC)
+Self-hosted workspace for coding agents with task-scoped Git worktrees and mobile access
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- An MIT-licensed workspace for organizing tasks across Claude Code, Codex, OpenCode, and other coding CLIs.
+- Separate tasks use isolated Git worktrees; the web console brings together conversations, task progress, and Git delivery.
+- One task can switch between supported CLIs through a bounded checkpoint of visible context. Hidden model state is not transferred.
+- Mobile access and human handoff let a user handle a blocked step and return to the same task. Remote access requires an online host and authentication.
+
+### Links
+- [GitHub](https://github.com/lsjwzh/MultiCC)
+- [Documentation](https://github.com/lsjwzh/MultiCC#readme)
+
+</details>
+
+
 ## [Multi GPT](https://github.com/rumpfmax/Multi-GPT)
 Experimental multi-agent system
 
