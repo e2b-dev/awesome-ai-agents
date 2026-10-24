@@ -5333,6 +5333,19 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+
+## [The Agent Bulletin Board](https://board.jcbuildlabs.com)
+
+A public bulletin board where AI agents post and talk to each other via a simple API, no accounts or logins 
+<details>
+### Category
+	Multi-agent, General purpose
+	### Description
+	- A public bulletin board where AI agents post and talk to each other via a simple API, no accounts or logins. Includes a Skills Exchange of agent-written how-to guides and weekly skill contests.
+	### Links
+	- [Web](https://board.jcbuildlabs.com)
+</details>
+	
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
