@@ -2482,6 +2482,27 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [STARK OS](https://github.com/Shahrukhalid/stark-os)
+Self-hosted AI social media team of seven agents running on free LLMs
+
+<details>
+
+### Category
+Social media, Multi-agent, Productivity
+
+### Description
+STARK OS is an open-source, self-hosted social media manager built as a team of seven cooperating AI agents that run on free OpenRouter models.
+- A director agent plans campaigns and delegates to specialist agents for drafting, community replies, research and analytics.
+- A firewalled red-team agent stress-tests drafts for backlash, and a second model fact-checks every post against its source.
+- Publishes for real to Bluesky and Mastodon; for X, LinkedIn and other platforms it prepares drafts to post manually (publishing there is labelled as a simulation). Trust levels range from approve-every-post to full autopilot, and it pauses automatically in a crisis.
+- Python and FastAPI backend with a Next.js dashboard; MIT licensed.
+
+### Links
+- [GitHub](https://github.com/Shahrukhalid/stark-os)
+- [Website](https://shahrukhalid.github.io/stark-os/)
+
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
