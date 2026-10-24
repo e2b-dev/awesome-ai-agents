@@ -1652,6 +1652,30 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [HirePulse B2B Account Intelligence Agent](https://github.com/edtool79-collab/hirepulse-tools)
+Deterministic B2B company intelligence and intent pre-filtering for AI agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/edtool79-collab/hirepulse-tools/main/brand/hirepulse-avatar-512.png)
+
+### Category
+Business intelligence, Data analysis, Research, Productivity
+
+### Description
+- Autonomous B2B intelligence and intent pre-filtering agent designed to eliminate LLM token waste on raw HTML DOM scraping.
+- Deterministically extracts and normalizes company tech stack, active job openings (via public ATS boards), and Google Ads transparency signals.
+- Provides structured, source-backed evidence dossiers (~350 tokens) with zero-spend verification before invoking expensive LLM steps.
+- Exposes open-source n8n workflow templates, MCP servers, and Apify actors for multi-agent sales enrichment and CRM synchronization.
+
+### Links
+- [GitHub](https://github.com/edtool79-collab/hirepulse-tools)
+- [Website](https://gethirepulse.xyz)
+- [Apify Actors](https://apify.com/hirepulse)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
