@@ -813,6 +813,33 @@ Coding
 
 </details>
 
+## [Borg](https://github.com/adelphidata/borg)
+Security-first personal AI assistant in Rust, built to run for weeks without babysitting
+
+<details>
+
+![Image](https://github.com/adelphidata/borg/raw/main/docs/assets/borg-logo.png)
+
+### Category
+General purpose, Productivity, Coding
+
+### Description
+- Runs on your machine as native Rust binaries. One daemon serves the terminal UI, desktop app, web UI, and chat channels
+- Reach Borg over Telegram, Slack, Discord, Teams, Google Chat, Signal, WhatsApp, SMS, and iMessage
+- Sandbox on by default (Seatbelt on macOS, Bubblewrap on Linux). `~/.ssh`, `~/.aws`, and `.env` files stay blocked
+- Self-healing: crashed subsystems restart with backoff, and a nightly sweep fixes stalled tasks and memory indexes with no LLM call
+- API key rotation and provider failover keep turns going through rate limits and outages
+- Long-term memory with hybrid search, scheduled tasks, goals, skills, and MCP servers
+- `/migrate` imports OpenClaw, Hermes Agent, Claude Code, and Cursor setups in one command
+- MIT license
+
+### Links
+- [GitHub](https://github.com/adelphidata/borg)
+- [Documentation](https://github.com/adelphidata/borg/tree/main/docs)
+- [Releases](https://github.com/adelphidata/borg/releases)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
