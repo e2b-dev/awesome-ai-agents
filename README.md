@@ -3440,6 +3440,24 @@ Data analysis, Productivity, Marketig, Sales, Business intelligence
 
 </details>
 
+## [Bluwhale](https://www.bluwhale.com/)
+Create and test research agents with Bluprint
+
+<details>
+
+### Category
+Research, Build-your-own
+
+### Description
+- Bluprint is Bluwhale's hosted no-code agent builder, with a Research workflow that can be customized through natural-language instructions.
+- The worked guide creates an on-demand BTC and ETH news brief with publication dates and source links, then checks the response against the original sources.
+
+### Links
+- [Worked guide](https://www.bluwhale.com/create-ai-agent)
+- [Bluprint](https://profile.bluwhale.com/bluprint)
+
+</details>
+
 ## [BrainSoup](https://www.nurgo-software.com/products/brainsoup)
 Build an AI team that works for you, on your PC
 
