@@ -2296,6 +2296,25 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [openswarm](https://github.com/surlymochan/openswarm)
+Quota-aware multi-agent dispatcher for coding tasks: Claude plans, cheaper agents execute in isolated git worktrees.
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- **Claude plans, cheaper agents execute**: The planner (Claude Code) breaks work into tasks and reviews the results; openswarm routes each task to the cheapest capable executor — Codex, OpenCode Go, or DeepSeek.
+- **Quota-aware routing**: Provider quota windows are read before routing, so a task is never sent to an already-exhausted plan.
+- **Isolated, budgeted runs**: Each task runs in its own git worktree under a hard budget, and the result is verified on the host before being reported back.
+- **Zero-dependency Python**: Installable as a Claude Code skill. Benchmarks against other orchestrators, including SWE-bench Verified runs with raw records, are published in the repo.
+
+### Links
+- [GitHub](https://github.com/surlymochan/openswarm)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
