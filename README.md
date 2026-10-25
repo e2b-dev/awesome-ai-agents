@@ -5333,6 +5333,28 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [Tray.ai](https://tray.ai/platform/merlin-agent-builder/)
+Tray agents: build them no-code or in code, on the same platform as your integrations
+
+<details>
+
+### Category
+Productivity, Business automation
+
+### Description
+- Two ways to build: a no-code agent builder, or in code with Tray Helix and your AI assistant (Claude Code, Codex, Cursor)
+- The no-code builder adds knowledge sources and ships the same agent to Slack, Teams, a chatbot, or an API
+- Agents take real actions across your systems, with connectivity to thousands of apps, databases, APIs, and services
+- Every tool call is logged, with approval workflows for actions that change data
+- Named a Major Player in the IDC MarketScape: Worldwide Agentic AI Platforms 2026
+
+### Links
+- [Web](https://tray.ai/platform/merlin-agent-builder/)
+- [Tray Helix](https://helix.tray.ai/)
+- [Docs](https://tray.ai/documentation/platform/artificial-intelligence/agent-builder/overview)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
