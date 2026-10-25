@@ -4774,7 +4774,7 @@ General purpose, Productivity
 - Its memory is a folder of plain Markdown files on the user's own disk, readable in any editor
 - It stays the same agent when the model underneath changes
 - It stops for the user's approval before steps that need their judgment
-- Commercial, closed-source app with a 7-day free trial
+- Closed-source app. Local features are free; cloud AI features need a subscription after a 7-day trial
 
 ### Links
 - [Web](https://monolithos.ai/)
