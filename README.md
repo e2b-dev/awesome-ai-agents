@@ -4762,6 +4762,24 @@ By creator of GitHub Copilot, in waitlist stage
 </details>
 
 
+## [Monolithos](https://monolithos.ai/)
+Personal agent for macOS, iOS and Windows with plain Markdown memory
+<details>
+
+### Category
+General purpose, Productivity
+
+### Description
+- A personal agent for macOS, iOS and Windows
+- Its memory is a folder of plain Markdown files on the user's own disk, readable in any editor
+- It stays the same agent when the model underneath changes
+- It stops for the user's approval before steps that need their judgment
+- Closed-source app. Local features are free; cloud AI features need a subscription after a 7-day trial
+
+### Links
+- [Web](https://monolithos.ai/)
+</details>
+
 ## [MultiOn](https://multion.ai/)
 Book a flight or order a burger with MultiOn
 <details>
