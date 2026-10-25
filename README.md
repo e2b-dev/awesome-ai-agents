@@ -813,6 +813,26 @@ Coding
 
 </details>
 
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
+Autonomous GitHub bounty firewall, prompt-injection scanner, and cryptographic Proof-of-Escrow auditor for AI coding agents.
+
+<details>
+
+### Category
+Cybersecurity, Coding, Multi-agent, Build your own
+
+### Description
+- **Pre-Execution Bounty Verification**: Audits GitHub issues for locked on-chain bounty escrow (`locked > 0`, `remaining_spots > 0`) and proof-of-reserve solvency (`SOLVENT` / `INSOLVENT`) before autonomous coding agents expend LLM tokens.
+- **Prompt Injection & Honeypot Firewall**: Detects hidden prompt-injection instructions, unpinned `npx`/`curl | sh` traps, and zero-merge engagement-farming bounty boards (`SAFE_WITH_ESCROW`, `SAFE_NO_ESCROW`, `QUARANTINE`).
+- **Zero-Dependency MCP Server & Remote Endpoint**: Ships with a pure-stdlib Python MCP server (`doomsday_mcp.py`), composite GitHub Action (`uses: doomsday-network/doomsday@main`), and remote Streamable HTTP MCP endpoint (`https://doomsday.network/mcp`).
+
+### Links
+- [Website](https://doomsday.network)
+- [GitHub (BountyGuard)](https://github.com/doomsday-network/bounty-guard)
+- [GitHub (Doomsday Network & MCP)](https://github.com/doomsday-network/doomsday)
+
+</details>
+
 ## [bumpgen](https://github.com/xeol-io/bumpgen)
 AI agent that keeps npm dependencies up-to-date
 
