@@ -2738,6 +2738,26 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Vicem](https://github.com/RAKKUNN/vicem)
+Zero-dependency AI coding agent context baton, 80-90% code skeletonizer with lossless MCP rehydration, and desktop utility GUI
+
+<details>
+
+![Image](https://raw.githubusercontent.com/RAKKUNN/vicem/main/gui-dark.png)
+### Category
+Coding, Multi-agent, Developer tools
+
+### Description
+- **Cross-Agent Context Baton**: Harvests live session transcripts, git diffs, and architectural state to hand off work seamlessly across 12 AI coding agents (Claude Code, OpenAI Codex CLI, Gemini CLI, Cursor, Windsurf, Antigravity, VS Code Copilot, OpenCode, Aider, Qwen Code, Continue, Cline) when 5-hour/weekly quotas or Context Rot hit
+- **80-90% Code Skeletonization & Lossless Rehydration**: Compresses source files into AST-like structural signatures while indexing exact line slices in a local SHA-256 ledger (`.vicem/ledger.json`) for on-demand rehydration via MCP (`vicem_rehydrate`)
+- **Cross-Platform Desktop Utility GUI (`vicem gui`)**: Zero-dependency local utility window with live quota telemetry, source-to-target relay matrix, and 34-rule secret redaction
+
+### Links
+- [GitHub](https://github.com/RAKKUNN/vicem)
+- [Release v1.1.0](https://github.com/RAKKUNN/vicem/releases/tag/v1.1.0)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
