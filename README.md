@@ -2042,6 +2042,27 @@ Unlike Copilot, Mentat coordinates edits across multiple locations and files. An
 </details>
 
 
+## [Mercury CLI](https://github.com/Whq02/MercuryCLI)
+A terminal-native environment for AI coding agents
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Runs AI coding agents in your terminal, inside your own git repositories, on macOS, Linux and Windows.
+- Several sessions side by side on one screen; crewmates run in isolated git worktrees with file leases.
+- 22 model providers, or your own model weights on your machine or a rented GPU.
+- Project memory across sessions, LSP, a DAP debugger, a browser and computer use built in.
+- TypeScript; open source under the Apache License 2.0.
+
+### Links
+- [GitHub](https://github.com/Whq02/MercuryCLI)
+- [Website](https://mercury-cli.ai)
+
+</details>
+
 ## [MetaGPT](https://github.com/geekan/MetaGPT)
 Agent framework returning Design, Tasks, or Repo
 
