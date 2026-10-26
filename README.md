@@ -5544,6 +5544,16 @@ See also a guide [here](https://e2b.dev/blog/build-ai-data-analyst-with-langchai
 
 </details>
 
+### [CortexForge](https://github.com/rekurt/cortex-forge)
+Enterprise multi-tenant control plane for [NousResearch Hermes Agent](https://github.com/NousResearch/hermes-agent) to deploy and manage 1 to 1,000+ isolated AI assistant containers on Docker Compose.
+- **Category**: Open-source multi-agent infrastructure & token quota proxy
+- **Features**:
+  - Zero API key exposure: agent containers only receive opaque `QUOTA_KEY_<NAME>` tokens; `quota-proxy` enforces per-user & per-department monthly token caps
+  - Real-time SSE streaming token accounting (`SSEUsageParser`) for Anthropic & OpenAI `text/event-stream` responses
+  - Inter-agent SQLite WAL message broker with priority queues and 1,000-agent broadcast in 14 ms
+  - Bulk provisioning (`scripts/bulk-users.py`) for 1,000 users with Docker Compose shard profiles (`shard-0..shard-9`)
+- **Links**: [GitHub](https://github.com/rekurt/cortex-forge), [Documentation](https://rekurt.github.io/cortex-forge/)
+
 ## Want to use E2B with your AI product?
 Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on discord](https://discord.gg/35NF4Y8WSE).
 
