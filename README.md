@@ -5210,6 +5210,30 @@ General purpose
 
 </details>
 
+## [SPOE](https://spoe.ai/)
+Private AI app builder: describe an app, a website or a game and get real code you own
+
+<details>
+
+![image](https://spoe.ai/brand/logo-icon.png)
+
+### Category
+Coding, App builder
+
+### Description
+- Turns a plain-English description into a full-stack Next.js, Fastify and Postgres app, a static website or a browser game, and runs it in a live preview
+- A second model from a different model family reviews every change before it lands; a blocked or unreviewed change waits for a human
+- The default models run on Venice's private inference, which keeps no copy of prompts or code
+- Exports carry a signed provenance manifest (Ed25519) and run with `docker compose up`, with no SPOE dependency inside
+- 5 free prompts a day once signed up; also offers a remote MCP server and an OpenAI-compatible API
+
+### Links
+- [Web](https://spoe.ai/)
+- [Compared with other app builders](https://spoe.ai/compare)
+- [Verify an export](https://spoe.ai/verify)
+
+</details>
+
 ## [Superluminal](https://superluminal.dev)
 AI copilot to your product's data dashboard
 
