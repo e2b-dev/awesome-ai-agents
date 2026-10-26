@@ -1289,6 +1289,27 @@ Build-your-own
 
 </details>
 
+## [DualTrust](https://github.com/codesbykhairannoor/dual-trust)
+Dual-Trust Matrix: Human Social Credit & Autonomous AI Agent Reputation Engine with Rogue Quarantine
+
+<details>
+
+### Category
+Security, Governance, Multi-agent, Infra
+
+### Description
+- **Reputation Matrix**: Mathematical dual-trust scoring with asymmetric power-law slashing ($v^{1.8}$) and exponential multi-strike acceleration ($m^k$) for compromised or malicious agents.
+- **Cryptographic Audit Ledger**: Append-only verifiable Merkle Tree audit trail complying with RFC 6962 domain separation (leaf 0x00, node 0x01).
+- **A2A Delegation Mandates**: Cryptographic delegation tokens enabling agent-to-agent capability delegation with execution budgets, max call limits, and depth caps.
+- **Circuit Breakers & Rogue Quarantine**: Sub-50µs SLA inline authorization gate that immediately halts, revokes, and quarantines rogue agents before policy trespasses escalate.
+- **Zero Dependencies**: Pure Python standard library with native adapters for LangChain, CrewAI, AutoGen, and Model Context Protocol (MCP Gateway).
+
+### Links
+- [GitHub](https://github.com/codesbykhairannoor/dual-trust)
+- [PyPI](https://pypi.org/project/dualtrust/)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
