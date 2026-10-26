@@ -447,6 +447,25 @@ Coding, GitHub
 
 </details>
 
+## [Awesome Agentic Patterns](https://github.com/DYNOSuprovo/awesome-agentic-patterns)
+Production AI Agent Playbook, Multi-Agent Topologies & MCP Tooling Stack
+
+<details>
+
+### Category
+Multi-agent, Developer Tools, MCP, Prompt Engineering
+
+### Description
+- Curated collection of battle-tested AI Agent architectures (Supervisor, Swarm, Plan-and-Execute, Evaluator-Optimizer).
+- Standardized Model Context Protocol (MCP) server configurations for Filesystem, Git, Postgres, and SQLite.
+- Drop-in production rule templates for Claude Code (`CLAUDE.md`), Cursor (`.cursorrules`), and Antigravity (`AGENTS.md`).
+- Includes an interactive Python setup CLI (`scripts/setup_agent.py`) to auto-detect project stacks and scaffold agent directives.
+
+### Links
+- [GitHub](https://github.com/DYNOSuprovo/awesome-agentic-patterns)
+
+</details>
+
 ## [Autonomous HR Chatbot](https://github.com/stepanogil/autonomous-hr-chatbot)
 Agent that answers HR-related queries using tools
 
