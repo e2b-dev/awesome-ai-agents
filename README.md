@@ -5117,6 +5117,29 @@ Productivity, Content creation
 
 </details>
 
+## [Sahkarmi](https://sahkarmi.site/)
+Open-source desktop AI coworkers for your computer with human-in-the-loop approvals
+
+<details>
+
+### Category
+Autonomous, Coding, Productivity, Desktop
+
+### Description
+Sahkarmi is an open-source team workspace where autonomous AI coworkers run directly on your machine with built-in human verification for all terminal, file, and browser actions.
+- Local execution with human-in-the-loop permission checkpoints
+- Multi-agent collaboration across long-running developer tasks
+- Desktop client with browser takeover and approval modals
+- Open-source under Apache-2.0 license
+
+### Links
+- [Web](https://sahkarmi.site/)
+- [GitHub](https://github.com/ganguydhrubo/sahakarmi)
+- [Founder LinkedIn](https://www.linkedin.com/in/dhrubojyoti-gangopadhyay)
+- [Product Hunt](https://www.producthunt.com/products/sahkarmi)
+
+</details>
+
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
