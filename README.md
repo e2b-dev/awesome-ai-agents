@@ -2482,6 +2482,25 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [Stepswitch](https://github.com/sarthak-1111/stepswitch)
+Open-source orchestrator that runs coding agents on local and remote models
+
+<details>
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Splits a coding task into typed steps and sends each one to the model that suits it, local first
+- Every change has to pass your tests and a review by a model from a different family
+- A ledger counts every token
+- Every number in the README is generated from evidence files that `ssw prove` re-creates, and CI re-runs those checks on Linux, macOS and Windows
+
+### Links
+- [GitHub](https://github.com/sarthak-1111/stepswitch)
+
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
