@@ -5486,6 +5486,29 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Yomates](https://yomates.ai/)
+A team of AI agents that do a seller's store admin in a real browser on their own computer
+
+<details>
+
+![image](https://yomates.ai/favicon.png)
+
+### Category
+Productivity, General purpose, Marketing, Sales
+
+### Description
+- A free desktop app (macOS, Windows, Linux) that gives a person running an online business a team of AI agents. Each agent drives one real browser on the user's computer; the user watches it work and can take over at any moment
+- Works in any site a browser can open, including seller centers and admin panels with no API: product listings, orders and stock, replies to reviews and DMs, product images, detail pages and short videos, jobs on a schedule
+- Stops for the user's OK before anything is published, paid, submitted or sent. Logins stay in an encrypted local vault and are filled in without the model reading them
+- Runs on the user's own ChatGPT, Claude or Gemini plan, or an API key
+
+### Links
+- [Web](https://yomates.ai/)
+- [LinkedIn](https://www.linkedin.com/company/leviosaai-kr)
+- [Instagram](https://www.instagram.com/yomates.ai)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
