@@ -4617,6 +4617,25 @@ Productivity
 </details>
 
 
+## [Light Cloud](https://light-cloud.com/)
+Deploy web apps from Claude through an MCP server
+
+<details>
+
+### Category
+Coding, Productivity
+
+### Description
+- Light Cloud is a deployment platform for static sites, containers and managed databases
+- The MCP server lets Claude sign up, deploy a local folder or a GitHub repo, and manage apps, databases and domains
+
+### Links
+- [Web](https://light-cloud.com/)
+- [MCP server](https://github.com/light-cloud-com/mcp-server)
+- [Docs](https://docs.light-cloud.com/)
+
+</details>
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
