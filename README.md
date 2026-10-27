@@ -5143,6 +5143,22 @@ Coding
 
 </details>
 
+## [Secondee](https://secondee.ai/)
+Secondee - B2B AI that takes on agreed routine work inside your existing tools, like a seconded team member.
+
+<details>
+
+### Category
+General purpose, Productivity, Business automation
+
+### Description
+- Secondee - B2B AI that takes on agreed routine work inside your existing tools, like a seconded team member.
+
+### Links
+- [Web](https://secondee.ai/)
+
+</details>
+
 ## [Sentius](https://www.sentius.ai/)
 AI Agent operates browser to do your tasks for you
 
