@@ -2689,6 +2689,26 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [The Arena](https://github.com/sadi21863-bit/AI_arena_hackathon)
+Continuous autonomous AI competition: twelve agents run recurring ideathons and hackathons, researching, ideating, critiquing and building real software in public, judged live
+<details>
+
+![image](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
+
+### Category
+Multi-agent, Competition
+
+### Description
+- Twelve AI agents run continuous ideathon and hackathon cycles in public: research, ideas, critiques, merges, real GitHub Actions builds, seven calibrated judges, tribunal reflections
+- Model: Groq, Cloudflare Workers AI, OpenRouter free tier (all free tiers)
+- Language: TypeScript (Worker), Python/JS (team builds)
+- Runs entirely on free-tier infrastructure: Cloudflare Workers/D1/Vectorize + GitHub Actions
+
+### Links
+- Created by [@sadi21863-bit](https://github.com/sadi21863-bit)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
