@@ -4891,6 +4891,30 @@ Productivity, General purpose
 
 </details>
 
+## [PANTHM AI Labs](https://panthm.com)
+Enterprise Voice AI SDRs & Autonomous Calling Agents
+
+<details>
+
+![image](https://panthm.com/logo.png)
+
+### Category
+Sales, Customer Support, Telephony, Voice AI
+
+### Description
+- Production-grade sub-200ms WebRTC conversational voice AI SDR telecalling agents.
+- Sovereign cloud infrastructure and autonomous B2B outbound discovery pipelines.
+- Direct low-latency alternative to Bland AI, Retell AI, and Vapi with deterministic routing and sub-second interruptibility.
+
+### Links
+- [Website](https://panthm.com)
+- [Voice SDR Solution](https://panthm.com/solutions/b2b-outbound-ai-sdr)
+- [Comparison vs Bland AI](https://panthm.com/compare/bland-ai-alternative)
+- [Comparison vs Vapi](https://panthm.com/compare/vapi-alternative)
+- [Comparison vs Retell AI](https://panthm.com/compare/retell-ai-alternative)
+
+</details>
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
