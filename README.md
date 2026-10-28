@@ -2764,6 +2764,25 @@ General purpose
 
 </details>
 
+## [VulnGuardian](https://github.com/huseyindol/vuln-guardian)
+Autonomous multi-language vulnerability scanner, single-batch safe-version patcher, pre-prod breaking-change verifier, and AI Agent Skill
+
+<details>
+
+### Category
+Coding, Cybersecurity, DevSecOps, Autonomous Agent Skill
+
+### Description
+- **6 Ecosystems Supported**: Scans `package.json` (npm/Bun), `pom.xml` (Maven), `pubspec.yaml` (Flutter/Pub), `requirements.txt` / `pyproject.toml` (PyPI), `go.mod` (Go), and `Cargo.toml` (Rust) against live Google OSV.dev & GitHub Security Advisories.
+- **Zero-PR-Spam Single-Batch Remediation**: Upgrades all vulnerable packages (Patch, Minor, and Major) together in a single batch instead of opening dozens of separate Dependabot PRs.
+- **4-Stage Pre-Prod Breaking-Change & Live Site Smoke Gate**: Verifies peer-dependency compatibility, CI build/type-check status, and live preview `HTTP 200 OK` on an isolated `security/batch-canary` branch before merging into `main`.
+- **Portable Agent Skill & Self-Hosted Dashboard**: Works as a global skill for Claude Code and Google Antigravity, paired with a self-hosted Next.js 16 Command Center.
+
+### Links
+- [GitHub](https://github.com/huseyindol/vuln-guardian)
+- [English Documentation](https://github.com/huseyindol/vuln-guardian/blob/main/README.en.md)
+</details>
+
 ## [Web3 GPT](https://w3gpt.ai/)
 Write & deploy smart contracts to EVM blockchains
 
