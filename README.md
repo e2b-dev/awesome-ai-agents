@@ -3202,6 +3202,25 @@ Productivity, Multi-agent, Coding
 
 </details>
 
+## [AppWizzy](https://appwizzy.com/)
+AI coding assistant for building web apps on a dedicated VM
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Builds and modifies web apps from natural-language instructions using Codex or Gemini CLI.
+- Runs the app in a dedicated development VM with support for PHP, Python, and Node.js stacks.
+- Provides Git integration to review, accept, or revert AI-generated code changes.
+
+### Links
+- [Web](https://appwizzy.com/)
+- [Pricing](https://appwizzy.com/pricing)
+
+</details>
+
 ## [Artisian AI](https://github.com/Artisan-AI)
 Agents for sales, e-mails, book keeping & more
 
