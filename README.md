@@ -5530,6 +5530,7 @@ To [try the OpenAI Assistants with E2B](https://docs.e2b.dev/llm-platforms/opena
 </details>
 
 ### :eight_pointed_black_star: [Langchain Data Analyst](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis)
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video / photo-to-video meme templates, 9:16, freemium).
 
 <details>
 
