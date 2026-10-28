@@ -1443,6 +1443,30 @@ Coding
 
 </details>
 
+## [GenTech Labs Agent Kit](https://github.com/ProtoJay4789/gentech-agent-kit)
+ERC-8004 agent identity framework with x402 pay-per-call intelligence
+
+<details>
+
+### Category
+Modular Agent Platform, Tooling
+
+### Description
+- ERC-8004 agent identity — deploy registered agents on-chain with reputation scores
+- 16 x402 pay-per-call endpoints across 6 chains (Base, Ethereum, Avalanche, Solana, BNB, Arbitrum)
+- Token risk scoring, wallet portfolio analysis, agent discovery, market intelligence
+- Integrated with Q402 gasless payments — agents earn USDC without holding gas tokens
+- Live gateway at api.gentechlabs.net — 3,000+ calls served
+- Open-source agent kit with deploy scripts, identity module, and MCP server
+
+### Links
+- Gateway: [gentechlabs.net](https://gentechlabs.net)
+- GitHub: [ProtoJay4789/gentech-agent-kit](https://github.com/ProtoJay4789/gentech-agent-kit)
+- x402 Gateway: [api.gentechlabs.net](https://api.gentechlabs.net)
+- Subscription Hub: [gentechlabs.net/subscription-hub](https://gentechlabs.net/subscription-hub.html)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
