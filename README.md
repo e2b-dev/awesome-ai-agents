@@ -5169,6 +5169,34 @@ General purpose, Multi-agent, Supports open-source models
 
 </details>
 
+## [Sherlocks AI](https://www.sherlocks.ai/)
+AI SRE agents that investigate production incidents and find the root cause
+
+<details>
+
+![image](https://www.sherlocks.ai/media/og-default.png)
+
+### Category
+Debugging, Multi-agent, Productivity
+
+### Description
+- AI SRE that investigates production incidents autonomously: when an alert fires, 16+ specialized agents work through logs, metrics, traces and recent deploys
+- Generates hypotheses about the root cause, tests them against the data, and ranks them by likelihood and impact
+- Delivers a root cause analysis in Slack with a confidence level, timeline, recommended remediation and links to the evidence; engineers ask follow-up questions in the same thread
+- Works with Kubernetes, AWS, GCP, Azure, Prometheus, Grafana, Datadog, New Relic, PostgreSQL, MySQL, MongoDB and Redis
+- Read-only access with a self-hosted deployment option; SOC 2 Type 2 certified
+- Free plan with 30 investigations per month
+
+### Links
+- [Web](https://www.sherlocks.ai/)
+- [Docs](https://www.sherlocks.ai/docs)
+- [Real investigations](https://www.sherlocks.ai/examples)
+- [LinkedIn](https://www.linkedin.com/company/sherlocks-ai)
+- [X (Twitter)](https://x.com/sherlocksdotai)
+- [YouTube](https://www.youtube.com/@sherlocks-ai)
+
+</details>
+
 ## [ShopPal](https://shoppal.ai)
 AI assistant, enhance shopping experience.
 
