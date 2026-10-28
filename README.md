@@ -2371,6 +2371,27 @@ Productivity, General purpose
 - Author: [Vasilije M](https://twitter.com/tricalt)
 </details>
 
+## [RAGFlow](https://github.com/infiniflow/ragflow)
+Open-source RAG engine for building knowledge-grounded AI agents and workflows.
+
+<details>
+
+### Category
+Build-your-own, General purpose, Productivity
+
+### Description
+RAGFlow is an open-source RAG engine for building AI agents powered by private knowledge bases.
+
+- Provides visual agent orchestration for customizable AI workflows.
+- Supports agentic retrieval and reasoning over private knowledge bases.
+- Combines deep document understanding, hybrid retrieval, and source citations.
+- Supports multiple LLM providers and self-hosted deployment.
+
+### Links
+- [GitHub](https://github.com/infiniflow/ragflow)
+- [Documentation](https://ragflow.io/docs)
+
+</details>
 
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
