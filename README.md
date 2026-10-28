@@ -2196,6 +2196,27 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Nova Agent](https://github.com/Luaz2021/Nova-Agent-Core-Demo)
+Autonomous software engineering copilot and multi-agent engine for Google Antigravity 2.0 & Gemini
+
+<details>
+
+### Category
+Coding, Software Engineering, Autonomous Agents, Multi-agent
+
+### Description
+- **First Google-Native Engineering Agent**: Built natively for Google Antigravity 2.0 and Google Gemini models.
+- **119 Specialized Engineering Skills**: Domain skills covering TDD, Clean Architecture, DevSecOps, GSAP motion, and 156 brand design systems.
+- **Strict TDD & Phantom Sandboxing**: Disallows unverified live code modifications; enforces AAA unit tests before committing.
+- **4-Tier Cost Architecture**: Routes high-volume repetitive tasks to local Ollama (Qwen 2.5 Coder 7B) for zero token costs, scaling to Gemini 3.8 Flash and Argon on demand.
+- **Cryptographic Provenance**: Signed with SHA-256 integrity manifest and persistent local memory.
+
+### Links
+- [GitHub](https://github.com/Luaz2021/Nova-Agent-Core-Demo)
+- [Antigravity Platform](https://antigravity.google)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
