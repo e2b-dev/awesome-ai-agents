@@ -4861,6 +4861,7 @@ Technical challenges of building AI products, Business/marketing challenges of b
 
 
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
+- [awesome-ai-agents](https://github.com/aixisstudio/awesome-ai-agents) - Curated directory of AI agent frameworks, platforms and tools.
 Chrome extension - general purpose AI agent
 
 <details>
