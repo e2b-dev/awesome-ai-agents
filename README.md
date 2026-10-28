@@ -4743,6 +4743,26 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [Merlin](https://mrrlin.com/)
+AI project director for goal-to-agent execution with evidence and approval gates
+
+<details>
+
+### Category
+Coding, Developer Tools, Multi-agent, Workflow automation
+
+### Description
+- Merlin turns high-level goals into scoped tasks, routes work to AI agents, captures evidence, and brings back reviewed outcomes for human approval.
+- Built for founders, small teams, and engineering operators coordinating Claude Code, Codex CLI, Cursor, and local agents with worktree isolation and approval gates.
+- Durable task state, command output logs, test artifacts, and human-in-the-loop verification before shipping.
+
+### Links
+- [Website](https://mrrlin.com/)
+- [Documentation](https://mrrlin.com/ai-coding-agent-orchestration-answers)
+
+</details>
+
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
