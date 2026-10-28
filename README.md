@@ -5235,6 +5235,23 @@ Coding, Data analysis
 
 </details>
 
+## [SwiftCall](https://swiftcall.org/ai-agents)
+AI agents that fill the gaps in a small business
+
+<details>
+
+### Category
+Customer support, Productivity, Voice
+
+### Description
+- A phone agent that answers every call, qualifies the caller and hands anything that needs a person to the team
+- Booking, CRM follow-up, social posting and back-office agents (invoices, payment reminders), plus custom agents
+- Live demo line at swiftcall.org/call-an-ai
+
+### Links
+- [Web](https://swiftcall.org/ai-agents)
+
+</details>
 ## [TalktoData](https://talktodata.ai/)
 Data discovery, cleaing, analysis & visualization
 
