@@ -5093,6 +5093,31 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [Requstory](https://requstory.com/ai-run/online-store/run/)
+Order-to-cash agents for B2B online stores that ask a person before they act
+
+<details>
+
+![image](https://requstory.com/rebuild-assets/brand/ai-run-store.png)
+
+### Category
+Business operations, finance
+
+### Description
+- Four agents run a B2B store's order to cash: process orders (reads order emails and scanned purchase orders, checks stock and credit), ship orders, invoice and collect payments (matches bank lines, drafts reminders), and handle returns
+- The agents stop and ask a person about credit over the limit, short stock, packing, reminders, unclear payments and refunds; businesses can set approval rules for small amounts
+- Sums, dates, stock, VAT and credit limits are worked out by code, not the model; every step and decision is logged with who made it
+- Nothing is sent on the business's behalf: emails are drafts in the results
+- Free demo on a made-up store, no sign-up; a business's own run is priced per order from prepaid credits
+- Works on the web, from the `requstory` CLI, and over MCP at `https://requstory.com/mcp`
+
+### Links
+- [Demo](https://requstory.com/ai-run/online-store/run/)
+- [API and MCP docs](https://requstory.com/developers/api/)
+- [CLI on npm](https://www.npmjs.com/package/requstory)
+- [GitHub (CLI)](https://github.com/3d7tech/requstory-cli)
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
