@@ -2738,6 +2738,27 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Volt](https://github.com/LeulAria/VOLT)
+Open-source AI code editor on the VS Code core for working with coding agents
+
+<details>
+
+### Category
+Coding, Productivity
+
+### Description
+- MIT-licensed editor built on the real VS Code core: extensions, themes, debuggers and language servers keep working
+- Runs Claude Code, Codex, OpenCode, Kimi and any Agent Client Protocol agent, or OpenAI/Anthropic/Gemini/OpenRouter and local models (Ollama, LM Studio) on your own keys
+- Every agent edit stays pending until you keep or undo it hunk by hunk; each turn is checkpointed in Git
+- Public beta (below 1.0)
+
+### Links
+- [Website](https://getvolt.dev)
+- [GitHub](https://github.com/LeulAria/VOLT)
+- [Discord](https://discord.gg/SJ97jqDVN)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
