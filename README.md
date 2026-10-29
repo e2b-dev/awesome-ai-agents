@@ -5042,6 +5042,26 @@ Build-your-own
 
 </details>
 
+## [Quintal](https://github.com/joaoh82/quintal)
+Self-hostable 2D office where ACP coding agents work as visible teammates
+
+<details>
+
+### Category
+Multi-agent Systems, Coding Agents
+
+### Description
+- Quintal is a self-hostable 2D office where ACP coding agents (Claude Code, Codex, Gemini CLI, Goose, Cursor) appear as visible teammates with avatars and presence.
+- You walk the map, talk to agents nearby, @mention them, and follow their work from the room view.
+- Proximity voice works between people; agents are not on voice.
+- AGPL-3.0. Single process with SQLite.
+
+### Links
+- [GitHub](https://github.com/joaoh82/quintal)
+- [Website](https://quintal.sh)
+
+</details>
+
 ## [Rebyte](https://rebyte.ai/)
 A Multi ai agents builder platform
 <details>
