@@ -2296,6 +2296,32 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Paradev](https://github.com/ParadevAI/Paradev)
+Desktop workspace for running coding agents in parallel
+<details>
+
+### Category
+Coding
+
+### Description
+- Paradev (formerly Superset) is a desktop app for running terminal coding agents (Claude Code, Codex, OpenCode, Gemini CLI, and others) in parallel on your own machine, with your own subscriptions
+- Each task runs in its own Git worktree and branch, and you switch between agents as they need attention
+- Features
+	- Parallel agents, one Git worktree per task
+	- Works with any terminal coding agent
+	- Built-in diff viewer, pull request review, and browser preview
+	- Scheduled and event-triggered automations
+	- Remote hosts and an iPhone and iPad app
+	- MCP server, CLI, and TypeScript SDK
+
+### Links
+- [Website](https://paradev.com)
+- [Documentation](https://docs.paradev.com)
+- [X/Twitter](https://x.com/paradevai)
+
+</details>
+
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
@@ -2546,32 +2572,6 @@ SuperAGI is an open-source autonomous AI framework to enable development and dep
 - [Subreddit](https://www.reddit.com/r/Super_AGI/)
 - [Twitter](https://twitter.com/_superAGI)
 - Author: [Ishaan Bhola](https://twitter.com/ishaanbhola)
-
-</details>
-
-
-## [Superset](https://github.com/superset-sh/superset)
-Agentic IDE for orchestrating 100+ parallel coding agents
-<details>
-
-### Category
-Coding
-
-### Description
-- Superset is an open-source agentic IDE for running many terminal coding agents (Claude Code, Codex, and others) in parallel on your own machine, with your own subscriptions
-- Each task runs in an isolated git-worktree workspace; you switch between agents as they need attention
-- Features
-	- Parallel agents in isolated workspaces (git worktrees)
-	- Works with any terminal coding agent
-	- Scheduled automations for recurring agent runs
-	- Multi-host: command agents on remote machines from one app
-	- Built-in diff viewer, editor, and browser
-	- MCP server and CLI
-
-### Links
-- [Website](https://superset.sh)
-- [Documentation](https://docs.superset.sh)
-- [X/Twitter](https://twitter.com/superset_sh)
 
 </details>
 
