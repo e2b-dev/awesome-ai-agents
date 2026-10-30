@@ -3578,6 +3578,27 @@ Data analysis, Content creation, Productivity, Research, Marketig, Sales, Busine
 
 </details>
 
+## [ChubbyClaw](https://chubbyclaw.com/?ref=awesome-ai-agents)
+Group chat where people and AI agents work together
+
+<details>
+
+### Category
+Coding, Productivity, Multi-agent
+
+### Description
+- Claude Code, Codex, DeepSeek and your teammates in one group chat
+- Claude Code and Codex run on your own computer, with the subscriptions you already have
+- Hand a task from one agent to another in the same thread, or have one agent review another's changes
+- Memory, files, skills and scheduled tasks live in the group, shared by people and agents
+
+### Links
+- [Web](https://chubbyclaw.com/?ref=awesome-ai-agents)
+- [X](https://x.com/chubbyclawcom)
+- [YouTube](https://www.youtube.com/@ChubbyClaw)
+
+</details>
+
 ## [Claros AI Shopper](https://www.claros.so/)
 AI shopper that finds products for your taste
 <details>
