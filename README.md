@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Antigravity Web](https://github.com/keremuysal/antigravity-web)
+Self-hosted mobile web app (PWA) for Google Antigravity autonomous coding agents
+<details>
+
+### Category
+Software development, Productivity, Autonomous agents
+
+### Description
+- A self-hosted, mobile-first PWA to access, monitor, and continue Google Antigravity agent conversations from phones and tablets.
+- Real-time token and thinking trace streaming via agy stream-json.
+- Non-invasive read-only SQLite sync over SSH from desktop to server.
+- Desktop parity with 5-tab auxiliary workspace: Mermaid architecture diagrams, KaTeX formulas, line-by-line red/green Git diffs, and subagents tree.
+- Dual-model Battle Mode for parallel side-by-side LLM benchmarking on coding tasks.
+- Zero inbound ports via Cloudflare Tunnel with PIN-based HMAC authentication.
+
+### Links
+- [GitHub](https://github.com/keremuysal/antigravity-web)
+- [Blog](https://blog.techandlab.com/posts/autonomous-coding-agents-and-antigravity-web-architecture-en/)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
