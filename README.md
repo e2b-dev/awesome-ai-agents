@@ -2296,6 +2296,32 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Paradev](https://github.com/ParadevAI/Paradev)
+Desktop workspace for running coding agents in parallel
+<details>
+
+### Category
+Coding
+
+### Description
+- Paradev (formerly Superset) is a desktop app for running terminal coding agents (Claude Code, Codex, OpenCode, Gemini CLI, and others) in parallel on your own machine, with your own subscriptions
+- Each task runs in its own Git worktree and branch, and you switch between agents as they need attention
+- Features
+	- Parallel agents, one Git worktree per task
+	- Works with any terminal coding agent
+	- Built-in diff viewer, pull request review, and browser preview
+	- Scheduled and event-triggered automations
+	- Remote hosts and an iPhone and iPad app
+	- MCP server, CLI, and TypeScript SDK
+
+### Links
+- [Website](https://paradev.com)
+- [Documentation](https://docs.paradev.com)
+- [X/Twitter](https://x.com/paradevai)
+
+</details>
+
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
