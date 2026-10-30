@@ -2825,6 +2825,27 @@ A-  multi-agent simulation library, with a goal to simulate and optimize systems
 - Presenting an architecture that extends a language model to store and synthesize the agent's experiences, enabling dynamic behavior planning in an interactive sandbox environment with generative agents
 </details>
 
+## [wisen](https://github.com/Vela3202019/wisen)
+A continuous-learning loop for coding agents: mines your corrections from real sessions and tends the instruction files your agents read
+
+<details>
+
+### Category
+Coding, Build-your-own, Productivity
+
+### Description
+- **Learns from real sessions**: reads Claude Code, Codex, Cursor, opencode, Gemini CLI and Pi transcripts and writes one private daily reflection
+- **Corrections become evals**: rejected tool calls, interruptions and rephrases are mined into a case bank with eval/holdout splits and clean regression cases
+- **The Gardener**: proposes one narrow change at a time to CLAUDE.md, AGENTS.md or skill files; you approve from an inbox and the change lands as a git branch, never a merge
+- **Measured, not assumed**: two weeks after a merge it compares corrections per 100 turns before vs after and drafts a revert if things got worse
+- **Local-first**: transcripts never leave your machine; one SQLite file; the optional server is a mailbox with no model key behind a typed egress gate
+- **Any model**: built on pydantic-ai, or run synthesis on a Claude subscription through the Claude Code CLI
+
+### Links
+- [GitHub](https://github.com/Vela3202019/wisen)
+- [Release v0.1.0](https://github.com/Vela3202019/wisen/releases/tag/v0.1.0)
+</details>
+
 ## [WorkGPT](https://github.com/team-openpm/workgpt)
 GPT agent framework for invoking APIs
 
