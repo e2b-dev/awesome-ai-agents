@@ -5589,3 +5589,17 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+
+## [OctaDezx](https://octadezx.com)
+### Category
+Customer Support & Omnichannel Operations
+
+### Description
+OctaDezx is an action-oriented agentic AI customer care platform that answers across 50+ languages on WhatsApp, Instagram, Telegram, and Web, with live conversational phone calling (human barge-in), photo triage vision, self-filling CRM primitives, and native Model Context Protocol (MCP) integration.
+
+### Links
+* [Website](https://octadezx.com)
+* [MCP Server](https://octadezx.com/ai-agent-mcp-server)
+* [Compare vs Fin & Gorgias](https://octadezx.com/compare/gorgias-fin-alternative)
+* [GitHub](https://github.com/cleverfox-77/octadezx-mcp)
