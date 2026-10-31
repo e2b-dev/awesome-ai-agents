@@ -2458,6 +2458,24 @@ Smol is your own junior developer. [Deployed in few seconds via e2b](https://app
 
 </details>
 
+## [SpecAgent](https://github.com/ghvinashvili/specagent)
+SpecAgent Pro Template: a project template that runs every coding-agent role as a full Claude Code session, not a subagent
+
+<details>
+
+### Category
+Coding, Multi-agent, Build your own
+
+### Description
+- **Every role a full session**: planner, critic, builder, verifier and judge each run as a full Claude Code session with its own context, worktree, sandbox and record on disk, managed from one chat; never a subagent.
+- **Gates in code**: a stage moves on only through a gate in code, and a finding counts only with its proof.
+- **One unit per session**: a hand-over note at the context cap lets a fresh session resume from the files; cost is measured per role.
+- **A project template**: one command makes a new project with the pipeline, a seeded private vault of rules, and copy-only version migrations.
+
+### Links
+- [GitHub](https://github.com/ghvinashvili/specagent)
+</details>
+
 ## [Stackwise](https://github.com/stackwiseai/stackwise)
 VSCode extension that writes nodejs functions
 
