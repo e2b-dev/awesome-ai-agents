@@ -4891,6 +4891,28 @@ Productivity, General purpose
 
 </details>
 
+## [Persqo](https://persqo.com/)
+AI personas that test web apps like real users
+
+<details>
+
+### Category
+Coding, Testing
+
+### Description
+- Runs AI personas (different ages, devices, patience levels) through a live web app in a real browser
+- Returns ranked issues with screenshots and severity, plus ready-to-paste fix prompts for coding agents
+- Remote MCP server (`https://persqo.com/api/mcp`) with tools such as start_run, list_findings and get_fix_prompt
+- Freemium: 3 free test sessions without a card; paid plans from $59/month
+
+### Links
+- [Web](https://persqo.com/)
+- [MCP server](https://github.com/YaakovTzedek/persqo-mcp)
+
+</details>
+
+
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
