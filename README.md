@@ -1187,6 +1187,27 @@ Build-your-own, General purpose
 
 </details>
 
+## [Deedglass](https://github.com/deedglass/deedglass)
+Deterministic execution gate, runtime guardrails, and WAL-level undo for AI agents
+
+<details>
+
+### Category
+Safety & Governance, Infrastructure, Database Integrity
+
+### Description
+- Sits between AI agents and their tools (MCP servers, PostgreSQL, APIs).
+- Decides each tool call before execution using CEL policy rules (allow, deny, require human countersignature).
+- Verifies committed writes against PostgreSQL logical replication stream (WAL).
+- Provides row-level undo and rollback for unintended agent database modifications.
+- Generates Ed25519 hash-chained sealed records that can be verified offline with the public key.
+
+### Links
+- [Github](https://github.com/deedglass/deedglass)
+- [Website](https://deedglass.com)
+
+</details>
+
 ## [DevGPT](https://github.com/jina-ai/dev-gpt)
 Team of virtual developers
 
