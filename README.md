@@ -1652,6 +1652,26 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [Guidey](https://github.com/exorticlabs/guidey)
+Open-source Socratic AI tutor with multimodal chalkboard derivations
+
+<details>
+
+### Category
+Education, Multimodal, Interactive Tutoring
+
+### Description
+- 🎓 Guidey is an open-source, interactive Socratic tutoring agent designed to help students think and solve problems on their own instead of spoiling answers.
+- Rather than dumping solutions like standard LLM chat wrappers, Guidey dynamically classifies student intent, enforces anti-monologue guardrails, and renders progressive hints, LaTeX math notation, and visual diagrams on a real-time digital blackboard.
+- Features a full-stack Next.js 14 frontend, FastAPI backend, and embodied 3D instructor canvas.
+
+### Links
+- [GitHub](https://github.com/exorticlabs/guidey)
+- [Web](https://guidey.exortic.com)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
