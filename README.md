@@ -3554,7 +3554,7 @@ Productivity, Coding, Notifications
 - MCP server that lets AI coding agents (Claude Code, Cursor, Codex, etc.) send you real SMS text messages and read your replies
 - Lets an agent notify you or ask a question while you are away from your computer, then continue based on your text reply
 - Hosted MCP endpoint (https://api.campfiresms.com/mcp) or the `campfire-mcp` npm package
-- US/Canada phone numbers; free demo, then $8/month for 400 texts
+- US/Canada phone numbers; free demo, then pay-as-you-go credit packs from $5
 
 ### Links
 - [Web](https://campfiresms.com/)
