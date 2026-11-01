@@ -3542,6 +3542,28 @@ Personal assistant, Business intelligence, Productivity, Data analysis
 
 </details>
 
+## [Campfire SMS](https://campfiresms.com/)
+Two-way SMS for AI coding agents via MCP
+
+<details>
+
+### Category
+Productivity, Coding, Notifications
+
+### Description
+- MCP server that lets AI coding agents (Claude Code, Cursor, Codex, etc.) send you real SMS text messages and read your replies
+- Lets an agent notify you or ask a question while you are away from your computer, then continue based on your text reply
+- Hosted MCP endpoint (https://api.campfiresms.com/mcp) or the `campfire-mcp` npm package
+- US/Canada phone numbers; free demo, then $8/month for 400 texts
+
+### Links
+- [Web](https://campfiresms.com/)
+- [GitHub (MCP server)](https://github.com/campfiresms/campfire-mcp)
+- [npm](https://www.npmjs.com/package/campfire-mcp)
+
+
+</details>
+
 ## [ChatHelp](https://chathelp.ai/)
 AI-powered Business, Work, Study Assistant
 
