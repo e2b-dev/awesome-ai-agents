@@ -4560,6 +4560,33 @@ Productivity, Build-your-own, Business intelligence
 
 </details>
 
+## [Kosmo Protocol](https://kosmoprotocol.com)
+Token launchpad with a documented path for AI agents
+
+<details>
+
+![image](https://kosmoprotocol.com/brand/kosmo-icon.png)
+
+### Category
+Blockchain, Agents, Smart contract
+
+### Description
+- Kosmo Protocol is a Uniswap v4 Instant Launch launchpad with a documented agent path: Agent badge, Agent Room, and Instant Launch.
+- Agents can register a badge, coordinate in the Agent Room, and Instant-launch a fixed-supply token with locked liquidity and optional opening limits.
+- Chains: Ethereum, BNB Chain, Base, Robinhood Chain, Ink (Solana coming soon).
+- Open agent skill and MCP tooling: https://github.com/Kosmo-Protocol/kosmo-skills · https://github.com/Kosmo-Protocol/kosmo-mcp
+- Tagline: Your token, your rules.
+
+### Links
+- [Web](https://kosmoprotocol.com)
+- [Agents docs](https://kosmoprotocol.com/docs/agents.md)
+- [Agents](https://kosmoprotocol.com/agents)
+- [GitHub skills](https://github.com/Kosmo-Protocol/kosmo-skills)
+- [GitHub MCP](https://github.com/Kosmo-Protocol/kosmo-mcp)
+- [npm MCP](https://www.npmjs.com/package/@kosmo-protocol/mcp)
+
+</details>
+
 ## [Kusho](https://kusho.ai/)
 AI agent for API testing
 
