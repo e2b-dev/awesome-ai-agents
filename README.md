@@ -2710,6 +2710,27 @@ Multi-agent, GUI Agent
 
 </details>
 
+## [UNCUT](https://github.com/Balanov/uncut)
+Headless coding-agent harness with full-history requests and untruncated tool results
+
+<details>
+
+### Category
+Coding
+
+### Description
+- One statically linked Go binary for shell pipelines, CI, containers, and local models.
+- Sends the entire conversation on every model call and does not truncate file contents or combined command output.
+- Supports NDJSON event streams and resumable append-only JSONL sessions.
+- Includes a reproducible proof suite for exact provider requests, complete I/O, edits, resume, and explicit truncation failures.
+- Works with OpenAI-compatible Chat Completions endpoints, including Ollama.
+
+### Links
+- [GitHub](https://github.com/Balanov/uncut)
+- [Proof and measurements](https://github.com/Balanov/uncut/blob/main/BENCHMARKS.md)
+
+</details>
+
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
