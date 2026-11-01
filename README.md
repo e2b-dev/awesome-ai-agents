@@ -2963,6 +2963,19 @@ General purpose
 
 # Closed-source projects and companies
 
+## [441 Engine — Agent Services](https://github.com/Moteur441/moteur441-agent-services)
+Pay-per-call services for autonomous agents on Solana — engine testing arena, verification, sealing, signals, telemetry, compute, weather API and VPS slices, with a written refund guarantee.
+<details>
+	### Category
+	
+	Agent services
+	### Description
+	- Pay-per-call services for autonomous agents on Solana, with a written refund guarantee.
+	### Links
+	- [GitHub](https://github.com/Moteur441/moteur441-agent-services)
+	- [Website](https://441engine.com)
+</details>
+
 ## [Ability AI](https://ability.ai/)
 Secure, People-Centric Autonomous AI Agents
 
