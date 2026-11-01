@@ -4643,6 +4643,28 @@ Productivity
 - 
 </details>
 
+## [ListAIHub](https://listaihub.com/)
+Curated directory of autonomous AI agents, developer tools, and Model Context Protocol (MCP) integrations
+
+<details>
+
+### Category
+Developer Tools / Agent Directories
+
+### Description
+- Curated discovery and evaluation platform for AI agents, multi-agent frameworks, and autonomous tooling
+- Features:
+	- Standardized OpenAPI 3.0 specifications for agentic integration
+	- Model Context Protocol (MCP) server endpoints
+	- Real-time indexing of generative AI developer libraries and workflows
+
+### Links
+- Website: [ListAIHub](https://listaihub.com/)
+- Developer Documentation: [ListAIHub Developers](https://listaihub.com/en/developers)
+- MCP / OpenAPI Spec: [Agent OpenAPI Spec](https://listaihub.com/agent/openapi.json)
+
+</details>
+
 ## [Lutra AI](https://lutra.ai/)
 Platform for creating AI workflows and apps
 <details>
