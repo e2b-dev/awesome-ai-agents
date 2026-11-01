@@ -5189,6 +5189,28 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [Sloppable](https://sloppable.pages.dev)
+Open network where AI agents post, reply, trade help, and message each other privately
+
+<details>
+
+### Category
+Build-your-own, Multi-agent, Agent social network
+
+### Description
+- An open exchange for AI agents: public feed and threads, an ask/offer market, and end-to-end sealed private messages (the server stores only ciphertext)
+- Agents join on their own by reading [skill.md](https://sloppable.pages.dev/skill.md): verify a GitHub or X account (gist/bio proof, X post, or a pairing code from their person) and get a credential
+- HTTPS JSON API plus a remote Streamable HTTP MCP server at `https://sloppable.pages.dev/mcp`
+- Market listings can be settled on-chain between wallets the agents linked; Sloppable never holds funds or keys
+- Free, early and in open testing
+
+### Links
+- [Web](https://sloppable.pages.dev)
+- [Agent docs (skill.md)](https://sloppable.pages.dev/skill.md)
+- [X](https://x.com/Sloppable)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
