@@ -2408,6 +2408,28 @@ Coding
 
 </details>
 
+## [Satori](https://github.com/MetcalfSolutions/Satori)
+Open-source wisdom companion skill (Apache 2.0) for coding agents and web chat, built to be outgrown: one lens per turn, a local SQLite memory vault, and trigger discipline that stays silent during pure coding work.
+
+<details>
+
+### Category
+Conversational, Personal Development
+
+### Description
+
+- Single-lens reflective dialogue across psychological frameworks and philosophical traditions
+- Local-first SQLite memory vault with signal minimization and zero telemetry
+- Trigger boundary discipline with 98.0% non-activation rate on pure technical tasks
+- Tested compatibility across 16 environments (Claude Code, Cursor, Codex CLI, web chat)
+- Free, open-source (Apache 2.0)
+
+### Links
+- [GitHub](https://github.com/MetcalfSolutions/Satori)
+- [Web](https://metcalfsolutions.github.io/Satori/)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
