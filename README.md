@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Alysis Code](https://github.com/AlysisAi/AlysisCode)
+Open-source CLI and desktop agent for coding and everyday computer work
+
+<details>
+
+### Category
+Coding, General purpose, Productivity
+
+### Description
+- Works with cloud model providers and local models through Ollama or LM Studio.
+- Includes web search, a sandboxed shell, MCP servers, skills, plugins, and scheduled tasks.
+- Generates Word, Excel, PowerPoint, and PDF files. Licensed under Apache-2.0.
+
+### Links
+- [GitHub](https://github.com/AlysisAi/AlysisCode)
+- [Website](https://alysiscode.com)
+- [Documentation](https://alysiscode.com/docs)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
