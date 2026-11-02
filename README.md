@@ -4902,8 +4902,8 @@ Verticalized voice agent, Customer service, Telephony
 ### Description
 - Answers a contractor's forwarded calls 24/7 in the company's name and takes the caller's name, callback number, service address and problem, plus any questions the owner adds in the dashboard
 - Built-in urgent rules for HVAC, plumbing, electrical and roofing calls, with safety first: a gas smell or CO alarm gets "leave the area and call 911", a burst pipe gets "shut off the main water valve if it is safe"; other trades run a general intake where urgency comes from the caller's own words
-- Texts urgent calls to the owner's alert phone (and to on-call crew once crew texts are switched on) and emails every call to the owner and alert addresses with the summary and a recording link; OnCrew does not dispatch, a person on the team calls back and decides
-- Calls are answered by OnCrew's own voice agent, which OnCrew builds and runs itself, on phone numbers OnCrew provides; the owner keeps their number and forwards the calls they miss, or every call
+- Texts urgent calls to the owner's alert phone (and to on-call crew once crew texts are switched on) and emails every real call to the owner and alert addresses with the summary and a recording link; OnCrew does not dispatch, a person on the team calls back and decides
+- Calls are answered by OnCrew's own voice agent, which OnCrew builds and maintains, on phone numbers OnCrew provides; the owner keeps their number and forwards the calls they miss, or every call
 - Books the job on the owner's Google Calendar when booking is connected and switched on; Housecall Pro is built in (MAX plan), and a webhook export sends every real call to Jobber, ServiceTitan or other tools
 - English by default; Spanish (Latin American) is a setting the owner switches on at no extra charge
 - Priced by included minutes of answered calls with a published per-minute overage, from $49/mo; 14-day free trial with no credit card to start your first trial
