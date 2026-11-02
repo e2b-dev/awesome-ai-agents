@@ -3667,6 +3667,32 @@ Codegen is an agent that allows automatically solve tickets, write tests and lev
 - [Founder's X](https://twitter.com/mathemagic1an)
 </details>
 
+## [CodeInOven](https://codeinoven.com/)
+
+Desktop workspace for coordinated agentic software engineering
+
+<details>
+
+![Image](https://github.com/pillardash-oss/codeinoven/raw/dev/docs/media/app-screenshot.png)
+
+### Category
+Coding, Multi-agent, General purpose, Open source
+
+### Description
+
+- **Runs the agents you already have**: Pi, Codex CLI, Claude Code, OpenCode, Cline, Antigravity and Muse Code are detected on the machine and chosen per thread, so no single vendor is required.
+- **A lifecycle in front of implementation**: Brainstorm, PRD, Spec, Assignment, Achievement, and an independent audit, instead of one endless chat. A stage that finishes parks the rest so each one is reviewable.
+- **The run stays visible**: reasoning, commands, file reads, diffs and checkpoints remain on screen while the work happens, with permission cards for anything that writes.
+- **Real tools for the agent**: an attached terminal, an inner browser, a file explorer and editor, and a git panel that reviews pull requests and resolves merge conflicts.
+- **Work that outlives a session**: scope-owned git worktrees, scheduled assistants, and sub-agent fan-out for larger objectives.
+
+### Links
+- [Website](https://codeinoven.com/)
+- [GitHub](https://github.com/pillardash-oss/codeinoven)
+- [Download](https://codeinoven.com/download)
+- [Docs](https://codeinoven.com/docs)
+</details>
+
 ## [CodeWP](https://codewp.ai/)
 AI Agent for WordPress websites
 <details>
