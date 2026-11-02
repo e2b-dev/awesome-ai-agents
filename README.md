@@ -2196,6 +2196,12 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+### [O9-RD-MAO-Governance](https://github.com/Over9rowth/O9-RD-MAO-Governance)
+Deterministic software engineering governance framework for Multi-Agent coding workflows.
+- **Category**: Coding, Build-your-own, Multi-agent, Debugging
+- **Github**: [Over9rowth/O9-RD-MAO-Governance](https://github.com/Over9rowth/O9-RD-MAO-Governance)
+- Enforces G0-G7 state machines, SHA-256 baseline locking, Level E2 technical sandbox isolation, and black-box-first QA. Includes a zero-dependency Python CLI (`gate_runner.py`), drop-in `.cursorrules` / `CLAUDE.md`, and a 14-chapter engineering guide.
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
