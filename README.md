@@ -2322,6 +2322,27 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Ponder](https://github.com/Quinnod345/ponder)
+Coverage-gated, multi-pass deliberation loop and code review CLI for AI coding agents
+
+<details>
+
+### Category
+Coding
+
+### Description
+Ponder is an open-source, zero-dependency Node.js CLI and agent skill that enforces a coverage-gated, multi-pass deliberative review loop across four structured perspectives (skeptic, builder, dreamer, empath).
+- Enforces a deterministic state machine: predict -> survey -> appraise -> deliberate -> revise -> judge -> decide.
+- 100% of enumerated units must be graded across lens dimensions before completion.
+- Two consecutive passes must produce zero ledger deltas (churn converges to 0.00) before decide stop permits exit.
+- Exports SARIF 2.1.0 (report.sarif.json) and Markdown reports for CI integration.
+
+### Links
+- [GitHub](https://github.com/Quinnod345/ponder)
+- [Website](https://quinnod345.github.io/ponder/)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
