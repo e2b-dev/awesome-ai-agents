@@ -732,6 +732,23 @@ General purpose, Productivity
 </details>
 
 
+## [BetterTradingAgents](https://github.com/kingabzpro/BetterTradingAgents)
+Multi-agent stock research and paper trading application.
+
+<details>
+
+### Category
+Finance, Multi-agent
+
+### Description
+- Analyst agents research stocks and debate their findings before a decision.
+- The application includes backtesting, risk controls, and paper trading.
+
+### Links
+- [GitHub](https://github.com/kingabzpro/BetterTradingAgents)
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
