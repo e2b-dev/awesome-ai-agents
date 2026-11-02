@@ -1470,6 +1470,27 @@ General purpose
 
 </details>
 
+## [GoRoute](https://github.com/ziuus/goroute)
+High-performance AI gateway & multi-account router in Go (< 5MB RAM)
+
+<details>
+
+### Category
+Infrastructure / Gateway
+
+### Description
+- Ultra-lightweight LLM gateway and multi-provider router engineered for autonomous coding agents
+- Runs continuously in < 5 MB RAM with 0.86 ms dispatch latency and zero background bloat
+- Transparent protocol translation across OpenAI, Anthropic, and Google Gemini formats
+- Multi-account OAuth pooling, automatic rate-limit failover, and adaptive cascading
+
+### Links
+- [GitHub](https://github.com/ziuus/goroute)
+- [Official Website](https://goroute-website.vercel.app)
+- [npm](https://www.npmjs.com/package/goroute)
+
+</details>
+
 ## [GPT Discord](https://github.com/Kav-K/GPTDiscord)
 The ultimate AI agent integration for Discord
 
@@ -2193,6 +2214,26 @@ Science, Multimodal, Social, Multi-agent
 - [Paper](https://arxiv.org/pdf/2305.17066.pdf)
 - [Author's X - Jürgen Schmidhuber](https://twitter.com/SchmidhuberAI)
 - [Author's X - Mingchen Zhuge](https://twitter.com/MingchenZhuge)
+
+</details>
+
+## [OmniChat Harness](https://github.com/ziuus/omnichat-harness)
+Dual-protocol local AI gateway and Model Context Protocol (MCP) agent harness
+
+<details>
+
+### Category
+Infrastructure / Gateway
+
+### Description
+- Dual-protocol local AI gateway compatible with OpenAI and Anthropic API formats
+- Drives multi-model streaming sessions directly through your own browser and API tokens
+- Native Model Context Protocol (MCP) stdio and SSE transport for connecting autonomous agents
+- Zero installation required — runnable instantly via `npx omnichat-harness`
+
+### Links
+- [GitHub](https://github.com/ziuus/omnichat-harness)
+- [npm](https://www.npmjs.com/package/omnichat-harness)
 
 </details>
 
