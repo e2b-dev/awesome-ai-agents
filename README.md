@@ -2296,6 +2296,32 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenNetAgent](https://github.com/zacrisy/open-net-agent)
+Open-source network-native agent: turn computers into nodes that research, verify and remember.
+
+<details>
+
+### Category
+General purpose, Multi-agent, Research, Distributed
+
+### Description
+
+- **Network-native**: a coordinator routes tasks over WebSocket to nodes that keep local memory and skills.
+- **Evidence-first research**: PubMed, arXiv, Hacker News, Stack Overflow, OpenAlex and Crossref, with `[n]` citations.
+- **Workbench**: research, document Q&A, safe compute, and NLI claim verification.
+- **Self-evolution**: upvoted answers become a knowledge pack; new nodes pull it and later answers cite `network memory`.
+- **One-command join**: outbound-only, `nice 19`, pause/uninstall; no inbound ports.
+
+### Stack
+Python, aiohttp, WebSocket, SQLite, Ollama (optional)
+
+### Links
+- [Control deck](https://zacrisy.github.io/open-net-agent/console.html?v=3)
+- [GitHub](https://github.com/zacrisy/open-net-agent)
+- [Join the network](https://github.com/zacrisy/open-net-agent/issues/4)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
