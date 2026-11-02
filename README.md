@@ -5406,6 +5406,28 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 </details>
 
+## [Vool](https://github.com/Parad0x-Labs/vool)
+Local-first personal AI agent with persistent memory and offline-verifiable signed receipts
+
+<details>
+
+### Category
+Personal assistant, General purpose, Productivity
+
+### Description
+
+- **Local-first**: Runs on your machine; local models via Ollama or your own API key, no account required.
+- **Persistent memory**: File-based memory retained across sessions, inspectable and deletable on demand.
+- **Verifiable actions**: Every action claim is bound to actual tool runs in Ed25519-signed, hash-chained receipts that verify fully offline.
+- **Control**: Workspace scopes, approval modes, and spending limits.
+
+### Links
+- [GitHub](https://github.com/Parad0x-Labs/vool)
+- [Memory benchmark](https://github.com/Parad0x-Labs/vool/blob/main/docs/benchmarks/v0.7-memory-locomo.md)
+- [Website](https://vool.dev)
+
+</details>
+
 ## [Wispy](https://wispy.technicalmagic.ai/)
 Summarize content, compose content, create quizzes
 
