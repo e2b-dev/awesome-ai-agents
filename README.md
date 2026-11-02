@@ -320,6 +320,26 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Apizie Finance](https://github.com/nafadza14/zieapi)
+Remote Model Context Protocol server for primary financial data and macroeconomic series
+<details>
+
+### Category
+Finance, Autonomous Research, Data
+
+### Description
+Apizie Finance is a remote Model Context Protocol provider connecting autonomous financial agents and quant developers to primary source filings and economic data with audit citations.
+* Connects directly to official SEC EDGAR filings including Form 10K, 10Q, and insider trades.
+* Streams macroeconomic indicators from Federal Reserve Economic Data (FRED), ECB reference rates, and US Treasury yield curves.
+* Zero local dependencies over streamable HTTP at https://apizie.tech/mcp with full citation provenance.
+
+### Links
+* [GitHub](https://github.com/nafadza14/zieapi)
+* [Website](https://apizie.tech/finance)
+* [Registration](https://apizie.tech/register)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
