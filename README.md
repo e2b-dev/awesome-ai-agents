@@ -1966,6 +1966,26 @@ Magick is an AIDE for creating, deploying, scaling, and monetizing useful AI age
 
 </details>
 
+## [Mach GTM](https://machgtm.com)
+AI-powered outbound sales agent for B2B software teams
+
+<details>
+
+### Category
+Sales, Business intelligence
+
+### Description
+- Mach GTM is an AI outbound sales agent for B2B SaaS, IT services, AI services and enterprise software companies selling to the US market.
+- Builds a Brain from your website and case studies, finds leads showing buying signals, and researches each prospect with source-verified facts.
+- Drafts personalised outreach across email, LinkedIn, and WhatsApp — every message requires human approval before sending.
+- Open-source MCP server ([mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp)) lets you run ICP building, lead scoring, and outreach drafting directly inside Claude or ChatGPT.
+
+### Links
+- [Web](https://machgtm.com)
+- [GitHub](https://github.com/verma6uc/mach-gtm-mcp)
+
+</details>
+
 ## [MemFree](https://github.com/memfreeme/memfree)
 Open Source Hybrid AI Search Engine
 
