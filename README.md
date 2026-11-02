@@ -4892,32 +4892,28 @@ Productivity, General purpose
 </details>
 
 ## [OnCrew](https://oncrew.ai)
-Verticalized voice AI agent for home-service contractors (HVAC, plumbing, electrical, roofing). 24/7 inbound call answering with trade-specific intake.
+AI phone receptionist for home-service contractors (HVAC, plumbing, electrical, roofing and other trades). Answers inbound calls 24/7 in the company's name and hands every call to the owner's team.
 
 <details>
-
-
-![Image](https://oncrew.ai/api/og)
 
 ### Category
 Verticalized voice agent, Customer service, Telephony
 
 ### Description
-- Voice AI agent that answers contractor phone calls 24/7 with trade-specific intake scripts configured per business during onboarding
-- Runs trade-specific safety branches on every emergency call: gas-smell detection for HVAC, shutoff-valve walkthrough for plumbing, sparking-panel triage for electrical, active-leak tarp protocol for roofing
-- Sends a Priority-1 SMS handoff packet to the on-call technician within 90 seconds (does not autonomously dispatch — the human tech does the actual dispatch)
-- Built on Retell AI for sub-second voice latency, with Google Calendar appointment booking and webhook integration for any CRM (ServiceTitan, Housecall Pro, Jobber via assisted setup; native APIs Q3 2026)
-- Flat per-call pricing ($49 / $149 / $349 per month with $0.99 per-call overage, no per-minute meter, no holiday surcharge)
-- 14-day free trial; founder-led onboarding for every account
-- Publishes the underlying 60-question intake checklist as a free [HTML tool](https://oncrew.ai/tools/contractor-call-intake-questions) and a CC-BY-4.0 [JSON API](https://oncrew.ai/api/triage-questions) so any vendor (including competitors) can evaluate the same dataset
+- Answers a contractor's forwarded calls 24/7 in the company's name and takes the caller's name, callback number, service address and problem, plus any questions the owner adds in the dashboard
+- Built-in urgent rules for HVAC, plumbing, electrical and roofing calls, with safety first: a gas smell or CO alarm gets "leave the area and call 911", a burst pipe gets "shut off the main water valve if it is safe"; other trades run a general intake where urgency comes from the caller's own words
+- Texts urgent calls to the owner's alert phone (and to on-call crew once crew texts are switched on) and emails every call to the owner and alert addresses with the summary and a recording link; OnCrew does not dispatch, a person on the team calls back and decides
+- Calls are answered by OnCrew's own voice agent, which OnCrew builds and runs itself, on phone numbers OnCrew provides; the owner keeps their number and forwards the calls they miss, or every call
+- Books the job on the owner's Google Calendar when booking is connected and switched on; Housecall Pro is built in (MAX plan), and a webhook export sends every real call to Jobber, ServiceTitan or other tools
+- English by default; Spanish (Latin American) is a setting the owner switches on at no extra charge
+- Priced by included minutes of answered calls with a published per-minute overage, from $49/mo; 14-day free trial with no credit card to start your first trial
 
 ### Links
 - [Website](https://oncrew.ai)
 - Author: [Abe](https://oncrew.ai/about), Founder
-- [Press kit](https://oncrew.ai/press)
 - [Pricing](https://oncrew.ai/pricing)
-- [Free 60-question intake checklist](https://oncrew.ai/tools/contractor-call-intake-questions)
-- [Triage questions JSON API (CC-BY-4.0)](https://oncrew.ai/api/triage-questions)
+- [Demo line](https://oncrew.ai/demo): call (213) 319-5075, it answers as a sample plumbing company
+- [Free 60-question contractor intake checklist (CC BY 4.0)](https://gist.github.com/Quirk6/51a50231fa6ce625a997af2ebf5e006b)
 </details>
 
 ## [Phind](https://www.phind.com/)
