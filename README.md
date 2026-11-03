@@ -2710,6 +2710,27 @@ Multi-agent, GUI Agent
 
 </details>
 
+## [Ultimate Assistant](https://github.com/KianJRoss/UltimateAssistant-release)
+Personal AI assistant that runs on your own computer with your own AI accounts
+
+<details>
+
+### Category
+General purpose, Productivity, Multi-agent
+
+### Description
+- Open source (AGPL-3.0) desktop assistant for Windows and Linux, with an Android companion app
+- Bring any AI account you already have: a ChatGPT, Google AI or Claude subscription through their official CLIs, an API key, or a local model (e.g. Ollama); keys stay encrypted on your device
+- Each turn is routed to a specialist agent (computer/desktop operator, planner, researcher, tutor, builder) or handled by the conversational agent, optionally using small yes/no decision models for fast routing
+- Optional modules for school, phone control, desktop controls, calendar and budgeting install only when needed
+- Runs its own local [Herald](https://github.com/KianJRoss/herald-release) router; no account or server of ours in between
+
+### Links
+- [GitHub](https://github.com/KianJRoss/UltimateAssistant-release)
+- [Routing benchmark data](https://huggingface.co/datasets/Krioasns/system1-decision-routing-bench)
+
+</details>
+
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
