@@ -1709,6 +1709,31 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [KYNEX Harness](https://github.com/Nikit117/kynex-harness)
+Agentic document extraction harness — rank 12 on LlamaIndex ExtractBench
+
+<details>
+
+### Category
+Data analysis, Document AI, Productivity
+
+### Description
+KYNEX Harness is a tool-augmented agentic system for extracting structured data from complex documents (PDFs, DOCX, XLSX).
+- Instead of RAG, it gives the LLM 6 tools (text extraction, table parsing, OCR, vision, Azure Document Intelligence, search) and lets it decide what to read.
+- Supervisor orchestrator monitors progress and resumes on stalls.
+- Every extracted value passes through a deterministic verification gate outside model control.
+- 5 post-processing rules, each measured independently, each with a kill switch.
+- Scored 92.97 F1 on LlamaIndex ExtractBench (370 documents, 4,869 pages), independently verified by LlamaIndex.
+- Outperforms GPT-6 Astra (91.9) and Claude Code Opus (87.1) using a cheaper model (GPT-5.4).
+- Apache-2.0 licensed. Python. pip install and go.
+
+### Links
+
+- [GitHub](https://github.com/Nikit117/kynex-harness)
+- [ExtractBench Leaderboard](https://github.com/llamaindex/extractbench)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
