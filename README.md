@@ -1062,6 +1062,32 @@ Coding
 
 </details>
 
+## [Corvin](https://github.com/codesbykhairannoor/corvin)
+A Cognitive Boundary & Grudge-Memory Engine for Sovereign AI Agents
+
+<details>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codesbykhairannoor/corvin/main/assets/Ravens.png" width="180">
+</p>
+
+### Category
+Guardrails, Autonomous Agent Defense, Affective Dynamics, Game Theory
+
+### Description
+- **Affective Dynamics & Boundary Defense**: Enforces dynamic behavioral friction, natural emotional decay, and social standing for conversational agents.
+- **Zero-Compute Early Abort**: Intercepts toxic turns at the gateway with sub-millisecond execution, eliminating upstream LLM token burn.
+- **Evolutionary Game Theory (CTFT)**: Implements Contrite Tit-for-Tat to restore cooperation upon genuine user apologies.
+- **Anti-Sycophancy & Unicode Armor**: Automatically purges apologetic bootlicking preambles and neutralizes adversarial zalgo/homoglyph evasion.
+- **High-Performance Architecture**: Zero-dependency pure Python core with FastAPI, LiteLLM, and LangChain integrations.
+
+### Links
+- [GitHub](https://github.com/codesbykhairannoor/corvin)
+- [PyPI](https://pypi.org/project/corvin/)
+- [Documentation](https://github.com/codesbykhairannoor/corvin#readme)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
