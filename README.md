@@ -2982,6 +2982,27 @@ General purpose, Productivity, Business intelligence
 
 </details>
 
+## [Ablit Code](https://ablit-site.ablit.workers.dev)
+Free desktop AI agent that does the task on your computer
+
+<details>
+
+![image](https://raw.githubusercontent.com/quantumstudent190-netizen/ablit-releases/main/assets/task.webp)
+
+### Category
+Coding, General purpose, Productivity
+
+### Description
+- Desktop app for Windows, macOS and Linux: plans the task, edits files, runs shell commands, browses and checks its own work
+- Runs agents in the background and asks before risky commands
+- Free with your own keys (any provider), no account; built-in models coming soon
+
+### Links
+- [Web](https://ablit-site.ablit.workers.dev)
+- [Download](https://github.com/quantumstudent190-netizen/ablit-releases/releases/latest)
+
+</details>
+
 ## [Adept AI](https://www.adept.ai/?utm_source=awesome-ai-agents)
 ML research and product lab building intelligence
 
