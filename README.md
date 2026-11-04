@@ -2636,6 +2636,31 @@ Sweep is a Github assistant the helps fix small bugs and implement small feature
 
 </details>
 
+## [Taste Engine](https://github.com/kennedys0/taste-engine)
+Taste Engine: Frontend design intelligence pack and multi-agent skill for AI coding agents
+
+<details>
+
+![Image](https://github.com/kennedys0/taste-engine/raw/main/assets/banner.webp)
+
+### Category
+Software development, Coding, Frontend, Design systems
+
+### Description
+
+- **10 curated aesthetic archetypes**: First-viewport material fidelity for Claymorphism, Neo-brutalism, Glassmorphism, Skeuomorphism, Retro-Terminal, Bento, Swiss/Editorial, Brutalism, Minimalism, and Enterprise.
+- **Anti-slop v2 structural engine**: Mechanical quality gates eliminating generic purple defaults, card-on-card nesting, ghost code wrappers, and AI filler.
+- **Universal multi-agent support**: Single-command installation for Google Antigravity, Claude Code, Cursor, Cline, Roo Code, Windsurf, GitHub Copilot, and OpenAI Codex.
+- **Tailwind CSS & shadcn/ui presets**: Production-ready CSS theme variables, component utility layers (`.taste-clay-card`, `.taste-neo-btn`), and radius tokens.
+- **Audited SEO & motion engine**: Truthful metadata validation, WCAG AA/AAA contrast enforcement, and style-aligned Anime.js v4 micro-interactions.
+- **Interactive live showcase**: Standalone live preview gallery with instant Dark/Light mode contrast switching.
+
+### Links
+- [Live Showcase](https://kennedys0.github.io/taste-engine/)
+- [Documentation](https://github.com/kennedys0/taste-engine#readme)
+- [GitHub](https://github.com/kennedys0/taste-engine)
+</details>
+
 ## [Taxy AI](https://github.com/TaxyAI/browser-extension)
 Taxy AI is a full browser automation
 
@@ -3380,6 +3405,8 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 - [YouTube](https://www.youtube.com/@beam-ai)
 
 </details>
+
+
 
 ## [Blackbox AI](https://www.blackbox.ai/)
 Software That Builds Software
