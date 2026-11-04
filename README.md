@@ -207,6 +207,26 @@ General purpose
   
 </details>
 
+## [Agent-Team OS](https://github.com/cocvn157/agent-team-framework)
+
+Zero-dependency 6-Role Autonomous AI Company Orchestrator (`Lead` → `Deputy` → `Planner` → `Worker` → `Testing` → `Hacker`)
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent, Coding
+
+### Description
+- Zero-dependency Python 3 & Node.js (`npx`) multi-agent orchestration framework plus interactive browser studio
+- Structured 6-Role pipeline (`Lead`, `Deputy`, `Planner`, `Worker`, `Testing`, `Hacker`) with typed handoff contracts and QA readiness scoring
+- Supports OpenAI, OpenRouter, Gemini, and offline deterministic blueprint execution
+
+### Links
+- [GitHub Repository](https://github.com/cocvn157/agent-team-framework)
+- [Live Web Studio](https://cocvn157.github.io/ai-omni-studio/)
+- [DevTools Workbench](https://cocvn157.github.io/dev-tools/)
+</details>
+
 ## [Agents](https://github.com/aiwaves-cn/agents)
 
 Library/framework for building language agents
