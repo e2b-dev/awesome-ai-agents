@@ -4617,6 +4617,30 @@ Productivity
 </details>
 
 
+## [LazySiren](https://lazysiren.com/landing)
+
+A complete OS run by its AI
+
+<details>
+
+![image](https://lazysiren.com/logo-siren.svg)
+
+### Category
+
+General purpose, Personal assistant, Productivity
+
+### Description
+
+- A complete OS run by its AI, Siren, on browser, Android and Windows.
+- She operates 50+ apps herself and builds new apps on request (AutoForge).
+- Free during beta.
+
+### Links
+
+- [Web](https://lazysiren.com/landing)
+
+</details>
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
