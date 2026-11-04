@@ -3340,6 +3340,23 @@ Coding, Data analysis, Research, Build-your-own (agent-builing frameworks and pl
 
 </details>
 
+## [Aventide](https://aventide.ai/)
+AI assistant for service businesses that asks before it sends
+
+<details>
+
+### Category
+Productivity, Business
+
+### Description
+- Aventide’s assistant: an AI agent for service businesses that drafts proposals, follow-ups and reminders, and never sends anything to a client until the owner approves it
+- Part of Aventide, client management for coaches, consultants and creative studios
+
+### Links
+- [Web](https://aventide.ai/)
+
+</details>
+
 ## [Bardeen](https://www.bardeen.ai/)
 AI Agent for automating repetitive tasks
 
