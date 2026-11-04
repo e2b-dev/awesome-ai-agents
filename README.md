@@ -3060,6 +3060,28 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+## [AI CodeOps](https://aicodeops.dev/)
+AI coding agents behind a release gate
+
+<details>
+
+### Category
+Coding, Multi-agent, GitHub, GitLab
+
+### Description
+- Browser-based platform where AI agents plan, build, review and test code on a team's repository
+- A pull request opens only when tests pass on the exact commit, AI review of the diff has no high or critical findings, and a person approves
+- Signed evidence pack for every change
+- Works with GitHub, GitLab, Bitbucket, Gitea and Forgejo, including self-hosted servers
+- Free during open beta; free for non-commercial open-source projects
+
+### Links
+- [Docs](https://aicodeops.dev/docs)
+- [Open-source program](https://aicodeops.dev/pricing/open-source)
+
+</details>
+
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
