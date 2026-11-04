@@ -3060,6 +3060,27 @@ AgentScale is your very own personal assistant, email writer, calendar scheduler
 </details>
 
 
+## [AGNT](https://agnt.gg/)
+Local-first desktop platform for AI agents, workflows and goals
+
+<details>
+
+### Category
+General purpose, Productivity, Build-your-own, Supports open-source models
+
+### Description
+- Desktop app for Windows, macOS and Linux that builds and runs AI agents, visual workflows and longer-running goals on your own machine
+- Works with any model: cloud API keys, existing AI subscriptions, or local models through Ollama and LM Studio
+- Credentials stay in a local vault; agents use MCP servers, plugins and built-in integrations, and each run records what the agent did
+- Source-available under the AGNT Community Core License (not OSI open source): free for personal use and small businesses, paid plans for larger teams
+
+### Links
+- [Website](https://agnt.gg/)
+- [GitHub](https://github.com/agnt-gg/agnt)
+- [Docs](https://agnt.gg/docs/)
+
+</details>
+
 ## [Aide by Codestory](https://codestory.ai/)
 AI code interpreter, AI-powered mod of VSCode
 
