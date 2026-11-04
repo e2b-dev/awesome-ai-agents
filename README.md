@@ -1397,6 +1397,26 @@ Build-your-own (agent-builing frameworks and platforms)
 
 </details>
 
+## [Foundry Agent Buyer](https://github.com/foundry-stack/foundry-agent-buyer)
+Autonomous buyer client for AI agents to solve HTTP 402 turnstiles on Base & Avalanche
+
+<details>
+
+### Category
+General purpose, Build your own, Financial/Commerce
+
+### Description
+- Zero-config Python client enabling autonomous AI agents to negotiate and solve HTTP 402 Payment Required challenges
+- Intercepts 402 headers, cryptographically signs challenge nonces, and settles instant USDC micropayments on Base and Avalanche C-Chain
+- Unlocks digital goods, APIs, and machine maintenance without credit cards, captchas, or human sign-up flows
+- Available on PyPI (`pip install foundry-agent-buyer`)
+
+### Links
+- [GitHub](https://github.com/foundry-stack/foundry-agent-buyer)
+- [PyPI](https://pypi.org/project/foundry-agent-buyer/)
+
+</details>
+
 
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
