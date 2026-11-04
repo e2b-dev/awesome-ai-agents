@@ -1709,6 +1709,27 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Knovum](https://github.com/madebyzan/knovum)
+Local-first 2D spatial AI knowledge space and multi-agent canvas
+
+<details>
+
+### Category
+Productivity, Knowledge management, Research, Multimodal agents
+
+### Description
+Knovum is a 100% MIT-licensed, local-first 2D spatial AI knowledge workbench built on Tauri 2 + Rust + Vue 3.
+- Infinite Spatial Canvas: Organize notes, research PDFs, audio recordings, web clips, and AI outputs in a visual 2D workspace.
+- Multi-Agent Orchestration: Native Model Context Protocol (MCP) support and bidirectional JSON Canvas (.canvas) interop.
+- Embedded Vector Database: Zero-copy LanceDB vector search and SQLite WAL for on-device semantic grounding.
+- Local AI Pipelines: Local on-device Whisper audio transcription, embedding generation, and multi-provider LLM support.
+
+### Links
+- [GitHub](https://github.com/madebyzan/knovum)
+- [Documentation](https://github.com/madebyzan/knovum#readme)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
