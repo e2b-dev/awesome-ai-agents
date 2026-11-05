@@ -4860,6 +4860,9 @@ Technical challenges of building AI products, Business/marketing challenges of b
 </details>
 
 
+## [Octuo](https://www.tutuo.ai/en/octuo/)
+Unified entry point coordinating the AI agents a user already uses; prepares work, delegates to Claude Code, Codex, or MCP tools, and follows up until done, with long jobs continuing after the chat closes.
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
