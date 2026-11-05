@@ -182,6 +182,24 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [AgentKai](https://github.com/Bilal-Junaid-Jiwani/agentkai)
+Open-source personal AI agent that runs on your own computer
+<details>
+
+### Category
+General purpose
+
+### Description
+- A personal AI agent that runs locally on your own machine
+- Model-agnostic: bring your own model - Claude, Gemini, GPT, a local Ollama model, GLM, or anything LiteLLM speaks
+- Keeps the same tools, memory, scheduler, and dashboard across models
+- Local-first: your data stays on your machine
+
+### Links
+- [GitHub](https://github.com/Bilal-Junaid-Jiwani/agentkai)
+- [PyPI](https://pypi.org/project/agentkai/)
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
