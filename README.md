@@ -2689,6 +2689,28 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Theia AI](https://theia-ide.org/theia-ai/)
+Open-source AI harness platform for building AI-native tools and IDEs
+<details>
+
+![Image](https://theia-ide.org/theia-ai-architecture.png)
+
+### Category
+Coding, Build-your-own, Supports open-source models
+
+### Description
+- Open-source, vendor-neutral AI harness platform for building AI-native tools and IDEs, part of Eclipse Theia and hosted by the Eclipse Foundation
+- Provides building blocks for agents, chat, tool calling, prompt management and context variables, and works with any LLM provider (bring your own key), including local models
+- Supports MCP, Agent Skills and Agent Plugins
+- Ships a ready-to-use default harness, the AI-native Theia IDE, with coding agents (e.g. Theia Coder) and support for user-defined custom agents
+
+### Links
+- [Website](https://theia-ide.org/theia-ai/)
+- [GitHub](https://github.com/eclipse-theia/theia)
+- [Documentation](https://theia-ide.org/docs/theia_ai/)
+
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
