@@ -182,6 +182,25 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agent Money Bench](https://agentmoneybench.com)
+Benchmark for AI agents operating with real money
+
+<details>
+
+### Category
+Evaluation frameworks, Benchmark, AI agents, Payments, x402
+
+### Description
+- Measures whether an agent pays the right seller, avoids paying twice, and gets what it paid for
+- Every task settles in real USDC over x402, on Solana
+- Scoring is deterministic from the on-chain settlement record, not from the agent's own report
+- 10 frontier models, 76 marketplace tasks and 80 paid-data questions, run 27-29 Oct 2026
+
+### Links
+- [Website](https://agentmoneybench.com)
+- [GitHub](https://github.com/BlockRunAI/agent-money-bench)
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
