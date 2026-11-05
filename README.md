@@ -732,6 +732,26 @@ General purpose, Productivity
 </details>
 
 
+## [better-chatbot](https://github.com/keinsaasforever/better-chatbot)
+Open-source AI agent workspace (keinsaas Navigator Community Edition)
+
+<details>
+
+### Category
+General purpose, Build-your-own, Productivity
+
+### Description
+- Agents with their own instructions, tools, files and schedules, mentioned with @ in chat
+- MCP servers (HTTP and stdio), workflows, projects with pgvector retrieval, voice
+- Any model via the Vercel AI Gateway, EU-hosted TensorX, or local models
+- One-click Vercel deploy; MIT licensed
+
+### Links
+- [GitHub](https://github.com/keinsaasforever/better-chatbot)
+- [Discord](https://discord.gg/9dwdAYKBPp)
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
