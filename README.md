@@ -4387,6 +4387,29 @@ Productivity, Daily life, Build-your-own (agent-builing frameworks and platforms
 
 </details>
 
+## [HopBot](https://github.com/AyyazAli/hopbot)
+Crew of AI agents for your computer and servers
+
+<details>
+
+![HopBot demo](https://raw.githubusercontent.com/AyyazAli/hopbot/main/docs/assets/demo.gif)
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- Run a team of named agents, each with its own instructions, memory, skills, folder and long-running conversation.
+- Give each agent on a Linux server its own desktop and browser. Watch live or take control and hand it back.
+- Agents can run commands, write files, browse, use connected apps, work on schedules and hand work to each other.
+- Works with Anthropic, OpenAI, OpenRouter, Ollama and LM Studio. Free and open source under Apache-2.0.
+
+### Links
+- [GitHub](https://github.com/AyyazAli/hopbot)
+- [Website](https://hopbot.ai)
+- [Documentation](https://github.com/AyyazAli/hopbot/blob/main/docs/HOW-IT-WORKS.md)
+- [Self-hosting](https://github.com/AyyazAli/hopbot/blob/main/SELF-HOSTING.md)
+</details>
+
 ## [Input](https://useinput.com/)
 AI-powered teammate that can collaborate on code
 <details>
