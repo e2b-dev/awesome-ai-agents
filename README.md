@@ -1745,6 +1745,25 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [LazyBridge](https://github.com/selvaz/LazyBridge)
+Everything is a tool: subscription and API agents as interchangeable engines, plus fleet orchestration
+<details>
+
+### Category
+Build your own, Multi-agent, Coding
+
+### Description
+- Python framework (Apache-2.0) built on one idea: everything is a tool. An agent is Engine + Tools + State; agents, tools and fleets compose the same way.
+- Subscription-based coding agents (Claude Code, Codex) and token-based LLM APIs (Anthropic, OpenAI, Google, DeepSeek, LiteLLM) are drop-in substitutes behind the same interface.
+- Fleet orchestration: deterministic Plan DAGs with checkpoint/resume, parallel runs, `verify=` writer/reviewer loops and human-in-the-loop.
+- Persistent sessions and OpenTelemetry GenAI tracing.
+
+### Links
+- [Documentation](https://core.lazybridge.com)
+- [PyPI](https://pypi.org/project/lazybridge/)
+
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
