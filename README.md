@@ -95,7 +95,8 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
-## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
+## [Agent- [Verde](https://github.com/JonathanRiche/verde) - Native Zig desktop ADE workspace that runs Claude Code, Codex, Cursor, OpenCode and more side by side (local-first, MIT). https://verdeai.dev
+4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
 <details>
