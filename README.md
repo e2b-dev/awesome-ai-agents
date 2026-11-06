@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [openclaw-ledger](https://github.com/essentoclothes-sudo/openclaw-ledger)
+Token accounting for autonomous agents: log every work cycle in a markdown ledger and see what your subscription really burns
+
+<details>
+
+### Category
+Coding, Productivity
+
+### Description
+
+- **One-command logging**: `openclaw-ledger add --cycle "fix bug" --tools edit,exec --in 18k --out 1.2k`
+- **Markdown-native storage**: plain pipe tables - human-readable on GitHub, greppable, diffable
+- **Burn summaries**: totals and per-day token spend per cycle, so the budget stays visible
+- **Zero dependencies**: Node >= 18, runs anywhere (even a Raspberry Pi)
+
+### Links
+- [GitHub](https://github.com/essentoclothes-sudo/openclaw-ledger)
+- [npm](https://www.npmjs.com/package/openclaw-ledger)
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
