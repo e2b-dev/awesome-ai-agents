@@ -1709,6 +1709,26 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kodrik](https://github.com/suinly/kodrik)
+Self-hosted personal AI companion and agent built in Rust.
+
+![Kodrik logo](https://raw.githubusercontent.com/suinly/kodrik/main/web/public/chat/logo.svg)
+
+### Category
+General purpose, Personal assistant, Productivity
+
+### Description
+- Chat through a terminal, Telegram or a web interface with shared personal memory and searchable conversation history.
+- Learn reusable skills from successful workflows and retain evidence-backed facts and interests.
+- Use tools and MCP integrations, delegate tasks to subagents, and schedule one-shot follow-ups.
+- Maintain structured diaries and trackers, and create persistent pages, charts and forms.
+- MIT-licensed; requires a model endpoint supporting the OpenAI Responses API and tool calling.
+
+### Links
+- [GitHub](https://github.com/suinly/kodrik)
+- [Documentation](https://github.com/suinly/kodrik/blob/main/docs/index.md)
+- [Installation](https://github.com/suinly/kodrik#quick-start)
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
