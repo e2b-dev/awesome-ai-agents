@@ -114,6 +114,29 @@ General purpose, Build your own, Multi-agent
 
 </details>
 
+## [agent8088](https://github.com/palindrome-rl/AGENT8088)
+Local-first agent that makes small models finish real tasks, and asks before it acts
+
+<details>
+
+![Image](https://raw.githubusercontent.com/palindrome-rl/AGENT8088/AGENT8088-v1.3/assets/agent8088-wordmark-readme.png)
+
+### Category
+General purpose, Coding, Multi-agent
+
+### Description
+- Open-source (MIT) agentic harness built to run reliably on small local models via Ollama, or any OpenAI-compatible endpoint.
+- Recovers tool calls that small models emit as plain text or with mangled names, damps repetition loops, and adapts completion size to the model.
+- Safe by default: read-only mode, one-time approvals, path zones, command allowlists, SSRF/egress controls, and an audit trail, all enforced in code rather than the prompt.
+- `/plan` mode plus six restricted sub-agents (explore, research, code, test, verify, general), with optional read-only audits of every change.
+- Sandboxed commands (native OS sandbox, Docker fallback) with network off unless allowed.
+- Works from the CLI or Slack, Discord, WhatsApp, Telegram, and email; MCP client and server; local OCR and local SQLite memory.
+
+### Links
+- [GitHub](https://github.com/palindrome-rl/AGENT8088)
+
+</details>
+
 ## [AgentForge](https://github.com/DataBassGit/AgentForge)
 LLM-agnostic platform for agent building & testing
 
