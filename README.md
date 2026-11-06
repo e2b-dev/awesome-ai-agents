@@ -1709,6 +1709,27 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kintsugi Harness](https://github.com/tunguyen1993/kintsugi-harness)
+Self-evolving deterministic verification harness, `@KML/1` symbolic rule compiler, and 7-layer Zero-Trust MCP shield for AI coding agents
+
+<details>
+
+### Category
+Coding, Security, Multi-agent
+
+### Description
+- Turns real coding agent failures into deterministic AST + Regex + PreToolUse guardrails (`GoldenScars`) across Claude Code, Cursor, Codex CLI, Gemini CLI, GitHub Copilot, and Windsurf.
+- Compiles rules into `@KML/1` Symbolic AST-IR Machine Language (`74.06%` raw / `96.33%` zlib reduction across `1,690` evolved rules, `0.82 ms` Python / `1.83 ms` native Rust verification).
+- Enforces a 7-layer Zero-Trust MCP PreToolUse contribution shield that blocks secret/PII leakage and restricts federated lesson sync to verified public GitHub repositories.
+- Includes a 1-command reproducible verification suite (`python3 free-skill-pack/scripts/verify_editions_and_benchmarks.py`).
+
+### Links
+- **GitHub:** [tunguyen1993/kintsugi-harness](https://github.com/tunguyen1993/kintsugi-harness)
+- **Empirical Benchmarks:** [EMPIRICAL_PROOFS_AND_BENCHMARKS.md](https://github.com/tunguyen1993/kintsugi-harness/blob/main/docs/EMPIRICAL_PROOFS_AND_BENCHMARKS.md)
+- **Author:** [Tu Nguyen (@tunguyen1993)](https://github.com/tunguyen1993)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
