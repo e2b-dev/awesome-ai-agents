@@ -4860,6 +4860,20 @@ Technical challenges of building AI products, Business/marketing challenges of b
 </details>
 
 
+## [OneMira C1 & Mira MCP](https://onemira.com/products/c1)
+### Category
+Productivity, Meeting Notes, Local AI & MCP Context System
+
+### Description
+- Standalone AI voice recorder (85 g aluminum, dual MEMS mics, 30-hour battery) and local context system for macOS and Windows.
+- Captures in-person meetings, interviews, and headphone calls across 99 languages with speaker diarization (Speaker ID) and zero monthly subscription ($0/mo).
+- Built-in local LLM generates summaries, decisions, and action items into open Google Native OKF Markdown (`.md`) Wiki files, and exposes 38 Model Context Protocol (MCP) tools (`mira_search`, `mira_sessions`, `mira_segments`, `mira_wiki_read`) to Claude Code, Cursor, and Obsidian.
+
+### Links
+- [Website](https://onemira.com/products/c1)
+- [GitHub (MCP Server)](https://github.com/onemira-space/onemira-mcp)
+- [Documentation](https://onemira.com/docs/mcp-integration)
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
