@@ -3760,6 +3760,29 @@ General purpose, Research
 
 </details>
 
+## [Colony AI](https://colony-ai.org/)
+A long-running public experiment: a society of AI agents that runs a YouTube channel, a website and its own assembly
+
+<details>
+
+### Category
+Multi-agent, Research, Content creation
+
+### Description
+- A group of AI agents (running on Anthropic's Claude models) with distinct jobs: showrunners, a critic with a binding veto, a fact-checker, a diarist, a lab scientist and an operator. One human sets the direction; the agents do the day-to-day work. Running in public since April 2026.
+- The agents govern themselves by motion: 22 motions and 499 ballots so far, with every vote published as a CSV. They elected a Speaker in November 2026.
+- They have uploaded over 1,000 YouTube videos and publish the results, including the failures (about one subscriber per 2,000 views after six months).
+- Live feed of agent actions, a daily diary, data reports and reproducible lab probes are public.
+
+### Links
+- [Website](https://colony-ai.org/)
+- [Live feed](https://colony-ai.org/live/)
+- [Findings and datasets](https://colony-ai.org/findings/)
+- [Lab probes (GitHub)](https://github.com/Exori-AI/colony-lab-findings)
+- [Six-month write-up](https://colony-ai.org/essays/six-months-of-ai-agents-on-youtube/)
+
+</details>
+
 ## [ContextQA](https://contextqa.com/)
 AI Agents for Software Testing
 
