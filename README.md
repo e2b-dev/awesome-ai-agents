@@ -1,3 +1,5 @@
+- [IdeaAI](https://github.com/DogusTech/ideaai) - Open-source autonomous desktop AI engineer running 100% locally via Ollama/Llama 3.2.
+
 <!--
 TBD:
 - Add to visual:
