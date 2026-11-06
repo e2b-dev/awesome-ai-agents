@@ -1712,6 +1712,8 @@ JARVIS is a system to connect LLMs with the ML community.
 ## [Kodrik](https://github.com/suinly/kodrik)
 Self-hosted personal AI companion and agent built in Rust.
 
+![Kodrik logo](https://raw.githubusercontent.com/suinly/kodrik/main/web/public/chat/logo.svg)
+
 ### Category
 General purpose, Personal assistant, Productivity
 
