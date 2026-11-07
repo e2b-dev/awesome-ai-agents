@@ -5360,6 +5360,25 @@ Coding
   
 </details>
 
+## [TracePort](https://github.com/aloneangel45/traceport)
+Zero-overhead git shadow-tree flight recorder for autonomous coding agents
+
+<details>
+
+### Category
+Developer Tools / VCS Debugging
+
+### Description
+- TracePort is a high-performance git shadow-tree recorder that captures autonomous agent mutations in real-time.
+- Captures micro-snapshots into isolated shadow DAG refs without polluting your git working tree or commit history.
+- Visual terminal DAG diff and instant time-travel rewind to any prompt checkpoint.
+- Written in Go with zero external runtime dependencies. MIT open-source.
+
+### Links
+- [GitHub](https://github.com/aloneangel45/traceport)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
