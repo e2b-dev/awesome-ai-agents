@@ -2738,6 +2738,27 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Voxos](https://github.com/s-block/voxos)
+Self-hosted AI agent for voice, phone calls, SMS, WhatsApp and MCP tools
+
+<details>
+
+### Category
+Voice, Personal assistant, General purpose
+
+### Description
+- Voxos is an MIT-licensed AI agent you run on your own infrastructure with your own provider keys
+- Talk to it in real time, call it or have it call saved contacts through Twilio or Telnyx, text it over SMS, or chat with it on WhatsApp
+- Agents have memory, skills, schedules and remote MCP tools, and only use the tools you grant
+- Several signed-in users can share one install, with Postgres row-level security and per-user encrypted keys
+
+### Links
+- [Website](https://openvoxos.com/)
+- [Docs](https://openvoxos.com/docs/)
+- Author: [s-block](https://github.com/s-block) (Github)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
