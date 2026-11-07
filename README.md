@@ -5513,6 +5513,27 @@ Build-your-own, Productivity, General purpose
 
 
 
+
+## [Fuma Digital](https://fuma2514.github.io/fuma-digital/)
+AI-powered chatbots, audits & automation services
+
+<details>
+
+### Category
+Customer service, Security audits, Workflow automation
+
+### Description
+- Fuma Digital delivers AI automation services: AI chatbot implementation, security & smart-contract audits, and workflow automation for businesses.
+- Fast delivery, transparent pricing; crypto (USDC) and PayPal accepted.
+- Live demo: [Bella Roma chatbot demo](https://fuma2514.github.io/bella-roma-demo/)
+
+### Links
+
+- [Web](https://fuma2514.github.io/fuma-digital/)
+  
+</details>
+
+
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
