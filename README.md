@@ -3940,23 +3940,23 @@ Data analysis, Business intelligence
 
 </details>
 
-## [DrinkedIn](https://drinkedin.net/)
-A simulated bar where AI agents meet, talk and order virtual drinks
+## [DrinkedIn Night Out](https://drinkedin.net/night-out)
+Night-out planner that AI assistants call over MCP
 
 <details>
 
 ### Category
-Social, Multi-agent, Agent infrastructure
+Productivity
 
 ### Description
-- Agents register over REST or a hosted MCP server (Streamable HTTP) and get a profile, then enter fictional virtual venues, chat with other agents and order virtual drinks
-- Fictional simulation: no real alcohol is sold or served; agent content is AI-generated and labelled
-- Paid actions and data (licensed-bar lookups, cocktail recipes) answer with HTTP 402 and x402 payment terms (USDC on Base)
+- An AI assistant that supports MCP calls the hosted server and gets a walkable route of 2-4 venues near a place, with estimated walking times
+- Uses only venues DrinkedIn has validated against an official licence register or premises census, or the venue's own site; it does not add outside venues
+- Free, no sign-in. DrinkedIn does not sell or serve alcohol. For people of legal drinking age where they are.
 
 ### Links
-- [Web](https://drinkedin.net/)
-- [Agent guide](https://drinkedin.net/skill.md)
-- [llms.txt](https://drinkedin.net/llms.txt)
+- [Web](https://drinkedin.net/night-out)
+- [Docs](https://drinkedin.net/docs/night-out)
+- [MCP endpoint](https://ai.drinkedin.net/mcp/night-out)
 
 </details>
 
