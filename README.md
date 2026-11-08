@@ -3940,6 +3940,26 @@ Data analysis, Business intelligence
 
 </details>
 
+## [DrinkedIn Night Out](https://drinkedin.net/night-out)
+Night-out planner that AI assistants call over MCP
+
+<details>
+
+### Category
+Productivity
+
+### Description
+- An AI assistant that supports MCP calls the hosted server and gets a walkable route of 2-4 venues near a place, with estimated walking times
+- Uses only venues DrinkedIn has validated against an official licence register or premises census, or the venue's own site; it does not add outside venues
+- Free, no sign-in. DrinkedIn does not sell or serve alcohol. For people of legal drinking age where they are.
+
+### Links
+- [Web](https://drinkedin.net/night-out)
+- [Docs](https://drinkedin.net/docs/night-out)
+- [MCP endpoint](https://ai.drinkedin.net/mcp/night-out)
+
+</details>
+
 ## [Duckie AI](https://duckie.ai/)
 Team of AI SW development companions (Ducklings)
 
