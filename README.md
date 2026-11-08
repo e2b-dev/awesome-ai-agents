@@ -4139,7 +4139,7 @@ Productivity, Personal assistant
 
 ### Description
 - Autonomous agent for job seekers: it matches roles to a profile, tailors the resume and cover letter for each posting, and submits the application on the employer's own hiring system
-- Works across 34 hiring systems, including Workday, Greenhouse, Lever, Ashby, Workable and iCIMS, and creates employer accounts and completes email verification on the user's behalf
+- Works across 30+ hiring systems, including Workday, Greenhouse, Lever, Ashby, Workable and iCIMS, and creates employer accounts and completes email verification on the user's behalf
 - Applications can run automatically or wait for review and approval. Tracks application status and keeps the employer confirmation
 - Scores resumes against job postings, analyzes job descriptions, creates editable resume drafts, and prepares interview questions
 - Available as a web app and a hosted remote MCP server with 40 tools, four prompts and three resources. Connect from compatible clients, including Claude, ChatGPT and Cursor, over Streamable HTTP and OAuth 2.1 at `https://mcp.getmattered.com/mcp`
