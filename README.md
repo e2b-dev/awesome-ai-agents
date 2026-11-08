@@ -4008,6 +4008,26 @@ Coding
 </details>
 
 
+## [Exody](https://www.exody.ai)
+Local-first autonomous AI coding agent, Design Studio & macOS desktop workbench
+
+<details>
+
+### Category
+Coding, Software engineering, Productivity, General purpose, Supports open-source models
+
+### Description
+- Native macOS autonomous engineering agent that investigates, plans, edits in isolated Git worktrees, runs tests/browsers/iOS Simulator, and performs an independent 5th-stage diff review.
+- Built-in Smart Model Router (100% BYOK at $0 markup) combining Anthropic Claude, OpenAI GPT, Google Gemini, xAI Grok, DeepSeek, Kimi, and local Ollama models.
+- Integrated Design Studio for studio-grade websites, 3D WebGL, and motion film (6/6 blind benchmark wins vs. raw frontier models), plus the EXO desktop assistant and iPhone companion app.
+
+### Links
+- [Web](https://www.exody.ai)
+- [Comparison](https://www.exody.ai/compare)
+- [GitHub Releases](https://github.com/timamar187-creator/exody-releases)
+
+</details>
+
 ## [Factory](https://www.factory.ai/)
 Coding Droids for building software end-to-end
 
