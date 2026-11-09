@@ -4456,6 +4456,28 @@ Build-your-own (agent-builing frameworks and platforms), Multi-agent
 </details>
 
 
+## [Jelliu](https://jelliu.co/)
+
+Autonomous AI agents for sales, support and bookings
+
+<details>
+
+### Category
+Sales, Customer support, Voice
+
+### Description
+- No-code platform for running autonomous AI agents across the channels customers already use: voice calls, WhatsApp, email and web chat
+- An agent in Jelliu runs a whole conversation unattended — it dials, qualifies, books, follows up and escalates to a human
+- CRM sync, live analytics and multilingual support (English, Spanish, Portuguese) out of the box
+- Free plan; scales from small teams to contact centres without per-seat minimums
+
+### Links
+- [Platform](https://jelliu.co)
+- [Alternatives to Vapi, Retell, Bland and 19 more tools](https://jelliu.co/alternatives)
+- [llms.txt](https://jelliu.co/llms.txt)
+
+</details>
+
 ## [Julius](https://julius.ai/)
 AI data processing, analysis, and visualization
 
