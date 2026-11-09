@@ -3157,6 +3157,24 @@ Coding, General purpose
 </details>
 
 
+## [AlphaDrama](https://www.getalphadrama.com)
+AI short drama and marketing video creation platform orchestrating multi-agent workflows
+
+<details>
+
+### Category
+Video generation, Content creation, Marketing, Autonomous agents
+
+### Description
+- Multi-agent AI platform orchestrating character consistency, automated script adaptation, visual storyboard breaking, video generation, and seamless stitching.
+- Built specifically for creators, agencies, and e-commerce brands to produce viral short dramas and high-converting marketing videos at scale.
+
+### Links
+- [Web](https://www.getalphadrama.com)
+
+</details>
+
+
 ## [Aomni](https://www.aomni.com/?utm_source=awesome-ai-agents)
 AI agent designed for business intelligence
 
