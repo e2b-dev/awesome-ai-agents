@@ -2408,6 +2408,28 @@ Coding
 
 </details>
 
+## [RocketRide](https://rocketride.ai)
+AI meta-harness with an enterprise-grade C++ runtime for building and operating agents in production
+
+<details>
+
+### Category
+General purpose, Build your own, Multi-agent
+
+### Description
+- Meta-harness: agents, models, retrieval and tools compose on a visual canvas into pipelines that run on an enterprise-grade C++ runtime.
+- Agent nodes for CrewAI, LangChain and LlamaIndex, plus a native agent node, so multi-agent systems can be composed visually and run as a single pipeline.
+- Model-interchangeable: nodes for the major hosted providers (OpenAI, Anthropic, Gemini, DeepSeek, Mistral, Bedrock and more) and local models through Ollama.
+- Retrieval over interchangeable vector stores, including Qdrant, Chroma, Astra DB and Milvus.
+- Build, stage, test, publish and maintain from the IDE (VS Code extension), the terminal (Python and TypeScript SDKs), or dynamically through the MCP server, which also makes pipelines callable as tools from Claude, Cursor and Windsurf.
+- Self-host with Docker or run in the cloud; pipelines are plain JSON files that diff and review in git.
+
+### Links
+- [GitHub](https://github.com/rocketride-org/rocketride-server)
+- [Web](https://rocketride.ai)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
