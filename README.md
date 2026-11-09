@@ -1652,6 +1652,30 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [ihatecrypto](https://github.com/ihatecryptoai/ihatecrypto)
+Crypto harness that lets your own AI model move crypto without holding a key
+
+<details>
+
+![image](https://raw.githubusercontent.com/ihatecryptoai/ihatecrypto/main/images/route-light.png)
+
+### Category
+Productivity, Personal assistant
+
+### Description
+- A self-custody crypto wallet for Mac and Windows you talk to: write "buy $10 of SOL" or "put my USDC where it earns most" and the agent looks up prices and balances, picks a route across networks and lays the move out as cards.
+- Bring your own model: a ChatGPT or Claude subscription, OpenRouter (Qwen, DeepSeek, Llama and others), an API key, or a local model through Ollama or LM Studio.
+- The model never holds a key. A separate signing process checks every transaction in code and signs only after you confirm with Touch ID or Windows Hello.
+- Swaps, bridges, lending, Hyperliquid perps and stock tokens on Solana, Ethereum and its L2s, Hyperliquid and NEAR.
+- Open source under GPL-3.0.
+
+### Links
+- [Web](https://ihatecrypto.ai)
+- [GitHub](https://github.com/ihatecryptoai/ihatecrypto)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
