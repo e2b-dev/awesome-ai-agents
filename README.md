@@ -4835,6 +4835,28 @@ Build-your-own, Multi-agent
 </details>
 
 
+## [Nettrux](https://www.nettrux.ai)
+First 3PL on x402 — freight agents can shop; humans approve
+
+<details>
+
+### Category
+Business intelligence, Productivity, General purpose
+
+### Description
+- California freight broker and forwarder (LTL, FTL, air live today)
+- First 3PL on x402: building so AI agents can quote and propose freight bookings
+- Named human approves every mint; software is not an approver
+- Public agent / x402 discovery endpoint not live yet (`/.well-known/x402` still 404)
+- Shareable no-login tracking links; documents kept on the load
+
+### Links
+- [Web](https://www.nettrux.ai)
+- [X (Twitter)](https://x.com/nettrux)
+
+</details>
+
+
 ## [NexusGPT](https://gpt.nexus/)
 Build AI agents in minutes, without coding
 <details>
