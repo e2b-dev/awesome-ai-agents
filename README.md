@@ -4744,7 +4744,7 @@ Productivity, Coding, Workflow automation
 </details>
 
 ## [mindmap.io](https://mindmap.io/)
-Mindmap of the AI era, with an in-app agent that builds your mindmap
+Mindmap of the AI era
 
 <details>
 
