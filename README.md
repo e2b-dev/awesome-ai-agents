@@ -70,6 +70,29 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [A2AClear](https://github.com/unnataisolutions-wq/a2aclear)
+Sovereign Agent-to-Agent Clearinghouse & Settlement Standard (RFC-0001)
+
+<details>
+
+### Category
+Multi-agent, Infrastructure, Payments & Clearing
+
+### Description
+- **Autonomous Clearing Standard**: Open protocol enabling multi-agent AI networks to independently negotiate SLAs, lock micro-escrow, and settle balances in <10ms with Ed25519 DIDs and a standardized 0.50% protocol tollgate.
+- **Production SDK**: Python package (`pip install a2aclear`) and TypeScript SDK with native LangChain tools and CrewAI settlement handlers.
+
+### Stack
+Python, TypeScript, Ed25519, Cloudflare Edge
+
+### Links
+- [GitHub](https://github.com/unnataisolutions-wq/a2aclear)
+- [PyPI](https://pypi.org/project/a2aclear/)
+- [Live Specification & Simulator](https://unnataisolutions.com/a2aclear)
+
+</details>
+
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
