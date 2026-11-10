@@ -1652,6 +1652,31 @@ Build-your-own (agent-builing frameworks and platforms), General purpose, Multi-
 </details>
 
 
+## [iktisad](https://github.com/shiny-apricot/iktisad)
+Zero-overhead Python context firewall & native AST skeletonizer for AI coding agents
+
+<details>
+
+### Category
+Infrastructure, Developer Tools, Coding Agents
+
+### Description
+iktisad is a zero-dependency, ultra-low overhead context firewall and terminal log compressor for AI coding agents. It prevents context blowout by dynamically compressing verbose test/compiler outputs and extracting structural AST skeletons from source code.
+
+- Zero external dependencies: Built strictly with Python standard library.
+- Native Model Context Protocol (MCP) server support with 5 deterministic tools.
+- Over 85% token reduction on compiler logs and test runner tracebacks.
+- Deterministic AST extraction for Python classes, functions, and interfaces.
+- Protects developer token quotas and LLM context windows.
+
+### Links
+
+- [GitHub Repository](https://github.com/shiny-apricot/iktisad)
+- [PyPI Package](https://pypi.org/project/iktisad/)
+
+</details>
+
+
 ## [IX](https://github.com/kreneskyp/ix)
 Agents building, debugging, and deploying platform
 
