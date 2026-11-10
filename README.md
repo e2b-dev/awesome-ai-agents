@@ -1289,6 +1289,27 @@ Build-your-own
 
 </details>
 
+## [Engraphis](https://github.com/Coding-Dev-Tools/engraphis)
+Local-first memory engine for coding agents, with cited recall
+
+<details>
+
+![Image](https://github.com/Coding-Dev-Tools.png)
+
+### Category
+Agent memory, Developer tooling
+
+### Description
+Engraphis is an Apache-2.0 local-first memory engine for coding agents. It stores scoped project knowledge in one SQLite file, keeps bi-temporal history so superseded facts close instead of disappearing, and returns bounded, cited context or abstains when support is weak. Recall fuses vector, FTS5/BM25, Personalized PageRank, and AST code-symbol bridges. It works with Claude Code, Cursor, Codex, Cline, Zed, and Windsurf over MCP. The local core needs no cloud account or API key. A browser demo and a three-command setup guide are public. The benchmark is deliberately bounded: 71.1% lower mean top-5 context in an 18-question offline fixture, not a general task-performance claim.
+
+### Links
+- [GitHub](https://github.com/Coding-Dev-Tools/engraphis)
+- [Demo](https://engraphis.com/demo)
+- [Claude Code memory guide](https://engraphis.com/claude-code-memory)
+- [Agent memory checklist](https://engraphis.com/agent-memory-checklist)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
