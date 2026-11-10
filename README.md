@@ -731,7 +731,31 @@ Data analysis, Productivity, Research, Marketig, Sales, Finance
 
 </details>
 
+# Security & Guardrails
+AI tools and runtime control planes that protect autonomous AI agents from prompt injections, data leaks, and unauthorized tool executions.
 
+## [Vigil](https://vigiltrism.ai)
+Independent runtime control plane for autonomous AI agents
+
+<details>
+
+![image](https://img.shields.io/badge/Security-Runtime%20Guardrails-blue)
+
+### Category
+Security, Guardrails, Runtime Control
+
+### Description
+- Independent runtime control plane for autonomous AI agents and multi-agent frameworks (LangChain, LlamaIndex)
+- Intercepts prompts, retrieved documents, and tool calls in-flight with sub-15ms latency
+- Enforces pre-execution block decisions against direct and indirect prompt injections
+- Deterministic tool-argument validation preventing tool poisoning and unauthorized SQL/API actions
+- Automatic Fail-Closed enforcement for high-security production environments
+
+### Links
+- [Web](https://vigiltrism.ai)
+- [Demo Video](https://www.youtube.com/watch?v=vChsgkUK1OI)
+
+</details>
 
 
 # Other - top picks
