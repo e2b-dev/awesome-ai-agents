@@ -5360,6 +5360,26 @@ Coding
   
 </details>
 
+## [VisionQuantech](https://visionquantech.com)
+AI agents, websites and SEO for small businesses — done-for-you AI receptionists, WhatsApp agents and calling agents
+
+<details>
+
+![image](https://visionquantech.com/vq-eye-logo.png)
+
+### Category
+Sales, Customer support, General purpose
+
+### Description
+- VisionQuantech builds done-for-you AI agents for small businesses: AI receptionists that answer every call, website chatbots that book appointments, and WhatsApp assistants that quote instantly.
+- Also ships a suite of free AI tools for small businesses (review monitoring, invoicing, lead tools) at apps.visionquantech.com.
+
+### Links
+- [Web](https://visionquantech.com)
+- [X](https://x.com/shivaysrajput)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
