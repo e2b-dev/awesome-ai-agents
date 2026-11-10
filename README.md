@@ -4127,6 +4127,28 @@ Productivity
 
 </details>
 
+## [Genaya](https://genaya.com/)
+AI operations agent for service businesses
+
+<details>
+
+![image](https://genaya.com/Logo2.png)
+
+### Category
+Business, Productivity, Customer support
+
+### Description
+- Genaya AI works across a service business's own data: appointments, clients, leads, invoices, calls and team
+- Answers questions about the business and takes actions in the app (create appointments, send invoices, follow up leads), with a confirmation step before changes
+- AI receptionist answers inbound phone calls, books appointments and creates leads
+- Also available in ChatGPT, Claude and other assistants through a remote MCP server (`https://api.genaya.com/mcp`)
+
+### Links
+- [Web](https://genaya.com/)
+- [MCP docs](https://developer.genaya.com/mcp)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
