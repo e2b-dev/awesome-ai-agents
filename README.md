@@ -4743,6 +4743,28 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [mindmap.io](https://mindmap.io/)
+Mindmap of the AI era
+
+<details>
+
+![image](https://mindmap.io/favicon.png)
+
+### Category
+Productivity, Research, General purpose
+
+### Description
+- A mindmap where every node can be an AI chat. Ask a question, branch any answer into follow-ups, and each branch carries the path from the root above it
+- Milo, the in-app agent, reads your mindmap, edits nodes and branches, and answers questions about it
+- MCP server and connector so Claude, Cursor or any AI agent can create mindmaps of any topic in your account
+- Ask GPT, Gemini, Claude, Kimi or DeepSeek on any node; free plan available
+
+### Links
+- [Web](https://mindmap.io/)
+- [GitHub (MCP server and agent skills)](https://github.com/MohGanji/mindmapio-mcp)
+</details>
+
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
