@@ -2372,6 +2372,37 @@ Productivity, General purpose
 </details>
 
 
+## [QuAIA™](https://github.com/partarstu/agentic-qa-framework)
+AI agentic framework for software testing: a team of AI agents that takes QA from first requirement to final test report
+
+<details>
+
+![Image](https://github.com/partarstu/agentic-qa-framework/raw/main/static/quaia_logo.png)
+
+### Category
+Multi-agent, Developer tools, Software testing
+
+### Description
+- Your developers ship faster than ever with AI; QuAIA lets your testing keep up. AI agents do the busywork, your team makes the calls.
+- Covers the whole test life cycle:
+	- Reviews requirements and posts improvement suggestions to Jira
+	- Designs, refines and de-duplicates test cases and files them in Zephyr or Xray
+	- Files bug reports with repro steps, screenshots and logs
+	- Publishes execution reports to the test management system and as Allure HTML
+- [Test execution agents](https://github.com/partarstu/test-execution-agents) test web and desktop UIs straight from the screen with keyboard and mouse (no scripts or locators; mobile in progress), learn a workflow from a single expert demonstration and replay it unattended, and validate APIs against JSON Schema and OpenAPI
+- Project knowledge base synced from Jira and Confluence
+- Runs on your own cloud or on-premises infrastructure with the model of your choice: Claude, Gemini, GPT, any OpenAI-compatible or self-hosted model
+- Scales by adding agent instances; built-in prompt-injection detection and credential masking
+- Open source (AGPL-3.0), built on the A2A and MCP protocols
+
+### Links
+- [Website](https://quaia.dev)
+- [Demo video](https://youtu.be/LUf6ydlKfIU)
+- [GitHub](https://github.com/partarstu/agentic-qa-framework)
+- [Test execution agents](https://github.com/partarstu/test-execution-agents)
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
