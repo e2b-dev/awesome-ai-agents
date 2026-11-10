@@ -4296,6 +4296,26 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [HardCall](https://github.com/wangguode/hardcall)
+Full-duplex voice practice cockpit with 52ms barge-in interruptions & speech autopsies
+
+<details>
+
+### Category
+Voice, Interview & Speech, General purpose
+
+### Description
+- Open-source full-duplex voice practice cockpit engineered for brutal composure training and high-stakes interview defense
+- Features a 52ms real-time barge-in interruption state machine that cuts off rambling, filler words, or lack of quantitative data in mid-sentence
+- Includes post-call speech autopsies: 3D composure radar, filler word telemetry, and executive-level "$200K+ answer rewrites"
+- Full-stack architecture: Next.js 16 Web Studio with instant zero-key live demo, paired with Swift 6 native macOS/iOS client
+
+### Links
+- [Live Demo](https://hardcall.153557421.workers.dev)
+- [GitHub](https://github.com/wangguode/hardcall)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
@@ -5509,6 +5529,26 @@ Build-your-own, Productivity, General purpose
 
 - [Web](https://zapier.com/central)
   
+</details>
+
+## [Zhishu Agent](https://github.com/wangguode/zhishu-agent)
+Enterprise coding agent harness with self-healing unit test verification & dynamic compaction
+
+<details>
+
+### Category
+Coding, Developer Tools, Agent Framework
+
+### Description
+- Production-grade autonomous coding agent harness architecture featuring closed-loop self-healing unit test verification and dynamic context compaction
+- Dual-engine implementation in Java 17 (Spring Boot 3 Web Studio & CLI) and standalone zero-dependency Python pattern library
+- Built-in 3-tier security policy (PreToolUse / PostToolUse guardrails), Model Context Protocol (MCP JSON-RPC 2.0), and 2-stage `/compact` context compression saving 85%+ tokens on long tasks
+- Works out-of-the-box with DeepSeek, Qwen, Claude, and local models with zero required API keys in deterministic mock mode
+
+### Links
+- [GitHub](https://github.com/wangguode/zhishu-agent)
+- [Architecture](https://github.com/wangguode/zhishu-agent#readme)
+
 </details>
 
 
