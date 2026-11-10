@@ -732,6 +732,29 @@ General purpose, Productivity
 </details>
 
 
+## [BIOME](https://github.com/asteria-core/biome)
+Spec-driven multi-agent software engineering framework extending Google's Elephant-Goldfish Model
+
+<details>
+
+### Category
+Coding, Development, Multi-Agent
+
+### Description
+- Open-source multi-agent software engineering framework extending Google's Elephant-Goldfish Model (EGM).
+- **The Elephant & The Goldfish:** Long-term spec drafting memory separated strictly from zero-context adversarial review subagents.
+- **The Beaver & Domain Pods:** Surgical code mutations partitioned into isolated domain pods (Database -> Backend -> Web -> Mobile -> E2E).
+- **The Falcon & Cartographer:** Whole-repo topology caching and reconnaissance scouts that extract entrypoints without context bloat.
+- **The Chameleon & Woodpecker:** Diff-inspection across 5 vectors to eliminate robotic AI slop and enforce human-grade craftsmanship.
+- **Elephant State Anchor:** Deterministic recovery protocol (.biome/state.json) protecting against context compaction amnesia.
+- Pre-packaged runtime distributions for Claude Code, OpenAI Operator, and native CLI environments with 340+ passing tests.
+
+### Links
+- [GitHub](https://github.com/asteria-core/biome)
+- [Documentation](https://github.com/asteria-core/biome#readme)
+</details>
+
+
 ## [Blinky](https://github.com/seahyinghang8/blinky)
 An open-source AI debugging agent for VSCode
 
