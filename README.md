@@ -2510,6 +2510,29 @@ Superagent is not a single agent, but a tool that allows creating agents without
 </details>
 
 
+## [superagent-build](https://github.com/aidless/superagent-build)
+A pure-stdlib Python agent governance kernel: 29 MUST clauses, 30 conformance tests, fail-closed write scopes, watchdog and per-ticket token budgets.
+<details>
+
+### Category
+
+Infrastructure
+
+### Description
+
+superagent-build is a governance kernel for autonomous agents. Write scopes, admission assessment, a watchdog review loop and per-ticket token budgets are expressed as machine-checkable MUST clauses, each naming the conformance test that guards it. Pure Python stdlib, no third-party dependencies.
+
+### Links
+
+GitHub: https://github.com/aidless/superagent-build
+
+PyPI: https://pypi.org/project/superagent-build/
+
+Dissection of the prototype it was built against: https://github.com/aidless/superagent-dig
+
+</details>
+
+
 ## [SuperAGI](https://superagi.com/)
 Framework to develop and deploy AI agents
 <details>
