@@ -2196,6 +2196,29 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Nodecode](https://github.com/nodecode-ai/nodecode)
+Open-source agent in Common Lisp that rewrites itself as it works
+
+<details>
+
+ ![image](https://nodecode.ai/apple-icon.png)
+
+### Category
+Coding, General purpose
+
+### Description
+- Nodecode is an open-source (MIT) AI agent that runs as one long-lived process in SBCL, a Common Lisp system; terminal and chat shells attach to it
+- The model has one tool, evaluating Lisp in the running program, and keeps what it defines, so the agent grows new commands, tools and fixes over time
+- Runs on Linux, macOS and Windows, on your own model key (Anthropic, OpenAI, Google, OpenRouter, Ollama and other OpenAI-compatible endpoints)
+- Cells are folders that teach it something new: a chat room it can live in, a provider login, a tool, a guard
+
+### Links
+- [Website](https://nodecode.ai)
+- [GitHub](https://github.com/nodecode-ai/nodecode)
+- [Docs](https://nodecode.ai/docs)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
