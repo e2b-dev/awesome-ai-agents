@@ -5589,3 +5589,5 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 
 
 -->
+
+- **[Kolivri](https://kolivri.com)** - All-in-one AI Voice Call Center & CRM platform with sub-second voice agents in 8 languages (native Hebrew & English), persistent cross-call memory (Memoria), and [MCP server](https://github.com/kolivritech/kolivri-voice-mcp).
