@@ -301,6 +301,27 @@ Coding, GitHub
 
 </details>
 
+## [AIPages](https://github.com/2xcel-dev/AIPages)
+Machine-native discovery registry and upstream execution gateway for autonomous AI agents and MCP tools
+
+<details>
+
+### Category
+Autonomous agent infrastructure, Tool registry, Model Context Protocol (MCP), Execution gateway
+
+### Description
+- Open machine-native discovery registry and vector search index for autonomous AI agent tools.
+- Granular 3072-dimensional semantic search over tool schemas, input parameters, and capabilities.
+- Native HTTP 402 micro-settlement support on Base L2 (USDC) for machine-to-machine monetization without API key friction.
+- Programmatic tool registration API for dynamic agent execution environments.
+
+### Links
+- [Website](https://aipages.tech)
+- [GitHub](https://github.com/2xcel-dev/AIPages)
+- [Documentation](https://aipages.tech/docs)
+
+</details>
+
 ## [AIlice](https://github.com/myshell-ai/AIlice)
 Create agents-calling tree to execute your tasks
 <details>
