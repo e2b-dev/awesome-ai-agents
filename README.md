@@ -4988,6 +4988,24 @@ Build-your-own, no-code, web UI
 
 </details>
 
+## [Protaura](https://protaura.com)
+A team of AI teammates for solo founders
+
+<details>
+
+### Category
+Software development, Generating apps
+
+### Description
+- Lets a founder describe what to build and hands the work to a small team of AI teammates covering vision, scope, design and brand, and infrastructure and code.
+- Work runs with human approval gates, so nothing is published without a review.
+- Currently in beta; the free plan runs the full loop with bring-your-own API keys.
+
+### Links
+- [Web](https://protaura.com)
+
+</details>
+
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
 AI workforce on Slack for under-resourced SMEs
 
