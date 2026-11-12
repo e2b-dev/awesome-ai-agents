@@ -5360,6 +5360,28 @@ Coding
   
 </details>
 
+## [Vidmoat](https://www.vidmoat.com/)
+Hosted AI video editor an agent can drive
+
+<details>
+
+![image](https://www.vidmoat.com/logo-512.png)
+
+### Category
+Content creation, Video editing, Developer tools
+
+### Description
+- A hosted, agent-first video editor: describe the edit in chat, or connect Claude, Cursor and other MCP clients, and the agent imports footage, edits a real multi-track timeline and renders MP4s
+- Every edit lands on a timeline you can review and adjust by hand
+- Also available through a REST API (OpenAPI spec, free test keys; live keys on the Studio plan) and a Telegram bot
+
+### Links
+- [Web](https://www.vidmoat.com/)
+- [Developer portal](https://developer.vidmoat.com/developer)
+- [OpenAPI](https://api.vidmoat.com/openapi.json)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
