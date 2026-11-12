@@ -95,6 +95,28 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Store](https://github.com/Bensonluo/rag_chatbot)
+Agent Store: A shopping and customer-service agent that safely completes real transactions, built on a LangGraph dialogue engine
+
+<details>
+
+### Category
+General purpose, Customer support, E-commerce
+
+### Description
+
+- **Confirmation-gated transactions**: Search → quote → your explicit confirmation → order and payment as separately gated steps — nothing irreversible happens without a human yes.
+- **14-node LangGraph dialogue engine**: A deterministic skeleton with controlled LLM nodes, not a free-running loop.
+- **Full RAG stack**: Hybrid retrieval (vector + BM25 + RRF), optional GraphRAG on Neo4j, and guardrails for prompt injection and PII.
+- **Graceful human handoff**: Detects unhappy users or out-of-scope tasks and stops for a human instead of improvising.
+- **MCP server included**: The commerce tools are exposed via Model Context Protocol, so other agents can use them too.
+- **Try it live**: A full shopping round runs end to end on the public demo.
+
+### Links
+- [Live demo](https://benluo.art/projects/rag-chatbot/)
+- [GitHub](https://github.com/Bensonluo/rag_chatbot)
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
