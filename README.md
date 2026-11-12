@@ -2296,6 +2296,29 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpenValet](https://github.com/SamarthY06/OpenValet)
+Voice and WhatsApp agent for macOS that runs Claude Code on your own Claude login
+
+<details>
+
+![Image](https://raw.githubusercontent.com/SamarthY06/OpenValet/main/docs/media/social-preview.png)
+
+### Category
+Productivity, Personal assistant
+
+### Description
+- Say "Hey Mac" and it does the task in your apps: Chrome (your own logged-in browser), Mail, Notes, WhatsApp, Calendar, Reminders, Finder, Terminal
+- The brain is Claude through the Claude Agent SDK with your own Claude login; the wake word (sherpa-onnx), speech recognition (Parakeet), end-of-turn detection (Pipecat Smart Turn) and voice (Kokoro) run locally on the Mac
+- Also answers in the WhatsApp groups you add, as a linked device
+- Irreversible actions (send, post, pay, delete, upload) are blocked by a hook until you say yes to a spoken summary of that exact action
+- MIT licensed; Apple Silicon, macOS 14 or newer
+
+### Links
+- [GitHub](https://github.com/SamarthY06/OpenValet)
+- [Documentation](https://github.com/SamarthY06/OpenValet/blob/main/docs/USAGE.md)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
