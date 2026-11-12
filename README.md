@@ -70,6 +70,31 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [53ON Harness](https://github.com/enriqxxx/53on-harness)
+Open desktop shell that gives your AI a memory, hands, eyes and voice on your own PC
+
+<details>
+
+![Image](https://github.com/enriqxxx/53on-harness/raw/main/assets/screenshots.png)
+
+### Category
+General purpose, Productivity, Coding
+
+### Description
+
+- **A memory that stays**: between sessions, on your PC, and it can hold photos, audio and video.
+- **Hands and eyes**: a terminal and your files under the permission mode you choose, its own browser, the screen and the camera.
+- **A voice**: it speaks, and it turns your voice into text on your own PC.
+- **Works with Claude Code**: the Harness Cable connects Claude Code in VS Code or the terminal with nothing to set up, and the AI wakes up with its memory.
+- **Any model**: your key from Anthropic, OpenAI, Google, DeepSeek, Groq, Moonshot, Alibaba or OpenRouter, or a model on your own PC.
+- **You stay the only guardian**: a panel audits everything the AI asks of your PC.
+
+### Links
+- [GitHub](https://github.com/enriqxxx/53on-harness)
+- [Website](https://53on.com)
+- [Download](https://github.com/enriqxxx/53on-harness/releases/latest)
+</details>
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
