@@ -320,6 +320,25 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [arowser](https://github.com/HankMonster/arowser)
+Agent-programmable web windows for macOS
+<details>
+
+![Image](https://github.com/HankMonster/arowser/raw/main/assets/demo.gif)
+
+### Category
+Developer tools, Productivity
+
+### Description
+- A browser whose primary user is your coding agent, opening windows for the human to look at — dashboards, reports, notifications
+- Windows are addressed by stable ids; multiple agents run simultaneously with owner isolation
+- Per-profile login jars survive restarts; ships with ready-made agent skills and a Homebrew tap
+
+### Links  
+- [GitHub](https://github.com/HankMonster/arowser)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
