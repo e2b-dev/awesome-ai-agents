@@ -2660,6 +2660,31 @@ General purpose, Productivity
 
 </details>
 
+## [TeamBot](https://github.com/milronski-cmd/teambot)
+A team of AI bots on your own computer: desktop app for Windows and macOS
+
+<details>
+
+![Image](https://github.com/milronski-cmd/teambot/raw/main/website/src/img/chat-desktop.webp)
+
+### Category
+General purpose, Multi-agent
+
+### Description
+- You talk to one main bot, which hands work to the other bots and reports what they did
+- Separate teams, each with its own folder, memory and budget; bots share memory with their team
+- A task is marked done only after a check with proof
+- Works with Claude Code, Codex, API providers and local models (Ollama, LM Studio); moves to another model when a limit is hit
+- Routines and triggers, skills and MCP connectors, a browser per bot
+- Channels: Telegram, WhatsApp, Discord, Slack and e-mail
+- Runs locally (Windows, macOS) or on your own server (Docker); Apache-2.0
+
+### Links
+- [GitHub](https://github.com/milronski-cmd/teambot)
+- [Website](https://teambot-beta.vercel.app/en/)
+
+</details>
+
 ## [Teenage AGI](https://github.com/seanpixel/Teenage-AGI/blob/main/README.md#experiments)
 BabyAGI-inspired agent, can recall infinite memory
 <details>
