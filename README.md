@@ -4860,6 +4860,29 @@ Technical challenges of building AI products, Business/marketing challenges of b
 </details>
 
 
+## [OsmO](https://getosmo.app/for-my-ai)
+AI agent that makes real phone calls to businesses for you
+
+<details>
+
+### Category
+Productivity, Personal assistant, Voice
+
+### Description
+- Places phone calls on the user's behalf: books, reschedules or cancels appointments and tables, asks shops, clinics and restaurants about hours, prices, stock or orders, gets through company phone menus to customer service
+- Every call is previewed and confirmed by the user first; returns the outcome, a summary and the transcript
+- Works from ChatGPT, Claude, Cursor, Codex, Gemini CLI, Grok and other MCP clients through a hosted MCP server, and from the OsmO iOS/Android app
+- With an OsmO iOS/Android app plan it can also call the user's contacts, schedule calls, and answer and screen calls to the user's own number
+- 50 free credits for new users in the US, Canada, UK and Australia; paid plans after that. With free credits, OsmO calls businesses and toll-free numbers; calling your contacts and scheduling calls need an OsmO app plan.
+
+### Links
+- [Web](https://getosmo.app/for-my-ai)
+- [GitHub (client configs and skill)](https://github.com/Mountainheads-Private-limited/osmo-ai-plugins)
+- [MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers/app.getosmo%2Fphone-calls/versions/latest)
+
+</details>
+
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
