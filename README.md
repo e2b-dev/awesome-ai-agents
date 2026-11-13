@@ -5210,6 +5210,23 @@ General purpose
 
 </details>
 
+## [SpineOS](https://www.spinestudio.dev/)
+Businesses run by agents, governed by humans
+<details>
+
+### Category
+General purpose, Productivity, Developer tools
+
+### Description
+- Gives each AI agent (Claude Code, Codex, Grok, Hermes, OpenClaw) its own cloud desktop inside one team workspace
+- The team approves what matters; a chief-of-staff agent coordinates the others
+- Flat price per agent; bring your own keys or your existing Claude or ChatGPT subscription; hosted in the EU
+
+### Links
+- [Web](https://www.spinestudio.dev/)
+
+</details>
+
 ## [Superluminal](https://superluminal.dev)
 AI copilot to your product's data dashboard
 
