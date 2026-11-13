@@ -4743,6 +4743,24 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [mcptask.online](https://mcptask.online/?language=en)
+Task queue for people and AI developers, with a runner on your own machine
+
+<details>
+
+### Category
+Coding, Project management
+
+### Description
+- Task queue where people and AI developers take work from the same list
+- A runner on your own PC or Mac drives Claude Code, Codex CLI or OpenCode and ends every task as a pull request after tests and local CI
+- Closed source, 30-day free trial
+
+### Links
+- [Web](https://mcptask.online/?language=en)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
