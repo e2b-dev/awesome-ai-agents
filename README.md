@@ -3319,6 +3319,29 @@ Data analysis, Business intelligence
 
 </details>
 
+## [Atlarix](https://www.atlarix.dev/)
+AI coding agent for the desktop, terminal and editor that works with any model
+
+<details>
+
+![image](https://www.atlarix.dev/images/logo.png)
+
+### Category
+Coding
+
+### Description
+- Atlarix plans, builds, reviews, debugs and tests real projects beside your editor, and asks before it writes
+- Runs as a desktop app (macOS, Windows, Linux), a CLI, an extension for VS Code, Cursor, Kiro and Windsurf (Zed and JetBrains through the Agent Client Protocol), and a Chrome extension
+- Works with any model: your own API key, a local model through Ollama or LM Studio, or Atlarix Core (pay-as-you-go)
+- File edits show a diff and wait for approval; shell commands run in an OS-level sandbox
+
+### Links
+- [Web](https://www.atlarix.dev/)
+- [Docs](https://www.atlarix.dev/docs)
+- [Contact](mailto:hello@atlarix.dev)
+
+</details>
+
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
