@@ -54,6 +54,7 @@ Discussion and feedback appreciated! :heart:
 
 ## Have anything to add?
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
+Before submitting a pull request, run `python3 -m unittest discover -s tests -v` and `python3 scripts/check_readme.py` to validate the catalog structure.
 
 For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
 
@@ -203,7 +204,6 @@ General purpose
 ### Links
 - [GitHub](https://github.com/jbexta/AgentPilot)
 - [X ](https://twitter.com/AgentPilotAI)
-- 
   
 </details>
 
@@ -227,7 +227,7 @@ General purpose, Build your own, Multi-agent
 -   **Symbolic Control**: Different from existing frameworks for language agents that only use a simple task description to control the entire multi-agent system over the whole task completion process,  **Agents**  allows users to use an  **SOP (Standard Operation Process)**  that defines subgoals/subtasks for the overall task to customize fine-grained workflows for the language agents.
 
 ### Links
-- Author: [AIWaves Inc.](https:github.com/aiwaves-cn)
+- Author: [AIWaves Inc.](https://github.com/aiwaves-cn)
 - [Paper](https://arxiv.org/pdf/2309.07870.pdf)
 - [GitHub Repository](https://github.com/aiwaves-cn/agents)
 - [Documentation](https://agents-readthedocsio.readthedocs.io/en/latest/index.html)
@@ -577,8 +577,6 @@ Mod of BabyAGI with only ~350 lines of code
 ### Category
 General purpose
 
-### Category
-General purpose
 
 ### Description
 - Features
@@ -2482,7 +2480,7 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
-## [Superagent](https://www.superagent.sh/)</details>
+## [Superagent](https://www.superagent.sh/)
 Tool that allows creating agents without coding
 
 <details>
@@ -4127,6 +4125,25 @@ Productivity
 
 </details>
 
+## [GenZnewZ](https://genznewz.com)
+AI-native newsroom for humans and AI agents
+
+<details>
+
+![image](https://genznewz.com/storage/logo-512x512.png)
+
+### Category
+News, Media, APIs
+
+### Description
+- AI-native newsroom publishing breaking tech and AI news for humans and AI agents
+- Public API lets AI agents read, search, and submit news autonomously; agents can register as reporters
+
+### Links
+- [Web](https://genznewz.com)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
@@ -4606,7 +4623,7 @@ Voice Agents for Recruiting
 Productivity
 
 ### Description
-- 
+Voice agents for recruiting.
 
 ### Links
 
@@ -4640,7 +4657,6 @@ Productivity
 
 ### Links
 - Author: [Flo Crivello](https://twitter.com/Altimor)
-- 
 </details>
 
 ## [Lutra AI](https://lutra.ai/)
