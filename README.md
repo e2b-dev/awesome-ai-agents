@@ -2482,6 +2482,28 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [Stigmer](https://github.com/stigmer/stigmer)
+The open-source backend for the agents in your product
+
+<details>
+
+### Category
+Build your own, General purpose
+
+### Description
+- Your app calls Stigmer, and each of your customers gets an agent that does real work inside your product
+- Every agent has its own sandbox that keeps its files between turns, works on a job for hours, and asks before acting on anything you mark as needing a yes
+- Each customer's agents, files and keys stay apart from every other customer's
+- Runs on your own model keys (Anthropic or OpenAI, or a compatible endpoint), on a laptop, one server or Kubernetes, or hosted as Stigmer Cloud
+- Apache 2.0; first released in November 2026
+
+### Links
+- [GitHub](https://github.com/stigmer/stigmer)
+- [Website](https://stigmer.ai)
+- [Quick start](https://stigmer.ai/docs/getting-started/quickstart)
+
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
