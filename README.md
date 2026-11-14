@@ -69,7 +69,25 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 - Contact us at [hello@e2b.dev](mailto:hello@e2b.dev) or [on Discord](https://discord.gg/35NF4Y8WSE). Follow us on [X (Twitter)](https://twitter.com/e2b)
 
 # Open-source projects
+## [AegisKernel](https://github.com/adikshatriyag-crypto/aegis-kernel)
+AegisKernel: Deterministic <0.016ms security runtime for autonomous AI agents
 
+<details>
+
+### Category
+Agent Security, Process Sandboxing, Execution Safety
+
+### Description
+- **Deterministic Interception:** Intercepts unauthorized tool execution, path traversal (`../../.env`), and subshell escapes in <0.016ms with zero LLM token overhead.
+- **Universal Drop-in:** 2-line Python decorator (`@shield.protect_tool`) compatible with CrewAI, LangChain, and MCP servers.
+- **Zero Token Cost:** Replaces slow 800ms LLM-as-a-judge with deterministic POSIX/AST capability tokens.
+
+### Links
+- [GitHub Repository](https://github.com/adikshatriyag-crypto/aegis-kernel)
+- [Live Interactive Sandbox](https://adikshatriyag-crypto.github.io/aegis-kernel/)
+- [PyPI Package](https://pypi.org/project/aegis-kernel/)
+
+</details>
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
