@@ -5287,6 +5287,31 @@ Build-your-own, General purpose, Productivity
 </details>
 
 
+## [The One](https://the-zeroth.com/)
+A main assistant that hands your work to teams of AI agents on your own computer
+
+<details>
+
+![image](https://the-zeroth.com/product/en/matter-board-poster.webp)
+
+### Category
+General purpose, Coding, Productivity, Multi-agent, Build-your-own
+
+### Description
+- One main assistant answers small requests itself and turns bigger work into a matter with its own board.
+- Each matter goes to a working group: a team of agents from a template (software, research, design, video, site launch and more), with roles, handoffs and a reviewer.
+- Agents run on your computer with your files, commands, the web and a browser of their own, and keep working across days and app restarts.
+- Models from any provider, chosen per agent: OpenAI, Anthropic and Gemini API keys, a ChatGPT sign-in, or OpenAI-compatible endpoints such as Ollama.
+- Triggers start work on a schedule, on a webhook, or when a folder, a web page or a mailbox has something new.
+- Claude Code and Codex can hand tasks to its teams over MCP, and a headless Linux server runs the same agents.
+
+### Links
+- [Web](https://the-zeroth.com/)
+- [Docs](https://the-zeroth.com/en/docs)
+- [Download](https://the-zeroth.com/en/download)
+
+</details>
+
 ## [ThinkChain AI](https://www.thinkchain.ai/)
 Financial AI agent platform
 
