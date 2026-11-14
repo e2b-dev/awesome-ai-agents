@@ -1443,6 +1443,28 @@ Coding
 
 </details>
 
+## [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent)
+Android phone control for AI agents
+
+<details>
+
+### Category
+Computer use, Mobile, Open-source
+
+### Description
+- An open-source (MIT) MCP server and Python library that lets any LLM agent drive a real Android phone over ADB, with no root. iPhone is opt-in.
+- v1.6.0 ships 66 MCP tools (`GHOST_MCP_PROFILE=skills-first` serves 17).
+- Skill Hub: 117 skills for 113 Android apps. A hard skill replays a route with no LLM.
+- Human-in-the-loop captcha solving: the agent fills the page, pauses and calls a person, the person solves it, the agent finishes.
+- Install with `uvx --from ghost-in-the-droid android-agent-mcp` or `pip install ghost-in-the-droid`.
+
+### Links
+- [GitHub](https://github.com/ghost-in-the-droid/android-agent)
+- [Web](https://ghostinthedroid.com/)
+- [Release v1.6.0](https://github.com/ghost-in-the-droid/android-agent/releases/tag/v1.6.0)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
