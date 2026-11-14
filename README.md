@@ -3319,6 +3319,27 @@ Data analysis, Business intelligence
 
 </details>
 
+
+## [Atlyxen Studios](https://atlyxenstudios.com/)
+Enterprise custom AI tooling and agentic pipeline engineering studio specializing in human-in-the-loop supervision, SLM distillation, and compute cost reduction.
+
+<details>
+
+### Category
+Enterprise AI, Agent Tooling, Spatial Computing
+
+### Description
+- [Atlyxen Studios](https://atlyxenstudios.com/) - Enterprise custom AI tooling and agentic pipeline engineering studio specializing in human-in-the-loop supervision, SLM distillation, and compute cost reduction.
+- Architects bespoke internal AI toolchains and agentic automation pipelines for enterprise and creative teams.
+- Implements active learning and tiered confidence routing, slashing token expenditures by up to 70%.
+- Powers procedural content generation, gaming pipelines, and high-velocity spatial computing workflows.
+
+### Links
+- [Web](https://atlyxenstudios.com/)
+
+</details>
+
+
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
