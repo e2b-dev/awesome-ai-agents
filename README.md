@@ -1398,6 +1398,30 @@ Build-your-own (agent-builing frameworks and platforms)
 </details>
 
 
+## [ForgeMind](https://github.com/DIIIUA/ForgeMind)
+Autonomous AI engineering workspace and MCP host/client for Android
+
+<details>
+
+![Image](https://raw.githubusercontent.com/DIIIUA/ForgeMind/main/docs/screenshots/01-chat-agent-tools.png)
+
+### Category
+Coding, General purpose, Productivity
+
+### Description
+- Native Kotlin + Jetpack Compose autonomous AI workstation for Android (`GPL-3.0`) uniting cloud frontier APIs, custom gateways, and self-hosted LAN/Tailscale GGUF servers (Ollama, LM Studio, `llama.cpp`, vLLM)
+- Executes 56 built-in tools across a 4-way dual-pane file manager (sandbox, phone storage, Android SAF, SFTP), Sora code editor with rollback snapshots, persistent `/system/bin/sh`, Termux SSH, and Cloudflare Access Zero-Trust WebSocket SSH (`wss://`)
+- Includes an isolated 8-window parallel `⚡ Turbo` agent browser, whole-site Markdown scraper, multi-window Android screen reading & action tags (`[#N]`), and bidirectional Model Context Protocol support (both MCP client and built-in Android MCP server on `:8765`)
+- Universal inline tool-calling fallback (7 syntaxes) and live KV context-window auto-detection for small local GGUF models
+
+### Links
+- [Website](https://diiiua.github.io/ForgeMind/)
+- [GitHub](https://github.com/DIIIUA/ForgeMind)
+- [Architecture Graph](https://github.com/DIIIUA/ForgeMind/blob/main/docs/GRAPHIFY_ARCHITECTURE.md)
+
+</details>
+
+
 ## [Friday](https://github.com/amirrezasalimi/friday/)
 AI developer assistant for Node.js
 
