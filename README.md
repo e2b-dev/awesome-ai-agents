@@ -3319,6 +3319,28 @@ Data analysis, Business intelligence
 
 </details>
 
+## [AutoResearch](https://autoresearch.me/en/)
+From a research direction to an evidence-backed paper
+
+<details>
+
+![image](https://autoresearch.me/brand/autoresearch-512.png)
+
+### Category
+Science, Research
+
+### Description
+- AutoResearch connects literature exploration, testable ideas, model implementation, GPU experiments and manuscript drafting.
+- Researchers can inspect the results and artifacts behind the work.
+- Current beta research areas include computer vision, time series, natural language processing, mechanical prognostics, battery health and structural health monitoring.
+- The system is in private beta. Access requires administrator approval. Approved members receive 5,000 starter credits. Available compute, data and research scope affect what can be completed.
+
+### Links
+- [Web](https://autoresearch.me/en/)
+- [Apply for private beta](https://autoresearch.me/en/#apply)
+
+</details>
+
 ## [Avanzai](https://avanz.ai/)
 AI agents for portfolio risk and asset allocation
 
@@ -4440,7 +4462,7 @@ Build-your-own (agent-builing frameworks and platforms), Multi-agent
 
 ### Description
 - Your AI autopilot, not just a co-pilot.
-- In-sync Knowledge Base: Notion, Google Drive, URLs, all file types and more
+- In-sync Knowledge Base: Notion, Google Drive, URLs, all file types and more
 - Self-improving: They get better with each interaction and collaboration.
 - LLM Agnostic. Use the best LLMs from OpenAI, Google, Mistral, and Anthropic, etc.
 - Deploy agents where your team is: Zendesk, Slack, Discord, etc.
