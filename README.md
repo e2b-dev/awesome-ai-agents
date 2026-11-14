@@ -1289,6 +1289,28 @@ Build-your-own
 
 </details>
 
+## [Dynamic RSI Harness](https://github.com/bibble/dynamic-rsi-harness)
+Universal Dynamic Agentic Harness with Recursive Self-Improvement (RSI) for Local Ollama & Cloud LLMs
+
+<details>
+
+![Image](https://raw.githubusercontent.com/bibble/dynamic-rsi-harness/main/assets/swebench_frontier_comparison.png)
+
+### Category
+Coding, Build-your-own (agent-building frameworks and platforms), Multi-agent, Supports open-source models
+
+### Description
+- **Dual-Loop Recursive Self-Improvement (RSI)**: Combines Outer-Loop Just-In-Time (JIT) Macro Topology Routing (`T1_SOLO_DIRECT`, `T2_PLAN_AND_EXECUTE`, `T3_ADVERSARIAL_TDD`, `T4_ENSEMBLE_TOURNAMENT`) with Inner-Loop Darwinian-Gated Micro Evolution (`ACE` Playbook Rules + `DGM` Python Tool Synthesis).
+- **Zero-Regression Darwinian Gate**: Synthesized tools (`ast.parse` + subprocess unit test verification) and structured root-cause failure deltas are only committed to `memory/` when verification score strictly improves (`S_after > S_before`).
+- **Multi-Architecture Local & Cloud Adapter**: Built-in adapters for local Ollama models (`qwen3-coder-next`, `deepseek-r1`, `qwen3.5`) and cloud models (`Gemini Flash`), lifting local `qwen3-coder-next` (3B active) from `25.0%` to `62.5%` on `SWE-bench Verified`.
+
+### Links
+- [GitHub](https://github.com/bibble/dynamic-rsi-harness)
+- [Benchmark Report](https://github.com/bibble/dynamic-rsi-harness/blob/main/BENCHMARK_REPORT.md)
+- [Architecture Specification](https://github.com/bibble/dynamic-rsi-harness/blob/main/ARCHITECTURE.md)
+
+</details>
+
 ## [Eidolon](https://eidolonai.com/)
 Multi Agent SDK with pluggable, modular components
 
