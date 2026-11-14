@@ -4462,7 +4462,7 @@ Build-your-own (agent-builing frameworks and platforms), Multi-agent
 
 ### Description
 - Your AI autopilot, not just a co-pilot.
-- In-sync Knowledge Base: Notion, Google Drive, URLs, all file types and more
+- In-sync Knowledge Base: Notion, Google Drive, URLs, all file types and more
 - Self-improving: They get better with each interaction and collaboration.
 - LLM Agnostic. Use the best LLMs from OpenAI, Google, Mistral, and Anthropic, etc.
 - Deploy agents where your team is: Zendesk, Slack, Discord, etc.
