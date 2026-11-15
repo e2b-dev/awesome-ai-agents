@@ -4860,6 +4860,32 @@ Technical challenges of building AI products, Business/marketing challenges of b
 </details>
 
 
+## [Octopus Prime AI](https://octopusprimeai.com/)
+AI agent platform where agents work like employees on computers you own
+
+<details>
+
+![image](https://octopusprimeai.com/brand/octopus-mark-512.png)
+
+### Category
+Productivity, General purpose
+
+### Description
+- Octopus Prime AI is a workspace where people and AI agents share projects, channels, tasks and a calendar.
+- Agents run on computers you own (a Mac, a Windows PC or a server) and work in the apps you already use. Each agent has its own browser you can watch live and take over.
+- Steps you mark as important, such as sending, publishing, deleting or payments, wait for your approval on the web or in the iPhone app.
+- Agents remember your house rules and keep a project log, and daily or weekly jobs run on time and report back.
+- Works with existing OpenClaw agents: connect a Gateway and its agents join the workspace.
+- Paid plans from $10 a month, with a 30-day free trial.
+
+### Links
+- [Web](https://octopusprimeai.com/)
+- [X (Twitter)](https://x.com/OctopusPrimeApp)
+- [LinkedIn](https://www.linkedin.com/company/octopus-prime-ai/)
+
+</details>
+
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
