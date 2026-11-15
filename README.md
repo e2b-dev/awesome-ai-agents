@@ -4643,6 +4643,33 @@ Productivity
 - 
 </details>
 
+## [Liyagent](https://liyagent.com/)
+Governed AI agents for IT, HR, SAP, Salesforce and finance
+
+<details>
+
+![image](https://liyagent.com/img/liyagent-logo.png)
+
+### Category
+Productivity, Business intelligence, Build-your-own
+
+### Description
+- AI agents that run inside the systems a company already uses: the IT service desk, HR, SAP, Salesforce, Dynamics 365 and finance
+- Agents can act as the person who asked, with every tool call checked against both the agent's and that person's permissions
+- Actions that change data wait for a person to approve them by default
+- Each agent has a budget; at the limit, its calls are refused or moved to a cheaper model
+- Every action is recorded in a hash-chained audit log; signed evidence bundles can be verified offline
+- Works with Anthropic, Amazon Bedrock, Google Gemini, Vertex AI or any OpenAI-compatible model
+- Hosted by Liyagent or self-hosted (Docker Compose or Kubernetes)
+
+### Links
+- [Website](https://liyagent.com/)
+- [Try it without signing up](https://liyagent.com/try)
+- [Documentation](https://liyagent.com/docs)
+- [GitHub: CLI and audit verifier](https://github.com/Liyagent/liyagent)
+
+</details>
+
 ## [Lutra AI](https://lutra.ai/)
 Platform for creating AI workflows and apps
 <details>
