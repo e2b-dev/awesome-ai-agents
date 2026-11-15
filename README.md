@@ -1709,6 +1709,27 @@ JARVIS is a system to connect LLMs with the ML community.
 
 </details>
 
+## [Kintsugi Harness](https://github.com/tunguyen1993/kintsugi-harness)
+Self-evolving deterministic verification harness, `@KML/1` symbolic rule compiler, and 7-layer Zero-Trust MCP shield for AI coding agents
+
+<details>
+
+### Category
+Coding, Security, Multi-agent
+
+### Description
+- Turns real coding agent failures into deterministic Python AST (`~28 ms`) + optional native Rust (`~16.2 µs/call` via `kintsugi-rs bench`) `PreToolUse` guardrails (`GoldenScars`) across Claude Code, Cursor, Codex CLI, Gemini CLI, GitHub Copilot, and Windsurf.
+- Compiles rules into `@KML/1` Symbolic AST-IR and `KMI/1` skill-context shards (`93.8%` global `KMI/1` / `97.79%` domain-routed shard on the 32-scar starter pack via `kintsugi token-report --starter-only`, and `94.0%` global / `99.96%` domain-routed shard on the full corpus via `kintsugi token-report`).
+- Ships a 9-tool annotated MCP server (`kintsugi mcp`), Universal Drop-In Harness Integrator (`kintsugi integrate`), 5-Pillar Neuro-Symbolic Logic Verifier (`@LOGIC/2`), Multi-Industry Video Director (`@OPENMONTAGE_CINEMA/1`), and 7-layer Zero-Trust PreToolUse DLP shield.
+- Zero third-party runtime dependencies (`51/51` unit tests passing: `46` Python + `5` Rust, `Apache-2.0` License).
+
+### Links
+- **GitHub:** [tunguyen1993/kintsugi-harness](https://github.com/tunguyen1993/kintsugi-harness)
+- **Empirical Benchmarks:** [EMPIRICAL_PROOFS_AND_BENCHMARKS.md](https://github.com/tunguyen1993/kintsugi-harness/blob/main/docs/EMPIRICAL_PROOFS_AND_BENCHMARKS.md)
+- **Author:** [Tu Nguyen (@tunguyen1993)](https://github.com/tunguyen1993)
+
+</details>
+
 ## [Langroid](https://github.com/langroid/langroid)
 Multi-agent framework for building LLM apps
 
