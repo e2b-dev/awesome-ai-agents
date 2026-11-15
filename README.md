@@ -2738,6 +2738,27 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [Varin](https://github.com/Astrmira/Varin)
+Your personal super agent. Open source and self-hostable, with the models you choose.
+
+<details>
+
+### Category
+General purpose, Personal assistant, Multi-agent
+
+### Description
+- Handles everyday requests and complex tasks, working directly or coordinating other agents.
+- Works with files, terminals, browsers, and connected computers for coding, research, office work, and daily tasks.
+- Supports persistent memory, scheduled work, and follow-ups. Users can give further instructions while tasks are running.
+- Connects to MCP servers and external agents, including ACP-compatible programs. Runs on your own computer or server.
+
+### Links
+- [Website](https://varin.dev)
+- [GitHub](https://github.com/Astrmira/Varin)
+- [Download](https://github.com/Astrmira/Varin/releases/latest)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
