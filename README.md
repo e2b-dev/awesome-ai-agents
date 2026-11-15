@@ -2963,6 +2963,24 @@ General purpose
 
 # Closed-source projects and companies
 
+## [No Stairs Please](https://nostairsplease.com/)
+Every small stage in all 50 states, and who books it.
+
+<details>
+
+### Category
+Music, Live Events, MCP Server
+
+### Description
+- Live-music venue directory and remote MCP server (https://nostairsplease.com/mcp) covering small stages across all 50 US states and who books them.
+
+### Links
+- [Web](https://nostairsplease.com/)
+- [Venues](https://nostairsplease.com/venues)
+- [MCP](https://nostairsplease.com/mcp)
+
+</details>
+
 ## [Ability AI](https://ability.ai/)
 Secure, People-Centric Autonomous AI Agents
 
