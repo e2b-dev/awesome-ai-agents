@@ -1718,10 +1718,10 @@ Self-evolving deterministic verification harness, `@KML/1` symbolic rule compile
 Coding, Security, Multi-agent
 
 ### Description
-- Turns real coding agent failures into deterministic AST + Regex + PreToolUse guardrails (`GoldenScars`) across Claude Code, Cursor, Codex CLI, Gemini CLI, GitHub Copilot, and Windsurf.
-- Compiles rules into `@KML/1` Symbolic AST-IR Machine Language (`74.06%` raw / `96.33%` zlib reduction across `1,690` evolved rules, `0.82 ms` Python / `1.83 ms` native Rust verification).
-- Enforces a 7-layer Zero-Trust MCP PreToolUse contribution shield that blocks secret/PII leakage and restricts federated lesson sync to verified public GitHub repositories.
-- Includes a 1-command reproducible verification suite (`python3 free-skill-pack/scripts/verify_editions_and_benchmarks.py`).
+- Turns real coding agent failures into deterministic Python AST (`~28 ms`) + optional native Rust (`~16.2 µs/call` via `kintsugi-rs bench`) `PreToolUse` guardrails (`GoldenScars`) across Claude Code, Cursor, Codex CLI, Gemini CLI, GitHub Copilot, and Windsurf.
+- Compiles rules into `@KML/1` Symbolic AST-IR and `KMI/1` skill-context shards (`93.8%` global `KMI/1` / `97.79%` domain-routed shard on the 32-scar starter pack via `kintsugi token-report --starter-only`, and `94.0%` global / `99.96%` domain-routed shard on the full corpus via `kintsugi token-report`).
+- Ships a 9-tool annotated MCP server (`kintsugi mcp`), Universal Drop-In Harness Integrator (`kintsugi integrate`), 5-Pillar Neuro-Symbolic Logic Verifier (`@LOGIC/2`), Multi-Industry Video Director (`@OPENMONTAGE_CINEMA/1`), and 7-layer Zero-Trust PreToolUse DLP shield.
+- Zero third-party runtime dependencies (`51/51` unit tests passing: `46` Python + `5` Rust, `Apache-2.0` License).
 
 ### Links
 - **GitHub:** [tunguyen1993/kintsugi-harness](https://github.com/tunguyen1993/kintsugi-harness)
