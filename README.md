@@ -2322,6 +2322,29 @@ Pezzo is a development toolkit designed to streamline prompt design, version man
 - [GitHub](https://github.com/pezzolabs/pezzo)
 </details>
 
+## [Pocket Agent](https://github.com/ManojDevarajulu/PocketAgent)
+Autonomous on-device mobile AI agent for Android (zero-PC, zero-backend, BYOK)
+
+<details>
+
+![Image](https://raw.githubusercontent.com/ManojDevarajulu/PocketAgent/main/docs/assets/logo.png)
+
+### Category
+Mobile, OS & Device Automation, Productivity, General purpose, Supports open-source models
+
+### Description
+- **100% On-Device Mobile Execution**: Operates directly on Android devices via an AccessibilityService floating bubble, requiring zero PC tethering, zero ADB commands, and zero external backend relays.
+- **BYOK & Local LLM Support**: Connects to local Ollama instances over LAN/Wi-Fi as well as OpenAI (GPT-4o), Anthropic (Claude), Google (Gemini), DeepSeek, and Groq.
+- **Real-Time UI Reasoning & Gesture Dispatching**: Inspects the active UI hierarchy, reasons via LLM, and dispatches native taps, swipes, and text entry directly on the screen.
+- **Pre-Tap Screen Re-validation**: Live-checks active window focus and element bounds within 4px immediately before every tap to safely abort if popups or animations shift targets.
+- **Open Source & Tracker-Free**: 100% open-source under GNU AGPLv3 with zero analytics, zero trackers, and zero telemetry.
+
+### Links
+- [GitHub](https://github.com/ManojDevarajulu/PocketAgent)
+- [Releases & APK](https://github.com/ManojDevarajulu/PocketAgent/releases)
+
+</details>
+
 ## [Private GPT](https://www.privategpt.io/)
 Tool for private interaction with your documents
 
