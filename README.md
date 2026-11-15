@@ -4860,6 +4860,26 @@ Technical challenges of building AI products, Business/marketing challenges of b
 </details>
 
 
+## [No Stairs Please MCP](https://nostairsplease.com/mcp)
+Every small stage in all 50 states, and who books it (remote MCP server)
+
+<details>
+
+### Category
+Productivity, Vertical AI Agents, Music & Live Events
+
+### Description
+- Remote Streamable HTTP MCP server for bands, solo/duo acts, and tour bookers.
+- Search under-400-capacity live-music venues across all 50 US states, DC, and British Columbia with booking contacts and room details.
+- Includes server card discovery at `https://nostairsplease.com/.well-known/mcp/server-card.json`.
+
+### Links
+- [MCP Endpoint & Docs](https://nostairsplease.com/mcp)
+- [Directory](https://nostairsplease.com/venues)
+- [Server Card](https://nostairsplease.com/.well-known/mcp/server-card.json)
+
+</details>
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
