@@ -1062,6 +1062,24 @@ Coding
 
 </details>
 
+## [Cowork](https://github.com/slashman413/cowork)
+Autonomous multi-agent coordination server and distributed task queue with Model Context Protocol (MCP) support
+
+<details>
+
+### Category
+Multi-agent, Build-your-own, General purpose
+
+### Description
+- Autonomous multi-agent coordination server and distributed task queue with Model Context Protocol (MCP) support.
+- Coordinates heterogeneous fleets of local and remote AI coding agents with strict file isolation, automated task dispatching, and verifier quality gates.
+- Built-in MCP server, REST API, reactive SSE status updates, and interactive multi-agent control board.
+
+### Links
+- [GitHub](https://github.com/slashman413/cowork)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
