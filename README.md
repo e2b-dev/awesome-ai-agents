@@ -2296,6 +2296,30 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [OpsJarvis](https://github.com/kingefman1-cmyk/opsjarvis)
+Self-hosted AI operations desk (Claude + Next.js 15 + Telegram) with a human approval gate on every write action
+
+<details>
+
+### Category
+Productivity, Operations, Build your own
+
+### Description
+OpsJarvis is an MIT-licensed, self-hosted operations assistant that triages email, Slack, WhatsApp Business and Telegram in one queue and holds every write action at a human approval gate.
+- Claude classifies and drafts; a deterministic executor runs only what a human confirmed
+- Every write (refund, CRM stage update, outbound message) opens a side-by-side review with the exact API payload, a before/after state diff and an editable draft
+- Latency circuit breaker pauses writes to a degraded downstream API (Stripe, Paystack, Flutterwave, HubSpot, Xero)
+- Keys stay in a server-side `.env.local`; nothing secret reaches the browser bundle
+- Activity log records actor, time and target for every automated action
+
+### Links
+- [Live demo (no login)](https://caelaralabs.com)
+- [GitHub](https://github.com/kingefman1-cmyk/opsjarvis)
+- [Telegram demo bot](https://t.me/OpsJarvisAI_bot)
+- [Twitter](https://twitter.com/opsjarvisai)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
