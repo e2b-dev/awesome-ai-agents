@@ -5574,6 +5574,7 @@ We are open-source and you can get started with E2B [here](https://docs.e2b.dev/
 - GPTeam https://twitter.com/itstimconnors/status/1672278464362336256
 - https://github.com/101dotxyz/GPTeam
 
+- [JurisGrid](https://jurisgrid.envvoy.ai)
 - Neurite https://github.com/satellitecomponent/Neurite
 
 - AutoGPT.js https://github.com/zabirauf/AutoGPT.js
