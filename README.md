@@ -1443,6 +1443,28 @@ Coding
 
 </details>
 
+## [goduck-platform](https://github.com/JJASMINE22/goduck-platform)
+Self-hosted platform for building and orchestrating personal AI agents
+
+<details>
+
+![Image](https://github.com/JJASMINE22/goduck-platform/raw/main/logo.png)
+
+### Category
+Build your own, Multi-agent
+
+### Description
+- Full-stack open-source platform based on deepagents + LangGraph + MCP: build agents in a tree-based editor with live Mermaid delegation-topology preview
+- Streaming chat with human-in-the-loop approvals (approve / edit / reject / append-reply), TODO plan panel, and per-turn agent switching with context preserved
+- Runtime registration of OpenAI-compatible model providers and stdio/http MCP servers with `{server}__{tool}` namespacing
+- Built-in knowledge base RAG (pdf/docx ingestion, Elasticsearch), per-user workspace files, cron jobs, multi-user workspaces with role-based access
+- One-command deployment via docker compose (8 services, incl. GPU-accelerated document parsing and embeddings)
+
+### Links
+- [GitHub](https://github.com/JJASMINE22/goduck-platform)
+
+</details>
+
 ## [Godmode](https://godmode.space/)
 Inspired by AutoGPT and BabyAGI, with nice UI
 
