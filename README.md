@@ -4617,6 +4617,29 @@ Productivity
 </details>
 
 
+## [Lantern Works](https://thelanternworks.com)
+Live cloud GPU rental prices compared across tracked providers, for agents (MCP) and people
+
+<details>
+
+### Category
+Tool for agents
+
+### Description
+- Compares hourly GPU rental prices (H100, H200, A100, L40S, RTX 4090/5090 and more) across tracked providers, cheapest first, each with the vendor's source page and check time; price history and a daily what-moved feed
+- Free, read-only MCP server (`uvx lantern-works-deals-mcp`, MIT) with 9 tools: `compare_gpu_prices`, `get_price_changes`, `estimate_job_cost`, `optimize_stack`, `optimize_agent_stack`, `rebuild_quote`, `search_deals`, `compare_deals`, `get_deal`
+- No-auth JSON feeds (CC BY 4.0) for GPU prices, price history and changes
+- Disclosure: some result links are referral links and are labelled; ranking is by price, not referral status
+
+### Links
+- [Web](https://thelanternworks.com/?ref=e2b)
+- [GPU prices JSON](https://thelanternworks.com/api/v1/gpu-prices.json)
+- [Hosted MCP endpoint, no install](https://lantern-works-mcp.lantern-works.workers.dev/mcp?ref=e2b)
+- [Source](https://github.com/connormatthewdouglas/agent-work-stack-deals)
+
+</details>
+
+
 ## [Lindy](https://www.lindy.ai/)
 AI assistant that can help with daily tasks
 
