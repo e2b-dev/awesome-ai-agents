@@ -4142,7 +4142,7 @@ Productivity, Personal assistant
 - Works across 30+ hiring systems, including Workday, Greenhouse, Lever, Ashby, Workable and iCIMS, and creates employer accounts and completes email verification on the user's behalf
 - Applications can run automatically or wait for review and approval. Tracks application status and keeps the employer confirmation
 - Scores resumes against job postings, analyzes job descriptions, creates editable resume drafts, and prepares interview questions
-- Available as a web app and a hosted remote MCP server with 40 tools, four prompts and three resources. Connect from compatible clients, including Claude, ChatGPT and Cursor, over Streamable HTTP and OAuth 2.1 at `https://mcp.getmattered.com/mcp`
+- Available as a web app and a hosted remote MCP server with 41 tools, four prompts and three resources. Connect from compatible clients, including Claude, ChatGPT and Cursor, over Streamable HTTP and OAuth 2.1 at `https://mcp.getmattered.com/mcp`
 - Requires a GetMattered account. Account and application reads do not generate AI. Generation uses AI tokens and action limits; application submission uses the account's application allowance
 
 ### Links
