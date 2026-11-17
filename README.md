@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Archon OS](https://github.com/michaelbeatman/ARCHON-OS)
+Self-hosted multi-agent workspace with Kanban workflows, local LLM routing, and SHA-256 audit logs
+<details>
+
+![Image](https://github.com/michaelbeatman/ARCHON-OS/raw/main/docs/system/screenshots/mission_control.png)
+
+### Category
+General purpose, Multi-agent, Build your own, Productivity
+
+### Description
+- Open-source (MIT), self-hosted multi-agent workspace built on Hermes Agent.
+- Coordinates domain-specific specialist profiles via a tiered hierarchy and Kanban task management.
+- Includes an AI Boardroom with structured decision workflows (Pre-Mortem, Six Thinking Hats, OKR).
+- Supports local LLM routing (Docker, Ollama, LM Studio), human-in-the-loop approval gates, Obsidian vault RAG, and SHA-256 hash-chained audit logging.
+
+### Links
+- [GitHub](https://github.com/michaelbeatman/ARCHON-OS)
+- [System Manual (EN PDF)](https://github.com/michaelbeatman/ARCHON-OS/blob/main/docs/system/ARCHON_OS_SYSTEM_MANUAL_2026_EN.pdf)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
