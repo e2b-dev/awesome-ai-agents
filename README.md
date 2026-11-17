@@ -4371,7 +4371,7 @@ Science, Data analysis, Productivity
 
 ### Description
 - Hosted agents support literature-review notes, analysis of user-provided data, and delivery of reports, code, and charts.
-- Users may confirm a quoted plan or configure bounded automatic confirmation and recommended answers under a project credit cap; projects can pause for further input.
+- Users may confirm a proposed plan or configure bounded automatic confirmation and recommended answers under a project credit cap; projects can pause for further input.
 - Commercial, credit-based service. The project policy declines ghostwriting coursework, theses, and papers for submission or publication.
 
 ### Links
