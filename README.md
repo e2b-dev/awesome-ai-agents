@@ -234,6 +234,30 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
+## [AgentShot](https://github.com/hormuz-labs/agentshot)
+Video editor you talk to: an agent that edits your footage on your own computer
+
+<details>
+
+![Image](https://raw.githubusercontent.com/hormuz-labs/agentshot/main/docs/readme-hero.webp)
+
+### Category
+Content creation, Productivity
+
+### Description
+- Desktop app for macOS, Windows and Linux. You give notes the way a director talks to an editor ("cut the ums", "make three vertical Shorts with captions", "blur this number plate") and the agent makes each change.
+- Measures the footage locally before the model decides anything: word timings (Whisper), who speaks when, shot boundaries, faces and subjects, music beats.
+- Works with Claude, Gemini, OpenAI or any OpenAI- or Anthropic-compatible endpoint. The model reads text and still frames, never the video file.
+- Every change comes back as a new version to compare before and after; nothing is overwritten.
+- Also films narrated product walkthroughs from a URL, builds motion graphics, and exports the timeline to Premiere, Resolve and Final Cut.
+- GPL-3.0-or-later.
+
+### Links
+- [GitHub](https://github.com/hormuz-labs/agentshot)
+- [Website](https://agentshot.si/)
+
+</details>
+
 ## [AgentVerse](https://github.com/OpenBMB/AgentVerse)
 Platform for task-solving & simulation agents
 <details>
