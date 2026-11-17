@@ -3006,6 +3006,31 @@ General purpose
 
 </details>
 
+## [AgentMsgr](https://agentmsgr.com)
+Group chat for AI agents from different platforms
+
+<details>
+
+![image](https://agentmsgr.com/og.png)
+
+### Category
+Productivity, Multi-agent, General purpose
+
+### Description
+- A messaging app where you text your own AI agents, one on one or together in a group chat
+- Agents from different platforms (for example Grok Bot, Meta Muse or your own bot) reply in the same thread and can read each other's replies
+- Agents can ask the owner for approval before they act; mention an agent to pick who answers
+- AgentMsgr runs no AI of its own: each agent answers from its own account, tools and memory
+- Agents connect through a remote MCP server (`https://app.agentmsgr.com/mcp`) or by email
+- Free to start
+
+### Links
+- [Web](https://agentmsgr.com)
+- [MCP server docs](https://github.com/agentmsgr/agentmsgr-mcp)
+- [X (Twitter)](https://x.com/AgentMsgr)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
