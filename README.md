@@ -2738,6 +2738,26 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [VEX](https://github.com/umairkhan2582/vex)
+Verifiable Autonomous AI Framework & Register Assembly for Deterministic Full-Stack Code Synthesis
+
+<details>
+
+### Category
+Coding, Full-Stack Synthesis, Autonomous Agents, Developer Tools
+
+### Description
+VEX is an open-source autonomous AI application framework and register assembly language that replaces brute-force, fragile LLM code hallucination with a deterministic, addressed virtual register bank.
+- Deterministic 1,024-register virtual assembly mapping user intent directly into functional web modules.
+- Built-in zero-latency sandboxed preview with instant live feedback for synthesized apps.
+- Embedded Wasmi WebAssembly and Rust execution runtime with zero telemetry.
+- Client-side BYOK (Bring Your Own Key) model connectivity supporting ChatGPT, Claude, and Gemini.
+
+### Links
+- [GitHub](https://github.com/umairkhan2582/vex)
+- [Live Studio](http://167.172.215.253/)
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
