@@ -4361,7 +4361,7 @@ Productivity
 
 </details>
 
-## [HumanPen research projects](https://humanpen.net/.well-known/agent-card.json)
+## [HumanPen research projects](https://humanpen.net/projects)
 Research and data-analysis agents with plan scoping and file delivery
 
 <details>
@@ -4376,7 +4376,6 @@ Science, Data analysis, Productivity
 
 ### Links
 - [Project API documentation](https://api.humanpen.net/v1/docs.md#research-projects)
-- [Research project agent card](https://humanpen.net/.well-known/agent-card.json)
 - [Ethics and project policy](https://humanpen.net/ethics)
 - [Pricing](https://humanpen.net/pricing)
 
