@@ -2427,6 +2427,28 @@ Productivity, Research
 
 </details>
 
+## [ShrinkGate](https://github.com/KotalaKishanReddy/shrinkgate)
+ShrinkGate: Local context-shrinking gateway for coding agents
+
+<details>
+
+### Category
+Coding agent, Developer tools, Infrastructure
+
+### Description
+- **Local Context-Shrinking Gateway**: High-performance HTTP reverse proxy (`127.0.0.1:18793`) for coding agents (Claude Code, OpenAI Codex, OpenCode, Muse Code).
+- **Token Cost & Latency Reduction**: Trims duplicate conversation turns and re-sent tool results before reaching LLM APIs, cutting token bills by 40–70%.
+- **Prompt-Cache Preservation**: Deterministic length-prefixed fingerprinting replaces redundant historical turns with stubs while preserving prompt cache alignments.
+- **Cross-Platform & Native**: Written in 100% safe Rust with native daemon support across Linux, macOS, and Windows.
+- **Privacy First**: Binds strictly to localhost with zero external telemetry or proxy hops.
+
+### Links
+- [GitHub](https://github.com/KotalaKishanReddy/shrinkgate)
+- [Crates.io](https://crates.io/crates/shrinkgate)
+- [Documentation](https://github.com/KotalaKishanReddy/shrinkgate#readme)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
