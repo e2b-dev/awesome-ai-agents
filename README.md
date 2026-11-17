@@ -4618,7 +4618,7 @@ Productivity
 
 
 ## [Lantern Works](https://thelanternworks.com)
-No-auth JSON feed of work-stack deals and free tiers for AI agents
+Live cloud GPU rental prices compared across tracked providers, for agents (MCP) and people
 
 <details>
 
@@ -4626,16 +4626,16 @@ No-auth JSON feed of work-stack deals and free tiers for AI agents
 Tool for agents
 
 ### Description
-- 200+ listings (proxies/scrapers, compute, hosting, search APIs, email) published as a single JSON feed that agents can GET and filter locally
-- Read-only MCP server (`uvx lantern-works-deals-mcp`, MIT) with 7 tools, including `optimize_agent_stack` (describe an agent in plain text, get the cheapest option with a cited price per component) and `get_price_changes` (daily GPU price moves since a date, each with the vendor source URL)
-- Comparison pages show only vendor-verified pricing; unverified prices are marked unknown
-- Disclosure: many listings are affiliate links; each entry carries an `affiliate` flag
+- Compares hourly GPU rental prices (H100, H200, A100, L40S, RTX 4090/5090 and more) across tracked providers, cheapest first, each with the vendor's source page and check time; price history and a daily what-moved feed
+- Free, read-only MCP server (`uvx lantern-works-deals-mcp`, MIT) with 9 tools: `compare_gpu_prices`, `get_price_changes`, `estimate_job_cost`, `optimize_stack`, `optimize_agent_stack`, `rebuild_quote`, `search_deals`, `compare_deals`, `get_deal`
+- No-auth JSON feeds (CC BY 4.0) for GPU prices, price history and changes
+- Disclosure: some result links are referral links and are labelled; ranking is by price, not referral status
 
 ### Links
-- [Web](https://thelanternworks.com)
-- [JSON feed](https://thelanternworks.com/deals.json)
-- [Stack optimizer](https://thelanternworks.com/stack/)
+- [Web](https://thelanternworks.com/?ref=e2b)
+- [GPU prices JSON](https://thelanternworks.com/api/v1/gpu-prices.json)
 - [Hosted MCP endpoint, no install](https://lantern-works-mcp.lantern-works.workers.dev/mcp?ref=e2b)
+- [Source](https://github.com/connormatthewdouglas/agent-work-stack-deals)
 
 </details>
 
