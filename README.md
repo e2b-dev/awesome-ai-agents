@@ -95,6 +95,29 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
+## [Agent Control](https://github.com/guuguo/agent-control)
+Self-hosted desktop & mobile remote control console for Codex, Claude Code, Antigravity, and Grok.
+
+<details>
+
+![Image](https://raw.githubusercontent.com/guuguo/agent-control/main/docs/tutorial/01-desktop-console-en.png)
+
+### Category
+Coding, Productivity, Multi-agent
+
+### Description
+
+- **Multi-Engine & Multi-Account Hub**: Consolidates Codex (with multi-account quota tracking), Claude Code, Antigravity, and Grok in one UI.
+- **Strictly Read-Only Indexing**: Reads local session histories without modifying upstream databases or configs.
+- **5s Mobile QR Remote**: Uses $0 Cloudflare Quick Tunnel, Tailscale Funnel, or self-hosted Docker relay for mobile approvals and turn queuing.
+- **5 UI Languages**: Built-in English, 简体中文, 繁體中文, 日本語, and 한국어.
+
+### Links
+- [Website](https://hub.guuguo.top/agent-control)
+- [GitHub](https://github.com/guuguo/agent-control)
+
+</details>
+
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
