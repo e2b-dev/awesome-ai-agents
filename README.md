@@ -5064,6 +5064,26 @@ General purpose, Generating apps, Build-your-own
 
 </details>
 
+## [Recut](https://tryrecut.com)
+Creative AI agent that plans and runs multi-step video and image jobs across models.
+<details>
+
+![image](https://tryrecut.com/og.png)
+
+### Category
+Content creation, Productivity
+
+### Description
+- Plans the steps from one prompt, picks a model per step (fal, Replicate, ElevenLabs, Google, OpenAI) and keeps every version on a timeline
+- Simple edits (trim, silence removal, resize) run on device
+- Credits included, no API keys needed; web and Android
+
+### Links
+- [Web](https://tryrecut.com)
+- [Google Play](https://play.google.com/store/apps/details?id=app.recut)
+
+</details>
+
 ## [Relevance AI](https://relevanceai.com/)
 Build your AI Workforce
 
