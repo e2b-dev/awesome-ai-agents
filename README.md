@@ -896,7 +896,7 @@ Open-source AI teammates that each have their own computer
 General purpose, Multi-agent, Productivity
 
 ### Description
-- Open-source (Apache-2.0) app for AI teammates, called bots, that keep working after you close the chat
+- Open-source (AGPL-3.0) app for AI teammates, called bots, that keep working after you close the chat
 - Each bot has its own sandboxed Linux computer with a shell, files and a browser; you can watch it live and take over
 - Bots ask before risky steps (sending, paying, deleting), with rules per action and a checkpoint saved before destructive commands
 - Memory you can read and edit, skills, and routines that start on schedules, webhooks, emails and calendar events
