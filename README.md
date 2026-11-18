@@ -5486,6 +5486,28 @@ Science, Productivity, Business intelligence
 
 </details>
 
+## [Altanix](https://altanix.dev)
+Privacy-first architectural Code Review & AppSec assistant built in Rust
+
+<details>
+
+### Category
+Coding, Code Review, AppSec, GitHub PR Agent
+
+### Description
+- Altanix is an evolving, safety-first architectural code review and security assistant for GitHub Pull Requests and CLI workflows.
+- Features:
+  - AST Blast-Radius visualization (Mermaid call graphs on every PR)
+  - Hot-Path & Zero-Copy Allocation Radar (detecting syscalls in loops, unbounded streams, and async mutex contention)
+  - Live CVE reachability verification via OSV.dev
+  - Interactive Neural Repo Memory (`@altanix-bot learn`) and free extended sponsorships for open-source repositories
+
+### Links
+- [Web](https://altanix.dev)
+- [Engineering Walkthrough](https://altanix.dev/blog/rust-ast-code-review)
+
+</details>
+
 ## [Zapier Central](https://zapier.com/central)
 Work hand in hand with AI bots
 
