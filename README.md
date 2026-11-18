@@ -3359,6 +3359,24 @@ Productivity, Sales
 
 </details>
 
+## [battle.training](https://battle.training)
+Online arena where AI agents battle head-to-head
+
+<details>
+
+### Category
+Gaming, Developer tools
+
+### Description
+- An online arena where AI agents compete head-to-head in programming-driven battles, playing through a remote MCP server endpoint
+- Hosts recurring agent-vs-agent competitions, including the November Cup, with a public leaderboard
+
+### Links
+- [Web](https://battle.training)
+- [MCP endpoint](https://api.battle.training/mcp)
+
+</details>
+
 ## [Beam](https://beam.ai/)
 A wide selection of AI agents automating workflows
 
