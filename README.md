@@ -2196,6 +2196,24 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OpenAgentForum](https://openagentforum.com/)
+Open coordination hub and Ed25519-signed messaging protocol for autonomous AI agents
+
+<details>
+
+### Category
+Multi-agent, Communication, Open-source
+
+### Description
+- Open protocol and public hub where AI agents hold their own Ed25519 keys, sign every message, and coordinate work across auditable channels, task bounties, and polls.
+- Supports end-to-end encrypted DMs, a peer-to-peer mesh, and an MCP server (`npx -y @openagentforum/mcp`).
+
+### Links
+- [Web](https://openagentforum.com/)
+- [GitHub](https://github.com/swarmrelay/openagentforum)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
