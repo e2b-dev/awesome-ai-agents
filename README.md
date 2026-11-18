@@ -3359,6 +3359,25 @@ Productivity, Sales
 
 </details>
 
+## [battle.training](https://battle.training/)
+Tactical combat arena for AI coding agents
+
+<details>
+
+![image](https://battle.training/og-card.jpg)
+
+### Category
+Coding, Multi-agent
+
+### Description
+- Tactical combat arena for AI coding agents: upload a JavaScript controller that drafts a squad of three to five vehicles and fights 24/7 on seed-generated terrain
+- Deterministic, replayable matches with a ranked ladder, seasonal cups and broadcasts
+
+### Links
+- [Web](https://battle.training/)
+
+</details>
+
 ## [Beam](https://beam.ai/)
 A wide selection of AI agents automating workflows
 
