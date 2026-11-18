@@ -4428,6 +4428,24 @@ Coding, Build-your-own
 
 </details>
 
+## [Irrigator](https://github.com/grainulation/irrigator)
+Multi-agent pipeline runner and orchestration engine using isolated git worktrees
+
+<details>
+
+### Category
+Coding, Multi-agent, Workflows
+
+### Description
+- **Isolated git worktrees**: Runs multiple coding agents in parallel across dedicated branches without stepping on files or git conflicts.
+- **Verification loops**: Enforces sound task checks and verifier hooks before merging agent branches.
+- **Multi-model coordination**: Orchestrates tasks across Codex, Claude Code, and other CLI agent harnesses.
+
+### Links
+- [GitHub](https://github.com/grainulation/irrigator)
+
+</details>
+
 ## [Invicta](https://invictai.io/)
 Build your first team of Autonomous AI Agents
 
