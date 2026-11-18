@@ -4027,6 +4027,28 @@ Coding
 
 </details>
 
+## [Figaro](https://www.myfigaro.ai/)
+AI operator for a small business, built on OpenClaw, that asks before anything leaves
+
+<details>
+
+![image](https://www.myfigaro.ai/logo.png)
+
+### Category
+Productivity, General purpose
+
+### Description
+- One assistant connected to email, calendar and chats that keeps a CRM, drafts replies and follow-ups, plans social posts, researches markets and turns a feature request into a tested pull request
+- Runs on [OpenClaw](https://github.com/openclaw/openclaw); sending, paying, publishing, merging and calling wait for the owner's approval by default
+- Telegram is the main chat, with a web cabinet for tasks and results; WhatsApp can be connected with the owner's own account
+- Runs on a small box the owner keeps, or as a hosted cloud pilot; model usage is billed by the owner's own AI provider
+
+### Links
+- [Website](https://www.myfigaro.ai/)
+- [Figaro vs OpenClaw](https://www.myfigaro.ai/compare/openclaw)
+
+</details>
+
 ## [Fine](https://www.fine.dev/)
 Build Software with AI Agents
 
