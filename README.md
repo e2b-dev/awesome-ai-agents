@@ -3940,6 +3940,26 @@ Data analysis, Business intelligence
 
 </details>
 
+## [droid-agent](https://github.com/hyusband/droid-agent)
+Give AI agents hands on a real Android device over stock adb — no on-device install
+<details>
+
+### Category
+Mobile, Automation, MCP server
+
+### Description
+- Turns `uiautomator dump` output into numbered interactive-element refs an agent can `tap`, `type`, `swipe` and `key` against
+- Works with stock `adb` only: no APK or accessibility service on the device, no Appium, zero runtime dependencies
+- Ships an MCP server (`pipx install 'droid-agent[mcp]'`) so Claude/Cursor/other agents can drive a phone directly
+- JSON output on every command, persisted ref maps with stale-ref protection
+- Published on PyPI and the official MCP Registry
+
+### Links
+- [GitHub](https://github.com/hyusband/droid-agent)
+- [PyPI](https://pypi.org/project/droid-agent/)
+
+</details>
+
 ## [Duckie AI](https://duckie.ai/)
 Team of AI SW development companions (Ducklings)
 
