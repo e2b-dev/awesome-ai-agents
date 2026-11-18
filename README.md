@@ -1187,6 +1187,28 @@ Build-your-own, General purpose
 
 </details>
 
+## [DevBox](https://github.com/rudderlabs/devbox)
+Open source autonomous engineering harness in your cloud
+
+<details>
+
+![Image](https://github.com/rudderlabs/devbox/raw/main/docs/images/banner-light.png)
+### Category
+Coding
+
+### Description
+- Hand DevBox a Linear, Jira or ClickUp ticket. It plans the change, writes the code, runs the tests, reviews its own work and opens a draft pull request. Comment on the pull request and it pushes the fix to the same branch.
+- Self-hosted on Docker Compose or Kubernetes, with your own OpenAI or Anthropic keys. One isolated sandbox per task: sandboxes hold placeholder tokens and an egress proxy injects the real ones.
+- Learnings from each task are distilled into the repo and land as a commit on the pull request, reviewed like code.
+- Built and used at RudderStack, where it merges about 35% of internal pull requests. MIT licensed.
+
+### Links
+- [GitHub](https://github.com/rudderlabs/devbox)
+- [Web](https://www.rudderstack.com/devbox/)
+- [Blog](https://www.rudderstack.com/blog/open-sourcing-devbox/)
+
+</details>
+
 ## [DevGPT](https://github.com/jina-ai/dev-gpt)
 Team of virtual developers
 
