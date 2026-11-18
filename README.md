@@ -5093,6 +5093,26 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [REX](https://classeve.com/rex)
+A coding agent that runs your whole Windows PC
+
+<details>
+
+![image](https://classeve.com/og/rex-0cd3b707.png)
+
+### Category
+Coding, General purpose, Productivity
+
+### Description
+- Say what you need, by voice or text, and REX writes the code, works the applications already on your PC, and checks the result before it says done
+- Measured on Windows Agent Arena, scored by the benchmark's own evaluator
+- Free with a ClassEve account, Windows 10 or later
+
+### Links
+- [Web](https://classeve.com/rex)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
