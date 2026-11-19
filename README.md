@@ -2196,6 +2196,30 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Omni Engine](https://github.com/omni-engine-ai/omni_engine)
+Sovereign, in-process autonomous software engineering runtime in pure Rust
+
+<details>
+
+### Category
+Coding, Multi-agent, Offline / Sovereign
+
+### Description
+Omni Engine is a sovereign, offline multi-agent software engineering runtime in pure Rust linking llama.cpp in-process via native C-FFI (<6ms latency, zero cloud tokens).
+- Links llama.cpp directly in RAM bypassing HTTP/REST/IPC daemon bottlenecks.
+- O(1) persistent KV-cache arena slicing between turns for sub-6ms agent context switching.
+- Enforces strict mathematical zero-wipe invariant (W = ∅) with structural AST validation to eliminate destructive hallucinations.
+- Hermetic Bubblewrap cleanroom sandboxes with unshare-net for 100% air-gapped tool execution.
+- 100% pass rate (50/50) on 50-thread concurrent ATLR refactoring benchmark on a single Tesla T4 GPU (37m 58s).
+
+### Links
+- [GitHub](https://github.com/omni-engine-ai/omni_engine)
+- [Website & Documentation](https://omni-engine-ai.github.io/omni_engine/)
+- [ATLR Benchmark Paper](https://github.com/omni-engine-ai/omni_engine/blob/main/docs/ARCHITECTURE_BENCHMARK_PROOFS.md)
+- [Releases & Pre-built Binaries](https://github.com/omni-engine-ai/omni_engine/releases/tag/v2.2.2)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
