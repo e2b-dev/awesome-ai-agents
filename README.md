@@ -5360,6 +5360,29 @@ Coding
   
 </details>
 
+## [Vendo AI](https://vendo-ai.com/)
+AI SDR and sales agents that find buyers from live buying signals
+
+<details>
+
+![image](https://vendo-ai.com/images/2025/10/cropped-logo_Vendo_ai.png)
+
+### Category
+Sales, Marketing, Customer support
+
+### Description
+- Vendo SDR reads your website, builds your ideal customer profile and runs 20 signal hunters (job boards, company registries, funding news, LinkedIn, GitHub, maps and the open web) to find companies that show a buying signal right now
+- For each company it finds the decision-maker, checks them against the profile (Fit, Uncertain, Not a fit) and writes the first email and LinkedIn message around the signal
+- AI agents answer website visitors by text or voice, make and take phone calls, and join Google Meet calls when invited
+- Replies from every channel land in a free built-in CRM; the platform is also available over a public API and an MCP server
+
+### Links
+- [Web](https://vendo-ai.com/)
+- [How the AI SDR works](https://vendo-ai.com/ai-sdr/)
+- [API and MCP](https://vendo-ai.com/api-mcp/)
+- [LinkedIn](https://www.linkedin.com/company/vendo-ai/)
+
+</details>
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
