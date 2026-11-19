@@ -320,6 +320,19 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Axonio](https://github.com/hackcat29/ClawDB)
+
+### Category
+Long-Term Memory
+
+### Description
+Axonio stores persistent agent memory with vector and graph retrieval, memory branching, and MCP access. Developers can self-host the engine or connect clients to its hosted service.
+
+### Links
+- [Website](https://axonio.xyz/)
+- [Documentation](https://axonio.xyz/docs/)
+- [Source](https://github.com/hackcat29/ClawDB)
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
