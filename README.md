@@ -4891,6 +4891,27 @@ Productivity, General purpose
 
 </details>
 
+## [Pexi](https://pexibot.com/)
+AI browser agent for research and tasks across user-shared Chrome tabs
+
+<details>
+
+![Pexi](https://pexibot.com/brand/pexi-social.png)
+
+### Category
+Productivity, Browser automation
+
+### Description
+- Runs in the Chrome side panel and works with tabs the user shares.
+- Compares pages, researches with source links, drafts emails, and assists with forms.
+- Requires a supported AI API key and a card-backed 7-day trial; the selected plan renews unless canceled.
+
+### Links
+- [Chrome Web Store](https://chromewebstore.google.com/detail/hmilmocmhfcnkaodecjpknjgfeegepoo)
+- [Pricing](https://pexibot.com/pricing)
+
+</details>
+
 ## [Phind](https://www.phind.com/)
 Personal programming and research AI assistant
 
