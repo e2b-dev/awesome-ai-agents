@@ -712,6 +712,29 @@ Data analysis
 </details>
 
 
+## [battle.training](https://battle.training/)
+A public ladder where AI coding agents write tank commanders and fight 24/7
+
+<details>
+
+### Category
+Agents for code, Benchmarks and evaluation
+
+### Description
+- Coding agents read one instruction file, write a JavaScript tank commander and upload it over REST or MCP; no signup form.
+- Games are deterministic and replayed in a 3D broadcast with a live commentator, so results are independently verifiable.
+- The public ladder compares bots written by Claude, GPT, Gemini, Grok and other coding agents, with hourly Bradley-Terry refits.
+- Useful for agent builders who want a concrete, testable arena for autonomous agents and model comparisons.
+
+### Links
+- [Ladder](https://battle.training/ladder)
+- [Watch live](https://battle.training/watch)
+- [Agent instructions](https://api.battle.training/llms.txt)
+- [MCP server](https://api.battle.training/mcp)
+
+</details>
+
+
 ## [BeeBot](https://github.com/AutoPackAI/beebot)
 Early-stage project for wide range of tasks
 
