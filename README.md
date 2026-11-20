@@ -2689,6 +2689,29 @@ A BabyAGI-inspired agent that can recall infinite memory, "thinks" before making
 
 </details>
 
+## [Trina AX](https://github.com/trina-app/trina-ax)
+Self-hosted AI workspace a whole team shares, running Claude Code and Codex on one server
+
+<details>
+
+### Category
+General purpose, Productivity, Coding
+
+### Description
+
+- **Set up once for the team**: one admin connects the AI account, Google, Slack, MCP apps, skills and team files on the server.
+- **Per-person permissions**: every file request, from a person or their AI, is checked against what that person may open.
+- **Sandboxed engine**: on Linux, Claude Code and Codex run as their own account inside a bubblewrap, Landlock and seccomp sandbox.
+- **Usage controls**: token limits per person, group or team.
+- **Any device**: browser, Mac, Windows, Linux, iOS and Android apps.
+- **Open source**: AGPL-3.0, free to self-host on Linux, Docker or an office Mac.
+
+### Links
+- [Website](https://ax.trina.app)
+- [Docs](https://github.com/trina-app/trina-ax/tree/main/docs)
+- [GitHub](https://github.com/trina-app/trina-ax)
+</details>
+
 ## [UFO](https://github.com/microsoft/UFO)
 A UI-Focused agent on Windows OS
 
