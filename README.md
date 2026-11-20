@@ -1854,6 +1854,25 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
+## [Loop](https://github.com/JimmyDi/loop)
+Local-first open-source coding agent with a CLI, web UI, and TypeScript SDK.
+
+<details>
+
+### Category
+Coding
+
+### Description
+- Reads and edits project files, runs commands, and supports configurable tool permissions.
+- Connects to multiple model providers, including compatible local endpoints.
+- Supports MCP integrations and optional local voice input.
+
+### Links
+- [GitHub repository](https://github.com/JimmyDi/loop)
+- [Website](https://jimmydi.github.io/loop/)
+
+</details>
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 Re-implementation of AutoGPT as a Python package
 
