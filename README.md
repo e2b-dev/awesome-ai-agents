@@ -4127,6 +4127,27 @@ Productivity
 
 </details>
 
+## [Forward Deployed](https://forwardeployed.work)
+AI expert desk inside AI assistants
+
+<details>
+
+![image](https://raw.githubusercontent.com/cerebrixos-org/brand-mcp-servers/HEAD/cerebrixos/icon.png)
+
+### Category
+Research, Business intelligence, Finance, Productivity
+
+### Description
+- AI expert desk inside Claude, ChatGPT and other assistants for research, strategy, financial models and decks
+- Each job is priced and approved before it runs
+- Hosted MCP server at `https://forwardeployed.work/mcp` (Streamable HTTP, OAuth)
+
+### Links
+- [Web](https://forwardeployed.work)
+- [Docs](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/cerebrixos)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
@@ -4988,6 +5009,26 @@ Build-your-own, no-code, web UI
 
 </details>
 
+## [PulseLake](https://pulselake.co)
+AI surveys, persona research and Agent Copilots
+
+<details>
+
+![image](https://raw.githubusercontent.com/cerebrixos-org/brand-mcp-servers/HEAD/pulselake/icon.png)
+
+### Category
+Research, Productivity
+
+### Description
+- AI surveys, persona research and Agent Copilots, usable from AI assistants over MCP
+- Hosted MCP server at `https://mcp.pulselake.co/pulselake-experience-mcp` (Streamable HTTP, OAuth)
+
+### Links
+- [Web](https://pulselake.co)
+- [Docs](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/pulselake)
+
+</details>
+
 ## [Q, ChatGPT for Slack](https://q-bot.suchica.com/)
 AI workforce on Slack for under-resourced SMEs
 
@@ -5189,6 +5230,24 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [Simulations](https://simulations.cerebrixos.com)
+Decision simulations with synthetic personas
+
+<details>
+
+![image](https://raw.githubusercontent.com/cerebrixos-org/brand-mcp-servers/HEAD/cerebrixos/icon.png)
+
+### Category
+Research, Business intelligence, Multi-agent
+
+### Description
+- Decision simulation AI agent that runs synthetic persona research and multi-round world simulations before you commit to a decision
+
+### Links
+- [Web](https://simulations.cerebrixos.com)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
@@ -5333,6 +5392,27 @@ Coding, Productivity, Debugging, Testing
     
 </details>
 
+## [Trazio](https://trazio.cerebrixos.com)
+Security and observability data pipeline, investigated over MCP
+
+<details>
+
+![image](https://raw.githubusercontent.com/cerebrixos-org/brand-mcp-servers/HEAD/trazio/icon.png)
+
+### Category
+Data analysis, Monitoring
+
+### Description
+- Security and observability data pipeline that your AI assistant investigates over MCP, read-only
+- One pipeline for logs, metrics, traces, security events, robot data and video
+- Hosted MCP server at `https://trazio.cerebrixos.com/mcp` (Streamable HTTP, OAuth)
+
+### Links
+- [Web](https://trazio.cerebrixos.com)
+- [Docs](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/trazio)
+
+</details>
+
 ## [Tusk](https://usetusk.ai/)
 AI engineer that pushes and tests code
 
@@ -5403,6 +5483,27 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 ### Links
 - [Web](https://v0.dev/)
 - [X post](https://x.com/rauchg/status/1702353417375826303?s=20)
+
+</details>
+
+## [Watchtower](https://watchtower.cerebrixos.com)
+Always-on cloud operations agent for security, cost and drift
+
+<details>
+
+![image](https://raw.githubusercontent.com/cerebrixos-org/brand-mcp-servers/HEAD/watchtower/icon.png)
+
+### Category
+Monitoring, Coding, GitHub
+
+### Description
+- Always-on cloud operations agent for security, cost and drift across Azure, AWS and Google Cloud
+- Changes infrastructure only through pull requests a person merges
+- Hosted MCP server at `https://watchtower.cerebrixos.com/mcp` (Streamable HTTP, OAuth)
+
+### Links
+- [Web](https://watchtower.cerebrixos.com)
+- [Docs](https://github.com/cerebrixos-org/brand-mcp-servers/tree/HEAD/watchtower)
 
 </details>
 
