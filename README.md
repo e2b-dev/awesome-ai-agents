@@ -2372,6 +2372,31 @@ Productivity, General purpose
 </details>
 
 
+## [Quarterdeck](https://github.com/shannonbay/Quarterdeck)
+Persistent goals for Claude Code agents
+
+<details>
+
+### Category
+Productivity, General purpose
+
+### Description
+- Standing objectives that never finish (watch a repo, triage mail, grow a budget) run by Claude Code in a background subagent
+- Features
+  - Runs on a schedule or when something happens (new issue, PR, email, feed entry, changed page)
+  - Per-category autonomy: actions are done, proposed for human approval, or refused
+  - Keeps memory, work items, decisions and run history in local SQLite, so each run starts from a one-call brief
+  - Guard plugin keeps each run within its goal and treats mail and web content as untrusted
+- Tech
+  - TypeScript MCP server, Claude Code plugins, optional Next.js web app
+  - Apache-2.0
+
+### Links
+- [GitHub](https://github.com/shannonbay/Quarterdeck)
+- Author: [shannonbay](https://github.com/shannonbay)
+</details>
+
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
