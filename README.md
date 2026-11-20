@@ -1062,6 +1062,27 @@ Coding
 
 </details>
 
+## [Council of AI GSPC](https://councilof.ai/gspc)
+AI measurement agent publishing independently verifiable evidence
+
+<details>
+
+### Category
+Research, Other
+
+### Description
+- Measures AI models and agent systems across a public governance and safety framework.
+- Publishes signed evidence cards, public roots, and an offline verifier.
+- Exposes machine-readable access through MCP and A2A.
+- Reports measurement rather than certification.
+
+### Links
+- [GitHub](https://github.com/CSOAI-ORG/councilof-ai)
+- [Public verifier](https://councilof.ai/gspc-verify)
+- [A2A agent card](https://councilof.ai/.well-known/agent-card.json)
+
+</details>
+
 ## [CrewAI](https://github.com/joaomdmoura/crewai)
 Framework for orchestrating role-playing agents
 <details>
