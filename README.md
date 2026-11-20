@@ -2961,6 +2961,23 @@ General purpose
 - Author: [PJ Gray](https://twitter.com/pj4533/?utm_source=awesome-ai-agents)
 </details>
 
+## [ZeroBurn](https://github.com/thoufeeque22/zeroburn)
+Zero-waste hybrid local + cloud coding agent orchestrator
+
+<details>
+
+### Category
+Coding & Software Engineering / Multi-Agent Orchestration
+
+### Description
+- Open-source hybrid AI coding-agent harness that cuts Claude and Gemini quota burn by 70–83% while enforcing Contract-First TDD and strict modularity gates.
+- Combines 0-token Python static pre-checks, automatic local Ollama (`qwen2.5-coder` / `gemma4`) diff review, 0-turn codebase knowledge-graph pre-fetching (`codebase-memory-mcp`), pool-safe fallback chains, and a 1-line quiet CLI test wrapper.
+
+### Links
+- [GitHub](https://github.com/thoufeeque22/zeroburn)
+- Built by: [directly.social](https://directly.social)
+</details>
+
 # Closed-source projects and companies
 
 ## [Ability AI](https://ability.ai/)
