@@ -5513,6 +5513,29 @@ Build-your-own, Productivity, General purpose
 
 
 
+## [Zortex](https://zortex.me/en/install)
+
+Connects supported apps and local folders to an AI agent.
+
+<details>
+
+### Category
+
+Personal assistant, Productivity
+
+### Description
+
+- Gives an existing agent access to sources you authorize.
+- To try it, authorize a small Markdown folder and ask the agent to find a decision, quote the sentence that supports it, and name the file.
+- The npm setup requires Node.js 24 or later.
+
+### Links
+
+- [Install guide](https://zortex.me/en/install)
+
+</details>
+
+
 ## :eight_pointed_black_star: AI apps & agents with sandbox integration or native support
 
 ### :eight_pointed_black_star: [Superagent](https://www.superagent.sh/)
