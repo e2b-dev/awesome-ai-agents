@@ -3496,7 +3496,7 @@ Coding
 
 
 ## [BrugBot](https://aykol.fyi/en/brugbot/)
-Multi-agent trading desk where agents debate, an independent approver checks and a separate vault manages positions
+Multi-agent memecoin trading desk where agents debate, an independent approver re-checks every proposal and a separate vault can only sell
 
 <details>
 
@@ -3506,11 +3506,13 @@ Multi-agent trading desk where agents debate, an independent approver checks and
 Finance, Multi-agent
 
 ### Description
-- Twelve agents (chart, wallet, flow and security analysts, bull and bear researchers, a risk team and a portfolio manager) debate every token before a decision
-- An independent approver re-checks each proposal with fresh data; no single container can spend money on its own
-- Risk rules are enforced in code, not prompts: exit plans, daily loss limits, a vault that can only shrink positions
-- New rules run in shadow mode first and go live only after time-split evidence (95% confidence interval)
-- Runs on free models with an automatic fallback chain; a read-only live dashboard demo is public in seven languages
+- A 12-agent desk built on the TradingAgents debate graph: chart, wallet, flow and security analysts, bull and bear researchers, a research manager, a trader, a three-member risk team and a portfolio manager
+- A score model trained on recorded market snapshots ranks candidates; once it beats random and top-20% baselines on time-split data, the strongest go straight to the approver and the weakest skip the desk
+- Separate containers with separate powers: the desk has no signing key and can only write proposals; the approver re-runs the risk gate with fresh data (liquidity, holder concentration, honeypot/mint/freeze) and a sceptical auditor model can veto; the vault tracks positions and can only sell
+- Risk rules enforced in code: quarter-Kelly sizing that can only shrink the desk's size, per-trade and daily caps, at most 3 open positions, an exit plan (stop loss, take profit, time exit) before every entry
+- Nothing goes live on promise: a strategy needs at least 40 matured samples with the 95% confidence interval of after-cost returns above zero, and real trading also has to pass a 10,000-session simulation; paper mode by default
+- A news scout, a data collector that snapshots the market every 10 minutes for survivorship-free backtests, and an advisor that tests parameter families on held-out data
+- Runs on free models with an automatic fallback chain (paid model locked by default); a read-only dashboard demo is public in seven languages
 
 ### Links
 - [Web](https://aykol.fyi/en/brugbot/)
