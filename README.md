@@ -1869,7 +1869,7 @@ Coding
 
 ### Links
 - [GitHub repository](https://github.com/JimmyDi/loop)
-- [Website](https://jimmydi.github.io/loop/)
+- [Website](https://codewithloop.com)
 
 </details>
 
