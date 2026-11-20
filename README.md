@@ -3495,6 +3495,30 @@ Coding
 </details>
 
 
+## [BrugBot](https://aykol.fyi/en/brugbot/)
+Multi-agent trading desk where agents debate, an independent approver checks and a separate vault manages positions
+
+<details>
+
+![image](https://aykol.fyi/assets/og/brugbot-en.jpg)
+
+### Category
+Finance, Multi-agent
+
+### Description
+- Twelve agents (chart, wallet, flow and security analysts, bull and bear researchers, a risk team and a portfolio manager) debate every token before a decision
+- An independent approver re-checks each proposal with fresh data; no single container can spend money on its own
+- Risk rules are enforced in code, not prompts: exit plans, daily loss limits, a vault that can only shrink positions
+- New rules run in shadow mode first and go live only after time-split evidence (95% confidence interval)
+- Runs on free models with an automatic fallback chain; a read-only live dashboard demo is public in seven languages
+
+### Links
+- [Web](https://aykol.fyi/en/brugbot/)
+- [Live demo](https://aykol.fyi/demo/brugbot/?dil=en)
+- [Dev log](https://aykol.fyi/en/blog/)
+
+</details>
+
 ## [Butternut AI](https://butternut.ai/)
 Build fully-functioning, ready-to-launch website
 
