@@ -4127,6 +4127,26 @@ Productivity
 
 </details>
 
+## [Frank AI Researcher](https://www.hifrank.ai)
+Voice-first AI-moderated interviews with your own customers
+
+<details>
+
+### Category
+Data analysis, Research, Business intelligence
+
+### Description
+- Frank AI Researcher is a voice-first product that runs AI-moderated voice interviews with a team's own customers. Teams share an interviewer link or a website widget, then read the transcripts and themes.
+- It does not recruit participants. It can run hundreds of interviews overnight and supports 50+ interview languages. Video, WhatsApp and chat interviews are Coming soon.
+- MCP is included on every plan, including Free, at https://api.hifrank.ai/mcp (Streamable HTTP, OAuth).
+
+### Links
+- [Web](https://www.hifrank.ai)
+- [MCP repo](https://github.com/nar-vardanyan/frank-mcp)
+- [MCP docs](https://www.hifrank.ai/docs/frank-mcp-connector)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
