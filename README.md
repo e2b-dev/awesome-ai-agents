@@ -1859,6 +1859,8 @@ Local-first open-source coding agent with a CLI, web UI, and TypeScript SDK.
 
 <details>
 
+![Loop web interface showing a fictional coding task](https://codewithloop.com/product/storefront-filters-en-light.webp)
+
 ### Category
 Coding
 
