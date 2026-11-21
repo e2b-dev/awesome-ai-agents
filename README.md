@@ -4127,6 +4127,25 @@ Productivity
 
 </details>
 
+## [Genvas](https://genvas.app)
+Desktop node canvas for AI image, video, audio, and 3D pipelines driven over MCP
+
+<details>
+
+### Category
+Design, Multimodal, Coding, MCP
+
+### Description
+- Native desktop node canvas (macOS, Windows, Linux) for chaining AI image, video, audio, and 3D models using your own API keys (OpenAI, Gemini, Fal, Replicate, ElevenLabs, etc.).
+- Ships a local MCP server so coding agents like Claude Code and Codex can build, estimate costs for, and run node workflows.
+- Free beta (installers on GitHub Releases); source going open source under AGPL-3.0 soon.
+
+### Links
+- [Web](https://genvas.app)
+- [GitHub Releases](https://github.com/deeflect/genvas)
+
+</details>
+
 ## [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 AI-powered software developer
 
