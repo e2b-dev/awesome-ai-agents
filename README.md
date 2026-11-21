@@ -2196,6 +2196,22 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OmniHarness](https://github.com/wasrecordrecorder/omni-harness)
+Native autonomous AI-agent desktop harness for Windows 11
+
+### Category
+Autonomous Agent / Desktop Automation / Coding
+
+### Description
+Native autonomous AI-agent desktop harness for Windows 11 built with Tauri 2, Rust, and Svelte 5.
+- Phantom Computer Use: automates Windows 11 applications on a hidden/offscreen desktop via Win32 COM UIAutomation, PrintWindow, and ghost input without hijacking cursor focus
+- Native Rust/Tauri 2 performance: lightweight single binary with ConPTY and Win32 Job Object process isolation
+- Safe editing & orchestration: atomic SHA-256 edits, diff review, snapshot rollback, hierarchical subagents, and MCP/skills support
+- Remote control: integrated Telegram bridge with Whisper voice input
+
+### Links
+- [GitHub](https://github.com/wasrecordrecorder/omni-harness)
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
