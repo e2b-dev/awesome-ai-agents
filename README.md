@@ -2738,6 +2738,28 @@ Vanna is an Open-Source Python-based AI SQL agent trained on your schema that wr
 
 </details>
 
+## [VersoWork](https://github.com/mlubbad/versowork)
+Open-source, model-agnostic native desktop workspace for chat, MCP tools, live artifacts, and jailed local coding
+
+<details>
+
+![image](https://raw.githubusercontent.com/mlubbad/versowork/main/docs/assets/versowork-workspace.png)
+
+### Category
+Coding, General purpose, Productivity
+
+### Description
+- Native Tauri v2 (Rust) + FastAPI desktop and CLI (`verso`) workspace under the MIT license for macOS, Windows, and Linux
+- Supports 15+ BYOK cloud and zero-key local providers (Anthropic native Messages API, Gemini, Vertex AI, OpenAI, DeepSeek, Ollama, vLLM, LM Studio, `llama.cpp`) with credentials stored in the OS keychain
+- Includes a symlink-safe local coding harness (`read_file`, `edit_file`, `write_file`, `glob`, `grep`, curated `bash` test/build runners), per-turn file checkpoints with one-click rewind, and fail-closed lifecycle hooks
+- Connects to `stdio` and Streamable HTTP MCP servers (with OAuth PKCE) and renders live HTML/React/Mermaid artifacts inside isolated sandboxed iframes
+
+### Links
+- [GitHub](https://github.com/mlubbad/versowork)
+- [Releases](https://github.com/mlubbad/versowork/releases)
+
+</details>
+
 ## [Voyager](https://voyager.minedojo.org/)
 LLM-powered lifelong learning agent in Minecraft
 <details>
