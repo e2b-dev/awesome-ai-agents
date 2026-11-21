@@ -3578,6 +3578,25 @@ Data analysis, Content creation, Productivity, Research, Marketig, Sales, Busine
 
 </details>
 
+## [chort](https://chort.design)
+Local HTML/CSS design canvas driven by coding agents over MCP
+
+<details>
+
+### Category
+Design, Coding, MCP
+
+### Description
+- Local macOS design canvas where Claude Code, Codex, and MCP agents draw real HTML and CSS laid out by a real browser engine.
+- Canvas comments, automated design checks (`check_design`), design tokens, atomic undo per agent turn, and Tailwind/JSX export.
+- Free beta (signed macOS DMG on GitHub Releases); source going open source under AGPL-3.0 soon.
+
+### Links
+- [Web](https://chort.design)
+- [GitHub Releases](https://github.com/deeflect/chort)
+
+</details>
+
 ## [Claros AI Shopper](https://www.claros.so/)
 AI shopper that finds products for your taste
 <details>
