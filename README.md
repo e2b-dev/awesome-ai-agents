@@ -4320,6 +4320,25 @@ Productivity
 </details>
 
 
+## [Herdtrude](https://herdtrude.app)
+Desktop monitor and approval hub for parallel coding agents across machines
+
+<details>
+
+### Category
+Coding, Multi-agent, Developer Tools
+
+### Description
+- Native desktop window and menu-bar monitor (macOS and Linux) for managing multiple Claude Code, Codex, Cursor, and OpenCode sessions locally and over SSH.
+- Surfaces blocked Allow/Deny approval prompts in the menu bar and tracks 5-hour and weekly quota usage across multiple agent accounts.
+- Free beta (installers on GitHub Releases); source going open source under AGPL-3.0 soon.
+
+### Links
+- [Web](https://herdtrude.app)
+- [GitHub Releases](https://github.com/deeflect/herdtrude)
+
+</details>
+
 ## [Hex Magic](https://hex.tech/product/magic-ai/)
 AI tools for doing amazing things with data
 
