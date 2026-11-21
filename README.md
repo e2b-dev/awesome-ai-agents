@@ -2273,6 +2273,28 @@ Coding, general purpose
 </details>
 
 
+## [Open Flow](https://openflow.run/)
+Source-available workflow automation platform for coding agents (Claude Code, Codex, Cursor) via CLI and MCP
+
+<details>
+
+### Category
+Workflow automation, agent orchestration, productivity, coding agents, human-in-the-loop
+
+### Description
+Open Flow is a source-available workflow automation platform built for teams using coding agents:
+- Author, edit, validate, and run visual workflows from Claude Code, Codex, Cursor, or ChatGPT via the `oo flow` CLI or official MCP server (`/v1/mcp`)
+- Combine JavaScript code tasks, 1,700+ app connectors (via OpenConnector), LLM/Agent tasks, branching, and persistent human-in-the-loop Approval nodes in one visual Workbench
+- Run on OOMOL Hosted or self-host with Docker
+
+### Links
+- [Web](https://openflow.run/)
+- [GitHub](https://github.com/oomol-lab/open-flow)
+- [MCP Setup](https://openflow.run/en/install/mcp/)
+- [Documentation](https://openflow.run/en/docs/)
+
+</details>
+
 ## [Open Interpreter](https://openinterpreter.com/)
 Code interpreter that lets LLMs execute code
 
