@@ -5381,7 +5381,7 @@ General purpose, Productivity, Customer support, Coding
 
 ### Links
 - [Web](https://utalis.com/)
-- [Guides](https://utalis.com/ai-employees)
+- [Guides](https://utalis.com/blog)
   
 </details>
 
