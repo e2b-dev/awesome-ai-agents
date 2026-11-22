@@ -5360,6 +5360,31 @@ Coding
   
 </details>
 
+## [Utalis](https://utalis.com)
+AI employees with their own email address and computer
+
+<details>
+
+![image](https://utalis.com/logo-512.png)
+
+### Category
+General purpose, Productivity, Customer support, Coding
+
+### Description
+- Utalis lets a company hire AI employees for roles such as support, sales follow-up, finance and engineering
+- Each employee has its own name, email address and a computer: websites in Chrome, desktop apps the company allows, and coding through Claude Code or Codex
+- Work reaches it by email, events, routines and handoffs; it asks a person when it needs an approval, an answer or a sign-in
+- Independence is earned: trust levels at 100, 300 and 750 points; money, invoices and outside email always wait for a person
+- Every step, its reasoning and every approval is on the record, with a replay
+- 79.6% on OSWorld 2.0 ([method](https://utalis.com/blog/utalis-osworld-2))
+- Status: waitlist
+
+### Links
+- [Web](https://utalis.com/)
+- [Guides](https://utalis.com/blog)
+  
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
