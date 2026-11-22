@@ -2196,6 +2196,25 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [OpenAdapt](https://github.com/OpenAdaptAI/OpenAdapt)
+Verified local execution layer for computer-use agents
+<details>
+
+### Category
+Workflow automation, computer use, verification
+
+### Description
+OpenAdapt (`openadapt-flow`, MIT) compiles demonstrated web (Playwright), Windows, macOS, Linux, RDP, and Citrix tasks into local programs that run with zero hosted model calls on healthy runs. Production runs verify saves against the system of record through independent read-back (API or read-only SQL) and emit offline-verifiable Ed25519 DSSE receipts (`record/run/v1`). Callable over MCP (`uvx --python 3.12 openadapt-agent serve`).
+
+### Links
+- [GitHub](https://github.com/OpenAdaptAI/OpenAdapt)
+- [Proof & Benchmarks](https://openadapt.ai/proof)
+- [Documentation](https://docs.openadapt.ai)
+- [PyPI](https://pypi.org/project/openadapt-flow/)
+
+</details>
+
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
