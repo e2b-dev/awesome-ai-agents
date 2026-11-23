@@ -1745,6 +1745,27 @@ into simplifying the developer experience; it does not use `Langchain`.
 - Documentation: https://langroid.github.io/langroid/
 </details>
 
+## [last30days](https://github.com/mvanhorn/last30days-skill)
+Research agent skill for what people said about a topic in the last 30 days
+
+<details>
+
+### Category
+Research, Productivity
+
+### Description
+- Runs as a slash command (`/last30days <topic>`) inside Claude Code, Codex, Cursor, Gemini CLI, and 50+ other Agent Skills hosts.
+- Searches Reddit, X, YouTube, TikTok, Instagram, Hacker News, Polymarket, GitHub, and the web for posts from the last 30 days.
+- Ranks results by real engagement (upvotes, likes, prediction-market odds), and the agent writes one brief with citations to the source posts.
+- Reddit, Hacker News, Polymarket, and GitHub work with no setup; a setup wizard adds X, YouTube, TikTok, and more.
+- Also ships a local MCP server as a Claude Desktop bundle. MIT licensed.
+
+### Links
+- [GitHub](https://github.com/mvanhorn/last30days-skill)
+- [Releases](https://github.com/mvanhorn/last30days-skill/releases/latest)
+
+</details>
+
 ## [Lemon Agent](https://github.com/felixbrock/lemon-agent)
 Plan-Validate-Solve agent for workflow automation
 
