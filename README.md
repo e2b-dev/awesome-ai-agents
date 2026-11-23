@@ -4296,6 +4296,29 @@ Productivity, data analysis, general purpose, marketing, legal, sales, HR, finan
 
 </details>
 
+## [Haxset](https://haxset.com/)
+Agentic penetration testing for web applications, Android apps and LLM applications
+
+<details>
+
+![image](https://haxset.com/opengraph-image)
+
+### Category
+Software security, Multi-agent
+
+### Description
+- Specialist AI agents plan attacks, chain findings and attempt exploitation inside a scope the customer sets
+- A validator replays each proof of concept it can extract, and only verified findings go into the report
+- Two modes: fully agentic (most runs take 2 to 6 hours), or AI-assisted, where a Haxset engineer checks each finding and the assessment finishes in under 48 hours
+- Deploys as in-region cloud, hybrid or air-gapped, with bring-your-own model keys
+
+### Links
+- [Website](https://haxset.com/)
+- [Linkedin](https://www.linkedin.com/company/haxset)
+- [Twitter](https://x.com/haxset)
+
+</details>
+
 ## [Heights Platform](https://www.heightsplatform.com/)
 For course creators, community builders & coaches
 
