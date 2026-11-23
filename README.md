@@ -2296,6 +2296,25 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Pentest Swarm AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+Autonomous penetration testing — a swarm of AI agents that exploits and proves vulnerabilities
+
+<details>
+
+### Category
+Software security, Multi-agent, Open-source
+
+### Description
+
+- **Swarm of specialist agents**: separate recon, classification, exploitation, and reporting agents coordinate on a target.
+- **Exploits, not just scans**: chains vulnerabilities and proves each finding with a working proof-of-concept, instead of a list of maybes.
+- **Guardrailed by default**: fail-closed scope, egress control, target authorization, and a full audit trail keep it inside the assets you authorize.
+- **Self-hosted and model-agnostic**: runs on your own infrastructure with the model you choose.
+
+### Links
+- [GitHub](https://github.com/Armur-Ai/Pentest-Swarm-AI)
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
