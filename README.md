@@ -3180,6 +3180,28 @@ Business intelligence
 
 </details>
 
+## [ApeMind](https://apemind.ai/)
+Enterprise RAG, knowledge base, and AI agent platform with hybrid graph retrieval, MCP integration, and evaluation
+<details>
+
+![Image](https://apemind.ai/logo.png)
+
+### Category
+Research, Knowledge Management, Productivity, Enterprise
+
+### Description
+- Connects company documents, websites, and multimodal files into a unified knowledge pipeline with vector, full-text, and knowledge graph retrieval.
+- Lets teams define specialized AI agents with scoped knowledge libraries, external MCP tools, and reusable skills.
+- Includes execution diagnostics, versioned Q&A datasets, and evaluation workflows to iteratively improve agent reliability.
+- Available on web, desktop, CLI, and private self-hosted deployment (powered by the open-source [ApeRAG](https://github.com/apecloud/ApeRAG) core).
+
+### Links
+- [Website](https://apemind.ai/)
+- [Documentation](https://apemind.ai/docs)
+- [Open-Source Core (ApeRAG)](https://github.com/apecloud/ApeRAG)
+
+</details>
+
 ## [APIDNA](https://apidna.ai/)
 Multiple AI Agents for the integration of APIs.
 
