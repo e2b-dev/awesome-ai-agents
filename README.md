@@ -95,29 +95,6 @@ General purpose, Build your own, Multi-agent
 - [GitHub](https://github.com/HumanSignal/Adala)
 </details>
 
-## [Agent Control](https://github.com/guuguo/agent-control)
-Self-hosted desktop & mobile remote control console for Codex, Claude Code, Antigravity, and Grok.
-
-<details>
-
-![Image](https://raw.githubusercontent.com/guuguo/agent-control/main/docs/tutorial/01-desktop-console-en.png)
-
-### Category
-Coding, Productivity, Multi-agent
-
-### Description
-
-- **Multi-Engine & Multi-Account Hub**: Consolidates Codex (with multi-account quota tracking), Claude Code, Antigravity, and Grok in one UI.
-- **Strictly Read-Only Indexing**: Reads local session histories without modifying upstream databases or configs.
-- **5s Mobile QR Remote**: Uses $0 Cloudflare Quick Tunnel, Tailscale Funnel, or self-hosted Docker relay for mobile approvals and turn queuing.
-- **5 UI Languages**: Built-in English, 简体中文, 繁體中文, 日本語, and 한국어.
-
-### Links
-- [Website](https://hub.guuguo.top/agent-control)
-- [GitHub](https://github.com/guuguo/agent-control)
-
-</details>
-
 ## [Agent4Rec](https://github.com/LehengTHU/Agent4Rec)
 Recommender system simulator with 1,000 agents
 
@@ -5113,6 +5090,29 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 - [LinkedIn](https://www.linkedin.com/company/relevanceai/)
 - [Jacky Koh - X (Twitter)](https://x.com/JackyGKoh)
 - [Daniel Vassilev - X (Twitter)](https://x.com/thedanvass)
+
+</details>
+
+## [RemoDeck](https://github.com/guuguo/remodeck)
+Self-hosted desktop & mobile remote control console for Codex, Claude Code, Antigravity, Grok, and Qoder (MIT, formerly Agent Control).
+
+<details>
+
+![Image](https://raw.githubusercontent.com/guuguo/remodeck/main/docs/tutorial/01-desktop-console-en.png)
+
+### Category
+Coding, Productivity, Multi-agent
+
+### Description
+
+- **Multi-Engine & Multi-Account Hub**: Consolidates Codex (with multi-account quota tracking), Claude Code, Antigravity, Grok, and Qoder in one UI with a real-time 3D Dream Factory view.
+- **Strictly Read-Only Indexing**: Reads local session histories without modifying upstream databases or configs.
+- **5s Mobile QR Remote**: Uses $0 Cloudflare Quick Tunnel, Tailscale Funnel, or self-hosted Docker relay for mobile approvals, diff inspection, and turn queuing.
+- **5 UI Languages & MIT Licensed**: Built-in English, 简体中文, 繁體中文, 日本語, and 한국어.
+
+### Links
+- [Website](https://hub.guuguo.top/agent-control)
+- [GitHub](https://github.com/guuguo/remodeck)
 
 </details>
 
