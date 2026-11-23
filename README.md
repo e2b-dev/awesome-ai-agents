@@ -5093,6 +5093,29 @@ Content creation, Productivity, Research, Build-your-own (agent-builing framewor
 
 </details>
 
+## [RemoDeck](https://github.com/guuguo/remodeck)
+Self-hosted desktop & mobile remote control console for Codex, Claude Code, Antigravity, Grok, and Qoder (MIT, formerly Agent Control).
+
+<details>
+
+![Image](https://raw.githubusercontent.com/guuguo/remodeck/main/docs/tutorial/01-desktop-console-en.png)
+
+### Category
+Coding, Productivity, Multi-agent
+
+### Description
+
+- **Multi-Engine & Multi-Account Hub**: Consolidates Codex (with multi-account quota tracking), Claude Code, Antigravity, Grok, and Qoder in one UI with a real-time 3D Dream Factory view.
+- **Strictly Read-Only Indexing**: Reads local session histories without modifying upstream databases or configs.
+- **5s Mobile QR Remote**: Uses $0 Cloudflare Quick Tunnel, Tailscale Funnel, or self-hosted Docker relay for mobile approvals, diff inspection, and turn queuing.
+- **5 UI Languages & MIT Licensed**: Built-in English, 简体中文, 繁體中文, 日本語, and 한국어.
+
+### Links
+- [Website](https://hub.guuguo.top/agent-control)
+- [GitHub](https://github.com/guuguo/remodeck)
+
+</details>
+
 ## [Saga](https://saga.so/ai)
 Digital AI assistant for notes, tasks, and tools
 <details>
