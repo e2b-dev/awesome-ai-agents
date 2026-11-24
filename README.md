@@ -3893,6 +3893,27 @@ Sales
 
 </details>
 
+## [Dooza Crew](https://www.dooza.ai/)
+AI employees with their own computer and browser, working alongside your team in chat
+
+<details>
+
+![image](https://www.dooza.ai/logo.png)
+
+### Category
+Productivity, Sales, Customer Support, Multi-agent
+
+### Description
+- Dooza Crew gives small businesses AI employees (sales, inbox, reception, renewals, research) with their own isolated browser and computer.
+- Works with your human team in one shared chat and pauses for Approve, Edit, or Reject before sending emails or taking paid actions.
+
+### Links
+- [Web](https://www.dooza.ai/)
+- [LinkedIn](https://www.linkedin.com/company/110144933/)
+- [GitHub](https://github.com/Dooza-ai)
+
+</details>
+
 ## [Dosu](https://dosu.dev/)
 GitHub repo AI teammate helping also with docs
 <details>
