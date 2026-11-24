@@ -4835,6 +4835,29 @@ Build-your-own, Multi-agent
 </details>
 
 
+## [NeoCrew AI](https://neocrew.ai/)
+One paragraph in. A running product out.
+<details>
+
+![image](https://neocrew.ai/wp-content/uploads/2026/11/neocrew-icon-512.png)
+
+### Category
+Coding, Multi-agent, General purpose
+
+### Description
+NeoCrew AI is an AI software development platform. A crew of specialised AI agents takes an idea through Discover, Design, Blueprint and Build to a live, tested app, with the owner's approval between every stage, then keeps it running.
+- Plans before building: requirements, designs and a technical blueprint are approved by the owner before code is written.
+- Judges the code with tests the coding agent cannot see, generated from the approved architecture.
+- Keeps the app running after launch.
+- Source code, tests, and documentation, handed over clean. Your product, your repo, no lock-in.
+
+### Links
+- [Website](https://neocrew.ai/)
+- [YouTube](https://www.youtube.com/@NeoCrewAI)
+- [LinkedIn](https://www.linkedin.com/company/neocrew/)
+</details>
+
+
 ## [NexusGPT](https://gpt.nexus/)
 Build AI agents in minutes, without coding
 <details>
