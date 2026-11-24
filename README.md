@@ -4531,6 +4531,28 @@ Data analysis, Research, Business intelligence, web UI
 
 </details>
 
+## [Keiki](https://onkeiki.com)
+Get your AI agent live with customers on iMessage
+
+<details>
+
+### Category
+Customer support, Build-your-own, Productivity
+
+### Description
+- Puts a company's agent on iMessage, with WhatsApp, Slack, Telegram, email and phone calls on the same agent
+- Build the agent on Keiki, or bring your own through the SDK, an AI SDK handler or a signed external harness
+- Shared team inbox: see every conversation and take over any thread
+- Acts inside your product with tools, with Face ID approval before sensitive actions
+- Apple Pay checkout inside the conversation
+
+### Links
+- [Website](https://onkeiki.com)
+- [Docs](https://onkeiki.com/docs)
+- [Examples](https://github.com/Mail-0/labs)
+
+</details>
+
 ## [Kompas AI](https://kompas.ai/)
 Pick your LLM & build custom conversational agent
 
