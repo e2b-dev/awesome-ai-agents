@@ -1376,6 +1376,25 @@ Build-your-own (agent-builing frameworks and platforms), SDK for AI apps, Multi-
 
 </details>
 
+## [FlashData MCP](https://github.com/flashdatadev/flashdata-mcp)
+Open-source MCP server & hosted Remote MCP for real-time Google Search, YouTube transcripts/metadata, and cloud video downloads.
+
+<details>
+
+### Category
+Search, Web Data, MCP Server
+
+### Description
+- Open-source MIT MCP server (local stdio) plus hosted Streamable HTTP Remote MCP (`https://data.flashdata.dev/mcp`) exposing 22 tools across Google Search (Web, News, Images, Shopping, Videos, Places), YouTube Data (timestamped transcripts, metadata, channels, search), and batch YouTube Video Downloads to S3, GCS, Azure Blob, and Cloudflare R2.
+- Free trial available with no credit card required.
+
+### Links
+- [GitHub](https://github.com/flashdatadev/flashdata-mcp)
+- [Website](https://flashdata.dev)
+- [Agent Skills](https://github.com/flashdatadev/flashdata-skills)
+
+</details>
+
 ## [Flowise](https://flowiseai.com/)
 Low code Agent builder
 
