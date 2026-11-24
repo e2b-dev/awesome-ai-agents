@@ -4531,6 +4531,27 @@ Data analysis, Research, Business intelligence, web UI
 
 </details>
 
+## [King AI](https://usekingai.com)
+An AI agent that can do anything a human can do from a computer
+
+<details>
+
+### Category
+General purpose, Personal assistant, Productivity, Automation
+
+### Description
+- Type a job in one sentence, the way you would ask a person at a keyboard, and the finished work comes back: the site live, the sheet filled, the email sent.
+- Works across the web, the desktop and files, on macOS, Linux and from the iPhone web app.
+- Invite-only beta, request access at usekingai.com.
+
+### Links
+- [Web](https://usekingai.com)
+- [Download](https://usekingai.com/download)
+- [Hire for fixed-price tasks](https://usekingai.com/hire)
+- [YouTube](https://www.youtube.com/@usekingai)
+
+</details>
+
 ## [Kompas AI](https://kompas.ai/)
 Pick your LLM & build custom conversational agent
 
