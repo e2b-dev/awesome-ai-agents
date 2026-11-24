@@ -2171,6 +2171,28 @@ Developer tools, Software security, Multi-agent, General purpose
 - [GitHub](https://github.com/codeintegrity-ai/mutahunter)
 </details>
 
+## [NexAIz](https://nexaiz.com)
+Open directory of AI agents, agent skills, and Model Context Protocol (MCP) servers
+
+<details>
+
+### Category
+Developer tools, Directory, MCP servers, General purpose
+
+### Description
+- Open directory and registry indexing autonomous AI agents, tool schemas, and Model Context Protocol (MCP) servers.
+- Provides side-by-side agent comparisons, pre-formatted client configuration snippets, and local GPU VRAM calculators.
+- Features:
+	- MCP server specifications and 1-click configuration templates for Claude Desktop and Cursor.
+	- Side-by-side technical specification comparisons across agent frameworks and tools.
+	- Hardware and GPU VRAM calculator for estimating local model deployment requirements.
+
+### Links
+- [Website](https://nexaiz.com)
+- [GitHub](https://github.com/asifniazofficial-boop/nexaiz-mcp-registry)
+
+</details>
+
 ## [NLSOM](https://github.com/mczhuge/NLSOM)
 Natural Language-Based Societies of Mind
 <details>
