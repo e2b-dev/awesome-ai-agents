@@ -2408,6 +2408,28 @@ Coding
 
 </details>
 
+## [RedCat](https://github.com/manamaliahmad/redcat)
+RedCat: A free, open-source AI agent for everyone
+
+<details>
+
+### Category
+General purpose, Open source, Desktop agent
+
+### Description
+
+- **Beginner-first**: A proper desktop app - no terminal, Docker or config files. Download, paste an API key, and start chatting.
+- **Local-first and private**: Chats, memory and API keys stay on the user's own computer; every user starts from zero.
+- **Approval-first**: Asks for approval before consequential actions such as running commands, changing files or posting.
+- **Bring your own key (BYOK)**: Works with the user's own API key from providers such as OpenRouter, DeepSeek, Groq, Claude or OpenAI.
+- **Capable**: Builds websites, researches, writes and codes, with Markdown skills, a browser panel, a Discord bot and one-click MCP connectors to 145 services.
+
+### Links
+- [GitHub](https://github.com/manamaliahmad/redcat)
+- [Website](https://redcat.arexora.com)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
