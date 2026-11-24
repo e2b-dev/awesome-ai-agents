@@ -182,6 +182,30 @@ General purpose
 
 <!-- This is a comment that appears only in the raw text -->
 
+## [Agentic Test Explorer](https://github.com/srbarrios/agentic-test-explorer)
+AI-driven exploratory testing of web apps with persona agents
+
+<details>
+
+![Image](https://raw.githubusercontent.com/srbarrios/agentic-test-explorer/main/logo.png)
+
+### Category
+Multi-agent, Testing
+
+### Description
+
+- Supervisor-worker swarm built with LangGraph: eight persona agents (new user, power user, adversarial, accessibility, impatient, and more) explore any web app configured with a small YAML file
+- Agents emit JSON intents; a deterministic Playwright engine validates selectors, executes the commands and records them to an action tape
+- Every bug found is translated into a reproducible Playwright `.spec.ts`, with screenshots and a Markdown report
+- Cross-session memory (pages, selector reliability, bug catalog) and test missions generated from GitHub pull requests
+- Works with Claude or Gemini, MIT licensed
+
+### Links
+- [GitHub](https://github.com/srbarrios/agentic-test-explorer)
+- [Blog post](https://dev.to/srbarrios/my-ai-testers-arent-allowed-to-touch-the-browser-thats-why-their-bugs-are-reproducible-j7m)
+
+</details>
+
 ## [AgentPilot](https://github.com/jbexta/AgentPilot)
 Build, manage, and chat with agents in desktop app
 
