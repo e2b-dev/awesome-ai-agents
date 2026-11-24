@@ -4743,6 +4743,23 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [Message.com AI Receptionist](https://www.message.com/developers/ai/ai-receptionist)
+Answers inbound business calls and hands the caller’s request to a customer support team.
+
+<details>
+
+### Category
+Customer support, Voice
+
+### Description
+The receptionist asks what the caller needs and follows the business’s configured handoff. Agents can continue handling the request in the same workspace as website chats and support tickets.
+
+### Links
+- [Receptionist setup and call handling](https://www.message.com/developers/ai/ai-receptionist)
+- [Message.com](https://www.message.com/)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
