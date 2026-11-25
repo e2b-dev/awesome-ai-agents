@@ -320,6 +320,27 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [ApplyCrew](https://github.com/MohammedNeana/ApplyCrew)
+A crew of AI agents that runs your job search: finds jobs, fills the forms, and watches your inbox
+
+<details>
+
+![Image](https://raw.githubusercontent.com/MohammedNeana/ApplyCrew/main/docs/banner.svg)
+
+### Category
+Productivity, Multi-agent, Browser automation
+
+### Description
+- Open the folder in Claude Code and type `Start`: it reads your CV, asks its questions one at a time, and sets up the rest. No code needed, for any profession
+- Parallel agents search fresh postings and fill in LinkedIn Easy Apply, Greenhouse, Lever, Ashby, Workable and other ATS forms in your own browser, writing each answer from your real experience and logging every question and answer
+- Reads your inbox and records each reply; companion agents prepare interview packs for real invitations and keep a daily briefing page. Hard rules stop it at CAPTCHAs, passwords, ID numbers and anything you haven't approved
+
+### Links
+- [GitHub](https://github.com/MohammedNeana/ApplyCrew)
+- Author: [Mohammed Neanaa](https://github.com/MohammedNeana) (Github)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
