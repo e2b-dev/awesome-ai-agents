@@ -55,6 +55,7 @@ Discussion and feedback appreciated! :heart:
 ## Have anything to add?
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
+- [APUMIA Agent Auth & AI Audit Trail](https://github.com) - Deterministic capability enforcement and EU AI Act Art. 12 immutable SHA-256 decision logging for autonomous AI agents ([Audit Trail](https://github.com)).
 For adding AI agents'-related SDKs, frameworks and tools, please visit [Awesome SDKs for AI Agents](https://github.com/e2b-dev/awesome-sdks-for-ai-agents). This list is only for AI assistants and agents.
 
 <!---
