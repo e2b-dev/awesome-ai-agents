@@ -2297,7 +2297,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 </details>
 
 ## [Orbi](https://orbi.build/?ref=gh-e2b-awesome-ai-agents)
-AI GitHub App that turns issues into merged pull requests
+AI GitHub App that turns issues into tagged releases
 
 <details>
 
@@ -2306,9 +2306,9 @@ AI GitHub App that turns issues into merged pull requests
 Coding, GitHub automation
 
 ### Description
-- Open-source (AGPL-3.0) coding agent delivered as a GitHub App: write a GitHub issue and Orbi plans the change, writes the code and opens a pull request
-- Keeps working on the PR: answers review comments and fixes failing CI until it is ready to merge
-- Self-hostable, or hosted Orbi Cloud (first 3 merged pull requests free, no credit card needed)
+- Open-source (AGPL-3.0) coding agent delivered as a GitHub App: write a GitHub issue and Orbi writes the code; a separate review session verifies it; Orbi merges and ships a tagged release
+- A second session reviews the PR against the issue's acceptance criteria, fixes failures and reruns tests; reviewed code merges once CI passes on the latest base
+- Self-hostable, or hosted Orbi Cloud (14-day free trial, no credit card needed)
 
 ### Links
 - [Web](https://orbi.build/?ref=gh-e2b-awesome-ai-agents)
