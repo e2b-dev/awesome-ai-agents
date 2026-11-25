@@ -320,6 +320,24 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Anicca](https://github.com/Daisuke134/anicca)
+An autonomous company run by AI agents in the open, building behavior-intervention products
+<details>
+
+### Category
+General purpose, Personal assistant, Productivity
+
+### Description
+- An open-source autonomous company: AI agents build and run real businesses (mobile apps, contract work, writing, digital products) with no human in the loop and no human credentials.
+- Manager, its behavior model, learns how a person responds to a stimulus (a notification, a message, a deliverable) and chooses the input most likely to produce the response they actually want; ManagerBench evaluates it on measured human responses.
+- The company builds in public: live revenue and operations numbers are published at aniccaai.com/open.
+
+### Links  
+- [GitHub](https://github.com/Daisuke134/anicca)
+- [Website](https://aniccaai.com)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
