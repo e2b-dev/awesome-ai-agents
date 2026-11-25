@@ -2710,6 +2710,29 @@ Multi-agent, GUI Agent
 
 </details>
 
+## [Vaelon](https://github.com/Nokk1251/vaelon)
+Private AI assistant that runs on your own computer
+
+<details>
+
+![image](https://github.com/Nokk1251/vaelon/raw/main/docs/images/vaelon-demo.gif)
+
+### Category
+Personal assistant, Productivity, General purpose, Supports open-source models
+
+### Description
+- Private AI assistant for Windows and macOS that runs on your own computer, used by text or by voice
+- Local by default (a model through Ollama); cloud models only if you turn them on
+- Asks before anything risky, logs every action and can undo most changes
+- Works with files and documents, keeps a calendar, tracks bills, invoices and a budget
+- Open source (GPL-3.0)
+
+### Links
+- [GitHub](https://github.com/Nokk1251/vaelon)
+- [Website](https://nokk1251.github.io/vaelon/)
+
+</details>
+
 ## [Vanna.AI](https://vanna.ai/)
 Python-based AI SQL agent trained on your schema
 
