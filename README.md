@@ -2372,6 +2372,27 @@ Productivity, General purpose
 </details>
 
 
+## [Rakazo](https://rakazo.com)
+Open-source Grok Bot alternative: AI teammates with their own computer
+
+<details>
+
+### Category
+General purpose, Multi-agent, Productivity
+
+### Description
+- Open-source (Apache-2.0) platform for persistent AI teammates, self-hostable with Docker or available hosted.
+- Each bot has its own memory, scheduled routines (time, incoming email or webhook triggers) and a sandboxed computer with a browser, terminal and desktop you can watch and take over.
+- Works with any LLM (Anthropic, OpenAI, Google, open-weight models via OpenRouter or local servers).
+- Connects to thousands of apps and MCP servers; bots ask for approval before sending, paying or posting.
+- Bots collaborate in group chats and delegate to subagents. Apps for web, desktop, iOS and Android, plus Slack and Teams.
+
+### Links
+- [GitHub](https://github.com/elie222/rakazo)
+- [Web](https://rakazo.com)
+
+</details>
+
 ## [React Agent](https://reactagent.io/)
 Open-source React.js Autonomous LLM Agent
 <details>
