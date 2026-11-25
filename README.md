@@ -4041,7 +4041,7 @@ Productivity, General purpose
 - One assistant connected to email, calendar and chats that keeps a CRM, drafts replies and follow-ups, plans social posts, researches markets and turns a feature request into a tested pull request
 - Runs on [OpenClaw](https://github.com/openclaw/openclaw); sending, paying, publishing, merging and calling wait for the owner's approval by default
 - Telegram is the main chat, with a web cabinet for tasks and results; WhatsApp can be connected with the owner's own account
-- Runs on a small box the owner keeps, or as a hosted cloud pilot; model usage is billed by the owner's own AI provider
+- Runs on a small box the owner keeps; model usage is billed by the owner's own AI provider
 
 ### Links
 - [Website](https://www.myfigaro.ai/)
