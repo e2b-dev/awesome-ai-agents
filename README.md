@@ -2296,6 +2296,26 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 
 </details>
 
+## [Orbi](https://orbi.build/?ref=gh-e2b-awesome-ai-agents)
+AI GitHub App that turns issues into tagged releases
+
+<details>
+
+![Image](https://github.com/orbi-build.png?size=200)
+### Category
+Coding, GitHub automation
+
+### Description
+- Open-source (AGPL-3.0) coding agent delivered as a GitHub App: write a GitHub issue and Orbi writes the code; a separate review session verifies it; Orbi merges and ships a tagged release
+- A second session reviews the PR against the issue's acceptance criteria, fixes failures and reruns tests; reviewed code merges once CI passes on the latest base
+- Self-hostable, or hosted Orbi Cloud (14-day free trial, no credit card needed)
+
+### Links
+- [Web](https://orbi.build/?ref=gh-e2b-awesome-ai-agents)
+- [GitHub](https://github.com/orbi-build/orbi)
+
+</details>
+
 ## [Pezzo](https://www.pezzo.ai/)
 Development toolkit for prompt management & more
 
