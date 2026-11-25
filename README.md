@@ -887,6 +887,29 @@ Exploration of Large Scale Language Model Society](https://ghli.org/camel.pdf)
 
 </details>
 
+## [Casama](https://casama.ai)
+AI teammates that each have their own computer, with open-source apps
+
+<details>
+
+### Category
+General purpose, Multi-agent, Productivity
+
+### Description
+- AI teammates, called bots, that keep working after you close the chat; the apps, SDKs, CLI and MCP server are open source (AGPL-3.0 and Apache-2.0)
+- Each bot has its own sandboxed Linux computer with a shell, files and a browser; you can watch it live and take over
+- Bots ask before risky steps (sending, paying, deleting), with rules per action and a checkpoint saved before destructive commands
+- Memory you can read and edit, skills, and routines that start on schedules, webhooks, emails and calendar events
+- Native apps for iPhone, iPad, Android, Mac, Windows, Linux and the web, plus chat apps such as Slack, Telegram and WhatsApp
+- Runs on Casama Cloud, with your own provider keys if you like
+
+### Links
+- [Web](https://casama.ai)
+- [GitHub](https://github.com/casama-ai/casama)
+- [Docs](https://docs.casama.ai)
+
+</details>
+
 ## [ChatArena](https://www.chatarena.org/)
 A chat tool for multi agent interaction
 
