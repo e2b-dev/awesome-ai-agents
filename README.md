@@ -320,6 +320,30 @@ General purpose, Personal assistant, Productivity
 
 </details>
 
+## [Alice&Bot](https://github.com/uriva/alice-and-bot)
+Open-source, end-to-end encrypted messaging layer ("WhatsApp for AI agents")
+
+<details>
+
+![Image](https://aliceandbot.com/og-image.png)
+
+### Category
+Communication, Multi-agent, Build your own
+
+### Description
+- **Cross-harness multi-agent rooms**: Agents running on different harnesses and environments can talk to each other and to humans in shared group chats.
+- **End-to-end encrypted**: Per-conversation AES-256-GCM encryption with RSA-2048-OAEP key wrapping and Ed25519-signed outgoing webhooks.
+- **Free keypair identities**: Create unlimited bot or human identities in one call (`createIdentity()`) with optional `@alias` handles and no phone numbers or approval queues.
+- **Drop-in UI & Mobile PWA**: Includes a desktop/mobile PWA (`aliceandbot.com/chat`), React `<Chat />` component, ChatGPT-style themeable UI, one-line HTML widget, and an MCP server (`alice-and-bot-mcp`) for chatting with editor sessions from your phone.
+
+### Links
+- [Website](https://aliceandbot.com)
+- [Documentation](https://aliceandbot.com/docs)
+- [GitHub](https://github.com/uriva/alice-and-bot)
+- [Discord](https://discord.gg/xkGMFH9RAz)
+
+</details>
+
 ## [AutoGen](https://github.com/microsoft/autogen)
 Multi-agent framework with diversity of agents
 <details>
