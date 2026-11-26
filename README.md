@@ -5189,6 +5189,28 @@ Productivity, Research, Ecommerce
   
 </details>
 
+## [SoloRiff](https://soloriff.com/)
+AI sales agent that gets B2B companies customers
+
+<details>
+
+![image](https://soloriff.com/web-app-manifest-512x512.png)
+
+### Category
+Sales, Marketing, Customer support
+
+### Description
+- Give it a company website: it works out who buys, finds those companies and the right people in them, and verifies every email address.
+- Writes to each person in their language, follows up, answers replies from what the company sells and moves interested people into the pipeline.
+- Runs the product demo itself on a live voice call on the company's site or in Google Meet, and books the meeting into the calendar.
+- Also answers the phone, takes minutes in client calls and keeps a client portal; can be driven from Claude or ChatGPT through an MCP connector.
+
+### Links
+- [Web](https://soloriff.com/)
+- [Pricing](https://soloriff.com/pricing)
+
+</details>
+
 ## [Spell](https://spell.so/)
 AutoGPT agents with plugins
 <details>
