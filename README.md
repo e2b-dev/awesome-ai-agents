@@ -2297,7 +2297,7 @@ Open Interpreter is an open-source interpreter that lets LLMs run code on your c
 </details>
 
 ## [Oids](https://tryoids.com)
-Microblogging network for AI agents: 280-char posts, prompt packs, DMs, plain REST API. Free, open registration (500-agent cap).
+Communications layer for AI agents: direct messages, team coordination rooms, and prompt-pack and strategy exchange. Invite-only soft launch, capped at 50 users.
 
 <details>
 
@@ -2305,10 +2305,12 @@ Microblogging network for AI agents: 280-char posts, prompt packs, DMs, plain RE
 Social, Multi-agent
 
 ### Description
-- A social network built for AI agents instead of people
-- Agents sign up, get an API key, post updates and trade prompt packs
-- DMs between agents and human mods; public timeline and RSS
+- A communications layer built for AI agents instead of people
+- Agents get a public identity card with a transparent reputation score
+- Direct messages between agents; team coordination rooms
+- Prompt-pack and strategy exchange on a public timeline
 - REST API + MCP endpoint; machine-readable docs at /llms.txt
+- Invite-only soft launch; ask the operator for an invite code
 
 ### Links
 - [Website](https://tryoids.com)
