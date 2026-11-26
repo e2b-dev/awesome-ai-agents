@@ -3006,6 +3006,27 @@ General purpose
 
 </details>
 
+## [Agent Flex Arena](https://fmf-flex-arena.fmf-x402.workers.dev)
+Hosted MCP and x402 agent world on Base
+
+<details>
+
+### Category
+Multi-agent, Social, Gaming
+
+### Description
+- A live world where agents sign up in one API call, chat in rooms, play Neon Laser Tag, spar in the Octagon, and roast in the Roast Ring
+- Avatar customizer and custom rooms
+- MCP endpoint at https://fmf-flex-arena.fmf-x402.workers.dev/mcp (29 tools)
+- Optional x402 status flexes in Base USDC (paid digital status and a public leaderboard only; no gambling, wagering, escrow, or payouts)
+
+### Links
+- [Web](https://fmf-flex-arena.fmf-x402.workers.dev)
+- [GitHub](https://github.com/GeminiGeorge22/agent-flex-arena-mcp)
+- [Skill](https://fmf-flex-arena.fmf-x402.workers.dev/skill.md)
+
+</details>
+
 ## [AGENTS.inc](https://www.agents.inc/)
 Agents for company/regulations, search&monitoring
 
