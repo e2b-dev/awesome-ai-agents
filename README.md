@@ -4743,6 +4743,25 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [Mel](https://www.openmel.dev)
+Agentic terminal with a team of AI coding agents
+<details>
+
+### Category
+Coding, Developer tools
+
+### Description
+- Mel is an agentic terminal for macOS, Windows and Linux, plus a VS Code extension.
+- A team of AI agents plans, edits, runs and reviews code in your project, and configurable approvals let you OK each command and file edit before it runs.
+- Works with many models (Claude, GPT, Gemini, DeepSeek, Qwen). Free with your own API key, with paid plans for teams.
+
+### Links
+- [Web](https://www.openmel.dev)
+- [X (Twitter)](https://x.com/OpenMelDev)
+- [LinkedIn](https://www.linkedin.com/company/open-mel)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
