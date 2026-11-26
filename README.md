@@ -4860,6 +4860,29 @@ Technical challenges of building AI products, Business/marketing challenges of b
 </details>
 
 
+## [Nym](https://usenym.com/)
+Personal AI assistant you text, call, or chat with that finishes everyday errands and builds personal apps.
+
+<details>
+
+### Category
+Personal assistant, Consumer AI agent, Life admin
+
+### Description
+- Nym is a personal AI assistant from Metonymous that you can text, call, or chat with on web and desktop (Mac, Windows, Linux).
+- Finishes real errands across email, a live browser, and connected accounts (Gmail, Google Calendar, Outlook, Notion, Todoist, Amazon, Instacart, DoorDash, Uber, Strava, Spotify, and more) with user approval before purchases or account changes.
+- Builds private, persistent personal apps on the spot (such as workout logs, gift shortlists, or chore trackers) without writing code, and runs scheduled recurring work.
+- Pairs with The Scout, a $25 magnetic Wi-Fi camera with no required subscription that works with Nym or any MCP-compatible AI agent.
+
+### Links
+- [Web](https://usenym.com/)
+- [How it works](https://usenym.com/how-it-works)
+- [The Scout](https://usenym.com/scout)
+- [GitHub](https://github.com/MetonymousAI)
+
+</details>
+
+
 ## [Otherside's AI Assistant - Hyperwrite](https://www.hyperwriteai.com/)
 Chrome extension - general purpose AI agent
 
