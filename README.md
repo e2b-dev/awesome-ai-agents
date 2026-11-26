@@ -2408,6 +2408,29 @@ Coding
 
 </details>
 
+## [Seekter](https://github.com/selfishprimate/seekter)
+A job-search agent for Claude Code
+
+<details>
+
+### Category
+Productivity, Personal assistant
+
+### Description
+- **Daily search**: reads job sources in a fixed order every working day, including links the user collects
+- **Filters by the user's rules**: location, visa, salary, sectors, seniority and language, set once in an interview
+- **Fills forms in the user's own Chrome**: through the Claude in Chrome extension, with duplicate checks before every form
+- **Stops where it should**: CAPTCHAs, passwords and anything only the user can decide; never fills LinkedIn Easy Apply
+- **Plain files**: every application and skip is a markdown file, with a weekly report by source and form system
+- **Free and MIT licensed**: running it needs a paid Claude plan or an Anthropic API account
+
+### Links
+- [Website](https://seekter.dev)
+- [Documentation](https://seekter.dev/docs/install)
+- [GitHub](https://github.com/selfishprimate/seekter)
+
+</details>
+
 ## [Self-operating computer](https://www.hyperwriteai.com/self-operating-computer)
 Let multimodal models operate a computer
 
