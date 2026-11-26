@@ -4693,6 +4693,29 @@ Coding, Content creation, Productivity, Build-your-own (agent-builing frameworks
 
 </details>
 
+## [Magistry](https://www.magistry.io/)
+The operating system your business runs on
+<details>
+
+![image](https://www.magistry.io/brand/magistry-icon-512.png)
+
+### Category
+General purpose, Business intelligence, Productivity
+
+### Description
+- Agents do the daily work of a business across marketing and advertising, product catalog and shopping feeds, customer service, disputes, finance and operations, from one live data layer.
+- Works with all major e-commerce platforms (Shopify, WooCommerce, Shopware, Magento and more), marketplaces, and advertising, social and shopping channels.
+- Per area you choose whether an agent only proposes changes for approval or acts on its own; every action is logged and can be undone, and one switch pauses everything.
+- Web app, iOS and Android apps, and a remote MCP server so Claude, ChatGPT and other assistants can work with the business data.
+
+### Links
+- [Web](https://www.magistry.io/)
+- [MCP server](https://github.com/Magistry-io/mcp)
+- [LinkedIn](https://www.linkedin.com/company/magistry)
+- [X](https://x.com/magistryy)
+
+</details>
+
 ## [Makedraft](https://makedraft.com/)
 Generate + edit HTML components with text prompts
 
