@@ -3381,6 +3381,27 @@ Data analysis, Productivity, Build-your-own (agent-builing frameworks and platfo
 
 </details>
 
+
+## [bf16.ai](https://bf16.ai)
+Uncensored LLM API gateway for coding and personal AI agents with 1M context and zero prompt retention
+
+<details>
+
+### Category
+Coding, Developer tools, Infrastructure
+
+### Description
+- Native OpenAI Chat (`/v1/chat/completions`), OpenAI Responses (`/v1/responses`), and Anthropic Messages (`/v1/messages`) endpoints
+- Uncensored frontier models (Kimi K3.1 Pro, GLM-5.3, DeepSeek V4.1 Flash) with up to 1M token context
+- Works out of the box with Claude Code, Codex CLI, OpenCode, Cursor, Cline, Roo Code, OpenClaw, and 24+ clients
+- Zero prompt retention and transparent pay-as-you-go pricing below official rates ($0.20 free signup credit)
+
+### Links
+- [Website](https://bf16.ai)
+- [Docs](https://bf16.ai/docs)
+- [GitHub](https://github.com/BF16-AI)
+
+</details>
 ## [Blackbox AI](https://www.blackbox.ai/)
 Software That Builds Software
 
