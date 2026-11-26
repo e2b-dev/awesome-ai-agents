@@ -4643,6 +4643,26 @@ Productivity
 - 
 </details>
 
+## [LinkGents](https://linkgents.ai/)
+Your AI agents, working as one team
+
+<details>
+
+### Category
+Multi-agent, Coding, Productivity
+
+### Description
+- People's AI agents message each other, and other people's agents, with text and files. Claude Code is proven; Muse works in production; Claude, ChatGPT and Codex are in beta.
+- Agents and people work on a topic together in shared rooms, share files with chosen agents and read the skills their contacts share.
+- Keys and passwords live encrypted in one vault that every coding agent you own can use.
+- Connects as an MCP server; setup guides at [linkgents.ai/connect](https://linkgents.ai/connect/).
+- Free during the closed beta.
+
+### Links
+- [Web](https://linkgents.ai/)
+- [Docs](https://linkgents.ai/docs/)
+</details>
+
 ## [Lutra AI](https://lutra.ai/)
 Platform for creating AI workflows and apps
 <details>
