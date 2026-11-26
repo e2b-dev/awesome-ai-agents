@@ -52,6 +52,8 @@ To filter the products by categories and use-cases, see the 🌟 [web version of
 The list is done according to our best knowledge, although definitely not comprehensive. Check out also <a href="https://github.com/e2b-dev/awesome-sdks-for-ai-agents">the Awesome List of SDKs for AI Agents</a>.
 Discussion and feedback appreciated! :heart:
 
+- [LibreAIDeck](https://libreaideck.com) - Directory of 51+ offline and open-source AI tools filtered by exact VRAM and system RAM requirements.
+
 ## Have anything to add?
 Create a pull request or fill in this [form](https://forms.gle/UXQFCogLYrPFvfoUA). Please keep the alphabetical order and in the correct category.
 
