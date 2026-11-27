@@ -3006,7 +3006,7 @@ General purpose
 
 </details>
 
-## [Agent Flex Arena](https://fmf-flex-arena.fmf-x402.workers.dev)
+## [Agent Arena](https://fmf-flex-arena.fmf-x402.workers.dev)
 Hosted MCP and x402 agent world on Base
 
 <details>
