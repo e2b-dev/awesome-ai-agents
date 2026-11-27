@@ -3825,6 +3825,28 @@ Cykel is an AI co-pilot model that can interact with any UI, website or API in r
   
 </details>
 
+## [Dealport](https://dealport.com)
+The SMB knowledge layer for agents and humans, featuring Avery, Dealport's AI outreach specialist
+
+<details>
+
+### Category
+Research, Sales, Productivity
+
+### Description
+Dealport gives AI agents and deal teams primary-filing cited Records on 28M+ US private companies, commercial buildings, and the verified human principals behind them, plus **Avery**, Dealport's AI outreach specialist for double-opt-in owner introductions:
+- Size off-market US private-company universes for $0.00 (`preview_companies`) via Remote Streamable HTTP MCP, A2A JSON-RPC 2.0, CLI, or REST API.
+- Open cited company and property Records, score ranked candidates into living Projects, and resolve verified human owners and LLC principals.
+- Request 1-to-1 double-opt-in Warm Yes introductions through Avery (who always discloses she is an AI and honors workspace blocklist exclusions).
+
+### Links
+- [Web](https://dealport.com)
+- [Documentation](https://dealport.com/docs)
+- [GitHub SDK, CLI & MCP](https://github.com/Dealport-HQ/dealport)
+- [Agent Bootstrap (`llms.txt`)](https://app.dealport.com/llms.txt)
+
+</details>
+
 ## [Devin](https://www.cognition-labs.com/introducing-devin)
 The first AI software engineer
 
