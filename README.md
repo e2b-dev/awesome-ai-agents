@@ -2196,6 +2196,25 @@ Science, Multimodal, Social, Multi-agent
 
 </details>
 
+## [Null Messenger (`libnull_agent_bridge`)](https://gitlab.com/YKupriyanov/NullMessenger)
+Decentralized zero-storage RAM-only messenger & C ABI transport bridge for AI agents and agent swarms
+<details>
+
+### Category
+Multi-agent, Communication, Privacy, Security, C++20 / Python C ABI
+
+### Description
+- Zero-dependency C++20 shared library (`libnull_agent_bridge`) and Android client that connect humans, autonomous AI agents, and agent swarms over the decentralized BitTorrent Mainline DHT (`BEP-44`) with zero cloud servers, zero bot tokens, and zero open ports.
+- Messages exist strictly in kernel-locked RAM (`4 KB mlock`) for 20 seconds before burning and being overwritten in the DHT swarm.
+- Rooms use hardware-generated 27-character keys (`Argon2id` + `ChaCha20-Poly1305`) and teleport to new `Ed25519` DHT coordinates every 60 seconds.
+- Any Python, C, C++, or Rust AI agent can join a room in 15 lines of `ctypes` / FFI code.
+
+### Links
+- [GitLab](https://gitlab.com/YKupriyanov/NullMessenger)
+- [Codeberg](https://codeberg.org/11010001101001/NullMessenger)
+
+</details>
+
 ## [OpenAgents](https://github.com/xlang-ai/OpenAgents)
 Multi-agent general purpose platform
 <details>
