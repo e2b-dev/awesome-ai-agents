@@ -3107,6 +3107,30 @@ Build-your-own, Productivity
 </details>
 
 
+## [Aiola](https://aiola.app)
+Desktop workspace for running coding agents next to production data
+
+<details>
+
+![image](https://aiola.app/og-image.png)
+
+### Category
+Coding, Productivity, Multi-agent
+
+### Description
+- Runs Claude Code, Codex, Cursor, Grok CLI, OpenCode and Antigravity side by side in one chat, on the subscriptions the user already has
+- Puts each project's production errors, in-app user feedback, analytics, Search Console data, GitHub issues and pull requests next to the agents, so any of them can be sent to an agent as a task
+- Kanban board where every task gets its own agent, thread and Git worktree; scheduled automations
+- Phone and tablet companion app to follow agents and answer their questions
+- macOS and Windows; free download with a paid Pro plan
+
+### Links
+- [Website](https://aiola.app)
+- [Docs](https://docs.aiola.app)
+- [X](https://x.com/aiola_app)
+
+</details>
+
 ## [Airkit.ai](https://www.airkit.ai)
 Platform for building, testing, deploying Agents
 
