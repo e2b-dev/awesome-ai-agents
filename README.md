@@ -5360,6 +5360,28 @@ Coding
   
 </details>
 
+## [Unzoo Browser](https://unzoo.ai/)
+Local Chromium browser built for AI agents with native MCP and per-profile isolation
+
+<details>
+
+![image](https://unzoo.ai/assets/unzoo-share-en-ce554a87.png)
+
+### Category
+Browser Automation, Coding, Productivity
+
+### Description
+- Unzoo Browser is a local-first Chromium browser built specifically for AI agents such as Claude Code, Cursor, Codex, and OpenClaw
+- Exposes a native MCP server alongside a local REST API and CDP shim so agents can research pages, organize information, and automate real browser workflows
+- Provides per-agent isolated browser profiles with real Chrome fingerprints to prevent login/session collisions across parallel agent tasks
+- Includes open-source Claude Skills for real-world web publishing and automation workflows
+
+### Links
+- [Web](https://unzoo.ai/)
+- [GitHub](https://github.com/unzooai/unzooai-skills)
+
+</details>
+
 ## [Vortic](https://www.vortic.ai/)
 AI agent helping Insurance Sales and Claims
 
