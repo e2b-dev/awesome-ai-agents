@@ -474,6 +474,24 @@ HR, Business intelligence, Productivity
 - [Blog post](https://pub.towardsai.net/creating-a-mostly-autonomous-hr-assistant-with-chatgpt-and-langchains-agents-and-tools-1cdda0aa70ef)
 </details>
 
+## [Avintra](https://github.com/aventisia/avintra)
+Build, run and govern AI agents that do real work in enterprise workflows
+
+<details>
+
+### Category
+Build your own, Multi-agent, Productivity, HR
+
+### Description
+- Enterprise agentic AI and workflow automation platform covering finance, tax, HR, IT and operations
+- Self-hostable from source (.NET 8, Node.js 22+, Python 3.12+); desktop and browser automation on Windows
+- License: Avintra Community License (Apache 2.0 with additional conditions, source-available)
+
+### Links
+- [GitHub](https://github.com/aventisia/avintra)
+
+</details>
+
 ## [BabyAGI](https://github.com/yoheinakajima/babyagi)
 A simple framework for managing tasks using AI
 <details>
