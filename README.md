@@ -5117,6 +5117,29 @@ Productivity, Content creation
 
 </details>
 
+## [Saturday](https://saturday.mershlab.com/)
+Desktop AI agent that works the apps on your own computer, with the model you already pay for
+
+<details>
+
+![image](https://saturday.mershlab.com/brand/saturday-512.png)
+
+### Category
+Computer use, General purpose, Productivity, Supports open-source models
+
+### Description
+- A desktop AI agent for Windows, macOS and Linux. Give it a job in plain words; it works the apps on your machine instead of a browser tab.
+- Bring your own model: an existing Claude or ChatGPT subscription, any of 19 providers (OpenAI, Anthropic, Google, DeepSeek, Mistral, Groq, OpenRouter), or a local runtime such as Ollama, vLLM or llama.cpp.
+- Asks before risky actions, blocks a floor of destructive commands in every mode, and writes a hash-chained, replayable audit log of every action.
+- Background mode works without stealing focus. MCP client and server, an OpenAI-compatible endpoint, and Telegram, Slack, Discord and WhatsApp channels.
+- Free beta, no account required. The application source is not public yet; installers and release notes are on GitHub.
+
+### Links
+- [Web](https://saturday.mershlab.com/)
+- [GitHub releases](https://github.com/MershLab/saturday-releases)
+
+</details>
+
 ## [Second](https://www.second.dev/)
 Automated migrations and upgrades for your code
 
