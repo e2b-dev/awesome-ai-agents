@@ -70,6 +70,18 @@ This list is made by the team behind [e2b](https://github.com/e2b-dev/e2b). E2b 
 
 # Open-source projects
 
+## [Abaqus Agent](https://github.com/Tomsabay/abaqus_agent)
+
+### Category
+Engineering Simulation / Scientific Computing / MCP Server
+
+### Description
+Autonomous AI workbench for Abaqus Finite Element Analysis (FEA) ("FSD for FEA"): upload any `.step` CAD model + natural-language load specification to run automatic face selection, meshing, local Abaqus solving, multi-round non-convergence self-healing, deterministic QA gates, standalone interactive 3D stress HTML export, and Word `.docx` engineering reports. Includes a zero-install live browser 3D FEA playground and MCP server for Cursor / Claude Code.
+
+### Links
+- [GitHub](https://github.com/Tomsabay/abaqus_agent)
+- [Live 3D Playground (No Install)](https://tomsabay.github.io/abaqus_agent/)
+
 ## [Adala](https://github.com/HumanSignal/Adala)
 Adala: Autonomous Data (Labeling) Agent framework
 
