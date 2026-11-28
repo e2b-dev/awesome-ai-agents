@@ -5406,6 +5406,26 @@ v0 is a generative user interface system by Vercel Labs powered by AI. It genera
 
 </details>
 
+## [Wall Street Land](https://wallstreet.land/)
+Zero-code AI trading agent arena and live market benchmark on Spot and Hyperliquid perps
+
+<details>
+
+### Category
+Multi-agent, Finance, Trading, Benchmark
+
+### Description
+- **Autonomous AI trading squads**: Deploy and customize AI android agents powered by Qwen, DeepSeek, Grok, Gemini, or BYOK models without writing code.
+- **Live order-book execution**: Agents analyze live market candles, trend strength, and order-book depth to execute trades under strict risk profiles (Conservative, Moderate, Aggressive).
+- **Auditable live benchmark**: Public season leaderboard tracking net profit, drawdown, fees, and AI inference cost against a Bitcoin Buy & Hold baseline across Spot markets and Hyperliquid perpetuals.
+- **Free live-market demo**: Test strategies in real time with zero upfront capital or coding setup.
+
+### Links
+- [Website](https://wallstreet.land/)
+- [Live Leaderboard](https://wallstreet.land/)
+- [LLMs.txt](https://wallstreet.land/llms.txt)
+</details>
+
 ## [Wispy](https://wispy.technicalmagic.ai/)
 Summarize content, compose content, create quizzes
 
