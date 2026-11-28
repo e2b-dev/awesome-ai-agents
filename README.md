@@ -1355,6 +1355,12 @@ General purpose, Research, Multi-agent
 
 </details>
 
+## [Evolving Profile](https://github.com/ccygod/evolving-profile)
+Local-first AI memory, 5D conditional preference engine, and reusable agent process memory control plane shared across Claude Code, Claude Desktop, OpenAI Codex, Antigravity, and Trae.
+- **Category**: Memory & Personalization / MCP Server
+- **Description**: Provides dual memory planes (User Memory + Agent Experience), navigate-first recall with original-source readback, 75K+ storage governance on Postgres 18 / pgvector 0.8 (`halfvec`), a live-reloading MCP server, and a dual-theme Web Console with memory constellations and 0.5s Prompt Journey tracing.
+- **GitHub**: https://github.com/ccygod/evolving-profile
+
 ## [FastAgency](https://fastagency.ai/latest/)
 The fastest way to deploy multi-agent workflows
 
