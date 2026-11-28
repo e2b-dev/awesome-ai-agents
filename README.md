@@ -4743,6 +4743,31 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [MinePal](https://minepal.net/)
+AI players, called Pals, that join your Minecraft world
+
+<details>
+
+![image](https://minepal.net/banner.jpg)
+
+### Category
+Gaming
+
+### Description
+- MinePal is a desktop app that puts AI players, called Pals, into Minecraft Java Edition. A Pal joins your world like another player, so there is no mod to install.
+- Ask a Pal to come along, gather, build or guard. It does the job in the game and tells you when it is done.
+- Each Pal has its own name and personality, talks with you by text or voice, and remembers what happened as you play.
+- Free to start, for Windows, Mac and Linux.
+
+### Links
+- [Web](https://minepal.net/)
+- [Download](https://minepal.net/download)
+- [Discord](https://discord.gg/QG9Ae4UYHd)
+- [YouTube](https://www.youtube.com/@ethanfromminepal)
+- [X (Twitter)](https://x.com/minepal_ai)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
