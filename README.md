@@ -2655,6 +2655,7 @@ General purpose, Productivity
 
 
 ### Links
+- [AnyProfile](https://github.com/D0bby999/anyprofile) - Open-source local-first antidetect browser with a built-in MCP server so AI agents can automate persistent, proxy-isolated browser sessions headlessly without stealing window focus.
 - [GitHub](https://github.com/TaxyAI/browser-extension)
 - [Waitlist](https://docs.google.com/forms/d/e/1FAIpQLScAFKI1fZ1cXhBmSp2HM93Jvuc8Jvrxh5iSbkKhtwKN-OHoTQ/viewform)
 
