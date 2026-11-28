@@ -2427,6 +2427,26 @@ Productivity, Research
 
 </details>
 
+## [SiteGuard AI](https://github.com/jbuddepu/siteguard-ai)
+Agentic Physical-AI platform for visual detection and autonomous incident response
+
+<details>
+
+### Category
+Security, Physical AI, Autonomous Incident Response, Multimodal
+
+### Description
+- **Core Principle**: Generative AI advises; deterministic software actuates. Keeps unconstrained LLMs away from physical tools.
+- **Agentic Orchestration**: LangGraph state graph with SQLite checkpointing and human-in-the-loop safeguards via `interrupt()`.
+- **Multimodal Perception**: Dual perception with YOLOv8/v26 object detection and Google Gemini Flash cognitive reasoning.
+- **Deterministic Policy Gateway**: Enforces physical battery (>=25%), geofence perimeters, and safety invariants with zero LLM discretion.
+- **Tested & Verified**: 39/39 passing unit and integration tests with Microsoft Research spotlighting defense against prompt injection.
+
+### Links
+- [GitHub](https://github.com/jbuddepu/siteguard-ai)
+
+</details>
+
 ## [Smol developer](https://github.com/smol-ai/developer)
 Your own junior AI developer, deployed via E2B UI
 
