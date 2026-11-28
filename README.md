@@ -2482,6 +2482,25 @@ Stackwise is a VS Code extension that writes and imports nodejs functions so tha
 
 </details>
 
+## [subagent-toolkit](https://github.com/tapiwamakandigona/subagent-toolkit)
+Minimal single-agent harness for autonomous AI work with a ~1.6k-token protocol and CI-enforced context budget
+
+<details>
+
+### Category
+Coding, Build-your-own, Tool for agents
+
+### Description
+subagent-toolkit is a minimal, MIT-licensed single-agent harness designed to keep autonomous AI workflows fast and free of context bloat.
+- Single ~1.6k-token protocol file instead of sprawling multi-agent prompt trees
+- Six evidence-gated templates and a fresh-context execution loop
+- CI-enforced context budget check on every commit
+
+### Links
+- [GitHub](https://github.com/tapiwamakandigona/subagent-toolkit)
+
+</details>
+
 ## [Superagent](https://www.superagent.sh/)</details>
 Tool that allows creating agents without coding
 
