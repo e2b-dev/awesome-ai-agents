@@ -4137,7 +4137,7 @@ Data analysis, Research, Business intelligence
 
 ### Description
 - Frank AI Researcher is a voice-first product that runs AI-moderated voice interviews with a team's own customers. Teams share an interviewer link or a website widget, then read the transcripts and themes.
-- It does not recruit participants. It can run hundreds of interviews overnight and supports 50+ interview languages. Video, WhatsApp and chat interviews are Coming soon.
+- It does not recruit participants. It can run hundreds of interviews overnight and supports 50+ interview languages.
 - MCP is included on every plan, including Free, at https://api.hifrank.ai/mcp (Streamable HTTP, OAuth).
 
 ### Links
