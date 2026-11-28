@@ -5534,6 +5534,7 @@ To [try the OpenAI Assistants with E2B](https://docs.e2b.dev/llm-platforms/opena
 <details>
 
 E2B Data Analysis sandbox [integrated into Langchain](https://python.langchain.com/docs/integrations/tools/e2b_data_analysis) allows you to:
+- [Insomnia Security Plugin & Skill](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - Claude Code / Cursor / Antigravity security plugin & MCP server delivering 160 SAST/taint, live secret validation, SCA/SBOM, Web DAST, OSINT, and 21,100+ 1-Day CVE verification tools (`https://mcp.insom.ai/mcp`, 50 free credits).
 - Run Python code
 - Generate charts via matplotlib
 - Install Python packages dynamically during runtime
