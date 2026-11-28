@@ -1854,6 +1854,24 @@ LocalGPT is an open-source initiative that allows you to converse with your docu
 </details>
 
 
+## [LongMemOS](https://longmemos.com)
+Offline-first, deterministic long-term memory OS for AI agents (single Rust binary, zero write-time LLMs, ~75 MB RAM, SHA-256 provenance)
+
+<details>
+
+### Category
+Memory, Open-source infrastructure, Agent evaluation
+
+### Description
+- [LongMemOS](https://longmemos.com) - Offline-first, deterministic long-term memory OS for AI agents (single Rust binary, zero write-time LLMs, ~75 MB RAM, SHA-256 provenance) with a public [10,957-question benchmark audit kit](https://github.com/LongmemOS/longmemos-benchmarks).
+
+### Links
+- [Website](https://longmemos.com)
+- [GitHub Audit Kit](https://github.com/LongmemOS/longmemos-benchmarks)
+- [Hugging Face Dataset](https://huggingface.co/datasets/LongmemOS/longmemos-benchmarks)
+
+</details>
+
 ## [Loop GPT](https://github.com/farizrahman4u/loopgpt/tree/main)
 Re-implementation of AutoGPT as a Python package
 
