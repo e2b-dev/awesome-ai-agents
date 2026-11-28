@@ -168,6 +168,10 @@ General purpose
 - Uses OpenAI **functions**
 - Supports gpt-3.5-16k, pinecone and pg_vector databases
 
+### Sol Next
+Open-source (Apache-2.0) System-0 autonomous Android 10–16 agent (`v0.1.0-beta`, HarmonyOS not supported) with companion research paper focused on speed and token efficiency: zero-context-bloat skill crystallization (`ΔC_prompt = 0`, `5–200 ms`, `0` tokens), two-stage Rust/Kotlin UI-tree compression (`-90.7%` first-run tokens), 2,706-line ARM64 SIMD assembly, 1:1 background VirtualDisplay, offline `390 ms` Matcha-TTS, zero embedded API keys (BYOK), and zero-dependency Rust stdio MCP server.
+[GitHub & Paper](https://github.com/chongyangzhang92-hub/Sol-Next) | [Academic Homepage](https://chongyangzhang92-hub.github.io/Sol-Next/)
+
 ### Stack
 - Frontend: NextJS + Typescript
 - Backend: FastAPI + Python
