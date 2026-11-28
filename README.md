@@ -4743,6 +4743,34 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [MindPal](https://mindpal.space)
+Turn your expertise into AI tools for your clients
+
+<details>
+
+![image](https://mindpal.space/logo/logo.png)
+
+### Category
+Build-your-own, Productivity, Multi-agent, Workflow automation
+
+### Description
+- MindPal is a no-code platform where coaches, consultants, agencies and educators turn their expertise into AI tools, chatbots and workflows for their clients, team and audience.
+- Features
+	- Agents grounded in your own frameworks, documents and methods
+	- Multi-step workflows that combine several agents
+	- Publish agents as chatbots and workflows as AI tools, opened from a link, an embed or your own domain, with white-label branding
+	- Choose GPT, Claude, Gemini and other models
+	- Read every conversation your AI tools have
+	- Start workflows from an API call
+	- Free plan
+
+### Links
+- [Web](https://mindpal.space)
+- [Docs](https://docs.mindpal.space)
+- [YouTube](https://www.youtube.com/@MindPalSpace)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
